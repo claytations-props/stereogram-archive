@@ -96,7 +96,10 @@ function eyePlane(side){ // side 0=left texture half,1=right
 const leftPlane=eyePlane(0),rightPlane=eyePlane(1);
 leftPlane.layers.set(1);rightPlane.layers.set(2);
 const pairPlane=new THREE.Mesh(new THREE.PlaneGeometry(2.2,1.1),new THREE.MeshBasicMaterial({color:0x111111}));
-pairPlane.position.set(0,1.5,-1.72);pairPlane.visible=true;scene.add(pairPlane);
+pairPlane.position.set(0,1.5,-1.66);pairPlane.visible=true;scene.add(pairPlane);
+const pairFrame=new THREE.Mesh(new THREE.PlaneGeometry(2.28,1.18),new THREE.MeshStandardMaterial({color:0x8a6f3e,roughness:.45,metalness:.65}));
+pairFrame.position.set(0,1.5,-1.68);scene.add(pairFrame);
+frame.visible=false;
 
 // caption plaque (canvas texture)
 const capCanvas=document.createElement('canvas');capCanvas.width=1024;capCanvas.height=256;
@@ -157,7 +160,8 @@ function show(idx){
     });
     const pt=tex.clone();pt.needsUpdate=true;
     pairPlane.material.map=pt;pairPlane.material.color.set(0xffffff);
-    const paspect=d.w/d.h;pairPlane.geometry.dispose();pairPlane.geometry=new THREE.PlaneGeometry(Math.min(1.1*paspect,2.3),1.1);pairPlane.material.needsUpdate=true;
+    const paspect=d.w/d.h;const pw=Math.min(1.1*paspect,2.3);pairPlane.geometry.dispose();pairPlane.geometry=new THREE.PlaneGeometry(pw,1.1);pairPlane.material.needsUpdate=true;
+    pairFrame.geometry.dispose();pairFrame.geometry=new THREE.PlaneGeometry(pw+0.08,1.18);
     frame.geometry.dispose();const fw=Math.max(W,0)+0.08;frame.geometry=new THREE.PlaneGeometry(Math.max(fw,1.0),H+0.08);
     drawCaption(d,idx);
     thumbMeshes.forEach((m,i)=>{m.scale.setScalar(i===idx?1.25:1)});
@@ -172,8 +176,8 @@ document.getElementById('randBtn').onclick=()=>show(Math.floor(Math.random()*DAT
 addEventListener('keydown',e=>{if(e.key==='ArrowRight')next();if(e.key==='ArrowLeft')prev();});
 
 // VR enter/exit: swap flat pair for true per-eye planes
-renderer.xr.addEventListener('sessionstart',()=>{pairPlane.visible=false;leftPlane.visible=true;rightPlane.visible=true;statusEl.textContent='In VR. Trigger flips to the next card, point at a plaque or thumbnail to choose.';});
-renderer.xr.addEventListener('sessionend',()=>{pairPlane.visible=true;leftPlane.visible=false;rightPlane.visible=false;});
+renderer.xr.addEventListener('sessionstart',()=>{pairPlane.visible=false;pairFrame.visible=false;frame.visible=true;leftPlane.visible=true;rightPlane.visible=true;statusEl.textContent='In VR. Trigger flips to the next card, point at a plaque or thumbnail to choose.';});
+renderer.xr.addEventListener('sessionend',()=>{pairPlane.visible=true;pairFrame.visible=true;frame.visible=false;leftPlane.visible=false;rightPlane.visible=false;});
 
 // controllers + ray picking
 const ray=new THREE.Raycaster();const tmpM=new THREE.Matrix4();
