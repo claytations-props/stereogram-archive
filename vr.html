@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The VR Parlor — Stereograph Archive</title>
+<meta name="description" content="A WebXR parlor for viewing public domain vintage stereographs in true stereo. Built for VR browsers like Meta Quest Browser and Vision Pro Safari.">
+<style>
+:root{--bg:#0b0a08;--panel:#161410;--line:#2c2820;--text:#ece5d8;--dim:#a89c86;--brass:#c9a86a}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,sans-serif;overflow:hidden}
+#app{position:fixed;inset:0}
+canvas{display:block}
+#ui{position:fixed;inset:0;pointer-events:none;display:flex;flex-direction:column;justify-content:space-between;padding:18px;z-index:10}
+.top{max-width:560px;background:rgba(11,10,8,.78);border:1px solid var(--line);border-radius:14px;padding:16px 18px;backdrop-filter:blur(6px);pointer-events:auto}
+.kicker{letter-spacing:.3em;text-transform:uppercase;font-size:10px;color:var(--brass);font-weight:700}
+h1{font-family:Georgia,serif;font-size:26px;margin:6px 0}
+.top p{color:var(--dim);font-size:13.5px;line-height:1.55}
+.top b{color:var(--text)}
+#status{margin-top:8px;font-size:12.5px;color:var(--brass)}
+.bottom{display:flex;gap:10px;align-items:flex-end;justify-content:space-between;flex-wrap:wrap}
+.cardinfo{background:rgba(11,10,8,.78);border:1px solid var(--line);border-radius:14px;padding:12px 16px;max-width:460px;backdrop-filter:blur(6px)}
+.cardinfo h2{font-family:Georgia,serif;font-size:19px}
+.cardinfo div{color:var(--dim);font-size:12.5px;margin-top:3px}
+.controls{display:flex;gap:8px;pointer-events:auto}
+button{background:#1e1b16;border:1px solid var(--line);color:var(--text);border-radius:999px;padding:11px 18px;font-size:14px;font-weight:600;cursor:pointer}
+button:hover{border-color:var(--brass);color:#e8c987}
+button.gold{background:var(--brass);color:#191510;border-color:var(--brass)}
+a{color:var(--brass)}
+#nourl{font-size:12px;color:var(--dim);margin-top:6px}
+</style>
+<script type="importmap">{"imports":{"three":"https://unpkg.com/three@0.160.0/build/three.module.js","three/addons/":"https://unpkg.com/three@0.160.0/examples/jsm/"}}</script>
+</head>
+<body>
+<div id="app"></div>
+<div id="ui">
+  <div class="top">
+    <div class="kicker">The Stereograph Archive</div>
+    <h1>🥽 The VR Parlor</h1>
+    <p>Put on your headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, so the depth just works. <b>Trigger</b> or tap a plaque to flip cards, point at the thumbnails below to jump, and on a flat screen just drag to look around.</p>
+    <div id="status">Loading the parlor…</div>
+  </div>
+  <div class="bottom">
+    <div class="cardinfo"><h2 id="ciTitle"></h2><div id="ciMeta"></div><div><a href="index.html">← Back to the flat gallery</a></div></div>
+    <div class="controls">
+      <button id="prevBtn">‹ Prev</button>
+      <button id="randBtn">🎲 Random</button>
+      <button id="nextBtn">Next ›</button>
+    </div>
+  </div>
+</div>
+
+<script type="module">
+import * as THREE from 'three';
+import { VRButton } from 'three/addons/webxr/VRButton.js';
+const DATA=[{"t": "American Falls, Niagara", "p": "Niagara Falls, New York", "y": "c. 1865", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Niagara_Falls._%28American_Falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Niagara_Falls._%28American_Falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "w": 2583, "h": 1270}, {"t": "Table Rock, Niagara Falls", "p": "Niagara Falls, Ontario", "y": "1859\u20131885", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Table_Rock%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Table_Rock%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "w": 2604, "h": 1300}, {"t": "Suspension Bridge & Clifton House", "p": "Niagara Falls", "y": "1868\u20131889", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Suspension_Bridge%2C_and_Clifton_House%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Suspension_Bridge%2C_and_Clifton_House%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "w": 2634, "h": 1336}, {"t": "Upper Yosemite Falls", "p": "Yosemite Valley, California", "y": "c. 1900\u20131925", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Upper_Yosemite_Falls%2C_Yosemite_Valley%2C_Calif%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Upper_Yosemite_Falls%2C_Yosemite_Valley%2C_Calif%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "w": 2737, "h": 1433}, {"t": "Three Brothers", "p": "Yosemite, California", "y": "c. 1870\u20131885", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Three_Brothers%2C_Yosemite%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Three_Brothers%2C_Yosemite%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "w": 2737, "h": 1443}, {"t": "The Grand Canyon", "p": "Arizona", "y": "Date uncertain, 1800s\u20131920s", "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Grand_Canyon%2C_Arizona%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "w": 760, "h": 396}, {"t": "Golden Gate Canyon", "p": "Yellowstone, Wyoming", "y": "c. 1890", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Golden_Gate%2C_Yellowstone_National_Park%2C_by_International_Stereoscopic_View_Company.jpg/1920px-Golden_Gate%2C_Yellowstone_National_Park%2C_by_International_Stereoscopic_View_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "w": 2737, "h": 1397}, {"t": "Lower Falls of the Yellowstone", "p": "Yellowstone, Wyoming", "y": "c. 1870", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/The_Grand_Falls%2C_Yellowstone_River%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Grand_Falls%2C_Yellowstone_River%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "w": 2737, "h": 1415}, {"t": "A View in Central Park", "p": "New York City", "y": "c. 1865\u20131905", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/View_in_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_in_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "w": 2627, "h": 1295}, {"t": "Town Hall, Center Harbor", "p": "New Hampshire", "y": "Undated", "img": "https://upload.wikimedia.org/wikipedia/commons/1/13/%28Town_Hall%2C_Center_Harbor%2C_New_Hampshire%29_%28LOC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "w": 1024, "h": 524}, {"t": "The Genius of America", "p": "Washington, D.C.", "y": "1859\u20131905", "img": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_Genius_of_America%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "w": 760, "h": 384}, {"t": "Cog Railway Summit", "p": "Mount Washington, New Hampshire", "y": "c. 1860\u20131903", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Mount_Washington_Railway%2C_on_the_Summit_of_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Mount_Washington_Railway%2C_on_the_Summit_of_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "w": 2737, "h": 1419}, {"t": "Deck of the USS Monitor", "p": "James River, Virginia", "y": "1862", "img": "https://upload.wikimedia.org/wikipedia/commons/b/b7/James_River%2C_Va._Deck_and_turret_of_U.S.S._Monitor_LOC_5597835373.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "w": 1024, "h": 426}, {"t": "Parapet of Fort Sumter", "p": "Charleston, South Carolina", "y": "1865", "img": "https://upload.wikimedia.org/wikipedia/commons/7/73/Parapet%2C_Fort_Sumter_LOC_6056605761.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "w": 640, "h": 315}, {"t": "Civil War Block House", "p": "Virginia (attributed)", "y": "c. 1860\u20131865", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Block_house_-_NARA_-_527545.jpg/1920px-Block_house_-_NARA_-_527545.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "w": 3000, "h": 1905}, {"t": "Damascus Gate", "p": "Jerusalem", "y": "1898\u20131934", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/The_Damascus_Gate%2C_Jerusalem_LOC_matpc.04876.jpg/1920px-The_Damascus_Gate%2C_Jerusalem_LOC_matpc.04876.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "w": 5385, "h": 3196}, {"t": "The Crystal Palace", "p": "Sydenham, London", "y": "1850s", "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Stereoscopic_Illustrations_of_the_Crystal_Palace%2C_at_Sydenham._%2820852018793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "w": 1000, "h": 518}, {"t": "Guanajuato", "p": "Guanajuato, Mexico", "y": "1920", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Stereograph_of_Guanajuato_%28Keystone_View_Company%29.jpg/1920px-Stereograph_of_Guanajuato_%28Keystone_View_Company%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "w": 8001, "h": 4498}, {"t": "Martinsburg Castle", "p": "Oberlahnstein, Germany", "y": "1840s", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Martinsburg_%28Oberlahnstein%29_-_Early_Calotype_Stereograph_View_-_DP75388.jpg/1920px-Martinsburg_%28Oberlahnstein%29_-_Early_Calotype_Stereograph_View_-_DP75388.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "w": 3979, "h": 2021}, {"t": "Eva, Milan Cathedral", "p": "Milan, Italy", "y": "1800s", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Eva_%28Duomo_di_Milano%29%2C_by_Giorgio_Sommer_%28Getty_1078V7%29.jpg/1920px-Eva_%28Duomo_di_Milano%29%2C_by_Giorgio_Sommer_%28Getty_1078V7%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "w": 6523, "h": 3305}, {"t": "An Irish Wake", "p": "United States", "y": "1894", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Irish_wake_stereoscopic_photograph.jpg/1920px-Irish_wake_stereoscopic_photograph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "w": 8405, "h": 4128}, {"t": "How Biddy Served Tomatoes", "p": "United States", "y": "1897", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/How_Biddy_served_Tomatoes_UNDRESSED.jpg/1920px-How_Biddy_served_Tomatoes_UNDRESSED.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "w": 2054, "h": 1037}, {"t": "Street Performance", "p": "United States", "y": "Undated", "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/%28Men_and_child_at_a_street_performance%29_%28LOC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "w": 1024, "h": 503}, {"t": "The Bandstand", "p": "United States", "y": "Undated", "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/%28Bandstands_music_venue%29_%28LOC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "w": 1024, "h": 531}, {"t": "A Gas Balloon", "p": "United States", "y": "1850s", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/-Stereograph_View_of_a_Gas_Balloon-_MET_DP74755.jpg/1920px--Stereograph_View_of_a_Gas_Balloon-_MET_DP74755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "w": 4000, "h": 2025}, {"t": "The Full Moon in Stereo", "p": "Yerkes Observatory, Wisconsin", "y": "Undated", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/16648_-_The_Full_Moon%2C_Yerkes_Observatory.jpg/1920px-16648_-_The_Full_Moon%2C_Yerkes_Observatory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "w": 3256, "h": 1612}, {"t": "Antarctic Iceberg", "p": "Cape Roberts, Antarctica", "y": "1911", "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Iceberg%2C_showing_curved_snow_bands%2C_Cape_Roberts%2C_%281911%29_%286173967298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "w": 1024, "h": 417}, {"t": "Stairway on the Rock", "p": "United States", "y": "Undated", "img": "https://upload.wikimedia.org/wikipedia/commons/6/64/%28Stairway_on_side_of_rock%29_%28LOC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "w": 1024, "h": 528}, {"t": "Castle by the Pond", "p": "Europe (unidentified)", "y": "Undated", "img": "https://upload.wikimedia.org/wikipedia/commons/7/7f/%28Tree%2C_pond%2C_castle%2C_and_conical_tower%29_%28LOC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "w": 1024, "h": 520}, {"t": "Dirt Road and Arch", "p": "United States", "y": "Undated", "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/%28Dirt_road_and_arch%29_%28LOC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "w": 1024, "h": 529}];
+const statusEl=document.getElementById('status');
+const scene=new THREE.Scene();
+scene.background=new THREE.Color(0x070605);
+scene.fog=new THREE.Fog(0x070605,6,16);
+const camera=new THREE.PerspectiveCamera(68,innerWidth/innerHeight,0.05,100);
+camera.position.set(0,1.55,0.4);
+camera.layers.enableAll();
+const renderer=new THREE.WebGLRenderer({antialias:true,powerPreference:'high-performance'});
+renderer.setPixelRatio(Math.min(devicePixelRatio,2));
+renderer.setSize(innerWidth,innerHeight);
+renderer.xr.enabled=true;
+renderer.xr.setReferenceSpaceType('local-floor');
+document.getElementById('app').appendChild(renderer.domElement);
+const vrBtn=VRButton.createButton(renderer);
+vrBtn.classList.add('gold');vrBtn.style.cssText+=';position:static;font-size:14px;padding:12px 22px;border-radius:999px;pointer-events:auto;font-weight:700';
+document.querySelector('.controls').prepend(vrBtn);
+
+scene.add(new THREE.AmbientLight(0xffe8c0,0.55));
+const warm=new THREE.PointLight(0xffc37a,18,12,1.8);warm.position.set(0,2.6,1.2);scene.add(warm);
+const rim=new THREE.PointLight(0x88aaff,5,10,2);rim.position.set(-2.5,1.8,-2);scene.add(rim);
+
+// floor: big dark disc + brass ring
+const floor=new THREE.Mesh(new THREE.CircleGeometry(5.5,48),new THREE.MeshStandardMaterial({color:0x14110c,roughness:.95}));
+floor.rotation.x=-Math.PI/2;scene.add(floor);
+const ring=new THREE.Mesh(new THREE.RingGeometry(1.55,1.6,64),new THREE.MeshBasicMaterial({color:0xc9a86a,side:THREE.DoubleSide}));
+ring.rotation.x=-Math.PI/2;ring.position.y=0.002;scene.add(ring);
+// dust motes
+{const n=260,pos=new Float32Array(n*3);for(let i=0;i<n;i++){pos[i*3]=(Math.random()-.5)*7;pos[i*3+1]=Math.random()*3.2+.2;pos[i*3+2]=(Math.random()-.5)*7}
+const g=new THREE.BufferGeometry();g.setAttribute('position',new THREE.BufferAttribute(pos,3));
+window._dust=new THREE.Points(g,new THREE.PointsMaterial({color:0xd8bd85,size:.014,transparent:true,opacity:.55}));scene.add(window._dust);}
+
+// stage group
+const stage=new THREE.Group();stage.position.set(0,1.5,-1.7);scene.add(stage);
+const frame=new THREE.Mesh(new THREE.PlaneGeometry(1.42,1.3),new THREE.MeshStandardMaterial({color:0x8a6f3e,roughness:.45,metalness:.65}));
+frame.position.z=-0.015;stage.add(frame);
+function eyePlane(side){ // side 0=left texture half,1=right
+  const m=new THREE.Mesh(new THREE.PlaneGeometry(1.34,1.22),new THREE.MeshBasicMaterial({color:0x111111}));
+  m.visible=false;stage.add(m);return m;
+}
+const leftPlane=eyePlane(0),rightPlane=eyePlane(1);
+leftPlane.layers.set(1);rightPlane.layers.set(2);
+const pairPlane=new THREE.Mesh(new THREE.PlaneGeometry(2.2,1.1),new THREE.MeshBasicMaterial({color:0x111111}));
+pairPlane.position.set(0,1.5,-1.72);pairPlane.visible=true;scene.add(pairPlane);
+
+// caption plaque (canvas texture)
+const capCanvas=document.createElement('canvas');capCanvas.width=1024;capCanvas.height=256;
+const capTex=new THREE.CanvasTexture(capCanvas);
+const plaque=new THREE.Mesh(new THREE.PlaneGeometry(1.5,.375),new THREE.MeshBasicMaterial({map:capTex}));
+plaque.position.set(0,0.68,-1.65);plaque.rotation.x=-0.12;scene.add(plaque);
+function drawCaption(d,idx){
+  const c=capCanvas.getContext('2d');
+  c.fillStyle='#171410';c.fillRect(0,0,1024,256);
+  c.strokeStyle='#c9a86a';c.lineWidth=6;c.strokeRect(10,10,1004,236);
+  c.fillStyle='#ece5d8';c.textAlign='center';c.font='700 54px Georgia,serif';
+  c.fillText(d.t,512,100,960);
+  c.fillStyle='#a89c86';c.font='36px system-ui,sans-serif';
+  c.fillText(d.p+'  ·  '+d.y,512,160,960);
+  c.fillStyle='#c9a86a';c.font='600 30px system-ui,sans-serif';
+  c.fillText('Card '+(idx+1)+' of '+DATA.length,512,214);
+  capTex.needsUpdate=true;
+  document.getElementById('ciTitle').textContent=d.t;
+  document.getElementById('ciMeta').textContent=d.p+' · '+d.y+' · Card '+(idx+1)+' of '+DATA.length;
+}
+function textPlaque(text,w=0.34){
+  const cv=document.createElement('canvas');cv.width=256;cv.height=256;const c=cv.getContext('2d');
+  c.fillStyle='#1e1b16';c.fillRect(0,0,256,256);c.strokeStyle='#c9a86a';c.lineWidth=8;c.strokeRect(8,8,240,240);
+  c.fillStyle='#ece5d8';c.font='700 120px Georgia,serif';c.textAlign='center';c.textBaseline='middle';c.fillText(text,128,138);
+  const t=new THREE.CanvasTexture(cv);
+  const m=new THREE.Mesh(new THREE.PlaneGeometry(w,w),new THREE.MeshBasicMaterial({map:t,transparent:false}));
+  m.layers.enableAll();return m;
+}
+const prevMesh=textPlaque('‹');prevMesh.position.set(-1.05,1.5,-1.6);prevMesh.userData.act='prev';scene.add(prevMesh);
+const nextMesh=textPlaque('›');nextMesh.position.set(1.05,1.5,-1.6);nextMesh.userData.act='next';scene.add(nextMesh);
+
+// thumbnail arc
+const thumbs=new THREE.Group();scene.add(thumbs);
+const loader=new THREE.TextureLoader();loader.setCrossOrigin('anonymous');
+const thumbMeshes=[];
+DATA.forEach((d,i)=>{
+  const ang=(i/(DATA.length-1)-0.5)*2.2; // arc spread
+  const r=3.1,x=Math.sin(ang)*r,z=-Math.cos(ang)*r+0.4;
+  const m=new THREE.Mesh(new THREE.PlaneGeometry(.52,.27),new THREE.MeshBasicMaterial({color:0x22201c}));
+  m.position.set(x,0.92,z);m.lookAt(0,1.1,0.4);m.userData.act='jump';m.userData.idx=i;m.layers.enableAll();
+  thumbs.add(m);thumbMeshes.push(m);
+  loader.load(d.img,t=>{t.colorSpace=THREE.SRGBColorSpace;t.anisotropy=4;m.material.map=t;m.material.color.set(0xffffff);m.material.needsUpdate=true;});
+});
+
+// main card loading
+let cur=-1,busy=false;
+const texLoader=new THREE.TextureLoader();texLoader.setCrossOrigin('anonymous');
+function show(idx){
+  idx=(idx+DATA.length)%DATA.length;if(idx===cur||busy)return;busy=true;cur=idx;
+  const d=DATA[idx];
+  statusEl.textContent='Loading card: '+d.t+'…';
+  texLoader.load(d.img,tex=>{
+    tex.colorSpace=THREE.SRGBColorSpace;tex.anisotropy=8;
+    const aspect=(d.w/2)/d.h; const H=1.22,W=Math.min(H*aspect,1.34);
+    [leftPlane,rightPlane].forEach((pl,i)=>{
+      const t=tex.clone();t.needsUpdate=true;t.wrapS=THREE.ClampToEdgeWrapping;t.repeat.x=0.5;t.offset.x=i*0.5;
+      pl.material.map=t;pl.material.color.set(0xffffff);pl.geometry.dispose();pl.geometry=new THREE.PlaneGeometry(W,H);pl.material.needsUpdate=true;
+    });
+    const pt=tex.clone();pt.needsUpdate=true;
+    pairPlane.material.map=pt;pairPlane.material.color.set(0xffffff);
+    const paspect=d.w/d.h;pairPlane.geometry.dispose();pairPlane.geometry=new THREE.PlaneGeometry(Math.min(1.1*paspect,2.3),1.1);pairPlane.material.needsUpdate=true;
+    frame.geometry.dispose();const fw=Math.max(W,0)+0.08;frame.geometry=new THREE.PlaneGeometry(Math.max(fw,1.0),H+0.08);
+    drawCaption(d,idx);
+    thumbMeshes.forEach((m,i)=>{m.scale.setScalar(i===idx?1.25:1)});
+    statusEl.textContent=navigator.xr?'Ready. Press Enter VR in your headset browser.':'Ready. Drag to look around, arrow keys flip cards.';
+    busy=false;
+  },undefined,()=>{statusEl.textContent='That card failed to load, skipping…';busy=false;setTimeout(()=>show(idx+1),400);});
+}
+const next=()=>show(cur+1),prev=()=>show(cur-1);
+document.getElementById('nextBtn').onclick=next;
+document.getElementById('prevBtn').onclick=prev;
+document.getElementById('randBtn').onclick=()=>show(Math.floor(Math.random()*DATA.length));
+addEventListener('keydown',e=>{if(e.key==='ArrowRight')next();if(e.key==='ArrowLeft')prev();});
+
+// VR enter/exit: swap flat pair for true per-eye planes
+renderer.xr.addEventListener('sessionstart',()=>{pairPlane.visible=false;leftPlane.visible=true;rightPlane.visible=true;statusEl.textContent='In VR. Trigger flips to the next card, point at a plaque or thumbnail to choose.';});
+renderer.xr.addEventListener('sessionend',()=>{pairPlane.visible=true;leftPlane.visible=false;rightPlane.visible=false;});
+
+// controllers + ray picking
+const ray=new THREE.Raycaster();const tmpM=new THREE.Matrix4();
+function pick(controller){
+  tmpM.identity().extractRotation(controller.matrixWorld);
+  ray.ray.origin.setFromMatrixPosition(controller.matrixWorld);
+  ray.ray.direction.set(0,0,-1).applyMatrix4(tmpM);
+  const hits=ray.intersectObjects([prevMesh,nextMesh,...thumbMeshes],false);
+  if(hits.length){const o=hits[0].object;if(o.userData.act==='next')return next();if(o.userData.act==='prev')return prev();if(o.userData.act==='jump')return show(o.userData.idx);}
+  next(); // trigger anywhere else = next card, simple on purpose
+}
+[0,1].forEach(i=>{
+  const ctl=renderer.xr.getController(i);
+  ctl.addEventListener('selectstart',()=>pick(ctl));
+  ctl.addEventListener('squeezestart',()=>prev());
+  scene.add(ctl);
+  const line=new THREE.Line(new THREE.BufferGeometry().setFromPoints([new THREE.Vector3(0,0,0),new THREE.Vector3(0,0,-3)]),new THREE.LineBasicMaterial({color:0xc9a86a,transparent:true,opacity:.5}));
+  line.layers.enableAll();ctl.add(line);
+});
+
+// flat-screen look around: drag to orbit camera slightly
+let yaw=0,pitch=0,drag=false,lx=0,ly=0;
+addEventListener('pointerdown',e=>{if(e.target.closest('button,a,.top'))return;drag=true;lx=e.clientX;ly=e.clientY});
+addEventListener('pointermove',e=>{if(!drag)return;yaw-=(e.clientX-lx)*0.0022;pitch-=(e.clientY-ly)*0.0016;pitch=Math.max(-0.5,Math.min(0.5,pitch));lx=e.clientX;ly=e.clientY});
+addEventListener('pointerup',()=>drag=false);
+addEventListener('click',e=>{ /* flat click on canvas plaques */
+  if(renderer.xr.isPresenting||e.target.closest('button,a,.top,.cardinfo'))return;
+});
+
+addEventListener('resize',()=>{camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix();renderer.setSize(innerWidth,innerHeight)});
+show(0);
+renderer.setAnimationLoop(t=>{
+  camera.rotation.set(pitch,yaw,0,'YXZ');
+  if(window._dust)window._dust.rotation.y=t*0.000012;
+  const s=1+Math.sin(t*0.0012)*0.006;stage.scale.setScalar(s);
+  renderer.render(scene,camera);
+});
+if(!('xr' in navigator))statusEl.textContent='This browser has no WebXR, so no VR button. The parlor still works flat here, and in a Quest or Vision Pro browser you will get the full VR version.';
+</script>
+</body>
+</html>
