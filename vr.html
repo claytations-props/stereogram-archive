@@ -37,7 +37,7 @@ a{color:var(--brass)}
   <div class="top">
     <div class="kicker">The Stereograph Archive</div>
     <h1>🥽 The VR Parlor</h1>
-    <p>Put on your headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, so the depth just works. <b>Trigger</b> or tap a plaque to flip cards, point at the thumbnails below to jump, and on a flat screen just drag to look around.</p>
+    <p>Put on your headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, so the depth just works. Each card auto aligns itself and tucks its depth behind the frame as it loads. <b>Trigger</b> or tap a plaque to flip cards, point at the thumbnails below to jump, and on a flat screen just drag to look around.</p>
     <div id="status">Loading the parlor…</div>
   </div>
   <div class="bottom">
@@ -94,6 +94,16 @@ function eyePlane(side){ // side 0=left texture half,1=right
   m.visible=false;stage.add(m);return m;
 }
 const leftPlane=eyePlane(0),rightPlane=eyePlane(1);
+// brass border bars sitting just IN FRONT of the photo: a real floating window edge
+const frameBars=new THREE.Group();frameBars.visible=false;stage.add(frameBars);
+const barMat=new THREE.MeshStandardMaterial({color:0x8a6f3e,roughness:.45,metalness:.65});
+const bars={};
+['top','bottom','left','right'].forEach(k=>{const m=new THREE.Mesh(new THREE.PlaneGeometry(1,1),barMat);m.position.z=0.006;frameBars.add(m);bars[k]=m;});
+function layoutFrame(W,H){const b=0.05;
+  bars.top.scale.set(W+2*b,b,1);bars.top.position.y=H/2+b/2;
+  bars.bottom.scale.set(W+2*b,b,1);bars.bottom.position.y=-H/2-b/2;
+  bars.left.scale.set(b,H,1);bars.left.position.x=-W/2-b/2;
+  bars.right.scale.set(b,H,1);bars.right.position.x=W/2+b/2;}
 leftPlane.layers.set(1);rightPlane.layers.set(2);
 const pairPlane=new THREE.Mesh(new THREE.PlaneGeometry(2.2,1.1),new THREE.MeshBasicMaterial({color:0x111111}));
 pairPlane.position.set(0,1.5,-1.66);pairPlane.visible=true;scene.add(pairPlane);
@@ -144,6 +154,58 @@ DATA.forEach((d,i)=>{
   loader.load(d.img,t=>{t.colorSpace=THREE.SRGBColorSpace;t.anisotropy=4;m.material.map=t;m.material.color.set(0xffffff);m.material.needsUpdate=true;});
 });
 
+// --- auto alignment: measure each card's own vertical offset and nearest-point
+// disparity from its pixels, then correct with texture offsets (never mesh moves).
+// Vertical: cross-correlate the two halves' horizontal-edge row profiles (robust,
+// validated). Horizontal: only high-confidence textured patches are trusted;
+// otherwise a gentle fixed window push is used. Fallbacks everywhere.
+const alignCache={};
+const maxAniso=Math.min(16,renderer.capabilities.getMaxAnisotropy());
+function analyzeImage(img){
+  try{
+    const AW=768,AH=Math.max(50,Math.round(AW*img.naturalHeight/img.naturalWidth)),half=AW/2;
+    const cv=document.createElement('canvas');cv.width=AW;cv.height=AH;
+    const cx=cv.getContext('2d',{willReadFrequently:true});
+    cx.drawImage(img,0,0,AW,AH);
+    const px=cx.getImageData(0,0,AW,AH).data;
+    const g=new Float32Array(AW*AH);
+    for(let i=0,j=0;i<px.length;i+=4,j++)g[j]=px[i]*0.299+px[i+1]*0.587+px[i+2]*0.114;
+    const prof=x0=>{const pr=new Float32Array(AH-1);for(let y=0;y<AH-1;y++){let sm=0;for(let x=x0;x<x0+half;x++)sm+=Math.abs(g[(y+1)*AW+x]-g[y*AW+x]);pr[y]=sm/half;}return pr;};
+    const pL=prof(0),pR=prof(half);
+    let dy=0,bestC=-2;
+    for(let k=-12;k<=12;k++){
+      let a,b; if(k>=0){a=pL.subarray(0,AH-1-k);b=pR.subarray(k);}else{a=pL.subarray(-k);b=pR.subarray(0,AH-1+k);}
+      if(a.length<40)continue;
+      let ma=0,mb=0;for(let i=0;i<a.length;i++){ma+=a[i];mb+=b[i];}ma/=a.length;mb/=b.length;
+      let num=0,da=0,db=0;for(let i=0;i<a.length;i++){const u=a[i]-ma,v=b[i]-mb;num+=u*v;da+=u*u;db+=v*v;}
+      const c=num/Math.sqrt(da*db+1e-9); if(c>bestC){bestC=c;dy=k;}
+    }
+    if(bestC<0.5)dy=0;
+    const dyFrac=Math.max(-0.03,Math.min(0.03,dy/AH));
+    const pw=40,ph=26,disps=[];
+    for(let gy=0;gy<5;gy++)for(let gx=0;gx<8;gx++){
+      const x0=Math.round(10+gx*(half-20-pw)/7),y0=Math.round(8+gy*(AH-16-ph)/4);
+      let mean=0;for(let y=0;y<ph;y++)for(let x=0;x<pw;x++)mean+=g[(y0+y)*AW+x0+x];mean/=pw*ph;
+      let varr=0,gxE=0,gyE=0;
+      for(let y=0;y<ph;y++)for(let x=0;x<pw;x++){const v=g[(y0+y)*AW+x0+x];varr+=(v-mean)*(v-mean);if(x<pw-1)gxE+=Math.abs(g[(y0+y)*AW+x0+x+1]-v);if(y<ph-1)gyE+=Math.abs(g[(y0+y+1)*AW+x0+x]-v);}
+      if(Math.sqrt(varr/(pw*ph))<8||gxE/(pw*ph)<2||gyE/(pw*ph)<2)continue;
+      let bs=-2,bx=0,second=-2;
+      for(let dx=-34;dx<=34;dx++){
+        const rx=x0+dx,ry=y0+dy; if(rx<0||ry<0||rx+pw>half||ry+ph>AH)continue;
+        let qm=0;for(let y=0;y<ph;y++)for(let x=0;x<pw;x++)qm+=g[(ry+y)*AW+half+rx+x];qm/=pw*ph;
+        let num=0,dp=0,dq=0;
+        for(let y=0;y<ph;y++)for(let x=0;x<pw;x++){const u=g[(y0+y)*AW+x0+x]-mean,v=g[(ry+y)*AW+half+rx+x]-qm;num+=u*v;dp+=u*u;dq+=v*v;}
+        const c=num/Math.sqrt(dp*dq+1e-9);
+        if(c>bs){second=bs;bs=c;bx=dx;}else if(Math.abs(dx-bx)>3&&c>second){second=c;}
+      }
+      if(bs>0.5&&bs-second>0.05)disps.push(bx/half);
+    }
+    let shift=0.012;
+    if(disps.length>=5){disps.sort((a,b)=>a-b);const near=disps[Math.floor(disps.length*0.1)];shift=Math.max(0.012,Math.min(0.06,0.004-near));}
+    return {dyFrac,dyPx:dy,shift};
+  }catch(e){return null;}
+}
+
 // main card loading
 let cur=-1,busy=false;
 const texLoader=new THREE.TextureLoader();texLoader.setCrossOrigin('anonymous');
@@ -153,19 +215,25 @@ function show(idx){
   statusEl.textContent='Loading card: '+d.t+'…';
   texLoader.load(d.img,tex=>{
     tex.colorSpace=THREE.SRGBColorSpace;tex.anisotropy=8;
-    const aspect=(d.w/2)/d.h; const H=1.0,W=Math.min(H*aspect,1.12);
+    const al=alignCache[idx]!==undefined?alignCache[idx]:(alignCache[idx]=analyzeImage(tex.image));
+    const aspect=(d.w*0.492)/(d.h*0.99);
+    let W=1.02,H=W/aspect; if(H>1.0){H=1.0;W=H*aspect;}
+    const winS=al?al.shift:0.012, dyF=al?al.dyFrac:0;
     [leftPlane,rightPlane].forEach((pl,i)=>{
-      const t=tex.clone();t.needsUpdate=true;t.wrapS=THREE.ClampToEdgeWrapping;t.repeat.x=0.5;t.offset.x=i*0.5;
+      const t=tex.clone();t.needsUpdate=true;t.wrapS=THREE.ClampToEdgeWrapping;t.wrapT=THREE.ClampToEdgeWrapping;
+      t.minFilter=THREE.LinearMipmapLinearFilter;t.anisotropy=maxAniso;
+      t.repeat.set(0.492,0.99);
+      if(i===0)t.offset.set(0.004+winS*0.492/2,0.005+dyF/2); else t.offset.set(0.504-winS*0.492/2,0.005-dyF/2);
       pl.material.map=t;pl.material.color.set(0xffffff);pl.geometry.dispose();pl.geometry=new THREE.PlaneGeometry(W,H);pl.material.needsUpdate=true;
     });
+    layoutFrame(W,H);
     const pt=tex.clone();pt.needsUpdate=true;
     pairPlane.material.map=pt;pairPlane.material.color.set(0xffffff);
     const paspect=d.w/d.h;const pw=Math.min(1.1*paspect,2.3);pairPlane.geometry.dispose();pairPlane.geometry=new THREE.PlaneGeometry(pw,1.1);pairPlane.material.needsUpdate=true;
     pairFrame.geometry.dispose();pairFrame.geometry=new THREE.PlaneGeometry(pw+0.08,1.18);
-    frame.geometry.dispose();const fw=Math.max(W,0)+0.08;frame.geometry=new THREE.PlaneGeometry(Math.max(fw,1.0),H+0.08);
     drawCaption(d,idx);
     thumbMeshes.forEach((m,i)=>{m.scale.setScalar(i===idx?1.25:1)});
-    statusEl.textContent=navigator.xr?'Ready. Press Enter VR in your headset browser.':'Ready. Drag to look around, arrow keys flip cards.';
+    statusEl.textContent=al?('Aligned on load: vertical fix '+(al.dyPx>0?'+':'')+al.dyPx+' px, depth tucked behind the frame. '+(navigator.xr?'Press Enter VR when ready.':'')):('Ready. '+(navigator.xr?'Press Enter VR in your headset browser.':'Drag to look around, arrow keys flip cards.'));
     busy=false;
   },undefined,()=>{statusEl.textContent='That card failed to load, skipping…';busy=false;setTimeout(()=>show(idx+1),400);});
 }
@@ -176,8 +244,8 @@ document.getElementById('randBtn').onclick=()=>show(Math.floor(Math.random()*DAT
 addEventListener('keydown',e=>{if(e.key==='ArrowRight')next();if(e.key==='ArrowLeft')prev();});
 
 // VR enter/exit: swap flat pair for true per-eye planes
-renderer.xr.addEventListener('sessionstart',()=>{pairPlane.visible=false;pairFrame.visible=false;frame.visible=true;leftPlane.visible=true;rightPlane.visible=true;statusEl.textContent='In VR. Trigger flips to the next card, point at a plaque or thumbnail to choose.';});
-renderer.xr.addEventListener('sessionend',()=>{pairPlane.visible=true;pairFrame.visible=true;frame.visible=false;leftPlane.visible=false;rightPlane.visible=false;});
+renderer.xr.addEventListener('sessionstart',()=>{pairPlane.visible=false;pairFrame.visible=false;frameBars.visible=true;leftPlane.visible=true;rightPlane.visible=true;statusEl.textContent='In VR. Trigger flips to the next card, point at a plaque or thumbnail to choose.';});
+renderer.xr.addEventListener('sessionend',()=>{pairPlane.visible=true;pairFrame.visible=true;frameBars.visible=false;leftPlane.visible=false;rightPlane.visible=false;});
 
 // controllers + ray picking
 const ray=new THREE.Raycaster();const tmpM=new THREE.Matrix4();
@@ -212,7 +280,6 @@ show(0);
 renderer.setAnimationLoop(t=>{
   camera.rotation.set(pitch,yaw,0,'YXZ');
   if(window._dust)window._dust.rotation.y=t*0.000012;
-  const s=1+Math.sin(t*0.0012)*0.006;stage.scale.setScalar(s);
   renderer.render(scene,camera);
 });
 if(!('xr' in navigator))statusEl.textContent='This browser has no WebXR, so no VR button. The parlor still works flat here, and in a Quest or Vision Pro browser you will get the full VR version.';
