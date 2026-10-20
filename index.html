@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Stereograph Archive — Vintage 3D Photographs</title>
+<meta name="description" content="A dark gallery of public domain vintage stereograph photographs. View them as pairs, cross-eyed, as wigglegrams, or in red/cyan anaglyph.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0b0a08;--panel:#161410;--panel2:#1e1b16;--line:#2c2820;--text:#ece5d8;--dim:#a89c86;--brass:#c9a86a;--brass2:#e8c987;--red:#ff5a4e;--cyan:#4ee6e6}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:Inter,system-ui,sans-serif;min-height:100vh}
+body::before{content:"";position:fixed;inset:0;background:radial-gradient(900px 500px at 50% -10%,rgba(201,168,106,.14),transparent 60%);pointer-events:none}
+header{text-align:center;padding:44px 18px 10px;position:relative}
+.kicker{letter-spacing:.35em;text-transform:uppercase;font-size:11px;color:var(--brass);font-weight:600}
+h1{font-family:"Playfair Display",Georgia,serif;font-size:clamp(34px,6vw,58px);font-weight:700;margin:10px 0 8px}
+.sub{color:var(--dim);max-width:640px;margin:0 auto;font-size:15px;line-height:1.55}
+.sub b{color:var(--text)}
+.toolbar{position:sticky;top:0;z-index:20;background:rgba(11,10,8,.92);backdrop-filter:blur(8px);border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:26px;padding:12px 16px}
+.trow{max-width:1180px;margin:0 auto;display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+input[type=search]{flex:1 1 200px;background:var(--panel2);border:1px solid var(--line);color:var(--text);border-radius:999px;padding:10px 16px;font-size:14px;outline:none}
+input[type=search]:focus{border-color:var(--brass)}
+select{background:var(--panel2);border:1px solid var(--line);color:var(--text);border-radius:999px;padding:10px 12px;font-size:13px;outline:none}
+.btn{background:var(--panel2);border:1px solid var(--line);color:var(--text);border-radius:999px;padding:10px 16px;font-size:13px;font-weight:600;cursor:pointer}
+.btn:hover{border-color:var(--brass);color:var(--brass2)}
+.btn.gold{background:var(--brass);color:#191510;border-color:var(--brass)}
+.btn.gold:hover{background:var(--brass2);color:#191510}
+.chips{max-width:1180px;margin:10px auto 0;display:flex;flex-wrap:wrap;gap:8px}
+.chip{border:1px solid var(--line);background:transparent;color:var(--dim);border-radius:999px;padding:7px 14px;font-size:13px;cursor:pointer;font-weight:500}
+.chip:hover{color:var(--text);border-color:var(--brass)}
+.chip.on{background:var(--brass);border-color:var(--brass);color:#191510;font-weight:600}
+main{max-width:1180px;margin:0 auto;padding:22px 16px 10px;position:relative}
+.count{color:var(--dim);font-size:13px;margin-bottom:14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:18px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;overflow:hidden;cursor:pointer;transition:transform .18s,border-color .18s,box-shadow .18s}
+.card:hover{transform:translateY(-4px);border-color:var(--brass);box-shadow:0 14px 34px rgba(0,0,0,.5)}
+.card .ph{aspect-ratio:2/1;overflow:hidden;background:#000}
+.card img{width:100%;height:100%;object-fit:cover;display:block;filter:sepia(.18) contrast(1.03);transition:transform .35s}
+.card:hover img{transform:scale(1.045)}
+.card .cb{padding:13px 15px 14px}
+.card h3{font-family:"Playfair Display",Georgia,serif;font-size:18px;line-height:1.25}
+.card .meta{color:var(--dim);font-size:12.5px;margin-top:5px}
+.card .tags{margin-top:9px;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.tag{font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--brass);border:1px solid var(--line);padding:3px 8px;border-radius:999px}
+.fav{margin-left:auto;background:none;border:none;font-size:17px;cursor:pointer;color:#5c5546;padding:2px}
+.fav.on{color:var(--brass2)}
+.empty{text-align:center;color:var(--dim);padding:60px 20px;font-size:15px}
+.how{max-width:1180px;margin:26px auto 0;padding:0 16px}
+.howbox{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:20px 22px}
+.howbox h2{font-family:"Playfair Display",Georgia,serif;font-size:22px;margin-bottom:8px}
+.howbox p{color:var(--dim);font-size:14px;line-height:1.65}
+.howbox b{color:var(--text)}
+footer{max-width:1180px;margin:0 auto;padding:28px 16px 44px;color:var(--dim);font-size:12.5px;line-height:1.7}
+footer a{color:var(--brass)}
+/* viewer */
+.viewer{position:fixed;inset:0;background:rgba(5,4,3,.97);z-index:50;display:none;flex-direction:column}
+.viewer.open{display:flex}
+.vtop{display:flex;align-items:center;gap:12px;padding:14px 18px;border-bottom:1px solid var(--line);flex-wrap:wrap}
+.vtop h2{font-family:"Playfair Display",Georgia,serif;font-size:clamp(19px,3vw,27px);flex:1;min-width:200px}
+.vtop .meta{color:var(--dim);font-size:13px;width:100%}
+.modes{display:flex;gap:8px;flex-wrap:wrap;padding:12px 18px 0;justify-content:center}
+.mode{border:1px solid var(--line);background:var(--panel2);color:var(--dim);border-radius:999px;padding:8px 16px;font-size:13px;font-weight:600;cursor:pointer}
+.mode.on{background:var(--brass);color:#191510;border-color:var(--brass)}
+.stage{flex:1;display:flex;align-items:center;justify-content:center;padding:18px;min-height:0}
+.stage img.pair{max-width:min(1100px,96vw);max-height:100%;border-radius:8px;box-shadow:0 20px 60px rgba(0,0,0,.7)}
+.split{display:none;gap:14px;align-items:center;justify-content:center;width:100%}
+.split.show{display:flex}
+.eye{background-repeat:no-repeat;background-size:200% 100%;border-radius:8px;box-shadow:0 20px 60px rgba(0,0,0,.7);width:min(520px,46vw);aspect-ratio:1/.98;max-height:72vh}
+.wigwrap{display:none;text-align:center}
+.wigwrap.show{display:block}
+.wig{background-repeat:no-repeat;background-size:200% 100%;border-radius:8px;box-shadow:0 20px 60px rgba(0,0,0,.7);width:min(560px,92vw);aspect-ratio:1/.98;max-height:70vh;margin:0 auto}
+.wigctl{margin-top:12px;color:var(--dim);font-size:13px;display:flex;gap:10px;justify-content:center;align-items:center}
+canvas#ana{display:none;max-width:min(620px,94vw);max-height:74vh;border-radius:8px;box-shadow:0 20px 60px rgba(0,0,0,.7)}
+canvas#ana.show{display:block}
+.vbot{padding:6px 18px 18px;max-width:900px;margin:0 auto;text-align:center}
+.vbot p{color:var(--dim);font-size:14px;line-height:1.6}
+.vbot a{color:var(--brass)}
+.navbtn{position:absolute;top:50%;transform:translateY(-50%);background:rgba(30,27,22,.9);border:1px solid var(--line);color:var(--text);width:46px;height:46px;border-radius:50%;font-size:20px;cursor:pointer;z-index:5}
+.navbtn:hover{border-color:var(--brass);color:var(--brass2)}
+#prevB{left:14px}#nextB{right:14px}
+.xbtn{background:var(--panel2);border:1px solid var(--line);color:var(--text);border-radius:999px;padding:9px 16px;cursor:pointer;font-weight:600}
+.xbtn:hover{border-color:var(--brass)}
+.loading{color:var(--dim);font-size:14px}
+@media(max-width:640px){.eye{width:47vw}.navbtn{width:40px;height:40px}}
+</style>
+</head>
+<body>
+<header>
+<div class="kicker">Public Domain &middot; 1840s — 1920s</div>
+<h1>The Stereograph Archive</h1>
+<p class="sub">Before movies, before radio, families saw the world in 3D from two photographs on a card. These are <b>30 real stereographs</b> from public domain collections. Open one and view it the old ways, or the new ones: <b>wiggle it</b>, cross your eyes, or grab red and cyan glasses.</p>
+</header>
+
+<div class="toolbar">
+  <div class="trow">
+    <input type="search" id="q" placeholder="Search falls, castles, war, the Moon...">
+    <select id="era"><option value="all">All eras</option><option value="early">1840s–1860s</option><option value="mid">1870s–1890s</option><option value="late">1900s–1920s</option><option value="undated">Undated</option></select>
+    <select id="sort"><option value="featured">Sort: Featured</option><option value="old">Oldest first</option><option value="new">Newest first</option><option value="az">Title A–Z</option><option value="shuffle">Shuffle</option></select>
+    <button class="btn gold" id="surprise">🎲 Surprise me</button>
+    <button class="btn" id="howBtn">How to view</button>
+  </div>
+  <div class="chips" id="chips"></div>
+</div>
+
+<main>
+<div class="count" id="count"></div>
+<div class="grid" id="grid"></div>
+<div class="empty" id="empty" style="display:none">Nothing matches that. Try clearing the search, these photographs are old but they are not hiding.</div>
+</main>
+
+<div class="how" id="how" style="display:none">
+  <div class="howbox">
+    <h2>How to see the 3D</h2>
+    <p><b>Pair:</b> the card as it was sold. In a real stereoscope each eye got one half. &nbsp;<b>Parallel:</b> relax your eyes like you are looking through the screen until the two halves merge into a third image in the middle. &nbsp;<b>Cross-eye:</b> gently cross your eyes until the halves overlap, best for some people and works big on a screen. &nbsp;<b>Wiggle:</b> no eye tricks needed, the card flickers between left and right and your brain reads the depth anyway. &nbsp;<b>Anaglyph:</b> wear red/cyan glasses, red on the left eye. Alignment is approximate because these old cards were never perfectly trimmed.</p>
+  </div>
+</div>
+
+<footer>
+All photographs are public domain or CC0, via Wikimedia Commons, from collections including the Robert N. Dennis Collection of Stereoscopic Views (NYPL), the Library of Congress, the Met Open Access, the National Archives, and the Getty Open Content program. Each photograph links to its source page. Built as a toy archive for browsing, no tracking, favorites live only in your browser.
+</footer>
+
+<div class="viewer" id="viewer" role="dialog" aria-modal="true">
+  <div class="vtop">
+    <h2 id="vTitle"></h2>
+    <button class="xbtn" id="vFav">♡ Save</button>
+    <button class="xbtn" id="vClose">✕ Close</button>
+    <div class="meta" id="vMeta"></div>
+  </div>
+  <div class="modes" id="modes">
+    <button class="mode on" data-m="pair">Original Pair</button>
+    <button class="mode" data-m="parallel">Parallel View</button>
+    <button class="mode" data-m="cross">Cross-Eye</button>
+    <button class="mode" data-m="wiggle">Wiggle</button>
+    <button class="mode" data-m="anaglyph">Anaglyph 🔴🔵</button>
+  </div>
+  <div class="stage" style="position:relative">
+    <button class="navbtn" id="prevB">‹</button>
+    <img class="pair" id="vImg" alt="">
+    <div class="split" id="vSplit"><div class="eye" id="eyeL"></div><div class="eye" id="eyeR"></div></div>
+    <div class="wigwrap" id="vWig"><div class="wig" id="wigEl"></div><div class="wigctl"><label>Wiggle speed <input type="range" id="wigSpeed" min="60" max="500" value="170" step="10"></label></div></div>
+    <canvas id="ana" width="600" height="600"></canvas>
+    <div class="loading" id="vLoad" style="display:none">Building the 3D view…</div>
+    <button class="navbtn" id="nextB">›</button>
+  </div>
+  <div class="vbot"><p id="vBlurb"></p><p style="margin-top:8px"><a id="vSource" href="#" target="_blank" rel="noopener">View source on Wikimedia Commons</a> &middot; <span id="vLic"></span> &middot; <a id="vFull" href="#" target="_blank" rel="noopener">Full resolution</a></p></div>
+</div>
+
+<script>
+const DATA=[{"title": "American Falls, Niagara", "place": "Niagara Falls, New York", "year": "c. 1865", "sy": 1865, "era": "early", "cats": ["water"], "blurb": "Tourists in stiff collars stared at the same falls we do. This early Dennis view catches the American Falls before the souvenir shops took over.", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Niagara_Falls._%28American_Falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Niagara_Falls._%28American_Falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "full": "https://upload.wikimedia.org/wikipedia/commons/5/59/Niagara_Falls._%28American_Falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:Niagara_Falls._(American_Falls.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg", "license": "Public domain", "w": 2583, "h": 1270}, {"title": "Table Rock, Niagara Falls", "place": "Niagara Falls, Ontario", "year": "1859\u20131885", "sy": 1872, "era": "mid", "cats": ["water"], "blurb": "Table Rock was a broad limestone ledge hanging over the gorge. It crumbled away in pieces and is long gone, so this is the only way to stand on it now.", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Table_Rock%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Table_Rock%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "full": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Table_Rock%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:Table_Rock,_Niagara_Falls,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg", "license": "Public domain", "w": 2604, "h": 1300}, {"title": "Suspension Bridge & Clifton House", "place": "Niagara Falls", "year": "1868\u20131889", "sy": 1878, "era": "mid", "cats": ["water", "cities"], "blurb": "The great suspension bridge with the Clifton House behind it. Cross the pair with your eyes and the river gorge drops away underneath.", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Suspension_Bridge%2C_and_Clifton_House%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Suspension_Bridge%2C_and_Clifton_House%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "full": "https://upload.wikimedia.org/wikipedia/commons/5/52/Suspension_Bridge%2C_and_Clifton_House%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:Suspension_Bridge,_and_Clifton_House,_Niagara_Falls,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg", "license": "Public domain", "w": 2634, "h": 1336}, {"title": "Upper Yosemite Falls", "place": "Yosemite Valley, California", "year": "c. 1900\u20131925", "sy": 1910, "era": "late", "cats": ["water", "mountains"], "blurb": "Yosemite Falls dropping through the valley. Stereo cards like this were how most Americans first saw Yosemite at all, on a parlor table.", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Upper_Yosemite_Falls%2C_Yosemite_Valley%2C_Calif%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Upper_Yosemite_Falls%2C_Yosemite_Valley%2C_Calif%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "full": "https://upload.wikimedia.org/wikipedia/commons/f/fb/The_Upper_Yosemite_Falls%2C_Yosemite_Valley%2C_Calif%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:The_Upper_Yosemite_Falls,_Yosemite_Valley,_Calif,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg", "license": "Public domain", "w": 2737, "h": 1433}, {"title": "Three Brothers", "place": "Yosemite, California", "year": "c. 1870\u20131885", "sy": 1878, "era": "mid", "cats": ["mountains"], "blurb": "Three granite peaks lined up over the Merced River. One of the most sold Yosemite views of the 1870s.", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Three_Brothers%2C_Yosemite%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Three_Brothers%2C_Yosemite%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Three_Brothers%2C_Yosemite%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:Three_Brothers,_Yosemite,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg", "license": "Public domain", "w": 2737, "h": 1443}, {"title": "The Grand Canyon", "place": "Arizona", "year": "Date uncertain, 1800s\u20131920s", "sy": 1900, "era": "undated", "cats": ["mountains"], "blurb": "Nobody could quite believe the Canyon was real until views like this circulated. In stereo, the far rim finally looks as far as it is.", "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Grand_Canyon%2C_Arizona%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "full": "https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Grand_Canyon%2C_Arizona%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:The_Grand_Canyon,_Arizona,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg", "license": "Public domain", "w": 760, "h": 396}, {"title": "Golden Gate Canyon", "place": "Yellowstone, Wyoming", "year": "c. 1890", "sy": 1890, "era": "mid", "cats": ["mountains"], "blurb": "The Golden Gate pass in Yellowstone, with the old wooden trestle road clinging to the cliff. Brave wagon drivers only.", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Golden_Gate%2C_Yellowstone_National_Park%2C_by_International_Stereoscopic_View_Company.jpg/1920px-Golden_Gate%2C_Yellowstone_National_Park%2C_by_International_Stereoscopic_View_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "full": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Golden_Gate%2C_Yellowstone_National_Park%2C_by_International_Stereoscopic_View_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:Golden_Gate,_Yellowstone_National_Park,_by_International_Stereoscopic_View_Company.jpg", "license": "Public domain", "w": 2737, "h": 1397}, {"title": "Lower Falls of the Yellowstone", "place": "Yellowstone, Wyoming", "year": "c. 1870", "sy": 1870, "era": "mid", "cats": ["water", "mountains"], "blurb": "The Grand Falls of the Yellowstone River, photographed when the park was brand new. The canyon walls are the yellow stone that named the place.", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/The_Grand_Falls%2C_Yellowstone_River%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Grand_Falls%2C_Yellowstone_River%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "full": "https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Grand_Falls%2C_Yellowstone_River%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:The_Grand_Falls,_Yellowstone_River,_Yellowstone_National_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg", "license": "Public domain", "w": 2737, "h": 1415}, {"title": "A View in Central Park", "place": "New York City", "year": "c. 1865\u20131905", "sy": 1885, "era": "mid", "cats": ["cities"], "blurb": "Central Park when it was still new landscaping instead of old landmark. The park was designed to look natural, and stereo views sold the illusion.", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/View_in_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_in_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "full": "https://upload.wikimedia.org/wikipedia/commons/8/8f/View_in_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:View_in_Central_Park,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg", "license": "Public domain", "w": 2627, "h": 1295}, {"title": "Town Hall, Center Harbor", "place": "New Hampshire", "year": "Undated", "sy": 1900, "era": "undated", "cats": ["cities"], "blurb": "A small town New Hampshire scene from the Library of Congress cards. Quiet street, big sky, not a car in sight, because there basically were not any yet.", "img": "https://upload.wikimedia.org/wikipedia/commons/1/13/%28Town_Hall%2C_Center_Harbor%2C_New_Hampshire%29_%28LOC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "full": "https://upload.wikimedia.org/wikipedia/commons/1/13/%28Town_Hall%2C_Center_Harbor%2C_New_Hampshire%29_%28LOC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:(Town_Hall,_Center_Harbor,_New_Hampshire)_(LOC).jpg", "license": "No restrictions", "w": 1024, "h": 524}, {"title": "The Genius of America", "place": "Washington, D.C.", "year": "1859\u20131905", "sy": 1882, "era": "mid", "cats": ["cities", "oddities"], "blurb": "The Genius of America pediment over the Capitol. A sculpture group most people never look up at, sold here as a parlor view.", "img": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_Genius_of_America%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "full": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_Genius_of_America%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:The_Genius_of_America,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg", "license": "Public domain", "w": 760, "h": 384}, {"title": "Cog Railway Summit", "place": "Mount Washington, New Hampshire", "year": "c. 1860\u20131903", "sy": 1882, "era": "mid", "cats": ["mountains"], "blurb": "The Mount Washington Cog Railway at the summit. The little train still climbs this mountain today, on much the same route.", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Mount_Washington_Railway%2C_on_the_Summit_of_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Mount_Washington_Railway%2C_on_the_Summit_of_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "full": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mount_Washington_Railway%2C_on_the_Summit_of_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:Mount_Washington_Railway,_on_the_Summit_of_Mount_Washington,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg", "license": "Public domain", "w": 2737, "h": 1419}, {"title": "Deck of the USS Monitor", "place": "James River, Virginia", "year": "1862", "sy": 1862, "era": "early", "cats": ["war"], "blurb": "The deck and turret of the Monitor, July 1862, months after its famous duel with the Virginia. The future of warships, sitting almost flat on the water.", "img": "https://upload.wikimedia.org/wikipedia/commons/b/b7/James_River%2C_Va._Deck_and_turret_of_U.S.S._Monitor_LOC_5597835373.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "full": "https://upload.wikimedia.org/wikipedia/commons/b/b7/James_River%2C_Va._Deck_and_turret_of_U.S.S._Monitor_LOC_5597835373.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:James_River,_Va._Deck_and_turret_of_U.S.S._Monitor_LOC_5597835373.jpg", "license": "No restrictions", "w": 1024, "h": 426}, {"title": "Parapet of Fort Sumter", "place": "Charleston, South Carolina", "year": "1865", "sy": 1865, "era": "early", "cats": ["war"], "blurb": "Inside battered Fort Sumter at the end of the Civil War, where the war began four years earlier. The guns and rubble tell the story.", "img": "https://upload.wikimedia.org/wikipedia/commons/7/73/Parapet%2C_Fort_Sumter_LOC_6056605761.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "full": "https://upload.wikimedia.org/wikipedia/commons/7/73/Parapet%2C_Fort_Sumter_LOC_6056605761.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:Parapet,_Fort_Sumter_LOC_6056605761.jpg", "license": "No restrictions", "w": 640, "h": 315}, {"title": "Civil War Block House", "place": "Virginia (attributed)", "year": "c. 1860\u20131865", "sy": 1862, "era": "early", "cats": ["war"], "blurb": "A log block house guarding a railroad line, from the National Archives. Built fast, built rough, and photographed before it rotted away.", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Block_house_-_NARA_-_527545.jpg/1920px-Block_house_-_NARA_-_527545.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "full": "https://upload.wikimedia.org/wikipedia/commons/9/93/Block_house_-_NARA_-_527545.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:Block_house_-_NARA_-_527545.jpg", "license": "Public domain", "w": 3000, "h": 1905}, {"title": "Damascus Gate", "place": "Jerusalem", "year": "1898\u20131934", "sy": 1915, "era": "late", "cats": ["world"], "blurb": "The Damascus Gate in Jerusalem, from the Library of Congress photochrom era mats. Crowds have passed through this gate for centuries.", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/The_Damascus_Gate%2C_Jerusalem_LOC_matpc.04876.jpg/1920px-The_Damascus_Gate%2C_Jerusalem_LOC_matpc.04876.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "full": "https://upload.wikimedia.org/wikipedia/commons/5/55/The_Damascus_Gate%2C_Jerusalem_LOC_matpc.04876.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:The_Damascus_Gate,_Jerusalem_LOC_matpc.04876.jpg", "license": "Public domain", "w": 5385, "h": 3196}, {"title": "The Crystal Palace", "place": "Sydenham, London", "year": "1850s", "sy": 1855, "era": "early", "cats": ["world"], "blurb": "The Crystal Palace rebuilt at Sydenham after the Great Exhibition. Glass, iron, and pure Victorian confidence. It burned down in 1936.", "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Stereoscopic_Illustrations_of_the_Crystal_Palace%2C_at_Sydenham._%2820852018793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "full": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Stereoscopic_Illustrations_of_the_Crystal_Palace%2C_at_Sydenham._%2820852018793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:Stereoscopic_Illustrations_of_the_Crystal_Palace,_at_Sydenham._(20852018793).jpg", "license": "No restrictions", "w": 1000, "h": 518}, {"title": "Guanajuato", "place": "Guanajuato, Mexico", "year": "1920", "sy": 1920, "era": "late", "cats": ["world", "cities"], "blurb": "A Keystone View Company card of Guanajuato, Mexico, 1920. Keystone was the biggest stereo card maker in the world by then.", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Stereograph_of_Guanajuato_%28Keystone_View_Company%29.jpg/1920px-Stereograph_of_Guanajuato_%28Keystone_View_Company%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "full": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Stereograph_of_Guanajuato_%28Keystone_View_Company%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:Stereograph_of_Guanajuato_(Keystone_View_Company).jpg", "license": "Public domain", "w": 8001, "h": 4498}, {"title": "Martinsburg Castle", "place": "Oberlahnstein, Germany", "year": "1840s", "sy": 1845, "era": "early", "cats": ["world"], "blurb": "One of the earliest stereo photographs in the whole archive, an 1840s calotype of Martinsburg castle on the Rhine. The process was barely invented.", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Martinsburg_%28Oberlahnstein%29_-_Early_Calotype_Stereograph_View_-_DP75388.jpg/1920px-Martinsburg_%28Oberlahnstein%29_-_Early_Calotype_Stereograph_View_-_DP75388.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "full": "https://upload.wikimedia.org/wikipedia/commons/2/21/Martinsburg_%28Oberlahnstein%29_-_Early_Calotype_Stereograph_View_-_DP75388.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:Martinsburg_(Oberlahnstein)_-_Early_Calotype_Stereograph_View_-_DP75388.jpg", "license": "Public domain", "w": 3979, "h": 2021}, {"title": "Eva, Milan Cathedral", "place": "Milan, Italy", "year": "1800s", "sy": 1875, "era": "undated", "cats": ["world"], "blurb": "A statue on the roof of Milan Cathedral, photographed by Giorgio Sommer, one of Italy's great early commercial photographers.", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Eva_%28Duomo_di_Milano%29%2C_by_Giorgio_Sommer_%28Getty_1078V7%29.jpg/1920px-Eva_%28Duomo_di_Milano%29%2C_by_Giorgio_Sommer_%28Getty_1078V7%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "full": "https://upload.wikimedia.org/wikipedia/commons/9/96/Eva_%28Duomo_di_Milano%29%2C_by_Giorgio_Sommer_%28Getty_1078V7%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:Eva_(Duomo_di_Milano),_by_Giorgio_Sommer_(Getty_1078V7).jpg", "license": "Public domain", "w": 6523, "h": 3305}, {"title": "An Irish Wake", "place": "United States", "year": "1894", "sy": 1894, "era": "mid", "cats": ["people"], "blurb": "A staged comic sorrow scene of an Irish wake, 1894. These acted out story cards were the sitcoms of the stereo era, sold in sets.", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Irish_wake_stereoscopic_photograph.jpg/1920px-Irish_wake_stereoscopic_photograph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "full": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Irish_wake_stereoscopic_photograph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:Irish_wake_stereoscopic_photograph.jpg", "license": "Public domain", "w": 8405, "h": 4128}, {"title": "How Biddy Served Tomatoes", "place": "United States", "year": "1897", "sy": 1897, "era": "mid", "cats": ["people"], "blurb": "A one joke comic card from 1897. Biddy serves the tomatoes undressed, meaning the tomatoes. Mostly. These puns paid for a lot of photographers' dinners.", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/How_Biddy_served_Tomatoes_UNDRESSED.jpg/1920px-How_Biddy_served_Tomatoes_UNDRESSED.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "full": "https://upload.wikimedia.org/wikipedia/commons/d/d8/How_Biddy_served_Tomatoes_UNDRESSED.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:How_Biddy_served_Tomatoes_UNDRESSED.jpg", "license": "Public domain", "w": 2054, "h": 1037}, {"title": "Street Performance", "place": "United States", "year": "Undated", "sy": 1900, "era": "undated", "cats": ["people"], "blurb": "A man and child watching a street performer, from the Library of Congress cards. Free entertainment, 100 years before phones.", "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/%28Men_and_child_at_a_street_performance%29_%28LOC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "full": "https://upload.wikimedia.org/wikipedia/commons/9/9b/%28Men_and_child_at_a_street_performance%29_%28LOC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:(Men_and_child_at_a_street_performance)_(LOC).jpg", "license": "No restrictions", "w": 1024, "h": 503}, {"title": "The Bandstand", "place": "United States", "year": "Undated", "sy": 1900, "era": "undated", "cats": ["people", "cities"], "blurb": "A park bandstand in its Sunday best era, when every town had a band and every band had a stand.", "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/%28Bandstands_music_venue%29_%28LOC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "full": "https://upload.wikimedia.org/wikipedia/commons/6/6d/%28Bandstands_music_venue%29_%28LOC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:(Bandstands_music_venue)_(LOC).jpg", "license": "No restrictions", "w": 1024, "h": 531}, {"title": "A Gas Balloon", "place": "United States", "year": "1850s", "sy": 1855, "era": "early", "cats": ["oddities"], "blurb": "A gas balloon in the 1850s, when ballooning was part science, part daredevil act. An early calotype era stereo view from the Met.", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/-Stereograph_View_of_a_Gas_Balloon-_MET_DP74755.jpg/1920px--Stereograph_View_of_a_Gas_Balloon-_MET_DP74755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "full": "https://upload.wikimedia.org/wikipedia/commons/c/c6/-Stereograph_View_of_a_Gas_Balloon-_MET_DP74755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:-Stereograph_View_of_a_Gas_Balloon-_MET_DP74755.jpg", "license": "CC0", "w": 4000, "h": 2025}, {"title": "The Full Moon in Stereo", "place": "Yerkes Observatory, Wisconsin", "year": "Undated", "sy": 1905, "era": "undated", "cats": ["oddities"], "blurb": "Yes, the Moon works in stereo too. Two exposures taken hours apart let the Moon's wobble fake a pair of eyes impossibly far apart.", "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/16648_-_The_Full_Moon%2C_Yerkes_Observatory.jpg/1920px-16648_-_The_Full_Moon%2C_Yerkes_Observatory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "full": "https://upload.wikimedia.org/wikipedia/commons/8/85/16648_-_The_Full_Moon%2C_Yerkes_Observatory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:16648_-_The_Full_Moon,_Yerkes_Observatory.jpg", "license": "No restrictions", "w": 3256, "h": 1612}, {"title": "Antarctic Iceberg", "place": "Cape Roberts, Antarctica", "year": "1911", "sy": 1911, "era": "late", "cats": ["oddities", "water"], "blurb": "An iceberg at Cape Roberts in 1911, from the heroic age of Antarctic exploration. Those curved bands are seasons of snow, bent by the ice.", "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Iceberg%2C_showing_curved_snow_bands%2C_Cape_Roberts%2C_%281911%29_%286173967298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "full": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Iceberg%2C_showing_curved_snow_bands%2C_Cape_Roberts%2C_%281911%29_%286173967298%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:Iceberg,_showing_curved_snow_bands,_Cape_Roberts,_(1911)_(6173967298).jpg", "license": "No restrictions", "w": 1024, "h": 417}, {"title": "Stairway on the Rock", "place": "United States", "year": "Undated", "sy": 1900, "era": "undated", "cats": ["mountains", "oddities"], "blurb": "Somebody built a stairway up the side of a rock, and somebody else thought it was worth a stereo card. They were both right.", "img": "https://upload.wikimedia.org/wikipedia/commons/6/64/%28Stairway_on_side_of_rock%29_%28LOC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "full": "https://upload.wikimedia.org/wikipedia/commons/6/64/%28Stairway_on_side_of_rock%29_%28LOC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:(Stairway_on_side_of_rock)_(LOC).jpg", "license": "No restrictions", "w": 1024, "h": 528}, {"title": "Castle by the Pond", "place": "Europe (unidentified)", "year": "Undated", "sy": 1900, "era": "undated", "cats": ["world"], "blurb": "A tree, a pond, and a castle with a conical tower. The Library of Congress never recorded exactly where, so enjoy the mystery.", "img": "https://upload.wikimedia.org/wikipedia/commons/7/7f/%28Tree%2C_pond%2C_castle%2C_and_conical_tower%29_%28LOC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/%28Tree%2C_pond%2C_castle%2C_and_conical_tower%29_%28LOC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:(Tree,_pond,_castle,_and_conical_tower)_(LOC).jpg", "license": "No restrictions", "w": 1024, "h": 520}, {"title": "Dirt Road and Arch", "place": "United States", "year": "Undated", "sy": 1900, "era": "undated", "cats": ["cities"], "blurb": "A dirt road passing under an arch, from the LOC cards. Ordinary places got stereo cards too, and sometimes those age the best.", "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/%28Dirt_road_and_arch%29_%28LOC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "full": "https://upload.wikimedia.org/wikipedia/commons/7/7a/%28Dirt_road_and_arch%29_%28LOC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original", "source": "https://commons.wikimedia.org/wiki/File:(Dirt_road_and_arch)_(LOC).jpg", "license": "No restrictions", "w": 1024, "h": 529}];
+const CATS=[["all","All"],["water","Falls & Rivers"],["mountains","Mountains & Canyons"],["cities","Cities & Towns"],["war","Civil War"],["world","Around the World"],["people","People & Comedy"],["oddities","Oddities"],["favs","♥ Saved"]];
+const CATLABEL=Object.fromEntries(CATS);
+let state={cat:"all",era:"all",q:"",sort:"featured"};
+let favs=new Set(JSON.parse(localStorage.getItem("stereoFavs")||"[]"));
+const $=s=>document.querySelector(s);
+const chips=$("#chips");
+CATS.forEach(([k,l])=>{const b=document.createElement("button");b.className="chip"+(k==="all"?" on":"");b.textContent=l;b.onclick=()=>{state.cat=k;document.querySelectorAll(".chip").forEach(c=>c.classList.remove("on"));b.classList.add("on");render()};chips.appendChild(b)});
+function filtered(){
+ let a=DATA.filter(d=>{
+   if(state.cat==="favs"&&!favs.has(d.title))return false;
+   if(state.cat!=="all"&&state.cat!=="favs"&&!d.cats.includes(state.cat))return false;
+   if(state.era!=="all"&&d.era!==state.era)return false;
+   if(state.q){const hay=(d.title+" "+d.place+" "+d.year+" "+d.blurb+" "+d.cats.map(c=>CATLABEL[c]||c).join(" ")).toLowerCase();if(!hay.includes(state.q))return false}
+   return true});
+ if(state.sort==="old")a.sort((x,y)=>x.sy-y.sy);
+ if(state.sort==="new")a.sort((x,y)=>y.sy-x.sy);
+ if(state.sort==="az")a.sort((x,y)=>x.title.localeCompare(y.title));
+ if(state.sort==="shuffle")a.sort(()=>Math.random()-.5);
+ return a;
+}
+let currentList=[];
+function render(){
+ currentList=filtered();
+ const g=$("#grid");g.innerHTML="";
+ $("#count").textContent="Showing "+currentList.length+" of "+DATA.length+" stereographs";
+ $("#empty").style.display=currentList.length?"none":"block";
+ currentList.forEach((d,i)=>{
+  const c=document.createElement("div");c.className="card";
+  c.innerHTML=`<div class="ph"><img loading="lazy" src="${d.img}" alt="${d.title} stereograph"></div><div class="cb"><h3>${d.title}</h3><div class="meta">${d.place} &middot; ${d.year}</div><div class="tags">${d.cats.map(t=>`<span class="tag">${CATLABEL[t]||t}</span>`).join("")}<button class="fav ${favs.has(d.title)?"on":""}" title="Save">${favs.has(d.title)?"♥":"♡"}</button></div></div>`;
+  c.querySelector(".fav").onclick=e=>{e.stopPropagation();toggleFav(d.title);render()};
+  c.onclick=()=>openViewer(i);
+  g.appendChild(c);
+ });
+}
+function toggleFav(t){favs.has(t)?favs.delete(t):favs.add(t);localStorage.setItem("stereoFavs",JSON.stringify([...favs]));syncFavBtn()}
+$("#q").oninput=e=>{state.q=e.target.value.trim().toLowerCase();render()};
+$("#era").onchange=e=>{state.era=e.target.value;render()};
+$("#sort").onchange=e=>{state.sort=e.target.value;render()};
+$("#howBtn").onclick=()=>{const h=$("#how");h.style.display=h.style.display==="none"?"block":"none";h.scrollIntoView({behavior:"smooth"})};
+$("#surprise").onclick=()=>{currentList=DATA.slice();openViewer(Math.floor(Math.random()*DATA.length),true)};
+
+/* viewer */
+let vi=0,mode="pair",wigTimer=null,wigSide=false;
+function cur(){return currentList[vi]}
+function openViewer(i,fromAll){
+ if(fromAll){vi=i;currentList=DATA.slice()}else{vi=i}
+ const d=cur();if(!d)return;
+ $("#viewer").classList.add("open");document.body.style.overflow="hidden";
+ fillViewer();setMode("pair");
+}
+function fillViewer(){
+ const d=cur();
+ $("#vTitle").textContent=d.title;
+ $("#vMeta").textContent=d.place+" · "+d.year+" · "+(CATLABEL[d.cats[0]]||"");
+ $("#vBlurb").textContent=d.blurb;
+ $("#vSource").href=d.source;$("#vFull").href=d.full;
+ $("#vLic").textContent="License: "+d.license;
+ $("#vImg").src=d.img;$("#vImg").alt=d.title+" stereograph pair";
+ syncFavBtn();
+}
+function syncFavBtn(){const d=cur();if(!d)return;const b=$("#vFav");const on=favs.has(d.title);b.textContent=on?"♥ Saved":"♡ Save"}
+$("#vFav").onclick=()=>{toggleFav(cur().title);render()};
+function stopWig(){if(wigTimer){clearInterval(wigTimer);wigTimer=null}}
+function setMode(m){
+ mode=m;stopWig();
+ document.querySelectorAll(".mode").forEach(b=>b.classList.toggle("on",b.dataset.m===m));
+ const d=cur();
+ $("#vImg").style.display=m==="pair"?"block":"none";
+ $("#vSplit").classList.toggle("show",m==="parallel"||m==="cross");
+ $("#vWig").classList.toggle("show",m==="wiggle");
+ $("#ana").classList.remove("show");$("#vLoad").style.display="none";
+ if(m==="parallel"||m==="cross"){
+   const L=m==="parallel"?"0% 0":"100% 0",R=m==="parallel"?"100% 0":"0% 0";
+   const el=$("#eyeL"),er=$("#eyeR");
+   el.style.backgroundImage=`url("${d.img}")`;el.style.backgroundPosition=L;
+   er.style.backgroundImage=`url("${d.img}")`;er.style.backgroundPosition=R;
+ }
+ if(m==="wiggle"){
+   const w=$("#wigEl");w.style.backgroundImage=`url("${d.img}")`;
+   const spd=()=>{stopWig();wigTimer=setInterval(()=>{wigSide=!wigSide;w.style.backgroundPosition=wigSide?"100% 0":"0% 0"},+$("#wigSpeed").value)};
+   $("#wigSpeed").oninput=spd;w.style.backgroundPosition="0% 0";spd();
+ }
+ if(m==="anaglyph")buildAnaglyph(d);
+}
+function buildAnaglyph(d){
+ const load=$("#vLoad");load.style.display="block";
+ const img=new Image();img.crossOrigin="anonymous";img.src=d.img;
+ img.onload=()=>{
+  try{
+   const hw=Math.floor(img.naturalWidth/2),h=img.naturalHeight;
+   const off=document.createElement("canvas");off.width=img.naturalWidth;off.height=h;
+   off.getContext("2d").drawImage(img,0,0);
+   const src=off.getContext("2d").getImageData(0,0,img.naturalWidth,h).data;
+   const cv=$("#ana");cv.width=hw;cv.height=h;const ctx=cv.getContext("2d");
+   const out=ctx.createImageData(hw,h);
+   for(let y=0;y<h;y++)for(let x=0;x<hw;x++){
+     const li=((y*img.naturalWidth)+x)*4,ri=((y*img.naturalWidth)+x+hw)*4,oi=((y*hw)+x)*4;
+     const ll=(src[li]*.299+src[li+1]*.587+src[li+2]*.114),rl=(src[ri]*.299+src[ri+1]*.587+src[ri+2]*.114);
+     out.data[oi]=ll;out.data[oi+1]=rl;out.data[oi+2]=rl;out.data[oi+3]=255;
+   }
+   ctx.putImageData(out,0,0);load.style.display="none";cv.classList.add("show");
+  }catch(e){load.textContent="Anaglyph blocked for this image, try Wiggle instead."}
+ };
+ img.onerror=()=>{load.textContent="Could not load this image for anaglyph, try Wiggle instead."};
+}
+document.querySelectorAll(".mode").forEach(b=>b.onclick=()=>setMode(b.dataset.m));
+function step(n){vi=(vi+n+currentList.length)%currentList.length;fillViewer();setMode(mode)}
+$("#prevB").onclick=()=>step(-1);$("#nextB").onclick=()=>step(1);
+function closeViewer(){$("#viewer").classList.remove("open");document.body.style.overflow="";stopWig()}
+$("#vClose").onclick=closeViewer;
+document.addEventListener("keydown",e=>{if(!$("#viewer").classList.contains("open"))return;if(e.key==="Escape")closeViewer();if(e.key==="ArrowRight")step(1);if(e.key==="ArrowLeft")step(-1)});
+render();
+</script>
+</body>
+</html>
