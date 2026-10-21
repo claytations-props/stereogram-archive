@@ -26,7 +26,7 @@ h1{font-family:Georgia,serif;font-size:19px;margin:4px 0}
 .cardinfo{background:rgba(11,10,8,.78);border:1px solid var(--line);border-radius:12px;padding:8px 12px;max-width:380px;backdrop-filter:blur(6px);pointer-events:auto}
 .cardinfo h2{font-family:Georgia,serif;font-size:15px}
 .cardinfo div{color:var(--dim);font-size:12.5px;margin-top:3px}
-.controls{display:flex;gap:8px;pointer-events:auto}
+.controls{display:flex;gap:8px;pointer-events:auto;flex-wrap:wrap;justify-content:flex-end}
 button{background:#1e1b16;border:1px solid var(--line);color:var(--text);border-radius:999px;padding:7px 13px;font-size:12.5px;font-weight:600;cursor:pointer}
 button:hover{border-color:var(--brass);color:#e8c987}
 button.gold{background:var(--brass);color:#191510;border-color:var(--brass)}
@@ -42,7 +42,7 @@ a{color:var(--brass)}
   <div class="top">
     <div class="kicker">The Stereograph Archive</div>
     <h1>🥽 The VR Parlor</h1>
-    <p>Put on your headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, so the depth just works. Every view is aligned by a measuring pipeline before it hangs here, so your eyes can relax. There is no frame and no wall: the photograph hangs far away in the dark, enlarged, its edges feathered into the black. <b>Trigger</b> flips forward, <b>squeeze</b> goes back, and you can also point at the arrows beside the photo or flick the thumbstick. The double arrows jump ten cards at a time, and the <b>EXIT</b> button under the caption takes you out of VR whenever you are ready.</p>
+    <p>Put on your headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, so the depth just works. Every view is aligned by a measuring pipeline before it hangs here, so your eyes can relax. There is no frame and no wall: the photograph hangs far away in the dark, enlarged, its edges feathered into the black. <b>Trigger</b> flips forward, <b>squeeze</b> goes back, and you can also point at the arrows beside the photo or flick the thumbstick. The double arrows jump ten cards at a time, and the <b>EXIT</b> button under the caption takes you out of VR whenever you are ready. This room is the archive itself: the <b>Browse</b> button opens the finding aid and a wall of the current shelf right here, so you can pick a collection or series and point at any card to open it, and the <b>Record</b> button shows the item's catalogue card.</p>
     <div id="status">Loading the parlor…</div>
   </div>
   <div class="bottom">
@@ -51,6 +51,8 @@ a{color:var(--brass)}
       <button id="prevBtn">‹ Prev</button>
       <button id="randBtn">🎲 Random</button>
       <button id="nextBtn">Next ›</button>
+      <button id="browseBtn">📚 Browse the shelves</button>
+      <button id="recBtn">Catalogue card: on</button>
     </div>
   </div>
 </div>
@@ -65,6 +67,41 @@ import { VRButton } from 'three/addons/webxr/VRButton.js';
 window.__parlorBoot=true;
 let DATA=[];
 const statusEl=document.getElementById('status');
+
+/* Right-sized Commons thumbnails, the same derivation the gallery uses.
+   Wikimedia only serves the widths it lists for each file, so tile loads
+   fall back to the rectified pair image when a derived URL fails. */
+function thumbFrom(u0,w){
+  const u=(u0||'').split('?')[0];
+  const m=u.match(/\/(lossy-page1-)?(\d+)px-([^/]+)$/);
+  if(m)return u.replace('/'+(m[1]||'')+m[2]+'px-','/'+(m[1]||'')+w+'px-');
+  const up=u.match(/^https:\/\/upload\.wikimedia\.org\/wikipedia\/commons\/(.+)$/);
+  if(up)return 'https://thumb.wikimedia.org/wikipedia/commons/thumb/'+up[1]+'/'+w+'px-'+up[1].split('/').pop();
+  return u0;
+}
+
+/*SETS-BEGIN*/
+/* Browsing sets, derived from the catalog exactly as the flat gallery
+   structures them: All cards in accession order; the Reading List (the
+   gallery's favorites, in catalog order); one set per Collection in
+   first-appearance order, as the finding aid lists them; one set per
+   Series shelf in the gallery's shelf order. A card belongs to a shelf
+   when its cats array includes the shelf key. */
+const CATLIST=[["water","Falls & Rivers"],["mountains","Mountains & Canyons"],["cities","Cities & Towns"],["war","Civil War"],["world","Around the World"],["people","People & Comedy"],["oddities","Oddities"]];
+const CATLABEL=Object.fromEntries(CATLIST);
+function deriveSets(DATA,favIds){
+  const sets=[{key:'all',label:'All cards',indices:DATA.map((d,i)=>i)}];
+  const favSet=new Set(favIds||[]);
+  const favIdx=DATA.map((d,i)=>i).filter(i=>favSet.has(DATA[i].id));
+  if(favIdx.length)sets.push({key:'favs',label:'Reading List',indices:favIdx});
+  const colls=[];
+  DATA.forEach(d=>{if(!colls.includes(d.coll))colls.push(d.coll);});
+  colls.forEach(name=>{sets.push({key:'coll:'+name,label:name,indices:DATA.map((d,i)=>i).filter(i=>DATA[i].coll===name)});});
+  CATLIST.forEach(([k,l])=>{const idx=DATA.map((d,i)=>i).filter(i=>DATA[i].cats.includes(k));if(idx.length)sets.push({key:'series:'+k,label:l,indices:idx});});
+  return sets;
+}
+/*SETS-END*/
+
 const scene=new THREE.Scene();
 scene.background=new THREE.Color(0x070605);
 scene.fog=new THREE.Fog(0x070605,6,16);
@@ -116,7 +153,8 @@ pairPlane.position.set(0,1.5,-1.66);pairPlane.visible=false;scene.add(pairPlane)
 
 // caption plaque (canvas texture). Source titles now run to 180+ characters,
 // so the title wraps onto up to two lines and shrinks before it ever gets
-// horizontally squeezed; place and year sit on their own line beneath.
+// horizontally squeezed; place, year, shelf and position sit on their own
+// line beneath.
 const capCanvas=document.createElement('canvas');capCanvas.width=1024;capCanvas.height=200;
 const capTex=new THREE.CanvasTexture(capCanvas);
 const plaque=new THREE.Mesh(new THREE.PlaneGeometry(1.05,.205),new THREE.MeshBasicMaterial({map:capTex,transparent:true}));
@@ -132,7 +170,7 @@ function wrapTitle(c,text,maxW){
   if(line)lines.push(line);
   return lines;
 }
-function drawCaption(d,idx){
+function drawCaption(d){
   const c=capCanvas.getContext('2d');
   c.clearRect(0,0,1024,200);
   c.fillStyle='rgba(10,9,7,0.45)';c.beginPath();c.roundRect(0,16,1024,168,26);c.fill();
@@ -150,14 +188,67 @@ function drawCaption(d,idx){
   c.fillStyle='#ece5d8';
   lines.forEach(L=>{c.fillText(L,512,y+lh/2);y+=lh;});
   y+=8;
-  c.font='500 27px Georgia,serif';c.fillStyle='#b3a78d';
-  c.fillText(d.p+'  \u00b7  '+d.y,512,y+metaH/2);
+  // context line: place, year, the shelf being browsed, and the position
+  // of this card inside it. Shrinks, then shortens, before it can overflow.
+  let meta=d.p+'  \u00b7  '+d.y+(curSet?'  \u00b7  '+curSet.label+'  \u00b7  '+(curPos+1)+' of '+curSet.indices.length:'');
+  let mfs=27;c.font='500 '+mfs+'px Georgia,serif';
+  while(mfs>18&&c.measureText(meta).width>980){mfs-=2;c.font='500 '+mfs+'px Georgia,serif';}
+  if(c.measureText(meta).width>980){while(meta.length&&c.measureText(meta+'\u2026').width>980)meta=meta.slice(0,-1);meta=meta.trimEnd()+'\u2026';}
+  c.fillStyle='#b3a78d';
+  c.fillText(meta,512,y+metaH/2);
   capTex.needsUpdate=true;
   document.getElementById('ciTitle').textContent=d.t;
-  document.getElementById('ciMeta').textContent=d.id+' · '+d.p+' · '+d.y+' · Card '+(idx+1)+' of '+DATA.length;
+  document.getElementById('ciMeta').textContent=d.id+' · '+d.p+' · '+d.y+(curSet?' · '+curSet.label+' · Card '+(curPos+1)+' of '+curSet.indices.length:'');
   document.getElementById('backLink').href='index.html#'+d.id;
   try{history.replaceState(null,'','#'+d.id)}catch(e){}
 }
+
+// the catalogue record card: the item's own record, drawn from the
+// catalog fields only, styled like the archive-desk record cards on the
+// flat site. Near-field, angled in at lower right, toggleable.
+const recCanvas=document.createElement('canvas');recCanvas.width=640;recCanvas.height=800;
+const recTex=new THREE.CanvasTexture(recCanvas);
+const recordGroup=new THREE.Group();
+const recMesh=new THREE.Mesh(new THREE.PlaneGeometry(0.72,0.90),new THREE.MeshBasicMaterial({map:recTex,transparent:true}));
+recordGroup.add(recMesh);
+recordGroup.position.set(1.24,0.92,-1.88);recordGroup.rotation.y=-0.40;
+recordGroup.visible=false;scene.add(recordGroup);
+function drawRecord(d){
+  const c=recCanvas.getContext('2d');
+  c.clearRect(0,0,640,800);
+  c.fillStyle='#ece5d8';c.beginPath();c.roundRect(0,0,640,800,20);c.fill();
+  c.strokeStyle='#c9bb9c';c.lineWidth=3;c.beginPath();c.roundRect(12,12,616,776,14);c.stroke();
+  c.textAlign='left';c.textBaseline='alphabetic';
+  c.fillStyle='#262015';c.font='700 27px Georgia,serif';c.fillText('CATALOGUE RECORD',40,64);
+  c.fillRect(40,82,560,3);
+  c.save();c.translate(512,58);c.rotate(-0.055);
+  c.strokeStyle='#75591f';c.lineWidth=3;c.strokeRect(-92,-27,184,54);
+  c.fillStyle='#75591f';c.font='700 30px Georgia,serif';c.textAlign='center';c.fillText(d.id,0,11);
+  c.restore();c.textAlign='left';
+  let y=128;
+  const field=(label,value,fs,maxLines)=>{
+    c.font='600 17px Georgia,serif';c.fillStyle='#6d5c39';c.fillText(label.toUpperCase(),40,y);y+=10;
+    let f=fs,lines=[];
+    while(f>17){c.font=f+'px Georgia,serif';lines=wrapTitle(c,value,560);if(lines.length<=maxLines)break;f-=2;}
+    if(lines.length>maxLines){
+      lines=lines.slice(0,maxLines);
+      let l=lines[lines.length-1];
+      while(l.length&&c.measureText(l+'\u2026').width>560)l=l.slice(0,-1);
+      lines[lines.length-1]=l.trimEnd()+'\u2026';
+    }
+    c.fillStyle='#262015';c.font=f+'px Georgia,serif';
+    lines.forEach(L=>{y+=f*1.28;c.fillText(L,40,y);});
+    y+=22;
+  };
+  field('Title',d.t,27,3);
+  field('Place',d.p,24,1);
+  field('Date',d.y,24,1);
+  field('Collection',d.coll,24,2);
+  field('Series',d.cats.map(k=>CATLABEL[k]||k).join(', '),24,2);
+  field('Condition',d.cond,22,5);
+  recTex.needsUpdate=true;
+}
+
 function arrowButton(glyph,act,opt){
   const o=Object.assign({vis:.36,hit:.68,fs:150},opt||{});
   const cv=document.createElement('canvas');cv.width=cv.height=256;const c=cv.getContext('2d');
@@ -171,6 +262,27 @@ function arrowButton(glyph,act,opt){
   const g=new THREE.Group();g.add(vis);g.add(hit);g.userData.hit=hit;
   return g;
 }
+// a round brass button with a word on it, in the same family as the arrow
+// buttons; its label can be redrawn (BROWSE becomes READ, RECORD dims off).
+function textButton(label,act,fs){
+  fs=fs||50;
+  const cv=document.createElement('canvas');cv.width=cv.height=256;const c=cv.getContext('2d');
+  const tex=new THREE.CanvasTexture(cv);
+  function draw(l,dim){
+    c.clearRect(0,0,256,256);
+    c.beginPath();c.arc(128,128,116,0,7);c.fillStyle='rgba(12,10,7,0.62)';c.fill();
+    c.lineWidth=7;c.strokeStyle='rgba(232,201,135,.95)';c.stroke();
+    c.fillStyle=dim?'#8a7c5f':'#e8c987';c.font='700 '+fs+'px Georgia,serif';c.textAlign='center';c.textBaseline='middle';c.fillText(l,128,134);
+    tex.needsUpdate=true;
+  }
+  draw(label,false);
+  const vis=new THREE.Mesh(new THREE.PlaneGeometry(.34,.34),new THREE.MeshBasicMaterial({map:tex,transparent:true,depthWrite:false}));
+  vis.layers.enableAll();
+  const hit=new THREE.Mesh(new THREE.PlaneGeometry(.66,.66),new THREE.MeshBasicMaterial({visible:false}));
+  hit.layers.enableAll();hit.userData.act=act;hit.userData.vis=vis;hit.userData.redraw=draw;hit.userData.label=label;
+  const g=new THREE.Group();g.add(vis);g.add(hit);g.userData.hit=hit;
+  return g;
+}
 const prevBtn3d=arrowButton('\u2039','prev');prevBtn3d.position.set(-1.08,1.5,-2.2);scene.add(prevBtn3d);
 const nextBtn3d=arrowButton('\u203a','next');nextBtn3d.position.set(1.08,1.5,-2.2);scene.add(nextBtn3d);
 // at 515 cards, stepping one by one is not navigation: the double arrows
@@ -178,23 +290,167 @@ const nextBtn3d=arrowButton('\u203a','next');nextBtn3d.position.set(1.08,1.5,-2.
 const prev10Btn=arrowButton('\u00ab','prev10',{vis:.32,hit:.58});prev10Btn.position.set(-1.72,1.5,-2.2);scene.add(prev10Btn);
 const next10Btn=arrowButton('\u00bb','next10',{vis:.32,hit:.58});next10Btn.position.set(1.72,1.5,-2.2);scene.add(next10Btn);
 const exitBtn=arrowButton('EXIT','exit',{vis:.34,hit:.66,fs:58});exitBtn.position.set(0,0.82,-2.0);scene.add(exitBtn);
-const HITLIST=[prevBtn3d.userData.hit,nextBtn3d.userData.hit,prev10Btn.userData.hit,next10Btn.userData.hit,exitBtn.userData.hit];
+// one family of brass controls under the caption: Record, EXIT, Browse.
+const recordBtn3d=textButton('RECORD','record');recordBtn3d.position.set(-0.60,0.82,-2.0);scene.add(recordBtn3d);
+const browseBtn3d=textButton('BROWSE','browse');browseBtn3d.position.set(0.60,0.82,-2.0);scene.add(browseBtn3d);
+const READ_HITS=[prevBtn3d.userData.hit,nextBtn3d.userData.hit,prev10Btn.userData.hit,next10Btn.userData.hit,exitBtn.userData.hit,recordBtn3d.userData.hit,browseBtn3d.userData.hit];
 
-// main card loading
-let cur=-1,busy=false;
+/* ---------- browse state: the finding aid and the shelf wall ---------- */
+const browseGroup=new THREE.Group();browseGroup.visible=false;scene.add(browseGroup);
+// set list panel, near-field at the left, angled toward the viewer
+const SET_ROW_Y0=116,SET_ROW_PITCH=52,SET_ROW_H=42;
+const setCanvas=document.createElement('canvas');setCanvas.width=512;setCanvas.height=1024;
+const setTex=new THREE.CanvasTexture(setCanvas);
+const setPanelGroup=new THREE.Group();
+setPanelGroup.position.set(-1.80,1.44,-2.02);setPanelGroup.rotation.y=0.30;
+const setPanelMesh=new THREE.Mesh(new THREE.PlaneGeometry(0.60,1.20),new THREE.MeshBasicMaterial({map:setTex,transparent:true}));
+setPanelGroup.add(setPanelMesh);browseGroup.add(setPanelGroup);
+function drawSetPanel(){
+  const c=setCanvas.getContext('2d');
+  c.clearRect(0,0,512,1024);
+  c.fillStyle='rgba(12,10,7,0.80)';c.beginPath();c.roundRect(0,0,512,1024,24);c.fill();
+  c.strokeStyle='rgba(201,168,106,0.5)';c.lineWidth=2;c.beginPath();c.roundRect(6,6,500,1012,20);c.stroke();
+  c.textAlign='left';c.textBaseline='alphabetic';
+  c.fillStyle='#c9a86a';c.font='700 25px Georgia,serif';c.fillText('THE FINDING AID',28,54);
+  c.fillStyle='#a89c86';c.font='20px Georgia,serif';c.fillText('Collections & series',28,84);
+  SETS.forEach((s,i)=>{
+    const y=SET_ROW_Y0+i*SET_ROW_PITCH;
+    if(curSet&&s.key===curSet.key){c.fillStyle='rgba(201,168,106,0.22)';c.beginPath();c.roundRect(14,y,484,SET_ROW_H,10);c.fill();}
+    c.font='25px Georgia,serif';c.fillStyle=(curSet&&s.key===curSet.key)?'#e8c987':'#ece5d8';
+    let label=s.label;
+    while(label.length&&c.measureText(label).width>330)label=label.slice(0,-1);
+    if(label!==s.label)label=label.trimEnd()+'\u2026';
+    c.fillText(label,28,y+30);
+    c.font='22px Georgia,serif';c.fillStyle='#a89c86';c.textAlign='right';c.fillText(String(s.indices.length),484,y+29);c.textAlign='left';
+  });
+  setTex.needsUpdate=true;
+}
+// the shelf wall: a paged grid of the current set's cards
+const PAGE=24,COLS=6,ROWS=4;
+const wallGroup=new THREE.Group();wallGroup.position.set(0.30,1.46,-2.25);browseGroup.add(wallGroup);
+const wallTilesGroup=new THREE.Group();wallGroup.add(wallTilesGroup);
+const indCanvas=document.createElement('canvas');indCanvas.width=1024;indCanvas.height=64;
+const indTex=new THREE.CanvasTexture(indCanvas);
+const indMesh=new THREE.Mesh(new THREE.PlaneGeometry(1.5,0.094),new THREE.MeshBasicMaterial({map:indTex,transparent:true}));
+indMesh.position.set(0,0.82,0);wallGroup.add(indMesh);
+function drawIndicator(){
+  const c=indCanvas.getContext('2d');
+  c.clearRect(0,0,1024,64);
+  c.fillStyle='rgba(10,9,7,0.55)';c.beginPath();c.roundRect(162,4,700,56,28);c.fill();
+  c.font='28px Georgia,serif';c.fillStyle='#e8c987';c.textAlign='center';c.textBaseline='middle';
+  const total=curSet?curSet.indices.length:0;
+  const pages=Math.max(1,Math.ceil(total/PAGE));
+  const a=total?wallPage*PAGE+1:0,b=Math.min(wallPage*PAGE+PAGE,total);
+  c.fillText(curSet.label+'  \u00b7  Cards '+a+'\u2013'+b+' of '+total+(pages>1?'  \u00b7  Page '+(wallPage+1)+' of '+pages:''),512,34);
+  indTex.needsUpdate=true;
+}
+const pagePrevBtn=arrowButton('\u2039','pagePrev');pagePrevBtn.position.set(-1.40,0,0);wallGroup.add(pagePrevBtn);
+const pageNextBtn=arrowButton('\u203a','pageNext');pageNextBtn.position.set(1.40,0,0);wallGroup.add(pageNextBtn);
+const BROWSE_STATIC_HITS=[exitBtn.userData.hit,browseBtn3d.userData.hit,pagePrevBtn.userData.hit,pageNextBtn.userData.hit];
+let TILE_HITS=[],wallTex=[],wallGen=0;
+const tileLoader=new THREE.TextureLoader();tileLoader.setCrossOrigin('anonymous');
+function clearTiles(){
+  wallGen++;
+  wallTex.forEach(t=>t.dispose());wallTex=[];
+  while(wallTilesGroup.children.length)wallTilesGroup.remove(wallTilesGroup.children[0]);
+  TILE_HITS=[];
+}
+function makeTile(pos){
+  const d=DATA[curSet.indices[pos]];
+  const g=new THREE.Group();
+  const border=new THREE.Mesh(new THREE.PlaneGeometry(0.365,0.265),new THREE.MeshBasicMaterial({color:0xc9a86a}));
+  border.position.z=-0.004;border.visible=(pos===curPos);g.add(border);
+  const bg=new THREE.Mesh(new THREE.PlaneGeometry(0.36,0.26),new THREE.MeshBasicMaterial({color:0x14110c}));
+  bg.position.z=-0.002;g.add(bg);
+  const h=Math.min(0.20,0.34/(2*(d.a||0.9)));
+  const imgMat=new THREE.MeshBasicMaterial({color:0x2a251c});
+  const img=new THREE.Mesh(new THREE.PlaneGeometry(0.34,h),imgMat);
+  img.position.set(0,0.035,0);g.add(img);
+  const cv=document.createElement('canvas');cv.width=320;cv.height=44;const cx=cv.getContext('2d');
+  cx.fillStyle='rgba(10,9,7,0.55)';cx.beginPath();cx.roundRect(0,2,320,40,8);cx.fill();
+  cx.font='600 20px system-ui,sans-serif';cx.fillStyle='#ece5d8';cx.textAlign='center';cx.textBaseline='middle';
+  let cap=d.id+' \u00b7 '+d.t;
+  const fullCap=cap;
+  while(cap.length&&cx.measureText(cap).width>304)cap=cap.slice(0,-1);
+  if(cap!==fullCap)cap=cap.trimEnd()+'\u2026';
+  cx.fillText(cap,160,23);
+  const capTex2=new THREE.CanvasTexture(cv);wallTex.push(capTex2);
+  const capMesh=new THREE.Mesh(new THREE.PlaneGeometry(0.35,0.048),new THREE.MeshBasicMaterial({map:capTex2,transparent:true}));
+  capMesh.position.set(0,-0.105,0);g.add(capMesh);
+  const hit=new THREE.Mesh(new THREE.PlaneGeometry(0.37,0.27),new THREE.MeshBasicMaterial({visible:false}));
+  hit.layers.enableAll();
+  hit.userData={act:'tile',pos:pos,vis:g,hoverScale:1.07,border:border};
+  g.add(hit);TILE_HITS.push(hit);
+  // tile picture: a right-sized Commons thumb, falling back to the pair
+  const gen=wallGen,url=thumbFrom(d.oimg,320);
+  const paint=t=>{if(gen!==wallGen){t.dispose();return;}t.colorSpace=THREE.SRGBColorSpace;imgMat.map=t;imgMat.color.set(0xffffff);imgMat.needsUpdate=true;wallTex.push(t);};
+  tileLoader.load(url,paint,undefined,()=>{if(url!==d.img&&gen===wallGen)tileLoader.load(d.img,paint,undefined,()=>{});});
+  return g;
+}
+function renderWall(){
+  if(!curSet)return;
+  clearTiles();
+  const total=curSet.indices.length;
+  const pages=Math.max(1,Math.ceil(total/PAGE));
+  wallPage=Math.max(0,Math.min(wallPage,pages-1));
+  drawIndicator();
+  const start=wallPage*PAGE;
+  for(let slot=0;slot<PAGE&&start+slot<total;slot++){
+    const tile=makeTile(start+slot);
+    tile.position.set(((slot%COLS)-2.5)*0.385,(1.5-Math.floor(slot/COLS))*0.295,0);
+    wallTilesGroup.add(tile);
+  }
+}
+function updateWallHi(){
+  TILE_HITS.forEach(h=>{if(h.userData.border)h.userData.border.visible=(h.userData.pos===curPos);});
+}
+function buildBrowse(){
+  drawSetPanel();
+  SETS.forEach((s,i)=>{
+    const y=(0.5-(SET_ROW_Y0+i*SET_ROW_PITCH+SET_ROW_H/2)/1024)*1.20;
+    const hl=new THREE.Mesh(new THREE.PlaneGeometry(0.565,0.05),new THREE.MeshBasicMaterial({color:0xc9a86a,transparent:true,opacity:0,depthWrite:false}));
+    hl.position.set(0,y,0.004);setPanelGroup.add(hl);
+    const hit=new THREE.Mesh(new THREE.PlaneGeometry(0.565,0.058),new THREE.MeshBasicMaterial({visible:false}));
+    hit.position.set(0,y,0.008);hit.layers.enableAll();
+    hit.userData={act:'set',setKey:s.key,vis:hl,onHover:on=>{hl.material.opacity=on?0.30:0;}};
+    setPanelGroup.add(hit);BROWSE_STATIC_HITS.push(hit);
+  });
+  renderWall();
+}
+function browseHits(){return BROWSE_STATIC_HITS.concat(TILE_HITS);}
+function currentHits(){return uiState==='browse'?browseHits():READ_HITS;}
+
+/* ---------- shared state: one archive, one memory of where you are --- */
+let SETS=[],curSet=null,curPos=0,cur=-1,busy=false,uiState='reading',wallPage=0,recordOn=true;
+function persist(){
+  if(!curSet||cur<0||!DATA[cur])return;
+  try{localStorage.setItem('parlorState',JSON.stringify({setKey:curSet.key,cardId:DATA[cur].id}));}catch(e){}
+}
+function readFavs(){
+  try{return JSON.parse(localStorage.getItem('stereoFavs')||'[]');}catch(e){return[];}
+}
+
+// main card loading. Every pair arrives already rectified by the overlay
+// pipeline: the two photographs were matched feature by feature, warped
+// into register, windowed, brightness matched, and comfort measured
+// offline. The page only hangs it, at the size the pipeline chose.
 const texLoader=new THREE.TextureLoader();texLoader.setCrossOrigin('anonymous');
 const maxAniso=Math.min(16,renderer.capabilities.getMaxAnisotropy());
 let liveTex=[];
-function show(idx){
-  idx=(idx+DATA.length)%DATA.length;if(idx===cur||busy)return;busy=true;cur=idx;
+function refreshContext(){
+  if(cur>=0&&DATA[cur]){drawCaption(DATA[cur]);updateWallHi();persist();}
+}
+function showPos(pos){
+  if(!curSet||!curSet.indices.length||busy)return;
+  const len=curSet.indices.length;
+  pos=((pos%len)+len)%len;
+  const idx=curSet.indices[pos];
+  if(idx===cur){curPos=pos;refreshContext();return;}
+  busy=true;curPos=pos;cur=idx;
   const d=DATA[idx];
   statusEl.textContent='Loading card: '+d.t+'\u2026';
   texLoader.load(d.img,tex=>{
     tex.colorSpace=THREE.SRGBColorSpace;tex.anisotropy=8;
-    // Every pair arrives already rectified by the overlay pipeline: the two
-    // photographs were matched feature by feature, warped into register,
-    // windowed, brightness matched, and comfort measured offline. The page
-    // only hangs it, at the size the pipeline chose for its depth.
     let W=1.02,H=W/d.a; if(H>1.0){H=1.0;W=H*d.a;}
     W*=PORTAL_K*d.f; H*=PORTAL_K*d.f;
     liveTex.forEach(t=>t.dispose());liveTex=[tex];
@@ -206,21 +462,109 @@ function show(idx){
     });
     const pt=tex.clone();liveTex.push(pt);pt.needsUpdate=true;
     pairPlane.material.map=pt;pairPlane.material.color.set(0xffffff);
-    const paspect=2*d.a;let pw=1.35*paspect,ph=1.35;if(pw>2.4){pw=2.4;ph=pw/paspect;}pairPlane.geometry.dispose();pairPlane.geometry=new THREE.PlaneGeometry(pw,ph);pairPlane.material.needsUpdate=true;pairPlane.visible=!renderer.xr.isPresenting;
-    drawCaption(d,idx);
-    statusEl.textContent='Rectified and comfort checked by the overlay pipeline. '+(navigator.xr?'Press Enter VR when ready.':'Drag to look around, arrow keys flip cards.');
+    const paspect=2*d.a;let pw=1.35*paspect,ph=1.35;if(pw>2.4){pw=2.4;ph=pw/paspect;}pairPlane.geometry.dispose();pairPlane.geometry=new THREE.PlaneGeometry(pw,ph);pairPlane.material.needsUpdate=true;
+    drawCaption(d);
+    drawRecord(d);
+    applyVis();
+    updateWallHi();
+    persist();
+    updateStatus();
     busy=false;
-  },undefined,()=>{statusEl.textContent='That card failed to load, skipping\u2026';busy=false;setTimeout(()=>show(idx+1),400);});
+  },undefined,()=>{statusEl.textContent='That card failed to load, skipping\u2026';busy=false;setTimeout(()=>showPos(pos+1),400);});
 }
-const next=()=>show(cur+1),prev=()=>show(cur-1);
+const next=()=>showPos(curPos+1),prev=()=>showPos(curPos-1);
 document.getElementById('nextBtn').onclick=next;
 document.getElementById('prevBtn').onclick=prev;
-document.getElementById('randBtn').onclick=()=>show(Math.floor(Math.random()*DATA.length));
-addEventListener('keydown',e=>{if(e.key==='ArrowRight')next();if(e.key==='ArrowLeft')prev();});
+document.getElementById('randBtn').onclick=()=>{if(curSet)showPos(Math.floor(Math.random()*curSet.indices.length));};
+document.getElementById('browseBtn').onclick=()=>setState(uiState==='browse'?'reading':'browse');
+document.getElementById('recBtn').onclick=()=>toggleRecord();
+addEventListener('keydown',e=>{
+  if(uiState==='browse'){if(e.key==='ArrowRight')wallGo(1);if(e.key==='ArrowLeft')wallGo(-1);if(e.key==='Escape')setState('reading');}
+  else{if(e.key==='ArrowRight')next();if(e.key==='ArrowLeft')prev();}
+});
 
-// VR enter/exit: swap flat pair for true per-eye planes
-renderer.xr.addEventListener('sessionstart',()=>{pairPlane.visible=false;leftPlane.visible=true;rightPlane.visible=true;statusEl.textContent='In VR. Trigger: next card. Squeeze: back. Or point at an arrow beside the photo, or flick the thumbstick.';});
-renderer.xr.addEventListener('sessionend',()=>{pairPlane.visible=true;leftPlane.visible=false;rightPlane.visible=false;statusEl.textContent='Rectified and comfort checked by the overlay pipeline. '+(navigator.xr?'Press Enter VR when ready.':'Drag to look around, arrow keys flip cards.');});
+function applyVis(){
+  const browsing=uiState==='browse';
+  browseGroup.visible=browsing;
+  plaque.visible=!browsing;
+  prevBtn3d.visible=nextBtn3d.visible=prev10Btn.visible=next10Btn.visible=!browsing;
+  recordGroup.visible=!browsing&&recordOn;
+  const presenting=renderer.xr.isPresenting;
+  leftPlane.visible=rightPlane.visible=!browsing&&presenting;
+  pairPlane.visible=!browsing&&!presenting&&cur>=0;
+}
+function updateStatus(){
+  if(!curSet)return;
+  const presenting=renderer.xr.isPresenting;
+  if(uiState==='browse'){
+    statusEl.textContent=presenting?('Browsing '+curSet.label+'. Point at a card and pull the trigger to open it. Flick the thumbstick to turn the wall. Squeeze returns to the card.'):('Browsing '+curSet.label+'. Click a card on the wall to open it, or go back to the card.');
+  }else{
+    statusEl.textContent=presenting?'In VR. Trigger: next card. Squeeze: back. Browse opens the shelves, Record shows the catalogue card, EXIT leaves VR.':('Rectified and comfort checked by the overlay pipeline. '+(navigator.xr?'Press Enter VR when ready.':'Drag to look around, arrow keys flip cards.'));
+  }
+}
+function updateHtmlButtons(){
+  document.getElementById('browseBtn').textContent=uiState==='browse'?'Back to the card':'📚 Browse the shelves';
+}
+function setHover(hit,on){
+  if(hit.userData.onHover){hit.userData.onHover(on);return;}
+  const s=on?(hit.userData.hoverScale||1.25):1;
+  hit.userData.vis.scale.set(s,s,1);
+}
+function setState(s){
+  if(!curSet)return;
+  uiState=s;
+  if(s==='browse'){wallPage=Math.floor(curPos/PAGE);drawSetPanel();renderWall();}
+  READ_HITS.forEach(h=>setHover(h,false));
+  applyVis();updateStatus();updateHtmlButtons();persist();
+}
+function toggleRecord(){
+  recordOn=!recordOn;
+  recordBtn3d.userData.hit.userData.redraw('RECORD',!recordOn);
+  document.getElementById('recBtn').textContent='Catalogue card: '+(recordOn?'on':'off');
+  applyVis();
+}
+function selectSet(key){
+  const s=SETS.find(x=>x.key===key);
+  if(!s||!s.indices.length)return;
+  curSet=s;
+  const p=s.indices.indexOf(cur);
+  curPos=p>=0?p:0;
+  wallPage=Math.floor(curPos/PAGE);
+  drawSetPanel();renderWall();
+  showPos(curPos);
+  updateStatus();
+}
+function openTile(pos){
+  curPos=pos;
+  setState('reading');
+  showPos(pos);
+}
+function wallGo(dir){
+  if(!curSet)return;
+  const pages=Math.max(1,Math.ceil(curSet.indices.length/PAGE));
+  const np=Math.max(0,Math.min(wallPage+dir,pages-1));
+  if(np!==wallPage){wallPage=np;renderWall();}
+}
+function activate(hit){
+  const a=hit.userData.act;
+  if(a==='next')return next();
+  if(a==='prev')return prev();
+  if(a==='next10')return showPos(curPos+10);
+  if(a==='prev10')return showPos(curPos-10);
+  if(a==='exit'){const s=renderer.xr.getSession();if(s)s.end();return;}
+  if(a==='record')return toggleRecord();
+  if(a==='browse')return setState(uiState==='browse'?'reading':'browse');
+  if(a==='tile')return openTile(hit.userData.pos);
+  if(a==='set')return selectSet(hit.userData.setKey);
+  if(a==='pagePrev')return wallGo(-1);
+  if(a==='pageNext')return wallGo(1);
+}
+function isShown(o){while(o){if(!o.visible)return false;o=o.parent;}return true;}
+
+// VR enter/exit: the session opens in the current state, at the current
+// set and card, and leaving returns the flat page to the same place.
+renderer.xr.addEventListener('sessionstart',()=>{applyVis();updateStatus();});
+renderer.xr.addEventListener('sessionend',()=>{applyVis();updateStatus();});
 
 // controllers + ray picking
 const ray=new THREE.Raycaster();const tmpM=new THREE.Matrix4();
@@ -228,22 +572,15 @@ function pick(controller){
   tmpM.identity().extractRotation(controller.matrixWorld);
   ray.ray.origin.setFromMatrixPosition(controller.matrixWorld);
   ray.ray.direction.set(0,0,-1).applyMatrix4(tmpM);
-  const hits=ray.intersectObjects(HITLIST,false);
-  if(hits.length){
-    const a=hits[0].object.userData.act;
-    if(a==='next')return next();
-    if(a==='prev')return prev();
-    if(a==='next10')return show(cur+10);
-    if(a==='prev10')return show(cur-10);
-    if(a==='exit'){const s=renderer.xr.getSession();if(s)s.end();return;}
-  }
-  next(); // trigger anywhere else = next card, simple on purpose
+  const hits=ray.intersectObjects(currentHits(),false).filter(h=>isShown(h.object));
+  if(hits.length){activate(hits[0].object);return;}
+  if(uiState==='reading')next(); // trigger anywhere else = next card, simple on purpose
 }
 const ctrls=[];
 [0,1].forEach(i=>{
   const ctl=renderer.xr.getController(i);ctrls.push(ctl);
   ctl.addEventListener('selectstart',()=>pick(ctl));
-  ctl.addEventListener('squeezestart',()=>prev());
+  ctl.addEventListener('squeezestart',()=>{if(uiState==='browse')setState('reading');else prev();});
   scene.add(ctl);
   const line=new THREE.Line(new THREE.BufferGeometry().setFromPoints([new THREE.Vector3(0,0,0),new THREE.Vector3(0,0,-3)]),new THREE.LineBasicMaterial({color:0xc9a86a,transparent:true,opacity:.5}));
   line.layers.enableAll();ctl.add(line);
@@ -254,24 +591,65 @@ let yaw=0,pitch=0,drag=false,lx=0,ly=0;
 addEventListener('pointerdown',e=>{if(e.target.closest('button,a,.top,.cardinfo'))return;drag=true;lx=e.clientX;ly=e.clientY});
 addEventListener('pointermove',e=>{if(!drag)return;yaw-=(e.clientX-lx)*0.0022;pitch-=(e.clientY-ly)*0.0016;pitch=Math.max(-0.5,Math.min(0.5,pitch));lx=e.clientX;ly=e.clientY});
 addEventListener('pointerup',()=>drag=false);
-addEventListener('click',e=>{ /* flat click on canvas plaques */
+addEventListener('click',e=>{ /* flat click: pick wall tiles and room buttons */
   if(renderer.xr.isPresenting||e.target.closest('button,a,.top,.cardinfo'))return;
+  if(Math.hypot(e.clientX-lx,e.clientY-ly)>6)return; // it was a drag, not a click
+  ray.setFromCamera(new THREE.Vector2((e.clientX/innerWidth)*2-1,-(e.clientY/innerHeight)*2+1),camera);
+  const hits=ray.intersectObjects(currentHits(),false).filter(h=>isShown(h.object));
+  if(hits.length)activate(hits[0].object);
 });
 
 addEventListener('resize',()=>{camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix();renderer.setSize(innerWidth,innerHeight)});
-fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(items=>{DATA=items.map((d,i)=>({id:d.id,t:d.title,p:d.place,y:d.year,img:d.rect||('rect/'+String(i).padStart(2,'0')+'.jpg'),src:d.full,a:d.va,f:d.f}));let start=0;if(/^#STA-\d{4}$/.test(location.hash||'')){const ix=items.findIndex(d=>d.id===location.hash.slice(1));if(ix>=0)start=ix;}show(start);}).catch(()=>{statusEl.textContent='The catalogue could not be loaded. Please reload the page.';});
+fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(items=>{
+  DATA=items.map((d,i)=>({id:d.id,t:d.title,p:d.place,y:d.year,coll:d.coll,cats:d.cats||[],cond:d.cond||'',img:d.rect||('rect/'+String(i).padStart(2,'0')+'.jpg'),oimg:d.img||'',src:d.full,a:d.va,f:d.f}));
+  SETS=deriveSets(DATA,readFavs());
+  buildBrowse();
+  // one archive, one memory: a #STA-#### hash names the card; a ?set=
+  // param names the shelf it was browsed in; the saved parlor state is
+  // the fallback when neither is given.
+  const qs=new URLSearchParams(location.search);
+  const setParam=qs.get('set');
+  const hashId=/^#STA-\d{4}$/.test(location.hash||'')?location.hash.slice(1):null;
+  let startBrowse=false,resolved=false;
+  curSet=SETS[0];curPos=0;
+  if(hashId){
+    const ix=DATA.findIndex(d=>d.id===hashId);
+    if(ix>=0){
+      const s=setParam?SETS.find(x=>x.key===setParam):null;
+      if(s&&s.indices.includes(ix)){curSet=s;curPos=s.indices.indexOf(ix);}
+      else curPos=ix;
+      resolved=true;
+    }
+  }
+  if(!resolved&&setParam){
+    const s=SETS.find(x=>x.key===setParam);
+    if(s){curSet=s;curPos=0;startBrowse=true;resolved=true;}
+  }
+  if(!resolved){
+    let saved=null;
+    try{saved=JSON.parse(localStorage.getItem('parlorState')||'null');}catch(e){}
+    if(saved){
+      const ix=DATA.findIndex(d=>d.id===saved.cardId);
+      const s=SETS.find(x=>x.key===saved.setKey);
+      if(s&&ix>=0&&s.indices.includes(ix)){curSet=s;curPos=s.indices.indexOf(ix);}
+      else if(ix>=0)curPos=ix;
+    }
+  }
+  setState(startBrowse?'browse':'reading');
+  showPos(curPos);
+}).catch(()=>{statusEl.textContent='The catalogue could not be loaded. Please reload the page.';});
 let stickArm=true,stickTime=0;
 function updateHover(){
   let hov=null;
-  for(const ctl of ctrls){tmpM.identity().extractRotation(ctl.matrixWorld);ray.ray.origin.setFromMatrixPosition(ctl.matrixWorld);ray.ray.direction.set(0,0,-1).applyMatrix4(tmpM);const h=ray.intersectObjects(HITLIST,false);if(h.length){hov=h[0].object;break;}}
-  for(const hit of HITLIST){const sc=hit===hov?1.25:1;hit.userData.vis.scale.set(sc,sc,1);}
+  for(const ctl of ctrls){tmpM.identity().extractRotation(ctl.matrixWorld);ray.ray.origin.setFromMatrixPosition(ctl.matrixWorld);ray.ray.direction.set(0,0,-1).applyMatrix4(tmpM);const h=ray.intersectObjects(currentHits(),false).filter(x=>isShown(x.object));if(h.length){hov=h[0].object;break;}}
+  for(const hit of currentHits())setHover(hit,hit===hov);
 }
 function pollSticks(t){
   const sess=renderer.xr.getSession();if(!sess)return;
   let x=0;
   for(const src of sess.inputSources){const gp=src.gamepad;if(!gp)continue;const ax=gp.axes.length>=4?gp.axes[2]:gp.axes[0];if(ax!==undefined&&Math.abs(ax)>Math.abs(x))x=ax;}
   if(!stickArm){if(Math.abs(x)<0.25&&t-stickTime>350)stickArm=true;return;}
-  if(x>0.6){stickArm=false;stickTime=t;next();}else if(x<-0.6){stickArm=false;stickTime=t;prev();}
+  if(x>0.6){stickArm=false;stickTime=t;if(uiState==='browse')wallGo(1);else next();}else if(x<-0.6){stickArm=false;stickTime=t;if(uiState==='browse')wallGo(-1);else prev();}
 }
 renderer.setAnimationLoop(t=>{
   camera.rotation.set(pitch,yaw,0,'YXZ');
