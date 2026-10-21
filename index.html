@@ -208,12 +208,12 @@ function setCat(k){state.cat=k;document.querySelectorAll(".chip").forEach((c,i)=
 /* finding aid */
 (function(){
  const cl=$("#collList");
- const mk=(label,n,span,fn,on)=>{const r=document.createElement("div");r.className="arow"+(on?" on":"");r.innerHTML=`<span>${label}</span><span class="n">${n} items · ${span}</span>`;r.onclick=fn;cl.appendChild(r);return r};
- const span=a=>Math.min(...a.map(d=>d.sy))+"–"+Math.max(...a.map(d=>d.sy));
+ const mk=(label,n,span,fn,on)=>{const r=document.createElement("div");r.className="arow"+(on?" on":"");r.innerHTML=`<span>${label}</span><span class="n">${n} ${n===1?"item":"items"} · ${span}</span>`;r.onclick=fn;cl.appendChild(r);return r};
+ const span=a=>{const lo=Math.min(...a.map(d=>d.sy)),hi=Math.max(...a.map(d=>d.sy));return lo===hi?""+lo:lo+"–"+hi};
  mk("All holdings",DATA.length,span(DATA),()=>{state.coll="all";cl.querySelectorAll(".arow").forEach((r,i)=>r.classList.toggle("on",i===0));render()},true);
  [...new Set(DATA.map(d=>d.coll))].forEach(name=>{const items=DATA.filter(d=>d.coll===name);const r=mk(name,items.length,span(items),()=>{state.coll=name;cl.querySelectorAll(".arow").forEach(x=>x.classList.remove("on"));r.classList.add("on");render()})});
  const sl=$("#seriesList");
- CATS.filter(([k])=>k!=="all"&&k!=="favs").forEach(([k,l])=>{const n=DATA.filter(d=>d.cats.includes(k)).length;const r=document.createElement("div");r.className="arow";r.dataset.k=k;r.innerHTML=`<span>${l}</span><span class="n">${n} items</span>`;r.onclick=()=>setCat(state.cat===k?"all":k);sl.appendChild(r)});
+ CATS.filter(([k])=>k!=="all"&&k!=="favs").forEach(([k,l])=>{const n=DATA.filter(d=>d.cats.includes(k)).length;const r=document.createElement("div");r.className="arow";r.dataset.k=k;r.innerHTML=`<span>${l}</span><span class="n">${n} ${n===1?"item":"items"}</span>`;r.onclick=()=>setCat(state.cat===k?"all":k);sl.appendChild(r)});
 })();
 $("#vShelves").onclick=()=>{state.view="shelves";$("#vShelves").classList.add("on");$("#vRegister").classList.remove("on");render()};
 $("#vRegister").onclick=()=>{state.view="reg";$("#vRegister").classList.add("on");$("#vShelves").classList.remove("on");render()};
