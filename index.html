@@ -66,6 +66,7 @@ footer a{color:var(--brass)}
 .arow:hover{background:#e0d3b2}
 .arow.on{font-weight:700;background:#e0d3b2}
 .arow .n{color:#6d5c39;white-space:nowrap;font-size:13px}
+.arow .n a{color:#7a5c1e;font-weight:600}
 .aidnote{grid-column:1/-1;color:var(--dim);font-size:13px;text-align:center}
 .acc{font-size:11px;letter-spacing:.22em;color:var(--brass);font-weight:600;margin-bottom:4px}
 .regwrap{background:#ece5d8;color:#262015;border-radius:6px;box-shadow:0 10px 30px rgba(0,0,0,.45);overflow-x:auto}
@@ -316,12 +317,13 @@ function setCat(k){state.cat=k;document.querySelectorAll(".chip").forEach((c,i)=
 /* finding aid */
 function buildAid(){
  const cl=$("#collList");
- const mk=(label,n,span,fn,on)=>{const r=document.createElement("div");r.className="arow"+(on?" on":"");r.innerHTML=`<span>${label}</span><span class="n">${n} ${n===1?"item":"items"} · ${span}</span>`;r.onclick=fn;cl.appendChild(r);return r};
+ const vrA=key=>` · <a href="vr.html?set=${encodeURIComponent(key)}" onclick="event.stopPropagation()">Browse in VR</a>`;
+ const mk=(label,n,span,fn,on,vrKey)=>{const r=document.createElement("div");r.className="arow"+(on?" on":"");r.innerHTML=`<span>${label}</span><span class="n">${n} ${n===1?"item":"items"} · ${span}${vrKey?vrA(vrKey):""}</span>`;r.onclick=fn;cl.appendChild(r);return r};
  const span=a=>{const lo=Math.min(...a.map(d=>d.sy)),hi=Math.max(...a.map(d=>d.sy));return lo===hi?""+lo:lo+"–"+hi};
- mk("All holdings",DATA.length,span(DATA),()=>{state.coll="all";cl.querySelectorAll(".arow").forEach((r,i)=>r.classList.toggle("on",i===0));setCat("all")},true);
- [...new Set(DATA.map(d=>d.coll))].forEach(name=>{const items=DATA.filter(d=>d.coll===name);const r=mk(name,items.length,span(items),()=>{state.coll=name;cl.querySelectorAll(".arow").forEach(x=>x.classList.remove("on"));r.classList.add("on");render()})});
+ mk("All holdings",DATA.length,span(DATA),()=>{state.coll="all";cl.querySelectorAll(".arow").forEach((r,i)=>r.classList.toggle("on",i===0));setCat("all")},true,"all");
+ [...new Set(DATA.map(d=>d.coll))].forEach(name=>{const items=DATA.filter(d=>d.coll===name);const r=mk(name,items.length,span(items),()=>{state.coll=name;cl.querySelectorAll(".arow").forEach(x=>x.classList.remove("on"));r.classList.add("on");render()},"","coll:"+name)});
  const sl=$("#seriesList");
- CATS.filter(([k])=>k!=="all"&&k!=="favs").forEach(([k,l])=>{const n=DATA.filter(d=>d.cats.includes(k)).length;const r=document.createElement("div");r.className="arow";r.dataset.k=k;r.innerHTML=`<span>${l}</span><span class="n">${n} ${n===1?"item":"items"}</span>`;r.onclick=()=>setCat(state.cat===k?"all":k);sl.appendChild(r)});
+ CATS.filter(([k])=>k!=="all"&&k!=="favs").forEach(([k,l])=>{const n=DATA.filter(d=>d.cats.includes(k)).length;const r=document.createElement("div");r.className="arow";r.dataset.k=k;r.innerHTML=`<span>${l}</span><span class="n">${n} ${n===1?"item":"items"}${vrA("series:"+k)}</span>`;r.onclick=()=>setCat(state.cat===k?"all":k);sl.appendChild(r)});
 }
 $("#aidToggle").setAttribute("aria-expanded","false");
 $("#aidToggle").onclick=()=>{const sec=$("#aidSec");sec.classList.toggle("open");const open=sec.classList.contains("open");$("#aidToggle").textContent=open?"Finding Aid · tap to close":"Finding Aid · tap to open";$("#aidToggle").setAttribute("aria-expanded",open?"true":"false")};
@@ -420,7 +422,7 @@ function fillViewer(){
  $("#vSource").href=d.source;$("#vFull").href=d.full;
  $("#vLic").textContent="License: "+d.license;
  $("#vImg").src=d.img;$("#vImg").alt=d.title+" stereograph pair";
- $("#vRecord").innerHTML=`<div class="rhead"><h3>Catalogue Record</h3><span class="stamp">${d.id}</span></div><dl><dt>Title</dt><dd>${d.title}</dd><dt>Date</dt><dd>${d.year}</dd><dt>Place</dt><dd>${d.place}</dd><dt>Collection</dt><dd>${d.coll}</dd><dt>Series</dt><dd>${d.cats.map(c=>CATLABEL[c]||c).join(", ")}</dd><dt>License</dt><dd>${d.license}</dd><dt>Depth</dt><dd>${d.depth} (${d.range}% of frame width)</dd><dt>Condition</dt><dd>${d.cond}</dd></dl><p style="margin-top:10px;font-size:13.5px">This item also hangs in the <a href="vr.html#${d.id}">VR Parlor</a>.</p>`;
+ $("#vRecord").innerHTML=`<div class="rhead"><h3>Catalogue Record</h3><span class="stamp">${d.id}</span></div><dl><dt>Title</dt><dd>${d.title}</dd><dt>Date</dt><dd>${d.year}</dd><dt>Place</dt><dd>${d.place}</dd><dt>Collection</dt><dd>${d.coll}</dd><dt>Series</dt><dd>${d.cats.map(c=>CATLABEL[c]||c).join(", ")}</dd><dt>License</dt><dd>${d.license}</dd><dt>Depth</dt><dd>${d.depth} (${d.range}% of frame width)</dd><dt>Condition</dt><dd>${d.cond}</dd></dl><p style="margin-top:10px;font-size:13.5px">This item also hangs in the <a href="vr.html${d.cats&&d.cats[0]?"?set="+encodeURIComponent("series:"+d.cats[0]):""}#${d.id}">VR Parlor</a>.</p>`;
  syncFavBtn();
 }
 function syncFavBtn(){const d=cur();if(!d)return;const b=$("#vFav");const on=favs.has(d.id);b.textContent=on?"♥ Saved":"♡ Save";b.setAttribute("aria-pressed",on?"true":"false");b.setAttribute("aria-label",(on?"Remove ":"Save ")+d.title+(on?" from":" to")+" the reading list")}
