@@ -2361,5 +2361,1459 @@
     0.9965
    ]
   }
+ },
+ {
+  "title": "National Monument, Gettysburg",
+  "place": "Gettysburg, Pennsylvania",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "The Soldiers' National Monument at Gettysburg, the centerpiece of the cemetery where the Union dead of the 1863 battle were reburied.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/National_Monument%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-National_Monument%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d2/National_Monument%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:National_Monument,_Gettysburg,_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2732,
+  "h": 1714,
+  "id": "STA-0048",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.03,
+  "range": 1.29,
+  "f": 1.0,
+  "depth": "Gentle",
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.03° of rotation. Depth measured gentle (1.29% of frame width); hung in the VR Parlor at full size.",
+  "va": 0.9339,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/National_Monument%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-National_Monument%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9339,
+   "L": [
+    0.390104,
+    0.0,
+    0.095052,
+    0.0,
+    0.66556,
+    0.285892
+   ],
+   "R": [
+    0.388062,
+    -0.00808,
+    0.528576,
+    -0.001874,
+    0.664698,
+    0.284807
+   ],
+   "g": [
+    1.0,
+    0.9712
+   ]
+  }
+ },
+ {
+  "title": "Battle-field of Gettysburg - inside view of the Gate-way of the Soldier's National Cemetery",
+  "place": "Gettysburg, Pennsylvania",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "Looking through the gateway of the Soldiers' National Cemetery at Gettysburg, the burial ground dedicated in November 1863.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Battle-field_of_Gettysburg_-_inside_view_of_the_Gate-way_of_the_Soldier%27s_National_Cemetery%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Battle-field_of_Gettysburg_-_inside_view_of_the_Gate-way_of_the_Soldier%27s_National_Cemetery%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/75/Battle-field_of_Gettysburg_-_inside_view_of_the_Gate-way_of_the_Soldier%27s_National_Cemetery%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Battle-field_of_Gettysburg_-_inside_view_of_the_Gate-way_of_the_Soldier%27s_National_Cemetery,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2691,
+  "h": 1374,
+  "id": "STA-0049",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 1.05,
+  "f": 1.0,
+  "depth": "Gentle",
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (1.05% of frame width); hung in the VR Parlor at full size.",
+  "va": 1.3146,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Battle-field_of_Gettysburg_-_inside_view_of_the_Gate-way_of_the_Soldier%27s_National_Cemetery%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Battle-field_of_Gettysburg_-_inside_view_of_the_Gate-way_of_the_Soldier%27s_National_Cemetery%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3146,
+   "L": [
+    0.365625,
+    0.0,
+    0.124219,
+    0.0,
+    0.544898,
+    0.394388
+   ],
+   "R": [
+    0.367434,
+    -0.012738,
+    0.53434,
+    -0.001741,
+    0.548389,
+    0.398689
+   ],
+   "g": [
+    0.9085,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "90th Penn. Inf., Reynold's Ave., Gettysburg",
+  "place": "Gettysburg, Pennsylvania",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "Reynolds Avenue at Gettysburg, where the monuments mark the battle positions of regiments such as the 90th Pennsylvania Infantry.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/90th_Penn._Inf.%2C_Reynold%27s_Ave.%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-90th_Penn._Inf.%2C_Reynold%27s_Ave.%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0d/90th_Penn._Inf.%2C_Reynold%27s_Ave.%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:90th_Penn._Inf.,_Reynold%27s_Ave.,_Gettysburg,_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2706,
+  "h": 1711,
+  "id": "STA-0050",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.02,
+  "range": 2.41,
+  "f": 1.0,
+  "depth": "Deep",
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.02° of rotation. Depth measured deep (2.41% of frame width); hung in the VR Parlor at full size.",
+  "va": 1.261,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/90th_Penn._Inf.%2C_Reynold%27s_Ave.%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-90th_Penn._Inf.%2C_Reynold%27s_Ave.%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.261,
+   "L": [
+    0.342187,
+    0.0,
+    0.079427,
+    0.0,
+    0.42916,
+    0.529242
+   ],
+   "R": [
+    0.342389,
+    -0.000965,
+    0.507581,
+    -0.001248,
+    0.428761,
+    0.526646
+   ],
+   "g": [
+    1.0,
+    0.9339
+   ]
+  }
+ },
+ {
+  "title": "The spring near Devil's Den, Gettysburg",
+  "place": "Gettysburg, Pennsylvania",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "The spring near Devil's Den at Gettysburg, among the boulders fought over on the second day of the battle.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/The_spring_near_Devil%27s_Den%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_spring_near_Devil%27s_Den%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/21/The_spring_near_Devil%27s_Den%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:The_spring_near_Devil%27s_Den,_Gettysburg,_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2691,
+  "h": 1703,
+  "id": "STA-0051",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.12,
+  "range": 1.83,
+  "f": 1.0,
+  "depth": "Moderate",
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.12° of rotation. Depth measured moderate (1.83% of frame width); hung in the VR Parlor at full size.",
+  "va": 0.7098,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/The_spring_near_Devil%27s_Den%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_spring_near_Devil%27s_Den%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7098,
+   "L": [
+    0.374479,
+    0.0,
+    0.096094,
+    0.0,
+    0.833745,
+    0.116461
+   ],
+   "R": [
+    0.377884,
+    -0.015636,
+    0.531858,
+    0.000531,
+    0.834635,
+    0.117585
+   ],
+   "g": [
+    0.9116,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "1st N.Y., Bat. K, S.E. of Stannard's Column, Gettysburg",
+  "place": "Gettysburg, Pennsylvania",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "The position of Battery K, 1st New York Light Artillery, southeast of Stannard's Column at Gettysburg.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/1st_N.Y.%2C_Bat._K%2C_S.E._of_Stannard%27s_Column%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-1st_N.Y.%2C_Bat._K%2C_S.E._of_Stannard%27s_Column%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c6/1st_N.Y.%2C_Bat._K%2C_S.E._of_Stannard%27s_Column%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:1st_N.Y.,_Bat._K,_S.E._of_Stannard%27s_Column,_Gettysburg,_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2691,
+  "h": 1693,
+  "id": "STA-0052",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.02,
+  "range": 3.13,
+  "f": 1.0,
+  "depth": "Deep",
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.02° of rotation. Depth measured deep (3.13% of frame width); hung in the VR Parlor at full size.",
+  "va": 0.8756,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/1st_N.Y.%2C_Bat._K%2C_S.E._of_Stannard%27s_Column%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-1st_N.Y.%2C_Bat._K%2C_S.E._of_Stannard%27s_Column%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8756,
+   "L": [
+    0.304167,
+    0.0,
+    0.172656,
+    0.0,
+    0.552152,
+    0.358858
+   ],
+   "R": [
+    0.303319,
+    -0.001485,
+    0.599418,
+    0.000929,
+    0.55129,
+    0.364699
+   ],
+   "g": [
+    1.0,
+    0.9818
+   ]
+  }
+ },
+ {
+  "title": "5th Maine Stevens' Battery, near Culp Hill, Gettysburg",
+  "place": "Gettysburg, Pennsylvania",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "Stevens' Battery of the 5th Maine near Culp's Hill, on the right of the Union line at Gettysburg.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/5th_Maine_Stevens%27_Battery%2C_near_Culp_Hill%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-5th_Maine_Stevens%27_Battery%2C_near_Culp_Hill%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/64/5th_Maine_Stevens%27_Battery%2C_near_Culp_Hill%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:5th_Maine_Stevens%27_Battery,_near_Culp_Hill,_Gettysburg,_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2733,
+  "h": 1724,
+  "id": "STA-0053",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.25,
+  "rot": 0.01,
+  "range": 3.87,
+  "f": 0.65,
+  "depth": "Deep",
+  "cond": "Rectified 2026. Halves registered to 0.25% vertical error and 0.01° of rotation. Depth measured deep (3.87% of frame width); hung in the VR Parlor at 65% size.",
+  "va": 1.302,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/5th_Maine_Stevens%27_Battery%2C_near_Culp_Hill%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-5th_Maine_Stevens%27_Battery%2C_near_Culp_Hill%2C_Gettysburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.302,
+   "L": [
+    0.381771,
+    0.0,
+    0.092969,
+    0.0,
+    0.464905,
+    0.450454
+   ],
+   "R": [
+    0.371613,
+    -0.002497,
+    0.517712,
+    -0.000909,
+    0.463251,
+    0.45513
+   ],
+   "g": [
+    1.0,
+    0.9913
+   ]
+  }
+ },
+ {
+  "title": "Portrait of a family on porch stairs",
+  "place": "Place unrecorded",
+  "year": "1915",
+  "sy": 1915,
+  "era": "late",
+  "cats": [
+   "people"
+  ],
+  "blurb": "A family poses on the stairs of a porch in 1915, from a series of family scenes by an unidentified photographer in the Dennis collection.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Portrait_of_a_family_on_porch_stairs_%28NYPL_b11708207-G91F081_019F%29.tiff/lossy-page1-1920px-Portrait_of_a_family_on_porch_stairs_%28NYPL_b11708207-G91F081_019F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Portrait_of_a_family_on_porch_stairs_%28NYPL_b11708207-G91F081_019F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_family_on_porch_stairs_(NYPL_b11708207-G91F081_019F).tiff",
+  "license": "Public domain",
+  "w": 2988,
+  "h": 1728,
+  "id": "STA-0054",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.02,
+  "range": 0.8,
+  "f": 1.0,
+  "depth": "Gentle",
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.02° of rotation. Depth measured gentle (0.8% of frame width); hung in the VR Parlor at full size.",
+  "va": 1.4209,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Portrait_of_a_family_on_porch_stairs_%28NYPL_b11708207-G91F081_019F%29.tiff/lossy-page1-1920px-Portrait_of_a_family_on_porch_stairs_%28NYPL_b11708207-G91F081_019F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.4209,
+   "L": [
+    0.332292,
+    0.0,
+    0.135156,
+    0.0,
+    0.404505,
+    0.407658
+   ],
+   "R": [
+    0.330011,
+    -0.007064,
+    0.526235,
+    0.000627,
+    0.405536,
+    0.395914
+   ],
+   "g": [
+    0.8884,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "A Happy Family",
+  "place": "Place unrecorded",
+  "year": "1915",
+  "sy": 1915,
+  "era": "late",
+  "cats": [
+   "people"
+  ],
+  "blurb": "A family poses for a cheerful group portrait in this 1915 stereograph from the Dennis collection.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/A_Happy_family_%28NYPL_b11708207-G91F081_047F%29.tiff/lossy-page1-1920px-A_Happy_family_%28NYPL_b11708207-G91F081_047F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b6/A_Happy_family_%28NYPL_b11708207-G91F081_047F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:A_Happy_family_(NYPL_b11708207-G91F081_047F).tiff",
+  "license": "Public domain",
+  "w": 2988,
+  "h": 1728,
+  "id": "STA-0055",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.16,
+  "rot": 0.06,
+  "range": 4.73,
+  "f": 1.0,
+  "depth": "Deep",
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.06° of rotation. Depth measured deep (4.73% of frame width); hung in the VR Parlor at full size.",
+  "va": 0.6226,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/A_Happy_family_%28NYPL_b11708207-G91F081_047F%29.tiff/lossy-page1-1920px-A_Happy_family_%28NYPL_b11708207-G91F081_047F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.6226,
+   "L": [
+    0.238021,
+    0.0,
+    0.202865,
+    0.0,
+    0.661261,
+    0.077027
+   ],
+   "R": [
+    0.240395,
+    -0.00641,
+    0.54188,
+    0.00368,
+    0.658139,
+    0.076243
+   ],
+   "g": [
+    1.0,
+    0.9339
+   ]
+  }
+ },
+ {
+  "title": "Family in touring car",
+  "place": "Place unrecorded",
+  "year": "1915",
+  "sy": 1915,
+  "era": "late",
+  "cats": [
+   "people"
+  ],
+  "blurb": "A family sits for its portrait in an open touring car in 1915, from the Dennis collection's family scenes.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Family_in_touring_car_%28NYPL_b11708207-G91F081_011F%29.tiff/lossy-page1-1920px-Family_in_touring_car_%28NYPL_b11708207-G91F081_011F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Family_in_touring_car_%28NYPL_b11708207-G91F081_011F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Family_in_touring_car_(NYPL_b11708207-G91F081_011F).tiff",
+  "license": "Public domain",
+  "w": 2988,
+  "h": 1728,
+  "id": "STA-0056",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.01,
+  "range": 1.68,
+  "f": 1.0,
+  "depth": "Moderate",
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.01° of rotation. Depth measured moderate (1.68% of frame width); hung in the VR Parlor at full size.",
+  "va": 1.3225,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Family_in_touring_car_%28NYPL_b11708207-G91F081_011F%29.tiff/lossy-page1-1920px-Family_in_touring_car_%28NYPL_b11708207-G91F081_011F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3225,
+   "L": [
+    0.339583,
+    0.0,
+    0.128385,
+    0.0,
+    0.444144,
+    0.363514
+   ],
+   "R": [
+    0.341032,
+    -0.001796,
+    0.517226,
+    -0.004025,
+    0.447879,
+    0.359473
+   ],
+   "g": [
+    1.0,
+    0.955
+   ]
+  }
+ },
+ {
+  "title": "Children in a miniature sleigh",
+  "place": "Place unrecorded",
+  "year": "1915",
+  "sy": 1915,
+  "era": "late",
+  "cats": [
+   "people"
+  ],
+  "blurb": "Children pose bundled into a miniature sleigh for a winter portrait in 1915.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Children_in_a_miniature_sleigh_%28NYPL_b11708207-G91F081_029F%29.tiff/lossy-page1-1920px-Children_in_a_miniature_sleigh_%28NYPL_b11708207-G91F081_029F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Children_in_a_miniature_sleigh_%28NYPL_b11708207-G91F081_029F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Children_in_a_miniature_sleigh_(NYPL_b11708207-G91F081_029F).tiff",
+  "license": "Public domain",
+  "w": 2988,
+  "h": 1728,
+  "id": "STA-0057",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.23,
+  "rot": 0.0,
+  "range": 1.91,
+  "f": 1.0,
+  "depth": "Moderate",
+  "cond": "Rectified 2026. Halves registered to 0.23% vertical error and 0.0° of rotation. Depth measured moderate (1.91% of frame width); hung in the VR Parlor at full size.",
+  "va": 1.3078,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Children_in_a_miniature_sleigh_%28NYPL_b11708207-G91F081_029F%29.tiff/lossy-page1-1920px-Children_in_a_miniature_sleigh_%28NYPL_b11708207-G91F081_029F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3078,
+   "L": [
+    0.338542,
+    0.0,
+    0.13776,
+    0.0,
+    0.447748,
+    0.356306
+   ],
+   "R": [
+    0.33656,
+    -0.000582,
+    0.505459,
+    0.00094,
+    0.449765,
+    0.35485
+   ],
+   "g": [
+    0.9821,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "Group portrait of children on benches",
+  "place": "Place unrecorded",
+  "year": "c. 1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "A group of children pose on benches for this portrait from the Robert N. Dennis collection of stereoscopic views.",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Group_of_natives._%28Group_portrait_of_children_on_benches.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/38/Group_of_natives._%28Group_portrait_of_children_on_benches.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Group_of_natives._(Group_portrait_of_children_on_benches.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 383,
+  "id": "STA-0058",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.21,
+  "rot": 0.01,
+  "range": 2.9,
+  "f": 1.0,
+  "depth": "Deep",
+  "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.01° of rotation. Depth measured deep (2.9% of frame width); hung in the VR Parlor at full size.",
+  "va": 1.0951,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/3/38/Group_of_natives._%28Group_portrait_of_children_on_benches.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 1.0951,
+   "L": [
+    0.378947,
+    0.0,
+    0.080921,
+    0.0,
+    0.686684,
+    0.265013
+   ],
+   "R": [
+    0.379829,
+    -0.001599,
+    0.504923,
+    -0.007043,
+    0.69024,
+    0.262371
+   ],
+   "g": [
+    1.0,
+    0.9943
+   ]
+  }
+ },
+ {
+  "title": "Group portrait of Indians, including children",
+  "place": "Place unrecorded",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "Native American adults and children pose for a group portrait photographed by C. W. Carter.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Group_portrait_of_Indians%2C_including_children%2C_by_C._W._Carter.jpg/1920px-Group_portrait_of_Indians%2C_including_children%2C_by_C._W._Carter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/57/Group_portrait_of_Indians%2C_including_children%2C_by_C._W._Carter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Group_portrait_of_Indians,_including_children,_by_C._W._Carter.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1364,
+  "id": "STA-0059",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.02,
+  "range": 0.47,
+  "f": 1.0,
+  "depth": "Gentle",
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.02° of rotation. Depth measured gentle (0.47% of frame width); hung in the VR Parlor at full size.",
+  "va": 1.2513,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Group_portrait_of_Indians%2C_including_children%2C_by_C._W._Carter.jpg/1920px-Group_portrait_of_Indians%2C_including_children%2C_by_C._W._Carter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2513,
+   "L": [
+    0.386458,
+    0.0,
+    0.091927,
+    0.0,
+    0.619645,
+    0.300418
+   ],
+   "R": [
+    0.384586,
+    -0.002078,
+    0.509482,
+    -0.002381,
+    0.618607,
+    0.304796
+   ],
+   "g": [
+    0.8883,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "A group of children, perhaps a school portrait",
+  "place": "Place unrecorded",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "people"
+  ],
+  "blurb": "A group of children pose for what may be a school portrait, photographed by S. S. Vose.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/A_group_of_children%2C_perhaps_a_school_portrait%2C_by_S._S._Vose.jpg/1920px-A_group_of_children%2C_perhaps_a_school_portrait%2C_by_S._S._Vose.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/e6/A_group_of_children%2C_perhaps_a_school_portrait%2C_by_S._S._Vose.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:A_group_of_children,_perhaps_a_school_portrait,_by_S._S._Vose.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1407,
+  "id": "STA-0060",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.02,
+  "range": 1.25,
+  "f": 1.0,
+  "depth": "Gentle",
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured gentle (1.25% of frame width); hung in the VR Parlor at full size.",
+  "va": 1.0803,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/A_group_of_children%2C_perhaps_a_school_portrait%2C_by_S._S._Vose.jpg/1920px-A_group_of_children%2C_perhaps_a_school_portrait%2C_by_S._S._Vose.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0803,
+   "L": [
+    0.385417,
+    0.0,
+    0.085677,
+    0.0,
+    0.694022,
+    0.047112
+   ],
+   "R": [
+    0.387615,
+    -0.008488,
+    0.513735,
+    0.005445,
+    0.695489,
+    0.045133
+   ],
+   "g": [
+    0.9776,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "Sunset, vessel towing down Niagara River",
+  "place": "Niagara Falls, New York",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "A vessel under tow on the Niagara River at sunset, photographed by C. L. Pond.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Sunset%2C_vessel_towing_down_Niagara_River%2C_by_Pond%2C_C._L._%28Charles_L.%29.jpg/1920px-Sunset%2C_vessel_towing_down_Niagara_River%2C_by_Pond%2C_C._L._%28Charles_L.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Sunset%2C_vessel_towing_down_Niagara_River%2C_by_Pond%2C_C._L._%28Charles_L.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Sunset,_vessel_towing_down_Niagara_River,_by_Pond,_C._L._(Charles_L.).jpg",
+  "license": "Public domain",
+  "w": 2607,
+  "h": 1312,
+  "id": "STA-0061",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 0.64,
+  "f": 1.0,
+  "depth": "Gentle",
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (0.64% of frame width); hung in the VR Parlor at full size.",
+  "va": 0.9485,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Sunset%2C_vessel_towing_down_Niagara_River%2C_by_Pond%2C_C._L._%28Charles_L.%29.jpg/1920px-Sunset%2C_vessel_towing_down_Niagara_River%2C_by_Pond%2C_C._L._%28Charles_L.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9485,
+   "L": [
+    0.297396,
+    0.0,
+    0.197656,
+    0.0,
+    0.623188,
+    0.346273
+   ],
+   "R": [
+    0.297583,
+    -0.010969,
+    0.588407,
+    0.003879,
+    0.622324,
+    0.341709
+   ],
+   "g": [
+    0.9336,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "Rise of the Niagara River, Buffalo",
+  "place": "Buffalo, New York",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "The Niagara River at its rise near Buffalo, where the river leaves Lake Erie on its way toward the Falls.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Rise_of_the_Niagara_River%2C_Buffalo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Rise_of_the_Niagara_River%2C_Buffalo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/de/Rise_of_the_Niagara_River%2C_Buffalo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Rise_of_the_Niagara_River,_Buffalo,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2655,
+  "h": 1348,
+  "id": "STA-0062",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.3,
+  "rot": 0.06,
+  "range": 1.23,
+  "f": 1.0,
+  "depth": "Gentle",
+  "cond": "Rectified 2026. Halves registered to 0.3% vertical error and 0.06° of rotation. Depth measured gentle (1.23% of frame width); hung in the VR Parlor at full size.",
+  "va": 1.5,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Rise_of_the_Niagara_River%2C_Buffalo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Rise_of_the_Niagara_River%2C_Buffalo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5,
+   "L": [
+    0.2625,
+    0.0,
+    0.084115,
+    0.0,
+    0.344615,
+    0.528718
+   ],
+   "R": [
+    0.262741,
+    8.5e-05,
+    0.503896,
+    -0.000397,
+    0.34518,
+    0.528158
+   ],
+   "g": [
+    0.9658,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "Niagara River above the Falls, moonlight",
+  "place": "Niagara Falls, New York",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "The Niagara River above the Falls by moonlight, a night view published by George Barker of Niagara Falls.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Niagara_River_above_the_Falls%2C_moonlight%2C_Niagara%2C_by_Barker%2C_George%2C_1844-1894.png/1920px-Niagara_River_above_the_Falls%2C_moonlight%2C_Niagara%2C_by_Barker%2C_George%2C_1844-1894.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/78/Niagara_River_above_the_Falls%2C_moonlight%2C_Niagara%2C_by_Barker%2C_George%2C_1844-1894.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Niagara_River_above_the_Falls,_moonlight,_Niagara,_by_Barker,_George,_1844-1894.png",
+  "license": "Public domain",
+  "w": 2595,
+  "h": 1308,
+  "id": "STA-0063",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.02,
+  "range": 0.52,
+  "f": 1.0,
+  "depth": "Gentle",
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured gentle (0.52% of frame width); hung in the VR Parlor at full size.",
+  "va": 1.2878,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Niagara_River_above_the_Falls%2C_moonlight%2C_Niagara%2C_by_Barker%2C_George%2C_1844-1894.png/1920px-Niagara_River_above_the_Falls%2C_moonlight%2C_Niagara%2C_by_Barker%2C_George%2C_1844-1894.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2878,
+   "L": [
+    0.314583,
+    0.0,
+    0.178906,
+    0.0,
+    0.484504,
+    0.290806
+   ],
+   "R": [
+    0.318601,
+    -0.014477,
+    0.574698,
+    -0.006863,
+    0.489342,
+    0.279904
+   ],
+   "g": [
+    0.8,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "Niagara River (rapids by moonlight), Niagara Falls",
+  "place": "Niagara Falls, New York",
+  "year": "1893–1902",
+  "sy": 1897,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "The rapids of the Niagara River above the Falls by moonlight, a Keystone View Company card.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Niagara_River_%28rapids_by_moonlight%29%2C_Niagara_Falls%2C_N.Y.%2C_U.S.A%2C_by_Keystone_View_Company.jpg/1920px-Niagara_River_%28rapids_by_moonlight%29%2C_Niagara_Falls%2C_N.Y.%2C_U.S.A%2C_by_Keystone_View_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/53/Niagara_River_%28rapids_by_moonlight%29%2C_Niagara_Falls%2C_N.Y.%2C_U.S.A%2C_by_Keystone_View_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Niagara_River_(rapids_by_moonlight),_Niagara_Falls,_N.Y.,_U.S.A,_by_Keystone_View_Company.jpg",
+  "license": "Public domain",
+  "w": 2687,
+  "h": 1372,
+  "id": "STA-0064",
+  "coll": "Keystone View Company",
+  "vert": 0.05,
+  "rot": 0.01,
+  "range": 0.57,
+  "f": 1.0,
+  "depth": "Gentle",
+  "cond": "Rectified 2026. Halves registered to 0.05% vertical error and 0.01° of rotation. Depth measured gentle (0.57% of frame width); hung in the VR Parlor at full size.",
+  "va": 0.8438,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Niagara_River_%28rapids_by_moonlight%29%2C_Niagara_Falls%2C_N.Y.%2C_U.S.A%2C_by_Keystone_View_Company.jpg/1920px-Niagara_River_%28rapids_by_moonlight%29%2C_Niagara_Falls%2C_N.Y.%2C_U.S.A%2C_by_Keystone_View_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8438,
+   "L": [
+    0.39375,
+    0.0,
+    0.097656,
+    0.0,
+    0.914286,
+    0.041327
+   ],
+   "R": [
+    0.394477,
+    -0.00325,
+    0.510059,
+    -0.005338,
+    0.915507,
+    0.046177
+   ],
+   "g": [
+    0.9363,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "The Upper Yosemite Fall, Yosemite Valley",
+  "place": "Yosemite, California",
+  "year": "Undated",
+  "sy": 1900,
+  "era": "undated",
+  "cats": [
+   "water",
+   "mountains"
+  ],
+  "blurb": "The Upper Yosemite Fall, the topmost tier of Yosemite Falls, pours over the cliff above Yosemite Valley.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/The_Upper_Yosemite_Fall%2C_Yosemite_Valley%2C_Mariposa_County%2C_Cal_%28NYPL_b11707313-G89F391_011F%29.tiff/lossy-page1-1920px-The_Upper_Yosemite_Fall%2C_Yosemite_Valley%2C_Mariposa_County%2C_Cal_%28NYPL_b11707313-G89F391_011F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/99/The_Upper_Yosemite_Fall%2C_Yosemite_Valley%2C_Mariposa_County%2C_Cal_%28NYPL_b11707313-G89F391_011F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Upper_Yosemite_Fall,_Yosemite_Valley,_Mariposa_County,_Cal_(NYPL_b11707313-G89F391_011F).tiff",
+  "license": "Public domain",
+  "w": 3072,
+  "h": 1771,
+  "id": "STA-0065",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.01,
+  "range": 0.24,
+  "f": 1.0,
+  "depth": "Gentle",
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured gentle (0.24% of frame width); hung in the VR Parlor at full size.",
+  "va": 0.8353,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/The_Upper_Yosemite_Fall%2C_Yosemite_Valley%2C_Mariposa_County%2C_Cal_%28NYPL_b11707313-G89F391_011F%29.tiff/lossy-page1-1920px-The_Upper_Yosemite_Fall%2C_Yosemite_Valley%2C_Mariposa_County%2C_Cal_%28NYPL_b11707313-G89F391_011F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8353,
+   "L": [
+    0.335417,
+    0.0,
+    0.136198,
+    0.0,
+    0.696477,
+    0.232611
+   ],
+   "R": [
+    0.335298,
+    0.000701,
+    0.509611,
+    -0.000901,
+    0.699051,
+    0.22867
+   ],
+   "g": [
+    0.9949,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "Mirror Lake, Mountains and Reflections, Yosemite Valley",
+  "place": "Yosemite, California",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water",
+   "mountains"
+  ],
+  "blurb": "Mirror Lake in Yosemite Valley, its still water reflecting the cliffs around it.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Mirror_Lake%2C_Mountains_and_Reflections%2C_Yosemite_Valley%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Mirror_Lake%2C_Mountains_and_Reflections%2C_Yosemite_Valley%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/01/Mirror_Lake%2C_Mountains_and_Reflections%2C_Yosemite_Valley%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Mirror_Lake,_Mountains_and_Reflections,_Yosemite_Valley,_California,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1430,
+  "id": "STA-0066",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 2.1,
+  "f": 1.0,
+  "depth": "Moderate",
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured moderate (2.1% of frame width); hung in the VR Parlor at full size.",
+  "va": 0.7003,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Mirror_Lake%2C_Mountains_and_Reflections%2C_Yosemite_Valley%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Mirror_Lake%2C_Mountains_and_Reflections%2C_Yosemite_Valley%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7003,
+   "L": [
+    0.325,
+    0.0,
+    0.149219,
+    0.0,
+    0.888335,
+    0.055334
+   ],
+   "R": [
+    0.32353,
+    0.001761,
+    0.528606,
+    -0.00448,
+    0.888665,
+    0.064908
+   ],
+   "g": [
+    0.9863,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "Mirror Lake, Mts. and Reflections, Yosemite Valley",
+  "place": "Yosemite, California",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water",
+   "mountains"
+  ],
+  "blurb": "A second Dennis view of Mirror Lake in Yosemite Valley, its surface mirroring the granite walls.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Mirror_Lake%2C_Mts._and_Reflections%2C_Yosemite_Valley%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Mirror_Lake%2C_Mts._and_Reflections%2C_Yosemite_Valley%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Mirror_Lake%2C_Mts._and_Reflections%2C_Yosemite_Valley%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Mirror_Lake,_Mts._and_Reflections,_Yosemite_Valley,_California,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1436,
+  "id": "STA-0067",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.17,
+  "rot": 0.04,
+  "range": 2.35,
+  "f": 1.0,
+  "depth": "Deep",
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.04° of rotation. Depth measured deep (2.35% of frame width); hung in the VR Parlor at full size.",
+  "va": 1.2523,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Mirror_Lake%2C_Mts._and_Reflections%2C_Yosemite_Valley%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Mirror_Lake%2C_Mts._and_Reflections%2C_Yosemite_Valley%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2523,
+   "L": [
+    0.351562,
+    0.0,
+    0.12526,
+    0.0,
+    0.535253,
+    0.296425
+   ],
+   "R": [
+    0.354628,
+    0.002114,
+    0.517082,
+    -0.006046,
+    0.538318,
+    0.29144
+   ],
+   "g": [
+    0.9141,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "Granitic fissure in Eagle Rock, Yosemite Valley",
+  "place": "Yosemite, California",
+  "year": "1868–1873",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "A granitic fissure splits Eagle Rock in Yosemite Valley, in a view photographed by Eadweard Muybridge.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Granitic_fissure_in_Eagle_Rock%2C_1000_feet_deep%2C_Yosemite_Valley%2C_California%2C_by_Muybridge%2C_Eadweard%2C_1830-1904.png/1920px-Granitic_fissure_in_Eagle_Rock%2C_1000_feet_deep%2C_Yosemite_Valley%2C_California%2C_by_Muybridge%2C_Eadweard%2C_1830-1904.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/60/Granitic_fissure_in_Eagle_Rock%2C_1000_feet_deep%2C_Yosemite_Valley%2C_California%2C_by_Muybridge%2C_Eadweard%2C_1830-1904.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Granitic_fissure_in_Eagle_Rock,_1000_feet_deep,_Yosemite_Valley,_California,_by_Muybridge,_Eadweard,_1830-1904.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1353,
+  "id": "STA-0068",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.07,
+  "range": 4.39,
+  "f": 1.0,
+  "depth": "Deep",
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.07° of rotation. Depth measured deep (4.39% of frame width); hung in the VR Parlor at full size.",
+  "va": 0.5429,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Granitic_fissure_in_Eagle_Rock%2C_1000_feet_deep%2C_Yosemite_Valley%2C_California%2C_by_Muybridge%2C_Eadweard%2C_1830-1904.png/1920px-Granitic_fissure_in_Eagle_Rock%2C_1000_feet_deep%2C_Yosemite_Valley%2C_California%2C_by_Muybridge%2C_Eadweard%2C_1830-1904.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.5429,
+   "L": [
+    0.233854,
+    0.0,
+    0.248698,
+    0.0,
+    0.871444,
+    0.065859
+   ],
+   "R": [
+    0.22014,
+    -0.009243,
+    0.642362,
+    -0.003837,
+    0.873875,
+    0.065774
+   ],
+   "g": [
+    0.9174,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "El Capitan, solid granite (3300 ft. high), looking N.W.",
+  "place": "Yosemite, California",
+  "year": "1893–1904",
+  "sy": 1898,
+  "era": "mid",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "El Capitan's granite face rises some 3,300 feet over Yosemite Valley in this Underwood & Underwood view.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/El_Capitan%2C_solid_granite_%283300_ft._high%29%2C_looking_N.W._Yosemite_Valley%2C_Cal%2C_by_Underwood_%26_Underwood.png/1920px-El_Capitan%2C_solid_granite_%283300_ft._high%29%2C_looking_N.W._Yosemite_Valley%2C_Cal%2C_by_Underwood_%26_Underwood.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/13/El_Capitan%2C_solid_granite_%283300_ft._high%29%2C_looking_N.W._Yosemite_Valley%2C_Cal%2C_by_Underwood_%26_Underwood.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:El_Capitan,_solid_granite_(3300_ft._high),_looking_N.W._Yosemite_Valley,_Cal,_by_Underwood_%26_Underwood.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1405,
+  "id": "STA-0069",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 1.25,
+  "f": 1.0,
+  "depth": "Gentle",
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured gentle (1.25% of frame width); hung in the VR Parlor at full size.",
+  "va": 0.8234,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/El_Capitan%2C_solid_granite_%283300_ft._high%29%2C_looking_N.W._Yosemite_Valley%2C_Cal%2C_by_Underwood_%26_Underwood.png/1920px-El_Capitan%2C_solid_granite_%283300_ft._high%29%2C_looking_N.W._Yosemite_Valley%2C_Cal%2C_by_Underwood_%26_Underwood.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8234,
+   "L": [
+    0.373958,
+    0.0,
+    0.113802,
+    0.0,
+    0.884381,
+    0.059331
+   ],
+   "R": [
+    0.379475,
+    0.002318,
+    0.52514,
+    0.004278,
+    0.893148,
+    0.046918
+   ],
+   "g": [
+    0.9618,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "El Capitan (3300 ft. high) from across the Merced River",
+  "place": "Yosemite, California",
+  "year": "1893–1904",
+  "sy": 1898,
+  "era": "mid",
+  "cats": [
+   "water",
+   "mountains"
+  ],
+  "blurb": "El Capitan seen from across the Merced River in Yosemite Valley, an Underwood & Underwood view.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/El_Capitan%2C_solid_granite_3300_ft._high_%28N.W.%29_from_across_the_Merced_River_Yosemite_valley%2C_Cal%2C_by_Underwood_%26_Underwood.png/1920px-El_Capitan%2C_solid_granite_3300_ft._high_%28N.W.%29_from_across_the_Merced_River_Yosemite_valley%2C_Cal%2C_by_Underwood_%26_Underwood.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/ff/El_Capitan%2C_solid_granite_3300_ft._high_%28N.W.%29_from_across_the_Merced_River_Yosemite_valley%2C_Cal%2C_by_Underwood_%26_Underwood.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:El_Capitan,_solid_granite_3300_ft._high_(N.W.)_from_across_the_Merced_River_Yosemite_valley,_Cal,_by_Underwood_%26_Underwood.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1423,
+  "id": "STA-0070",
+  "coll": "Source unrecorded",
+  "vert": 0.06,
+  "rot": 0.01,
+  "range": 3.31,
+  "f": 1.0,
+  "depth": "Deep",
+  "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.01° of rotation. Depth measured deep (3.31% of frame width); hung in the VR Parlor at full size.",
+  "va": 0.8277,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/El_Capitan%2C_solid_granite_3300_ft._high_%28N.W.%29_from_across_the_Merced_River_Yosemite_valley%2C_Cal%2C_by_Underwood_%26_Underwood.png/1920px-El_Capitan%2C_solid_granite_3300_ft._high_%28N.W.%29_from_across_the_Merced_River_Yosemite_valley%2C_Cal%2C_by_Underwood_%26_Underwood.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8277,
+   "L": [
+    0.372917,
+    0.0,
+    0.110156,
+    0.0,
+    0.866733,
+    0.061623
+   ],
+   "R": [
+    0.377956,
+    0.001664,
+    0.529165,
+    0.010139,
+    0.874446,
+    0.053229
+   ],
+   "g": [
+    1.0,
+    0.9848
+   ]
+  }
+ },
+ {
+  "title": "Looking north on Broadway, \"The Great White Way,\" New York City",
+  "place": "New York, New York",
+  "year": "1925",
+  "sy": 1925,
+  "era": "late",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "Broadway looking north through the theater district, the 'Great White Way,' in a view published in 1925.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Looking_north_on_Broadway%2C_%22The_Great_White_Way%2C%22_New_York_City%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Looking_north_on_Broadway%2C_%22The_Great_White_Way%2C%22_New_York_City%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Looking_north_on_Broadway%2C_%22The_Great_White_Way%2C%22_New_York_City%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Looking_north_on_Broadway,_%22The_Great_White_Way,%22_New_York_City,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2613,
+  "h": 1326,
+  "id": "STA-0071",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.03,
+  "range": 1.19,
+  "f": 1.0,
+  "depth": "Gentle",
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.03° of rotation. Depth measured gentle (1.19% of frame width); hung in the VR Parlor at full size.",
+  "va": 0.8461,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Looking_north_on_Broadway%2C_%22The_Great_White_Way%2C%22_New_York_City%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Looking_north_on_Broadway%2C_%22The_Great_White_Way%2C%22_New_York_City%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8461,
+   "L": [
+    0.397917,
+    0.0,
+    0.083073,
+    0.0,
+    0.927105,
+    0.029261
+   ],
+   "R": [
+    0.400313,
+    -0.005327,
+    0.519544,
+    0.006377,
+    0.932434,
+    0.025105
+   ],
+   "g": [
+    0.9597,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "Looking north on Broadway, \"The Great White Way,\" New York City (alternate view)",
+  "place": "New York, New York",
+  "year": "1925",
+  "sy": 1925,
+  "era": "late",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "A second, different photograph of Broadway looking north along the 'Great White Way,' dated 1925.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Looking_north_on_Broadway%2C_%22The_Great_White_Way%2C%22_New_York_City_%28NYPL_b11708037-G91F183_002F%29.tiff/lossy-page1-1920px-Looking_north_on_Broadway%2C_%22The_Great_White_Way%2C%22_New_York_City_%28NYPL_b11708037-G91F183_002F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Looking_north_on_Broadway%2C_%22The_Great_White_Way%2C%22_New_York_City_%28NYPL_b11708037-G91F183_002F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Looking_north_on_Broadway,_%22The_Great_White_Way,%22_New_York_City_(NYPL_b11708037-G91F183_002F).tiff",
+  "license": "Public domain",
+  "w": 2888,
+  "h": 1693,
+  "id": "STA-0072",
+  "coll": "Source unrecorded",
+  "vert": 0.14,
+  "rot": 0.07,
+  "range": 1.28,
+  "f": 1.0,
+  "depth": "Gentle",
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.07° of rotation. Depth measured gentle (1.28% of frame width); hung in the VR Parlor at full size.",
+  "va": 0.8869,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Looking_north_on_Broadway%2C_%22The_Great_White_Way%2C%22_New_York_City_%28NYPL_b11708037-G91F183_002F%29.tiff/lossy-page1-1920px-Looking_north_on_Broadway%2C_%22The_Great_White_Way%2C%22_New_York_City_%28NYPL_b11708037-G91F183_002F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8869,
+   "L": [
+    0.359375,
+    0.0,
+    0.120573,
+    0.0,
+    0.690941,
+    0.093694
+   ],
+   "R": [
+    0.361949,
+    -0.005433,
+    0.515446,
+    0.004858,
+    0.694754,
+    0.090596
+   ],
+   "g": [
+    0.9586,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "Broadway above 26th street",
+  "place": "New York, New York",
+  "year": "c. 1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "Broadway just above 26th Street in New York, from the Dennis collection's views of the city.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Broadway_above_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Broadway_above_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Broadway_above_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Broadway_above_26th_street,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2595,
+  "h": 1287,
+  "id": "STA-0073",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.02,
+  "range": 1.68,
+  "f": 1.0,
+  "depth": "Moderate",
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.02° of rotation. Depth measured moderate (1.68% of frame width); hung in the VR Parlor at full size.",
+  "va": 0.8335,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Broadway_above_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Broadway_above_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8335,
+   "L": [
+    0.385937,
+    0.0,
+    0.103385,
+    0.0,
+    0.933824,
+    0.022584
+   ],
+   "R": [
+    0.390235,
+    -0.00748,
+    0.517688,
+    0.00389,
+    0.941636,
+    0.027094
+   ],
+   "g": [
+    0.9397,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "Broadway about 26th street",
+  "place": "New York, New York",
+  "year": "c. 1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "Broadway at about 26th Street in New York, from the Dennis collection's views of the city.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Broadway_about_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Broadway_about_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Broadway_about_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Broadway_about_26th_street,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2574,
+  "h": 1302,
+  "id": "STA-0074",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.03,
+  "range": 1.37,
+  "f": 1.0,
+  "depth": "Gentle",
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.03° of rotation. Depth measured gentle (1.37% of frame width); hung in the VR Parlor at full size.",
+  "va": 0.7895,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Broadway_about_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Broadway_about_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7895,
+   "L": [
+    0.369271,
+    0.0,
+    0.114844,
+    0.0,
+    0.92482,
+    0.030381
+   ],
+   "R": [
+    0.37177,
+    -0.008945,
+    0.53807,
+    0.009537,
+    0.931636,
+    0.031479
+   ],
+   "g": [
+    0.9461,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "The \"Broadway Bridge,\" corner of Broadway & Fulton St.",
+  "place": "New York, New York",
+  "year": "c. 1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "The 'Broadway Bridge' at the corner of Broadway and Fulton Street in New York, from the Dennis collection.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/The_%22Broadway_Bridge%22_cor._Broadway_%26_Fulton_St.%2C_N._Y.%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_%22Broadway_Bridge%22_cor._Broadway_%26_Fulton_St.%2C_N._Y.%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c1/The_%22Broadway_Bridge%22_cor._Broadway_%26_Fulton_St.%2C_N._Y.%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:The_%22Broadway_Bridge%22_cor._Broadway_%26_Fulton_St.,_N._Y.,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2532,
+  "h": 1215,
+  "id": "STA-0075",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 3.76,
+  "f": 0.79,
+  "depth": "Deep",
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured deep (3.76% of frame width); hung in the VR Parlor at 79% size.",
+  "va": 1.0854,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/The_%22Broadway_Bridge%22_cor._Broadway_%26_Fulton_St.%2C_N._Y.%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_%22Broadway_Bridge%22_cor._Broadway_%26_Fulton_St.%2C_N._Y.%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0854,
+   "L": [
+    0.436979,
+    0.0,
+    0.046094,
+    0.0,
+    0.839305,
+    0.123236
+   ],
+   "R": [
+    0.437003,
+    -0.001691,
+    0.507623,
+    -0.001177,
+    0.843079,
+    0.132431
+   ],
+   "g": [
+    0.9775,
+    1.0
+   ]
+  }
+ },
+ {
+  "title": "Broadway above 26th street, second view",
+  "place": "New York, New York",
+  "year": "c. 1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "A second Dennis view of Broadway above 26th Street in New York, from a different negative than the companion card.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Broadway_above_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Broadway_above_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/44/Broadway_above_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Broadway_above_26th_street,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2562,
+  "h": 1275,
+  "id": "STA-0076",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 1.64,
+  "f": 1.0,
+  "depth": "Moderate",
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured moderate (1.64% of frame width); hung in the VR Parlor at full size.",
+  "va": 0.7456,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Broadway_above_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Broadway_above_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7456,
+   "L": [
+    0.349479,
+    0.0,
+    0.102865,
+    0.0,
+    0.941423,
+    0.018305
+   ],
+   "R": [
+    0.354014,
+    -0.003545,
+    0.519471,
+    0.00264,
+    0.947414,
+    0.028698
+   ],
+   "g": [
+    0.9563,
+    1.0
+   ]
+  }
  }
 ]
