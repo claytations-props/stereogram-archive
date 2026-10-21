@@ -84,10 +84,6 @@ const floor=new THREE.Mesh(new THREE.CircleGeometry(5.5,48),new THREE.MeshStanda
 floor.rotation.x=-Math.PI/2;scene.add(floor);
 const ring=new THREE.Mesh(new THREE.RingGeometry(1.55,1.6,64),new THREE.MeshBasicMaterial({color:0xc9a86a,side:THREE.DoubleSide}));
 ring.rotation.x=-Math.PI/2;ring.position.y=0.002;scene.add(ring);
-// dust motes
-{const n=260,pos=new Float32Array(n*3);for(let i=0;i<n;i++){pos[i*3]=(Math.random()-.5)*7;pos[i*3+1]=Math.random()*3.2+.2;pos[i*3+2]=(Math.random()-.5)*7}
-const g=new THREE.BufferGeometry();g.setAttribute('position',new THREE.BufferAttribute(pos,3));
-window._dust=new THREE.Points(g,new THREE.PointsMaterial({color:0xd8bd85,size:.014,transparent:true,opacity:.55}));scene.add(window._dust);}
 
 // stage group
 const stage=new THREE.Group();stage.position.set(0,1.5,-2.3);scene.add(stage);
@@ -214,7 +210,6 @@ addEventListener('resize',()=>{camera.aspect=innerWidth/innerHeight;camera.updat
 fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(items=>{DATA=items.map((d,i)=>({t:d.title,p:d.place,y:d.year,img:'rect/'+String(i).padStart(2,'0')+'.jpg',src:d.full,a:d.va,f:d.f}));show(0);}).catch(()=>{statusEl.textContent='The catalogue could not be loaded. Please reload the page.';});
 renderer.setAnimationLoop(t=>{
   camera.rotation.set(pitch,yaw,0,'YXZ');
-  if(window._dust)window._dust.rotation.y=t*0.000012;
   renderer.render(scene,camera);
 });
 if(!('xr' in navigator))statusEl.textContent='This browser has no WebXR, so no VR button. The parlor still works flat here, and in a Quest or Vision Pro browser you will get the full VR version.';
