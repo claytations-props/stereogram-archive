@@ -157,6 +157,7 @@ DATA.forEach((d,i)=>{
 // main card loading
 let cur=-1,busy=false;
 const texLoader=new THREE.TextureLoader();texLoader.setCrossOrigin('anonymous');
+const maxAniso=Math.min(16,renderer.capabilities.getMaxAnisotropy());
 function show(idx){
   idx=(idx+DATA.length)%DATA.length;if(idx===cur||busy)return;busy=true;cur=idx;
   const d=DATA[idx];
