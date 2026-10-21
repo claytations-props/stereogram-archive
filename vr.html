@@ -37,7 +37,7 @@ a{color:var(--brass)}
   <div class="top">
     <div class="kicker">The Stereograph Archive</div>
     <h1>🥽 The VR Parlor</h1>
-    <p>Put on your headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, so the depth just works. Each card auto aligns itself and tucks its depth behind the frame as it loads. <b>Trigger</b> or tap a plaque to flip cards, point at the thumbnails below to jump, and on a flat screen just drag to look around.</p>
+    <p>Put on your headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, so the depth just works. Each card auto aligns itself, crops to the view both eyes share, and tucks its depth behind the frame as it loads. <b>Trigger</b> or tap a plaque to flip cards, point at the thumbnails below to jump, and on a flat screen just drag to look around.</p>
     <div id="status">Loading the parlor…</div>
   </div>
   <div class="bottom">
@@ -169,7 +169,10 @@ function analyzeImage(img){
     cx.drawImage(img,0,0,AW,AH);
     const px=cx.getImageData(0,0,AW,AH).data;
     const g=new Float32Array(AW*AH);
-    for(let i=0,j=0;i<px.length;i+=4,j++)g[j]=px[i]*0.299+px[i+1]*0.587+px[i+2]*0.114;
+    let sumL=0,sumR=0;
+    for(let i=0,j=0;i<px.length;i+=4,j++){const v=px[i]*0.299+px[i+1]*0.587+px[i+2]*0.114;g[j]=v;if(j%AW<half)sumL+=v;else sumR+=v;}
+    const meanL=sumL/(AH*half),meanR=sumR/(AH*half),mTarget=Math.min(meanL,meanR);
+    const gainL=Math.max(0.85,mTarget/meanL),gainR=Math.max(0.85,mTarget/meanR);
     const prof=x0=>{const pr=new Float32Array(AH-1);for(let y=0;y<AH-1;y++){let sm=0;for(let x=x0;x<x0+half;x++)sm+=Math.abs(g[(y+1)*AW+x]-g[y*AW+x]);pr[y]=sm/half;}return pr;};
     const pL=prof(0),pR=prof(half);
     let dy=0,bestC=-2;
@@ -202,7 +205,7 @@ function analyzeImage(img){
     }
     let shift=0.012;
     if(disps.length>=5){disps.sort((a,b)=>a-b);const near=disps[Math.floor(disps.length*0.1)];shift=Math.max(0.012,Math.min(0.06,0.004-near));}
-    return {dyFrac,dyPx:dy,shift};
+    return {dyFrac,dyPx:dy,shift,gainL,gainR};
   }catch(e){return null;}
 }
 
@@ -216,15 +219,18 @@ function show(idx){
   texLoader.load(d.img,tex=>{
     tex.colorSpace=THREE.SRGBColorSpace;tex.anisotropy=8;
     const al=alignCache[idx]!==undefined?alignCache[idx]:(alignCache[idx]=analyzeImage(tex.image));
-    const aspect=(d.w*0.492)/(d.h*0.99);
+    const aspect=(d.w*0.44)/(d.h*0.92);
     let W=1.02,H=W/aspect; if(H>1.0){H=1.0;W=H*aspect;}
     const winS=al?al.shift:0.012, dyF=al?al.dyFrac:0;
     [leftPlane,rightPlane].forEach((pl,i)=>{
       const t=tex.clone();t.needsUpdate=true;t.wrapS=THREE.ClampToEdgeWrapping;t.wrapT=THREE.ClampToEdgeWrapping;
       t.minFilter=THREE.LinearMipmapLinearFilter;t.anisotropy=maxAniso;
-      t.repeat.set(0.492,0.99);
-      if(i===0)t.offset.set(0.004+winS*0.492/2,0.005+dyF/2); else t.offset.set(0.504-winS*0.492/2,0.005-dyF/2);
-      pl.material.map=t;pl.material.color.set(0xffffff);pl.geometry.dispose();pl.geometry=new THREE.PlaneGeometry(W,H);pl.material.needsUpdate=true;
+      // crop both eyes to the shared interior of the photo: 6% in from each side
+      // of each half, 4% top and bottom, so photo edges, gutter slivers and
+      // one-eye-only strips never reach the viewer
+      t.repeat.set(0.44,0.92);
+      if(i===0)t.offset.set(0.03+winS*0.44/2,0.04+dyF/2); else t.offset.set(0.53-winS*0.44/2,0.04-dyF/2);
+      pl.material.map=t;pl.material.color.setScalar(i===0?(al?al.gainL:1):(al?al.gainR:1));pl.geometry.dispose();pl.geometry=new THREE.PlaneGeometry(W,H);pl.material.needsUpdate=true;
     });
     layoutFrame(W,H);
     const pt=tex.clone();pt.needsUpdate=true;
@@ -233,7 +239,7 @@ function show(idx){
     pairFrame.geometry.dispose();pairFrame.geometry=new THREE.PlaneGeometry(pw+0.08,1.18);
     drawCaption(d,idx);
     thumbMeshes.forEach((m,i)=>{m.scale.setScalar(i===idx?1.25:1)});
-    statusEl.textContent=al?('Aligned on load: vertical fix '+(al.dyPx>0?'+':'')+al.dyPx+' px, depth tucked behind the frame. '+(navigator.xr?'Press Enter VR when ready.':'')):('Ready. '+(navigator.xr?'Press Enter VR in your headset browser.':'Drag to look around, arrow keys flip cards.'));
+    statusEl.textContent=al?('Aligned and cropped to the shared view: vertical fix '+(al.dyPx>0?'+':'')+al.dyPx+' px, depth tucked behind the frame. '+(navigator.xr?'Press Enter VR when ready.':'')):('Ready. '+(navigator.xr?'Press Enter VR in your headset browser.':'Drag to look around, arrow keys flip cards.'));
     busy=false;
   },undefined,()=>{statusEl.textContent='That card failed to load, skipping…';busy=false;setTimeout(()=>show(idx+1),400);});
 }
