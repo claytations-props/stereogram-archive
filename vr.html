@@ -32,6 +32,7 @@ button:hover{border-color:var(--brass);color:#e8c987}
 button.gold{background:var(--brass);color:#191510;border-color:var(--brass)}
 a{color:var(--brass)}
 #nourl{font-size:12px;color:var(--dim);margin-top:6px}
+@media(max-width:640px){.top{max-width:248px;padding:9px 11px}.top p{display:none}.cardinfo{max-width:205px}button{padding:12px 16px;font-size:14px}}
 </style>
 <script type="importmap">{"imports":{"three":"https://unpkg.com/three@0.160.0/build/three.module.js","three/addons/":"https://unpkg.com/three@0.160.0/examples/jsm/"}}</script>
 </head>
@@ -41,7 +42,7 @@ a{color:var(--brass)}
   <div class="top">
     <div class="kicker">The Stereograph Archive</div>
     <h1>🥽 The VR Parlor</h1>
-    <p>Put on your headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, so the depth just works. Every view is aligned by a measuring pipeline before it hangs here, so your eyes can relax. There is no frame and no wall: the photograph hangs far away in the dark, enlarged, its edges feathered into the black. <b>Trigger</b> flips forward, <b>squeeze</b> goes back.</p>
+    <p>Put on your headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, so the depth just works. Every view is aligned by a measuring pipeline before it hangs here, so your eyes can relax. There is no frame and no wall: the photograph hangs far away in the dark, enlarged, its edges feathered into the black. <b>Trigger</b> flips forward, <b>squeeze</b> goes back, and you can also point at the arrows beside the photo or flick the thumbstick.</p>
     <div id="status">Loading the parlor…</div>
   </div>
   <div class="bottom">
@@ -87,8 +88,6 @@ ring.rotation.x=-Math.PI/2;ring.position.y=0.002;scene.add(ring);
 
 // stage group
 const stage=new THREE.Group();stage.position.set(0,1.5,-2.3);scene.add(stage);
-const frame=new THREE.Mesh(new THREE.PlaneGeometry(1.42,1.3),new THREE.MeshStandardMaterial({color:0x8a6f3e,roughness:.45,metalness:.65}));
-frame.position.z=-0.015;stage.add(frame);
 // the photograph hangs FAR away (12.3 m) in the dark, enlarged, with no
 // frame and no wall around it. Its edges feather into the black background
 // (alpha map below) so it never ends in a hard line: just the scene itself,
@@ -108,8 +107,7 @@ leftPlane.layers.set(1);rightPlane.layers.set(2);
 // enlarged, its edges feathered into the black. The flat fallback pair gets
 // the same feather so it floats the same way.
 const pairPlane=new THREE.Mesh(new THREE.PlaneGeometry(2.2,1.1),new THREE.MeshBasicMaterial({color:0x111111,transparent:true,alphaMap:featherTex}));
-pairPlane.position.set(0,1.5,-1.66);pairPlane.visible=true;scene.add(pairPlane);
-frame.visible=false;
+pairPlane.position.set(0,1.5,-1.66);pairPlane.visible=false;scene.add(pairPlane);
 
 // caption plaque (canvas texture)
 const capCanvas=document.createElement('canvas');capCanvas.width=1024;capCanvas.height=128;
@@ -120,28 +118,35 @@ function drawCaption(d,idx){
   const c=capCanvas.getContext('2d');
   c.clearRect(0,0,1024,128);
   c.fillStyle='rgba(10,9,7,0.45)';c.beginPath();c.roundRect(0,14,1024,100,26);c.fill();
-  c.fillStyle='#ece5d8';c.textAlign='center';c.textBaseline='middle';c.font='600 43px Georgia,serif';
-  c.fillText(d.t+'  ·  '+d.p+'  ·  '+d.y,512,66,980);
+  c.fillStyle='#ece5d8';c.textAlign='center';c.textBaseline='middle';
+  const ctext=d.t+'  ·  '+d.p+'  ·  '+d.y;
+  c.font='600 '+(ctext.length>54?33:ctext.length>44?38:43)+'px Georgia,serif';
+  c.fillText(ctext,512,66,980);
   capTex.needsUpdate=true;
   document.getElementById('ciTitle').textContent=d.t;
   document.getElementById('ciMeta').textContent=d.p+' · '+d.y+' · Card '+(idx+1)+' of '+DATA.length;
 }
-function textPlaque(text,w=0.17){
-  const cv=document.createElement('canvas');cv.width=256;cv.height=256;const c=cv.getContext('2d');
-  c.clearRect(0,0,256,256);
-  c.fillStyle='rgba(10,9,7,0.45)';c.beginPath();c.roundRect(28,28,200,200,40);c.fill();
-  c.fillStyle='#e8c987';c.font='700 130px Georgia,serif';c.textAlign='center';c.textBaseline='middle';c.fillText(text,128,140);
-  const t=new THREE.CanvasTexture(cv);
-  const m=new THREE.Mesh(new THREE.PlaneGeometry(w,w),new THREE.MeshBasicMaterial({map:t,transparent:true}));
-  m.layers.enableAll();return m;
+function arrowButton(glyph,act){
+  const cv=document.createElement('canvas');cv.width=cv.height=256;const c=cv.getContext('2d');
+  c.beginPath();c.arc(128,128,116,0,7);c.fillStyle='rgba(12,10,7,0.62)';c.fill();
+  c.lineWidth=7;c.strokeStyle='rgba(232,201,135,.95)';c.stroke();
+  c.fillStyle='#e8c987';c.font='700 150px Georgia,serif';c.textAlign='center';c.textBaseline='middle';c.fillText(glyph,128,142);
+  const vis=new THREE.Mesh(new THREE.PlaneGeometry(.36,.36),new THREE.MeshBasicMaterial({map:new THREE.CanvasTexture(cv),transparent:true,depthWrite:false}));
+  vis.layers.enableAll();
+  const hit=new THREE.Mesh(new THREE.PlaneGeometry(.68,.68),new THREE.MeshBasicMaterial({visible:false}));
+  hit.layers.enableAll();hit.userData.act=act;hit.userData.vis=vis;
+  const g=new THREE.Group();g.add(vis);g.add(hit);g.userData.hit=hit;
+  return g;
 }
-const prevMesh=textPlaque('‹');prevMesh.position.set(-0.66,0.42,-2.0);prevMesh.userData.act='prev';scene.add(prevMesh);
-const nextMesh=textPlaque('›');nextMesh.position.set(0.66,0.42,-2.0);nextMesh.userData.act='next';scene.add(nextMesh);
+const prevBtn3d=arrowButton('\u2039','prev');prevBtn3d.position.set(-1.08,1.5,-2.2);scene.add(prevBtn3d);
+const nextBtn3d=arrowButton('\u203a','next');nextBtn3d.position.set(1.08,1.5,-2.2);scene.add(nextBtn3d);
+const HITLIST=[prevBtn3d.userData.hit,nextBtn3d.userData.hit];
 
 // main card loading
 let cur=-1,busy=false;
 const texLoader=new THREE.TextureLoader();texLoader.setCrossOrigin('anonymous');
 const maxAniso=Math.min(16,renderer.capabilities.getMaxAnisotropy());
+let liveTex=[];
 function show(idx){
   idx=(idx+DATA.length)%DATA.length;if(idx===cur||busy)return;busy=true;cur=idx;
   const d=DATA[idx];
@@ -154,15 +159,16 @@ function show(idx){
     // only hangs it, at the size the pipeline chose for its depth.
     let W=1.02,H=W/d.a; if(H>1.0){H=1.0;W=H*d.a;}
     W*=PORTAL_K*d.f; H*=PORTAL_K*d.f;
+    liveTex.forEach(t=>t.dispose());liveTex=[tex];
     [leftPlane,rightPlane].forEach((pl,i)=>{
-      const t=tex.clone();t.needsUpdate=true;t.wrapS=THREE.ClampToEdgeWrapping;t.wrapT=THREE.ClampToEdgeWrapping;
+      const t=tex.clone();liveTex.push(t);t.needsUpdate=true;t.wrapS=THREE.ClampToEdgeWrapping;t.wrapT=THREE.ClampToEdgeWrapping;
       t.minFilter=THREE.LinearMipmapLinearFilter;t.anisotropy=maxAniso;
       t.repeat.set(0.5,1);t.offset.set(i*0.5,0);
       pl.material.map=t;pl.material.color.setScalar(1);pl.geometry.dispose();pl.geometry=new THREE.PlaneGeometry(W,H);pl.material.needsUpdate=true;
     });
-    const pt=tex.clone();pt.needsUpdate=true;
+    const pt=tex.clone();liveTex.push(pt);pt.needsUpdate=true;
     pairPlane.material.map=pt;pairPlane.material.color.set(0xffffff);
-    const paspect=2*d.a;const pw=Math.min(1.1*paspect,2.3);pairPlane.geometry.dispose();pairPlane.geometry=new THREE.PlaneGeometry(pw,1.1);pairPlane.material.needsUpdate=true;
+    const paspect=2*d.a;let pw=1.35*paspect,ph=1.35;if(pw>2.4){pw=2.4;ph=pw/paspect;}pairPlane.geometry.dispose();pairPlane.geometry=new THREE.PlaneGeometry(pw,ph);pairPlane.material.needsUpdate=true;pairPlane.visible=!renderer.xr.isPresenting;
     drawCaption(d,idx);
     statusEl.textContent='Rectified and comfort checked by the overlay pipeline. '+(navigator.xr?'Press Enter VR when ready.':'Drag to look around, arrow keys flip cards.');
     busy=false;
@@ -175,7 +181,7 @@ document.getElementById('randBtn').onclick=()=>show(Math.floor(Math.random()*DAT
 addEventListener('keydown',e=>{if(e.key==='ArrowRight')next();if(e.key==='ArrowLeft')prev();});
 
 // VR enter/exit: swap flat pair for true per-eye planes
-renderer.xr.addEventListener('sessionstart',()=>{pairPlane.visible=false;leftPlane.visible=true;rightPlane.visible=true;statusEl.textContent='In VR. Trigger flips to the next card, squeeze goes back, or point at an arrow.';});
+renderer.xr.addEventListener('sessionstart',()=>{pairPlane.visible=false;leftPlane.visible=true;rightPlane.visible=true;statusEl.textContent='In VR. Trigger: next card. Squeeze: back. Or point at an arrow beside the photo, or flick the thumbstick.';});
 renderer.xr.addEventListener('sessionend',()=>{pairPlane.visible=true;leftPlane.visible=false;rightPlane.visible=false;});
 
 // controllers + ray picking
@@ -184,12 +190,13 @@ function pick(controller){
   tmpM.identity().extractRotation(controller.matrixWorld);
   ray.ray.origin.setFromMatrixPosition(controller.matrixWorld);
   ray.ray.direction.set(0,0,-1).applyMatrix4(tmpM);
-  const hits=ray.intersectObjects([prevMesh,nextMesh],false);
+  const hits=ray.intersectObjects(HITLIST,false);
   if(hits.length){const o=hits[0].object;if(o.userData.act==='next')return next();if(o.userData.act==='prev')return prev();}
   next(); // trigger anywhere else = next card, simple on purpose
 }
+const ctrls=[];
 [0,1].forEach(i=>{
-  const ctl=renderer.xr.getController(i);
+  const ctl=renderer.xr.getController(i);ctrls.push(ctl);
   ctl.addEventListener('selectstart',()=>pick(ctl));
   ctl.addEventListener('squeezestart',()=>prev());
   scene.add(ctl);
@@ -208,8 +215,20 @@ addEventListener('click',e=>{ /* flat click on canvas plaques */
 
 addEventListener('resize',()=>{camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix();renderer.setSize(innerWidth,innerHeight)});
 fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(items=>{DATA=items.map((d,i)=>({t:d.title,p:d.place,y:d.year,img:'rect/'+String(i).padStart(2,'0')+'.jpg',src:d.full,a:d.va,f:d.f}));show(0);}).catch(()=>{statusEl.textContent='The catalogue could not be loaded. Please reload the page.';});
+let stickLatch=false;
+function updateHover(){
+  let hov=null;
+  for(const ctl of ctrls){tmpM.identity().extractRotation(ctl.matrixWorld);ray.ray.origin.setFromMatrixPosition(ctl.matrixWorld);ray.ray.direction.set(0,0,-1).applyMatrix4(tmpM);const h=ray.intersectObjects(HITLIST,false);if(h.length){hov=h[0].object;break;}}
+  for(const hit of HITLIST){const sc=hit===hov?1.25:1;hit.userData.vis.scale.set(sc,sc,1);}
+}
+function pollSticks(){
+  const sess=renderer.xr.getSession();if(!sess)return;
+  for(const src of sess.inputSources){const gp=src.gamepad;if(!gp)continue;const ax=gp.axes.length>=4?gp.axes[2]:gp.axes[0];if(ax===undefined)continue;
+    if(!stickLatch&&ax>0.6){stickLatch=true;next();}else if(!stickLatch&&ax<-0.6){stickLatch=true;prev();}else if(Math.abs(ax)<0.25)stickLatch=false;}
+}
 renderer.setAnimationLoop(t=>{
   camera.rotation.set(pitch,yaw,0,'YXZ');
+  if(renderer.xr.isPresenting){updateHover();pollSticks();}
   renderer.render(scene,camera);
 });
 if(!('xr' in navigator))statusEl.textContent='This browser has no WebXR, so no VR button. The parlor still works flat here, and in a Quest or Vision Pro browser you will get the full VR version.';
