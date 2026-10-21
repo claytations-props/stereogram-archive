@@ -266,7 +266,23 @@ function buildShelf(){
  sh.innerHTML=DATA.slice(-10).reverse().map(d=>{const i=DATA.indexOf(d);return `<div class="sitem" data-i="${i}"><img loading="lazy" src="${d.img}" alt="${d.title}"><div class="sid">${d.id}</div><div class="stt">${d.title}</div></div>`}).join('');
  sh.querySelectorAll('.sitem').forEach(el=>el.onclick=()=>openViewer(+el.dataset.i,true));
 }
+/* One-time migration (Phase 0): reading-list favorites were keyed by title;
+   they are now keyed by STA ID. Stored titles become their item's ID, values
+   already in STA-#### form pass through, unmatched values are dropped. */
+function migrateFavs(){
+ const byTitle=new Map(DATA.map(d=>[d.title,d.id]));
+ const validIds=new Set(DATA.map(d=>d.id));
+ const next=new Set();
+ let changed=false;
+ for(const v of favs){
+  if(/^STA-\d{4}$/.test(v)){if(validIds.has(v))next.add(v);else changed=true;}
+  else if(byTitle.has(v)){next.add(byTitle.get(v));changed=true;}
+  else changed=true;
+ }
+ if(changed||next.size!==favs.size){favs=next;localStorage.setItem("stereoFavs",JSON.stringify([...favs]));}
+}
 function init(){
+ migrateFavs();
  buildAid();
  document.getElementById('holdings').textContent='Holdings · '+DATA.length+' items · '+new Set(DATA.map(d=>d.coll)).size+' collections · 1845–1920';
  buildHero();buildShelf();render();
@@ -298,7 +314,7 @@ $("#vRegister").onclick=()=>{state.view="reg";$("#vRegister").classList.add("on"
 $("#moreBtn").onclick=()=>{shown+=48;render()};
 function filtered(){
  let a=DATA.filter(d=>{
-   if(state.cat==="favs"&&!favs.has(d.title))return false;
+   if(state.cat==="favs"&&!favs.has(d.id))return false;
    if(state.cat!=="all"&&state.cat!=="favs"&&!d.cats.includes(state.cat))return false;
    if(state.era!=="all"&&d.era!==state.era)return false;
    if(state.coll!=="all"&&d.coll!==state.coll)return false;
@@ -331,8 +347,8 @@ function render(){
  g.style.display="grid";rg.style.display="none";g.innerHTML="";
  page.forEach((d,i)=>{
   const c=document.createElement("div");c.className="card";
-  c.innerHTML=`<div class="ph"><img loading="lazy" src="${d.img}" alt="${d.title} stereograph"></div><div class="cb"><div class="acc">${d.id} · ${d.coll}</div><h3>${d.title}</h3><div class="meta">${d.place} &middot; ${d.year}</div><div class="tags">${d.cats.map(t=>`<span class="tag">${CATLABEL[t]||t}</span>`).join("")}<span class="tag">${d.depth} depth</span><button class="fav ${favs.has(d.title)?"on":""}" title="Save to reading list">${favs.has(d.title)?"♥":"♡"}</button></div></div>`;
-  c.querySelector(".fav").onclick=e=>{e.stopPropagation();toggleFav(d.title);render()};
+  c.innerHTML=`<div class="ph"><img loading="lazy" src="${d.img}" alt="${d.title} stereograph"></div><div class="cb"><div class="acc">${d.id} · ${d.coll}</div><h3>${d.title}</h3><div class="meta">${d.place} &middot; ${d.year}</div><div class="tags">${d.cats.map(t=>`<span class="tag">${CATLABEL[t]||t}</span>`).join("")}<span class="tag">${d.depth} depth</span><button class="fav ${favs.has(d.id)?"on":""}" title="Save to reading list">${favs.has(d.id)?"♥":"♡"}</button></div></div>`;
+  c.querySelector(".fav").onclick=e=>{e.stopPropagation();toggleFav(d.id);render()};
   c.tabIndex=0;c.setAttribute("role","button");c.onkeydown=e=>{if(e.target!==c)return;if(e.key==="Enter"||e.key===" "){e.preventDefault();openViewer(i)}};
   c.onclick=()=>openViewer(i);
   g.appendChild(c);
@@ -363,13 +379,13 @@ function fillViewer(){
  $("#vSource").href=d.source;$("#vFull").href=d.full;
  $("#vLic").textContent="License: "+d.license;
  $("#vImg").src=d.img;$("#vImg").alt=d.title+" stereograph pair";
- $("#vRecord").innerHTML=`<div class="rhead"><h3>Catalogue Record</h3><span class="stamp">${d.id}</span></div><dl><dt>Title</dt><dd>${d.title}</dd><dt>Date</dt><dd>${d.year}</dd><dt>Place</dt><dd>${d.place}</dd><dt>Collection</dt><dd>${d.coll}</dd><dt>Series</dt><dd>${d.cats.map(c=>CATLABEL[c]||c).join(", ")}</dd><dt>License</dt><dd>${d.license}</dd><dt>Depth</dt><dd>${d.depth} (${d.range}% of frame width)</dd><dt>Condition</dt><dd>${d.cond}</dd></dl><p style="margin-top:10px;font-size:13.5px">This item also hangs in the <a href="vr.html">VR Parlor</a>.</p>`;
+ $("#vRecord").innerHTML=`<div class="rhead"><h3>Catalogue Record</h3><span class="stamp">${d.id}</span></div><dl><dt>Title</dt><dd>${d.title}</dd><dt>Date</dt><dd>${d.year}</dd><dt>Place</dt><dd>${d.place}</dd><dt>Collection</dt><dd>${d.coll}</dd><dt>Series</dt><dd>${d.cats.map(c=>CATLABEL[c]||c).join(", ")}</dd><dt>License</dt><dd>${d.license}</dd><dt>Depth</dt><dd>${d.depth} (${d.range}% of frame width)</dd><dt>Condition</dt><dd>${d.cond}</dd></dl><p style="margin-top:10px;font-size:13.5px">This item also hangs in the <a href="vr.html#${d.id}">VR Parlor</a>.</p>`;
  syncFavBtn();
 }
-function syncFavBtn(){const d=cur();if(!d)return;const b=$("#vFav");const on=favs.has(d.title);b.textContent=on?"♥ Saved":"♡ Save"}
-$("#vFav").onclick=()=>{toggleFav(cur().title);render()};
+function syncFavBtn(){const d=cur();if(!d)return;const b=$("#vFav");const on=favs.has(d.id);b.textContent=on?"♥ Saved":"♡ Save"}
+$("#vFav").onclick=()=>{toggleFav(cur().id);render()};
 function stopWig(){if(wigTimer){clearInterval(wigTimer);wigTimer=null}}
-const rectUrl=d=>'rect/'+String(parseInt(d.id.slice(4),10)-1).padStart(2,'0')+'.jpg';
+const rectUrl=d=>d.rect||('rect/'+String(parseInt(d.id.slice(4),10)-1).padStart(2,'0')+'.jpg');
 function setMode(m){
  mode=m;stopWig();
  document.querySelectorAll(".mode").forEach(b=>b.classList.toggle("on",b.dataset.m===m));

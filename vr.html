@@ -214,7 +214,7 @@ addEventListener('click',e=>{ /* flat click on canvas plaques */
 });
 
 addEventListener('resize',()=>{camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix();renderer.setSize(innerWidth,innerHeight)});
-fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(items=>{DATA=items.map((d,i)=>({t:d.title,p:d.place,y:d.year,img:'rect/'+String(i).padStart(2,'0')+'.jpg',src:d.full,a:d.va,f:d.f}));show(0);}).catch(()=>{statusEl.textContent='The catalogue could not be loaded. Please reload the page.';});
+fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(items=>{DATA=items.map((d,i)=>({t:d.title,p:d.place,y:d.year,img:d.rect||('rect/'+String(i).padStart(2,'0')+'.jpg'),src:d.full,a:d.va,f:d.f}));let start=0;if(/^#STA-\d{4}$/.test(location.hash||'')){const ix=items.findIndex(d=>d.id===location.hash.slice(1));if(ix>=0)start=ix;}show(start);}).catch(()=>{statusEl.textContent='The catalogue could not be loaded. Please reload the page.';});
 let stickArm=true,stickTime=0;
 function updateHover(){
   let hov=null;
