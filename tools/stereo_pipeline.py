@@ -86,8 +86,10 @@ def auto_rects(img):
     return [lx0 / W, ly0 / H, (lx1 - lx0) / W, (ly1 - ly0) / H,
             (hw + rx0) / W, ry0 / H, (rx1 - rx0) / W, (ry1 - ry0) / H]
 
-def rectify(img, rects):
-    """Rectify one pair. Returns (pair_image, metrics dict)."""
+def rectify(img, rects, capture=None):
+    """Rectify one pair. Returns (pair_image, metrics dict).
+    If capture is a dict, it is filled with the live-warp parameters:
+    scan size, crop size, windowed affine A2, common crop rect, gains."""
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     H, W = gray.shape
     def box(rr): return int(rr[0] * W), int(rr[1] * H), int(rr[2] * W), int(rr[3] * H)
@@ -178,4 +180,8 @@ def rectify(img, rects):
     rec.update(out_rot=round(orot, 2), out_vert=round(overt, 2), out_cellbad=round(cellbad, 2))
     rec['pass'] = bool(overt <= GATE_VERT and orot <= GATE_ROT and cellbad <= GATE_CELL
                        and range_deg * f <= GATE_POST_RANGE and rec['area_frac'] >= MIN_AREA_FRAC)
+    if capture is not None:
+        capture.update(scan_wh=(W, H), crop_wh=(lw, lh), A2=[[float(v) for v in row] for row in A2],
+                       crop_rect=(int(x0), int(y0), int(x1), int(y1)), gains=(round(float(gL), 4), round(float(gR), 4)),
+                       rects=[float(v) for v in rects])
     return pair, rec

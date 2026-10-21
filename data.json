@@ -21,7 +21,32 @@
   "rot": 0.02,
   "range": 0.29,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.8944,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Niagara_Falls._%28American_Falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Niagara_Falls._%28American_Falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+   "ar": 0.8944,
+   "L": [
+    0.357307,
+    -1.2e-05,
+    0.139057,
+    -2.5e-05,
+    0.812526,
+    0.080511
+   ],
+   "R": [
+    0.35702,
+    -0.004966,
+    0.517021,
+    0.007067,
+    0.813484,
+    0.089972
+   ],
+   "g": [
+    0.9729,
+    1.0
+   ]
+  }
  },
  {
   "title": "Table Rock, Niagara Falls",
@@ -45,7 +70,32 @@
   "rot": 0.01,
   "range": 0.48,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.9986,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Table_Rock%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Table_Rock%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+   "ar": 0.9986,
+   "L": [
+    0.374998,
+    1.1e-05,
+    0.133325,
+    2e-06,
+    0.751832,
+    0.098013
+   ],
+   "R": [
+    0.372739,
+    -0.025844,
+    0.537877,
+    0.02128,
+    0.750106,
+    0.119872
+   ],
+   "g": [
+    0.9563,
+    1.0
+   ]
+  }
  },
  {
   "title": "Suspension Bridge & Clifton House",
@@ -70,7 +120,32 @@
   "rot": 0.02,
   "range": 0.32,
   "f": 0.96,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.9898,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Suspension_Bridge%2C_and_Clifton_House%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Suspension_Bridge%2C_and_Clifton_House%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+   "ar": 0.9898,
+   "L": [
+    0.402601,
+    1e-06,
+    0.0849,
+    2.6e-05,
+    0.801838,
+    0.065699
+   ],
+   "R": [
+    0.402316,
+    -0.003918,
+    0.508948,
+    0.004553,
+    0.800664,
+    0.06677
+   ],
+   "g": [
+    0.9944,
+    1.0
+   ]
+  }
  },
  {
   "title": "Upper Yosemite Falls",
@@ -95,7 +170,32 @@
   "rot": 0.16,
   "range": 0.41,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.9821,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Upper_Yosemite_Falls%2C_Yosemite_Valley%2C_Calif%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Upper_Yosemite_Falls%2C_Yosemite_Valley%2C_Calif%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+   "ar": 0.9821,
+   "L": [
+    0.400001,
+    -1e-06,
+    0.104167,
+    1e-05,
+    0.778107,
+    0.063677
+   ],
+   "R": [
+    0.401602,
+    -0.003341,
+    0.524978,
+    -0.0003,
+    0.78151,
+    0.06663
+   ],
+   "g": [
+    0.9937,
+    0.9999
+   ]
+  }
  },
  {
   "title": "Three Brothers",
@@ -119,7 +219,32 @@
   "rot": 0.01,
   "range": 0.43,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.9539,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Three_Brothers%2C_Yosemite%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Three_Brothers%2C_Yosemite%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+   "ar": 0.9539,
+   "L": [
+    0.355728,
+    -1e-06,
+    0.125001,
+    -5e-06,
+    0.70751,
+    0.126483
+   ],
+   "R": [
+    0.352596,
+    0.00623,
+    0.510293,
+    -0.014413,
+    0.707031,
+    0.141477
+   ],
+   "g": [
+    0.9999,
+    0.9032
+   ]
+  }
  },
  {
   "title": "The Grand Canyon",
@@ -143,7 +268,32 @@
   "rot": 0.02,
   "range": 0.8,
   "f": 0.96,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 1.0197,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Grand_Canyon%2C_Arizona%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+   "ar": 1.0197,
+   "L": [
+    0.407881,
+    -2.5e-05,
+    0.096075,
+    6e-06,
+    0.767621,
+    0.090934
+   ],
+   "R": [
+    0.413818,
+    0.001285,
+    0.528024,
+    -0.004948,
+    0.793519,
+    0.066447
+   ],
+   "g": [
+    0.9596,
+    0.9995
+   ]
+  }
  },
  {
   "title": "Golden Gate Canyon",
@@ -167,7 +317,32 @@
   "rot": 0.01,
   "range": 0.36,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.8327,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Golden_Gate%2C_Yellowstone_National_Park%2C_by_International_Stereoscopic_View_Company.jpg/1920px-Golden_Gate%2C_Yellowstone_National_Park%2C_by_International_Stereoscopic_View_Company.jpg",
+   "ar": 0.8327,
+   "L": [
+    0.326562,
+    -0.0,
+    0.092187,
+    2.1e-05,
+    0.768323,
+    0.060219
+   ],
+   "R": [
+    0.328079,
+    0.002064,
+    0.535486,
+    0.005459,
+    0.768472,
+    0.041314
+   ],
+   "g": [
+    0.9827,
+    1.0
+   ]
+  }
  },
  {
   "title": "Lower Falls of the Yellowstone",
@@ -192,7 +367,32 @@
   "rot": 0.01,
   "range": 0.34,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.8728,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/The_Grand_Falls%2C_Yellowstone_River%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Grand_Falls%2C_Yellowstone_River%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+   "ar": 0.8728,
+   "L": [
+    0.332292,
+    0.0,
+    0.108332,
+    -4e-06,
+    0.736153,
+    0.107755
+   ],
+   "R": [
+    0.331345,
+    0.001958,
+    0.562236,
+    -0.000625,
+    0.736398,
+    0.113735
+   ],
+   "g": [
+    1.0,
+    0.8539
+   ]
+  }
  },
  {
   "title": "A View in Central Park",
@@ -216,7 +416,32 @@
   "rot": 0.0,
   "range": 0.28,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.9046,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/View_in_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_in_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+   "ar": 0.9046,
+   "L": [
+    0.385413,
+    -6e-06,
+    0.095838,
+    7e-06,
+    0.864706,
+    0.088782
+   ],
+   "R": [
+    0.385372,
+    -0.004269,
+    0.525606,
+    0.003063,
+    0.864906,
+    0.093267
+   ],
+   "g": [
+    0.9322,
+    1.0
+   ]
+  }
  },
  {
   "title": "Town Hall, Center Harbor",
@@ -240,7 +465,32 @@
   "rot": 0.06,
   "range": 1.02,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 1.0253,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/1/13/%28Town_Hall%2C_Center_Harbor%2C_New_Hampshire%29_%28LOC%29.jpg",
+   "ar": 1.0253,
+   "L": [
+    0.396457,
+    4.3e-05,
+    0.111321,
+    1.3e-05,
+    0.755697,
+    0.122145
+   ],
+   "R": [
+    0.395023,
+    -0.005849,
+    0.530622,
+    0.01118,
+    0.75337,
+    0.116093
+   ],
+   "g": [
+    0.9808,
+    0.9997
+   ]
+  }
  },
  {
   "title": "The Genius of America",
@@ -265,7 +515,32 @@
   "rot": 0.16,
   "range": 1.25,
   "f": 0.46,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.9454,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_Genius_of_America%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+   "ar": 0.9454,
+   "L": [
+    0.364479,
+    1.8e-05,
+    0.114449,
+    -0.000145,
+    0.763161,
+    0.117184
+   ],
+   "R": [
+    0.364181,
+    0.003268,
+    0.511319,
+    -0.007753,
+    0.764929,
+    0.123445
+   ],
+   "g": [
+    1.0,
+    0.9916
+   ]
+  }
  },
  {
   "title": "Cog Railway Summit",
@@ -289,7 +564,32 @@
   "rot": 0.04,
   "range": 0.6,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.9771,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Mount_Washington_Railway%2C_on_the_Summit_of_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Mount_Washington_Railway%2C_on_the_Summit_of_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+   "ar": 0.9771,
+   "L": [
+    0.399477,
+    4e-06,
+    0.109892,
+    3e-06,
+    0.788943,
+    0.098494
+   ],
+   "R": [
+    0.398437,
+    -0.005156,
+    0.531979,
+    -0.002976,
+    0.786681,
+    0.103034
+   ],
+   "g": [
+    0.9891,
+    1.0
+   ]
+  }
  },
  {
   "title": "Deck of the USS Monitor",
@@ -313,7 +613,32 @@
   "rot": 0.02,
   "range": 1.14,
   "f": 0.95,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 1.0765,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/b/b7/James_River%2C_Va._Deck_and_turret_of_U.S.S._Monitor_LOC_5597835373.jpg",
+   "ar": 1.0765,
+   "L": [
+    0.398435,
+    -5.6e-05,
+    0.040074,
+    -0.000134,
+    0.889848,
+    0.05398
+   ],
+   "R": [
+    0.399723,
+    0.003244,
+    0.512983,
+    -0.000577,
+    0.895569,
+    0.053241
+   ],
+   "g": [
+    1.0,
+    0.9279
+   ]
+  }
  },
  {
   "title": "Parapet of Fort Sumter",
@@ -337,7 +662,32 @@
   "rot": 0.07,
   "range": 1.66,
   "f": 1.0,
-  "depth": "Moderate"
+  "depth": "Moderate",
+  "va": 0.9603,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/7/73/Parapet%2C_Fort_Sumter_LOC_6056605761.jpg",
+   "ar": 0.9603,
+   "L": [
+    0.41558,
+    -5.9e-05,
+    0.084456,
+    3e-05,
+    0.879418,
+    0.0444
+   ],
+   "R": [
+    0.405626,
+    -0.008079,
+    0.526027,
+    0.003091,
+    0.879549,
+    0.049351
+   ],
+   "g": [
+    1.0,
+    0.9738
+   ]
+  }
  },
  {
   "title": "Civil War Block House",
@@ -361,7 +711,32 @@
   "rot": 0.01,
   "range": 0.42,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.7552,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Block_house_-_NARA_-_527545.jpg/1920px-Block_house_-_NARA_-_527545.jpg",
+   "ar": 0.7552,
+   "L": [
+    0.433855,
+    1.7e-05,
+    0.050506,
+    -1e-06,
+    0.90486,
+    0.054126
+   ],
+   "R": [
+    0.434421,
+    0.011164,
+    0.514108,
+    -0.000176,
+    0.903924,
+    0.060524
+   ],
+   "g": [
+    1.0,
+    0.9399
+   ]
+  }
  },
  {
   "title": "Damascus Gate",
@@ -385,7 +760,32 @@
   "rot": 0.0,
   "range": 0.61,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.9239,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/The_Damascus_Gate%2C_Jerusalem_LOC_matpc.04876.jpg/1920px-The_Damascus_Gate%2C_Jerusalem_LOC_matpc.04876.jpg",
+   "ar": 0.9239,
+   "L": [
+    0.429686,
+    2e-06,
+    0.065104,
+    -3e-06,
+    0.783336,
+    0.1
+   ],
+   "R": [
+    0.426407,
+    -0.014649,
+    0.527552,
+    -0.003895,
+    0.776626,
+    0.122809
+   ],
+   "g": [
+    1.0,
+    0.8493
+   ]
+  }
  },
  {
   "title": "The Crystal Palace",
@@ -409,7 +809,32 @@
   "rot": 0.06,
   "range": 1.42,
   "f": 0.3,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.8563,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Stereoscopic_Illustrations_of_the_Crystal_Palace%2C_at_Sydenham._%2820852018793%29.jpg",
+   "ar": 0.8563,
+   "L": [
+    0.291986,
+    3.7e-05,
+    0.147993,
+    -2.3e-05,
+    0.658265,
+    0.154464
+   ],
+   "R": [
+    0.291653,
+    0.004031,
+    0.530327,
+    -0.010714,
+    0.659172,
+    0.145173
+   ],
+   "g": [
+    0.9775,
+    0.9997
+   ]
+  }
  },
  {
   "title": "Guanajuato",
@@ -434,7 +859,32 @@
   "rot": 0.08,
   "range": 0.64,
   "f": 0.47,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 1.0405,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Stereograph_of_Guanajuato_%28Keystone_View_Company%29.jpg/1920px-Stereograph_of_Guanajuato_%28Keystone_View_Company%29.jpg",
+   "ar": 1.0405,
+   "L": [
+    0.428643,
+    -7e-06,
+    0.077607,
+    -7e-06,
+    0.733097,
+    0.078775
+   ],
+   "R": [
+    0.430286,
+    -0.000989,
+    0.526066,
+    0.000632,
+    0.736572,
+    0.079237
+   ],
+   "g": [
+    0.9799,
+    1.0
+   ]
+  }
  },
  {
   "title": "Martinsburg Castle",
@@ -458,7 +908,32 @@
   "rot": 0.01,
   "range": 0.92,
   "f": 0.66,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.7795,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Martinsburg_%28Oberlahnstein%29_-_Early_Calotype_Stereograph_View_-_DP75388.jpg/1920px-Martinsburg_%28Oberlahnstein%29_-_Early_Calotype_Stereograph_View_-_DP75388.jpg",
+   "ar": 0.7795,
+   "L": [
+    0.305735,
+    2e-06,
+    0.136454,
+    -2e-06,
+    0.772303,
+    0.113852
+   ],
+   "R": [
+    0.292182,
+    -0.082356,
+    0.599241,
+    -0.004425,
+    0.762507,
+    0.124302
+   ],
+   "g": [
+    1.0,
+    0.9945
+   ]
+  }
  },
  {
   "title": "Eva, Milan Cathedral",
@@ -482,7 +957,32 @@
   "rot": 0.19,
   "range": 0.58,
   "f": 0.77,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.9428,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Eva_%28Duomo_di_Milano%29%2C_by_Giorgio_Sommer_%28Getty_1078V7%29.jpg/1920px-Eva_%28Duomo_di_Milano%29%2C_by_Giorgio_Sommer_%28Getty_1078V7%29.jpg",
+   "ar": 0.9428,
+   "L": [
+    0.369275,
+    2e-06,
+    0.153642,
+    -1.4e-05,
+    0.772869,
+    0.093528
+   ],
+   "R": [
+    0.370094,
+    0.005761,
+    0.523988,
+    -0.008616,
+    0.774458,
+    0.107883
+   ],
+   "g": [
+    1.0,
+    0.9266
+   ]
+  }
  },
  {
   "title": "An Irish Wake",
@@ -506,7 +1006,32 @@
   "rot": 0.01,
   "range": 0.66,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 1.1248,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Irish_wake_stereoscopic_photograph.jpg/1920px-Irish_wake_stereoscopic_photograph.jpg",
+   "ar": 1.1248,
+   "L": [
+    0.413024,
+    -1.3e-05,
+    0.077613,
+    -3e-06,
+    0.747624,
+    0.066798
+   ],
+   "R": [
+    0.41032,
+    0.000594,
+    0.508316,
+    -0.00459,
+    0.75185,
+    0.067016
+   ],
+   "g": [
+    1.0,
+    0.9828
+   ]
+  }
  },
  {
   "title": "How Biddy Served Tomatoes",
@@ -530,7 +1055,32 @@
   "rot": 0.03,
   "range": 0.68,
   "f": 0.71,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.9848,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/How_Biddy_served_Tomatoes_UNDRESSED.jpg/1920px-How_Biddy_served_Tomatoes_UNDRESSED.jpg",
+   "ar": 0.9848,
+   "L": [
+    0.405191,
+    0.0,
+    0.096361,
+    -8e-06,
+    0.815278,
+    0.028894
+   ],
+   "R": [
+    0.400331,
+    -0.024738,
+    0.543739,
+    -0.00513,
+    0.814352,
+    0.047457
+   ],
+   "g": [
+    0.9999,
+    0.9593
+   ]
+  }
  },
  {
   "title": "Street Performance",
@@ -554,7 +1104,32 @@
   "rot": 0.02,
   "range": 1.34,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.7617,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/9/9b/%28Men_and_child_at_a_street_performance%29_%28LOC%29.jpg",
+   "ar": 0.7617,
+   "L": [
+    0.30273,
+    -4e-06,
+    0.140626,
+    -8.7e-05,
+    0.808967,
+    0.137334
+   ],
+   "R": [
+    0.301536,
+    -0.006859,
+    0.561552,
+    0.001219,
+    0.810232,
+    0.117783
+   ],
+   "g": [
+    0.9779,
+    0.9997
+   ]
+  }
  },
  {
   "title": "The Bandstand",
@@ -579,7 +1154,32 @@
   "rot": 0.03,
   "range": 0.99,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.9717,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/6/6d/%28Bandstands_music_venue%29_%28LOC%29.jpg",
+   "ar": 0.9717,
+   "L": [
+    0.369146,
+    -1.6e-05,
+    0.150398,
+    -4.5e-05,
+    0.732579,
+    0.152569
+   ],
+   "R": [
+    0.367439,
+    0.006184,
+    0.535347,
+    -0.005026,
+    0.731947,
+    0.145721
+   ],
+   "g": [
+    1.0,
+    0.9934
+   ]
+  }
  },
  {
   "title": "A Gas Balloon",
@@ -603,7 +1203,32 @@
   "rot": 0.01,
   "range": 0.35,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.959,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/-Stereograph_View_of_a_Gas_Balloon-_MET_DP74755.jpg/1920px--Stereograph_View_of_a_Gas_Balloon-_MET_DP74755.jpg",
+   "ar": 0.959,
+   "L": [
+    0.438547,
+    1e-06,
+    0.010933,
+    9e-06,
+    0.903305,
+    0.019533
+   ],
+   "R": [
+    0.435931,
+    -0.007699,
+    0.524436,
+    0.003847,
+    0.900223,
+    0.03568
+   ],
+   "g": [
+    1.0,
+    0.983
+   ]
+  }
  },
  {
   "title": "The Full Moon in Stereo",
@@ -627,7 +1252,32 @@
   "rot": 0.06,
   "range": 1.0,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.7646,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/16648_-_The_Full_Moon%2C_Yerkes_Observatory.jpg/1920px-16648_-_The_Full_Moon%2C_Yerkes_Observatory.jpg",
+   "ar": 0.7646,
+   "L": [
+    0.307816,
+    1.1e-05,
+    0.142703,
+    -1.6e-05,
+    0.812824,
+    0.065207
+   ],
+   "R": [
+    0.29745,
+    0.020782,
+    0.554396,
+    -0.033365,
+    0.804339,
+    0.093276
+   ],
+   "g": [
+    0.9998,
+    0.9768
+   ]
+  }
  },
  {
   "title": "Antarctic Iceberg",
@@ -652,7 +1302,32 @@
   "rot": 0.02,
   "range": 0.49,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 1.3287,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Iceberg%2C_showing_curved_snow_bands%2C_Cape_Roberts%2C_%281911%29_%286173967298%29.jpg",
+   "ar": 1.3287,
+   "L": [
+    0.465872,
+    1e-06,
+    0.011692,
+    0.000211,
+    0.860864,
+    0.035937
+   ],
+   "R": [
+    0.466686,
+    -0.00011,
+    0.516847,
+    -0.003862,
+    0.857794,
+    0.037807
+   ],
+   "g": [
+    0.9754,
+    0.9997
+   ]
+  }
  },
  {
   "title": "Stairway on the Rock",
@@ -677,7 +1352,32 @@
   "rot": 0.01,
   "range": 0.88,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.8452,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/6/64/%28Stairway_on_side_of_rock%29_%28LOC%29.jpg",
+   "ar": 0.8452,
+   "L": [
+    0.383789,
+    1e-06,
+    0.111329,
+    1.5e-05,
+    0.880699,
+    0.062481
+   ],
+   "R": [
+    0.390784,
+    0.006319,
+    0.541721,
+    -0.013439,
+    0.883447,
+    0.061106
+   ],
+   "g": [
+    0.9495,
+    0.9977
+   ]
+  }
  },
  {
   "title": "Castle by the Pond",
@@ -701,7 +1401,32 @@
   "rot": 0.04,
   "range": 1.01,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.9494,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/7/7f/%28Tree%2C_pond%2C_castle%2C_and_conical_tower%29_%28LOC%29.jpg",
+   "ar": 0.9494,
+   "L": [
+    0.384796,
+    0.0,
+    0.094704,
+    2.9e-05,
+    0.798103,
+    0.082673
+   ],
+   "R": [
+    0.385224,
+    -0.001374,
+    0.504221,
+    -0.002469,
+    0.798733,
+    0.079123
+   ],
+   "g": [
+    1.0,
+    0.9941
+   ]
+  }
  },
  {
   "title": "Dirt Road and Arch",
@@ -725,7 +1450,32 @@
   "rot": 0.01,
   "range": 0.96,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.8682,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/7/7a/%28Dirt_road_and_arch%29_%28LOC%29.jpg",
+   "ar": 0.8682,
+   "L": [
+    0.373015,
+    -1.5e-05,
+    0.133824,
+    -5e-06,
+    0.831757,
+    0.062375
+   ],
+   "R": [
+    0.370152,
+    -0.010544,
+    0.534477,
+    -0.010258,
+    0.827306,
+    0.068486
+   ],
+   "g": [
+    1.0,
+    0.9946
+   ]
+  }
  },
  {
   "title": "Horseshoe Falls, Niagara",
@@ -749,7 +1499,32 @@
   "rot": 0.01,
   "range": 0.52,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 2.2836,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Niagara_Falls_%28Horseshoe_Falls%29%2C_Niagara_Falls%2C_N.Y.%2C_U.S.A%2C_by_Keystone_View_Company.jpg/1920px-Niagara_Falls_%28Horseshoe_Falls%29%2C_Niagara_Falls%2C_N.Y.%2C_U.S.A%2C_by_Keystone_View_Company.jpg",
+   "ar": 2.2836,
+   "L": [
+    0.290658,
+    -1e-06,
+    0.096729,
+    7.2e-05,
+    0.247103,
+    0.182715
+   ],
+   "R": [
+    0.287999,
+    -0.00584,
+    0.518505,
+    -0.00212,
+    0.243293,
+    0.186122
+   ],
+   "g": [
+    0.9905,
+    0.9983
+   ]
+  }
  },
  {
   "title": "The Whirlpool Rapids, Niagara",
@@ -773,7 +1548,32 @@
   "rot": 0.09,
   "range": 0.43,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 1.0332,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Whirlpool_Rapids%2C_Niagara%2C_by_Barker%2C_George%2C_1844-1894_2.jpg/1920px-Whirlpool_Rapids%2C_Niagara%2C_by_Barker%2C_George%2C_1844-1894_2.jpg",
+   "ar": 1.0332,
+   "L": [
+    0.39286,
+    -3.7e-05,
+    0.096865,
+    -1.4e-05,
+    0.755722,
+    0.037232
+   ],
+   "R": [
+    0.394076,
+    -0.013415,
+    0.5186,
+    0.011687,
+    0.75578,
+    0.029404
+   ],
+   "g": [
+    0.965,
+    0.9987
+   ]
+  }
  },
  {
   "title": "Cap of Liberty and Nevada Fall",
@@ -798,7 +1598,32 @@
   "rot": 0.01,
   "range": 0.33,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 1.0735,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Cap_of_Liberty_and_Nevada_Fall%2C_Yosemite_Valley%2C_California.ond%2C_by_Pond%2C_C._L._%28Charles_L.%29.jpg/1920px-Cap_of_Liberty_and_Nevada_Fall%2C_Yosemite_Valley%2C_California.ond%2C_by_Pond%2C_C._L._%28Charles_L.%29.jpg",
+   "ar": 1.0735,
+   "L": [
+    0.357697,
+    1.1e-05,
+    0.131848,
+    -6e-06,
+    0.632884,
+    0.224771
+   ],
+   "R": [
+    0.35054,
+    0.001795,
+    0.517427,
+    -0.003655,
+    0.620773,
+    0.222832
+   ],
+   "g": [
+    0.9428,
+    0.9991
+   ]
+  }
  },
  {
   "title": "El Capitan, Yosemite",
@@ -822,7 +1647,32 @@
   "rot": 0.0,
   "range": 0.37,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.8732,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/El_Capitan%2C_3600_ft._Yosemite%2C_by_Watkins%2C_Carleton_E.%2C_1829-1916.jpg/1920px-El_Capitan%2C_3600_ft._Yosemite%2C_by_Watkins%2C_Carleton_E.%2C_1829-1916.jpg",
+   "ar": 0.8732,
+   "L": [
+    0.407748,
+    -3e-06,
+    0.086186,
+    -3e-06,
+    0.898097,
+    0.050527
+   ],
+   "R": [
+    0.401785,
+    -0.00353,
+    0.527554,
+    0.000941,
+    0.887156,
+    0.056337
+   ],
+   "g": [
+    0.9428,
+    0.998
+   ]
+  }
  },
  {
   "title": "Broadway and Trinity Church",
@@ -846,7 +1696,32 @@
   "rot": 0.0,
   "range": 0.28,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.9483,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Broadway_and_Trinity_Church%2C_New_York%2C_by_Kilburn_Brothers.jpg/1920px-Broadway_and_Trinity_Church%2C_New_York%2C_by_Kilburn_Brothers.jpg",
+   "ar": 0.9483,
+   "L": [
+    0.409385,
+    -6e-06,
+    0.081606,
+    -4.7e-05,
+    0.857061,
+    0.110032
+   ],
+   "R": [
+    0.412128,
+    -0.003891,
+    0.511431,
+    0.006919,
+    0.857096,
+    0.107816
+   ],
+   "g": [
+    0.9827,
+    0.999
+   ]
+  }
  },
  {
   "title": "Fort Pulaski",
@@ -870,7 +1745,32 @@
   "rot": 0.01,
   "range": 0.42,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 1.7351,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Fort_Pulaski%2C_by_Wilson%2C_J._N._%28Jerome_Nelson%29%2C_1827-1897.jpg/1920px-Fort_Pulaski%2C_by_Wilson%2C_J._N._%28Jerome_Nelson%29%2C_1827-1897.jpg",
+   "ar": 1.7351,
+   "L": [
+    0.361549,
+    2.2e-05,
+    0.123131,
+    1e-05,
+    0.420674,
+    0.533508
+   ],
+   "R": [
+    0.362514,
+    -0.01839,
+    0.531536,
+    0.007776,
+    0.422871,
+    0.523397
+   ],
+   "g": [
+    0.9589,
+    0.9981
+   ]
+  }
  },
  {
   "title": "Clifford Calverly over the Whirlpool Rapids",
@@ -895,7 +1795,32 @@
   "rot": 0.01,
   "range": 0.37,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.8669,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Clifford_Calverly_standing_on_one_foot_over_the_Whirlpool_Rapids%2C_Niagara%2C_U.S.A_%28NYPL_b11708197-G91F069_111F%29.tiff/lossy-page1-1920px-Clifford_Calverly_standing_on_one_foot_over_the_Whirlpool_Rapids%2C_Niagara%2C_U.S.A_%28NYPL_b11708197-G91F069_111F%29.tiff.jpg",
+   "ar": 0.8669,
+   "L": [
+    0.356249,
+    -4e-06,
+    0.127087,
+    7e-06,
+    0.710798,
+    0.080183
+   ],
+   "R": [
+    0.357563,
+    -0.011871,
+    0.516649,
+    0.016304,
+    0.711092,
+    0.070502
+   ],
+   "g": [
+    1.0,
+    0.9821
+   ]
+  }
  },
  {
   "title": "Ladders at Vernal Fall",
@@ -920,7 +1845,32 @@
   "rot": 0.01,
   "range": 0.3,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.8591,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Ladders_at_the_Vernal_Fall%2C_by_Lawrence_%26_Houseworth.jpg/1920px-Ladders_at_the_Vernal_Fall%2C_by_Lawrence_%26_Houseworth.jpg",
+   "ar": 0.8591,
+   "L": [
+    0.316558,
+    -1e-05,
+    0.094285,
+    -1.1e-05,
+    0.680155,
+    0.074838
+   ],
+   "R": [
+    0.318239,
+    0.007267,
+    0.506808,
+    -0.011079,
+    0.685563,
+    0.073878
+   ],
+   "g": [
+    0.9364,
+    0.9989
+   ]
+  }
  },
  {
   "title": "Upper Cascades, Columbia River",
@@ -944,7 +1894,32 @@
   "rot": 0.02,
   "range": 0.44,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 1.0391,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Upper_Cascades%2C_Columbia_River%2C_by_J._G._Crawford.jpg/1920px-Upper_Cascades%2C_Columbia_River%2C_by_J._G._Crawford.jpg",
+   "ar": 1.0391,
+   "L": [
+    0.339747,
+    -9e-06,
+    0.15125,
+    3.1e-05,
+    0.617698,
+    0.054423
+   ],
+   "R": [
+    0.337829,
+    0.000218,
+    0.590256,
+    -0.00459,
+    0.612583,
+    0.061042
+   ],
+   "g": [
+    0.9275,
+    0.9993
+   ]
+  }
  },
  {
   "title": "Sacramento Street, San Francisco",
@@ -968,7 +1943,32 @@
   "rot": 0.01,
   "range": 0.34,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 1.7066,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Sacramento_Street%2C_from_Powell_Street%2C_San_Francisco%2C_by_Thomas_Houseworth_%26_Co..jpg/1920px-Sacramento_Street%2C_from_Powell_Street%2C_San_Francisco%2C_by_Thomas_Houseworth_%26_Co..jpg",
+   "ar": 1.7066,
+   "L": [
+    0.402508,
+    1.1e-05,
+    0.088883,
+    -2e-06,
+    0.461429,
+    0.414768
+   ],
+   "R": [
+    0.400148,
+    -0.001478,
+    0.508399,
+    0.000479,
+    0.459383,
+    0.424411
+   ],
+   "g": [
+    0.9692,
+    0.9993
+   ]
+  }
  },
  {
   "title": "Entrance to Mammoth Cave",
@@ -992,7 +1992,32 @@
   "rot": 0.02,
   "range": 0.4,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 2.7206,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Entrance_to_Mammoth_Cave%2C_Ky%2C_by_Styles%2C_A._F.%2C_1832-1910.jpg/1920px-Entrance_to_Mammoth_Cave%2C_Ky%2C_by_Styles%2C_A._F.%2C_1832-1910.jpg",
+   "ar": 2.7206,
+   "L": [
+    0.40554,
+    6e-06,
+    0.086922,
+    -5.4e-05,
+    0.293519,
+    0.212193
+   ],
+   "R": [
+    0.404106,
+    -0.001656,
+    0.511705,
+    0.004677,
+    0.296609,
+    0.213726
+   ],
+   "g": [
+    0.9927,
+    0.9991
+   ]
+  }
  },
  {
   "title": "Natural Bridge, Virginia",
@@ -1017,6 +2042,31 @@
   "rot": 0.01,
   "range": 0.41,
   "f": 1.0,
-  "depth": "Gentle"
+  "depth": "Gentle",
+  "va": 0.8567,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Natural_Bridge%2C_Virginia%2C_U.S%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Natural_Bridge%2C_Virginia%2C_U.S%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+   "ar": 0.8567,
+   "L": [
+    0.286233,
+    -1e-06,
+    0.133015,
+    3.9e-05,
+    0.664699,
+    0.23774
+   ],
+   "R": [
+    0.291647,
+    -0.003332,
+    0.525391,
+    0.003905,
+    0.664449,
+    0.242182
+   ],
+   "g": [
+    0.9219,
+    0.9986
+   ]
+  }
  }
 ]
