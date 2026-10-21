@@ -8,7 +8,14 @@ pipeline's own quality gates, and writes draft catalog entries plus baked
 pairs into a staging folder with a manifest.json.
 
 It NEVER writes to data.json, index.html, vr.html, condition.json, or the
-repo's rect/ folder. Publishing a staged batch is a separate, human step.
+repo's rect/ folder. Publishing a staged batch is done by
+tools/merge_batch.py, which assigns STA accession numbers exactly once.
+
+Phase 0 behavior: staged entries carry batch-local candidate IDs
+(CAND-##), never STA numbers; the original file of every passed
+candidate is downloaded into staging/<name>/masters/ with SHA-256
+fixity recorded in the manifest; and an in-run same-scan duplicate
+check (grayscale correlation >= 0.99) drops double uploads.
 
 Usage:
   python batch_engine.py --query "<commons search query>" --count N --staging staging/<name>
@@ -25,7 +32,8 @@ Environment: run with the OpenCV venv python and TMPDIR pointed at a roomy
 disk (the /tmp tmpfs is tiny):
   TMPDIR=~/workspace/.tmp ~/workspace/.venvs/cv/bin/python tools/batch_engine.py ...
 """
-import argparse, html, json, re, sys, urllib.parse, urllib.request
+import argparse, hashlib, html, json, re, sys, urllib.parse, urllib.request
+from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
@@ -37,6 +45,8 @@ from stereo_pipeline import (auto_rects, rectify, GATE_VERT, GATE_ROT,
 BASE = Path(__file__).parent.parent
 API = 'https://commons.wikimedia.org/w/api.php'
 UA = {'User-Agent': 'StereographArchiveBatch/1.0 (staging import tool; claytations@gmail.com)'}
+
+ENGINE_VERSION = '1.1.0-phase0'
 
 # LicenseShortName values accepted as public domain / CC0 (matches the
 # license strings already used in data.json).
@@ -99,12 +109,14 @@ def page_to_candidate(pg):
     em = {k: (v.get('value') if isinstance(v, dict) else v)
           for k, v in (ii.get('extmetadata') or {}).items()}
     return {
+        'pageid': pg.get('pageid'),
         'file_title': pg.get('title', ''),
         'source': ii.get('descriptionurl', ''),
         'img': ii.get('thumburl') or ii.get('url', ''),
         'full': ii.get('url', ''),
         'w': ii.get('width'), 'h': ii.get('height'),
         'license': (em.get('LicenseShortName') or '').strip(),
+        'sha1': ii.get('sha1') or '', 'mime': ii.get('mime') or '',
         'categories': [c['title'].replace('Category:', '')
                        for c in pg.get('categories', [])],
         'description': clean_description(em.get('ImageDescription')),
@@ -112,7 +124,7 @@ def page_to_candidate(pg):
     }
 
 
-PROPS = {'prop': 'imageinfo|categories', 'iiprop': 'url|size|extmetadata',
+PROPS = {'prop': 'imageinfo|categories', 'iiprop': 'url|size|sha1|mime|extmetadata',
          'iiurlwidth': 1920, 'cllimit': 'max', 'clshow': '!hidden'}
 
 
@@ -310,33 +322,68 @@ def load_catalog():
 
 
 def download(cand, dl_dir):
+    return download_url(cand['img'], dl_dir)
+
+
+def download_url(url, dl_dir):
     name = re.sub(r'[^A-Za-z0-9._-]+', '_',
-                  urllib.parse.unquote(Path(urllib.parse.urlparse(cand['img']).path).name))
+                  urllib.parse.unquote(Path(urllib.parse.urlparse(url).path).name))
     path = dl_dir / name
     if not path.exists():
-        req = urllib.request.Request(cand['img'], headers=UA)
+        req = urllib.request.Request(url, headers=UA)
         with urllib.request.urlopen(req, timeout=120) as r:
             path.write_bytes(r.read())
     return path
 
 
-def run(candidates, staging, count=None):
+def file_sha256(path):
+    h = hashlib.sha256()
+    with open(path, 'rb') as fh:
+        for chunk in iter(lambda: fh.read(1 << 20), b''):
+            h.update(chunk)
+    return h.hexdigest()
+
+
+def scan_thumb(img):
+    """320x240 grayscale thumbnail of a decoded scan, for the same-scan
+    duplicate check (mirrors the Leadville cleanup pass)."""
+    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY) if img.ndim == 3 else img
+    return cv2.resize(gray, (320, 240)).astype(np.float64).ravel()
+
+
+def scan_corr(a, b):
+    return float(np.corrcoef(a, b)[0, 1])
+
+
+def run(candidates, staging, count=None, origin=None):
     staging.mkdir(parents=True, exist_ok=True)
     dl_dir = staging / 'downloads'
     dl_dir.mkdir(exist_ok=True)
+    (staging / 'masters').mkdir(exist_ok=True)
     manifest_path = staging / 'manifest.json'
     prev = json.loads(manifest_path.read_text()) if manifest_path.exists() else {}
     manifest = {'passed': list(prev.get('passed', [])),
                 'held': [], 'skipped_duplicates': list(prev.get('skipped_duplicates', [])),
-                'skipped_license': [], 'errors': []}
+                'skipped_license': [], 'errors': [],
+                'meta': {'engine_version': ENGINE_VERSION,
+                         'origin': origin or {},
+                         'started_at': datetime.now(timezone.utc).isoformat(),
+                         'finished_at': None}}
 
     catalog = load_catalog()
     cat_sources = {it['source'] for it in catalog}
     cat_files = {urllib.parse.unquote(it['source'].rsplit('/', 1)[-1]) for it in catalog}
     cat_titles = {norm(it['title']) for it in catalog}
     staged_sources = {p['entry']['source'] for p in manifest['passed']}
-    next_acc = max([int(it['id'].split('-')[1]) for it in catalog] +
-                   [int(p['entry']['id'].split('-')[1]) for p in manifest['passed']]) + 1
+    # Candidate IDs are batch-local (CAND-##), assigned to every candidate
+    # that reaches rectification. STA accession numbers are assigned
+    # exactly once, later, by tools/merge_batch.py.
+    cand_start = 0
+    for p in manifest['passed']:
+        cid = p['entry'].get('id', '')
+        if isinstance(cid, str) and cid.startswith('CAND-'):
+            cand_start = max(cand_start, int(cid.split('-')[1]))
+    kept_thumbs = []  # (cand_id, scan thumbnail) for same-scan dedupe
 
     processed_new = 0
     for cand in candidates:
@@ -386,9 +433,28 @@ def run(candidates, staging, count=None):
                                                       'disp_range_pct', 'fit_vert_p90_pct')}})
                 print(f'HELD         {tag}: {"; ".join(fails)}', flush=True)
                 continue
-            acc = next_acc
-            next_acc += 1
-            pair_name = f'{acc - 1:02d}.jpg'
+            cand_id = f'CAND-{cand_start + processed_new:02d}'
+            # Same-scan duplicate check inside the run: compare this
+            # candidate's scan against every kept passer so far. A later
+            # candidate at correlation >= 0.99 is the same scan (usually a
+            # .jpg/.png double upload on Commons) and is dropped with the
+            # score recorded; different negatives score far lower.
+            thumb = scan_thumb(img)
+            dupe_of, dupe_corr = None, 0.0
+            for kept_id, kept_thumb in kept_thumbs:
+                c = scan_corr(thumb, kept_thumb)
+                if c >= 0.99:
+                    dupe_of, dupe_corr = kept_id, c
+                    break
+            if dupe_of:
+                manifest['skipped_duplicates'].append(
+                    {'title': tag, 'source': cand['source'],
+                     'reason': f'same scan as {dupe_of} (in-run correlation check)',
+                     'correlation': round(dupe_corr, 4), 'candidate': cand_id})
+                print(f'SKIP-DUP     {tag}: same scan as {dupe_of} '
+                      f'(corr {dupe_corr:.4f})', flush=True)
+                continue
+            pair_name = f'{cand_id}.jpg'
             cv2.imwrite(str(staging / pair_name), pair,
                         [cv2.IMWRITE_JPEG_QUALITY, 92])
             px = px_from_capture(cap, cand['img'])
@@ -403,21 +469,40 @@ def run(candidates, staging, count=None):
                 'blurb': source_blurb(cand['description'], title),
                 'img': cand['img'], 'full': cand['full'], 'source': cand['source'],
                 'license': cand['license'], 'w': cand['w'], 'h': cand['h'],
-                'id': f'STA-{acc:04d}', 'coll': guess_coll(cand),
+                'id': cand_id, 'coll': guess_coll(cand),
                 'vert': vert, 'rot': rot, 'range': rng, 'f': f, 'depth': depth,
                 'cond': cond_sentence(vert, rot, rng, depth, f),
                 'va': px['ar'], 'px': px,
             }
+            # Retain the ORIGINAL file as this candidate's preservation
+            # master, with fixity recorded in the manifest. A failed
+            # master download is recorded, never fatal to the candidate.
+            master = {'status': 'pending'}
+            try:
+                mpath = download_url(cand['full'], staging / 'masters')
+                master = {'status': 'ok', 'file': f'masters/{mpath.name}',
+                          'sha256': file_sha256(mpath),
+                          'bytes': mpath.stat().st_size,
+                          'mime': cand.get('mime', ''),
+                          'commons_page_id': cand.get('pageid'),
+                          'commons_sha1': cand.get('sha1', ''),
+                          'source_file': cand['file_title']}
+            except Exception as e:
+                master = {'status': 'failed',
+                          'reason': f'{type(e).__name__}: {e}'}
             manifest['passed'].append({'entry': entry, 'pair': pair_name,
                                        'source_file': cand['file_title'],
+                                       'master': master,
                                        'flags': ['needs_review']})
-            print(f'PASS         {tag} -> {entry["id"]} '
+            kept_thumbs.append((cand_id, thumb))
+            print(f'PASS         {tag} -> {cand_id} '
                   f'(vert {vert}%, rot {rot}°, area {m["area_frac"]})', flush=True)
         except Exception as e:  # one bad candidate must never kill the batch
             manifest['errors'].append({'title': tag, 'source': cand.get('source', ''),
                                        'reason': f'{type(e).__name__}: {e}'})
             print(f'ERROR        {tag}: {e}', flush=True)
 
+    manifest['meta']['finished_at'] = datetime.now(timezone.utc).isoformat()
     manifest_path.write_text(json.dumps(manifest, indent=1))
     print(f"\n== {staging} ==")
     print(f"passed: {len(manifest['passed'])}  held: {len(manifest['held'])}  "
@@ -440,9 +525,11 @@ def main():
         staging = BASE / staging
     if args.files:
         titles = [t if t.startswith('File:') else 'File:' + t for t in args.files]
-        run(harvest_files(titles), staging)
+        run(harvest_files(titles), staging,
+            origin={'mode': 'files', 'files': titles})
     elif args.query:
-        run(harvest_query(args.query, args.count), staging, count=args.count)
+        run(harvest_query(args.query, args.count), staging, count=args.count,
+            origin={'mode': 'query', 'query': args.query})
     else:
         ap.error('give --query or --files')
 
