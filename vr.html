@@ -37,7 +37,7 @@ a{color:var(--brass)}
   <div class="top">
     <div class="kicker">The Stereograph Archive</div>
     <h1>🥽 The VR Parlor</h1>
-    <p>Put on your headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, so the depth just works. Every view is cropped to the printed photograph itself, with the card mount and borders left out, then aligned and brightness matched between the eyes. The brass frame up close is a window: the photograph sits far behind it, so you look into the scene like a portal. <b>Trigger</b> or tap a plaque to flip cards, point at the thumbnails below to jump, and on a flat screen just drag to look around.</p>
+    <p>Put on your headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, so the depth just works. Every view is cropped to the printed photograph itself, with the card mount and borders left out, then aligned and brightness matched between the eyes. The brass frame up close is a window in a wall: the photograph sits far behind it, and the wall hides everything except what you see through the opening, so you look into the scene like a portal. <b>Trigger</b> or tap a plaque to flip cards, point at the thumbnails below to jump, and on a flat screen just drag to look around.</p>
     <div id="status">Loading the parlor…</div>
   </div>
   <div class="bottom">
@@ -110,6 +110,18 @@ function layoutFrame(W,H){const b=0.05;
   bars.bottom.scale.set(W+2*b,b,1);bars.bottom.position.y=-H/2-b/2;
   bars.left.scale.set(b,H,1);bars.left.position.x=-W/2-b/2;
   bars.right.scale.set(b,H,1);bars.right.position.x=W/2+b/2;}
+// a real wall around the window: four dark panels at the frame's depth that
+// block everything except the opening, so the far photograph can only be
+// seen THROUGH the window, never around it
+const wallGroup=new THREE.Group();wallGroup.visible=false;wallGroup.position.z=-0.01;stage.add(wallGroup);
+const wallMat=new THREE.MeshStandardMaterial({color:0x191410,roughness:.95,metalness:0});
+const wallPanels={};
+['top','bottom','left','right'].forEach(k=>{const m=new THREE.Mesh(new THREE.PlaneGeometry(1,1),wallMat);wallGroup.add(m);wallPanels[k]=m;});
+function layoutWall(W,H){const XS=1.2,XT=1.2,XB=0.9;
+  wallPanels.top.scale.set(W+2*XS,XT,1);wallPanels.top.position.y=H/2+XT/2;
+  wallPanels.bottom.scale.set(W+2*XS,XB,1);wallPanels.bottom.position.y=-H/2-XB/2;
+  wallPanels.left.scale.set(XS,H,1);wallPanels.left.position.x=-W/2-XS/2;
+  wallPanels.right.scale.set(XS,H,1);wallPanels.right.position.x=W/2+XS/2;}
 leftPlane.layers.set(1);rightPlane.layers.set(2);
 const pairPlane=new THREE.Mesh(new THREE.PlaneGeometry(2.2,1.1),new THREE.MeshBasicMaterial({color:0x111111}));
 pairPlane.position.set(0,1.5,-1.66);pairPlane.visible=true;scene.add(pairPlane);
@@ -153,9 +165,9 @@ const loader=new THREE.TextureLoader();loader.setCrossOrigin('anonymous');
 const thumbMeshes=[];
 DATA.forEach((d,i)=>{
   const ang=(i/(DATA.length-1)-0.5)*2.2; // arc spread
-  const r=3.1,x=Math.sin(ang)*r,z=-Math.cos(ang)*r+0.4;
+  const r=2.9,x=Math.sin(ang)*r,z=-Math.cos(ang)*r+0.85;
   const m=new THREE.Mesh(new THREE.PlaneGeometry(.52,.27),new THREE.MeshBasicMaterial({color:0x22201c}));
-  m.position.set(x,0.92,z);m.lookAt(0,1.1,0.4);m.userData.act='jump';m.userData.idx=i;m.layers.enableAll();
+  m.position.set(x,0.58,z);m.lookAt(0,0.85,0.4);m.userData.act='jump';m.userData.idx=i;m.layers.enableAll();
   thumbs.add(m);thumbMeshes.push(m);
   loader.load(d.img,t=>{t.colorSpace=THREE.SRGBColorSpace;t.anisotropy=4;m.material.map=t;m.material.color.set(0xffffff);m.material.needsUpdate=true;});
 });
@@ -255,7 +267,7 @@ function show(idx){
       pl.material.map=t;pl.material.color.setScalar(i===0?(al?al.gainL:1):(al?al.gainR:1));pl.geometry.dispose();pl.geometry=new THREE.PlaneGeometry(W*PORTAL_K,H*PORTAL_K);pl.material.needsUpdate=true;
     });
     }
-    layoutFrame(W,H);
+    layoutFrame(W,H);layoutWall(W,H);
     const pt=tex.clone();pt.needsUpdate=true;
     pairPlane.material.map=pt;pairPlane.material.color.set(0xffffff);
     const paspect=d.w/d.h;const pw=Math.min(1.1*paspect,2.3);pairPlane.geometry.dispose();pairPlane.geometry=new THREE.PlaneGeometry(pw,1.1);pairPlane.material.needsUpdate=true;
@@ -273,8 +285,8 @@ document.getElementById('randBtn').onclick=()=>show(Math.floor(Math.random()*DAT
 addEventListener('keydown',e=>{if(e.key==='ArrowRight')next();if(e.key==='ArrowLeft')prev();});
 
 // VR enter/exit: swap flat pair for true per-eye planes
-renderer.xr.addEventListener('sessionstart',()=>{pairPlane.visible=false;pairFrame.visible=false;frameBars.visible=true;leftPlane.visible=true;rightPlane.visible=true;statusEl.textContent='In VR. Trigger flips to the next card, point at a plaque or thumbnail to choose.';});
-renderer.xr.addEventListener('sessionend',()=>{pairPlane.visible=true;pairFrame.visible=true;frameBars.visible=false;leftPlane.visible=false;rightPlane.visible=false;});
+renderer.xr.addEventListener('sessionstart',()=>{pairPlane.visible=false;pairFrame.visible=false;frameBars.visible=true;wallGroup.visible=true;leftPlane.visible=true;rightPlane.visible=true;statusEl.textContent='In VR. Trigger flips to the next card, point at a plaque or thumbnail to choose.';});
+renderer.xr.addEventListener('sessionend',()=>{pairPlane.visible=true;pairFrame.visible=true;frameBars.visible=false;wallGroup.visible=false;leftPlane.visible=false;rightPlane.visible=false;});
 
 // controllers + ray picking
 const ray=new THREE.Raycaster();const tmpM=new THREE.Matrix4();
