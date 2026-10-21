@@ -32,17 +32,33 @@ button:hover{border-color:var(--brass);color:#e8c987}
 button.gold{background:var(--brass);color:#191510;border-color:var(--brass)}
 a{color:var(--brass)}
 #nourl{font-size:12px;color:var(--dim);margin-top:6px}
+#landing{position:fixed;inset:0;z-index:5;background:var(--bg);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;padding:110px 16px 120px;text-align:center}
+#landing[hidden]{display:none}
+#landImg{max-width:min(86vw,620px);max-height:42vh;border:1px solid var(--line);border-radius:8px;background:#000}
+#landTitle{font-family:Georgia,serif;font-size:21px;max-width:640px;line-height:1.3}
+#landMeta{color:var(--dim);font-size:13.5px}
+#landSet{color:var(--brass);font-size:13.5px}
+#enterVrBtn{background:var(--brass);color:#191510;border-color:var(--brass);font-size:19px;font-weight:800;padding:16px 44px;margin-top:10px;box-shadow:0 0 0 4px rgba(201,168,106,.25)}
+#landHint{color:var(--dim);font-size:12.5px;max-width:430px;line-height:1.5}
 @media(max-width:640px){.top{max-width:248px;padding:9px 11px}.top p{display:none}.cardinfo{max-width:205px}button{padding:12px 16px;font-size:14px}}
 </style>
 <script type="importmap">{"imports":{"three":"https://unpkg.com/three@0.160.0/build/three.module.js","three/addons/":"https://unpkg.com/three@0.160.0/examples/jsm/"}}</script>
 </head>
 <body>
 <div id="app"></div>
+<div id="landing" hidden>
+  <img id="landImg" alt="The current stereograph pair">
+  <h2 id="landTitle"></h2>
+  <div id="landMeta"></div>
+  <div id="landSet"></div>
+  <button id="enterVrBtn">Enter VR</button>
+  <div id="landHint">One tap takes you into the room, on this card. The shelves, the catalogue card, and the button row are all inside.</div>
+</div>
 <div id="ui">
   <div class="top">
     <div class="kicker">The Stereograph Archive</div>
     <h1>🥽 The VR Parlor</h1>
-    <p>Put on your headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, so the depth just works. Every view is aligned by a measuring pipeline before it hangs here, so your eyes can relax. There is no frame and no wall: the photograph hangs far away in the dark, enlarged, its edges feathered into the black. <b>Trigger</b> flips forward, <b>squeeze</b> goes back, and you can also point at the arrows beside the photo or flick the thumbstick. The double arrows jump ten cards at a time, and the <b>EXIT</b> button under the caption takes you out of VR whenever you are ready. This room is the archive itself: the <b>Browse</b> button opens the finding aid and a wall of the current shelf right here, so you can pick a collection or series and point at any card to open it, and the <b>Record</b> button shows the item's catalogue card.</p>
+    <p>Put on your headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, so the depth just works. Every view is aligned by a measuring pipeline before it hangs here, so your eyes can relax. There is no frame and no wall: the photograph hangs far away in the dark, enlarged, its edges feathered into the black. <b>Trigger</b> flips forward, <b>squeeze</b> goes back, and you can also point at the row of buttons beneath the caption or flick the thumbstick. The double arrows jump ten cards at a time, and the <b>EXIT</b> button in that row takes you out of VR whenever you are ready. This room is the archive itself: the <b>Browse</b> button opens the finding aid and a wall of the current shelf right here, so you can pick a collection or series and point at any card to open it, and the <b>Record</b> button shows the item's catalogue card.</p>
     <div id="status">Loading the parlor…</div>
   </div>
   <div class="bottom">
@@ -67,6 +83,49 @@ import { VRButton } from 'three/addons/webxr/VRButton.js';
 window.__parlorBoot=true;
 let DATA=[];
 const statusEl=document.getElementById('status');
+
+/* ---------- VR landing (headset browsers) ----------
+   WebXR only lets a page enter VR from a user gesture, so one tap on
+   ENTER VR is unavoidable. What is avoidable is the in-between 3D
+   preview: on a browser that supports immersive VR, this page opens
+   as a plain 2D landing (the current card as an ordinary image, its
+   record line, the set it will open in, and one big button), the
+   render loop never starts, and the 3D room exists only inside the
+   session. Exiting returns to this same landing, updated. Browsers
+   without immersive VR keep the flat 3D parlor exactly as before.
+   If the support check itself fails, we fall back to the flat mode
+   rather than a dead page. */
+let vrCapable=false,landingActive=false;
+const landingEl=document.getElementById('landing');
+function updateLanding(){
+  if(!DATA.length||cur<0||!DATA[cur])return;
+  const d=DATA[cur];
+  document.getElementById('landImg').src=d.img;
+  document.getElementById('landTitle').textContent=d.t;
+  document.getElementById('landMeta').textContent=d.id+' · '+d.p+' · '+d.y;
+  document.getElementById('landSet').textContent=(uiState==='browse'?'Opens browsing: ':'Opens at: ')+(curSet?curSet.label:'')+' · Card '+(curPos+1)+' of '+(curSet?curSet.indices.length:0);
+}
+function showLanding(){landingActive=true;landingEl.hidden=false;vrBtn.style.display='none';updateStatus();updateLanding();}
+function hideLanding(){landingActive=false;landingEl.hidden=true;}
+document.getElementById('enterVrBtn').addEventListener('click',()=>{
+  if(!('xr' in navigator))return;
+  navigator.xr.requestSession('immersive-vr',{optionalFeatures:['local-floor','bounded-floor','hand-tracking']})
+    .then(s=>{renderer.xr.setSession(s);})
+    .catch(()=>{statusEl.textContent='VR would not start there. Falling back to the flat parlor.';startFlat();});
+});
+let loopOn=false;
+function startLoop(){if(!loopOn){loopOn=true;renderer.setAnimationLoop(loopFn);}}
+function stopLoop(){if(loopOn){loopOn=false;renderer.setAnimationLoop(null);}}
+function startFlat(){vrCapable=false;hideLanding();vrBtn.style.display='';startLoop();updateStatus();}
+async function initMode(){
+  let ok=false;
+  if('xr' in navigator){
+    try{ok=await Promise.race([navigator.xr.isSessionSupported('immersive-vr'),new Promise(r=>setTimeout(()=>r(false),3000))]);}
+    catch(e){ok=false;}
+  }
+  if(ok){vrCapable=true;showLanding();}
+  else startFlat();
+}
 
 /* Right-sized Commons thumbnails, the same derivation the gallery uses.
    Wikimedia only serves the widths it lists for each file, so tile loads
@@ -122,8 +181,10 @@ scene.add(new THREE.AmbientLight(0xffe8c0,0.55));
 const warm=new THREE.PointLight(0xffc37a,18,12,1.8);warm.position.set(0,2.6,1.2);scene.add(warm);
 const rim=new THREE.PointLight(0x88aaff,5,10,2);rim.position.set(-2.5,1.8,-2);scene.add(rim);
 
-// floor: big dark disc + brass ring
-const floor=new THREE.Mesh(new THREE.CircleGeometry(5.5,48),new THREE.MeshStandardMaterial({color:0x14110c,roughness:.95}));
+// floor: a small standing pad the size of the brass ring, darkened to
+// nearly the background color so it reads as a place to stand, not as a
+// floating black disc (the old 5.5 m disc was lighter than the void).
+const floor=new THREE.Mesh(new THREE.CircleGeometry(1.6,48),new THREE.MeshStandardMaterial({color:0x0a0908,roughness:1}));
 floor.rotation.x=-Math.PI/2;scene.add(floor);
 const ring=new THREE.Mesh(new THREE.RingGeometry(1.55,1.6,64),new THREE.MeshBasicMaterial({color:0xc9a86a,side:THREE.DoubleSide}));
 ring.rotation.x=-Math.PI/2;ring.position.y=0.002;scene.add(ring);
@@ -150,6 +211,17 @@ leftPlane.layers.set(1);rightPlane.layers.set(2);
 // the same feather so it floats the same way.
 const pairPlane=new THREE.Mesh(new THREE.PlaneGeometry(2.2,1.1),new THREE.MeshBasicMaterial({color:0x111111,transparent:true,alphaMap:featherTex}));
 pairPlane.position.set(0,1.5,-1.66);pairPlane.visible=false;scene.add(pairPlane);
+// the flat pair is fitted inside the camera frustum at its distance
+// (2.06 m from the flat camera), so a narrow or portrait viewport can
+// never clip its sides the way a fixed 2.4 m cap could.
+let pairAspect=0;
+function sizePair(){
+  if(!pairAspect)return;
+  const dist=2.06,tV=Math.tan(THREE.MathUtils.degToRad(34)),tH=tV*camera.aspect;
+  const maxW=2*dist*tH*0.94,maxH=2*dist*tV*0.94;
+  const pw=Math.min(1.35*pairAspect,2.4,maxW,maxH*pairAspect);
+  pairPlane.geometry.dispose();pairPlane.geometry=new THREE.PlaneGeometry(pw,pw/pairAspect);
+}
 
 // caption plaque (canvas texture). Source titles now run to 180+ characters,
 // so the title wraps onto up to two lines and shrinks before it ever gets
@@ -201,33 +273,38 @@ function drawCaption(d){
   document.getElementById('ciMeta').textContent=d.id+' · '+d.p+' · '+d.y+(curSet?' · '+curSet.label+' · Card '+(curPos+1)+' of '+curSet.indices.length:'');
   document.getElementById('backLink').href='index.html#'+d.id;
   try{history.replaceState(null,'','#'+d.id)}catch(e){}
+  updateLanding();
 }
 
 // the catalogue record card: the item's own record, drawn from the
-// catalog fields only, styled like the archive-desk record cards on the
-// flat site. Near-field, angled in at lower right, toggleable.
-const recCanvas=document.createElement('canvas');recCanvas.width=640;recCanvas.height=800;
+// catalog fields only, in the parlor's own dark theme (dark panel, light
+// text, brass accents). Near-field, centered-but-to-the-right, angled
+// toward the viewer, toggleable. The canvas is painted at 1.5x and the
+// drawing code works in the original 640x800 coordinate space.
+const recCanvas=document.createElement('canvas');recCanvas.width=960;recCanvas.height=1200;
 const recTex=new THREE.CanvasTexture(recCanvas);
 const recordGroup=new THREE.Group();
-const recMesh=new THREE.Mesh(new THREE.PlaneGeometry(0.72,0.90),new THREE.MeshBasicMaterial({map:recTex,transparent:true}));
+const recMesh=new THREE.Mesh(new THREE.PlaneGeometry(1.08,1.35),new THREE.MeshBasicMaterial({map:recTex,transparent:true}));
 recordGroup.add(recMesh);
-recordGroup.position.set(1.24,0.92,-1.88);recordGroup.rotation.y=-0.40;
+recordGroup.position.set(1.02,1.00,-1.88);recordGroup.rotation.y=-0.38;
 recordGroup.visible=false;scene.add(recordGroup);
 function drawRecord(d){
   const c=recCanvas.getContext('2d');
-  c.clearRect(0,0,640,800);
-  c.fillStyle='#ece5d8';c.beginPath();c.roundRect(0,0,640,800,20);c.fill();
-  c.strokeStyle='#c9bb9c';c.lineWidth=3;c.beginPath();c.roundRect(12,12,616,776,14);c.stroke();
+  c.setTransform(1,0,0,1,0,0);
+  c.clearRect(0,0,960,1200);
+  c.setTransform(1.5,0,0,1.5,0,0);
+  c.fillStyle='rgba(18,15,11,0.94)';c.beginPath();c.roundRect(0,0,640,800,20);c.fill();
+  c.strokeStyle='rgba(201,168,106,0.65)';c.lineWidth=2.5;c.beginPath();c.roundRect(12,12,616,776,14);c.stroke();
   c.textAlign='left';c.textBaseline='alphabetic';
-  c.fillStyle='#262015';c.font='700 27px Georgia,serif';c.fillText('CATALOGUE RECORD',40,64);
+  c.fillStyle='#c9a86a';c.font='700 27px Georgia,serif';c.fillText('CATALOGUE RECORD',40,64);
   c.fillRect(40,82,560,3);
   c.save();c.translate(512,58);c.rotate(-0.055);
-  c.strokeStyle='#75591f';c.lineWidth=3;c.strokeRect(-92,-27,184,54);
-  c.fillStyle='#75591f';c.font='700 30px Georgia,serif';c.textAlign='center';c.fillText(d.id,0,11);
+  c.strokeStyle='#c9a86a';c.lineWidth=3;c.strokeRect(-92,-27,184,54);
+  c.fillStyle='#e8c987';c.font='700 30px Georgia,serif';c.textAlign='center';c.fillText(d.id,0,11);
   c.restore();c.textAlign='left';
   let y=128;
   const field=(label,value,fs,maxLines)=>{
-    c.font='600 17px Georgia,serif';c.fillStyle='#6d5c39';c.fillText(label.toUpperCase(),40,y);y+=10;
+    c.font='600 17px Georgia,serif';c.fillStyle='#a89c86';c.fillText(label.toUpperCase(),40,y);y+=10;
     let f=fs,lines=[];
     while(f>17){c.font=f+'px Georgia,serif';lines=wrapTitle(c,value,560);if(lines.length<=maxLines)break;f-=2;}
     if(lines.length>maxLines){
@@ -236,7 +313,7 @@ function drawRecord(d){
       while(l.length&&c.measureText(l+'\u2026').width>560)l=l.slice(0,-1);
       lines[lines.length-1]=l.trimEnd()+'\u2026';
     }
-    c.fillStyle='#262015';c.font=f+'px Georgia,serif';
+    c.fillStyle='#ece5d8';c.font=f+'px Georgia,serif';
     lines.forEach(L=>{y+=f*1.28;c.fillText(L,40,y);});
     y+=22;
   };
@@ -257,43 +334,58 @@ function arrowButton(glyph,act,opt){
   c.fillStyle='#e8c987';c.font='700 '+o.fs+'px Georgia,serif';c.textAlign='center';c.textBaseline='middle';c.fillText(glyph,128,o.fs>=150?142:134);
   const vis=new THREE.Mesh(new THREE.PlaneGeometry(o.vis,o.vis),new THREE.MeshBasicMaterial({map:new THREE.CanvasTexture(cv),transparent:true,depthWrite:false}));
   vis.layers.enableAll();
-  const hit=new THREE.Mesh(new THREE.PlaneGeometry(o.hit,o.hit),new THREE.MeshBasicMaterial({visible:false}));
+  const hit=new THREE.Mesh(new THREE.PlaneGeometry(o.hitW||o.hit,o.hitH||o.hit),new THREE.MeshBasicMaterial({visible:false}));
   hit.layers.enableAll();hit.userData.act=act;hit.userData.vis=vis;
   const g=new THREE.Group();g.add(vis);g.add(hit);g.userData.hit=hit;
   return g;
 }
-// a round brass button with a word on it, in the same family as the arrow
-// buttons; its label can be redrawn (BROWSE becomes READ, RECORD dims off).
-function textButton(label,act,fs){
-  fs=fs||50;
-  const cv=document.createElement('canvas');cv.width=cv.height=256;const c=cv.getContext('2d');
+// a small brass pill with a word on it, in the same family as the round
+// arrow buttons; its label can be redrawn (BROWSE becomes READ in the
+// browse state, RECORD dims when the catalogue card is off).
+function pillButton(label,act,w){
+  const CW=Math.round(256*(w/0.17));
+  const cv=document.createElement('canvas');cv.width=CW;cv.height=256;const c=cv.getContext('2d');
   const tex=new THREE.CanvasTexture(cv);
   function draw(l,dim){
-    c.clearRect(0,0,256,256);
-    c.beginPath();c.arc(128,128,116,0,7);c.fillStyle='rgba(12,10,7,0.62)';c.fill();
-    c.lineWidth=7;c.strokeStyle='rgba(232,201,135,.95)';c.stroke();
-    c.fillStyle=dim?'#8a7c5f':'#e8c987';c.font='700 '+fs+'px Georgia,serif';c.textAlign='center';c.textBaseline='middle';c.fillText(l,128,134);
+    c.clearRect(0,0,CW,256);
+    c.beginPath();c.roundRect(10,54,CW-20,148,74);c.fillStyle='rgba(12,10,7,0.62)';c.fill();
+    c.lineWidth=9;c.strokeStyle='rgba(232,201,135,.95)';c.stroke();
+    c.fillStyle=dim?'#8a7c5f':'#e8c987';c.font='700 84px Georgia,serif';c.textAlign='center';c.textBaseline='middle';c.fillText(l,CW/2,132);
     tex.needsUpdate=true;
   }
   draw(label,false);
-  const vis=new THREE.Mesh(new THREE.PlaneGeometry(.34,.34),new THREE.MeshBasicMaterial({map:tex,transparent:true,depthWrite:false}));
+  const vis=new THREE.Mesh(new THREE.PlaneGeometry(w,0.17),new THREE.MeshBasicMaterial({map:tex,transparent:true,depthWrite:false}));
   vis.layers.enableAll();
-  const hit=new THREE.Mesh(new THREE.PlaneGeometry(.66,.66),new THREE.MeshBasicMaterial({visible:false}));
+  const hit=new THREE.Mesh(new THREE.PlaneGeometry(w+0.05,0.30),new THREE.MeshBasicMaterial({visible:false}));
   hit.layers.enableAll();hit.userData.act=act;hit.userData.vis=vis;hit.userData.redraw=draw;hit.userData.label=label;
   const g=new THREE.Group();g.add(vis);g.add(hit);g.userData.hit=hit;
   return g;
 }
-const prevBtn3d=arrowButton('\u2039','prev');prevBtn3d.position.set(-1.08,1.5,-2.2);scene.add(prevBtn3d);
-const nextBtn3d=arrowButton('\u203a','next');nextBtn3d.position.set(1.08,1.5,-2.2);scene.add(nextBtn3d);
-// at 515 cards, stepping one by one is not navigation: the double arrows
-// jump ten, and EXIT ends the session from inside the headset.
-const prev10Btn=arrowButton('\u00ab','prev10',{vis:.32,hit:.58});prev10Btn.position.set(-1.72,1.5,-2.2);scene.add(prev10Btn);
-const next10Btn=arrowButton('\u00bb','next10',{vis:.32,hit:.58});next10Btn.position.set(1.72,1.5,-2.2);scene.add(next10Btn);
-const exitBtn=arrowButton('EXIT','exit',{vis:.34,hit:.66,fs:58});exitBtn.position.set(0,0.82,-2.0);scene.add(exitBtn);
-// one family of brass controls under the caption: Record, EXIT, Browse.
-const recordBtn3d=textButton('RECORD','record');recordBtn3d.position.set(-0.60,0.82,-2.0);scene.add(recordBtn3d);
-const browseBtn3d=textButton('BROWSE','browse');browseBtn3d.position.set(0.60,0.82,-2.0);scene.add(browseBtn3d);
-const READ_HITS=[prevBtn3d.userData.hit,nextBtn3d.userData.hit,prev10Btn.userData.hit,next10Btn.userData.hit,exitBtn.userData.hit,recordBtn3d.userData.hit,browseBtn3d.userData.hit];
+// Every control now lives in ONE row of half-size brass buttons low in
+// the view, beneath the caption plaque, with air between them: jump
+// back ten, back, forward, jump forward ten, BROWSE, RECORD, EXIT.
+// (The old eye-height arrows flanking the photo are gone; their work
+// is done here.) The same row serves the browse state, where the
+// arrows page the wall and the jumps go to its first and last pages.
+// Hit targets stay a little larger than the visuals so the row stays
+// easy to point at, and each button sits a hair closer than the last
+// so overlapping target edges always resolve the same way.
+const rowGroup=new THREE.Group();scene.add(rowGroup);
+const prev10Btn=arrowButton('\u00ab','prev10',{vis:.18,hitW:.27,hitH:.34});
+const prevBtn3d=arrowButton('\u2039','prev',{vis:.18,hitW:.27,hitH:.34});
+const nextBtn3d=arrowButton('\u203a','next',{vis:.18,hitW:.27,hitH:.34});
+const next10Btn=arrowButton('\u00bb','next10',{vis:.18,hitW:.27,hitH:.34});
+const browseBtn3d=pillButton('BROWSE','browse',.33);
+const recordBtn3d=pillButton('RECORD','record',.33);
+const exitBtn=pillButton('EXIT','exit',.25);
+const ROW_DEFS=[[prev10Btn,.18],[prevBtn3d,.18],[nextBtn3d,.18],[next10Btn,.18],[browseBtn3d,.33],[recordBtn3d,.33],[exitBtn,.25]];
+{
+  const GAP=.065;let total=-GAP;ROW_DEFS.forEach(([b,w])=>total+=w+GAP);
+  let x=-total/2;
+  ROW_DEFS.forEach(([b,w],i)=>{b.position.set(x+w/2,0,i*0.0012);rowGroup.add(b);x+=w+GAP;});
+}
+rowGroup.position.set(0,0.14,-2.0);
+const ROW_HITS=ROW_DEFS.map(([b])=>b.userData.hit);
 
 /* ---------- browse state: the finding aid and the shelf wall ---------- */
 const browseGroup=new THREE.Group();browseGroup.visible=false;scene.add(browseGroup);
@@ -344,9 +436,11 @@ function drawIndicator(){
   c.fillText(curSet.label+'  \u00b7  Cards '+a+'\u2013'+b+' of '+total+(pages>1?'  \u00b7  Page '+(wallPage+1)+' of '+pages:''),512,34);
   indTex.needsUpdate=true;
 }
-const pagePrevBtn=arrowButton('\u2039','pagePrev');pagePrevBtn.position.set(-1.40,0,0);wallGroup.add(pagePrevBtn);
-const pageNextBtn=arrowButton('\u203a','pageNext');pageNextBtn.position.set(1.40,0,0);wallGroup.add(pageNextBtn);
-const BROWSE_STATIC_HITS=[exitBtn.userData.hit,browseBtn3d.userData.hit,pagePrevBtn.userData.hit,pageNextBtn.userData.hit];
+// the wall's own paging buttons, half size like the main row, in a
+// small line centered at the bottom of the wall assembly
+const pagePrevBtn=arrowButton('\u2039','pagePrev',{vis:.18,hitW:.27,hitH:.34});pagePrevBtn.position.set(-0.16,-0.72,0.0006);wallGroup.add(pagePrevBtn);
+const pageNextBtn=arrowButton('\u203a','pageNext',{vis:.18,hitW:.27,hitH:.34});pageNextBtn.position.set(0.16,-0.72,0.0018);wallGroup.add(pageNextBtn);
+const BROWSE_STATIC_HITS=[pagePrevBtn.userData.hit,pageNextBtn.userData.hit];
 let TILE_HITS=[],wallTex=[],wallGen=0;
 const tileLoader=new THREE.TextureLoader();tileLoader.setCrossOrigin('anonymous');
 function clearTiles(){
@@ -418,7 +512,7 @@ function buildBrowse(){
   renderWall();
 }
 function browseHits(){return BROWSE_STATIC_HITS.concat(TILE_HITS);}
-function currentHits(){return uiState==='browse'?browseHits():READ_HITS;}
+function currentHits(){return uiState==='browse'?ROW_HITS.concat(browseHits()):ROW_HITS;}
 
 /* ---------- shared state: one archive, one memory of where you are --- */
 let SETS=[],curSet=null,curPos=0,cur=-1,busy=false,uiState='reading',wallPage=0,recordOn=true;
@@ -453,6 +547,11 @@ function showPos(pos){
     tex.colorSpace=THREE.SRGBColorSpace;tex.anisotropy=8;
     let W=1.02,H=W/d.a; if(H>1.0){H=1.0;W=H*d.a;}
     W*=PORTAL_K*d.f; H*=PORTAL_K*d.f;
+    // comfort cap: no card may exceed about 62 degrees wide or 46 tall
+    // at its 12.3 m plane, a margin inside any headset frustum. Only
+    // the extremes are reined in; aspect is always preserved.
+    const CAPW=2*12.3*Math.tan(31*Math.PI/180),CAPH=2*12.3*Math.tan(23*Math.PI/180);
+    const cs=Math.min(1,CAPW/W,CAPH/H);W*=cs;H*=cs;
     liveTex.forEach(t=>t.dispose());liveTex=[tex];
     [leftPlane,rightPlane].forEach((pl,i)=>{
       const t=tex.clone();liveTex.push(t);t.needsUpdate=true;t.wrapS=THREE.ClampToEdgeWrapping;t.wrapT=THREE.ClampToEdgeWrapping;
@@ -462,7 +561,7 @@ function showPos(pos){
     });
     const pt=tex.clone();liveTex.push(pt);pt.needsUpdate=true;
     pairPlane.material.map=pt;pairPlane.material.color.set(0xffffff);
-    const paspect=2*d.a;let pw=1.35*paspect,ph=1.35;if(pw>2.4){pw=2.4;ph=pw/paspect;}pairPlane.geometry.dispose();pairPlane.geometry=new THREE.PlaneGeometry(pw,ph);pairPlane.material.needsUpdate=true;
+    pairAspect=2*d.a;sizePair();pairPlane.material.needsUpdate=true;
     drawCaption(d);
     drawRecord(d);
     applyVis();
@@ -487,7 +586,11 @@ function applyVis(){
   const browsing=uiState==='browse';
   browseGroup.visible=browsing;
   plaque.visible=!browsing;
-  prevBtn3d.visible=nextBtn3d.visible=prev10Btn.visible=next10Btn.visible=!browsing;
+  // the one control row rides at the bottom of whichever assembly is
+  // showing: under the caption in the reading state, under the wall
+  // in the browse state. The record toggle has no work in browse.
+  rowGroup.position.y=browsing?0.68:0.14;
+  recordBtn3d.visible=!browsing;
   recordGroup.visible=!browsing&&recordOn;
   const presenting=renderer.xr.isPresenting;
   leftPlane.visible=rightPlane.visible=!browsing&&presenting;
@@ -495,6 +598,10 @@ function applyVis(){
 }
 function updateStatus(){
   if(!curSet)return;
+  if(landingActive){
+    statusEl.textContent=uiState==='browse'?('This headset browser can enter VR. ENTER VR opens browsing '+curSet.label+'.'):('This headset browser can enter VR. ENTER VR opens the room on this card.');
+    return;
+  }
   const presenting=renderer.xr.isPresenting;
   if(uiState==='browse'){
     statusEl.textContent=presenting?('Browsing '+curSet.label+'. Point at a card and pull the trigger to open it. Flick the thumbstick to turn the wall. Squeeze returns to the card.'):('Browsing '+curSet.label+'. Click a card on the wall to open it, or go back to the card.');
@@ -514,8 +621,9 @@ function setState(s){
   if(!curSet)return;
   uiState=s;
   if(s==='browse'){wallPage=Math.floor(curPos/PAGE);drawSetPanel();renderWall();}
-  READ_HITS.forEach(h=>setHover(h,false));
-  applyVis();updateStatus();updateHtmlButtons();persist();
+  browseBtn3d.userData.hit.userData.redraw(s==='browse'?'READ':'BROWSE',false);
+  ROW_HITS.forEach(h=>setHover(h,false));
+  applyVis();updateStatus();updateHtmlButtons();updateLanding();persist();
 }
 function toggleRecord(){
   recordOn=!recordOn;
@@ -547,10 +655,19 @@ function wallGo(dir){
 }
 function activate(hit){
   const a=hit.userData.act;
-  if(a==='next')return next();
-  if(a==='prev')return prev();
-  if(a==='next10')return showPos(curPos+10);
-  if(a==='prev10')return showPos(curPos-10);
+  // the row's arrows serve whichever state is showing: cards in the
+  // reading state, wall pages (jumps = first and last page) in browse.
+  if(uiState==='browse'){
+    if(a==='next')return wallGo(1);
+    if(a==='prev')return wallGo(-1);
+    if(a==='next10')return wallGo(99);
+    if(a==='prev10')return wallGo(-99);
+  }else{
+    if(a==='next')return next();
+    if(a==='prev')return prev();
+    if(a==='next10')return showPos(curPos+10);
+    if(a==='prev10')return showPos(curPos-10);
+  }
   if(a==='exit'){const s=renderer.xr.getSession();if(s)s.end();return;}
   if(a==='record')return toggleRecord();
   if(a==='browse')return setState(uiState==='browse'?'reading':'browse');
@@ -563,8 +680,8 @@ function isShown(o){while(o){if(!o.visible)return false;o=o.parent;}return true;
 
 // VR enter/exit: the session opens in the current state, at the current
 // set and card, and leaving returns the flat page to the same place.
-renderer.xr.addEventListener('sessionstart',()=>{applyVis();updateStatus();});
-renderer.xr.addEventListener('sessionend',()=>{applyVis();updateStatus();});
+renderer.xr.addEventListener('sessionstart',()=>{hideLanding();startLoop();applyVis();updateStatus();});
+renderer.xr.addEventListener('sessionend',()=>{applyVis();updateStatus();if(vrCapable){stopLoop();showLanding();}});
 
 // controllers + ray picking
 const ray=new THREE.Raycaster();const tmpM=new THREE.Matrix4();
@@ -599,7 +716,7 @@ addEventListener('click',e=>{ /* flat click: pick wall tiles and room buttons */
   if(hits.length)activate(hits[0].object);
 });
 
-addEventListener('resize',()=>{camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix();renderer.setSize(innerWidth,innerHeight)});
+addEventListener('resize',()=>{camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix();renderer.setSize(innerWidth,innerHeight);sizePair();});
 fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(items=>{
   DATA=items.map((d,i)=>({id:d.id,t:d.title,p:d.place,y:d.year,coll:d.coll,cats:d.cats||[],cond:d.cond||'',img:d.rect||('rect/'+String(i).padStart(2,'0')+'.jpg'),oimg:d.img||'',src:d.full,a:d.va,f:d.f}));
   SETS=deriveSets(DATA,readFavs());
@@ -637,6 +754,7 @@ fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(items=>{
   }
   setState(startBrowse?'browse':'reading');
   showPos(curPos);
+  initMode();
 }).catch(()=>{statusEl.textContent='The catalogue could not be loaded. Please reload the page.';});
 let stickArm=true,stickTime=0;
 function updateHover(){
@@ -651,11 +769,11 @@ function pollSticks(t){
   if(!stickArm){if(Math.abs(x)<0.25&&t-stickTime>350)stickArm=true;return;}
   if(x>0.6){stickArm=false;stickTime=t;if(uiState==='browse')wallGo(1);else next();}else if(x<-0.6){stickArm=false;stickTime=t;if(uiState==='browse')wallGo(-1);else prev();}
 }
-renderer.setAnimationLoop(t=>{
+function loopFn(t){
   camera.rotation.set(pitch,yaw,0,'YXZ');
   if(renderer.xr.isPresenting){updateHover();pollSticks(t);}
   renderer.render(scene,camera);
-});
+}
 if(!('xr' in navigator))statusEl.textContent='This browser has no WebXR, so no VR button. The parlor still works flat here, and in a Quest or Vision Pro browser you will get the full VR version.';
 </script>
 </body>
