@@ -254,7 +254,7 @@ function init(){
  const h=(location.hash||'').replace('#','');
  if(h){const i=DATA.findIndex(d=>d.id===h);if(i>=0)openViewer(i,true);}
 }
-fetch('data.json').then(r=>r.json()).then(d=>{DATA=d;init();}).catch(()=>{document.getElementById('count').textContent='The catalogue could not be loaded. Please reload the page.'});
+fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(d=>{DATA=d;init();}).catch(()=>{document.getElementById('count').textContent='The catalogue could not be loaded. Please reload the page.'});
 const CATS=[["all","All"],["water","Falls & Rivers"],["mountains","Mountains & Canyons"],["cities","Cities & Towns"],["war","Civil War"],["world","Around the World"],["people","People & Comedy"],["oddities","Oddities"],["favs","♥ Reading List"]];
 const CATLABEL=Object.fromEntries(CATS);
 let state={cat:"all",era:"all",q:"",sort:"featured",coll:"all",view:"shelves"};

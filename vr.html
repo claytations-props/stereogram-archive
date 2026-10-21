@@ -211,7 +211,7 @@ addEventListener('click',e=>{ /* flat click on canvas plaques */
 });
 
 addEventListener('resize',()=>{camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix();renderer.setSize(innerWidth,innerHeight)});
-fetch('data.json').then(r=>r.json()).then(items=>{DATA=items.map((d,i)=>({t:d.title,p:d.place,y:d.year,img:'rect/'+String(i).padStart(2,'0')+'.jpg',src:d.full,a:d.va,f:d.f}));show(0);}).catch(()=>{statusEl.textContent='The catalogue could not be loaded. Please reload the page.';});
+fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(items=>{DATA=items.map((d,i)=>({t:d.title,p:d.place,y:d.year,img:'rect/'+String(i).padStart(2,'0')+'.jpg',src:d.full,a:d.va,f:d.f}));show(0);}).catch(()=>{statusEl.textContent='The catalogue could not be loaded. Please reload the page.';});
 renderer.setAnimationLoop(t=>{
   camera.rotation.set(pitch,yaw,0,'YXZ');
   if(window._dust)window._dust.rotation.y=t*0.000012;
