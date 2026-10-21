@@ -215,20 +215,22 @@ addEventListener('click',e=>{ /* flat click on canvas plaques */
 
 addEventListener('resize',()=>{camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix();renderer.setSize(innerWidth,innerHeight)});
 fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(items=>{DATA=items.map((d,i)=>({t:d.title,p:d.place,y:d.year,img:'rect/'+String(i).padStart(2,'0')+'.jpg',src:d.full,a:d.va,f:d.f}));show(0);}).catch(()=>{statusEl.textContent='The catalogue could not be loaded. Please reload the page.';});
-let stickLatch=false;
+let stickArm=true,stickTime=0;
 function updateHover(){
   let hov=null;
   for(const ctl of ctrls){tmpM.identity().extractRotation(ctl.matrixWorld);ray.ray.origin.setFromMatrixPosition(ctl.matrixWorld);ray.ray.direction.set(0,0,-1).applyMatrix4(tmpM);const h=ray.intersectObjects(HITLIST,false);if(h.length){hov=h[0].object;break;}}
   for(const hit of HITLIST){const sc=hit===hov?1.25:1;hit.userData.vis.scale.set(sc,sc,1);}
 }
-function pollSticks(){
+function pollSticks(t){
   const sess=renderer.xr.getSession();if(!sess)return;
-  for(const src of sess.inputSources){const gp=src.gamepad;if(!gp)continue;const ax=gp.axes.length>=4?gp.axes[2]:gp.axes[0];if(ax===undefined)continue;
-    if(!stickLatch&&ax>0.6){stickLatch=true;next();}else if(!stickLatch&&ax<-0.6){stickLatch=true;prev();}else if(Math.abs(ax)<0.25)stickLatch=false;}
+  let x=0;
+  for(const src of sess.inputSources){const gp=src.gamepad;if(!gp)continue;const ax=gp.axes.length>=4?gp.axes[2]:gp.axes[0];if(ax!==undefined&&Math.abs(ax)>Math.abs(x))x=ax;}
+  if(!stickArm){if(Math.abs(x)<0.25&&t-stickTime>350)stickArm=true;return;}
+  if(x>0.6){stickArm=false;stickTime=t;next();}else if(x<-0.6){stickArm=false;stickTime=t;prev();}
 }
 renderer.setAnimationLoop(t=>{
   camera.rotation.set(pitch,yaw,0,'YXZ');
-  if(renderer.xr.isPresenting){updateHover();pollSticks();}
+  if(renderer.xr.isPresenting){updateHover();pollSticks(t);}
   renderer.render(scene,camera);
 });
 if(!('xr' in navigator))statusEl.textContent='This browser has no WebXR, so no VR button. The parlor still works flat here, and in a Quest or Vision Pro browser you will get the full VR version.';
