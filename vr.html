@@ -23,7 +23,7 @@ h1{font-family:Georgia,serif;font-size:19px;margin:4px 0}
 .top b{color:var(--text)}
 #status{margin-top:8px;font-size:12.5px;color:var(--brass)}
 .bottom{display:flex;gap:10px;align-items:flex-end;justify-content:space-between;flex-wrap:wrap}
-.cardinfo{background:rgba(11,10,8,.78);border:1px solid var(--line);border-radius:12px;padding:8px 12px;max-width:380px;backdrop-filter:blur(6px)}
+.cardinfo{background:rgba(11,10,8,.78);border:1px solid var(--line);border-radius:12px;padding:8px 12px;max-width:380px;backdrop-filter:blur(6px);pointer-events:auto}
 .cardinfo h2{font-family:Georgia,serif;font-size:15px}
 .cardinfo div{color:var(--dim);font-size:12.5px;margin-top:3px}
 .controls{display:flex;gap:8px;pointer-events:auto}
@@ -42,11 +42,11 @@ a{color:var(--brass)}
   <div class="top">
     <div class="kicker">The Stereograph Archive</div>
     <h1>🥽 The VR Parlor</h1>
-    <p>Put on your headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, so the depth just works. Every view is aligned by a measuring pipeline before it hangs here, so your eyes can relax. There is no frame and no wall: the photograph hangs far away in the dark, enlarged, its edges feathered into the black. <b>Trigger</b> flips forward, <b>squeeze</b> goes back, and you can also point at the arrows beside the photo or flick the thumbstick.</p>
+    <p>Put on your headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, so the depth just works. Every view is aligned by a measuring pipeline before it hangs here, so your eyes can relax. There is no frame and no wall: the photograph hangs far away in the dark, enlarged, its edges feathered into the black. <b>Trigger</b> flips forward, <b>squeeze</b> goes back, and you can also point at the arrows beside the photo or flick the thumbstick. The double arrows jump ten cards at a time, and the <b>EXIT</b> button under the caption takes you out of VR whenever you are ready.</p>
     <div id="status">Loading the parlor…</div>
   </div>
   <div class="bottom">
-    <div class="cardinfo"><h2 id="ciTitle"></h2><div id="ciMeta"></div><div><a href="index.html">← Back to the flat gallery</a></div></div>
+    <div class="cardinfo"><h2 id="ciTitle"></h2><div id="ciMeta"></div><div><a id="backLink" href="index.html">← Back to the flat gallery</a></div></div>
     <div class="controls">
       <button id="prevBtn">‹ Prev</button>
       <button id="randBtn">🎲 Random</button>
@@ -55,9 +55,14 @@ a{color:var(--brass)}
   </div>
 </div>
 
+<script>
+window.__parlorBoot=false;
+setTimeout(()=>{if(!window.__parlorBoot){var s=document.getElementById('status');if(s)s.textContent='The parlor is taking a long time to load. The 3D library may have failed to download. Try reloading the page.';}},8000);
+</script>
 <script type="module">
 import * as THREE from 'three';
 import { VRButton } from 'three/addons/webxr/VRButton.js';
+window.__parlorBoot=true;
 let DATA=[];
 const statusEl=document.getElementById('status');
 const scene=new THREE.Scene();
@@ -109,38 +114,71 @@ leftPlane.layers.set(1);rightPlane.layers.set(2);
 const pairPlane=new THREE.Mesh(new THREE.PlaneGeometry(2.2,1.1),new THREE.MeshBasicMaterial({color:0x111111,transparent:true,alphaMap:featherTex}));
 pairPlane.position.set(0,1.5,-1.66);pairPlane.visible=false;scene.add(pairPlane);
 
-// caption plaque (canvas texture)
-const capCanvas=document.createElement('canvas');capCanvas.width=1024;capCanvas.height=128;
+// caption plaque (canvas texture). Source titles now run to 180+ characters,
+// so the title wraps onto up to two lines and shrinks before it ever gets
+// horizontally squeezed; place and year sit on their own line beneath.
+const capCanvas=document.createElement('canvas');capCanvas.width=1024;capCanvas.height=200;
 const capTex=new THREE.CanvasTexture(capCanvas);
-const plaque=new THREE.Mesh(new THREE.PlaneGeometry(1.05,.13),new THREE.MeshBasicMaterial({map:capTex,transparent:true}));
+const plaque=new THREE.Mesh(new THREE.PlaneGeometry(1.05,.205),new THREE.MeshBasicMaterial({map:capTex,transparent:true}));
 plaque.position.set(0,0.42,-2.0);scene.add(plaque);
+function wrapTitle(c,text,maxW){
+  const words=text.split(/\s+/).filter(Boolean);
+  const lines=[];let line='';
+  for(const w of words){
+    const t=line?line+' '+w:w;
+    if(c.measureText(t).width<=maxW||!line)line=t;
+    else{lines.push(line);line=w;}
+  }
+  if(line)lines.push(line);
+  return lines;
+}
 function drawCaption(d,idx){
   const c=capCanvas.getContext('2d');
-  c.clearRect(0,0,1024,128);
-  c.fillStyle='rgba(10,9,7,0.45)';c.beginPath();c.roundRect(0,14,1024,100,26);c.fill();
-  c.fillStyle='#ece5d8';c.textAlign='center';c.textBaseline='middle';
-  const ctext=d.t+'  ·  '+d.p+'  ·  '+d.y;
-  c.font='600 '+(ctext.length>54?33:ctext.length>44?38:43)+'px Georgia,serif';
-  c.fillText(ctext,512,66,980);
+  c.clearRect(0,0,1024,200);
+  c.fillStyle='rgba(10,9,7,0.45)';c.beginPath();c.roundRect(0,16,1024,168,26);c.fill();
+  c.textAlign='center';c.textBaseline='middle';
+  let fs=44,lines=[];
+  while(fs>26){c.font='600 '+fs+'px Georgia,serif';lines=wrapTitle(c,d.t,950);if(lines.length<=2)break;fs-=4;}
+  if(lines.length>2){
+    lines=lines.slice(0,2);
+    let l=lines[1];
+    while(l.length&&c.measureText(l+'\u2026').width>950)l=l.slice(0,-1);
+    lines[1]=l+'\u2026';
+  }
+  const lh=fs*1.18,metaH=32,blockH=lines.length*lh+8+metaH;
+  let y=(200-blockH)/2;
+  c.fillStyle='#ece5d8';
+  lines.forEach(L=>{c.fillText(L,512,y+lh/2);y+=lh;});
+  y+=8;
+  c.font='500 27px Georgia,serif';c.fillStyle='#b3a78d';
+  c.fillText(d.p+'  \u00b7  '+d.y,512,y+metaH/2);
   capTex.needsUpdate=true;
   document.getElementById('ciTitle').textContent=d.t;
-  document.getElementById('ciMeta').textContent=d.p+' · '+d.y+' · Card '+(idx+1)+' of '+DATA.length;
+  document.getElementById('ciMeta').textContent=d.id+' · '+d.p+' · '+d.y+' · Card '+(idx+1)+' of '+DATA.length;
+  document.getElementById('backLink').href='index.html#'+d.id;
+  try{history.replaceState(null,'','#'+d.id)}catch(e){}
 }
-function arrowButton(glyph,act){
+function arrowButton(glyph,act,opt){
+  const o=Object.assign({vis:.36,hit:.68,fs:150},opt||{});
   const cv=document.createElement('canvas');cv.width=cv.height=256;const c=cv.getContext('2d');
   c.beginPath();c.arc(128,128,116,0,7);c.fillStyle='rgba(12,10,7,0.62)';c.fill();
   c.lineWidth=7;c.strokeStyle='rgba(232,201,135,.95)';c.stroke();
-  c.fillStyle='#e8c987';c.font='700 150px Georgia,serif';c.textAlign='center';c.textBaseline='middle';c.fillText(glyph,128,142);
-  const vis=new THREE.Mesh(new THREE.PlaneGeometry(.36,.36),new THREE.MeshBasicMaterial({map:new THREE.CanvasTexture(cv),transparent:true,depthWrite:false}));
+  c.fillStyle='#e8c987';c.font='700 '+o.fs+'px Georgia,serif';c.textAlign='center';c.textBaseline='middle';c.fillText(glyph,128,o.fs>=150?142:134);
+  const vis=new THREE.Mesh(new THREE.PlaneGeometry(o.vis,o.vis),new THREE.MeshBasicMaterial({map:new THREE.CanvasTexture(cv),transparent:true,depthWrite:false}));
   vis.layers.enableAll();
-  const hit=new THREE.Mesh(new THREE.PlaneGeometry(.68,.68),new THREE.MeshBasicMaterial({visible:false}));
+  const hit=new THREE.Mesh(new THREE.PlaneGeometry(o.hit,o.hit),new THREE.MeshBasicMaterial({visible:false}));
   hit.layers.enableAll();hit.userData.act=act;hit.userData.vis=vis;
   const g=new THREE.Group();g.add(vis);g.add(hit);g.userData.hit=hit;
   return g;
 }
 const prevBtn3d=arrowButton('\u2039','prev');prevBtn3d.position.set(-1.08,1.5,-2.2);scene.add(prevBtn3d);
 const nextBtn3d=arrowButton('\u203a','next');nextBtn3d.position.set(1.08,1.5,-2.2);scene.add(nextBtn3d);
-const HITLIST=[prevBtn3d.userData.hit,nextBtn3d.userData.hit];
+// at 515 cards, stepping one by one is not navigation: the double arrows
+// jump ten, and EXIT ends the session from inside the headset.
+const prev10Btn=arrowButton('\u00ab','prev10',{vis:.32,hit:.58});prev10Btn.position.set(-1.72,1.5,-2.2);scene.add(prev10Btn);
+const next10Btn=arrowButton('\u00bb','next10',{vis:.32,hit:.58});next10Btn.position.set(1.72,1.5,-2.2);scene.add(next10Btn);
+const exitBtn=arrowButton('EXIT','exit',{vis:.34,hit:.66,fs:58});exitBtn.position.set(0,0.82,-2.0);scene.add(exitBtn);
+const HITLIST=[prevBtn3d.userData.hit,nextBtn3d.userData.hit,prev10Btn.userData.hit,next10Btn.userData.hit,exitBtn.userData.hit];
 
 // main card loading
 let cur=-1,busy=false;
@@ -182,7 +220,7 @@ addEventListener('keydown',e=>{if(e.key==='ArrowRight')next();if(e.key==='ArrowL
 
 // VR enter/exit: swap flat pair for true per-eye planes
 renderer.xr.addEventListener('sessionstart',()=>{pairPlane.visible=false;leftPlane.visible=true;rightPlane.visible=true;statusEl.textContent='In VR. Trigger: next card. Squeeze: back. Or point at an arrow beside the photo, or flick the thumbstick.';});
-renderer.xr.addEventListener('sessionend',()=>{pairPlane.visible=true;leftPlane.visible=false;rightPlane.visible=false;});
+renderer.xr.addEventListener('sessionend',()=>{pairPlane.visible=true;leftPlane.visible=false;rightPlane.visible=false;statusEl.textContent='Rectified and comfort checked by the overlay pipeline. '+(navigator.xr?'Press Enter VR when ready.':'Drag to look around, arrow keys flip cards.');});
 
 // controllers + ray picking
 const ray=new THREE.Raycaster();const tmpM=new THREE.Matrix4();
@@ -191,7 +229,14 @@ function pick(controller){
   ray.ray.origin.setFromMatrixPosition(controller.matrixWorld);
   ray.ray.direction.set(0,0,-1).applyMatrix4(tmpM);
   const hits=ray.intersectObjects(HITLIST,false);
-  if(hits.length){const o=hits[0].object;if(o.userData.act==='next')return next();if(o.userData.act==='prev')return prev();}
+  if(hits.length){
+    const a=hits[0].object.userData.act;
+    if(a==='next')return next();
+    if(a==='prev')return prev();
+    if(a==='next10')return show(cur+10);
+    if(a==='prev10')return show(cur-10);
+    if(a==='exit'){const s=renderer.xr.getSession();if(s)s.end();return;}
+  }
   next(); // trigger anywhere else = next card, simple on purpose
 }
 const ctrls=[];
@@ -206,7 +251,7 @@ const ctrls=[];
 
 // flat-screen look around: drag to orbit camera slightly
 let yaw=0,pitch=0,drag=false,lx=0,ly=0;
-addEventListener('pointerdown',e=>{if(e.target.closest('button,a,.top'))return;drag=true;lx=e.clientX;ly=e.clientY});
+addEventListener('pointerdown',e=>{if(e.target.closest('button,a,.top,.cardinfo'))return;drag=true;lx=e.clientX;ly=e.clientY});
 addEventListener('pointermove',e=>{if(!drag)return;yaw-=(e.clientX-lx)*0.0022;pitch-=(e.clientY-ly)*0.0016;pitch=Math.max(-0.5,Math.min(0.5,pitch));lx=e.clientX;ly=e.clientY});
 addEventListener('pointerup',()=>drag=false);
 addEventListener('click',e=>{ /* flat click on canvas plaques */
@@ -214,7 +259,7 @@ addEventListener('click',e=>{ /* flat click on canvas plaques */
 });
 
 addEventListener('resize',()=>{camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix();renderer.setSize(innerWidth,innerHeight)});
-fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(items=>{DATA=items.map((d,i)=>({t:d.title,p:d.place,y:d.year,img:d.rect||('rect/'+String(i).padStart(2,'0')+'.jpg'),src:d.full,a:d.va,f:d.f}));let start=0;if(/^#STA-\d{4}$/.test(location.hash||'')){const ix=items.findIndex(d=>d.id===location.hash.slice(1));if(ix>=0)start=ix;}show(start);}).catch(()=>{statusEl.textContent='The catalogue could not be loaded. Please reload the page.';});
+fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(items=>{DATA=items.map((d,i)=>({id:d.id,t:d.title,p:d.place,y:d.year,img:d.rect||('rect/'+String(i).padStart(2,'0')+'.jpg'),src:d.full,a:d.va,f:d.f}));let start=0;if(/^#STA-\d{4}$/.test(location.hash||'')){const ix=items.findIndex(d=>d.id===location.hash.slice(1));if(ix>=0)start=ix;}show(start);}).catch(()=>{statusEl.textContent='The catalogue could not be loaded. Please reload the page.';});
 let stickArm=true,stickTime=0;
 function updateHover(){
   let hov=null;
