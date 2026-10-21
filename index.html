@@ -48,7 +48,7 @@ main{max-width:1180px;margin:0 auto;padding:22px 16px 10px;position:relative}
 .card .meta{color:var(--dim);font-size:12.5px;margin-top:5px}
 .card .tags{margin-top:9px;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
 .tag{font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--brass);border:1px solid var(--line);padding:3px 8px;border-radius:999px}
-.fav{margin-left:auto;background:none;border:none;font-size:17px;cursor:pointer;color:#5c5546;padding:2px}
+.fav{margin-left:auto;background:none;border:none;font-size:17px;cursor:pointer;color:#847a66;padding:2px}
 .fav.on{color:var(--brass2)}
 .empty{text-align:center;color:var(--dim);padding:60px 20px;font-size:15px}
 .how{max-width:1180px;margin:26px auto 0;padding:0 16px}
@@ -84,7 +84,7 @@ footer a{color:var(--brass)}
 .record{background:#ece5d8;color:#262015;border-radius:6px;text-align:left;padding:16px 20px;margin:14px auto 4px;max-width:760px;box-shadow:0 10px 30px rgba(0,0,0,.45)}
 .record .rhead{display:flex;justify-content:space-between;align-items:flex-start;border-bottom:2px solid #262015;padding-bottom:8px;margin-bottom:10px;gap:10px}
 .record h3{font-family:"Playfair Display",Georgia,serif;font-size:19px}
-.stamp{display:inline-block;border:2px solid #8a6f3e;color:#8a6f3e;padding:2px 9px;transform:rotate(-3deg);letter-spacing:.18em;font-weight:700;font-size:13px;border-radius:4px;white-space:nowrap}
+.stamp{display:inline-block;border:2px solid #75591f;color:#75591f;padding:2px 9px;transform:rotate(-3deg);letter-spacing:.18em;font-weight:700;font-size:13px;border-radius:4px;white-space:nowrap}
 .record dl{display:grid;grid-template-columns:130px 1fr;gap:5px 14px;font-size:13.5px}
 .record dt{color:#6d5c39;text-transform:uppercase;letter-spacing:.08em;font-size:11.5px;padding-top:2px}
 .record dd{line-height:1.45}
@@ -95,10 +95,10 @@ footer a{color:var(--brass)}
 .heroimg{background:#e6dcc4;min-height:230px}
 .heroimg img{width:100%;height:100%;object-fit:cover;display:block;opacity:0;transition:opacity .6s}
 .herotx{padding:24px 26px;display:flex;flex-direction:column;gap:9px}
-.herotx .kicker{color:#8a6f3e}
+.herotx .kicker{color:#75591f}
 .herotx h2{font-family:"Playfair Display",Georgia,serif;font-size:clamp(24px,3.4vw,36px);line-height:1.12}
 .hmeta{color:#6d5c39;font-size:13.5px}
-.herotx p{font-size:14.5px;line-height:1.6;color:#3a3222}
+.herotx p{font-size:14.5px;line-height:1.6;color:#3a3222;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
 .hbtns{display:flex;gap:10px;flex-wrap:wrap;margin-top:4px}
 .hbtns .btn{background:#262015;color:#ece5d8;border-color:#262015}
 .hbtns .btn.gold{background:var(--brass);color:#191510;border-color:var(--brass)}
@@ -150,6 +150,7 @@ canvas#ana.show{display:block}
 @media(max-width:640px){.eye{width:47vw}.navbtn{width:40px;height:40px}}
 #aidToggle{display:none}
 .card:focus-visible{outline:2px solid var(--brass);outline-offset:2px}
+.btn:focus-visible,.chip:focus-visible,.mode:focus-visible,.xbtn:focus-visible,.navbtn:focus-visible,select:focus-visible,.fav:focus-visible{outline:2px solid var(--brass);outline-offset:2px}
 @media(max-width:640px){
  .toolbar{padding:10px 12px}
  input[type=search]{flex:1 1 100%}
@@ -177,9 +178,9 @@ canvas#ana.show{display:block}
 
 <div class="toolbar">
   <div class="trow">
-    <input type="search" id="q" placeholder="Search falls, castles, war, the Moon...">
-    <select id="era"><option value="all">All eras</option><option value="early">1840s–1860s</option><option value="mid">1870s–1890s</option><option value="late">1900s–1920s</option><option value="undated">Undated</option></select>
-    <select id="sort"><option value="featured">Sort: Accession order</option><option value="old">Oldest first</option><option value="new">Newest first</option><option value="az">Title A–Z</option><option value="shuffle">Shuffle</option></select>
+    <input type="search" id="q" aria-label="Search the archive" placeholder="Search falls, castles, war, the Moon...">
+    <select id="era" aria-label="Filter by era"><option value="all">All eras</option><option value="early">1840s–1860s</option><option value="mid">1870s–1890s</option><option value="late">1900s–1920s</option><option value="undated">Undated</option></select>
+    <select id="sort" aria-label="Sort items"><option value="featured">Sort: Accession order</option><option value="old">Oldest first</option><option value="new">Newest first</option><option value="az">Title A–Z</option><option value="shuffle">Shuffle</option></select>
     <span class="viewtog"><button class="btn on" id="vShelves">Shelves</button><button class="btn" id="vRegister">Register</button></span>
     <button class="btn gold" id="surprise">Request an item</button>
     <a class="btn" href="vr.html" style="text-decoration:none;display:inline-block;background:var(--brass);color:#191510;border-color:var(--brass)">🥽 Enter the VR Parlor</a>
@@ -222,7 +223,7 @@ canvas#ana.show{display:block}
 All photographs are public domain or CC0, via Wikimedia Commons, from collections including the Robert N. Dennis Collection of Stereoscopic Views (NYPL), the Library of Congress, the Met Open Access, the National Archives, and the Getty Open Content program. Each photograph links to its source page. Every pair carries a measured condition report from the archive rectification process. No tracking; your reading list lives only in your browser.
 </footer>
 
-<div class="viewer" id="viewer" role="dialog" aria-modal="true">
+<div class="viewer" id="viewer" role="dialog" aria-modal="true" aria-label="Item viewer">
   <div class="vhead">
   <div class="vtop">
     <h2 id="vTitle"></h2>
@@ -231,21 +232,21 @@ All photographs are public domain or CC0, via Wikimedia Commons, from collection
     <div class="meta" id="vMeta"></div>
   </div>
   <div class="modes" id="modes">
-    <button class="mode on" data-m="pair">Original Pair</button>
-    <button class="mode" data-m="parallel">Parallel View</button>
-    <button class="mode" data-m="cross">Cross-Eye</button>
-    <button class="mode" data-m="wiggle">Wiggle</button>
-    <button class="mode" data-m="anaglyph">Anaglyph 🔴🔵</button>
+    <button class="mode on" data-m="pair" aria-pressed="true">Original Pair</button>
+    <button class="mode" data-m="parallel" aria-pressed="false">Parallel View</button>
+    <button class="mode" data-m="cross" aria-pressed="false">Cross-Eye</button>
+    <button class="mode" data-m="wiggle" aria-pressed="false">Wiggle</button>
+    <button class="mode" data-m="anaglyph" aria-pressed="false">Anaglyph 🔴🔵</button>
   </div>
   </div>
   <div class="stage" style="position:relative">
-    <button class="navbtn" id="prevB">‹</button>
+    <button class="navbtn" id="prevB" aria-label="Previous item">‹</button>
     <img class="pair" id="vImg" alt="">
     <div class="split" id="vSplit"><div class="eye" id="eyeL"></div><div class="eye" id="eyeR"></div></div>
     <div class="wigwrap" id="vWig"><div class="wig" id="wigEl"></div><div class="wigctl"><span>Wiggle speed</span><input type="range" id="wigSpeed" min="60" max="500" value="170" step="10"></div></div>
     <canvas id="ana" width="600" height="600"></canvas>
     <div class="loading" id="vLoad" style="display:none">Building the 3D view…</div>
-    <button class="navbtn" id="nextB">›</button>
+    <button class="navbtn" id="nextB" aria-label="Next item">›</button>
   </div>
   <div class="vbot"><p id="vBlurb"></p>
 <div class="record" id="vRecord"></div>
@@ -254,16 +255,29 @@ All photographs are public domain or CC0, via Wikimedia Commons, from collection
 
 <script>
 let DATA=[];
+/* Right-sized Commons thumbnails. Wikimedia only serves the widths it lists
+   for each file, so every derived URL carries an onerror fallback to the
+   catalogued image. Width segment form: .../1920px-<file>; originals hosted
+   on upload.wikimedia.org get a constructed thumb path. */
+function thumb(d,w){
+ const u=(d.img||'').split('?')[0];
+ const m=u.match(/\/(lossy-page1-)?(\d+)px-([^/]+)$/);
+ if(m)return u.replace('/'+(m[1]||'')+m[2]+'px-','/'+(m[1]||'')+w+'px-');
+ const up=u.match(/^https:\/\/upload\.wikimedia\.org\/wikipedia\/commons\/(.+)$/);
+ if(up)return 'https://thumb.wikimedia.org/wikipedia/commons/thumb/'+up[1]+'/'+w+'px-'+up[1].split('/').pop();
+ return d.img;
+}
+const FB=`onerror="this.onerror=null;this.src=this.dataset.full"`;
 function buildHero(){
  const d=DATA[Math.floor(Date.now()/86400000)%DATA.length];if(!d)return;const i=DATA.indexOf(d);
  const h=document.getElementById('hero');
- h.innerHTML=`<div class="heroimg"><img src="${d.img}" alt="${d.title} stereograph pair" onload="this.style.opacity=1"></div><div class="herotx"><div class="kicker">Item of the Day · ${d.id}</div><h2>${d.title}</h2><div class="hmeta">${d.place} · ${d.year} · ${d.coll}</div><p>${d.blurb}</p><div class="hbtns"><button class="btn gold" id="heroOpen">Open the record</button><a class="btn" href="vr.html" style="text-decoration:none;display:inline-block">View in the VR Parlor</a></div><div class="hdepth">Depth: ${d.depth} · Full condition report on the record</div></div>`;
+ h.innerHTML=`<div class="heroimg"><img src="${thumb(d,1280)}" data-full="${d.img}" ${FB} alt="${d.title} stereograph pair" onload="this.style.opacity=1"></div><div class="herotx"><div class="kicker">Item of the Day · ${d.id}</div><h2>${d.title}</h2><div class="hmeta">${d.place} · ${d.year} · ${d.coll}</div><p>${d.blurb}</p><div class="hbtns"><button class="btn gold" id="heroOpen">Open the record</button><a class="btn" href="vr.html#${d.id}" style="text-decoration:none;display:inline-block">View in the VR Parlor</a></div><div class="hdepth">Depth: ${d.depth} · Full condition report on the record</div></div>`;
  h.style.display='grid';
  document.getElementById('heroOpen').onclick=()=>openViewer(i,true);
 }
 function buildShelf(){
  const sh=document.getElementById('shelf');if(!sh)return;
- sh.innerHTML=DATA.slice(-10).reverse().map(d=>{const i=DATA.indexOf(d);return `<div class="sitem" data-i="${i}"><img loading="lazy" src="${d.img}" alt="${d.title}"><div class="sid">${d.id}</div><div class="stt">${d.title}</div></div>`}).join('');
+ sh.innerHTML=DATA.slice(-10).reverse().map(d=>{const i=DATA.indexOf(d);return `<div class="sitem" data-i="${i}"><img loading="lazy" decoding="async" src="${thumb(d,250)}" data-full="${d.img}" ${FB} alt="${d.title}"><div class="sid">${d.id}</div><div class="stt">${d.title}</div></div>`}).join('');
  sh.querySelectorAll('.sitem').forEach(el=>el.onclick=()=>openViewer(+el.dataset.i,true));
 }
 /* One-time migration (Phase 0): reading-list favorites were keyed by title;
@@ -283,8 +297,9 @@ function migrateFavs(){
 }
 function init(){
  migrateFavs();
+ DATA.forEach(d=>d._hay=(d.title+" "+d.place+" "+d.year+" "+(d.blurb||"")+" "+d.id+" "+d.coll+" "+d.cats.map(c=>CATLABEL[c]||c).join(" ")).toLowerCase());
  buildAid();
- document.getElementById('holdings').textContent='Holdings · '+DATA.length+' items · '+new Set(DATA.map(d=>d.coll)).size+' collections · 1845–1920';
+ document.getElementById('holdings').textContent='Holdings · '+DATA.length+' items · '+new Set(DATA.map(d=>d.coll)).size+' collections';
  buildHero();buildShelf();render();
  const h=(location.hash||'').replace('#','');
  if(h){const i=DATA.findIndex(d=>d.id===h);if(i>=0)openViewer(i,true);}
@@ -296,8 +311,8 @@ let state={cat:"all",era:"all",q:"",sort:"featured",coll:"all",view:"shelves"};
 let favs=new Set(JSON.parse(localStorage.getItem("stereoFavs")||"[]"));
 const $=s=>document.querySelector(s);
 const chips=$("#chips");
-CATS.forEach(([k,l])=>{const b=document.createElement("button");b.className="chip"+(k==="all"?" on":"");b.textContent=l;b.onclick=()=>setCat(k);chips.appendChild(b)});
-function setCat(k){state.cat=k;document.querySelectorAll(".chip").forEach((c,i)=>c.classList.toggle("on",CATS[i][0]===k));document.querySelectorAll("#seriesList .arow").forEach(r=>r.classList.toggle("on",r.dataset.k===k));render()}
+CATS.forEach(([k,l])=>{const b=document.createElement("button");b.className="chip"+(k==="all"?" on":"");b.textContent=l;b.setAttribute("aria-pressed",k==="all"?"true":"false");b.onclick=()=>setCat(k);chips.appendChild(b)});
+function setCat(k){state.cat=k;document.querySelectorAll(".chip").forEach((c,i)=>{c.classList.toggle("on",CATS[i][0]===k);c.setAttribute("aria-pressed",CATS[i][0]===k?"true":"false")});document.querySelectorAll("#seriesList .arow").forEach(r=>r.classList.toggle("on",r.dataset.k===k));render()}
 /* finding aid */
 function buildAid(){
  const cl=$("#collList");
@@ -308,30 +323,44 @@ function buildAid(){
  const sl=$("#seriesList");
  CATS.filter(([k])=>k!=="all"&&k!=="favs").forEach(([k,l])=>{const n=DATA.filter(d=>d.cats.includes(k)).length;const r=document.createElement("div");r.className="arow";r.dataset.k=k;r.innerHTML=`<span>${l}</span><span class="n">${n} ${n===1?"item":"items"}</span>`;r.onclick=()=>setCat(state.cat===k?"all":k);sl.appendChild(r)});
 }
-$("#aidToggle").onclick=()=>{const sec=$("#aidSec");sec.classList.toggle("open");$("#aidToggle").textContent=sec.classList.contains("open")?"Finding Aid · tap to close":"Finding Aid · tap to open"};
+$("#aidToggle").setAttribute("aria-expanded","false");
+$("#aidToggle").onclick=()=>{const sec=$("#aidSec");sec.classList.toggle("open");const open=sec.classList.contains("open");$("#aidToggle").textContent=open?"Finding Aid · tap to close":"Finding Aid · tap to open";$("#aidToggle").setAttribute("aria-expanded",open?"true":"false")};
 $("#vShelves").onclick=()=>{state.view="shelves";$("#vShelves").classList.add("on");$("#vRegister").classList.remove("on");render()};
 $("#vRegister").onclick=()=>{state.view="reg";$("#vRegister").classList.add("on");$("#vShelves").classList.remove("on");render()};
-$("#moreBtn").onclick=()=>{shown+=48;render()};
+$("#moreBtn").onclick=()=>{shown+=48;pendingAppend=true;render()};
 function filtered(){
  let a=DATA.filter(d=>{
    if(state.cat==="favs"&&!favs.has(d.id))return false;
    if(state.cat!=="all"&&state.cat!=="favs"&&!d.cats.includes(state.cat))return false;
    if(state.era!=="all"&&d.era!==state.era)return false;
    if(state.coll!=="all"&&d.coll!==state.coll)return false;
-   if(state.q){const hay=(d.title+" "+d.place+" "+d.year+" "+d.blurb+" "+d.id+" "+d.coll+" "+d.cats.map(c=>CATLABEL[c]||c).join(" ")).toLowerCase();if(!hay.includes(state.q))return false}
+   if(state.q&&!(d._hay||"").includes(state.q))return false;
    return true});
  if(state.sort==="old")a.sort((x,y)=>x.sy-y.sy);
  if(state.sort==="new")a.sort((x,y)=>y.sy-x.sy);
  if(state.sort==="az")a.sort((x,y)=>x.title.localeCompare(y.title));
- if(state.sort==="shuffle")a.sort(()=>Math.random()-.5);
+ if(state.sort==="shuffle"){if(!shuffleRank)shuffleRank=new Map(DATA.map(d=>[d.id,Math.random()]));a.sort((x,y)=>shuffleRank.get(x.id)-shuffleRank.get(y.id))}
  return a;
 }
+let shuffleRank=null;
 let currentList=[];
-let shown=48,lastSig='';
+let shown=48,lastSig='',renderedShown=0,pendingAppend=false;
+function cardEl(d,i){
+ const c=document.createElement("div");c.className="card";
+ c.innerHTML=`<div class="ph"><img loading="lazy" decoding="async" src="${thumb(d,500)}" data-full="${d.img}" ${FB} alt="${d.title} stereograph"></div><div class="cb"><div class="acc">${d.id} · ${d.coll}</div><h3>${d.title}</h3><div class="meta">${d.place} &middot; ${d.year}</div><div class="tags">${d.cats.map(t=>`<span class="tag">${CATLABEL[t]||t}</span>`).join("")}<span class="tag">${d.depth} depth</span><button class="fav ${favs.has(d.id)?"on":""}" title="Save to reading list">${favs.has(d.id)?"♥":"♡"}</button></div></div>`;
+ const fb=c.querySelector(".fav");
+ fb.setAttribute("aria-pressed",favs.has(d.id)?"true":"false");
+ fb.setAttribute("aria-label",(favs.has(d.id)?"Remove ":"Save ")+d.title+(favs.has(d.id)?" from":" to")+" the reading list");
+ fb.onclick=e=>{e.stopPropagation();toggleFav(d.id);render()};
+ c.tabIndex=0;c.setAttribute("role","button");c.onkeydown=e=>{if(e.target!==c)return;if(e.key==="Enter"||e.key===" "){e.preventDefault();openViewer(i)}};
+ c.onclick=()=>openViewer(i);
+ return c;
+}
 function render(){
  currentList=filtered();
  const sig=[state.cat,state.era,state.q,state.sort,state.coll,state.view].join('|');
- if(sig!==lastSig){shown=48;lastSig=sig;}
+ const sameSig=sig===lastSig;
+ if(!sameSig){shown=48;lastSig=sig;renderedShown=0;}
  const page=currentList.slice(0,shown);
  const g=$("#grid"),rg=$("#reg");
  $("#count").textContent="Showing "+currentList.length+" of "+DATA.length+" items"+(state.coll!=="all"?" · Collection: "+state.coll:"")+(state.cat!=="all"&&state.cat!=="favs"?" · Series: "+(CATLABEL[state.cat]||""):"");
@@ -342,34 +371,46 @@ function render(){
   g.style.display="none";rg.style.display="block";
   rg.innerHTML=`<div class="regwrap"><table><thead><tr><th>No.</th><th>Title</th><th>Date</th><th class="hidemb">Place</th><th class="hidemb">Series</th><th>Depth</th></tr></thead><tbody>${page.map((d,i)=>`<tr data-i="${i}"><td class="no">${d.id}</td><td class="ttl">${d.title}</td><td>${d.year}</td><td class="hidemb">${d.place}</td><td class="hidemb">${d.cats.map(c=>CATLABEL[c]||c).join(", ")}</td><td>${d.depth}</td></tr>`).join("")}</tbody></table></div>`;
   rg.querySelectorAll("tbody tr").forEach(tr=>tr.onclick=()=>openViewer(+tr.dataset.i));
+  renderedShown=page.length;pendingAppend=false;
   return;
  }
- g.style.display="grid";rg.style.display="none";g.innerHTML="";
- page.forEach((d,i)=>{
-  const c=document.createElement("div");c.className="card";
-  c.innerHTML=`<div class="ph"><img loading="lazy" src="${d.img}" alt="${d.title} stereograph"></div><div class="cb"><div class="acc">${d.id} · ${d.coll}</div><h3>${d.title}</h3><div class="meta">${d.place} &middot; ${d.year}</div><div class="tags">${d.cats.map(t=>`<span class="tag">${CATLABEL[t]||t}</span>`).join("")}<span class="tag">${d.depth} depth</span><button class="fav ${favs.has(d.id)?"on":""}" title="Save to reading list">${favs.has(d.id)?"♥":"♡"}</button></div></div>`;
-  c.querySelector(".fav").onclick=e=>{e.stopPropagation();toggleFav(d.id);render()};
-  c.tabIndex=0;c.setAttribute("role","button");c.onkeydown=e=>{if(e.target!==c)return;if(e.key==="Enter"||e.key===" "){e.preventDefault();openViewer(i)}};
-  c.onclick=()=>openViewer(i);
-  g.appendChild(c);
- });
+ g.style.display="grid";rg.style.display="none";
+ /* "Show more" appends only the new slice instead of rebuilding every card
+    already on screen; any other state change falls back to a full rebuild. */
+ const canAppend=pendingAppend&&sameSig&&g.children.length===renderedShown&&renderedShown<page.length;
+ if(canAppend){
+  for(let i=renderedShown;i<page.length;i++)g.appendChild(cardEl(page[i],i));
+ }else{
+  g.innerHTML="";
+  page.forEach((d,i)=>g.appendChild(cardEl(d,i)));
+ }
+ renderedShown=page.length;pendingAppend=false;
 }
 function toggleFav(t){favs.has(t)?favs.delete(t):favs.add(t);localStorage.setItem("stereoFavs",JSON.stringify([...favs]));syncFavBtn()}
-$("#q").oninput=e=>{state.q=e.target.value.trim().toLowerCase();render()};
+let qTimer=null;
+$("#q").oninput=e=>{const v=e.target.value.trim().toLowerCase();clearTimeout(qTimer);qTimer=setTimeout(()=>{state.q=v;render()},120)};
 $("#era").onchange=e=>{state.era=e.target.value;render()};
-$("#sort").onchange=e=>{state.sort=e.target.value;render()};
+$("#sort").onchange=e=>{state.sort=e.target.value;shuffleRank=null;render()};
 $("#howBtn").onclick=()=>{const h=$("#how");h.style.display=h.style.display==="none"?"block":"none";h.scrollIntoView({behavior:"smooth"})};
 $("#surprise").onclick=()=>{currentList=DATA.slice();openViewer(Math.floor(Math.random()*DATA.length),true)};
 
 /* viewer */
-let vi=0,mode="pair",wigTimer=null,wigSide=false;
+let vi=0,mode="pair",wigTimer=null,wigSide=false,lastFocus=null;
 function cur(){return currentList[vi]}
 function openViewer(i,fromAll){
  if(fromAll){vi=i;currentList=DATA.slice()}else{vi=i}
  const d=cur();if(!d)return;
+ lastFocus=document.activeElement;
  $("#viewer").classList.add("open");document.body.style.overflow="hidden";
  fillViewer();setMode("pair");
+ $("#vClose").focus();
 }
+addEventListener("hashchange",()=>{
+ const h=(location.hash||'').replace('#','');
+ if(!/^STA-\d{4}$/.test(h))return;
+ const i=DATA.findIndex(d=>d.id===h);if(i<0)return;
+ if(!$("#viewer").classList.contains("open")||!cur()||cur().id!==h)openViewer(i,true);
+});
 function fillViewer(){
  const d=cur();
  try{history.replaceState(null,"","#"+d.id)}catch(e){}
@@ -382,13 +423,13 @@ function fillViewer(){
  $("#vRecord").innerHTML=`<div class="rhead"><h3>Catalogue Record</h3><span class="stamp">${d.id}</span></div><dl><dt>Title</dt><dd>${d.title}</dd><dt>Date</dt><dd>${d.year}</dd><dt>Place</dt><dd>${d.place}</dd><dt>Collection</dt><dd>${d.coll}</dd><dt>Series</dt><dd>${d.cats.map(c=>CATLABEL[c]||c).join(", ")}</dd><dt>License</dt><dd>${d.license}</dd><dt>Depth</dt><dd>${d.depth} (${d.range}% of frame width)</dd><dt>Condition</dt><dd>${d.cond}</dd></dl><p style="margin-top:10px;font-size:13.5px">This item also hangs in the <a href="vr.html#${d.id}">VR Parlor</a>.</p>`;
  syncFavBtn();
 }
-function syncFavBtn(){const d=cur();if(!d)return;const b=$("#vFav");const on=favs.has(d.id);b.textContent=on?"♥ Saved":"♡ Save"}
+function syncFavBtn(){const d=cur();if(!d)return;const b=$("#vFav");const on=favs.has(d.id);b.textContent=on?"♥ Saved":"♡ Save";b.setAttribute("aria-pressed",on?"true":"false");b.setAttribute("aria-label",(on?"Remove ":"Save ")+d.title+(on?" from":" to")+" the reading list")}
 $("#vFav").onclick=()=>{toggleFav(cur().id);render()};
 function stopWig(){if(wigTimer){clearInterval(wigTimer);wigTimer=null}}
 const rectUrl=d=>d.rect||('rect/'+String(parseInt(d.id.slice(4),10)-1).padStart(2,'0')+'.jpg');
 function setMode(m){
  mode=m;stopWig();
- document.querySelectorAll(".mode").forEach(b=>b.classList.toggle("on",b.dataset.m===m));
+ document.querySelectorAll(".mode").forEach(b=>{b.classList.toggle("on",b.dataset.m===m);b.setAttribute("aria-pressed",b.dataset.m===m?"true":"false")});
  const d=cur();
  $("#vImg").style.display=m==="pair"?"block":"none";
  $("#vSplit").classList.toggle("show",m==="parallel"||m==="cross");
@@ -408,9 +449,12 @@ function setMode(m){
  if(m==="anaglyph")buildAnaglyph(d);
 }
 function buildAnaglyph(d){
- const load=$("#vLoad");load.style.display="block";
+ const load=$("#vLoad");load.textContent="Building the 3D view…";load.style.display="block";
+ const want=d.id;
+ const stale=()=>mode!=="anaglyph"||!cur()||cur().id!==want;
  const img=new Image();img.crossOrigin="anonymous";img.src=rectUrl(d);
  img.onload=()=>{
+  if(stale())return;
   try{
    const hw=Math.floor(img.naturalWidth/2),h=img.naturalHeight;
    const off=document.createElement("canvas");off.width=img.naturalWidth;off.height=h;
@@ -426,12 +470,12 @@ function buildAnaglyph(d){
    ctx.putImageData(out,0,0);load.style.display="none";cv.classList.add("show");
   }catch(e){load.textContent="Anaglyph blocked for this image, try Wiggle instead."}
  };
- img.onerror=()=>{load.textContent="Could not load this image for anaglyph, try Wiggle instead."};
+ img.onerror=()=>{if(stale())return;load.textContent="Could not load this image for anaglyph, try Wiggle instead."};
 }
 document.querySelectorAll(".mode").forEach(b=>b.onclick=()=>setMode(b.dataset.m));
 function step(n){vi=(vi+n+currentList.length)%currentList.length;fillViewer();setMode(mode)}
 $("#prevB").onclick=()=>step(-1);$("#nextB").onclick=()=>step(1);
-function closeViewer(){$("#viewer").classList.remove("open");document.body.style.overflow="";stopWig();try{history.replaceState(null,"",location.pathname+location.search)}catch(e){}}
+function closeViewer(){$("#viewer").classList.remove("open");document.body.style.overflow="";stopWig();try{history.replaceState(null,"",location.pathname+location.search)}catch(e){}if(lastFocus&&lastFocus.focus)lastFocus.focus();}
 $("#vClose").onclick=closeViewer;
 document.addEventListener("keydown",e=>{if(e.target.closest&&e.target.closest("input,select,textarea"))return;if(!$("#viewer").classList.contains("open"))return;if(e.key==="Escape")closeViewer();if(e.key==="ArrowRight")step(1);if(e.key==="ArrowLeft")step(-1)});
 </script>
