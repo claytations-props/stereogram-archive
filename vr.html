@@ -11,19 +11,19 @@
 body{background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,sans-serif;overflow:hidden}
 #app{position:fixed;inset:0}
 canvas{display:block}
-#ui{position:fixed;inset:0;pointer-events:none;display:flex;flex-direction:column;justify-content:space-between;padding:18px;z-index:10}
-.top{max-width:560px;background:rgba(11,10,8,.78);border:1px solid var(--line);border-radius:14px;padding:16px 18px;backdrop-filter:blur(6px);pointer-events:auto}
+#ui{position:fixed;inset:0;pointer-events:none;display:flex;flex-direction:column;justify-content:space-between;padding:12px;z-index:10}
+.top{max-width:400px;background:rgba(11,10,8,.78);border:1px solid var(--line);border-radius:12px;padding:11px 13px;backdrop-filter:blur(6px);pointer-events:auto}
 .kicker{letter-spacing:.3em;text-transform:uppercase;font-size:10px;color:var(--brass);font-weight:700}
-h1{font-family:Georgia,serif;font-size:26px;margin:6px 0}
-.top p{color:var(--dim);font-size:13.5px;line-height:1.55}
+h1{font-family:Georgia,serif;font-size:19px;margin:4px 0}
+.top p{color:var(--dim);font-size:12px;line-height:1.5}
 .top b{color:var(--text)}
 #status{margin-top:8px;font-size:12.5px;color:var(--brass)}
 .bottom{display:flex;gap:10px;align-items:flex-end;justify-content:space-between;flex-wrap:wrap}
-.cardinfo{background:rgba(11,10,8,.78);border:1px solid var(--line);border-radius:14px;padding:12px 16px;max-width:460px;backdrop-filter:blur(6px)}
-.cardinfo h2{font-family:Georgia,serif;font-size:19px}
+.cardinfo{background:rgba(11,10,8,.78);border:1px solid var(--line);border-radius:12px;padding:8px 12px;max-width:380px;backdrop-filter:blur(6px)}
+.cardinfo h2{font-family:Georgia,serif;font-size:15px}
 .cardinfo div{color:var(--dim);font-size:12.5px;margin-top:3px}
 .controls{display:flex;gap:8px;pointer-events:auto}
-button{background:#1e1b16;border:1px solid var(--line);color:var(--text);border-radius:999px;padding:11px 18px;font-size:14px;font-weight:600;cursor:pointer}
+button{background:#1e1b16;border:1px solid var(--line);color:var(--text);border-radius:999px;padding:7px 13px;font-size:12.5px;font-weight:600;cursor:pointer}
 button:hover{border-color:var(--brass);color:#e8c987}
 button.gold{background:var(--brass);color:#191510;border-color:var(--brass)}
 a{color:var(--brass)}
@@ -37,7 +37,7 @@ a{color:var(--brass)}
   <div class="top">
     <div class="kicker">The Stereograph Archive</div>
     <h1>🥽 The VR Parlor</h1>
-    <p>Put on your headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, so the depth just works. Every view is cropped to the printed photograph itself and run through a measuring pipeline before it hangs here: the two halves are matched feature by feature, rotated and scaled into register, brightness matched, and the depth checked, and deep views are hung a little smaller so they stay comfortable. There is no frame and no wall: the photograph hangs far away in the dark, enlarged, its edges feathered into the black, so you look straight into the scene itself. <b>Trigger</b> or tap a plaque to flip cards, point at the thumbnails below to jump, and on a flat screen just drag to look around.</p>
+    <p>Put on your headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, so the depth just works. Every view is aligned by a measuring pipeline before it hangs here, so your eyes can relax. There is no frame and no wall: the photograph hangs far away in the dark, enlarged, its edges feathered into the black. <b>Trigger</b> flips forward, <b>squeeze</b> goes back.</p>
     <div id="status">Loading the parlor…</div>
   </div>
   <div class="bottom">
@@ -112,47 +112,31 @@ pairPlane.position.set(0,1.5,-1.66);pairPlane.visible=true;scene.add(pairPlane);
 frame.visible=false;
 
 // caption plaque (canvas texture)
-const capCanvas=document.createElement('canvas');capCanvas.width=1024;capCanvas.height=256;
+const capCanvas=document.createElement('canvas');capCanvas.width=1024;capCanvas.height=128;
 const capTex=new THREE.CanvasTexture(capCanvas);
-const plaque=new THREE.Mesh(new THREE.PlaneGeometry(1.5,.375),new THREE.MeshBasicMaterial({map:capTex}));
-plaque.position.set(0,0.82,-2.24);plaque.rotation.x=-0.12;scene.add(plaque);
+const plaque=new THREE.Mesh(new THREE.PlaneGeometry(1.05,.13),new THREE.MeshBasicMaterial({map:capTex,transparent:true}));
+plaque.position.set(0,0.42,-2.0);scene.add(plaque);
 function drawCaption(d,idx){
   const c=capCanvas.getContext('2d');
-  c.fillStyle='#171410';c.fillRect(0,0,1024,256);
-  c.strokeStyle='#c9a86a';c.lineWidth=6;c.strokeRect(10,10,1004,236);
-  c.fillStyle='#ece5d8';c.textAlign='center';c.font='700 54px Georgia,serif';
-  c.fillText(d.t,512,100,960);
-  c.fillStyle='#a89c86';c.font='36px system-ui,sans-serif';
-  c.fillText(d.p+'  ·  '+d.y,512,160,960);
-  c.fillStyle='#c9a86a';c.font='600 30px system-ui,sans-serif';
-  c.fillText('Card '+(idx+1)+' of '+DATA.length,512,214);
+  c.clearRect(0,0,1024,128);
+  c.fillStyle='rgba(10,9,7,0.45)';c.beginPath();c.roundRect(0,14,1024,100,26);c.fill();
+  c.fillStyle='#ece5d8';c.textAlign='center';c.textBaseline='middle';c.font='600 43px Georgia,serif';
+  c.fillText(d.t+'  ·  '+d.p+'  ·  '+d.y,512,66,980);
   capTex.needsUpdate=true;
   document.getElementById('ciTitle').textContent=d.t;
   document.getElementById('ciMeta').textContent=d.p+' · '+d.y+' · Card '+(idx+1)+' of '+DATA.length;
 }
-function textPlaque(text,w=0.34){
+function textPlaque(text,w=0.17){
   const cv=document.createElement('canvas');cv.width=256;cv.height=256;const c=cv.getContext('2d');
-  c.fillStyle='#1e1b16';c.fillRect(0,0,256,256);c.strokeStyle='#c9a86a';c.lineWidth=8;c.strokeRect(8,8,240,240);
-  c.fillStyle='#ece5d8';c.font='700 120px Georgia,serif';c.textAlign='center';c.textBaseline='middle';c.fillText(text,128,138);
+  c.clearRect(0,0,256,256);
+  c.fillStyle='rgba(10,9,7,0.45)';c.beginPath();c.roundRect(28,28,200,200,40);c.fill();
+  c.fillStyle='#e8c987';c.font='700 130px Georgia,serif';c.textAlign='center';c.textBaseline='middle';c.fillText(text,128,140);
   const t=new THREE.CanvasTexture(cv);
-  const m=new THREE.Mesh(new THREE.PlaneGeometry(w,w),new THREE.MeshBasicMaterial({map:t,transparent:false}));
+  const m=new THREE.Mesh(new THREE.PlaneGeometry(w,w),new THREE.MeshBasicMaterial({map:t,transparent:true}));
   m.layers.enableAll();return m;
 }
-const prevMesh=textPlaque('‹');prevMesh.position.set(-0.82,1.5,-2.24);prevMesh.userData.act='prev';scene.add(prevMesh);
-const nextMesh=textPlaque('›');nextMesh.position.set(0.82,1.5,-2.24);nextMesh.userData.act='next';scene.add(nextMesh);
-
-// thumbnail arc
-const thumbs=new THREE.Group();scene.add(thumbs);
-const loader=new THREE.TextureLoader();loader.setCrossOrigin('anonymous');
-const thumbMeshes=[];
-DATA.forEach((d,i)=>{
-  const ang=(i/(DATA.length-1)-0.5)*2.2; // arc spread
-  const r=2.9,x=Math.sin(ang)*r,z=-Math.cos(ang)*r+0.85;
-  const m=new THREE.Mesh(new THREE.PlaneGeometry(.52,.27),new THREE.MeshBasicMaterial({color:0x22201c}));
-  m.position.set(x,0.58,z);m.lookAt(0,0.85,0.4);m.userData.act='jump';m.userData.idx=i;m.layers.enableAll();
-  thumbs.add(m);thumbMeshes.push(m);
-  loader.load(d.img,t=>{t.colorSpace=THREE.SRGBColorSpace;t.anisotropy=4;m.material.map=t;m.material.color.set(0xffffff);m.material.needsUpdate=true;});
-});
+const prevMesh=textPlaque('‹');prevMesh.position.set(-0.66,0.42,-2.0);prevMesh.userData.act='prev';scene.add(prevMesh);
+const nextMesh=textPlaque('›');nextMesh.position.set(0.66,0.42,-2.0);nextMesh.userData.act='next';scene.add(nextMesh);
 
 // main card loading
 let cur=-1,busy=false;
@@ -180,7 +164,6 @@ function show(idx){
     pairPlane.material.map=pt;pairPlane.material.color.set(0xffffff);
     const paspect=2*d.a;const pw=Math.min(1.1*paspect,2.3);pairPlane.geometry.dispose();pairPlane.geometry=new THREE.PlaneGeometry(pw,1.1);pairPlane.material.needsUpdate=true;
     drawCaption(d,idx);
-    thumbMeshes.forEach((m,i)=>{m.scale.setScalar(i===idx?1.25:1)});
     statusEl.textContent='Rectified and comfort checked by the overlay pipeline. '+(navigator.xr?'Press Enter VR when ready.':'Drag to look around, arrow keys flip cards.');
     busy=false;
   },undefined,()=>{statusEl.textContent='That card failed to load, skipping\u2026';busy=false;setTimeout(()=>show(idx+1),400);});
@@ -192,7 +175,7 @@ document.getElementById('randBtn').onclick=()=>show(Math.floor(Math.random()*DAT
 addEventListener('keydown',e=>{if(e.key==='ArrowRight')next();if(e.key==='ArrowLeft')prev();});
 
 // VR enter/exit: swap flat pair for true per-eye planes
-renderer.xr.addEventListener('sessionstart',()=>{pairPlane.visible=false;leftPlane.visible=true;rightPlane.visible=true;statusEl.textContent='In VR. Trigger flips to the next card, point at a plaque or thumbnail to choose.';});
+renderer.xr.addEventListener('sessionstart',()=>{pairPlane.visible=false;leftPlane.visible=true;rightPlane.visible=true;statusEl.textContent='In VR. Trigger flips to the next card, squeeze goes back, or point at an arrow.';});
 renderer.xr.addEventListener('sessionend',()=>{pairPlane.visible=true;leftPlane.visible=false;rightPlane.visible=false;});
 
 // controllers + ray picking
@@ -201,8 +184,8 @@ function pick(controller){
   tmpM.identity().extractRotation(controller.matrixWorld);
   ray.ray.origin.setFromMatrixPosition(controller.matrixWorld);
   ray.ray.direction.set(0,0,-1).applyMatrix4(tmpM);
-  const hits=ray.intersectObjects([prevMesh,nextMesh,...thumbMeshes],false);
-  if(hits.length){const o=hits[0].object;if(o.userData.act==='next')return next();if(o.userData.act==='prev')return prev();if(o.userData.act==='jump')return show(o.userData.idx);}
+  const hits=ray.intersectObjects([prevMesh,nextMesh],false);
+  if(hits.length){const o=hits[0].object;if(o.userData.act==='next')return next();if(o.userData.act==='prev')return prev();}
   next(); // trigger anywhere else = next card, simple on purpose
 }
 [0,1].forEach(i=>{
