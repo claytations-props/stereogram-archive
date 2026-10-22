@@ -718,7 +718,7 @@ addEventListener('click',e=>{ /* flat click: pick wall tiles and room buttons */
 });
 
 addEventListener('resize',()=>{camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix();renderer.setSize(innerWidth,innerHeight);sizePair();});
-fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(items=>{
+fetch('vr.json',{cache:'no-cache'}).then(r=>r.json()).then(items=>{
   DATA=items.map((d,i)=>({id:d.id,t:d.title,p:d.place,y:d.year,coll:d.coll,cn:d.collection_name||null,cr:d.creator||null,cats:d.cats||[],cond:d.cond||'',img:d.rect||('rect/'+String(i).padStart(2,'0')+'.jpg'),oimg:d.img||'',src:d.full,a:d.va,f:d.f}));
   SETS=deriveSets(DATA,readFavs());
   buildBrowse();

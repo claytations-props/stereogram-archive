@@ -180,6 +180,7 @@ canvas#ana.show{display:block}
 <div class="toolbar">
   <div class="trow">
     <input type="search" id="q" aria-label="Search the archive" placeholder="Search falls, castles, war, the Moon...">
+    <span id="idxNote" role="status" style="font-size:12px;color:var(--dim)"></span>
     <select id="era" aria-label="Filter by era"><option value="all">All eras</option><option value="early">1840s–1860s</option><option value="mid">1870s–1890s</option><option value="late">1900s–1920s</option><option value="undated">Undated</option></select>
     <select id="sort" aria-label="Sort items"><option value="featured">Sort: Accession order</option><option value="old">Oldest first</option><option value="new">Newest first</option><option value="az">Title A–Z</option><option value="shuffle">Shuffle</option></select>
     <span class="viewtog"><button class="btn on" id="vShelves">Shelves</button><button class="btn" id="vRegister">Register</button></span>
@@ -296,16 +297,54 @@ function migrateFavs(){
  }
  if(changed||next.size!==favs.size){favs=next;localStorage.setItem("stereoFavs",JSON.stringify([...favs]));}
 }
+function browseHay(d){return (d.title+" "+d.place+" "+d.year+" "+d.id+" "+d.coll+" "+d.cats.map(c=>CATLABEL[c]||c).join(" ")).toLowerCase()}
 function init(){
  migrateFavs();
- DATA.forEach(d=>d._hay=(d.title+" "+d.place+" "+d.year+" "+(d.blurb||"")+" "+d.id+" "+d.coll+" "+d.cats.map(c=>CATLABEL[c]||c).join(" ")).toLowerCase());
+ DATA.forEach(d=>d._hay=SLIM?browseHay(d):(d.title+" "+d.place+" "+d.year+" "+(d.blurb||"")+" "+d.id+" "+d.coll+" "+d.cats.map(c=>CATLABEL[c]||c).join(" ")).toLowerCase());
  buildAid();
  document.getElementById('holdings').textContent='Holdings · '+DATA.length+' items · '+new Set(DATA.map(d=>d.coll)).size+' collections';
  buildHero();buildShelf();render();
  const h=(location.hash||'').replace('#','');
  if(h){const i=DATA.findIndex(d=>d.id===h);if(i>=0)openViewer(i,true);}
 }
-fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(d=>{DATA=d;init();}).catch(()=>{document.getElementById('count').textContent='The catalogue could not be loaded. Please reload the page.'});
+/* Phase 2A loading: the gallery browses from the slim browse.json;
+   full records are fetched per item (records/STA-####.json) only when
+   a record is opened, and the full-text search index arrives in
+   chunks in the background. If browse.json fails, fall back to the
+   full data.json exactly as before Phase 2A. */
+let SLIM=false;
+const recCache=new Map();
+function getRecord(id){
+ if(recCache.has(id))return Promise.resolve(recCache.get(id));
+ return fetch('records/'+id+'.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw 0;return r.json()})
+  .then(rec=>{recCache.set(id,rec);return rec})
+  .catch(()=>fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(all=>{all.forEach(x=>recCache.set(x.id,x));return recCache.get(id)}))
+  .catch(()=>DATA.find(d=>d.id===id)||null);
+}
+function setIdxNote(t){const n=document.getElementById('idxNote');if(n)n.textContent=t}
+function loadSearchIndex(){
+ setIdxNote('Indexing full text…');
+ fetch('search/index.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(man=>{
+  const byId=new Map(DATA.map(d=>[d.id,d]));
+  let pending=man.chunks.length,failed=false;
+  const settle=()=>{if(--pending===0)setIdxNote(failed?'Full-text index unavailable, searching titles, places and series.':'')};
+  man.chunks.forEach(ch=>{
+   fetch('search/'+ch.file,{cache:'no-cache'}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(pairs=>{
+    pairs.forEach(([id,hay])=>{const d=byId.get(id);if(d)d._hay=hay});
+    if(state.q)render();
+   }).catch(()=>{failed=true}).then(settle);
+  });
+ }).catch(()=>setIdxNote('Full-text index unavailable, searching titles, places and series.'));
+}
+function startWith(d,slim){
+ DATA=d;SLIM=slim;
+ if(!slim)DATA.forEach(x=>recCache.set(x.id,x));
+ init();
+ if(slim)loadSearchIndex();
+}
+fetch('browse.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>startWith(d,true))
+ .catch(()=>fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(d=>startWith(d,false))
+ .catch(()=>{document.getElementById('count').textContent='The catalogue could not be loaded. Please reload the page.'}));
 const CATS=[["all","All"],["water","Falls & Rivers"],["mountains","Mountains & Canyons"],["cities","Cities & Towns"],["war","Civil War"],["world","Around the World"],["people","People & Comedy"],["oddities","Oddities"],["favs","♥ Reading List"]];
 const CATLABEL=Object.fromEntries(CATS);
 let state={cat:"all",era:"all",q:"",sort:"featured",coll:"all",view:"shelves"};
@@ -398,14 +437,42 @@ $("#surprise").onclick=()=>{currentList=DATA.slice();openViewer(Math.floor(Math.
 
 /* viewer */
 let vi=0,mode="pair",wigTimer=null,wigSide=false,lastFocus=null;
+let vrec=null,viewToken=0;
 function cur(){return currentList[vi]}
 function openViewer(i,fromAll){
  if(fromAll){vi=i;currentList=DATA.slice()}else{vi=i}
  const d=cur();if(!d)return;
  lastFocus=document.activeElement;
  $("#viewer").classList.add("open");document.body.style.overflow="hidden";
- fillViewer();setMode("pair");
+ showCurrent(false);
  $("#vClose").focus();
+}
+/* Show the current item: header, blurb and pair image come from the
+   browse entry immediately; the full record (source links, licence,
+   condition report, rectified-pair modes) lands asynchronously via
+   getRecord and is cached for the session. */
+function showCurrent(keepMode){
+ const b=cur();if(!b)return;
+ const tk=++viewToken;vrec=null;
+ try{history.replaceState(null,"","#"+b.id)}catch(e){}
+ $("#vTitle").textContent=b.title;
+ $("#vMeta").textContent=b.id+" · "+b.place+" · "+b.year+" · "+b.coll;
+ $("#vBlurb").textContent=b.blurb;
+ $("#vSource").removeAttribute("href");$("#vFull").removeAttribute("href");$("#vLic").textContent="";
+ $("#vImg").src=b.img;$("#vImg").alt=b.title+" stereograph pair";
+ $("#vRecord").innerHTML='<p style="font-size:13.5px;color:#6d5c39">Loading the full record\u2026</p>';
+ syncFavBtn();
+ setMode(keepMode?mode:"pair");
+ getRecord(b.id).then(rec=>{
+  if(tk!==viewToken||!rec)return;
+  vrec=rec;fillRecord(rec);
+  if(mode!=="pair")setMode(mode);
+ });
+}
+function fillRecord(d){
+ $("#vSource").href=d.source;$("#vFull").href=d.full;
+ $("#vLic").textContent="License: "+d.license;
+ $("#vRecord").innerHTML=`<div class="rhead"><h3>Catalogue Record</h3><span class="stamp">${d.id}</span></div><dl><dt>Title</dt><dd>${d.title}</dd><dt>Date</dt><dd>${d.year}</dd><dt>Place</dt><dd>${d.place}</dd>${d.creator?`<dt>Creator</dt><dd>${d.creator}</dd>`:''}${(d.repository||d.collection_name||d.publisher)?(d.repository?`<dt>Repository</dt><dd>${d.repository}</dd>`:'')+(d.collection_name?`<dt>Collection</dt><dd>${d.collection_name}</dd>`:'')+(d.publisher?`<dt>Publisher</dt><dd>${d.publisher}</dd>`:''):`<dt>Collection</dt><dd>${d.coll}</dd>`}<dt>Series</dt><dd>${d.cats.map(c=>CATLABEL[c]||c).join(", ")}</dd><dt>License</dt><dd>${d.rights_uri?`<a href="${d.rights_uri}">${d.license}</a>`:d.license}</dd><dt>Depth</dt><dd>${d.depth} (${d.range}% of frame width)</dd><dt>Condition</dt><dd>${d.cond}</dd></dl><p style="margin-top:10px;font-size:13.5px">This item also hangs in the <a href="vr.html${d.cats&&d.cats[0]?"?set="+encodeURIComponent("series:"+d.cats[0]):""}#${d.id}">VR Parlor</a>.</p>`;
 }
 addEventListener("hashchange",()=>{
  const h=(location.hash||'').replace('#','');
@@ -413,18 +480,7 @@ addEventListener("hashchange",()=>{
  const i=DATA.findIndex(d=>d.id===h);if(i<0)return;
  if(!$("#viewer").classList.contains("open")||!cur()||cur().id!==h)openViewer(i,true);
 });
-function fillViewer(){
- const d=cur();
- try{history.replaceState(null,"","#"+d.id)}catch(e){}
- $("#vTitle").textContent=d.title;
- $("#vMeta").textContent=d.id+" · "+d.place+" · "+d.year+" · "+d.coll;
- $("#vBlurb").textContent=d.blurb;
- $("#vSource").href=d.source;$("#vFull").href=d.full;
- $("#vLic").textContent="License: "+d.license;
- $("#vImg").src=d.img;$("#vImg").alt=d.title+" stereograph pair";
- $("#vRecord").innerHTML=`<div class="rhead"><h3>Catalogue Record</h3><span class="stamp">${d.id}</span></div><dl><dt>Title</dt><dd>${d.title}</dd><dt>Date</dt><dd>${d.year}</dd><dt>Place</dt><dd>${d.place}</dd>${d.creator?`<dt>Creator</dt><dd>${d.creator}</dd>`:''}${(d.repository||d.collection_name||d.publisher)?(d.repository?`<dt>Repository</dt><dd>${d.repository}</dd>`:'')+(d.collection_name?`<dt>Collection</dt><dd>${d.collection_name}</dd>`:'')+(d.publisher?`<dt>Publisher</dt><dd>${d.publisher}</dd>`:''):`<dt>Collection</dt><dd>${d.coll}</dd>`}<dt>Series</dt><dd>${d.cats.map(c=>CATLABEL[c]||c).join(", ")}</dd><dt>License</dt><dd>${d.rights_uri?`<a href="${d.rights_uri}">${d.license}</a>`:d.license}</dd><dt>Depth</dt><dd>${d.depth} (${d.range}% of frame width)</dd><dt>Condition</dt><dd>${d.cond}</dd></dl><p style="margin-top:10px;font-size:13.5px">This item also hangs in the <a href="vr.html${d.cats&&d.cats[0]?"?set="+encodeURIComponent("series:"+d.cats[0]):""}#${d.id}">VR Parlor</a>.</p>`;
- syncFavBtn();
-}
+
 function syncFavBtn(){const d=cur();if(!d)return;const b=$("#vFav");const on=favs.has(d.id);b.textContent=on?"♥ Saved":"♡ Save";b.setAttribute("aria-pressed",on?"true":"false");b.setAttribute("aria-label",(on?"Remove ":"Save ")+d.title+(on?" from":" to")+" the reading list")}
 $("#vFav").onclick=()=>{toggleFav(cur().id);render()};
 function stopWig(){if(wigTimer){clearInterval(wigTimer);wigTimer=null}}
@@ -432,11 +488,12 @@ const rectUrl=d=>d.rect||('rect/'+String(parseInt(d.id.slice(4),10)-1).padStart(
 function setMode(m){
  mode=m;stopWig();
  document.querySelectorAll(".mode").forEach(b=>{b.classList.toggle("on",b.dataset.m===m);b.setAttribute("aria-pressed",b.dataset.m===m?"true":"false")});
- const d=cur();
+ const d=vrec;
  $("#vImg").style.display=m==="pair"?"block":"none";
  $("#vSplit").classList.toggle("show",m==="parallel"||m==="cross");
  $("#vWig").classList.toggle("show",m==="wiggle");
  $("#ana").classList.remove("show");$("#vLoad").style.display="none";
+ if(m!=="pair"&&!d){const l=$("#vLoad");l.textContent="Loading the full record…";l.style.display="block";return;}
  if(m==="parallel"||m==="cross"){
    const L=m==="parallel"?"0% 0":"100% 0",R=m==="parallel"?"100% 0":"0% 0";
    const el=$("#eyeL"),er=$("#eyeR");
@@ -475,7 +532,7 @@ function buildAnaglyph(d){
  img.onerror=()=>{if(stale())return;load.textContent="Could not load this image for anaglyph, try Wiggle instead."};
 }
 document.querySelectorAll(".mode").forEach(b=>b.onclick=()=>setMode(b.dataset.m));
-function step(n){vi=(vi+n+currentList.length)%currentList.length;fillViewer();setMode(mode)}
+function step(n){vi=(vi+n+currentList.length)%currentList.length;showCurrent(true)}
 $("#prevB").onclick=()=>step(-1);$("#nextB").onclick=()=>step(1);
 function closeViewer(){$("#viewer").classList.remove("open");document.body.style.overflow="";stopWig();try{history.replaceState(null,"",location.pathname+location.search)}catch(e){}if(lastFocus&&lastFocus.focus)lastFocus.focus();}
 $("#vClose").onclick=closeViewer;
