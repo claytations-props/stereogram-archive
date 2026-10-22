@@ -1,0 +1,71 @@
+{
+ "title": "The Railroad, it's like life",
+ "place": "Crawford Notch, New Hampshire",
+ "year": "1891",
+ "sy": 1891,
+ "era": "mid",
+ "cats": [
+  "mountains",
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/The_Railroad%2C_it%27s_like_life%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-The_Railroad%2C_it%27s_like_life%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/7e/The_Railroad%2C_it%27s_like_life%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_Railroad,_it%27s_like_life,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1408,
+ "id": "STA-0755",
+ "rect": "rect/754.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.07,
+ "rot": 0.0,
+ "range": 0.38,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8195,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/The_Railroad%2C_it%27s_like_life%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-The_Railroad%2C_it%27s_like_life%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8195,
+  "L": [
+   0.376042,
+   0.0,
+   0.111198,
+   0.0,
+   0.8917,
+   0.050101
+  ],
+  "R": [
+   0.375797,
+   0.002781,
+   0.523598,
+   -0.005469,
+   0.892581,
+   0.047955
+  ],
+  "g": [
+   1.0,
+   0.9989
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured gentle (0.38% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains",
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1891",
+ "date_start": 1891,
+ "date_end": 1891,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10468600,
+ "source_revision_id": null,
+ "source_sha1": "3c6d5b8418f965b2a1b092c4e3c12864fa89a36d"
+}

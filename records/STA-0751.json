@@ -1,0 +1,71 @@
+{
+ "title": "Upper Silver Cascade, Crawford Notch, White Mts",
+ "place": "Crawford Notch, New Hampshire",
+ "year": "1877–1895",
+ "sy": 1877,
+ "era": "mid",
+ "cats": [
+  "water",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Upper_Silver_Cascade%2C_Crawford_Notch%2C_White_Mts%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Upper_Silver_Cascade%2C_Crawford_Notch%2C_White_Mts%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/53/Upper_Silver_Cascade%2C_Crawford_Notch%2C_White_Mts%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Upper_Silver_Cascade,_Crawford_Notch,_White_Mts,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1703,
+ "id": "STA-0751",
+ "rect": "rect/750.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.06,
+ "rot": 0.02,
+ "range": 0.66,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.718,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Upper_Silver_Cascade%2C_Crawford_Notch%2C_White_Mts%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Upper_Silver_Cascade%2C_Crawford_Notch%2C_White_Mts%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.718,
+  "L": [
+   0.400521,
+   0.0,
+   0.076823,
+   0.0,
+   0.896234,
+   0.052301
+  ],
+  "R": [
+   0.398774,
+   -0.003136,
+   0.515444,
+   -0.003601,
+   0.896399,
+   0.051716
+  ],
+  "g": [
+   1.0,
+   0.9695
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.02° of rotation. Depth measured gentle (0.66% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1877/1895",
+ "date_start": 1877,
+ "date_end": 1895,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10469249,
+ "source_revision_id": null,
+ "source_sha1": "d89786b8069326ab98e2e4cda8a37fd2a42b8141"
+}

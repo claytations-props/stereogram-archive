@@ -1,0 +1,69 @@
+{
+ "title": "View from Crawford House, White Mts",
+ "place": "Crawford Notch, New Hampshire",
+ "year": "c. 1872",
+ "sy": 1872,
+ "era": "mid",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/View_from_Crawford_House%2C_White_Mts%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_from_Crawford_House%2C_White_Mts%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/69/View_from_Crawford_House%2C_White_Mts%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_from_Crawford_House,_White_Mts,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1416,
+ "id": "STA-0740",
+ "rect": "rect/739.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.01,
+ "range": 1.29,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.04,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/View_from_Crawford_House%2C_White_Mts%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_from_Crawford_House%2C_White_Mts%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.04,
+  "L": [
+   0.392708,
+   0.0,
+   0.094531,
+   0.0,
+   0.730111,
+   0.205942
+  ],
+  "R": [
+   0.388526,
+   -0.001126,
+   0.519507,
+   -0.006643,
+   0.722424,
+   0.221101
+  ],
+  "g": [
+   1.0,
+   0.9771
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (1.29% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1872~",
+ "date_start": 1867,
+ "date_end": 1877,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10468520,
+ "source_revision_id": null,
+ "source_sha1": "2dba04149298f135f638aa71e7bdefb56d2d1db9"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "View on Mt. Willard",
+ "place": "Crawford Notch, New Hampshire",
+ "year": "1858–1879",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/View_on_Mt._Willard%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_on_Mt._Willard%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/fa/View_on_Mt._Willard%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_on_Mt._Willard,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1362,
+ "id": "STA-0729",
+ "rect": "rect/728.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.0,
+ "range": 5.94,
+ "f": 0.57,
+ "depth": "Deep",
+ "va": 0.932,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/View_on_Mt._Willard%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_on_Mt._Willard%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.932,
+  "L": [
+   0.356771,
+   0.0,
+   0.130469,
+   0.0,
+   0.769634,
+   0.175393
+  ],
+  "R": [
+   0.357954,
+   -0.002636,
+   0.512123,
+   -0.000674,
+   0.76139,
+   0.179828
+  ],
+  "g": [
+   0.8066,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured deep (5.94% of frame width); hung in the VR Parlor at 57% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858/1879",
+ "date_start": 1858,
+ "date_end": 1879,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10468767,
+ "source_revision_id": null,
+ "source_sha1": "b9af742167e9a65724ea7b744a03ecbc99a47855"
+}
