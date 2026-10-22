@@ -1,0 +1,69 @@
+{
+ "title": "Race Track, Saratoga, by Alfred S. Campbell",
+ "place": "Saratoga Springs, New York",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Race_Track%2C_Saratoga%2C_by_Alfred_S._Campbell.jpg/1920px-Race_Track%2C_Saratoga%2C_by_Alfred_S._Campbell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/50/Race_Track%2C_Saratoga%2C_by_Alfred_S._Campbell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Race_Track,_Saratoga,_by_Alfred_S._Campbell.jpg",
+ "license": "Public domain",
+ "w": 2667,
+ "h": 1354,
+ "id": "STA-0613",
+ "rect": "rect/612.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.15,
+ "rot": 0.0,
+ "range": 1.03,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.2465,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Race_Track%2C_Saratoga%2C_by_Alfred_S._Campbell.jpg/1920px-Race_Track%2C_Saratoga%2C_by_Alfred_S._Campbell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.2465,
+  "L": [
+   0.371354,
+   0.0,
+   0.097656,
+   0.0,
+   0.586667,
+   0.382051
+  ],
+  "R": [
+   0.376278,
+   -0.011571,
+   0.532048,
+   0.002332,
+   0.589862,
+   0.369012
+  ],
+  "g": [
+   0.9661,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured gentle (1.03% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Alfred S. Campbell",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10071393,
+ "source_revision_id": null,
+ "source_sha1": "46ce8b63ddb50498ec469332f60d1d60e8522bef"
+}
