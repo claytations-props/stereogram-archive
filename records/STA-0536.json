@@ -1,0 +1,71 @@
+{
+ "title": "Yosemite Falls, 2,634 feet high (NYPL b11707302-G89F378 027F)",
+ "place": "Yosemite, California",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "water",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Yosemite_Falls%2C_2%2C634_feet_high_%28NYPL_b11707302-G89F378_027F%29.tiff/lossy-page1-1920px-Yosemite_Falls%2C_2%2C634_feet_high_%28NYPL_b11707302-G89F378_027F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Yosemite_Falls%2C_2%2C634_feet_high_%28NYPL_b11707302-G89F378_027F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Yosemite_Falls,_2,634_feet_high_(NYPL_b11707302-G89F378_027F).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 1786,
+ "id": "STA-0536",
+ "rect": "rect/535.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.01,
+ "range": 0.41,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8773,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Yosemite_Falls%2C_2%2C634_feet_high_%28NYPL_b11707302-G89F378_027F%29.tiff/lossy-page1-1920px-Yosemite_Falls%2C_2%2C634_feet_high_%28NYPL_b11707302-G89F378_027F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8773,
+  "L": [
+   0.320312,
+   0.0,
+   0.160677,
+   0.0,
+   0.628136,
+   0.264785
+  ],
+  "R": [
+   0.318376,
+   0.00222,
+   0.50982,
+   -0.001978,
+   0.626678,
+   0.267939
+  ],
+  "g": [
+   0.9707,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (0.41% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 47115675,
+ "source_revision_id": null,
+ "source_sha1": "8854cb9cf24326fc86d684a7451a12dea6a0212b"
+}
