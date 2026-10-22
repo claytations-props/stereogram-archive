@@ -1,0 +1,71 @@
+{
+ "title": "View of Nobb Hill, the millionaire residence district (NYPL b11707478-G90F002 042F)",
+ "place": "San Francisco, California",
+ "year": "1906",
+ "sy": 1906,
+ "era": "late",
+ "cats": [
+  "mountains",
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/View_of_Nobb_Hill%2C_the_millionaire_residence_district_%28NYPL_b11707478-G90F002_042F%29.tiff/lossy-page1-1920px-View_of_Nobb_Hill%2C_the_millionaire_residence_district_%28NYPL_b11707478-G90F002_042F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/9e/View_of_Nobb_Hill%2C_the_millionaire_residence_district_%28NYPL_b11707478-G90F002_042F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_Nobb_Hill,_the_millionaire_residence_district_(NYPL_b11707478-G90F002_042F).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 1799,
+ "id": "STA-0781",
+ "rect": "rect/780.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.15,
+ "rot": 0.03,
+ "range": 1.33,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.1824,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/View_of_Nobb_Hill%2C_the_millionaire_residence_district_%28NYPL_b11707478-G90F002_042F%29.tiff/lossy-page1-1920px-View_of_Nobb_Hill%2C_the_millionaire_residence_district_%28NYPL_b11707478-G90F002_042F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.1824,
+  "L": [
+   0.307292,
+   0.0,
+   0.170573,
+   0.0,
+   0.44395,
+   0.482651
+  ],
+  "R": [
+   0.306829,
+   -0.014805,
+   0.542997,
+   0.008318,
+   0.442112,
+   0.484505
+  ],
+  "g": [
+   1.0,
+   0.9642
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.03° of rotation. Depth measured gentle (1.33% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains",
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1906",
+ "date_start": 1906,
+ "date_end": 1906,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 47053165,
+ "source_revision_id": null,
+ "source_sha1": "3dc99a4c17dc1d961ef34a326a93c17539e694e4"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Ruins of the Jewish Synagogue on Sutter St",
+ "place": "San Francisco, California",
+ "year": "1906",
+ "sy": 1906,
+ "era": "late",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Ruins_of_the_Jewish_Synagogue_on_Sutter_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Ruins_of_the_Jewish_Synagogue_on_Sutter_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Ruins_of_the_Jewish_Synagogue_on_Sutter_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Ruins_of_the_Jewish_Synagogue_on_Sutter_St,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1429,
+ "id": "STA-0789",
+ "rect": "rect/788.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.13,
+ "rot": 0.01,
+ "range": 1.64,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.8565,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Ruins_of_the_Jewish_Synagogue_on_Sutter_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Ruins_of_the_Jewish_Synagogue_on_Sutter_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8565,
+  "L": [
+   0.397917,
+   0.0,
+   0.083073,
+   0.0,
+   0.89022,
+   0.044411
+  ],
+  "R": [
+   0.396689,
+   -0.004155,
+   0.522841,
+   0.004682,
+   0.88846,
+   0.0532
+  ],
+  "g": [
+   0.9682,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured moderate (1.64% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1906",
+ "date_start": 1906,
+ "date_end": 1906,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10087983,
+ "source_revision_id": null,
+ "source_sha1": "dfc8d75fb8a5503d61ea744fe0f2bdecb9bbe156"
+}
