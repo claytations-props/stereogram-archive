@@ -1,0 +1,69 @@
+{
+ "title": "Stereo view of Jamaica Plain station",
+ "place": "Boston, Massachusetts",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Stereo_view_of_Jamaica_Plain_station.jpg/1920px-Stereo_view_of_Jamaica_Plain_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/56/Stereo_view_of_Jamaica_Plain_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Stereo_view_of_Jamaica_Plain_station.jpg",
+ "license": "Public domain",
+ "w": 4204,
+ "h": 2071,
+ "id": "STA-0577",
+ "rect": "rect/576.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.16,
+ "rot": 0.02,
+ "range": 3.37,
+ "f": 0.93,
+ "depth": "Deep",
+ "va": 1.0181,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Stereo_view_of_Jamaica_Plain_station.jpg/1920px-Stereo_view_of_Jamaica_Plain_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0181,
+  "L": [
+   0.381771,
+   0.0,
+   0.088281,
+   0.0,
+   0.761099,
+   0.223573
+  ],
+  "R": [
+   0.381662,
+   -0.007094,
+   0.520836,
+   -0.003639,
+   0.759364,
+   0.220908
+  ],
+  "g": [
+   0.9839,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.02° of rotation. Depth measured deep (3.37% of frame width); hung in the VR Parlor at 93% size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 99401436,
+ "source_revision_id": null,
+ "source_sha1": "a43ad1d410f4a2f61f2465c2fd2b0763d7ce302c"
+}

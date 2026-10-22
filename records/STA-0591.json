@@ -1,0 +1,69 @@
+{
+ "title": "Parker House, by J.W. & J.S. Moulton",
+ "place": "Boston, Massachusetts",
+ "year": "1869",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Parker_House%2C_by_J.W._%26_J.S._Moulton.jpg/1920px-Parker_House%2C_by_J.W._%26_J.S._Moulton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/17/Parker_House%2C_by_J.W._%26_J.S._Moulton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Parker_House,_by_J.W._%26_J.S._Moulton.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1609,
+ "id": "STA-0591",
+ "rect": "rect/590.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.09,
+ "rot": 0.01,
+ "range": 1.54,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.6891,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Parker_House%2C_by_J.W._%26_J.S._Moulton.jpg/1920px-Parker_House%2C_by_J.W._%26_J.S._Moulton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.6891,
+  "L": [
+   0.3625,
+   0.0,
+   0.100781,
+   0.0,
+   0.894597,
+   0.059787
+  ],
+  "R": [
+   0.361851,
+   -0.004426,
+   0.515497,
+   0.003285,
+   0.88938,
+   0.051283
+  ],
+  "g": [
+   0.9345,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured moderate (1.54% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "J.W. & J.S. Moulton",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869",
+ "date_start": 1869,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7458979,
+ "source_revision_id": null,
+ "source_sha1": "d68b721f48dc9266355442c5e30bc8e63021a24b"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Revere House, Boston, Mass",
+ "place": "Boston, Massachusetts",
+ "year": "1869",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Revere_House%2C_Boston%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Revere_House%2C_Boston%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Revere_House%2C_Boston%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Revere_House,_Boston,_Mass,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1350,
+ "id": "STA-0584",
+ "rect": "rect/583.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.01,
+ "range": 0.68,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8953,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Revere_House%2C_Boston%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Revere_House%2C_Boston%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8953,
+  "L": [
+   0.3875,
+   0.0,
+   0.10599,
+   0.0,
+   0.877508,
+   0.053326
+  ],
+  "R": [
+   0.379192,
+   0.000568,
+   0.50585,
+   -0.001652,
+   0.857596,
+   0.089076
+  ],
+  "g": [
+   1.0,
+   0.9808
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (0.68% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869",
+ "date_start": 1869,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7458948,
+ "source_revision_id": null,
+ "source_sha1": "d8c228a774c0a96b454a84ffcdf9062595835f6b"
+}

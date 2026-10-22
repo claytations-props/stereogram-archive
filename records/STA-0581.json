@@ -1,0 +1,69 @@
+{
+ "title": "Sears building, Boston",
+ "place": "Boston, Massachusetts",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Sears_building%2C_Boston%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Sears_building%2C_Boston%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/21/Sears_building%2C_Boston%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Sears_building,_Boston,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1442,
+ "id": "STA-0581",
+ "rect": "rect/580.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.2,
+ "rot": 0.05,
+ "range": 9.95,
+ "f": 0.42,
+ "depth": "Deep",
+ "va": 0.7587,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Sears_building%2C_Boston%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Sears_building%2C_Boston%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7587,
+  "L": [
+   0.339062,
+   0.0,
+   0.125781,
+   0.0,
+   0.847826,
+   0.046937
+  ],
+  "R": [
+   0.339173,
+   0.002788,
+   0.535359,
+   -0.002716,
+   0.849167,
+   0.049143
+  ],
+  "g": [
+   1.0,
+   0.975
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.2% vertical error and 0.05° of rotation. Depth measured deep (9.95% of frame width); hung in the VR Parlor at 42% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7459396,
+ "source_revision_id": null,
+ "source_sha1": "0c022c0286b8d59264d5f2a292fa9ca7cdad6671"
+}

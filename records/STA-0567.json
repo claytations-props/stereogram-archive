@@ -1,0 +1,71 @@
+{
+ "title": "Rev. Dr. Huntington's Church",
+ "place": "Boston, Massachusetts",
+ "year": "1864",
+ "sy": 1864,
+ "era": "early",
+ "cats": [
+  "cities",
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Rev._Dr._Huntington%27s_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Rev._Dr._Huntington%27s_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Rev._Dr._Huntington%27s_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Rev._Dr._Huntington%27s_Church,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1376,
+ "id": "STA-0567",
+ "rect": "rect/566.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.0,
+ "range": 0.43,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8236,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Rev._Dr._Huntington%27s_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Rev._Dr._Huntington%27s_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8236,
+  "L": [
+   0.359896,
+   0.0,
+   0.13099,
+   0.0,
+   0.86943,
+   0.081347
+  ],
+  "R": [
+   0.360839,
+   0.002653,
+   0.519977,
+   -0.00567,
+   0.872301,
+   0.089885
+  ],
+  "g": [
+   1.0,
+   0.9567
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (0.43% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities",
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1864",
+ "date_start": 1864,
+ "date_end": 1864,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7453486,
+ "source_revision_id": null,
+ "source_sha1": "37d85c36f30d52075bf5f38c371f2728efa63614"
+}

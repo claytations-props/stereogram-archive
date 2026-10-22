@@ -1,0 +1,69 @@
+{
+ "title": "Unidentified building with carts in foreground",
+ "place": "Boston, Massachusetts",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Unidentified_building_with_carts_in_foreground%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Unidentified_building_with_carts_in_foreground%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unidentified_building_with_carts_in_foreground%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Unidentified_building_with_carts_in_foreground,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2736,
+ "h": 1408,
+ "id": "STA-0571",
+ "rect": "rect/570.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.08,
+ "rot": 0.01,
+ "range": 1.35,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9658,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Unidentified_building_with_carts_in_foreground%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Unidentified_building_with_carts_in_foreground%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9658,
+  "L": [
+   0.397396,
+   0.0,
+   0.092448,
+   0.0,
+   0.799595,
+   0.095648
+  ],
+  "R": [
+   0.396996,
+   0.01076,
+   0.504826,
+   -0.021576,
+   0.799447,
+   0.126558
+  ],
+  "g": [
+   1.0,
+   0.9596
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured gentle (1.35% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7459344,
+ "source_revision_id": null,
+ "source_sha1": "c6481a62c4fa819d051f24b5b057389d537526c4"
+}

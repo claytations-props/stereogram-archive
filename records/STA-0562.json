@@ -1,0 +1,69 @@
+{
+ "title": "Trinity Church, from Robert N. Dennis collection of stereoscopic views 10",
+ "place": "Boston, Massachusetts",
+ "year": "1872",
+ "sy": 1872,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Trinity_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_10.jpg/1920px-Trinity_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/24/Trinity_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Trinity_Church,_from_Robert_N._Dennis_collection_of_stereoscopic_views_10.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1400,
+ "id": "STA-0562",
+ "rect": "rect/561.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.08,
+ "rot": 0.01,
+ "range": 0.35,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8687,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Trinity_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_10.jpg/1920px-Trinity_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8687,
+  "L": [
+   0.403125,
+   0.0,
+   0.085156,
+   0.0,
+   0.907332,
+   0.040224
+  ],
+  "R": [
+   0.402228,
+   0.000717,
+   0.51303,
+   -0.004423,
+   0.905866,
+   0.050757
+  ],
+  "g": [
+   1.0,
+   0.9305
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured gentle (0.35% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1872",
+ "date_start": 1872,
+ "date_end": 1872,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7449143,
+ "source_revision_id": null,
+ "source_sha1": "fdc9b4a02967c24b3d7e25f6e06b8a7b43afaee0"
+}
