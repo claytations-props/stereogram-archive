@@ -1,0 +1,69 @@
+{
+ "title": "Mrs. H. B. Stowe's Place at Mandarin (NYPL b11707402-G90F126 015F)",
+ "place": "Florida",
+ "year": "1880",
+ "sy": 1880,
+ "era": "mid",
+ "cats": [
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Mrs._H._B._Stowe%27s_Place_at_Mandarin_%28NYPL_b11707402-G90F126_015F%29.tiff/lossy-page1-1920px-Mrs._H._B._Stowe%27s_Place_at_Mandarin_%28NYPL_b11707402-G90F126_015F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Mrs._H._B._Stowe%27s_Place_at_Mandarin_%28NYPL_b11707402-G90F126_015F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Mrs._H._B._Stowe%27s_Place_at_Mandarin_(NYPL_b11707402-G90F126_015F).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 1796,
+ "id": "STA-0602",
+ "rect": "rect/601.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.01,
+ "range": 2.22,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.8183,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Mrs._H._B._Stowe%27s_Place_at_Mandarin_%28NYPL_b11707402-G90F126_015F%29.tiff/lossy-page1-1920px-Mrs._H._B._Stowe%27s_Place_at_Mandarin_%28NYPL_b11707402-G90F126_015F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8183,
+  "L": [
+   0.321354,
+   0.0,
+   0.173177,
+   0.0,
+   0.672014,
+   0.247326
+  ],
+  "R": [
+   0.320476,
+   -0.000229,
+   0.528234,
+   0.000336,
+   0.670604,
+   0.250666
+  ],
+  "g": [
+   0.9483,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured deep (2.22% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1880",
+ "date_start": 1880,
+ "date_end": 1880,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 48563887,
+ "source_revision_id": null,
+ "source_sha1": "569b0598d08066bfa27178a4009097bd8c7f2e7f"
+}

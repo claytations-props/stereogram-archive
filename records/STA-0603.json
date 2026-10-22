@@ -1,0 +1,69 @@
+{
+ "title": "View from front of Mr. Underwood's house (NYPL b11707404-G90F128 027ZF)",
+ "place": "Florida",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/View_from_front_of_Mr._Underwood%27s_house_%28NYPL_b11707404-G90F128_027ZF%29.tiff/lossy-page1-1920px-View_from_front_of_Mr._Underwood%27s_house_%28NYPL_b11707404-G90F128_027ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/1f/View_from_front_of_Mr._Underwood%27s_house_%28NYPL_b11707404-G90F128_027ZF%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_from_front_of_Mr._Underwood%27s_house_(NYPL_b11707404-G90F128_027ZF).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 2024,
+ "id": "STA-0603",
+ "rect": "rect/602.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.13,
+ "rot": 0.01,
+ "range": 0.89,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.6474,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/View_from_front_of_Mr._Underwood%27s_house_%28NYPL_b11707404-G90F128_027ZF%29.tiff/lossy-page1-1920px-View_from_front_of_Mr._Underwood%27s_house_%28NYPL_b11707404-G90F128_027ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.6474,
+  "L": [
+   0.315625,
+   0.0,
+   0.152865,
+   0.0,
+   0.739921,
+   0.211462
+  ],
+  "R": [
+   0.312422,
+   -0.000349,
+   0.510827,
+   0.002265,
+   0.733656,
+   0.206834
+  ],
+  "g": [
+   0.9493,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured gentle (0.89% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 48594440,
+ "source_revision_id": null,
+ "source_sha1": "74111b731429d494d1d9d11379d26e08a3b3d864"
+}

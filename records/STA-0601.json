@@ -1,0 +1,69 @@
+{
+ "title": "Cocoanut showing fruit (NYPL b11707405-G90F129 002F)",
+ "place": "Florida",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Cocoanut_showing_fruit_%28NYPL_b11707405-G90F129_002F%29.tiff/lossy-page1-1920px-Cocoanut_showing_fruit_%28NYPL_b11707405-G90F129_002F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Cocoanut_showing_fruit_%28NYPL_b11707405-G90F129_002F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Cocoanut_showing_fruit_(NYPL_b11707405-G90F129_002F).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 1756,
+ "id": "STA-0601",
+ "rect": "rect/600.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.04,
+ "range": 1.57,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.8451,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Cocoanut_showing_fruit_%28NYPL_b11707405-G90F129_002F%29.tiff/lossy-page1-1920px-Cocoanut_showing_fruit_%28NYPL_b11707405-G90F129_002F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8451,
+  "L": [
+   0.338021,
+   0.0,
+   0.144531,
+   0.0,
+   0.700091,
+   0.237466
+  ],
+  "R": [
+   0.334419,
+   0.003186,
+   0.503805,
+   -0.00097,
+   0.700713,
+   0.229442
+  ],
+  "g": [
+   0.9667,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.04° of rotation. Depth measured moderate (1.57% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 48630598,
+ "source_revision_id": null,
+ "source_sha1": "ba2a11893217809ba13e233ba0f2a49d8e904c4d"
+}
