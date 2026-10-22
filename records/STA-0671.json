@@ -1,0 +1,69 @@
+{
+ "title": "Artist's Dream, Watkins Glen, N.Y",
+ "place": "Watkins Glen, New York",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Artist%27s_Dream%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Artist%27s_Dream%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/02/Artist%27s_Dream%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Artist%27s_Dream,_Watkins_Glen,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2685,
+ "h": 1375,
+ "id": "STA-0671",
+ "rect": "rect/670.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.06,
+ "rot": 0.04,
+ "range": 1.45,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.7065,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Artist%27s_Dream%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Artist%27s_Dream%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7065,
+  "L": [
+   0.329688,
+   0.0,
+   0.164844,
+   0.0,
+   0.911495,
+   0.047304
+  ],
+  "R": [
+   0.327941,
+   -0.006226,
+   0.611437,
+   0.005038,
+   0.914195,
+   0.033943
+  ],
+  "g": [
+   1.0,
+   0.92
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.04° of rotation. Depth measured gentle (1.45% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10467780,
+ "source_revision_id": null,
+ "source_sha1": "139fa918ef05c6f0752920d925dda2feae0438dc"
+}

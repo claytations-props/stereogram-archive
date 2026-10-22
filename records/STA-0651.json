@@ -1,0 +1,69 @@
+{
+ "title": "Pilgrim's Rest, Watkins Glen, by W. S. Jones",
+ "place": "Watkins Glen, New York",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Pilgrim%27s_Rest%2C_Watkins_Glen%2C_by_W._S._Jones.jpg/1920px-Pilgrim%27s_Rest%2C_Watkins_Glen%2C_by_W._S._Jones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/24/Pilgrim%27s_Rest%2C_Watkins_Glen%2C_by_W._S._Jones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Pilgrim%27s_Rest,_Watkins_Glen,_by_W._S._Jones.jpg",
+ "license": "Public domain",
+ "w": 2695,
+ "h": 1771,
+ "id": "STA-0651",
+ "rect": "rect/650.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.05,
+ "rot": 0.03,
+ "range": 3.18,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.4755,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Pilgrim%27s_Rest%2C_Watkins_Glen%2C_by_W._S._Jones.jpg/1920px-Pilgrim%27s_Rest%2C_Watkins_Glen%2C_by_W._S._Jones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.4755,
+  "L": [
+   0.267708,
+   0.0,
+   0.090365,
+   0.0,
+   0.856577,
+   0.039223
+  ],
+  "R": [
+   0.273293,
+   -0.012542,
+   0.566569,
+   -0.000153,
+   0.856522,
+   0.038012
+  ],
+  "g": [
+   0.9196,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.05% vertical error and 0.03° of rotation. Depth measured deep (3.18% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "W. S. Jones",
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10468393,
+ "source_revision_id": null,
+ "source_sha1": "9a452cce7cdbd1456ef3740a98b15ac9bd1e580e"
+}

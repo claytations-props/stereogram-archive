@@ -1,0 +1,69 @@
+{
+ "title": "Mystic gorge, Watkins Glen, by R. D. Crum",
+ "place": "Watkins Glen, New York",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Mystic_gorge%2C_Watkins_Glen%2C_by_R._D._Crum.png/1920px-Mystic_gorge%2C_Watkins_Glen%2C_by_R._D._Crum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/98/Mystic_gorge%2C_Watkins_Glen%2C_by_R._D._Crum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Mystic_gorge,_Watkins_Glen,_by_R._D._Crum.png",
+ "license": "Public domain",
+ "w": 2604,
+ "h": 1299,
+ "id": "STA-0663",
+ "rect": "rect/662.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.06,
+ "rot": 0.01,
+ "range": 3.51,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.5795,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Mystic_gorge%2C_Watkins_Glen%2C_by_R._D._Crum.png/1920px-Mystic_gorge%2C_Watkins_Glen%2C_by_R._D._Crum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.5795,
+  "L": [
+   0.271354,
+   0.0,
+   0.091406,
+   0.0,
+   0.938413,
+   0.02453
+  ],
+  "R": [
+   0.27756,
+   -0.011828,
+   0.515559,
+   -0.002872,
+   0.924491,
+   0.050989
+  ],
+  "g": [
+   0.9249,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.01° of rotation. Depth measured deep (3.51% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "R. D. Crum",
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10250584,
+ "source_revision_id": null,
+ "source_sha1": "945d024ada726ca7ed2ed892797c833bf1e93a13"
+}

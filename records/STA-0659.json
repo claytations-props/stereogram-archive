@@ -1,0 +1,71 @@
+{
+ "title": "Cavern cascade, Watkins Glen, by Purviance, W. T. (William T.) 2",
+ "place": "Watkins Glen, New York",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Cavern_cascade%2C_Watkins_Glen%2C_by_Purviance%2C_W._T._%28William_T.%29_2.jpg/1920px-Cavern_cascade%2C_Watkins_Glen%2C_by_Purviance%2C_W._T._%28William_T.%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Cavern_cascade%2C_Watkins_Glen%2C_by_Purviance%2C_W._T._%28William_T.%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Cavern_cascade,_Watkins_Glen,_by_Purviance,_W._T._(William_T.)_2.jpg",
+ "license": "Public domain",
+ "w": 2547,
+ "h": 1398,
+ "id": "STA-0659",
+ "rect": "rect/658.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.08,
+ "rot": 0.06,
+ "range": 1.06,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8255,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Cavern_cascade%2C_Watkins_Glen%2C_by_Purviance%2C_W._T._%28William_T.%29_2.jpg/1920px-Cavern_cascade%2C_Watkins_Glen%2C_by_Purviance%2C_W._T._%28William_T.%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8255,
+  "L": [
+   0.414062,
+   0.0,
+   0.06901,
+   0.0,
+   0.913662,
+   0.051708
+  ],
+  "R": [
+   0.408903,
+   0.000191,
+   0.504773,
+   -0.004107,
+   0.908591,
+   0.05087
+  ],
+  "g": [
+   0.8973,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.06° of rotation. Depth measured gentle (1.06% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Purviance, W. T. (William T.)",
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10468834,
+ "source_revision_id": null,
+ "source_sha1": "b2f255ab4d201de2ca672abb39adac8f2901f5a1"
+}

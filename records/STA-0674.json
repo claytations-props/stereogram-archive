@@ -1,0 +1,69 @@
+{
+ "title": "View in Watkins Glen",
+ "place": "Watkins Glen, New York",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/View_in_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_in_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/d8/View_in_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_in_Watkins_Glen,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2715,
+ "h": 1778,
+ "id": "STA-0674",
+ "rect": "rect/673.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.05,
+ "rot": 0.0,
+ "range": 2.31,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.6844,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/View_in_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_in_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.6844,
+  "L": [
+   0.401042,
+   0.0,
+   0.076823,
+   0.0,
+   0.894988,
+   0.040175
+  ],
+  "R": [
+   0.40718,
+   -0.002675,
+   0.511255,
+   0.002527,
+   0.898394,
+   0.053924
+  ],
+  "g": [
+   0.9855,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.05% vertical error and 0.0° of rotation. Depth measured deep (2.31% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10467789,
+ "source_revision_id": null,
+ "source_sha1": "275dc316370f9b1a5a7304c490259adaed95d29e"
+}

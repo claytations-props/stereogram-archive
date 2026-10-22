@@ -1,0 +1,71 @@
+{
+ "title": "Cavern cascade, by Purviance, W. T. (William T.)",
+ "place": "Watkins Glen, New York",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Cavern_cascade%2C_by_Purviance%2C_W._T._%28William_T.%29.jpg/1920px-Cavern_cascade%2C_by_Purviance%2C_W._T._%28William_T.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Cavern_cascade%2C_by_Purviance%2C_W._T._%28William_T.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Cavern_cascade,_by_Purviance,_W._T._(William_T.).jpg",
+ "license": "Public domain",
+ "w": 2656,
+ "h": 1622,
+ "id": "STA-0656",
+ "rect": "rect/655.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.07,
+ "rot": 0.01,
+ "range": 1.18,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.7493,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Cavern_cascade%2C_by_Purviance%2C_W._T._%28William_T.%29.jpg/1920px-Cavern_cascade%2C_by_Purviance%2C_W._T._%28William_T.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7493,
+  "L": [
+   0.425,
+   0.0,
+   0.067969,
+   0.0,
+   0.928389,
+   0.035379
+  ],
+  "R": [
+   0.423357,
+   0.002134,
+   0.512748,
+   -0.003081,
+   0.929029,
+   0.034691
+  ],
+  "g": [
+   0.8733,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured gentle (1.18% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Purviance, W. T. (William T.)",
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10468505,
+ "source_revision_id": null,
+ "source_sha1": "68d1c2367039dfd8e8a0510b8cd83102c6dfbde0"
+}

@@ -1,0 +1,71 @@
+{
+ "title": "Pluto falls, Watkins Glen, N.Y",
+ "place": "Watkins Glen, New York",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Pluto_falls%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pluto_falls%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/33/Pluto_falls%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Pluto_falls,_Watkins_Glen,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2691,
+ "h": 1381,
+ "id": "STA-0654",
+ "rect": "rect/653.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.06,
+ "rot": 0.01,
+ "range": 1.21,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.6886,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Pluto_falls%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pluto_falls%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.6886,
+  "L": [
+   0.321354,
+   0.0,
+   0.098177,
+   0.0,
+   0.909645,
+   0.041117
+  ],
+  "R": [
+   0.320294,
+   -0.00834,
+   0.515304,
+   0.014587,
+   0.905763,
+   0.036722
+  ],
+  "g": [
+   1.0,
+   0.8
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.01° of rotation. Depth measured gentle (1.21% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10466326,
+ "source_revision_id": null,
+ "source_sha1": "04ec9ddf2b6127049f317bafcfa408f2046afea4"
+}
