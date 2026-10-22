@@ -1,0 +1,71 @@
+{
+ "title": "Road from Echo Lake to Profile House, White Mountains (NYPL b11708055-G91F020 126F)",
+ "place": "Franconia Notch, New Hampshire",
+ "year": "1875",
+ "sy": 1875,
+ "era": "mid",
+ "cats": [
+  "water",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Road_from_Echo_Lake_to_Profile_House%2C_White_Mountains_%28NYPL_b11708055-G91F020_126F%29.tiff/lossy-page1-1920px-Road_from_Echo_Lake_to_Profile_House%2C_White_Mountains_%28NYPL_b11708055-G91F020_126F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/89/Road_from_Echo_Lake_to_Profile_House%2C_White_Mountains_%28NYPL_b11708055-G91F020_126F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Road_from_Echo_Lake_to_Profile_House,_White_Mountains_(NYPL_b11708055-G91F020_126F).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 1694,
+ "id": "STA-0697",
+ "rect": "rect/696.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.09,
+ "rot": 0.04,
+ "range": 1.62,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.7784,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Road_from_Echo_Lake_to_Profile_House%2C_White_Mountains_%28NYPL_b11708055-G91F020_126F%29.tiff/lossy-page1-1920px-Road_from_Echo_Lake_to_Profile_House%2C_White_Mountains_%28NYPL_b11708055-G91F020_126F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7784,
+  "L": [
+   0.314583,
+   0.0,
+   0.171094,
+   0.0,
+   0.732767,
+   0.208215
+  ],
+  "R": [
+   0.313717,
+   0.000389,
+   0.524069,
+   -0.00278,
+   0.731118,
+   0.205992
+  ],
+  "g": [
+   0.9591,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.04° of rotation. Depth measured moderate (1.62% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1875",
+ "date_start": 1875,
+ "date_end": 1875,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 49703108,
+ "source_revision_id": null,
+ "source_sha1": "cd025e8ad11c699a4fbdbf4dbc1d855f36da4fd8"
+}

@@ -1,0 +1,71 @@
+{
+ "title": "Boat House, Profile Lake (NYPL b11708055-G91F020 280ZF)",
+ "place": "Franconia Notch, New Hampshire",
+ "year": "1876",
+ "sy": 1876,
+ "era": "mid",
+ "cats": [
+  "water",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Boat_House%2C_Profile_Lake_%28NYPL_b11708055-G91F020_280ZF%29.tiff/lossy-page1-1920px-Boat_House%2C_Profile_Lake_%28NYPL_b11708055-G91F020_280ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Boat_House%2C_Profile_Lake_%28NYPL_b11708055-G91F020_280ZF%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Boat_House,_Profile_Lake_(NYPL_b11708055-G91F020_280ZF).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 2118,
+ "id": "STA-0704",
+ "rect": "rect/703.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.12,
+ "rot": 0.02,
+ "range": 2.76,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 1.0967,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Boat_House%2C_Profile_Lake_%28NYPL_b11708055-G91F020_280ZF%29.tiff/lossy-page1-1920px-Boat_House%2C_Profile_Lake_%28NYPL_b11708055-G91F020_280ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0967,
+  "L": [
+   0.401562,
+   0.0,
+   0.090365,
+   0.0,
+   0.530967,
+   0.412009
+  ],
+  "R": [
+   0.40152,
+   -0.004133,
+   0.509165,
+   -0.005268,
+   0.530627,
+   0.40302
+  ],
+  "g": [
+   0.9678,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.02° of rotation. Depth measured deep (2.76% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1876",
+ "date_start": 1876,
+ "date_end": 1876,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 49706121,
+ "source_revision_id": null,
+ "source_sha1": "cb023f1ce8f9f2f5559d233592f04493c8417bfd"
+}

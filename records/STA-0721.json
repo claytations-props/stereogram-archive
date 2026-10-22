@@ -1,0 +1,69 @@
+{
+ "title": "The Basin, Franconia Mountains",
+ "place": "Franconia Notch, New Hampshire",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Basin%2C_Franconia_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-The_Basin%2C_Franconia_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Basin%2C_Franconia_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_Basin,_Franconia_Mountains,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1392,
+ "id": "STA-0721",
+ "rect": "rect/720.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.07,
+ "rot": 0.0,
+ "range": 1.6,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.9493,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Basin%2C_Franconia_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-The_Basin%2C_Franconia_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9493,
+  "L": [
+   0.419271,
+   0.0,
+   0.072656,
+   0.0,
+   0.868852,
+   0.081455
+  ],
+  "R": [
+   0.424676,
+   0.005442,
+   0.533282,
+   -0.013318,
+   0.872094,
+   0.0683
+  ],
+  "g": [
+   1.0,
+   0.9985
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured moderate (1.6% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11828969,
+ "source_revision_id": null,
+ "source_sha1": "0d281f9ab91fb31d40a4f061efb1fc65f2b20aef"
+}

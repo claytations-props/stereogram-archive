@@ -1,0 +1,71 @@
+{
+ "title": "Howland's Flume, Mt. Kinsman",
+ "place": "Franconia Notch, New Hampshire",
+ "year": "1876–1889",
+ "sy": 1876,
+ "era": "mid",
+ "cats": [
+  "people",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Howland%27s_Flume%2C_Mt._Kinsman%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Howland%27s_Flume%2C_Mt._Kinsman%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Howland%27s_Flume%2C_Mt._Kinsman%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Howland%27s_Flume,_Mt._Kinsman,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1799,
+ "id": "STA-0712",
+ "rect": "rect/711.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.06,
+ "rot": 0.02,
+ "range": 2.39,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.4559,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Howland%27s_Flume%2C_Mt._Kinsman%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Howland%27s_Flume%2C_Mt._Kinsman%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.4559,
+  "L": [
+   0.263542,
+   0.0,
+   0.228385,
+   0.0,
+   0.879556,
+   0.060618
+  ],
+  "R": [
+   0.255742,
+   -0.012034,
+   0.663347,
+   0.00295,
+   0.893965,
+   0.051838
+  ],
+  "g": [
+   1.0,
+   0.9928
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.02° of rotation. Depth measured deep (2.39% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "people",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1876/1889",
+ "date_start": 1876,
+ "date_end": 1889,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11829056,
+ "source_revision_id": null,
+ "source_sha1": "a30ee9e1f8e4b7641708e7f52acfa91fa13d2fd0"
+}

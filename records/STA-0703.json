@@ -1,0 +1,71 @@
+{
+ "title": "Profile Lake, Franconia Notch (NYPL b11708043-G91F019 165F)",
+ "place": "Franconia Notch, New Hampshire",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "water",
+  "mountains"
+ ],
+ "blurb": "* by Kilburn Brothers and B.W. Kilburn.",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Profile_Lake%2C_Franconia_Notch_%28NYPL_b11708043-G91F019_165F%29.tiff/lossy-page1-1920px-Profile_Lake%2C_Franconia_Notch_%28NYPL_b11708043-G91F019_165F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Profile_Lake%2C_Franconia_Notch_%28NYPL_b11708043-G91F019_165F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Profile_Lake,_Franconia_Notch_(NYPL_b11708043-G91F019_165F).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 1624,
+ "id": "STA-0703",
+ "rect": "rect/702.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.11,
+ "rot": 0.01,
+ "range": 1.64,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.2062,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Profile_Lake%2C_Franconia_Notch_%28NYPL_b11708043-G91F019_165F%29.tiff/lossy-page1-1920px-Profile_Lake%2C_Franconia_Notch_%28NYPL_b11708043-G91F019_165F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.2062,
+  "L": [
+   0.326042,
+   0.0,
+   0.146615,
+   0.0,
+   0.51133,
+   0.421182
+  ],
+  "R": [
+   0.3284,
+   -0.003501,
+   0.519815,
+   -0.000663,
+   0.518085,
+   0.420205
+  ],
+  "g": [
+   0.9474,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured moderate (1.64% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 49711385,
+ "source_revision_id": null,
+ "source_sha1": "a353bf71e9fc9133d8a1a211b9a01a07cd8fd61e"
+}

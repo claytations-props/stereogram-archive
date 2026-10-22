@@ -1,0 +1,71 @@
+{
+ "title": "Echo Lake House, Franconia Notch, N.H",
+ "place": "Franconia Notch, New Hampshire",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "water",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Echo_Lake_House%2C_Franconia_Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Echo_Lake_House%2C_Franconia_Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/45/Echo_Lake_House%2C_Franconia_Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Echo_Lake_House,_Franconia_Notch,_N.H,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1431,
+ "id": "STA-0717",
+ "rect": "rect/716.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 2.43,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.9486,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Echo_Lake_House%2C_Franconia_Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Echo_Lake_House%2C_Franconia_Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9486,
+  "L": [
+   0.39375,
+   0.0,
+   0.094531,
+   0.0,
+   0.793825,
+   0.058267
+  ],
+  "R": [
+   0.392897,
+   0.000225,
+   0.510537,
+   0.004253,
+   0.797515,
+   0.064238
+  ],
+  "g": [
+   0.973,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured deep (2.43% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11828415,
+ "source_revision_id": null,
+ "source_sha1": "ba8410984bdae4e2f75c7b17e85cf34096f438ad"
+}

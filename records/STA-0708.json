@@ -1,0 +1,69 @@
+{
+ "title": "Eagle Cliff, White Mountains",
+ "place": "Franconia Notch, New Hampshire",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Eagle_Cliff%2C_White_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Eagle_Cliff%2C_White_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Eagle_Cliff%2C_White_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Eagle_Cliff,_White_Mountains,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1411,
+ "id": "STA-0708",
+ "rect": "rect/707.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.01,
+ "range": 1.09,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9942,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Eagle_Cliff%2C_White_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Eagle_Cliff%2C_White_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9942,
+  "L": [
+   0.354687,
+   0.0,
+   0.115885,
+   0.0,
+   0.691919,
+   0.230808
+  ],
+  "R": [
+   0.355189,
+   -0.003369,
+   0.52914,
+   0.00066,
+   0.69225,
+   0.24407
+  ],
+  "g": [
+   1.0,
+   0.8718
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (1.09% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11827803,
+ "source_revision_id": null,
+ "source_sha1": "58d12dd17bd251252bf34661ba22832d5bfdc5c5"
+}

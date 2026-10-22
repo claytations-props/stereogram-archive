@@ -12495,5 +12495,703 @@
   "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.0° of rotation. Depth measured deep (3.95% of frame width); hung in the VR Parlor at full size.",
   "creator": "Crum, R. D., fl. 1870-1879 2",
   "collection_name": null
+ },
+ {
+  "title": "Profile Lake, Franconia Notch, N.H (NYPL b11708043-G91F019 169F)",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "Undated",
+  "cats": [
+   "water",
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Profile_Lake%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708043-G91F019_169F%29.tiff/lossy-page1-1920px-Profile_Lake%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708043-G91F019_169F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Profile_Lake%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708043-G91F019_169F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0690",
+  "rect": "rect/689.jpg",
+  "coll": "Source unrecorded",
+  "va": 1.8576,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.06° of rotation. Depth measured gentle (0.48% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": null
+ },
+ {
+  "title": "Echo Lake, White Mountains",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1858",
+  "cats": [
+   "water",
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Echo_Lake%2C_White_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Echo_Lake%2C_White_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Echo_Lake%2C_White_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0691",
+  "rect": "rect/690.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "va": 0.8244,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured gentle (1.33% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views"
+ },
+ {
+  "title": "Eagle Cliff, from Profile House, N.H, by Pease, N. W. (Nathan W.), 1836-1918",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "Undated",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Eagle_Cliff%2C_from_Profile_House%2C_N.H%2C_by_Pease%2C_N._W._%28Nathan_W.%29%2C_1836-1918.png/1920px-Eagle_Cliff%2C_from_Profile_House%2C_N.H%2C_by_Pease%2C_N._W._%28Nathan_W.%29%2C_1836-1918.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Eagle_Cliff%2C_from_Profile_House%2C_N.H%2C_by_Pease%2C_N._W._%28Nathan_W.%29%2C_1836-1918.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0692",
+  "rect": "rect/691.jpg",
+  "coll": "Source unrecorded",
+  "va": 0.905,
+  "f": 0.35,
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.04° of rotation. Depth measured deep (10.13% of frame width); hung in the VR Parlor at 35% size.",
+  "creator": "Pease, N. W. (Nathan W.)",
+  "collection_name": null
+ },
+ {
+  "title": "The Pool, Franconia Notch",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1858",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/The_Pool%2C_Franconia_Notch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Pool%2C_Franconia_Notch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_Pool%2C_Franconia_Notch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0693",
+  "rect": "rect/692.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "va": 1.1701,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.02° of rotation. Depth measured gentle (0.36% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views"
+ },
+ {
+  "title": "Arctic Philosopher in the Pool, Franconia Notch, N.H, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1858",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Arctic_Philosopher_in_the_Pool%2C_Franconia_Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Arctic_Philosopher_in_the_Pool%2C_Franconia_Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/41/Arctic_Philosopher_in_the_Pool%2C_Franconia_Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0694",
+  "rect": "rect/693.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "va": 0.8501,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.1° of rotation. Depth measured deep (2.69% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views"
+ },
+ {
+  "title": "The Basin, by Moulton, John S., b. ca. 1820",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "c. 1820",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/The_Basin%2C_by_Moulton%2C_John_S.%2C_b._ca._1820.png/1920px-The_Basin%2C_by_Moulton%2C_John_S.%2C_b._ca._1820.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/6a/The_Basin%2C_by_Moulton%2C_John_S.%2C_b._ca._1820.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0695",
+  "rect": "rect/694.jpg",
+  "coll": "Source unrecorded",
+  "va": 0.8327,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.02° of rotation. Depth measured moderate (1.57% of frame width); hung in the VR Parlor at full size.",
+  "creator": "Moulton, John S., b. ca. 1820",
+  "collection_name": null
+ },
+ {
+  "title": "Basin, Franconia Notch, from Robert N. Dennis collection of stereoscopic views 3",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1858",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Basin%2C_Franconia_Notch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Basin%2C_Franconia_Notch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Basin%2C_Franconia_Notch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0696",
+  "rect": "rect/695.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "va": 1.3407,
+  "f": 0.75,
+  "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.01° of rotation. Depth measured deep (3.24% of frame width); hung in the VR Parlor at 75% size.",
+  "creator": null,
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views"
+ },
+ {
+  "title": "Road from Echo Lake to Profile House, White Mountains (NYPL b11708055-G91F020 126F)",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1875",
+  "cats": [
+   "water",
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Road_from_Echo_Lake_to_Profile_House%2C_White_Mountains_%28NYPL_b11708055-G91F020_126F%29.tiff/lossy-page1-1920px-Road_from_Echo_Lake_to_Profile_House%2C_White_Mountains_%28NYPL_b11708055-G91F020_126F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/89/Road_from_Echo_Lake_to_Profile_House%2C_White_Mountains_%28NYPL_b11708055-G91F020_126F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0697",
+  "rect": "rect/696.jpg",
+  "coll": "Source unrecorded",
+  "va": 0.7784,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.04° of rotation. Depth measured moderate (1.62% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": null
+ },
+ {
+  "title": "Profile Lake (NYPL b11708055-G91F020 237F)",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "Undated",
+  "cats": [
+   "water",
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Profile_Lake_%28NYPL_b11708055-G91F020_237F%29.tiff/lossy-page1-1920px-Profile_Lake_%28NYPL_b11708055-G91F020_237F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Profile_Lake_%28NYPL_b11708055-G91F020_237F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0698",
+  "rect": "rect/697.jpg",
+  "coll": "Source unrecorded",
+  "va": 0.8652,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.03° of rotation. Depth measured deep (2.22% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": null
+ },
+ {
+  "title": "Old Man of the Mountain, near view, Franconia Notch, N.H (NYPL b11708055-G91F020 252F)",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "Undated",
+  "cats": [
+   "mountains",
+   "people"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Old_Man_of_the_Mountain%2C_near_view%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708055-G91F020_252F%29.tiff/lossy-page1-1920px-Old_Man_of_the_Mountain%2C_near_view%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708055-G91F020_252F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Old_Man_of_the_Mountain%2C_near_view%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708055-G91F020_252F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0699",
+  "rect": "rect/698.jpg",
+  "coll": "Source unrecorded",
+  "va": 0.8409,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.02° of rotation. Depth measured moderate (1.77% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": null
+ },
+ {
+  "title": "Franconia Notch, looking west (NYPL b11708043-G91F019 012F)",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "Undated",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Franconia_Notch%2C_looking_west_%28NYPL_b11708043-G91F019_012F%29.tiff/lossy-page1-1920px-Franconia_Notch%2C_looking_west_%28NYPL_b11708043-G91F019_012F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Franconia_Notch%2C_looking_west_%28NYPL_b11708043-G91F019_012F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0700",
+  "rect": "rect/699.jpg",
+  "coll": "Source unrecorded",
+  "va": 0.8513,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (1.28% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": null
+ },
+ {
+  "title": "Profile House, from the Bridle Path, Franconia Notch, N.H (NYPL b11708043-G91F019 044F)",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "Undated",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Profile_House%2C_from_the_Bridle_Path%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708043-G91F019_044F%29.tiff/lossy-page1-1920px-Profile_House%2C_from_the_Bridle_Path%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708043-G91F019_044F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Profile_House%2C_from_the_Bridle_Path%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708043-G91F019_044F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0701",
+  "rect": "rect/700.jpg",
+  "coll": "Source unrecorded",
+  "va": 1.8612,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.0° of rotation. Depth measured gentle (1.29% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": null
+ },
+ {
+  "title": "Basin, Franconia Notch, N.H (NYPL b11708043-G91F019 120F)",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "Undated",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Basin%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708043-G91F019_120F%29.tiff/lossy-page1-1920px-Basin%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708043-G91F019_120F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Basin%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708043-G91F019_120F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0702",
+  "rect": "rect/701.jpg",
+  "coll": "Source unrecorded",
+  "va": 0.9642,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.05° of rotation. Depth measured deep (2.98% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": null
+ },
+ {
+  "title": "Profile Lake, Franconia Notch (NYPL b11708043-G91F019 165F)",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "Undated",
+  "cats": [
+   "water",
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Profile_Lake%2C_Franconia_Notch_%28NYPL_b11708043-G91F019_165F%29.tiff/lossy-page1-1920px-Profile_Lake%2C_Franconia_Notch_%28NYPL_b11708043-G91F019_165F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Profile_Lake%2C_Franconia_Notch_%28NYPL_b11708043-G91F019_165F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0703",
+  "rect": "rect/702.jpg",
+  "coll": "Source unrecorded",
+  "va": 1.2062,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured moderate (1.64% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": null
+ },
+ {
+  "title": "Boat House, Profile Lake (NYPL b11708055-G91F020 280ZF)",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1876",
+  "cats": [
+   "water",
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Boat_House%2C_Profile_Lake_%28NYPL_b11708055-G91F020_280ZF%29.tiff/lossy-page1-1920px-Boat_House%2C_Profile_Lake_%28NYPL_b11708055-G91F020_280ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Boat_House%2C_Profile_Lake_%28NYPL_b11708055-G91F020_280ZF%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0704",
+  "rect": "rect/703.jpg",
+  "coll": "Source unrecorded",
+  "va": 1.0967,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.02° of rotation. Depth measured deep (2.76% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": null
+ },
+ {
+  "title": "Profile House, Franconia Notch, N.H, by Kilburn Brothers",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1865",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Profile_House%2C_Franconia_Notch%2C_N.H%2C_by_Kilburn_Brothers.jpg/1920px-Profile_House%2C_Franconia_Notch%2C_N.H%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/30/Profile_House%2C_Franconia_Notch%2C_N.H%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0705",
+  "rect": "rect/704.jpg",
+  "coll": "Source unrecorded",
+  "va": 0.8952,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured gentle (1.45% of frame width); hung in the VR Parlor at full size.",
+  "creator": "Kilburn Brothers",
+  "collection_name": null
+ },
+ {
+  "title": "Franconia Notch, Franconia Mountains",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1858",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Franconia_Notch%2C_Franconia_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Franconia_Notch%2C_Franconia_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Franconia_Notch%2C_Franconia_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0706",
+  "rect": "rect/705.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "va": 1.7748,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.02° of rotation. Depth measured gentle (0.53% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views"
+ },
+ {
+  "title": "Boat House, Profile Lake (NYPL b11708055-G91F020 281ZF)",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1876",
+  "cats": [
+   "water",
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Boat_House%2C_Profile_Lake_%28NYPL_b11708055-G91F020_281ZF%29.tiff/lossy-page1-1920px-Boat_House%2C_Profile_Lake_%28NYPL_b11708055-G91F020_281ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Boat_House%2C_Profile_Lake_%28NYPL_b11708055-G91F020_281ZF%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0707",
+  "rect": "rect/706.jpg",
+  "coll": "Source unrecorded",
+  "va": 0.8634,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.04° of rotation. Depth measured deep (3.44% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": null
+ },
+ {
+  "title": "Eagle Cliff, White Mountains",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1858",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Eagle_Cliff%2C_White_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Eagle_Cliff%2C_White_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Eagle_Cliff%2C_White_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0708",
+  "rect": "rect/707.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "va": 0.9942,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (1.09% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views"
+ },
+ {
+  "title": "Profile House, Franconia Notch, by Kilburn Brothers 3",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1865",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Profile_House%2C_Franconia_Notch%2C_by_Kilburn_Brothers_3.jpg/1920px-Profile_House%2C_Franconia_Notch%2C_by_Kilburn_Brothers_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Profile_House%2C_Franconia_Notch%2C_by_Kilburn_Brothers_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0709",
+  "rect": "rect/708.jpg",
+  "coll": "Source unrecorded",
+  "va": 2.8586,
+  "f": 0.79,
+  "cond": "Rectified 2026. Halves registered to 0.31% vertical error and 0.0° of rotation. Depth measured moderate (1.69% of frame width); hung in the VR Parlor at 79% size.",
+  "creator": "Kilburn Brothers",
+  "collection_name": null
+ },
+ {
+  "title": "The Basin, Franconia Mountains, N.H",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1858",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/The_Basin%2C_Franconia_Mountains%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-The_Basin%2C_Franconia_Mountains%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/17/The_Basin%2C_Franconia_Mountains%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0710",
+  "rect": "rect/709.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "va": 1.7303,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.02° of rotation. Depth measured gentle (0.47% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views"
+ },
+ {
+  "title": "The Snow cross Mt. Lafayette, Franconia Mts, from Robert N. Dennis collection of stereoscopic views 4",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "c. 1890",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/The_Snow_cross_Mt._Lafayette%2C_Franconia_Mts%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.png/1920px-The_Snow_cross_Mt._Lafayette%2C_Franconia_Mts%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a6/The_Snow_cross_Mt._Lafayette%2C_Franconia_Mts%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0711",
+  "rect": "rect/710.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "va": 1.5551,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured gentle (0.79% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views"
+ },
+ {
+  "title": "Howland's Flume, Mt. Kinsman",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1876–1889",
+  "cats": [
+   "people",
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Howland%27s_Flume%2C_Mt._Kinsman%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Howland%27s_Flume%2C_Mt._Kinsman%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Howland%27s_Flume%2C_Mt._Kinsman%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0712",
+  "rect": "rect/711.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "va": 0.4559,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.02° of rotation. Depth measured deep (2.39% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views"
+ },
+ {
+  "title": "The Pool, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "c. 1890",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/The_Pool%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-The_Pool%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/25/The_Pool%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0713",
+  "rect": "rect/712.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "va": 0.8539,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured deep (3.18% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views"
+ },
+ {
+  "title": "Profile House, Franconia Notch, by Kilburn Brothers 19",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1865",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Profile_House%2C_Franconia_Notch%2C_by_Kilburn_Brothers_19.png/1920px-Profile_House%2C_Franconia_Notch%2C_by_Kilburn_Brothers_19.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/99/Profile_House%2C_Franconia_Notch%2C_by_Kilburn_Brothers_19.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0714",
+  "rect": "rect/713.jpg",
+  "coll": "Source unrecorded",
+  "va": 1.5597,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.0° of rotation. Depth measured gentle (1.49% of frame width); hung in the VR Parlor at full size.",
+  "creator": "Kilburn Brothers 19",
+  "collection_name": null
+ },
+ {
+  "title": "Profile House, Franconia Notch, N.H, by Kilburn Brothers 8",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1865",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Profile_House%2C_Franconia_Notch%2C_N.H%2C_by_Kilburn_Brothers_8.jpg/1920px-Profile_House%2C_Franconia_Notch%2C_N.H%2C_by_Kilburn_Brothers_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/19/Profile_House%2C_Franconia_Notch%2C_N.H%2C_by_Kilburn_Brothers_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0715",
+  "rect": "rect/714.jpg",
+  "coll": "Source unrecorded",
+  "va": 0.9073,
+  "f": 0.92,
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured deep (3.77% of frame width); hung in the VR Parlor at 92% size.",
+  "creator": "Kilburn Brothers",
+  "collection_name": null
+ },
+ {
+  "title": "Depot, Profile House, from Robert N. Dennis collection of stereoscopic views 5",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1876–1889",
+  "cats": [
+   "cities",
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Depot%2C_Profile_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.png/1920px-Depot%2C_Profile_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/08/Depot%2C_Profile_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0716",
+  "rect": "rect/715.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "va": 0.6839,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured deep (3.15% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views"
+ },
+ {
+  "title": "Echo Lake House, Franconia Notch, N.H",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1858",
+  "cats": [
+   "water",
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Echo_Lake_House%2C_Franconia_Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Echo_Lake_House%2C_Franconia_Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/45/Echo_Lake_House%2C_Franconia_Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0717",
+  "rect": "rect/716.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "va": 0.9486,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured deep (2.43% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views"
+ },
+ {
+  "title": "Howland's Flume, Mt. Kinsman, N.H, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "c. 1890",
+  "cats": [
+   "people",
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Howland%27s_Flume%2C_Mt._Kinsman%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Howland%27s_Flume%2C_Mt._Kinsman%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Howland%27s_Flume%2C_Mt._Kinsman%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0718",
+  "rect": "rect/717.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "va": 0.4066,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured moderate (2.16% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views"
+ },
+ {
+  "title": "Pool, Franconia Notch, N.H",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "c. 1890",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Pool%2C_Franconia_Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pool%2C_Franconia_Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/23/Pool%2C_Franconia_Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0719",
+  "rect": "rect/718.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "va": 1.0793,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured deep (2.93% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views"
+ },
+ {
+  "title": "Profile Lake & Eagle Cliff, Franconia Notch, from Robert N. Dennis collection of stereoscopic views 7",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1876–1899",
+  "cats": [
+   "water",
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Profile_Lake_%26_Eagle_Cliff%2C_Franconia_Notch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.png/1920px-Profile_Lake_%26_Eagle_Cliff%2C_Franconia_Notch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/29/Profile_Lake_%26_Eagle_Cliff%2C_Franconia_Notch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0720",
+  "rect": "rect/719.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "va": 0.7363,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.09° of rotation. Depth measured gentle (1.28% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views"
+ },
+ {
+  "title": "The Basin, Franconia Mountains",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1858",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Basin%2C_Franconia_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-The_Basin%2C_Franconia_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Basin%2C_Franconia_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0721",
+  "rect": "rect/720.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "va": 0.9493,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured moderate (1.6% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views"
+ },
+ {
+  "title": "Mt. Cannon, Franconia (NYPL b11708043-G91F019 248F)",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "Undated",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Mt._Cannon%2C_Franconia_%28NYPL_b11708043-G91F019_248F%29.tiff/lossy-page1-1920px-Mt._Cannon%2C_Franconia_%28NYPL_b11708043-G91F019_248F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/be/Mt._Cannon%2C_Franconia_%28NYPL_b11708043-G91F019_248F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0722",
+  "rect": "rect/721.jpg",
+  "coll": "Source unrecorded",
+  "va": 1.4185,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured gentle (0.88% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": null
+ },
+ {
+  "title": "Old Man of the Mountain, Franconia Notch, N.H (NYPL b11708055-G91F020 198F)",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "Undated",
+  "cats": [
+   "mountains",
+   "people"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Old_Man_of_the_Mountain%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708055-G91F020_198F%29.tiff/lossy-page1-1920px-Old_Man_of_the_Mountain%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708055-G91F020_198F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Old_Man_of_the_Mountain%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708055-G91F020_198F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0723",
+  "rect": "rect/722.jpg",
+  "coll": "Source unrecorded",
+  "va": 0.7545,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.08° of rotation. Depth measured deep (2.54% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": null
+ },
+ {
+  "title": "Profile House, Franconia Notch, N.H",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1858",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Profile_House%2C_Franconia_Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Profile_House%2C_Franconia_Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/01/Profile_House%2C_Franconia_Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0724",
+  "rect": "rect/723.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "va": 1.4137,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured moderate (1.65% of frame width); hung in the VR Parlor at full size.",
+  "creator": null,
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views"
+ },
+ {
+  "title": "The Old Willey House, by Weller, F. G. (Franklin G.),, 1833-1877",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "Undated",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/The_Old_Willey_House%2C_by_Weller%2C_F._G._%28Franklin_G.%29%2C%2C_1833-1877.png/1920px-The_Old_Willey_House%2C_by_Weller%2C_F._G._%28Franklin_G.%29%2C%2C_1833-1877.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/62/The_Old_Willey_House%2C_by_Weller%2C_F._G._%28Franklin_G.%29%2C%2C_1833-1877.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0725",
+  "rect": "rect/724.jpg",
+  "coll": "Source unrecorded",
+  "va": 1.0535,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (0.59% of frame width); hung in the VR Parlor at full size.",
+  "creator": "Weller, F. G. (Franklin G.)",
+  "collection_name": null
+ },
+ {
+  "title": "The Profile house, Franconia notch. Messrs. Taft, Taylor & Greenleaf, proprietors, by E. & H.T. Anthony (Firm)",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "1863",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/The_Profile_house%2C_Franconia_notch._Messrs._Taft%2C_Taylor_%26_Greenleaf%2C_proprietors%2C_by_E._%26_H.T._Anthony_%28Firm%29.png/1920px-The_Profile_house%2C_Franconia_notch._Messrs._Taft%2C_Taylor_%26_Greenleaf%2C_proprietors%2C_by_E._%26_H.T._Anthony_%28Firm%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_Profile_house%2C_Franconia_notch._Messrs._Taft%2C_Taylor_%26_Greenleaf%2C_proprietors%2C_by_E._%26_H.T._Anthony_%28Firm%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0726",
+  "rect": "rect/725.jpg",
+  "coll": "Source unrecorded",
+  "va": 1.499,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (0.75% of frame width); hung in the VR Parlor at full size.",
+  "creator": "E. & H.T. Anthony (Firm)",
+  "collection_name": null
+ },
+ {
+  "title": "The Basin, Franconia Mts, by Weller, F. G. (Franklin G.),, 1833-1877",
+  "place": "Franconia Notch, New Hampshire",
+  "year": "Undated",
+  "cats": [
+   "mountains"
+  ],
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Basin%2C_Franconia_Mts%2C_by_Weller%2C_F._G._%28Franklin_G.%29%2C%2C_1833-1877.jpg/1920px-The_Basin%2C_Franconia_Mts%2C_by_Weller%2C_F._G._%28Franklin_G.%29%2C%2C_1833-1877.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_Basin%2C_Franconia_Mts%2C_by_Weller%2C_F._G._%28Franklin_G.%29%2C%2C_1833-1877.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "id": "STA-0727",
+  "rect": "rect/726.jpg",
+  "coll": "Source unrecorded",
+  "va": 0.9665,
+  "f": 1.0,
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured gentle (1.03% of frame width); hung in the VR Parlor at full size.",
+  "creator": "Weller, F. G. (Franklin G.)",
+  "collection_name": null
  }
 ]

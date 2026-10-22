@@ -1,0 +1,71 @@
+{
+ "title": "Echo Lake, White Mountains",
+ "place": "Franconia Notch, New Hampshire",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "water",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Echo_Lake%2C_White_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Echo_Lake%2C_White_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Echo_Lake%2C_White_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Echo_Lake,_White_Mountains,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1385,
+ "id": "STA-0691",
+ "rect": "rect/690.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.07,
+ "rot": 0.01,
+ "range": 1.33,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8244,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Echo_Lake%2C_White_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Echo_Lake%2C_White_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8244,
+  "L": [
+   0.366667,
+   0.0,
+   0.102344,
+   0.0,
+   0.878601,
+   0.062243
+  ],
+  "R": [
+   0.365351,
+   -0.011997,
+   0.524433,
+   0.011648,
+   0.879515,
+   0.06095
+  ],
+  "g": [
+   1.0,
+   0.8965
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured gentle (1.33% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11827825,
+ "source_revision_id": null,
+ "source_sha1": "3e39609febc0914825abe5605d045872834c65a5"
+}
