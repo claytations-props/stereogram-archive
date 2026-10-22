@@ -9,44 +9,50 @@
 <meta property="og:description" content="Step into a WebXR parlor and view public domain vintage stereographs in true stereo. Every pair measured and rectified for comfort.">
 <meta property="og:type" content="website">
 <meta name="description" content="A WebXR parlor for viewing public domain vintage stereographs in true stereo. Built for VR browsers like Meta Quest Browser and Vision Pro Safari.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#0b0a08;--panel:#161410;--line:#2c2820;--text:#ece5d8;--dim:#a89c86;--brass:#c9a86a}
+:root{--bg:#0b0a08;--panel:#161410;--panel2:#1e1b16;--line:#2c2820;--text:#ece5d8;--dim:#a89c86;--brass:#c9a86a;--brass2:#e8c987;--inkbtn:#191510}
 *{box-sizing:border-box;margin:0;padding:0}
-body{background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,sans-serif;overflow:hidden}
+body{background:var(--bg);color:var(--text);font-family:Inter,system-ui,sans-serif;overflow:hidden}
 #app{position:fixed;inset:0}
 canvas{display:block}
 #ui{position:fixed;inset:0;pointer-events:none;display:flex;flex-direction:column;justify-content:space-between;padding:12px;z-index:10}
-.top{max-width:400px;background:rgba(11,10,8,.78);border:1px solid var(--line);border-radius:12px;padding:11px 13px;backdrop-filter:blur(6px);pointer-events:auto}
-.kicker{letter-spacing:.3em;text-transform:uppercase;font-size:10px;color:var(--brass);font-weight:700}
-h1{font-family:Georgia,serif;font-size:19px;margin:4px 0}
-.top p{color:var(--dim);font-size:12px;line-height:1.5}
+.top{max-width:400px;background:rgba(11,10,8,.82);border:1px solid var(--line);border-radius:4px;padding:13px 15px;backdrop-filter:blur(6px);pointer-events:auto}
+.kicker{letter-spacing:.35em;text-transform:uppercase;font-size:10px;color:var(--brass);font-weight:600}
+h1{font-family:"Playfair Display",Georgia,serif;font-size:20px;font-weight:700;margin:5px 0 6px}
+.top p{color:var(--dim);font-size:12.5px;line-height:1.55}
 .top b{color:var(--text)}
-#status{margin-top:8px;font-size:12.5px;color:var(--brass)}
+#status{margin-top:10px;padding-top:9px;border-top:1px solid var(--line);font-size:12.5px;color:var(--brass)}
 .bottom{display:flex;gap:10px;align-items:flex-end;justify-content:space-between;flex-wrap:wrap}
-.cardinfo{background:rgba(11,10,8,.78);border:1px solid var(--line);border-radius:12px;padding:8px 12px;max-width:380px;backdrop-filter:blur(6px);pointer-events:auto}
-.cardinfo h2{font-family:Georgia,serif;font-size:15px}
-.cardinfo div{color:var(--dim);font-size:12.5px;margin-top:3px}
-.controls{display:flex;gap:8px;pointer-events:auto;flex-wrap:wrap;justify-content:flex-end}
-button{background:#1e1b16;border:1px solid var(--line);color:var(--text);border-radius:999px;padding:7px 13px;font-size:12.5px;font-weight:600;cursor:pointer}
-button:hover{border-color:var(--brass);color:#e8c987}
-button.gold{background:var(--brass);color:#191510;border-color:var(--brass)}
+.cardinfo{background:rgba(11,10,8,.82);border:1px solid var(--line);border-radius:4px;padding:10px 13px;max-width:380px;backdrop-filter:blur(6px);pointer-events:auto}
+.cardinfo h2{font-family:"Playfair Display",Georgia,serif;font-size:16px;font-weight:700;line-height:1.3}
+.cardinfo div{color:var(--dim);font-size:12.5px;margin-top:4px;font-variant-numeric:tabular-nums}
+.controls{display:flex;gap:8px;pointer-events:auto;flex-wrap:wrap;justify-content:flex-end;align-items:center}
+button{background:var(--panel2);border:1px solid var(--line);color:var(--text);border-radius:3px;padding:9px 13px;font-size:11.5px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;cursor:pointer}
+button:hover{border-color:var(--brass);color:var(--brass2)}
+button.gold{background:var(--brass);color:var(--inkbtn);border-color:var(--brass)}
+button.gold:hover{background:var(--brass2);color:var(--inkbtn)}
+#VRButton{border-radius:3px !important;letter-spacing:.07em;text-transform:uppercase}
 a{color:var(--brass)}
 #nourl{font-size:12px;color:var(--dim);margin-top:6px}
-#landing{position:fixed;inset:0;z-index:5;background:var(--bg);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;padding:110px 16px 120px;text-align:center}
+#landing{position:fixed;inset:0;z-index:5;background:var(--bg);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:11px;padding:110px 16px 120px;text-align:center}
 #landing[hidden]{display:none}
-#landImg{max-width:min(86vw,620px);max-height:42vh;border:1px solid var(--line);border-radius:8px;background:#000}
-#landTitle{font-family:Georgia,serif;font-size:21px;max-width:640px;line-height:1.3}
-#landMeta{color:var(--dim);font-size:13.5px}
-#landSet{color:var(--brass);font-size:13.5px}
-#enterVrBtn{background:var(--brass);color:#191510;border-color:var(--brass);font-size:19px;font-weight:800;padding:16px 44px;margin-top:10px;box-shadow:0 0 0 4px rgba(201,168,106,.25)}
-#landHint{color:var(--dim);font-size:12.5px;max-width:430px;line-height:1.5}
-@media(max-width:640px){.top{max-width:248px;padding:9px 11px}.top p{display:none}.cardinfo{max-width:205px}button{padding:12px 16px;font-size:14px}}
+#landImg{max-width:min(86vw,620px);max-height:42vh;border:1px solid var(--line);border-radius:3px;background:#000}
+#landTitle{font-family:"Playfair Display",Georgia,serif;font-size:clamp(22px,4vw,30px);font-weight:700;max-width:640px;line-height:1.25}
+#landMeta{color:var(--dim);font-size:13.5px;font-variant-numeric:tabular-nums}
+#landSet{color:var(--brass);font-size:11px;letter-spacing:.2em;text-transform:uppercase;font-weight:600}
+#enterVrBtn{background:var(--brass);color:var(--inkbtn);border:1px solid var(--brass);border-radius:3px;font-size:15px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;padding:17px 42px;margin-top:8px}
+#enterVrBtn:hover{background:var(--brass2);color:var(--inkbtn)}
+#landHint{color:var(--dim);font-size:12.5px;max-width:440px;line-height:1.55}
+@media(max-width:640px){.top{max-width:248px;padding:10px 12px}.top p{display:none}.cardinfo{max-width:205px}button{padding:12px 14px;font-size:12px}}
 </style>
 <script type="importmap">{"imports":{"three":"https://unpkg.com/three@0.160.0/build/three.module.js","three/addons/":"https://unpkg.com/three@0.160.0/examples/jsm/"}}</script>
 </head>
 <body>
 <div id="app"></div>
 <div id="landing" hidden>
+  <div class="kicker">The Stereograph Archive · The VR Parlor</div>
   <img id="landImg" alt="The current stereograph pair">
   <h2 id="landTitle"></h2>
   <div id="landMeta"></div>
@@ -57,17 +63,17 @@ a{color:var(--brass)}
 <div id="ui">
   <div class="top">
     <div class="kicker">The Stereograph Archive</div>
-    <h1>🥽 The VR Parlor</h1>
-    <p>Put on your headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, so the depth just works. Every view is aligned by a measuring pipeline before it hangs here, so your eyes can relax. There is no frame and no wall: the photograph hangs far away in the dark, enlarged, its edges feathered into the black. <b>Trigger</b> flips forward, <b>squeeze</b> goes back, and you can also point at the row of buttons beneath the caption or flick the thumbstick. The double arrows jump ten cards at a time, and the <b>EXIT</b> button in that row takes you out of VR whenever you are ready. This room is the archive itself: the <b>Browse</b> button opens the finding aid and a wall of the current shelf right here, so you can pick a collection or series and point at any card to open it, and the <b>Record</b> button shows the item's catalogue card.</p>
+    <h1>The VR Parlor</h1>
+    <p>Use a headset browser (<b>Quest Browser</b> or <b>Vision Pro Safari</b>), then press <b>Enter VR</b>. Each eye gets its own half of the card, exactly like a Victorian stereoscope, and every view is aligned before it hangs here, so your eyes can relax. <b>Trigger</b> flips forward, <b>squeeze</b> goes back; the button row beneath the caption does the same, and its double arrows jump ten cards. <b>Browse</b> opens the shelves inside the room, <b>Record</b> shows the catalogue card, and <b>EXIT</b> leaves VR.</p>
     <div id="status">Loading the parlor…</div>
   </div>
   <div class="bottom">
     <div class="cardinfo"><h2 id="ciTitle"></h2><div id="ciMeta"></div><div><a id="backLink" href="index.html">← Back to the flat gallery</a></div></div>
     <div class="controls">
       <button id="prevBtn">‹ Prev</button>
-      <button id="randBtn">🎲 Random</button>
+      <button id="randBtn">Random</button>
       <button id="nextBtn">Next ›</button>
-      <button id="browseBtn">📚 Browse the shelves</button>
+      <button id="browseBtn">Browse the shelves</button>
       <button id="recBtn">Catalogue card: on</button>
     </div>
   </div>
@@ -611,7 +617,7 @@ function updateStatus(){
   }
 }
 function updateHtmlButtons(){
-  document.getElementById('browseBtn').textContent=uiState==='browse'?'Back to the card':'📚 Browse the shelves';
+  document.getElementById('browseBtn').textContent=uiState==='browse'?'Back to the card':'Browse the shelves';
 }
 function setHover(hit,on){
   if(hit.userData.onHover){hit.userData.onHover(on);return;}
