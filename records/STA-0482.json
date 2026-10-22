@@ -1,0 +1,69 @@
+{
+ "title": "Old church on Witch Hill, Salem, Mass",
+ "place": "Salem, Massachusetts",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Old_church_on_Witch_Hill%2C_Salem%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Old_church_on_Witch_Hill%2C_Salem%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Old_church_on_Witch_Hill%2C_Salem%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Old_church_on_Witch_Hill,_Salem,_Mass,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2721,
+ "h": 1367,
+ "id": "STA-0482",
+ "rect": "rect/481.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.14,
+ "rot": 0.02,
+ "range": 0.87,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.4527,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Old_church_on_Witch_Hill%2C_Salem%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Old_church_on_Witch_Hill%2C_Salem%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.4527,
+  "L": [
+   0.367708,
+   0.0,
+   0.101823,
+   0.0,
+   0.503627,
+   0.381865
+  ],
+  "R": [
+   0.367692,
+   0.005425,
+   0.529507,
+   -0.016235,
+   0.50284,
+   0.398426
+  ],
+  "g": [
+   0.981,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.02° of rotation. Depth measured gentle (0.87% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7447130,
+ "source_revision_id": 296763028,
+ "source_sha1": "d597dd19ef323efd1220e8f31482ac1b026d81ac"
+}

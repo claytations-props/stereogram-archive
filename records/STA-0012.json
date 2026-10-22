@@ -1,0 +1,69 @@
+{
+ "title": "Mount Washington Railway, on the Summit of Mount Washington",
+ "place": "Mount Washington, New Hampshire",
+ "year": "c. 1860–1903",
+ "sy": 1882,
+ "era": "mid",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Mount_Washington_Railway%2C_on_the_Summit_of_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Mount_Washington_Railway%2C_on_the_Summit_of_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mount_Washington_Railway%2C_on_the_Summit_of_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Mount_Washington_Railway,_on_the_Summit_of_Mount_Washington,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1419,
+ "id": "STA-0012",
+ "rect": "rect/11.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.04,
+ "range": 0.6,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9771,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Mount_Washington_Railway%2C_on_the_Summit_of_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Mount_Washington_Railway%2C_on_the_Summit_of_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "ar": 0.9771,
+  "L": [
+   0.399477,
+   4e-06,
+   0.109892,
+   3e-06,
+   0.788943,
+   0.098494
+  ],
+  "R": [
+   0.398437,
+   -0.005156,
+   0.531979,
+   -0.002976,
+   0.786681,
+   0.103034
+  ],
+  "g": [
+   0.9891,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.04° of rotation. Depth measured gentle (0.6% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860~/1903~",
+ "date_start": 1855,
+ "date_end": 1908,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12008024,
+ "source_revision_id": 1162326362,
+ "source_sha1": "a9837f522810e0929fa84ed41c16a62e65cd36cd"
+}

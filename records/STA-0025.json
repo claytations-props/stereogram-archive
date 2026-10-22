@@ -1,0 +1,69 @@
+{
+ "title": "-Stereograph View of a Gas Balloon- MET DP74755",
+ "place": "United States",
+ "year": "1850s",
+ "sy": 1855,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "Stereographs; Photographs",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/-Stereograph_View_of_a_Gas_Balloon-_MET_DP74755.jpg/1920px--Stereograph_View_of_a_Gas_Balloon-_MET_DP74755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/c6/-Stereograph_View_of_a_Gas_Balloon-_MET_DP74755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:-Stereograph_View_of_a_Gas_Balloon-_MET_DP74755.jpg",
+ "license": "CC0",
+ "w": 4000,
+ "h": 2025,
+ "id": "STA-0025",
+ "rect": "rect/24.jpg",
+ "coll": "The Metropolitan Museum of Art",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 0.35,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.959,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/-Stereograph_View_of_a_Gas_Balloon-_MET_DP74755.jpg/1920px--Stereograph_View_of_a_Gas_Balloon-_MET_DP74755.jpg",
+  "ar": 0.959,
+  "L": [
+   0.438547,
+   1e-06,
+   0.010933,
+   9e-06,
+   0.903305,
+   0.019533
+  ],
+  "R": [
+   0.435931,
+   -0.007699,
+   0.524436,
+   0.003847,
+   0.900223,
+   0.03568
+  ],
+  "g": [
+   1.0,
+   0.983
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.35% of frame width); hung in the VR Parlor at full size.",
+ "repository": "The Metropolitan Museum of Art",
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "185X",
+ "date_start": 1850,
+ "date_end": 1859,
+ "rights_uri": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+ "rights_basis": "Source record carries a CC0 dedication (Wikimedia Commons license short name: CC0). Rights URI is the CC0 deed URL recorded from the source page.",
+ "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+ "source_page_id": 60495005,
+ "source_revision_id": 843929495,
+ "source_sha1": "1b3ffb012b5c85e907ef69dd9ee1cba5460c288a"
+}

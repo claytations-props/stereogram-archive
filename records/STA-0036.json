@@ -1,0 +1,69 @@
+{
+ "title": "Fort Pulaski, by Wilson, J. N. (Jerome Nelson), 1827-1897",
+ "place": "Savannah, Georgia",
+ "year": "c. 1875",
+ "sy": 1875,
+ "era": "mid",
+ "cats": [
+  "war"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Fort_Pulaski%2C_by_Wilson%2C_J._N._%28Jerome_Nelson%29%2C_1827-1897.jpg/1920px-Fort_Pulaski%2C_by_Wilson%2C_J._N._%28Jerome_Nelson%29%2C_1827-1897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Fort_Pulaski%2C_by_Wilson%2C_J._N._%28Jerome_Nelson%29%2C_1827-1897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Fort_Pulaski,_by_Wilson,_J._N._(Jerome_Nelson),_1827-1897.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1355,
+ "id": "STA-0036",
+ "rect": "rect/35.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 0.42,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.7351,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Fort_Pulaski%2C_by_Wilson%2C_J._N._%28Jerome_Nelson%29%2C_1827-1897.jpg/1920px-Fort_Pulaski%2C_by_Wilson%2C_J._N._%28Jerome_Nelson%29%2C_1827-1897.jpg",
+  "ar": 1.7351,
+  "L": [
+   0.361549,
+   2.2e-05,
+   0.123131,
+   1e-05,
+   0.420674,
+   0.533508
+  ],
+  "R": [
+   0.362514,
+   -0.01839,
+   0.531536,
+   0.007776,
+   0.422871,
+   0.523397
+  ],
+  "g": [
+   0.9589,
+   0.9981
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.42% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": "Wilson, J. N. (Jerome Nelson)",
+ "creator_dates": "1827-1897",
+ "facets": [
+  "war"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1875~",
+ "date_start": 1870,
+ "date_end": 1880,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7144673,
+ "source_revision_id": 936350935,
+ "source_sha1": "54d8520a0952681e6adef7c63f31025d53bbc271"
+}

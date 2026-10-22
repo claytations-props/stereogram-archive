@@ -1,0 +1,69 @@
+{
+ "title": "Pine Street, north from Erie, by P. B. Greene",
+ "place": "Chicago, Illinois",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Pine_Street%2C_north_from_Erie%2C_by_P._B._Greene.jpg/1920px-Pine_Street%2C_north_from_Erie%2C_by_P._B._Greene.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Pine_Street%2C_north_from_Erie%2C_by_P._B._Greene.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Pine_Street,_north_from_Erie,_by_P._B._Greene.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1379,
+ "id": "STA-0399",
+ "rect": "rect/398.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.14,
+ "rot": 0.0,
+ "range": 1.17,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.6745,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Pine_Street%2C_north_from_Erie%2C_by_P._B._Greene.jpg/1920px-Pine_Street%2C_north_from_Erie%2C_by_P._B._Greene.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.6745,
+  "L": [
+   0.369792,
+   0.0,
+   0.120573,
+   0.0,
+   0.438469,
+   0.496898
+  ],
+  "R": [
+   0.367353,
+   -0.009432,
+   0.517796,
+   -0.00041,
+   0.436128,
+   0.513514
+  ],
+  "g": [
+   0.9716,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.0° of rotation. Depth measured gentle (1.17% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "P. B. Greene",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7289029,
+ "source_revision_id": 1068390826,
+ "source_sha1": "afc60550162a60d695b37a6913b495683a3b18f1"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "PyramidCamelStereo1",
+ "place": "Giza, Egypt",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "world"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/PyramidCamelStereo1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/1a/PyramidCamelStereo1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:PyramidCamelStereo1.jpg",
+ "license": "Public domain",
+ "w": 1242,
+ "h": 651,
+ "id": "STA-0158",
+ "rect": "rect/157.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.29,
+ "rot": 0.03,
+ "range": 2.01,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.084,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/1/1a/PyramidCamelStereo1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.084,
+  "L": [
+   0.436393,
+   0.0,
+   0.038245,
+   0.0,
+   0.768049,
+   0.152842
+  ],
+  "R": [
+   0.43948,
+   -0.007359,
+   0.51669,
+   0.004726,
+   0.767196,
+   0.145067
+  ],
+  "g": [
+   0.9581,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.29% vertical error and 0.03° of rotation. Depth measured moderate (2.01% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "world"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 21544,
+ "source_revision_id": 249197426,
+ "source_sha1": "9e605c995a1203de906e4ff28ca27a5c193ea9c3"
+}

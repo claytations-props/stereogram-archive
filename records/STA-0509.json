@@ -1,0 +1,69 @@
+{
+ "title": "Plymouth rock, by Locke & Robbins",
+ "place": "Plymouth, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Plymouth_rock%2C_by_Locke_%26_Robbins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Plymouth_rock%2C_by_Locke_%26_Robbins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Plymouth_rock,_by_Locke_%26_Robbins.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 385,
+ "id": "STA-0509",
+ "rect": "rect/508.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.21,
+ "rot": 0.04,
+ "range": 1.11,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8408,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Plymouth_rock%2C_by_Locke_%26_Robbins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8408,
+  "L": [
+   0.368421,
+   0.0,
+   0.095395,
+   0.0,
+   0.864935,
+   0.055844
+  ],
+  "R": [
+   0.368716,
+   0.003208,
+   0.512635,
+   -0.003658,
+   0.864113,
+   0.073048
+  ],
+  "g": [
+   1.0,
+   0.9753
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.04° of rotation. Depth measured gentle (1.11% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Locke & Robbins",
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7446785,
+ "source_revision_id": 1111908681,
+ "source_sha1": "a3b196852c009fec271cd678ab73ebab0041afd7"
+}

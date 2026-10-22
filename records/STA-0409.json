@@ -1,0 +1,71 @@
+{
+ "title": "Skeene's Mountains Head, Lake Champlain",
+ "place": "Lake Champlain, New York",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "water",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Skeene%27s_Mountains_Head%2C_Lake_Champlain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Skeene%27s_Mountains_Head%2C_Lake_Champlain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/44/Skeene%27s_Mountains_Head%2C_Lake_Champlain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Skeene%27s_Mountains_Head,_Lake_Champlain,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2573,
+ "h": 1290,
+ "id": "STA-0409",
+ "rect": "rect/408.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.05,
+ "rot": 0.0,
+ "range": 0.23,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9205,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Skeene%27s_Mountains_Head%2C_Lake_Champlain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Skeene%27s_Mountains_Head%2C_Lake_Champlain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9205,
+  "L": [
+   0.421875,
+   0.0,
+   0.059115,
+   0.0,
+   0.913811,
+   0.047248
+  ],
+  "R": [
+   0.425877,
+   0.002074,
+   0.505125,
+   -0.006566,
+   0.920286,
+   0.037886
+  ],
+  "g": [
+   0.9344,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.05% vertical error and 0.0° of rotation. Depth measured gentle (0.23% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10065157,
+ "source_revision_id": 296839455,
+ "source_sha1": "4fb389df2af2ee8f9e5919470b8b84386ae39571"
+}

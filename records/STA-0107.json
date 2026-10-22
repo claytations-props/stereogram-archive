@@ -1,0 +1,71 @@
+{
+ "title": "The Basin, Franconia Notch, N.H (NYPL b11708055-G91F020 189F)",
+ "place": "Franconia, New Hampshire",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "water",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/The_Basin%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708055-G91F020_189F%29.tiff/lossy-page1-1920px-The_Basin%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708055-G91F020_189F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Basin%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708055-G91F020_189F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_Basin,_Franconia_Notch,_N.H_(NYPL_b11708055-G91F020_189F).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 1736,
+ "id": "STA-0107",
+ "rect": "rect/106.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.02,
+ "range": 1.03,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8268,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/The_Basin%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708055-G91F020_189F%29.tiff/lossy-page1-1920px-The_Basin%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708055-G91F020_189F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8268,
+  "L": [
+   0.328125,
+   0.0,
+   0.157552,
+   0.0,
+   0.702304,
+   0.205991
+  ],
+  "R": [
+   0.324906,
+   -0.003292,
+   0.52076,
+   -0.002064,
+   0.699877,
+   0.217421
+  ],
+  "g": [
+   1.0,
+   0.9894
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.02° of rotation. Depth measured gentle (1.03% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 49704449,
+ "source_revision_id": 1284506037,
+ "source_sha1": "04d54509056140d1c317a1073524b6c4f5cd0897"
+}

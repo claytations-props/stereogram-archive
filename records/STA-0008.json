@@ -1,0 +1,71 @@
+{
+ "title": "The Grand Falls, Yellowstone River, Yellowstone National Park",
+ "place": "Yellowstone, Wyoming",
+ "year": "c. 1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "water",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/The_Grand_Falls%2C_Yellowstone_River%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Grand_Falls%2C_Yellowstone_River%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Grand_Falls%2C_Yellowstone_River%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_Grand_Falls,_Yellowstone_River,_Yellowstone_National_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1415,
+ "id": "STA-0008",
+ "rect": "rect/07.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 0.34,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8728,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/The_Grand_Falls%2C_Yellowstone_River%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Grand_Falls%2C_Yellowstone_River%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "ar": 0.8728,
+  "L": [
+   0.332292,
+   0.0,
+   0.108332,
+   -4e-06,
+   0.736153,
+   0.107755
+  ],
+  "R": [
+   0.331345,
+   0.001958,
+   0.562236,
+   -0.000625,
+   0.736398,
+   0.113735
+  ],
+  "g": [
+   1.0,
+   0.8539
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.34% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870~",
+ "date_start": 1865,
+ "date_end": 1875,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10244626,
+ "source_revision_id": 931870084,
+ "source_sha1": "b471b51c5f2e657cbb699eaaac8ddbc381ad275d"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "St. James Episcopal Church, by Lovejoy & Foster",
+ "place": "Chicago, Illinois",
+ "year": "1871",
+ "sy": 1871,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/St._James_Episcopal_Church%2C_by_Lovejoy_%26_Foster.png/1920px-St._James_Episcopal_Church%2C_by_Lovejoy_%26_Foster.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/4b/St._James_Episcopal_Church%2C_by_Lovejoy_%26_Foster.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:St._James_Episcopal_Church,_by_Lovejoy_%26_Foster.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1417,
+ "id": "STA-0396",
+ "rect": "rect/395.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.1,
+ "rot": 0.02,
+ "range": 0.34,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8432,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/St._James_Episcopal_Church%2C_by_Lovejoy_%26_Foster.png/1920px-St._James_Episcopal_Church%2C_by_Lovejoy_%26_Foster.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8432,
+  "L": [
+   0.383854,
+   0.0,
+   0.073698,
+   0.0,
+   0.879276,
+   0.045775
+  ],
+  "R": [
+   0.3835,
+   -0.00219,
+   0.517744,
+   0.005269,
+   0.881296,
+   0.044931
+  ],
+  "g": [
+   1.0,
+   0.9652
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured gentle (0.34% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Lovejoy & Foster",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1871",
+ "date_start": 1871,
+ "date_end": 1871,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7285356,
+ "source_revision_id": 1180353303,
+ "source_sha1": "942361387733f1081ac2671c68c2b906af5bbb97"
+}

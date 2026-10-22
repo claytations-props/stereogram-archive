@@ -1,0 +1,69 @@
+{
+ "title": "View of a tree-lined street, by C. A. Beckford",
+ "place": "Salem, Massachusetts",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/View_of_a_tree-lined_street%2C_by_C._A._Beckford.png/1920px-View_of_a_tree-lined_street%2C_by_C._A._Beckford.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/0b/View_of_a_tree-lined_street%2C_by_C._A._Beckford.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_tree-lined_street,_by_C._A._Beckford.png",
+ "license": "Public domain",
+ "w": 2724,
+ "h": 1340,
+ "id": "STA-0477",
+ "rect": "rect/476.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.29,
+ "rot": 0.03,
+ "range": 0.56,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.6843,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/View_of_a_tree-lined_street%2C_by_C._A._Beckford.png/1920px-View_of_a_tree-lined_street%2C_by_C._A._Beckford.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.6843,
+  "L": [
+   0.380729,
+   0.0,
+   0.113281,
+   0.0,
+   0.459746,
+   0.244174
+  ],
+  "R": [
+   0.385143,
+   0.002536,
+   0.512341,
+   -0.00764,
+   0.464149,
+   0.238518
+  ],
+  "g": [
+   0.954,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.29% vertical error and 0.03° of rotation. Depth measured gentle (0.56% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "C. A. Beckford",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7447145,
+ "source_revision_id": 1120905026,
+ "source_sha1": "5ebc36394f5d253c1ddc40ddb60783ff4c59ccb6"
+}

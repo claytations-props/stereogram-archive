@@ -1,0 +1,69 @@
+{
+ "title": "The Grand Canyon, Arizona",
+ "place": "Arizona",
+ "year": "Date uncertain, 1800s–1920s",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Grand_Canyon%2C_Arizona%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Grand_Canyon%2C_Arizona%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_Grand_Canyon,_Arizona,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 396,
+ "id": "STA-0006",
+ "rect": "rect/05.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.21,
+ "rot": 0.02,
+ "range": 0.8,
+ "f": 0.96,
+ "depth": "Gentle",
+ "va": 1.0197,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Grand_Canyon%2C_Arizona%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "ar": 1.0197,
+  "L": [
+   0.407881,
+   -2.5e-05,
+   0.096075,
+   6e-06,
+   0.767621,
+   0.090934
+  ],
+  "R": [
+   0.413818,
+   0.001285,
+   0.528024,
+   -0.004948,
+   0.793519,
+   0.066447
+  ],
+  "g": [
+   0.9596,
+   0.9995
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.02° of rotation. Depth measured gentle (0.8% of frame width); hung in the VR Parlor at 96% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "18XX/19XX",
+ "date_start": 1800,
+ "date_end": 1929,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10248736,
+ "source_revision_id": 977494398,
+ "source_sha1": "bd1b42cf941bc50dbb081ba8714d736f7d22cc10"
+}

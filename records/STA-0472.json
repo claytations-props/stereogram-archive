@@ -1,0 +1,69 @@
+{
+ "title": "Portrait of an unidentified woman",
+ "place": "Salem, Massachusetts",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Portrait_of_an_unidentified_woman%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Portrait_of_an_unidentified_woman%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Portrait_of_an_unidentified_woman%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_an_unidentified_woman,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1449,
+ "id": "STA-0472",
+ "rect": "rect/471.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.24,
+ "rot": 0.02,
+ "range": 1.7,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.6009,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Portrait_of_an_unidentified_woman%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Portrait_of_an_unidentified_woman%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.6009,
+  "L": [
+   0.376042,
+   0.0,
+   0.104427,
+   0.0,
+   0.443898,
+   0.324311
+  ],
+  "R": [
+   0.384525,
+   -0.001352,
+   0.506094,
+   -0.014587,
+   0.451748,
+   0.324631
+  ],
+  "g": [
+   0.8,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.02° of rotation. Depth measured moderate (1.7% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7447284,
+ "source_revision_id": 1146720881,
+ "source_sha1": "0c74c957735a8cf73c959eff1b48ca122cfee052"
+}

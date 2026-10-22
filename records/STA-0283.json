@@ -1,0 +1,69 @@
+{
+ "title": "Main Street, Stockton, Minn",
+ "place": "Minnesota",
+ "year": "1869",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Main_Street%2C_Stockton%2C_Minn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Main_Street%2C_Stockton%2C_Minn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Main_Street%2C_Stockton%2C_Minn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Main_Street,_Stockton,_Minn,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1432,
+ "id": "STA-0283",
+ "rect": "rect/282.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.22,
+ "rot": 0.01,
+ "range": 0.55,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 2.0935,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Main_Street%2C_Stockton%2C_Minn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Main_Street%2C_Stockton%2C_Minn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 2.0935,
+  "L": [
+   0.454688,
+   0.0,
+   0.036719,
+   0.0,
+   0.414925,
+   0.3
+  ],
+  "R": [
+   0.45601,
+   0.001019,
+   0.506344,
+   -0.001096,
+   0.416467,
+   0.305184
+  ],
+  "g": [
+   1.0,
+   0.976
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.01° of rotation. Depth measured gentle (0.55% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869",
+ "date_start": 1869,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7464745,
+ "source_revision_id": 1125453958,
+ "source_sha1": "6fedc514c37fa7226e790e24bfc61855b9f71fe0"
+}

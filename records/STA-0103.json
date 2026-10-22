@@ -1,0 +1,71 @@
+{
+ "title": "Crawford House?",
+ "place": "Crawford Notch, New Hampshire",
+ "year": "c. 1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "cities",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Crawford_House%3F%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Crawford_House%3F%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Crawford_House%3F%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Crawford_House%3F,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1405,
+ "id": "STA-0103",
+ "rect": "rect/102.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.13,
+ "rot": 0.01,
+ "range": 0.94,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.2344,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Crawford_House%3F%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Crawford_House%3F%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.2344,
+  "L": [
+   0.351042,
+   0.0,
+   0.098177,
+   0.0,
+   0.553753,
+   0.360548
+  ],
+  "R": [
+   0.352995,
+   -0.011299,
+   0.51979,
+   -0.003173,
+   0.557339,
+   0.355713
+  ],
+  "g": [
+   1.0,
+   0.9758
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured gentle (0.94% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858~",
+ "date_start": 1853,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11828853,
+ "source_revision_id": 1154084200,
+ "source_sha1": "0a4711704985aaa82e605ab4cac6c3ea43b47607"
+}

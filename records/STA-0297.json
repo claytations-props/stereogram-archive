@@ -1,0 +1,69 @@
+{
+ "title": "Old Church, Star Island, by Davis Brothers",
+ "place": "Isles of Shoals, New Hampshire",
+ "year": "1867",
+ "sy": 1867,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Old_Church%2C_Star_Island%2C_by_Davis_Brothers.png/1920px-Old_Church%2C_Star_Island%2C_by_Davis_Brothers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/31/Old_Church%2C_Star_Island%2C_by_Davis_Brothers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Old_Church,_Star_Island,_by_Davis_Brothers.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1381,
+ "id": "STA-0297",
+ "rect": "rect/296.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.12,
+ "rot": 0.02,
+ "range": 1.2,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.5292,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Old_Church%2C_Star_Island%2C_by_Davis_Brothers.png/1920px-Old_Church%2C_Star_Island%2C_by_Davis_Brothers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.5292,
+  "L": [
+   0.395833,
+   0.0,
+   0.094531,
+   0.0,
+   0.5129,
+   0.451496
+  ],
+  "R": [
+   0.402674,
+   -0.009443,
+   0.52132,
+   -0.00179,
+   0.513564,
+   0.449546
+  ],
+  "g": [
+   0.9282,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.02° of rotation. Depth measured gentle (1.2% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Davis Brothers",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1867",
+ "date_start": 1867,
+ "date_end": 1867,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11830642,
+ "source_revision_id": 265857697,
+ "source_sha1": "0e9e70b18c279986a437a14d6d2095c95bcd8bbf"
+}

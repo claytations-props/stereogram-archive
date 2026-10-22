@@ -1,0 +1,69 @@
+{
+ "title": "Model of the Mayflower, by William S. Robbins & Co.",
+ "place": "Plymouth, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Model_of_the_Mayflower%2C_by_William_S._Robbins_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Model_of_the_Mayflower%2C_by_William_S._Robbins_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Model_of_the_Mayflower,_by_William_S._Robbins_%26_Co..jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 389,
+ "id": "STA-0486",
+ "rect": "rect/485.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.24,
+ "rot": 0.09,
+ "range": 4.12,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.7581,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Model_of_the_Mayflower%2C_by_William_S._Robbins_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.7581,
+  "L": [
+   0.309211,
+   0.0,
+   0.1125,
+   0.0,
+   0.796915,
+   0.098972
+  ],
+  "R": [
+   0.309225,
+   0.000478,
+   0.527484,
+   -0.00201,
+   0.794012,
+   0.109384
+  ],
+  "g": [
+   1.0,
+   0.9927
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.09° of rotation. Depth measured deep (4.12% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "William S. Robbins & Co.",
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7446887,
+ "source_revision_id": 296762491,
+ "source_sha1": "cc60025d11585c00da520186626e282b305fd47b"
+}

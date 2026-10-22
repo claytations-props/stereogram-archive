@@ -1,0 +1,69 @@
+{
+ "title": "View of a church in the woods",
+ "place": "Minnesota",
+ "year": "1869",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/View_of_a_church_in_the_woods%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_a_church_in_the_woods%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/c8/View_of_a_church_in_the_woods%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_church_in_the_woods,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1593,
+ "id": "STA-0276",
+ "rect": "rect/275.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.02,
+ "range": 1.28,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9487,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/View_of_a_church_in_the_woods%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_a_church_in_the_woods%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9487,
+  "L": [
+   0.404167,
+   0.0,
+   0.076302,
+   0.0,
+   0.732319,
+   0.052372
+  ],
+  "R": [
+   0.404285,
+   0.000146,
+   0.506536,
+   0.002506,
+   0.734163,
+   0.046407
+  ],
+  "g": [
+   0.9531,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured gentle (1.28% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869",
+ "date_start": 1869,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7464819,
+ "source_revision_id": 1110029733,
+ "source_sha1": "4fd47dede6949015e75e1f32b118e64cf85ff465"
+}

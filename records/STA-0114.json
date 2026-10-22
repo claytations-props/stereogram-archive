@@ -1,0 +1,69 @@
+{
+ "title": "Denver, Colorado, U.S.A",
+ "place": "Denver, Colorado",
+ "year": "c. 1897",
+ "sy": 1897,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Denver%2C_Colorado%2C_U.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Denver%2C_Colorado%2C_U.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Denver%2C_Colorado%2C_U.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Denver,_Colorado,_U.S.A,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1417,
+ "id": "STA-0114",
+ "rect": "rect/113.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.08,
+ "rot": 0.0,
+ "range": 0.41,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0172,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Denver%2C_Colorado%2C_U.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Denver%2C_Colorado%2C_U.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0172,
+  "L": [
+   0.4,
+   0.0,
+   0.086719,
+   0.0,
+   0.759557,
+   0.18159
+  ],
+  "R": [
+   0.398689,
+   -0.000854,
+   0.513183,
+   -0.000337,
+   0.75789,
+   0.195582
+  ],
+  "g": [
+   1.0,
+   0.9089
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (0.41% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1897~",
+ "date_start": 1892,
+ "date_end": 1902,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10091897,
+ "source_revision_id": 1201206859,
+ "source_sha1": "a49ec4eeef2a4f3dfb76b81be04cff22fe240dfd"
+}

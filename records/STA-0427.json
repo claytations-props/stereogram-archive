@@ -1,0 +1,69 @@
+{
+ "title": "Murray meeting house, by Cook & Friend",
+ "place": "Gloucester, Massachusetts",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Murray_meeting_house%2C_by_Cook_%26_Friend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Murray_meeting_house%2C_by_Cook_%26_Friend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Murray_meeting_house,_by_Cook_%26_Friend.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 388,
+ "id": "STA-0427",
+ "rect": "rect/426.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.28,
+ "rot": 0.01,
+ "range": 1.54,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.7341,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Murray_meeting_house%2C_by_Cook_%26_Friend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.7341,
+  "L": [
+   0.394737,
+   0.0,
+   0.088816,
+   0.0,
+   0.445876,
+   0.496134
+  ],
+  "R": [
+   0.39518,
+   0.003737,
+   0.503205,
+   -0.013411,
+   0.445719,
+   0.509665
+  ],
+  "g": [
+   0.9857,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.28% vertical error and 0.01° of rotation. Depth measured moderate (1.54% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Cook & Friend",
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442259,
+ "source_revision_id": 977677702,
+ "source_sha1": "224a5bed84209f48f244ab6e92095842a95787b3"
+}

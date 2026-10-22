@@ -1,0 +1,69 @@
+{
+ "title": "The Damascus Gate, Jerusalem LOC matpc.04876",
+ "place": "Jerusalem",
+ "year": "1898–1934",
+ "sy": 1915,
+ "era": "late",
+ "cats": [
+  "world"
+ ],
+ "blurb": "Title: The Damascus Gate, Jerusalem Abstract/medium: G. Eric and Edith Matson Photograph Collection Physical description: 1 negative :",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/The_Damascus_Gate%2C_Jerusalem_LOC_matpc.04876.jpg/1920px-The_Damascus_Gate%2C_Jerusalem_LOC_matpc.04876.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/55/The_Damascus_Gate%2C_Jerusalem_LOC_matpc.04876.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_Damascus_Gate,_Jerusalem_LOC_matpc.04876.jpg",
+ "license": "Public domain",
+ "w": 5385,
+ "h": 3196,
+ "id": "STA-0016",
+ "rect": "rect/15.jpg",
+ "coll": "Library of Congress",
+ "vert": 0.04,
+ "rot": 0.0,
+ "range": 0.61,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9239,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/The_Damascus_Gate%2C_Jerusalem_LOC_matpc.04876.jpg/1920px-The_Damascus_Gate%2C_Jerusalem_LOC_matpc.04876.jpg",
+  "ar": 0.9239,
+  "L": [
+   0.429686,
+   2e-06,
+   0.065104,
+   -3e-06,
+   0.783336,
+   0.1
+  ],
+  "R": [
+   0.426407,
+   -0.014649,
+   0.527552,
+   -0.003895,
+   0.776626,
+   0.122809
+  ],
+  "g": [
+   1.0,
+   0.8493
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.04% vertical error and 0.0° of rotation. Depth measured gentle (0.61% of frame width); hung in the VR Parlor at full size.",
+ "repository": "Library of Congress",
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "world"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1898/1934",
+ "date_start": 1898,
+ "date_end": 1934,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 66801053,
+ "source_revision_id": 1265167694,
+ "source_sha1": "d5bee9489472da9856690f9c28d535a662f39c15"
+}

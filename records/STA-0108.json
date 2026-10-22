@@ -1,0 +1,71 @@
+{
+ "title": "\"Catskill Mountain House,\" Catskill Mountains, N.Y",
+ "place": "Catskill, New York",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "cities",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/%22Catskill_Mountain_House%2C%22_Catskill_Mountains%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-%22Catskill_Mountain_House%2C%22_Catskill_Mountains%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/38/%22Catskill_Mountain_House%2C%22_Catskill_Mountains%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:%22Catskill_Mountain_House,%22_Catskill_Mountains,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2535,
+ "h": 1247,
+ "id": "STA-0108",
+ "rect": "rect/107.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.02,
+ "range": 1.4,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9832,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/%22Catskill_Mountain_House%2C%22_Catskill_Mountains%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-%22Catskill_Mountain_House%2C%22_Catskill_Mountains%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9832,
+  "L": [
+   0.213542,
+   0.0,
+   0.222656,
+   0.0,
+   0.441737,
+   0.243114
+  ],
+  "R": [
+   0.215378,
+   -0.001446,
+   0.635954,
+   -0.001343,
+   0.443645,
+   0.24713
+  ],
+  "g": [
+   1.0,
+   0.988
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.02° of rotation. Depth measured gentle (1.4% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10067279,
+ "source_revision_id": 971615501,
+ "source_sha1": "68c17ddc3bdd45e16905d5a2e308377d9f95c9b1"
+}

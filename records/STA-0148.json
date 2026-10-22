@@ -1,0 +1,69 @@
+{
+ "title": "Swiss thatched cottage",
+ "place": "Prospect Park, Brooklyn, New York",
+ "year": "c. 1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Swiss_thatched_cottage%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Swiss_thatched_cottage%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/80/Swiss_thatched_cottage%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Swiss_thatched_cottage,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2619,
+ "h": 1315,
+ "id": "STA-0148",
+ "rect": "rect/147.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.12,
+ "rot": 0.0,
+ "range": 0.4,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.4673,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Swiss_thatched_cottage%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Swiss_thatched_cottage%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.4673,
+  "L": [
+   0.408854,
+   0.0,
+   0.077344,
+   0.0,
+   0.554979,
+   0.135373
+  ],
+  "R": [
+   0.406619,
+   -0.002149,
+   0.514921,
+   0.000444,
+   0.552502,
+   0.134399
+  ],
+  "g": [
+   1.0,
+   0.9815
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (0.4% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870~",
+ "date_start": 1865,
+ "date_end": 1875,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11828878,
+ "source_revision_id": 295748580,
+ "source_sha1": "d2c4ce894b9e27bdc25cf6da1499129859c38547"
+}

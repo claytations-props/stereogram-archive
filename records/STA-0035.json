@@ -1,0 +1,69 @@
+{
+ "title": "Broadway and Trinity Church, New York, by Kilburn Brothers",
+ "place": "New York City",
+ "year": "Undated",
+ "sy": 1885,
+ "era": "undated",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Broadway_and_Trinity_Church%2C_New_York%2C_by_Kilburn_Brothers.jpg/1920px-Broadway_and_Trinity_Church%2C_New_York%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Broadway_and_Trinity_Church%2C_New_York%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Broadway_and_Trinity_Church,_New_York,_by_Kilburn_Brothers.jpg",
+ "license": "Public domain",
+ "w": 2598,
+ "h": 1308,
+ "id": "STA-0035",
+ "rect": "rect/34.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.0,
+ "range": 0.28,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9483,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Broadway_and_Trinity_Church%2C_New_York%2C_by_Kilburn_Brothers.jpg/1920px-Broadway_and_Trinity_Church%2C_New_York%2C_by_Kilburn_Brothers.jpg",
+  "ar": 0.9483,
+  "L": [
+   0.409385,
+   -6e-06,
+   0.081606,
+   -4.7e-05,
+   0.857061,
+   0.110032
+  ],
+  "R": [
+   0.412128,
+   -0.003891,
+   0.511431,
+   0.006919,
+   0.857096,
+   0.107816
+  ],
+  "g": [
+   0.9827,
+   0.999
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (0.28% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": "Kilburn Brothers",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11838034,
+ "source_revision_id": 1098964927,
+ "source_sha1": "c2faba56aa3fa42ba9173ff75fcee71e7b68d4a5"
+}

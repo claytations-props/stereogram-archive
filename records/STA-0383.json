@@ -1,0 +1,69 @@
+{
+ "title": "State Street, north from Madison, by P. B. Greene",
+ "place": "Chicago, Illinois",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/State_Street%2C_north_from_Madison%2C_by_P._B._Greene.jpg/1920px-State_Street%2C_north_from_Madison%2C_by_P._B._Greene.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/e3/State_Street%2C_north_from_Madison%2C_by_P._B._Greene.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:State_Street,_north_from_Madison,_by_P._B._Greene.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1424,
+ "id": "STA-0383",
+ "rect": "rect/382.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.12,
+ "rot": 0.0,
+ "range": 0.64,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.1368,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/State_Street%2C_north_from_Madison%2C_by_P._B._Greene.jpg/1920px-State_Street%2C_north_from_Madison%2C_by_P._B._Greene.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.1368,
+  "L": [
+   0.389583,
+   0.0,
+   0.103906,
+   0.0,
+   0.658659,
+   0.266767
+  ],
+  "R": [
+   0.386705,
+   -0.006136,
+   0.51212,
+   0.008824,
+   0.65529,
+   0.275127
+  ],
+  "g": [
+   1.0,
+   0.963
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (0.64% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "P. B. Greene",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7289137,
+ "source_revision_id": 1155043536,
+ "source_sha1": "934d7bad5258e50cb4e1ed3a6b5d8220f3d61780"
+}

@@ -1,0 +1,71 @@
+{
+ "title": "The Genius of America",
+ "place": "Washington, D.C.",
+ "year": "1859–1905",
+ "sy": 1882,
+ "era": "mid",
+ "cats": [
+  "cities",
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_Genius_of_America%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_Genius_of_America%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_Genius_of_America,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 384,
+ "id": "STA-0011",
+ "rect": "rect/10.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.33,
+ "rot": 0.16,
+ "range": 1.25,
+ "f": 0.46,
+ "depth": "Gentle",
+ "va": 0.9454,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_Genius_of_America%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "ar": 0.9454,
+  "L": [
+   0.364479,
+   1.8e-05,
+   0.114449,
+   -0.000145,
+   0.763161,
+   0.117184
+  ],
+  "R": [
+   0.364181,
+   0.003268,
+   0.511319,
+   -0.007753,
+   0.764929,
+   0.123445
+  ],
+  "g": [
+   1.0,
+   0.9916
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.33% vertical error and 0.16° of rotation. Depth measured gentle (1.25% of frame width); hung in the VR Parlor at 46% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities",
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859/1905",
+ "date_start": 1859,
+ "date_end": 1905,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7246999,
+ "source_revision_id": 904924047,
+ "source_sha1": "afa03968bd889edf0f0f45d15d1be2db3f91512d"
+}

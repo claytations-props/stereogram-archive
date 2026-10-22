@@ -1,0 +1,69 @@
+{
+ "title": "State Street, south from Madison, the shopping street of Chicago",
+ "place": "Chicago, Illinois",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/State_Street%2C_south_from_Madison%2C_the_shopping_street_of_Chicago%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-State_Street%2C_south_from_Madison%2C_the_shopping_street_of_Chicago%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/State_Street%2C_south_from_Madison%2C_the_shopping_street_of_Chicago%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:State_Street,_south_from_Madison,_the_shopping_street_of_Chicago,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1381,
+ "id": "STA-0391",
+ "rect": "rect/390.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.03,
+ "range": 0.5,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8849,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/State_Street%2C_south_from_Madison%2C_the_shopping_street_of_Chicago%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-State_Street%2C_south_from_Madison%2C_the_shopping_street_of_Chicago%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8849,
+  "L": [
+   0.400521,
+   0.0,
+   0.086719,
+   0.0,
+   0.896801,
+   0.051084
+  ],
+  "R": [
+   0.401257,
+   -0.003549,
+   0.517903,
+   0.001676,
+   0.898203,
+   0.04632
+  ],
+  "g": [
+   1.0,
+   0.9732
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.03° of rotation. Depth measured gentle (0.5% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7289200,
+ "source_revision_id": 1233938738,
+ "source_sha1": "a5143bddcd3f164f08f950721d4878040d1bc783"
+}

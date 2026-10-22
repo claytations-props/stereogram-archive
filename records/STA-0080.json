@@ -1,0 +1,69 @@
+{
+ "title": "Dwellings, Richmond, Virginia",
+ "place": "Richmond, Virginia",
+ "year": "c. 1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Dwellings%2C_Richmond%2C_Virginia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Dwellings%2C_Richmond%2C_Virginia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/39/Dwellings%2C_Richmond%2C_Virginia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Dwellings,_Richmond,_Virginia,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1370,
+ "id": "STA-0080",
+ "rect": "rect/79.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.12,
+ "rot": 0.0,
+ "range": 0.82,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9385,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Dwellings%2C_Richmond%2C_Virginia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Dwellings%2C_Richmond%2C_Virginia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9385,
+  "L": [
+   0.389583,
+   0.0,
+   0.097135,
+   0.0,
+   0.829344,
+   0.116025
+  ],
+  "R": [
+   0.38471,
+   -0.000169,
+   0.507688,
+   0.000802,
+   0.825093,
+   0.119625
+  ],
+  "g": [
+   0.9813,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (0.82% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863~",
+ "date_start": 1858,
+ "date_end": 1868,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10236031,
+ "source_revision_id": 1216225515,
+ "source_sha1": "b1d0ffa4e89885f056f5ac79385c149a5a80c3f9"
+}

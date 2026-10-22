@@ -1,0 +1,69 @@
+{
+ "title": "Winter Street, by G.M. Whipple & A. A. Smith",
+ "place": "Salem, Massachusetts",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Winter_Street%2C_by_G.M._Whipple_%26_A._A._Smith.png/1920px-Winter_Street%2C_by_G.M._Whipple_%26_A._A._Smith.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/07/Winter_Street%2C_by_G.M._Whipple_%26_A._A._Smith.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Winter_Street,_by_G.M._Whipple_%26_A._A._Smith.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1594,
+ "id": "STA-0463",
+ "rect": "rect/462.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.09,
+ "rot": 0.01,
+ "range": 1.8,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.6877,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Winter_Street%2C_by_G.M._Whipple_%26_A._A._Smith.png/1920px-Winter_Street%2C_by_G.M._Whipple_%26_A._A._Smith.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.6877,
+  "L": [
+   0.357812,
+   0.0,
+   0.133594,
+   0.0,
+   0.89356,
+   0.050537
+  ],
+  "R": [
+   0.356148,
+   -0.008373,
+   0.512765,
+   0.002436,
+   0.892926,
+   0.061523
+  ],
+  "g": [
+   0.9659,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured moderate (1.8% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "G.M. Whipple & A. A. Smith",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7447530,
+ "source_revision_id": 296763437,
+ "source_sha1": "c39eb266e324e6821f6cf5c9b0f20b4ce7831e2d"
+}

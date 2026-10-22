@@ -1,0 +1,69 @@
+{
+ "title": "Pilgrim Hall, by C. H. Rogers 6",
+ "place": "Plymouth, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/4/40/Pilgrim_Hall%2C_by_C._H._Rogers_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/40/Pilgrim_Hall%2C_by_C._H._Rogers_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Pilgrim_Hall,_by_C._H._Rogers_6.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 440,
+ "id": "STA-0494",
+ "rect": "rect/493.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.29,
+ "rot": 0.02,
+ "range": 0.95,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0686,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/4/40/Pilgrim_Hall%2C_by_C._H._Rogers_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.0686,
+  "L": [
+   0.430263,
+   0.0,
+   0.050658,
+   0.0,
+   0.695455,
+   0.176136
+  ],
+  "R": [
+   0.423783,
+   0.012516,
+   0.503457,
+   -0.023328,
+   0.685291,
+   0.199513
+  ],
+  "g": [
+   0.9557,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.29% vertical error and 0.02° of rotation. Depth measured gentle (0.95% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "C. H. Rogers",
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7446952,
+ "source_revision_id": 709511208,
+ "source_sha1": "923e366133b4e0c701f64289c22ae4441d3cece2"
+}

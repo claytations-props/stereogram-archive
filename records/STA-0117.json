@@ -1,0 +1,69 @@
+{
+ "title": "Panorama of Denver, Colorado, from Robert N. Dennis collection of stereoscopic views 2",
+ "place": "Denver, Colorado",
+ "year": "c. 1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Panorama_of_Denver%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Panorama_of_Denver%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Panorama_of_Denver%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_Denver,_Colorado,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1406,
+ "id": "STA-0117",
+ "rect": "rect/116.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.14,
+ "rot": 0.07,
+ "range": 0.53,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.1344,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Panorama_of_Denver%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Panorama_of_Denver%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.1344,
+  "L": [
+   0.338542,
+   0.0,
+   0.122656,
+   0.0,
+   0.581136,
+   0.374746
+  ],
+  "R": [
+   0.339522,
+   0.000588,
+   0.505782,
+   -0.002598,
+   0.583498,
+   0.380241
+  ],
+  "g": [
+   0.9681,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.07° of rotation. Depth measured gentle (0.53% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865~",
+ "date_start": 1860,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10091831,
+ "source_revision_id": 1160957514,
+ "source_sha1": "2836858e53f8b1102f144a94fdb5303ef54d784c"
+}

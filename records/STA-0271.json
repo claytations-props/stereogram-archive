@@ -1,0 +1,69 @@
+{
+ "title": "Street view, looking north, Moorhead, by F. A. Taylor",
+ "place": "Minnesota",
+ "year": "1869",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Street_view%2C_looking_north%2C_Moorhead%2C_by_F._A._Taylor.jpg/1920px-Street_view%2C_looking_north%2C_Moorhead%2C_by_F._A._Taylor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Street_view%2C_looking_north%2C_Moorhead%2C_by_F._A._Taylor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Street_view,_looking_north,_Moorhead,_by_F._A._Taylor.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1430,
+ "id": "STA-0271",
+ "rect": "rect/270.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.24,
+ "rot": 0.01,
+ "range": 0.74,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 2.8315,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Street_view%2C_looking_north%2C_Moorhead%2C_by_F._A._Taylor.jpg/1920px-Street_view%2C_looking_north%2C_Moorhead%2C_by_F._A._Taylor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 2.8315,
+  "L": [
+   0.402604,
+   0.0,
+   0.083594,
+   0.0,
+   0.272183,
+   0.405284
+  ],
+  "R": [
+   0.404434,
+   -0.001577,
+   0.506674,
+   -0.003925,
+   0.273783,
+   0.402244
+  ],
+  "g": [
+   1.0,
+   0.971
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.01° of rotation. Depth measured gentle (0.74% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "F. A. Taylor",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869",
+ "date_start": 1869,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7464707,
+ "source_revision_id": 973084276,
+ "source_sha1": "34f3a90b6958bdcf7493b2eba07b96f56ed5c586"
+}

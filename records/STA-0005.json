@@ -1,0 +1,69 @@
+{
+ "title": "Three Brothers, Yosemite",
+ "place": "Yosemite, California",
+ "year": "c. 1870–1885",
+ "sy": 1878,
+ "era": "mid",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Three_Brothers%2C_Yosemite%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Three_Brothers%2C_Yosemite%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Three_Brothers%2C_Yosemite%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Three_Brothers,_Yosemite,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1443,
+ "id": "STA-0005",
+ "rect": "rect/04.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.13,
+ "rot": 0.01,
+ "range": 0.43,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9539,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Three_Brothers%2C_Yosemite%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Three_Brothers%2C_Yosemite%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "ar": 0.9539,
+  "L": [
+   0.355728,
+   -1e-06,
+   0.125001,
+   -5e-06,
+   0.70751,
+   0.126483
+  ],
+  "R": [
+   0.352596,
+   0.00623,
+   0.510293,
+   -0.014413,
+   0.707031,
+   0.141477
+  ],
+  "g": [
+   0.9999,
+   0.9032
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured gentle (0.43% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870~/1885~",
+ "date_start": 1865,
+ "date_end": 1890,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7211891,
+ "source_revision_id": 1027309682,
+ "source_sha1": "07bdbb6a6bd4ee3733163fea4a8388c1b73fdc3b"
+}

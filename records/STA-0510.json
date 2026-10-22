@@ -1,0 +1,69 @@
+{
+ "title": "View of a church, by Locke & Robbins",
+ "place": "Plymouth, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/1/16/View_of_a_church%2C_by_Locke_%26_Robbins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/16/View_of_a_church%2C_by_Locke_%26_Robbins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_church,_by_Locke_%26_Robbins.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 384,
+ "id": "STA-0510",
+ "rect": "rect/509.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.24,
+ "rot": 0.03,
+ "range": 0.62,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9379,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/1/16/View_of_a_church%2C_by_Locke_%26_Robbins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.9379,
+  "L": [
+   0.397368,
+   0.0,
+   0.091447,
+   0.0,
+   0.838542,
+   0.10026
+  ],
+  "R": [
+   0.396358,
+   -0.002127,
+   0.530698,
+   0.004127,
+   0.845182,
+   0.053504
+  ],
+  "g": [
+   1.0,
+   0.9472
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.03° of rotation. Depth measured gentle (0.62% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Locke & Robbins",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7446784,
+ "source_revision_id": 1141263453,
+ "source_sha1": "90315e0ae745a7f8931450a6c796750b3b16c83c"
+}

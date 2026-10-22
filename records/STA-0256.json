@@ -1,0 +1,69 @@
+{
+ "title": "Public school building, Faribault, Minn",
+ "place": "Minnesota",
+ "year": "1869",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Public_school_building%2C_Faribault%2C_Minn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Public_school_building%2C_Faribault%2C_Minn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/17/Public_school_building%2C_Faribault%2C_Minn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Public_school_building,_Faribault,_Minn,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1407,
+ "id": "STA-0256",
+ "rect": "rect/255.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.02,
+ "range": 0.83,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.1411,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Public_school_building%2C_Faribault%2C_Minn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Public_school_building%2C_Faribault%2C_Minn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.1411,
+  "L": [
+   0.395833,
+   0.0,
+   0.073698,
+   0.0,
+   0.674772,
+   0.268997
+  ],
+  "R": [
+   0.397818,
+   -0.012266,
+   0.525935,
+   0.012807,
+   0.682307,
+   0.260073
+  ],
+  "g": [
+   0.9959,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured gentle (0.83% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869",
+ "date_start": 1869,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7464627,
+ "source_revision_id": 296814072,
+ "source_sha1": "6d23f0e3918d10f1f23814258c2534ea52200d40"
+}

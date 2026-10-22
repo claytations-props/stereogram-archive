@@ -1,0 +1,71 @@
+{
+ "title": "Crawford House, from the Notch, by Weller, F. G. (Franklin G.),, 1833-1877",
+ "place": "Crawford Notch, New Hampshire",
+ "year": "c. 1875",
+ "sy": 1875,
+ "era": "mid",
+ "cats": [
+  "cities",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Crawford_House%2C_from_the_Notch%2C_by_Weller%2C_F._G._%28Franklin_G.%29%2C%2C_1833-1877.jpg/1920px-Crawford_House%2C_from_the_Notch%2C_by_Weller%2C_F._G._%28Franklin_G.%29%2C%2C_1833-1877.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Crawford_House%2C_from_the_Notch%2C_by_Weller%2C_F._G._%28Franklin_G.%29%2C%2C_1833-1877.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Crawford_House,_from_the_Notch,_by_Weller,_F._G._(Franklin_G.),,_1833-1877.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1405,
+ "id": "STA-0104",
+ "rect": "rect/103.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.11,
+ "range": 1.21,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9348,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Crawford_House%2C_from_the_Notch%2C_by_Weller%2C_F._G._%28Franklin_G.%29%2C%2C_1833-1877.jpg/1920px-Crawford_House%2C_from_the_Notch%2C_by_Weller%2C_F._G._%28Franklin_G.%29%2C%2C_1833-1877.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9348,
+  "L": [
+   0.410417,
+   0.0,
+   0.070052,
+   0.0,
+   0.85497,
+   0.068458
+  ],
+  "R": [
+   0.409458,
+   0.004914,
+   0.505749,
+   -0.01027,
+   0.854902,
+   0.077823
+  ],
+  "g": [
+   1.0,
+   0.9379
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.11° of rotation. Depth measured gentle (1.21% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": "Weller, F. G. (Franklin G.)",
+ "creator_dates": "1833-1877",
+ "facets": [
+  "cities",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1875~",
+ "date_start": 1870,
+ "date_end": 1880,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11828300,
+ "source_revision_id": 1154083368,
+ "source_sha1": "52c2de496821fb3e4d71551c7dc4d15c747bafc1"
+}

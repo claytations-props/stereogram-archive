@@ -1,0 +1,69 @@
+{
+ "title": "Falls of Bridal Veil, Yosemite, Cal",
+ "place": "Yosemite, California",
+ "year": "c. 1900",
+ "sy": 1900,
+ "era": "late",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Falls_of_Bridal_Veil%2C_Yosemite%2C_Cal%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Falls_of_Bridal_Veil%2C_Yosemite%2C_Cal%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/91/Falls_of_Bridal_Veil%2C_Yosemite%2C_Cal%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Falls_of_Bridal_Veil,_Yosemite,_Cal,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1418,
+ "id": "STA-0044",
+ "rect": "rect/43.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.35,
+ "rot": 0.07,
+ "range": 0.44,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.519,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Falls_of_Bridal_Veil%2C_Yosemite%2C_Cal%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Falls_of_Bridal_Veil%2C_Yosemite%2C_Cal%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.519,
+  "L": [
+   0.332292,
+   0.0,
+   0.139323,
+   0.0,
+   0.422111,
+   0.216583
+  ],
+  "R": [
+   0.333084,
+   2.4e-05,
+   0.546645,
+   -0.004394,
+   0.422739,
+   0.234248
+  ],
+  "g": [
+   0.9214,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.35% vertical error and 0.07° of rotation. Depth measured gentle (0.44% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1900~",
+ "date_start": 1895,
+ "date_end": 1905,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7210664,
+ "source_revision_id": 1241707062,
+ "source_sha1": "22c6aa6275952d8cc294a6c447a395e0fb34cf43"
+}

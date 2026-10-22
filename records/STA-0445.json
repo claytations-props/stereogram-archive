@@ -1,0 +1,69 @@
+{
+ "title": "Gloucester harbor, by John S. E. Rogers",
+ "place": "Gloucester, Massachusetts",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/1/10/Gloucester_harbor%2C_by_John_S._E._Rogers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/10/Gloucester_harbor%2C_by_John_S._E._Rogers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Gloucester_harbor,_by_John_S._E._Rogers.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 384,
+ "id": "STA-0445",
+ "rect": "rect/444.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.35,
+ "rot": 0.0,
+ "range": 0.61,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.8,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/1/10/Gloucester_harbor%2C_by_John_S._E._Rogers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.8,
+  "L": [
+   0.390789,
+   0.0,
+   0.096711,
+   0.0,
+   0.429688,
+   0.496094
+  ],
+  "R": [
+   0.389523,
+   -0.007176,
+   0.51067,
+   0.0232,
+   0.429048,
+   0.500577
+  ],
+  "g": [
+   1.0,
+   0.9568
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.35% vertical error and 0.0° of rotation. Depth measured gentle (0.61% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "John S. E. Rogers",
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442225,
+ "source_revision_id": 1274752719,
+ "source_sha1": "b03bddf91ab4b17938716f890381c1d95c151a51"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "View of a picnic scene, by Towle, S. (Simon)",
+ "place": "Lowell, Massachusetts",
+ "year": "c. 1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/View_of_a_picnic_scene%2C_by_Towle%2C_S._%28Simon%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/7d/View_of_a_picnic_scene%2C_by_Towle%2C_S._%28Simon%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_picnic_scene,_by_Towle,_S._(Simon).jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 440,
+ "id": "STA-0096",
+ "rect": "rect/95.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.17,
+ "rot": 0.12,
+ "range": 2.79,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.7904,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/7/7d/View_of_a_picnic_scene%2C_by_Towle%2C_S._%28Simon%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.7904,
+  "L": [
+   0.411842,
+   0.0,
+   0.046711,
+   0.0,
+   0.9,
+   0.0375
+  ],
+  "R": [
+   0.416621,
+   -0.012762,
+   0.553232,
+   -0.003028,
+   0.892401,
+   0.051228
+  ],
+  "g": [
+   0.9654,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.12° of rotation. Depth measured deep (2.79% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": "Towle, S. (Simon)",
+ "creator_dates": null,
+ "facets": [
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865~",
+ "date_start": 1860,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442940,
+ "source_revision_id": 1183809218,
+ "source_sha1": "1058e1647a9b324e330ec88cb9e3d8eb94cfe6bf"
+}

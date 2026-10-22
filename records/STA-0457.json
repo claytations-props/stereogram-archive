@@ -1,0 +1,69 @@
+{
+ "title": "View of an unidentified half-timbered building with a tower",
+ "place": "Salem, Massachusetts",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/View_of_an_unidentified_half-timbered_building_with_a_tower%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_an_unidentified_half-timbered_building_with_a_tower%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/38/View_of_an_unidentified_half-timbered_building_with_a_tower%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_an_unidentified_half-timbered_building_with_a_tower,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1590,
+ "id": "STA-0457",
+ "rect": "rect/456.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.17,
+ "rot": 0.0,
+ "range": 1.18,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.6355,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/View_of_an_unidentified_half-timbered_building_with_a_tower%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_an_unidentified_half-timbered_building_with_a_tower%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.6355,
+  "L": [
+   0.364583,
+   0.0,
+   0.105469,
+   0.0,
+   0.383857,
+   0.23722
+  ],
+  "R": [
+   0.36624,
+   0.00389,
+   0.512596,
+   -0.008611,
+   0.388593,
+   0.23571
+  ],
+  "g": [
+   1.0,
+   0.9854
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.0° of rotation. Depth measured gentle (1.18% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7447419,
+ "source_revision_id": 977483805,
+ "source_sha1": "fe92473246dc5fc6268561bc200f7e91db520e62"
+}

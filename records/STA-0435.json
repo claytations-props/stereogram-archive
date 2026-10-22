@@ -1,0 +1,69 @@
+{
+ "title": "Middle St., from Washington St., looking east, by E. G. Rollins",
+ "place": "Gloucester, Massachusetts",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/1/13/Middle_St.%2C_from_Washington_St.%2C_looking_east%2C_by_E._G._Rollins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/13/Middle_St.%2C_from_Washington_St.%2C_looking_east%2C_by_E._G._Rollins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Middle_St.,_from_Washington_St.,_looking_east,_by_E._G._Rollins.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 451,
+ "id": "STA-0435",
+ "rect": "rect/434.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.2,
+ "rot": 0.12,
+ "range": 1.72,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.8729,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/1/13/Middle_St.%2C_from_Washington_St.%2C_looking_east%2C_by_E._G._Rollins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8729,
+  "L": [
+   0.343421,
+   0.0,
+   0.138816,
+   0.0,
+   0.662971,
+   0.069845
+  ],
+  "R": [
+   0.345024,
+   -0.001574,
+   0.504831,
+   -0.002838,
+   0.668788,
+   0.076666
+  ],
+  "g": [
+   0.9956,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.2% vertical error and 0.12° of rotation. Depth measured moderate (1.72% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "E. G. Rollins",
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442317,
+ "source_revision_id": 1226026210,
+ "source_sha1": "56399058145b78a0eda807ee5064a5ed961e1792"
+}

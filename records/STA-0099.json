@@ -1,0 +1,71 @@
+{
+ "title": "The Basin, Franconia, New Hampshire",
+ "place": "Franconia, New Hampshire",
+ "year": "c. 1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "water",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/The_Basin%2C_Franconia%2C_New_Hampshire%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Basin%2C_Franconia%2C_New_Hampshire%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/80/The_Basin%2C_Franconia%2C_New_Hampshire%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_Basin,_Franconia,_New_Hampshire,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1419,
+ "id": "STA-0099",
+ "rect": "rect/98.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.01,
+ "range": 4.16,
+ "f": 0.98,
+ "depth": "Deep",
+ "va": 0.7718,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/The_Basin%2C_Franconia%2C_New_Hampshire%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Basin%2C_Franconia%2C_New_Hampshire%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7718,
+  "L": [
+   0.350521,
+   0.0,
+   0.12474,
+   0.0,
+   0.876382,
+   0.061809
+  ],
+  "R": [
+   0.353318,
+   -0.002897,
+   0.520854,
+   -0.001249,
+   0.885009,
+   0.053048
+  ],
+  "g": [
+   0.9436,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured deep (4.16% of frame width); hung in the VR Parlor at 98% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858~",
+ "date_start": 1853,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11827721,
+ "source_revision_id": 1029120950,
+ "source_sha1": "80f6f6fee2d8e78d1187e763b4097662f3d38e0f"
+}

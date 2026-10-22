@@ -1,0 +1,69 @@
+{
+ "title": "Randolph Street Bridge, eastward, Chicago, Ill",
+ "place": "Chicago, Illinois",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Randolph_Street_Bridge%2C_eastward%2C_Chicago%2C_Ill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Randolph_Street_Bridge%2C_eastward%2C_Chicago%2C_Ill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/91/Randolph_Street_Bridge%2C_eastward%2C_Chicago%2C_Ill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Randolph_Street_Bridge,_eastward,_Chicago,_Ill,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1402,
+ "id": "STA-0400",
+ "rect": "rect/399.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.15,
+ "rot": 0.02,
+ "range": 1.38,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.7996,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Randolph_Street_Bridge%2C_eastward%2C_Chicago%2C_Ill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Randolph_Street_Bridge%2C_eastward%2C_Chicago%2C_Ill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7996,
+  "L": [
+   0.371875,
+   0.0,
+   0.098698,
+   0.0,
+   0.90752,
+   0.035061
+  ],
+  "R": [
+   0.37359,
+   -0.000103,
+   0.515012,
+   0.00102,
+   0.910922,
+   0.037618
+  ],
+  "g": [
+   1.0,
+   0.9989
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.02° of rotation. Depth measured gentle (1.38% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7289040,
+ "source_revision_id": 1091386270,
+ "source_sha1": "0bfce0ca56c1339c40905dfe4bd5b4c9521343c2"
+}

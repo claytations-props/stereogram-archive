@@ -1,0 +1,71 @@
+{
+ "title": "Suspension Bridge, and Clifton House, Niagara Falls",
+ "place": "Niagara Falls",
+ "year": "1868–1889",
+ "sy": 1878,
+ "era": "mid",
+ "cats": [
+  "water",
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Suspension_Bridge%2C_and_Clifton_House%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Suspension_Bridge%2C_and_Clifton_House%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/52/Suspension_Bridge%2C_and_Clifton_House%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Suspension_Bridge,_and_Clifton_House,_Niagara_Falls,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2634,
+ "h": 1336,
+ "id": "STA-0003",
+ "rect": "rect/02.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.08,
+ "rot": 0.02,
+ "range": 0.32,
+ "f": 0.96,
+ "depth": "Gentle",
+ "va": 0.9898,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Suspension_Bridge%2C_and_Clifton_House%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Suspension_Bridge%2C_and_Clifton_House%2C_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "ar": 0.9898,
+  "L": [
+   0.402601,
+   1e-06,
+   0.0849,
+   2.6e-05,
+   0.801838,
+   0.065699
+  ],
+  "R": [
+   0.402316,
+   -0.003918,
+   0.508948,
+   0.004553,
+   0.800664,
+   0.06677
+  ],
+  "g": [
+   0.9944,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.02° of rotation. Depth measured gentle (0.32% of frame width); hung in the VR Parlor at 96% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1868/1889",
+ "date_start": 1868,
+ "date_end": 1889,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10037732,
+ "source_revision_id": 1145645931,
+ "source_sha1": "b9a8509b355dc72b4f5db9cc32a1b81498f309d9"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Entrance to Rosehill Cemetery",
+ "place": "Chicago, Illinois",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Entrance_to_Rosehill_Cemetery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Entrance_to_Rosehill_Cemetery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Entrance_to_Rosehill_Cemetery.jpg",
+ "license": "Public domain",
+ "w": 1024,
+ "h": 528,
+ "id": "STA-0388",
+ "rect": "rect/387.jpg",
+ "coll": "Library of Congress",
+ "vert": 0.15,
+ "rot": 0.0,
+ "range": 12.64,
+ "f": 0.3,
+ "depth": "Deep",
+ "va": 0.8844,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Entrance_to_Rosehill_Cemetery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8844,
+  "L": [
+   0.388672,
+   0.0,
+   0.08252,
+   0.0,
+   0.852273,
+   0.088068
+  ],
+  "R": [
+   0.388776,
+   0.002223,
+   0.518477,
+   -0.005119,
+   0.850634,
+   0.093661
+  ],
+  "g": [
+   1.0,
+   0.9201
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured deep (12.64% of frame width); hung in the VR Parlor at 30% size.",
+ "repository": "Library of Congress",
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 72696812,
+ "source_revision_id": 1137910192,
+ "source_sha1": "002f9abe2d677efbb70c32786d11d871d97f5557"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Port Henry, Lake Champlain, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917",
+ "place": "Lake Champlain, New York",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Port_Henry%2C_Lake_Champlain%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg/1920px-Port_Henry%2C_Lake_Champlain%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/84/Port_Henry%2C_Lake_Champlain%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Port_Henry,_Lake_Champlain,_by_Stoddard,_Seneca_Ray,_1844-1917_,_1844-1917.jpg",
+ "license": "Public domain",
+ "w": 2649,
+ "h": 1521,
+ "id": "STA-0407",
+ "rect": "rect/406.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.09,
+ "rot": 0.01,
+ "range": 1.12,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0745,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Port_Henry%2C_Lake_Champlain%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg/1920px-Port_Henry%2C_Lake_Champlain%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0745,
+  "L": [
+   0.383333,
+   0.0,
+   0.095052,
+   0.0,
+   0.621597,
+   0.344374
+  ],
+  "R": [
+   0.382092,
+   -0.021196,
+   0.526304,
+   -5.5e-05,
+   0.620218,
+   0.354373
+  ],
+  "g": [
+   1.0,
+   0.9973
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (1.12% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Stoddard, Seneca Ray",
+ "creator_dates": "1844-1917",
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10065188,
+ "source_revision_id": 954088752,
+ "source_sha1": "6da03ac5835226805db683c1c38e1f53202baffe"
+}

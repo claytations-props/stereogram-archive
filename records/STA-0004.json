@@ -1,0 +1,71 @@
+{
+ "title": "The Upper Yosemite Falls, Yosemite Valley, Calif",
+ "place": "Yosemite Valley, California",
+ "year": "c. 1900–1925",
+ "sy": 1910,
+ "era": "late",
+ "cats": [
+  "water",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Upper_Yosemite_Falls%2C_Yosemite_Valley%2C_Calif%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Upper_Yosemite_Falls%2C_Yosemite_Valley%2C_Calif%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/fb/The_Upper_Yosemite_Falls%2C_Yosemite_Valley%2C_Calif%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_Upper_Yosemite_Falls,_Yosemite_Valley,_Calif,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1433,
+ "id": "STA-0004",
+ "rect": "rect/03.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.19,
+ "rot": 0.16,
+ "range": 0.41,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9821,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Upper_Yosemite_Falls%2C_Yosemite_Valley%2C_Calif%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Upper_Yosemite_Falls%2C_Yosemite_Valley%2C_Calif%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "ar": 0.9821,
+  "L": [
+   0.400001,
+   -1e-06,
+   0.104167,
+   1e-05,
+   0.778107,
+   0.063677
+  ],
+  "R": [
+   0.401602,
+   -0.003341,
+   0.524978,
+   -0.0003,
+   0.78151,
+   0.06663
+  ],
+  "g": [
+   0.9937,
+   0.9999
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.16° of rotation. Depth measured gentle (0.41% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1900~/1925~",
+ "date_start": 1895,
+ "date_end": 1930,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7210666,
+ "source_revision_id": 1219404775,
+ "source_sha1": "996778f37b026ddb5dfa0f341368509bb32dd123"
+}

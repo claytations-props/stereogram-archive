@@ -1,0 +1,69 @@
+{
+ "title": "South Church interior, by Peabody & Tilton",
+ "place": "Salem, Massachusetts",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/South_Church_interior%2C_by_Peabody_%26_Tilton.png/1920px-South_Church_interior%2C_by_Peabody_%26_Tilton.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/df/South_Church_interior%2C_by_Peabody_%26_Tilton.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:South_Church_interior,_by_Peabody_%26_Tilton.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1462,
+ "id": "STA-0464",
+ "rect": "rect/463.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.09,
+ "rot": 0.01,
+ "range": 1.03,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.6765,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/South_Church_interior%2C_by_Peabody_%26_Tilton.png/1920px-South_Church_interior%2C_by_Peabody_%26_Tilton.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.6765,
+  "L": [
+   0.299479,
+   0.0,
+   0.136719,
+   0.0,
+   0.82846,
+   0.072612
+  ],
+  "R": [
+   0.302053,
+   -0.005654,
+   0.552959,
+   -0.001195,
+   0.837318,
+   0.073808
+  ],
+  "g": [
+   1.0,
+   0.9939
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (1.03% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Peabody & Tilton",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7447322,
+ "source_revision_id": 1036423321,
+ "source_sha1": "636cc016b5ebf8897165a3df8091160bae2c846c"
+}

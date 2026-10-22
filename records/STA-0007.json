@@ -1,0 +1,69 @@
+{
+ "title": "Golden Gate, Yellowstone National Park, by International Stereoscopic View Company",
+ "place": "Yellowstone, Wyoming",
+ "year": "c. 1890",
+ "sy": 1890,
+ "era": "mid",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Golden_Gate%2C_Yellowstone_National_Park%2C_by_International_Stereoscopic_View_Company.jpg/1920px-Golden_Gate%2C_Yellowstone_National_Park%2C_by_International_Stereoscopic_View_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Golden_Gate%2C_Yellowstone_National_Park%2C_by_International_Stereoscopic_View_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Golden_Gate,_Yellowstone_National_Park,_by_International_Stereoscopic_View_Company.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1397,
+ "id": "STA-0007",
+ "rect": "rect/06.jpg",
+ "coll": "International Stereoscopic View Co.",
+ "vert": 0.09,
+ "rot": 0.01,
+ "range": 0.36,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8327,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Golden_Gate%2C_Yellowstone_National_Park%2C_by_International_Stereoscopic_View_Company.jpg/1920px-Golden_Gate%2C_Yellowstone_National_Park%2C_by_International_Stereoscopic_View_Company.jpg",
+  "ar": 0.8327,
+  "L": [
+   0.326562,
+   -0.0,
+   0.092187,
+   2.1e-05,
+   0.768323,
+   0.060219
+  ],
+  "R": [
+   0.328079,
+   0.002064,
+   0.535486,
+   0.005459,
+   0.768472,
+   0.041314
+  ],
+  "g": [
+   0.9827,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (0.36% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": "International Stereoscopic View Co.",
+ "creator": "International Stereoscopic View Company",
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1890~",
+ "date_start": 1885,
+ "date_end": 1895,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10244641,
+ "source_revision_id": 1275163510,
+ "source_sha1": "58684de990aab9a94ed4e089fef67e76d53b1c72"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Steam tug \"Vim\" with schooner in tow, by Procter Brothers",
+ "place": "Gloucester, Massachusetts",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Steam_tug_%22Vim%22_with_schooner_in_tow%2C_by_Procter_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Steam_tug_%22Vim%22_with_schooner_in_tow%2C_by_Procter_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Steam_tug_%22Vim%22_with_schooner_in_tow,_by_Procter_Brothers.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 443,
+ "id": "STA-0415",
+ "rect": "rect/414.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.23,
+ "rot": 0.0,
+ "range": 1.27,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Steam_tug_%22Vim%22_with_schooner_in_tow%2C_by_Procter_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.0,
+  "L": [
+   0.386842,
+   0.0,
+   0.098026,
+   0.0,
+   0.663657,
+   0.046275
+  ],
+  "R": [
+   0.387417,
+   -0.00384,
+   0.507593,
+   0.003897,
+   0.668413,
+   0.048423
+  ],
+  "g": [
+   1.0,
+   0.9824
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.23% vertical error and 0.0° of rotation. Depth measured gentle (1.27% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Procter Brothers",
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442295,
+ "source_revision_id": 296758147,
+ "source_sha1": "74f9c595479fdffee8b745c5da4b659d87a6a36f"
+}

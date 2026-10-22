@@ -1,0 +1,69 @@
+{
+ "title": "Esplanade Avenue House Stereo Card Lilienthal",
+ "place": "New Orleans, Louisiana",
+ "year": "1880s",
+ "sy": 1885,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "New Orleans, 19th century stereocard, front and back. \"Private Residence on Esplanade St.\"",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Esplanade_Avenue_House_Stereo_Card_Lilienthal.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Esplanade_Avenue_House_Stereo_Card_Lilienthal.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Esplanade_Avenue_House_Stereo_Card_Lilienthal.jpeg",
+ "license": "Public domain",
+ "w": 800,
+ "h": 798,
+ "id": "STA-0353",
+ "rect": "rect/352.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.15,
+ "rot": 0.0,
+ "range": 1.67,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.7235,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Esplanade_Avenue_House_Stereo_Card_Lilienthal.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.7235,
+  "L": [
+   0.35,
+   0.0,
+   0.133125,
+   0.0,
+   0.484962,
+   0.006892
+  ],
+  "R": [
+   0.341077,
+   -0.008269,
+   0.533876,
+   0.000491,
+   0.476248,
+   0.010914
+  ],
+  "g": [
+   1.0,
+   0.9735
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured moderate (1.67% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "188X",
+ "date_start": 1880,
+ "date_end": 1889,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 16243018,
+ "source_revision_id": 1253810835,
+ "source_sha1": "745e85b476331868aad6a32a5e42761672b4f8d5"
+}

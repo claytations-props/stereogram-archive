@@ -1,0 +1,69 @@
+{
+ "title": "Murray Church, by Cook & Friend",
+ "place": "Gloucester, Massachusetts",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Murray_Church%2C_by_Cook_%26_Friend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/32/Murray_Church%2C_by_Cook_%26_Friend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Murray_Church,_by_Cook_%26_Friend.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 387,
+ "id": "STA-0441",
+ "rect": "rect/440.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.24,
+ "rot": 0.01,
+ "range": 0.87,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.5789,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/3/32/Murray_Church%2C_by_Cook_%26_Friend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.5789,
+  "L": [
+   0.394737,
+   0.0,
+   0.088816,
+   0.0,
+   0.490956,
+   0.463824
+  ],
+  "R": [
+   0.395016,
+   0.000915,
+   0.512487,
+   -0.003696,
+   0.491061,
+   0.465621
+  ],
+  "g": [
+   0.9842,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.01° of rotation. Depth measured gentle (0.87% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Cook & Friend",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442258,
+ "source_revision_id": 866830833,
+ "source_sha1": "ef74a7b9294e64aab8702192b234b6443ba8e554"
+}

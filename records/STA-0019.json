@@ -1,0 +1,69 @@
+{
+ "title": "Martinsburg (Oberlahnstein) - Early Calotype Stereograph View - DP75388",
+ "place": "Oberlahnstein, Germany",
+ "year": "1840s",
+ "sy": 1845,
+ "era": "early",
+ "cats": [
+  "world"
+ ],
+ "blurb": "Martinsburg Castle, Oberlahnstein, Germany. Please note: Image is flopped, view goes from NW to SE.",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Martinsburg_%28Oberlahnstein%29_-_Early_Calotype_Stereograph_View_-_DP75388.jpg/1920px-Martinsburg_%28Oberlahnstein%29_-_Early_Calotype_Stereograph_View_-_DP75388.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/21/Martinsburg_%28Oberlahnstein%29_-_Early_Calotype_Stereograph_View_-_DP75388.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Martinsburg_(Oberlahnstein)_-_Early_Calotype_Stereograph_View_-_DP75388.jpg",
+ "license": "Public domain",
+ "w": 3979,
+ "h": 2021,
+ "id": "STA-0019",
+ "rect": "rect/18.jpg",
+ "coll": "The Metropolitan Museum of Art",
+ "vert": 0.08,
+ "rot": 0.01,
+ "range": 0.92,
+ "f": 0.66,
+ "depth": "Gentle",
+ "va": 0.7795,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Martinsburg_%28Oberlahnstein%29_-_Early_Calotype_Stereograph_View_-_DP75388.jpg/1920px-Martinsburg_%28Oberlahnstein%29_-_Early_Calotype_Stereograph_View_-_DP75388.jpg",
+  "ar": 0.7795,
+  "L": [
+   0.305735,
+   2e-06,
+   0.136454,
+   -2e-06,
+   0.772303,
+   0.113852
+  ],
+  "R": [
+   0.292182,
+   -0.082356,
+   0.599241,
+   -0.004425,
+   0.762507,
+   0.124302
+  ],
+  "g": [
+   1.0,
+   0.9945
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured gentle (0.92% of frame width); hung in the VR Parlor at 66% size.",
+ "repository": "The Metropolitan Museum of Art",
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "world"
+ ],
+ "publisher_series": null,
+ "date_edtf": "184X",
+ "date_start": 1840,
+ "date_end": 1849,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 29977018,
+ "source_revision_id": 1174519348,
+ "source_sha1": "38c9cd920c2cf9af8aa10e63b1592e9a705709c6"
+}

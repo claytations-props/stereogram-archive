@@ -1,0 +1,69 @@
+{
+ "title": "Broadway about 26th street",
+ "place": "New York, New York",
+ "year": "c. 1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Broadway_about_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Broadway_about_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Broadway_about_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Broadway_about_26th_street,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2574,
+ "h": 1302,
+ "id": "STA-0074",
+ "rect": "rect/73.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.03,
+ "range": 1.37,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.7895,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Broadway_about_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Broadway_about_26th_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7895,
+  "L": [
+   0.369271,
+   0.0,
+   0.114844,
+   0.0,
+   0.92482,
+   0.030381
+  ],
+  "R": [
+   0.37177,
+   -0.008945,
+   0.53807,
+   0.009537,
+   0.931636,
+   0.031479
+  ],
+  "g": [
+   0.9461,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.03° of rotation. Depth measured gentle (1.37% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860~",
+ "date_start": 1855,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11837655,
+ "source_revision_id": 1098963871,
+ "source_sha1": "af880105d168b03c59c2044135464019d679b36e"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "JacksonSquareRiverwardsStereoWMChase",
+ "place": "New Orleans, Louisiana",
+ "year": "1860s",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "Jackson Square, New Orleans, stereo card view from upper story of the Cabildo looking towards Decatur Street and the Mississippi River, latter part of the 19th century.",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/9/98/JacksonSquareRiverwardsStereoWMChase.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/98/JacksonSquareRiverwardsStereoWMChase.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:JacksonSquareRiverwardsStereoWMChase.jpeg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 384,
+ "id": "STA-0374",
+ "rect": "rect/373.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.29,
+ "rot": 0.01,
+ "range": 1.31,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9395,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/9/98/JacksonSquareRiverwardsStereoWMChase.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.9395,
+  "L": [
+   0.347368,
+   0.0,
+   0.141447,
+   0.0,
+   0.731771,
+   0.123698
+  ],
+  "R": [
+   0.344214,
+   -0.00077,
+   0.522359,
+   -0.00321,
+   0.727937,
+   0.13544
+  ],
+  "g": [
+   1.0,
+   0.9216
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.29% vertical error and 0.01° of rotation. Depth measured gentle (1.31% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "186X",
+ "date_start": 1860,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 6495004,
+ "source_revision_id": 1240442523,
+ "source_sha1": "33738401ae6bd4100bf2676d0c314cb856a1770e"
+}

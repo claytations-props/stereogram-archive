@@ -1,0 +1,69 @@
+{
+ "title": "View of a rocky beach with a sail boat in the distance",
+ "place": "Salem, Massachusetts",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/View_of_a_rocky_beach_with_a_sail_boat_in_the_distance%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_a_rocky_beach_with_a_sail_boat_in_the_distance%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/e5/View_of_a_rocky_beach_with_a_sail_boat_in_the_distance%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_rocky_beach_with_a_sail_boat_in_the_distance,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1587,
+ "id": "STA-0452",
+ "rect": "rect/451.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.0,
+ "range": 0.61,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.2979,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/View_of_a_rocky_beach_with_a_sail_boat_in_the_distance%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_a_rocky_beach_with_a_sail_boat_in_the_distance%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.2979,
+  "L": [
+   0.38125,
+   0.0,
+   0.099219,
+   0.0,
+   0.506739,
+   0.438904
+  ],
+  "R": [
+   0.383605,
+   -0.002718,
+   0.510145,
+   -0.005873,
+   0.510096,
+   0.440885
+  ],
+  "g": [
+   0.9432,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.0° of rotation. Depth measured gentle (0.61% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7447415,
+ "source_revision_id": 296763327,
+ "source_sha1": "96bb068203b8c75113286792fc8e0437db0e36f1"
+}

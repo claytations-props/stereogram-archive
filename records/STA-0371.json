@@ -1,0 +1,71 @@
+{
+ "title": "Camp Street NOLA Blessing St Pats Stereo",
+ "place": "New Orleans, Louisiana",
+ "year": "1860s",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities",
+  "war"
+ ],
+ "blurb": "New Orleans: Camp Street at Lafayette Square, looking towards St. Patrick's Church, late 19th century. At left is St. Patrick's Hall (since demolished)",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Camp_Street_NOLA_Blessing_St_Pats_Stereo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Camp_Street_NOLA_Blessing_St_Pats_Stereo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Camp_Street_NOLA_Blessing_St_Pats_Stereo.jpg",
+ "license": "Public domain",
+ "w": 600,
+ "h": 335,
+ "id": "STA-0371",
+ "rect": "rect/370.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.21,
+ "rot": 0.05,
+ "range": 2.21,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.6805,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Camp_Street_NOLA_Blessing_St_Pats_Stereo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.6805,
+  "L": [
+   0.355,
+   0.0,
+   0.0925,
+   0.0,
+   0.934328,
+   0.031343
+  ],
+  "R": [
+   0.352083,
+   -0.005002,
+   0.547068,
+   0.002644,
+   0.933883,
+   0.031943
+  ],
+  "g": [
+   0.9169,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.05° of rotation. Depth measured deep (2.21% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities",
+  "war"
+ ],
+ "publisher_series": null,
+ "date_edtf": "186X",
+ "date_start": 1860,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 16335179,
+ "source_revision_id": 1111673249,
+ "source_sha1": "a8a4575a9daf81fd130eb0103d271a584d29a00d"
+}

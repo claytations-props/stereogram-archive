@@ -1,0 +1,69 @@
+{
+ "title": "Eva (Duomo di Milano), by Giorgio Sommer (Getty 1078V7)",
+ "place": "Milan, Italy",
+ "year": "1800s",
+ "sy": 1875,
+ "era": "undated",
+ "cats": [
+  "world"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Eva_%28Duomo_di_Milano%29%2C_by_Giorgio_Sommer_%28Getty_1078V7%29.jpg/1920px-Eva_%28Duomo_di_Milano%29%2C_by_Giorgio_Sommer_%28Getty_1078V7%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/96/Eva_%28Duomo_di_Milano%29%2C_by_Giorgio_Sommer_%28Getty_1078V7%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Eva_(Duomo_di_Milano),_by_Giorgio_Sommer_(Getty_1078V7).jpg",
+ "license": "Public domain",
+ "w": 6523,
+ "h": 3305,
+ "id": "STA-0020",
+ "rect": "rect/19.jpg",
+ "coll": "Getty Open Content",
+ "vert": 0.13,
+ "rot": 0.19,
+ "range": 0.58,
+ "f": 0.77,
+ "depth": "Gentle",
+ "va": 0.9428,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Eva_%28Duomo_di_Milano%29%2C_by_Giorgio_Sommer_%28Getty_1078V7%29.jpg/1920px-Eva_%28Duomo_di_Milano%29%2C_by_Giorgio_Sommer_%28Getty_1078V7%29.jpg",
+  "ar": 0.9428,
+  "L": [
+   0.369275,
+   2e-06,
+   0.153642,
+   -1.4e-05,
+   0.772869,
+   0.093528
+  ],
+  "R": [
+   0.370094,
+   0.005761,
+   0.523988,
+   -0.008616,
+   0.774458,
+   0.107883
+  ],
+  "g": [
+   1.0,
+   0.9266
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.19° of rotation. Depth measured gentle (0.58% of frame width); hung in the VR Parlor at 77% size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Giorgio Sommer (Getty 1078V7)",
+ "creator_dates": null,
+ "facets": [
+  "world"
+ ],
+ "publisher_series": null,
+ "date_edtf": "18XX",
+ "date_start": 1800,
+ "date_end": 1899,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 151901924,
+ "source_revision_id": 1235236382,
+ "source_sha1": "cbef43617ad9985aa76d986e1510c3e45958ad3a"
+}

@@ -1,0 +1,71 @@
+{
+ "title": "Stereograph of Guanajuato (Keystone View Company)",
+ "place": "Guanajuato, Mexico",
+ "year": "1920",
+ "sy": 1920,
+ "era": "late",
+ "cats": [
+  "world",
+  "cities"
+ ],
+ "blurb": "MX91 16167T The world's greatest silver mining city, Guanajuato, Mexico. Stereograph by Keystone View Company, 1920.",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Stereograph_of_Guanajuato_%28Keystone_View_Company%29.jpg/1920px-Stereograph_of_Guanajuato_%28Keystone_View_Company%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Stereograph_of_Guanajuato_%28Keystone_View_Company%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Stereograph_of_Guanajuato_(Keystone_View_Company).jpg",
+ "license": "Public domain",
+ "w": 8001,
+ "h": 4498,
+ "id": "STA-0018",
+ "rect": "rect/17.jpg",
+ "coll": "Keystone View Company",
+ "vert": 0.17,
+ "rot": 0.08,
+ "range": 0.64,
+ "f": 0.47,
+ "depth": "Gentle",
+ "va": 1.0405,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Stereograph_of_Guanajuato_%28Keystone_View_Company%29.jpg/1920px-Stereograph_of_Guanajuato_%28Keystone_View_Company%29.jpg",
+  "ar": 1.0405,
+  "L": [
+   0.428643,
+   -7e-06,
+   0.077607,
+   -7e-06,
+   0.733097,
+   0.078775
+  ],
+  "R": [
+   0.430286,
+   -0.000989,
+   0.526066,
+   0.000632,
+   0.736572,
+   0.079237
+  ],
+  "g": [
+   0.9799,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.08° of rotation. Depth measured gentle (0.64% of frame width); hung in the VR Parlor at 47% size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": "Keystone View Company",
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "world",
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1920",
+ "date_start": 1920,
+ "date_end": 1920,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 149634481,
+ "source_revision_id": 1200641609,
+ "source_sha1": "3bd4fbd21d47c277b6fc74265ee27445345828c7"
+}

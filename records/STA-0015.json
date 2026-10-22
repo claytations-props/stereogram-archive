@@ -1,0 +1,69 @@
+{
+ "title": "Block house - NARA - 527545",
+ "place": "Virginia (attributed)",
+ "year": "c. 1860–1865",
+ "sy": 1862,
+ "era": "early",
+ "cats": [
+  "war"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Block_house_-_NARA_-_527545.jpg/1920px-Block_house_-_NARA_-_527545.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/93/Block_house_-_NARA_-_527545.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Block_house_-_NARA_-_527545.jpg",
+ "license": "Public domain",
+ "w": 3000,
+ "h": 1905,
+ "id": "STA-0015",
+ "rect": "rect/14.jpg",
+ "coll": "National Archives",
+ "vert": 0.06,
+ "rot": 0.01,
+ "range": 0.42,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.7552,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Block_house_-_NARA_-_527545.jpg/1920px-Block_house_-_NARA_-_527545.jpg",
+  "ar": 0.7552,
+  "L": [
+   0.433855,
+   1.7e-05,
+   0.050506,
+   -1e-06,
+   0.90486,
+   0.054126
+  ],
+  "R": [
+   0.434421,
+   0.011164,
+   0.514108,
+   -0.000176,
+   0.903924,
+   0.060524
+  ],
+  "g": [
+   1.0,
+   0.9399
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.01° of rotation. Depth measured gentle (0.42% of frame width); hung in the VR Parlor at full size.",
+ "repository": "National Archives",
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "war"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860~/1865~",
+ "date_start": 1855,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 17081621,
+ "source_revision_id": 1030696550,
+ "source_sha1": "fcc765d1ff978e59139bccd1ef487cc91925d5fc"
+}

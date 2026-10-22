@@ -1,0 +1,69 @@
+{
+ "title": "Bird's-eye view from Shot tower, N.W",
+ "place": "Chicago, Illinois",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Bird%27s-eye_view_from_Shot_tower%2C_N.W%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s-eye_view_from_Shot_tower%2C_N.W%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bird%27s-eye_view_from_Shot_tower%2C_N.W%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Bird%27s-eye_view_from_Shot_tower,_N.W,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1559,
+ "id": "STA-0379",
+ "rect": "rect/378.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 0.4,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0727,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Bird%27s-eye_view_from_Shot_tower%2C_N.W%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s-eye_view_from_Shot_tower%2C_N.W%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0727,
+  "L": [
+   0.353646,
+   0.0,
+   0.11224,
+   0.0,
+   0.578611,
+   0.383455
+  ],
+  "R": [
+   0.355128,
+   -0.000924,
+   0.507038,
+   0.001618,
+   0.579857,
+   0.375429
+  ],
+  "g": [
+   1.0,
+   0.9751
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.4% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7284556,
+ "source_revision_id": 1087155697,
+ "source_sha1": "30c2c2dc126759e82aa936ebc3d58213fd1803f0"
+}

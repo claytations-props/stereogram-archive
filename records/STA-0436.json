@@ -1,0 +1,69 @@
+{
+ "title": "View of the harbor, by E. G. Rollins",
+ "place": "Gloucester, Massachusetts",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/View_of_the_harbor%2C_by_E._G._Rollins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/a8/View_of_the_harbor%2C_by_E._G._Rollins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_the_harbor,_by_E._G._Rollins.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 450,
+ "id": "STA-0436",
+ "rect": "rect/435.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.24,
+ "rot": 0.05,
+ "range": 3.02,
+ "f": 0.93,
+ "depth": "Deep",
+ "va": 1.1477,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/a/a8/View_of_the_harbor%2C_by_E._G._Rollins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.1477,
+  "L": [
+   0.398684,
+   0.0,
+   0.092763,
+   0.0,
+   0.586667,
+   0.352222
+  ],
+  "R": [
+   0.398508,
+   -0.001754,
+   0.505492,
+   0.000225,
+   0.587736,
+   0.358775
+  ],
+  "g": [
+   0.9794,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.05° of rotation. Depth measured deep (3.02% of frame width); hung in the VR Parlor at 93% size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "E. G. Rollins",
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442293,
+ "source_revision_id": 296758145,
+ "source_sha1": "6a2787398556829d572baf363e1d8cc4ab887099"
+}

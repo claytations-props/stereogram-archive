@@ -1,0 +1,69 @@
+{
+ "title": "Upper Cascades, Columbia River, by J. G. Crawford",
+ "place": "Columbia River",
+ "year": "Undated",
+ "sy": 1885,
+ "era": "undated",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Upper_Cascades%2C_Columbia_River%2C_by_J._G._Crawford.jpg/1920px-Upper_Cascades%2C_Columbia_River%2C_by_J._G._Crawford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/69/Upper_Cascades%2C_Columbia_River%2C_by_J._G._Crawford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Upper_Cascades,_Columbia_River,_by_J._G._Crawford.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1449,
+ "id": "STA-0039",
+ "rect": "rect/38.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.02,
+ "range": 0.44,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0391,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Upper_Cascades%2C_Columbia_River%2C_by_J._G._Crawford.jpg/1920px-Upper_Cascades%2C_Columbia_River%2C_by_J._G._Crawford.jpg",
+  "ar": 1.0391,
+  "L": [
+   0.339747,
+   -9e-06,
+   0.15125,
+   3.1e-05,
+   0.617698,
+   0.054423
+  ],
+  "R": [
+   0.337829,
+   0.000218,
+   0.590256,
+   -0.00459,
+   0.612583,
+   0.061042
+  ],
+  "g": [
+   0.9275,
+   0.9993
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.02° of rotation. Depth measured gentle (0.44% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": "J. G. Crawford",
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7476962,
+ "source_revision_id": 710003332,
+ "source_sha1": "40e207b5b54bd3a8144e2c4c05527e89c77d51a7"
+}

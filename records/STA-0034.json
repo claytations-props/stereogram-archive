@@ -1,0 +1,69 @@
+{
+ "title": "El Capitan, 3600 ft. Yosemite, by Watkins, Carleton E., 1829-1916",
+ "place": "Yosemite Valley, California",
+ "year": "1861–1878",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/El_Capitan%2C_3600_ft._Yosemite%2C_by_Watkins%2C_Carleton_E.%2C_1829-1916.jpg/1920px-El_Capitan%2C_3600_ft._Yosemite%2C_by_Watkins%2C_Carleton_E.%2C_1829-1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/9c/El_Capitan%2C_3600_ft._Yosemite%2C_by_Watkins%2C_Carleton_E.%2C_1829-1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:El_Capitan,_3600_ft._Yosemite,_by_Watkins,_Carleton_E.,_1829-1916.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1423,
+ "id": "STA-0034",
+ "rect": "rect/33.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.06,
+ "rot": 0.0,
+ "range": 0.37,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8732,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/El_Capitan%2C_3600_ft._Yosemite%2C_by_Watkins%2C_Carleton_E.%2C_1829-1916.jpg/1920px-El_Capitan%2C_3600_ft._Yosemite%2C_by_Watkins%2C_Carleton_E.%2C_1829-1916.jpg",
+  "ar": 0.8732,
+  "L": [
+   0.407748,
+   -3e-06,
+   0.086186,
+   -3e-06,
+   0.898097,
+   0.050527
+  ],
+  "R": [
+   0.401785,
+   -0.00353,
+   0.527554,
+   0.000941,
+   0.887156,
+   0.056337
+  ],
+  "g": [
+   0.9428,
+   0.998
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.0° of rotation. Depth measured gentle (0.37% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": "Watkins, Carleton E.",
+ "creator_dates": "1829-1916",
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1861/1878",
+ "date_start": 1861,
+ "date_end": 1878,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7220149,
+ "source_revision_id": 1225853835,
+ "source_sha1": "d071508dc1a47d44f9ed0a73f7fd6723074de08e"
+}

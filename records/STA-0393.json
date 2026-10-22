@@ -1,0 +1,69 @@
+{
+ "title": "Drake's block (NYPL b11707446-G90F169 010F)",
+ "place": "Chicago, Illinois",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Drake%27s_block_%28NYPL_b11707446-G90F169_010F%29.tiff/lossy-page1-1920px-Drake%27s_block_%28NYPL_b11707446-G90F169_010F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Drake%27s_block_%28NYPL_b11707446-G90F169_010F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Drake%27s_block_(NYPL_b11707446-G90F169_010F).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 1753,
+ "id": "STA-0393",
+ "rect": "rect/392.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.15,
+ "rot": 0.0,
+ "range": 0.83,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8652,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Drake%27s_block_%28NYPL_b11707446-G90F169_010F%29.tiff/lossy-page1-1920px-Drake%27s_block_%28NYPL_b11707446-G90F169_010F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8652,
+  "L": [
+   0.310937,
+   0.0,
+   0.170052,
+   0.0,
+   0.629562,
+   0.23312
+  ],
+  "R": [
+   0.30903,
+   0.003555,
+   0.505643,
+   -0.003782,
+   0.625859,
+   0.245396
+  ],
+  "g": [
+   0.9827,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured gentle (0.83% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 49235720,
+ "source_revision_id": 1212498289,
+ "source_sha1": "f3ab9edf02674345d14f7ed3be99dd58d4fd11e2"
+}

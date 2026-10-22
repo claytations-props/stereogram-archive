@@ -1,0 +1,69 @@
+{
+ "title": "The streets of Chicago",
+ "place": "Chicago, Illinois",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/The_streets_of_Chicago%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_streets_of_Chicago%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/ad/The_streets_of_Chicago%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_streets_of_Chicago,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1767,
+ "id": "STA-0386",
+ "rect": "rect/385.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.0,
+ "range": 8.89,
+ "f": 0.35,
+ "depth": "Deep",
+ "va": 1.0395,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/The_streets_of_Chicago%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_streets_of_Chicago%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0395,
+  "L": [
+   0.383333,
+   0.0,
+   0.09401,
+   0.0,
+   0.570968,
+   0.289919
+  ],
+  "R": [
+   0.382467,
+   -0.001441,
+   0.511334,
+   0.002044,
+   0.570345,
+   0.284319
+  ],
+  "g": [
+   0.9709,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured deep (8.89% of frame width); hung in the VR Parlor at 35% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7289380,
+ "source_revision_id": 784170279,
+ "source_sha1": "a545a4a4feb45883ce0ffb1380f49c8c0722a172"
+}

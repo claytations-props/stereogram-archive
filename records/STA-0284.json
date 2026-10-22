@@ -1,0 +1,69 @@
+{
+ "title": "Old Church on Star Island",
+ "place": "Isles of Shoals, New Hampshire",
+ "year": "c. 1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Old_Church_on_Star_Island%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Old_Church_on_Star_Island%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Old_Church_on_Star_Island%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Old_Church_on_Star_Island,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1575,
+ "id": "STA-0284",
+ "rect": "rect/283.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.16,
+ "rot": 0.0,
+ "range": 0.52,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.2474,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Old_Church_on_Star_Island%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Old_Church_on_Star_Island%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.2474,
+  "L": [
+   0.433333,
+   0.0,
+   0.057031,
+   0.0,
+   0.60362,
+   0.326244
+  ],
+  "R": [
+   0.429964,
+   -0.005569,
+   0.518685,
+   0.009207,
+   0.599503,
+   0.336628
+  ],
+  "g": [
+   0.9866,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.0° of rotation. Depth measured gentle (0.52% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870~",
+ "date_start": 1865,
+ "date_end": 1875,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11837683,
+ "source_revision_id": 265858508,
+ "source_sha1": "8e577efc89c44c10163a2ddc78c525633719021b"
+}

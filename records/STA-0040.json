@@ -1,0 +1,69 @@
+{
+ "title": "Sacramento Street, from Powell Street, San Francisco, by Thomas Houseworth & Co.",
+ "place": "San Francisco, California",
+ "year": "1866–1875",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Sacramento_Street%2C_from_Powell_Street%2C_San_Francisco%2C_by_Thomas_Houseworth_%26_Co..jpg/1920px-Sacramento_Street%2C_from_Powell_Street%2C_San_Francisco%2C_by_Thomas_Houseworth_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Sacramento_Street%2C_from_Powell_Street%2C_San_Francisco%2C_by_Thomas_Houseworth_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Sacramento_Street,_from_Powell_Street,_San_Francisco,_by_Thomas_Houseworth_%26_Co..jpg",
+ "license": "Public domain",
+ "w": 2688,
+ "h": 1374,
+ "id": "STA-0040",
+ "rect": "rect/39.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 0.34,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.7066,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Sacramento_Street%2C_from_Powell_Street%2C_San_Francisco%2C_by_Thomas_Houseworth_%26_Co..jpg/1920px-Sacramento_Street%2C_from_Powell_Street%2C_San_Francisco%2C_by_Thomas_Houseworth_%26_Co..jpg",
+  "ar": 1.7066,
+  "L": [
+   0.402508,
+   1.1e-05,
+   0.088883,
+   -2e-06,
+   0.461429,
+   0.414768
+  ],
+  "R": [
+   0.400148,
+   -0.001478,
+   0.508399,
+   0.000479,
+   0.459383,
+   0.424411
+  ],
+  "g": [
+   0.9692,
+   0.9993
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.34% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": "Thomas Houseworth & Co.",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1866/1875",
+ "date_start": 1866,
+ "date_end": 1875,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7222691,
+ "source_revision_id": 1174280361,
+ "source_sha1": "8ff77e721c41d9d42bf21ba63b9920608c1403e5"
+}
