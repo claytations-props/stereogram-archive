@@ -56,18 +56,42 @@ The merge tool, in order:
    provisional STA-style IDs are treated as candidates and remapped).
 2. Assigns the next STA numbers exactly once, in manifest order.
 3. Copies pair files into `rect/` as `(accession − 1).jpg`, sets each
-   entry's `rect` field, and appends the entries to `data.json`.
+   entry's `rect` field, and builds a v2 record per item (see below),
+   written to `records/STA-####.json` — the catalog of record.
 4. Copies staged masters into the preservation store
    (`~/workspace/stereogram-archive-preservation/masters/STA-####/`) and
    updates `fixity-manifest.json`, hashing the new rectified files too.
-5. Runs `tools/validate_catalog.py` (catalog + fixity). **On any
-   validation failure the merge rolls back: `data.json` and `rect/` are
-   left untouched and the tool exits nonzero with the reason.**
-6. Stages `data.json` and the new `rect/` files and creates ONE atomic
-   commit: `Add N stereographs (<batch>) — STA-####–STA-####`.
+5. Regenerates `data.json` and `catalog-v2.json` from ALL records with
+   `tools/build_catalog.py`, then runs `tools/validate_catalog.py --v2`
+   (v2 records, generated-output sync, v1 checks, fixity). **On any
+   validation failure the merge rolls back: catalog outputs, records,
+   `rect/`, and the preservation store are restored and the tool exits
+   nonzero with the reason.**
+6. Stages `data.json`, `catalog-v2.json`, the new `records/` files, and
+   the new `rect/` files and creates ONE atomic commit:
+   `Add N stereographs (<batch>) — STA-####–STA-####`.
 7. With `--push`: pushes, then polls the live `data.json` (cache-busted)
    until it matches the local catalog byte for byte, allowing for
    GitHub Pages rebuild lag.
+
+How a v2 record is built at merge (all mechanical — `tools/v2fields.py`):
+
+- The date guard runs first: a candidate year whose only title evidence
+  is the creator's life dates — a life range, a "b. YYYY" birth year, a
+  "d. YYYY" death year, or a birth-uncertainty form ("1818 or 1824-after
+  1901") — becomes Undated (year `Undated`, sy 1900, era `undated`),
+  unless the title states the view's own date. A real view date stated
+  in the title wins.
+- `repository` / `collection_name` / `publisher` come from the `coll`
+  split table in the Data Dictionary; `creator` / `creator_dates` are
+  extracted from the title's "by …" attribution; `date_edtf` /
+  `date_start` / `date_end` follow the dictionary's EDTF conventions;
+  `rights_uri` / `rights_basis` follow its rights rules;
+  `publisher_series` stays null unless the batch's source evidence
+  states one.
+- Source pins: page ID and SHA-1 come from the staged master record.
+  `source_revision_id` is null at merge time; a later pin pass fills it
+  from the Commons API by page ID (as the Phase 1 migration did).
 
 ## 5. Staging retention
 

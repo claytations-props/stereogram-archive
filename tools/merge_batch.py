@@ -9,16 +9,21 @@ Supports both Phase 0 manifests (entries carry batch-local CAND-## ids)
 and legacy manifests (entries carry provisional STA-style ids from the
 old engine — those are treated as candidates and remapped).
 
-Flow: load manifest passed candidates -> assign next STA ids -> copy
-pair files into rect/ as (accession-1).jpg and set each entry's rect
-field -> append entries to data.json -> copy staged masters into the
-preservation store and update its fixity manifest -> run
-tools/validate_catalog.py -> on success create ONE atomic git commit
-("Add N stereographs (<batch>) — STA-####–STA-####") -> with --push,
-push and verify the live data.json matches local byte for byte.
+Flow: load manifest passed candidates -> assign next STA ids -> apply
+the generalized date guard and derive each entry's v2 record
+(tools/v2fields.py) -> copy pair files into rect/ as (accession-1).jpg
+and set each entry's rect field -> write the new records/STA-####.json
+files and regenerate data.json + catalog-v2.json from ALL records
+(tools/build_catalog.py) -> copy staged masters into the preservation
+store and update its fixity manifest -> run
+tools/validate_catalog.py --v2 --fixity -> on success create ONE
+atomic git commit ("Add N stereographs (<batch>) — STA-####–STA-####")
+-> with --push, push and verify the live data.json matches local byte
+for byte.
 
-On any validation failure, data.json, rect/, and the fixity manifest
-are rolled back to their pre-merge state and the tool exits nonzero.
+On any validation failure, data.json, catalog-v2.json, records/,
+rect/, and the fixity manifest are rolled back to their pre-merge
+state and the tool exits nonzero.
 
 Usage:
   python tools/merge_batch.py --staging staging/<batch> [--push] [--dry-run]
@@ -29,6 +34,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 BASE = Path(__file__).parent.parent
+sys.path.insert(0, str(Path(__file__).parent))
+import v2fields
+import build_catalog
 DEFAULT_PRESERVATION = Path.home() / 'workspace' / 'stereogram-archive-preservation'
 LIVE_DATA = 'https://claytations-props.github.io/stereogram-archive/data.json'
 
@@ -79,11 +87,17 @@ def main():
 
     catalog_path = BASE / 'data.json'
     catalog = json.loads(catalog_path.read_text())
+    records_dir = BASE / 'records'
+    if not records_dir.is_dir():
+        print('ERROR: records/ not found — the catalog of record is the '
+              'per-item v2 records (Phase 1); refusing to merge into a '
+              'v1-only tree.')
+        return 1
     existing_ids = {it['id'] for it in catalog}
     existing_sources = {it['source'] for it in catalog}
     next_acc = max(int(it['id'].split('-')[1]) for it in catalog) + 1
 
-    plan = []  # (new_entry, pair_source Path, staged_master dict or None)
+    plan = []  # (new_entry, pair_source Path, staged_master dict or None, v2 record)
     for i, p in enumerate(passed):
         acc = next_acc + i
         sta = f'STA-{acc:04d}'
@@ -98,7 +112,19 @@ def main():
         if not pair_src.exists():
             print(f'ERROR: {old_id}: staged pair file missing: {pair_src}')
             return 1
-        plan.append((entry, pair_src, p.get('master')))
+        for line in v2fields.apply_date_guard(entry):
+            print(f'plan: {sta}: {line}')
+        master = p.get('master') or {}
+        pins = {'license_url': None,
+                'source_page_id': master.get('commons_page_id'),
+                'source_revision_id': master.get('commons_revision_id'),
+                'source_sha1': master.get('commons_sha1') or None}
+        try:
+            record = v2fields.build_v2_record(entry, pins=pins)
+        except Exception as e:
+            print(f'ERROR: {old_id}: v2 record derivation failed: {e}')
+            return 1
+        plan.append((entry, pair_src, p.get('master'), record))
         print(f'plan: {old_id} -> {sta}  ({entry["title"][:60]})')
 
     first_sta, last_sta = plan[0][0]['id'], plan[-1][0]['id']
@@ -109,23 +135,43 @@ def main():
 
     # ---- apply, with rollback state ----
     data_backup = catalog_path.read_bytes()
+    v2_path = BASE / 'catalog-v2.json'
+    v2_backup = v2_path.read_bytes() if v2_path.exists() else None
     fixity_path = pres / 'fixity-manifest.json'
     fixity_backup = fixity_path.read_bytes() if fixity_path.exists() else None
     bagit_path = pres / 'manifest-sha256.txt'
     bagit_backup = bagit_path.read_bytes() if bagit_path.exists() else None
-    added_rects, added_masters = [], []
+    added_rects, added_masters, added_records = [], [], []
+
+    def rollback_outputs():
+        catalog_path.write_bytes(data_backup)
+        if v2_backup is not None:
+            v2_path.write_bytes(v2_backup)
+        elif v2_path.exists():
+            v2_path.unlink()
+        for p in added_records:
+            p.unlink(missing_ok=True)
+
     try:
-        for entry, pair_src, _ in plan:
+        for entry, pair_src, _, _rec in plan:
             dest = BASE / entry['rect']
             shutil.copyfile(pair_src, dest)
             added_rects.append(dest)
-        new_catalog = catalog + [e for e, _, _ in plan]
-        catalog_path.write_text(dump_catalog(new_catalog))
+        # v2: write the new per-item records, then regenerate the
+        # catalog outputs from ALL records (records/ is the source of
+        # truth; data.json is a generated output since Phase 1).
+        for entry, _, _, record in plan:
+            rp = records_dir / f"{entry['id']}.json"
+            rp.write_text(json.dumps(record, indent=1, ensure_ascii=False) + '\n')
+            added_records.append(rp)
+        all_records = build_catalog.load_records(records_dir)
+        catalog_path.write_text(build_catalog.render_data_json(all_records))
+        v2_path.write_text(build_catalog.render_catalog_v2(all_records))
 
         # preservation: copy staged masters, update fixity + BagIt manifest
         fixity = json.loads(fixity_backup) if fixity_backup else {}
         now = datetime.now(timezone.utc).isoformat()
-        for entry, _, master in plan:
+        for entry, _, master, _rec in plan:
             sta = entry['id']
             rect_file = BASE / entry['rect']
             rec = {'rectified': {'file': entry['rect'],
@@ -164,8 +210,8 @@ def main():
                 lines.append(f"{mrec['sha256']}  {mrec['file']}")
         bagit_path.write_text('\n'.join(lines) + ('\n' if lines else ''))
 
-        # ---- validate (catalog + fixity) ----
-        cmd = [sys.executable, str(BASE / 'tools' / 'validate_catalog.py')]
+        # ---- validate (catalog + v2 records in sync + fixity) ----
+        cmd = [sys.executable, str(BASE / 'tools' / 'validate_catalog.py'), '--v2']
         if fixity_path.exists():
             cmd += ['--fixity', '--preservation', str(pres)]
         r = subprocess.run(cmd, capture_output=True, text=True)
@@ -173,7 +219,7 @@ def main():
         if r.returncode != 0:
             raise RuntimeError('validation failed; rolling back. ' + r.stderr.strip())
     except Exception as e:
-        catalog_path.write_bytes(data_backup)
+        rollback_outputs()
         for p in added_rects:
             p.unlink(missing_ok=True)
         for p in added_masters:
@@ -191,13 +237,15 @@ def main():
 
     # ---- one atomic commit ----
     label = staging.name
-    add_paths = ['data.json'] + [e['rect'] for e, _, _ in plan]
+    add_paths = (['data.json', 'catalog-v2.json']
+                 + [f"records/{e['id']}.json" for e, _, _, _ in plan]
+                 + [e['rect'] for e, _, _, _ in plan])
     git('add', '--', *add_paths)
     msg = f'Add {len(plan)} stereographs ({label}) — {first_sta}–{last_sta}'
     r = git('commit', '-m', msg, check=False)
     if r.returncode != 0:
         git('reset', '-q', check=False)
-        catalog_path.write_bytes(data_backup)
+        rollback_outputs()
         for p in added_rects:
             p.unlink(missing_ok=True)
         print(f'ERROR: commit failed, rolled back: {r.stderr.strip()}')

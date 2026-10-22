@@ -7,14 +7,21 @@ schema/catalog.schema.json so the schema file stays the single source of
 truth; the structural checks are implemented here directly.
 
 Usage:
-  python3 tools/validate_catalog.py [--catalog data.json] [--fixity]
+  python3 tools/validate_catalog.py [--catalog data.json] [--fixity] [--v2]
                                     [--preservation ~/workspace/stereogram-archive-preservation]
+
+With --v2 (Phase 1), the per-item records in records/ are also
+validated against schema/catalog-v2.schema.json, and the generated
+outputs (data.json and catalog-v2.json) are checked to be in sync
+with the records: regenerate in memory and compare bytes.
 
 Exit status: 0 when there are no errors (warnings are reported but do
 not fail), 1 on any error.
 """
 import argparse, hashlib, json, re, sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
 
 BASE = Path(__file__).parent.parent
 DEFAULT_PRESERVATION = Path.home() / 'workspace' / 'stereogram-archive-preservation'
@@ -70,6 +77,11 @@ def main():
     ap.add_argument('--schema', default=str(BASE / 'schema' / 'catalog.schema.json'))
     ap.add_argument('--fixity', action='store_true',
                     help='also verify fixity-manifest coverage and rectified hashes')
+    ap.add_argument('--v2', action='store_true',
+                    help='also validate records/ against the v2 schema and '
+                         'check the generated outputs are in sync')
+    ap.add_argument('--records', default=str(BASE / 'records'),
+                    help='records directory (for --v2)')
     ap.add_argument('--preservation', default=str(DEFAULT_PRESERVATION),
                     help='preservation store root (for --fixity)')
     args = ap.parse_args()
@@ -198,6 +210,32 @@ def main():
     if warn_empty_blurb:
         warnings.append(f'{warn_empty_blurb} item(s) with an empty blurb '
                           f'(source record has no description)')
+
+    if args.v2:
+        try:
+            import build_catalog
+            records = build_catalog.load_records(args.records)
+        except Exception as e:
+            errors.append(f'v2: records failed validation: {e}')
+            records = None
+        if records is not None:
+            if len(records) != len(catalog):
+                errors.append(f'v2: {len(records)} records but '
+                              f'{len(catalog)} catalog items')
+            if [r['id'] for r in records] != [it.get('id') for it in catalog]:
+                errors.append('v2: record ids do not match catalog ids in order')
+            data_bytes = Path(args.catalog).read_bytes()
+            if build_catalog.render_data_json(records).encode() != data_bytes:
+                errors.append('v2: data.json is out of sync with records/ '
+                              '(run tools/build_catalog.py)')
+            v2_path = BASE / 'catalog-v2.json'
+            if not v2_path.exists():
+                errors.append('v2: catalog-v2.json is missing '
+                              '(run tools/build_catalog.py)')
+            elif build_catalog.render_catalog_v2(records).encode() \
+                    != v2_path.read_bytes():
+                errors.append('v2: catalog-v2.json is out of sync with '
+                              'records/ (run tools/build_catalog.py)')
 
     if args.fixity:
         pres = Path(args.preservation)

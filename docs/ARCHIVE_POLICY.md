@@ -63,6 +63,9 @@ policy should be deliberate, dated, and recorded here.
   repositories (Library of Congress), named collections (Robert N.
   Dennis Collection), publishers (Keystone View Company), and an access
   program (Getty Open Content) in one field. Phase 1 splits these roles.
+  **Resolved 2026-10-21 (Phase 1):** the roles now live in `repository`,
+  `collection_name`, and `publisher`; `coll` is retained verbatim as the
+  recorded provenance label. See §5 and `docs/migration-phase1.md`.
 
 ## 4. Source fidelity rule
 
@@ -73,3 +76,17 @@ verbatim or mechanically cleaned only. If a source record has no
 description, the item shows none. The measured condition report (`cond`)
 is the one exception: it is data about our own rectified copy, produced
 by the rectification pipeline's measurements.
+
+## 5. Catalog of record (Phase 1 amendment, 2026-10-21)
+
+- The catalog of record is the set of per-item records in `records/`
+  (`records/STA-####.json`), conforming to `schema/catalog-v2.schema.json`.
+- `data.json` and `catalog-v2.json` are generated access outputs of
+  `tools/build_catalog.py`. They are never edited by hand; any change to
+  catalog content is made in the records and regenerated.
+  `tools/validate_catalog.py --v2` verifies the outputs are in sync.
+- v2 field derivations follow the same fidelity rule as §4: values are
+  carried verbatim, extracted mechanically from the source's own
+  statements, or assigned by rule as controlled identifiers. The
+  derivation rules are documented in `docs/DATA_DICTIONARY.md`; the
+  migration itself is logged in `docs/migration-phase1.md`.
