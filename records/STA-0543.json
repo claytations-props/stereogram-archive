@@ -1,0 +1,69 @@
+{
+ "title": "Flock of sheep. Anson, Me (NYPL b11707243-G89F277 004F)",
+ "place": "Maine",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Flock_of_sheep._Anson%2C_Me_%28NYPL_b11707243-G89F277_004F%29.tiff/lossy-page1-1920px-Flock_of_sheep._Anson%2C_Me_%28NYPL_b11707243-G89F277_004F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Flock_of_sheep._Anson%2C_Me_%28NYPL_b11707243-G89F277_004F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Flock_of_sheep._Anson,_Me_(NYPL_b11707243-G89F277_004F).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 1719,
+ "id": "STA-0543",
+ "rect": "rect/542.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.12,
+ "rot": 0.01,
+ "range": 0.94,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.1488,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Flock_of_sheep._Anson%2C_Me_%28NYPL_b11707243-G89F277_004F%29.tiff/lossy-page1-1920px-Flock_of_sheep._Anson%2C_Me_%28NYPL_b11707243-G89F277_004F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.1488,
+  "L": [
+   0.345833,
+   0.0,
+   0.125781,
+   0.0,
+   0.538175,
+   0.396182
+  ],
+  "R": [
+   0.342445,
+   0.010099,
+   0.539323,
+   -0.000329,
+   0.535296,
+   0.411339
+  ],
+  "g": [
+   1.0,
+   0.9145
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured gentle (0.94% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 49438248,
+ "source_revision_id": null,
+ "source_sha1": "8b8d3e3e837cdc55c414422935ffe1131db3e2ba"
+}

@@ -1,0 +1,71 @@
+{
+ "title": "Murray's Hotel, Forks. Kennebec Valley (NYPL b11707243-G89F277 037F)",
+ "place": "Maine",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "mountains",
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Murray%27s_Hotel%2C_Forks._Kennebec_Valley_%28NYPL_b11707243-G89F277_037F%29.tiff/lossy-page1-1920px-Murray%27s_Hotel%2C_Forks._Kennebec_Valley_%28NYPL_b11707243-G89F277_037F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/67/Murray%27s_Hotel%2C_Forks._Kennebec_Valley_%28NYPL_b11707243-G89F277_037F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Murray%27s_Hotel,_Forks._Kennebec_Valley_(NYPL_b11707243-G89F277_037F).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 1733,
+ "id": "STA-0547",
+ "rect": "rect/546.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.0,
+ "range": 3.17,
+ "f": 0.85,
+ "depth": "Deep",
+ "va": 1.2028,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Murray%27s_Hotel%2C_Forks._Kennebec_Valley_%28NYPL_b11707243-G89F277_037F%29.tiff/lossy-page1-1920px-Murray%27s_Hotel%2C_Forks._Kennebec_Valley_%28NYPL_b11707243-G89F277_037F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.2028,
+  "L": [
+   0.318229,
+   0.0,
+   0.147656,
+   0.0,
+   0.469067,
+   0.484303
+  ],
+  "R": [
+   0.317223,
+   -0.011732,
+   0.528092,
+   -0.001794,
+   0.469909,
+   0.486494
+  ],
+  "g": [
+   0.9993,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured deep (3.17% of frame width); hung in the VR Parlor at 85% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains",
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 49438883,
+ "source_revision_id": null,
+ "source_sha1": "7de3106cb61b9df4c5ed7c40964ab9594d2ac726"
+}
