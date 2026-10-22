@@ -46,6 +46,9 @@ COLL_SPLIT = {
     'Library of Congress': {
         'repository': 'Library of Congress',
         'collection_name': None, 'publisher': None},
+    'Rijksmuseum': {
+        'repository': 'Rijksmuseum',
+        'collection_name': None, 'publisher': None},
     'The Metropolitan Museum of Art': {
         'repository': 'The Metropolitan Museum of Art',
         'collection_name': None, 'publisher': None},
