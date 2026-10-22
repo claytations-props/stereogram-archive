@@ -1,0 +1,69 @@
+{
+ "title": "Depot, Mt. Washington, by St. Joachim",
+ "place": "Mount Washington, New Hampshire",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Depot%2C_Mt._Washington%2C_by_St._Joachim.png/1920px-Depot%2C_Mt._Washington%2C_by_St._Joachim.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Depot%2C_Mt._Washington%2C_by_St._Joachim.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Depot,_Mt._Washington,_by_St._Joachim.png",
+ "license": "Public domain",
+ "w": 2733,
+ "h": 1398,
+ "id": "STA-0804",
+ "rect": "rect/803.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.23,
+ "rot": 0.01,
+ "range": 0.74,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 2.0888,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Depot%2C_Mt._Washington%2C_by_St._Joachim.png/1920px-Depot%2C_Mt._Washington%2C_by_St._Joachim.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 2.0888,
+  "L": [
+   0.367708,
+   0.0,
+   0.125781,
+   0.0,
+   0.344196,
+   0.419043
+  ],
+  "R": [
+   0.3647,
+   0.001028,
+   0.541467,
+   -6.9e-05,
+   0.343636,
+   0.42328
+  ],
+  "g": [
+   0.9639,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.23% vertical error and 0.01° of rotation. Depth measured gentle (0.74% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "St. Joachim",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12007239,
+ "source_revision_id": null,
+ "source_sha1": "f8761012b824e1b2cdd8d2de945229a245e9354a"
+}

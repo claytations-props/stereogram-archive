@@ -1,0 +1,71 @@
+{
+ "title": "Depot and Summit House, Mount Washington",
+ "place": "Mount Washington, New Hampshire",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "mountains",
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Depot_and_Summit_House%2C_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Depot_and_Summit_House%2C_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Depot_and_Summit_House%2C_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Depot_and_Summit_House,_Mount_Washington,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1410,
+ "id": "STA-0809",
+ "rect": "rect/808.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.28,
+ "rot": 0.01,
+ "range": 0.53,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 4.7358,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Depot_and_Summit_House%2C_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Depot_and_Summit_House%2C_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 4.7358,
+  "L": [
+   0.392188,
+   0.0,
+   0.101302,
+   0.0,
+   0.160768,
+   0.425177
+  ],
+  "R": [
+   0.3882,
+   -0.005698,
+   0.510881,
+   0.023693,
+   0.159842,
+   0.393209
+  ],
+  "g": [
+   1.0,
+   0.9772
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.28% vertical error and 0.01° of rotation. Depth measured gentle (0.53% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains",
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12008020,
+ "source_revision_id": null,
+ "source_sha1": "dadc5d3d15f936e2e1eda5e9036b1cc71317d33e"
+}

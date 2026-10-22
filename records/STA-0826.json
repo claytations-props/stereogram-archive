@@ -1,0 +1,69 @@
+{
+ "title": "Jacob's Ladder, Mount Washington",
+ "place": "Mount Washington, New Hampshire",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Jacob%27s_Ladder%2C_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Jacob%27s_Ladder%2C_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/19/Jacob%27s_Ladder%2C_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Jacob%27s_Ladder,_Mount_Washington,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1432,
+ "id": "STA-0826",
+ "rect": "rect/825.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.12,
+ "rot": 0.01,
+ "range": 0.52,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8851,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Jacob%27s_Ladder%2C_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Jacob%27s_Ladder%2C_Mount_Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8851,
+  "L": [
+   0.365104,
+   0.0,
+   0.12526,
+   0.0,
+   0.78806,
+   0.148756
+  ],
+  "R": [
+   0.363443,
+   0.001555,
+   0.547987,
+   -0.004324,
+   0.79039,
+   0.140081
+  ],
+  "g": [
+   1.0,
+   0.9968
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured gentle (0.52% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12007862,
+ "source_revision_id": null,
+ "source_sha1": "d7ec81eda0b1f024c83d278928f8edebabf5fcfd"
+}

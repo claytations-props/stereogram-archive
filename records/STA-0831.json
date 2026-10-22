@@ -1,0 +1,69 @@
+{
+ "title": "Engine up Mt. Washington",
+ "place": "Mount Washington, New Hampshire",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Engine_up_Mt._Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Engine_up_Mt._Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/78/Engine_up_Mt._Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Engine_up_Mt._Washington,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1435,
+ "id": "STA-0831",
+ "rect": "rect/830.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.03,
+ "range": 0.94,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9422,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Engine_up_Mt._Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Engine_up_Mt._Washington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9422,
+  "L": [
+   0.390625,
+   0.0,
+   0.098177,
+   0.0,
+   0.790467,
+   0.068024
+  ],
+  "R": [
+   0.389602,
+   -0.004538,
+   0.509337,
+   0.008041,
+   0.791381,
+   0.060074
+  ],
+  "g": [
+   0.9908,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.03° of rotation. Depth measured gentle (0.94% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12007593,
+ "source_revision_id": null,
+ "source_sha1": "1402277233c7b532ef521fbd14ac17a8e697e93a"
+}
