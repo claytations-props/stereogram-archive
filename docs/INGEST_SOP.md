@@ -61,13 +61,16 @@ The merge tool, in order:
 4. Copies staged masters into the preservation store
    (`~/workspace/stereogram-archive-preservation/masters/STA-####/`) and
    updates `fixity-manifest.json`, hashing the new rectified files too.
-5. Regenerates `data.json` and `catalog-v2.json` from ALL records with
-   `tools/build_catalog.py`, then runs `tools/validate_catalog.py --v2`
+5. Regenerates `data.json`, `catalog-v2.json`, and the Phase 2A
+   derived outputs (`browse.json`, `vr.json`, `search/` chunks) from
+   ALL records with `tools/build_catalog.py`, then runs
+   `tools/validate_catalog.py --v2`
    (v2 records, generated-output sync, v1 checks, fixity). **On any
    validation failure the merge rolls back: catalog outputs, records,
    `rect/`, and the preservation store are restored and the tool exits
    nonzero with the reason.**
-6. Stages `data.json`, `catalog-v2.json`, the new `records/` files, and
+6. Stages `data.json`, `catalog-v2.json`, `browse.json`, `vr.json`,
+   `search/`, the new `records/` files, and
    the new `rect/` files and creates ONE atomic commit:
    `Add N stereographs (<batch>) — STA-####–STA-####`.
 7. With `--push`: pushes, then polls the live `data.json` (cache-busted)

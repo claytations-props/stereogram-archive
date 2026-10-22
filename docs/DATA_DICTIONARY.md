@@ -2,13 +2,15 @@
 
 The catalog of record is the set of per-item records in `records/`
 (`records/STA-####.json`), one file per item, conforming to
-`schema/catalog-v2.schema.json` (draft 2020-12). `data.json` and
-`catalog-v2.json` are **generated access outputs**, produced by
+`schema/catalog-v2.schema.json` (draft 2020-12). The files the site
+serves — `data.json`, `catalog-v2.json`, `browse.json`, `vr.json`,
+and `search/` — are **generated access outputs**, produced by
 `tools/build_catalog.py` from the records; never edit them by hand.
-`data.json` keeps the v1 item shape plus the appended v2 fields, so the
-site pages consume it unchanged in structure. `tools/validate_catalog.py
---v2` validates the records and checks both generated outputs are in
-sync. The Phase 1 migration is logged in `docs/migration-phase1.md`.
+`data.json` keeps the v1 item shape plus the appended v2 fields.
+`tools/validate_catalog.py --v2` validates the records and checks
+every generated output is in sync. The Phase 1 migration is logged
+in `docs/migration-phase1.md`; the generated outputs are documented
+under "Generated outputs (Phase 2A)" below.
 
 Every descriptive value is carried verbatim from the source record,
 extracted mechanically from the source's own statements, or assigned by
@@ -110,6 +112,41 @@ rule as a controlled identifier. No descriptive text is authored
 | `va` | number | Aspect ratio (width/height) of one eye of the rectified pair; equal to `px.ar` | Rectification pipeline |
 | `px` | object | Live-warp parameters for rendering the pair from the source scan in the VR Parlor: `s` = scan URL, `L`/`R` = per-eye affine maps in scan UV space, `g` = per-eye brightness gains, `ar` = eye aspect ratio | Rectification pipeline |
 | `cond` | string | Measured condition report sentence generated from the pipeline's own numbers (`vert`, `rot`, `range`, `f`). The single permitted piece of archive-generated text, because it describes our copy, not the image | Generated from measurements |
+
+## Generated outputs (Phase 2A)
+
+All of these are written by `tools/build_catalog.py` (and regenerated
+by `tools/merge_batch.py` at merge) from `records/`; all are
+deterministic, and `tools/validate_catalog.py --v2` verifies each one
+is in sync with the records.
+
+| File | Consumer | Contents |
+|---|---|---|
+| `data.json` | fallback for both pages; external consumers | The full catalog: the v1 item shape plus the appended v2 fields (`repository`, `collection_name`, `publisher`, `creator`, `date_edtf`, `date_start`, `date_end`, `rights_uri`) |
+| `catalog-v2.json` | tooling, future consumers | The full v2 records as a single array |
+| `browse.json` | `index.html` initial load | One slim entry per item with exactly the fields the gallery reads at browse time: `title`, `place`, `year`, `sy`, `era`, `cats`, `blurb`, `img`, `id`, `coll`, `depth`. Opening a record fetches the full per-item record from `records/STA-####.json` on demand (cached for the session) |
+| `vr.json` | `vr.html` initial load | One slim entry per item with exactly the fields the Parlor reads: `title`, `place`, `year`, `cats`, `img`, `full`, `id`, `rect`, `coll`, `va`, `f`, `cond`, `creator`, `collection_name` |
+| `search/index.json` + `search/chunk-####.json` | `index.html` search | A manifest (`count`, `blockSize` 250, per-chunk `file`/`from`/`to`/`items`) and chunk files in accession blocks of 250, each a JSON array of `[id, haystack]` pairs. The haystack is the full-text search string — title, place, year, blurb, id, collection, and the series labels, lowercased — identical to the string the gallery built from `data.json` before Phase 2A. The page loads chunks in the background after first paint; until they land, search matches on the browse fields and the toolbar says so |
+
+### Thumbnail ladders and the asset base (Phase 2A generation, Part B hosting)
+
+`tools/build_thumbs.py` generates JPEG derivative ladders at widths
+250 / 500 / 1000 (quality 82, never upscaled) from the preservation
+masters (the original scans) and from the rectified pairs, into the
+sibling directory `~/workspace/stereogram-archive-assets/` —
+`thumbs/<STA>/w<width>.jpg` and `thumbs-rect/<STA>/w<width>.jpg`.
+The ladders are **not in the repo and not wired into the pages yet**:
+they have no public URL until Part B chooses the host.
+
+`ASSET_BASE` in `tools/build_catalog.py` is the single configuration
+point for that move. Default `''` keeps every generated asset
+reference relative, exactly as today. When set to a base URL (or
+passed as `--asset-base`), the generator emits the records' `rect`
+references in `data.json` and `vr.json` under the base, and the
+ladders are served under the same base with the patterns
+`{base}thumbs/<STA>/w<width>.jpg` and
+`{base}thumbs-rect/<STA>/w<width>.jpg` (the assets directory layout
+mirrors them).
 
 ## Remaining known debt
 

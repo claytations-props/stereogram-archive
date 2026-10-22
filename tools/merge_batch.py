@@ -13,7 +13,8 @@ Flow: load manifest passed candidates -> assign next STA ids -> apply
 the generalized date guard and derive each entry's v2 record
 (tools/v2fields.py) -> copy pair files into rect/ as (accession-1).jpg
 and set each entry's rect field -> write the new records/STA-####.json
-files and regenerate data.json + catalog-v2.json from ALL records
+files and regenerate data.json + catalog-v2.json + the Phase 2A
+derived outputs (browse.json, vr.json, search/) from ALL records
 (tools/build_catalog.py) -> copy staged masters into the preservation
 store and update its fixity manifest -> run
 tools/validate_catalog.py --v2 --fixity -> on success create ONE
@@ -137,6 +138,15 @@ def main():
     data_backup = catalog_path.read_bytes()
     v2_path = BASE / 'catalog-v2.json'
     v2_backup = v2_path.read_bytes() if v2_path.exists() else None
+    # Phase 2A derived outputs: snapshot for rollback (regenerated
+    # from all records on apply, restored verbatim on rollback).
+    _sdir0 = BASE / 'search'
+    derived_paths = [BASE / 'browse.json', BASE / 'vr.json',
+                     _sdir0 / 'index.json']
+    if _sdir0.is_dir():
+        derived_paths += sorted(_sdir0.glob('chunk-*.json'))
+    derived_backup = {p: (p.read_bytes() if p.exists() else None)
+                      for p in derived_paths}
     fixity_path = pres / 'fixity-manifest.json'
     fixity_backup = fixity_path.read_bytes() if fixity_path.exists() else None
     bagit_path = pres / 'manifest-sha256.txt'
@@ -151,6 +161,19 @@ def main():
             v2_path.unlink()
         for p in added_records:
             p.unlink(missing_ok=True)
+        for p, b in derived_backup.items():
+            if b is not None:
+                p.parent.mkdir(parents=True, exist_ok=True)
+                p.write_bytes(b)
+            elif p.exists():
+                p.unlink()
+        _sdir = BASE / 'search'
+        if _sdir.is_dir():
+            _keep = {p.name for p in derived_backup
+                     if p.name.startswith('chunk-')}
+            for p in _sdir.glob('chunk-*.json'):
+                if p.name not in _keep:
+                    p.unlink()
 
     try:
         for entry, pair_src, _, _rec in plan:
@@ -167,6 +190,20 @@ def main():
         all_records = build_catalog.load_records(records_dir)
         catalog_path.write_text(build_catalog.render_data_json(all_records))
         v2_path.write_text(build_catalog.render_catalog_v2(all_records))
+        # Phase 2A derived outputs, regenerated from the same records.
+        (BASE / 'browse.json').write_text(
+            build_catalog.render_browse_json(all_records))
+        (BASE / 'vr.json').write_text(
+            build_catalog.render_vr_json(all_records))
+        _manifest_text, _chunks = build_catalog.render_search(all_records)
+        _sdir = BASE / 'search'
+        _sdir.mkdir(exist_ok=True)
+        (_sdir / 'index.json').write_text(_manifest_text)
+        for _name, _text in _chunks.items():
+            (_sdir / _name).write_text(_text)
+        for _stale in _sdir.glob('chunk-*.json'):
+            if _stale.name not in _chunks:
+                _stale.unlink()
 
         # preservation: copy staged masters, update fixity + BagIt manifest
         fixity = json.loads(fixity_backup) if fixity_backup else {}
@@ -237,7 +274,10 @@ def main():
 
     # ---- one atomic commit ----
     label = staging.name
-    add_paths = (['data.json', 'catalog-v2.json']
+    add_paths = (['data.json', 'catalog-v2.json', 'browse.json',
+                  'vr.json', 'search/index.json']
+                 + [f'search/{p.name}'
+                    for p in sorted((BASE / 'search').glob('chunk-*.json'))]
                  + [f"records/{e['id']}.json" for e, _, _, _ in plan]
                  + [e['rect'] for e, _, _, _ in plan])
     git('add', '--', *add_paths)

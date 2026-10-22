@@ -236,6 +236,42 @@ def main():
                     != v2_path.read_bytes():
                 errors.append('v2: catalog-v2.json is out of sync with '
                               'records/ (run tools/build_catalog.py)')
+            # Phase 2A generated outputs: browse.json, vr.json, and
+            # the chunked search index must also be in sync.
+            for name, render in (('browse.json',
+                                  build_catalog.render_browse_json),
+                                 ('vr.json', build_catalog.render_vr_json)):
+                p = BASE / name
+                if not p.exists():
+                    errors.append(f'v2: {name} is missing '
+                                  '(run tools/build_catalog.py)')
+                elif render(records).encode() != p.read_bytes():
+                    errors.append(f'v2: {name} is out of sync with '
+                                  'records/ (run tools/build_catalog.py)')
+            manifest_text, chunks = build_catalog.render_search(records)
+            sidx = BASE / 'search' / 'index.json'
+            if not sidx.exists():
+                errors.append('v2: search/index.json is missing '
+                              '(run tools/build_catalog.py)')
+            elif manifest_text.encode() != sidx.read_bytes():
+                errors.append('v2: search/index.json is out of sync '
+                              'with records/ (run tools/build_catalog.py)')
+            for cname, ctext in chunks.items():
+                cp = BASE / 'search' / cname
+                if not cp.exists():
+                    errors.append(f'v2: search/{cname} is missing '
+                                  '(run tools/build_catalog.py)')
+                elif ctext.encode() != cp.read_bytes():
+                    errors.append(f'v2: search/{cname} is out of sync '
+                                  'with records/ '
+                                  '(run tools/build_catalog.py)')
+            sdir = BASE / 'search'
+            if sdir.is_dir():
+                for extra in sdir.glob('chunk-*.json'):
+                    if extra.name not in chunks:
+                        errors.append(f'v2: stale search chunk '
+                                      f'{extra.name} not in the manifest '
+                                      '(run tools/build_catalog.py)')
 
     if args.fixity:
         pres = Path(args.preservation)
