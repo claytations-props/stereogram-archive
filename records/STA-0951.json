@@ -1,0 +1,71 @@
+{
+ "title": "1279. Hengefoss i Røken. Stereoskop - NB bldsa OTO0434 A",
+ "place": "Norway",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "water",
+  "world"
+ ],
+ "blurb": "*Sted: Kommune: Røyken Fylke: Buskerud Tagger:",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/1279._Hengefoss_i_R%C3%B8ken._Stereoskop_-_NB_bldsa_OTO0434_A.jpg/1920px-1279._Hengefoss_i_R%C3%B8ken._Stereoskop_-_NB_bldsa_OTO0434_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/9b/1279._Hengefoss_i_R%C3%B8ken._Stereoskop_-_NB_bldsa_OTO0434_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:1279._Hengefoss_i_R%C3%B8ken._Stereoskop_-_NB_bldsa_OTO0434_A.jpg",
+ "license": "Public domain",
+ "w": 6836,
+ "h": 6522,
+ "id": "STA-0951",
+ "rect": "rect/950.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.06,
+ "rot": 0.0,
+ "range": 0.25,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.177,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/1279._Hengefoss_i_R%C3%B8ken._Stereoskop_-_NB_bldsa_OTO0434_A.jpg/1920px-1279._Hengefoss_i_R%C3%B8ken._Stereoskop_-_NB_bldsa_OTO0434_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.177,
+  "L": [
+   0.436458,
+   0.0,
+   0.055469,
+   0.0,
+   0.388646,
+   0.301037
+  ],
+  "R": [
+   0.436359,
+   0.001223,
+   0.532526,
+   -2.3e-05,
+   0.389692,
+   0.299648
+  ],
+  "g": [
+   0.9576,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.0° of rotation. Depth measured gentle (0.25% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "world"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 32636604,
+ "source_revision_id": null,
+ "source_sha1": "db08b2eb7e95c1acb0286a94aee127186db0c52a"
+}

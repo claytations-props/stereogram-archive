@@ -1,0 +1,71 @@
+{
+ "title": "Mountain farm, ca. 1897-1910.",
+ "place": "Norway",
+ "year": "1897–1910",
+ "sy": 1897,
+ "era": "mid",
+ "cats": [
+  "mountains",
+  "world"
+ ],
+ "blurb": "Identifier: SFFf-1988009.288504 Medium: Glass plate negative. Extent: 13 x 18 cm.",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Mountain_farm%2C_ca._1897-1910..jpg/1920px-Mountain_farm%2C_ca._1897-1910..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/10/Mountain_farm%2C_ca._1897-1910..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Mountain_farm,_ca._1897-1910..jpg",
+ "license": "No restrictions",
+ "w": 6632,
+ "h": 3921,
+ "id": "STA-0939",
+ "rect": "rect/938.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.05,
+ "rot": 0.0,
+ "range": 0.23,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9196,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Mountain_farm%2C_ca._1897-1910..jpg/1920px-Mountain_farm%2C_ca._1897-1910..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9196,
+  "L": [
+   0.446875,
+   0.0,
+   0.041927,
+   0.0,
+   0.822026,
+   0.088546
+  ],
+  "R": [
+   0.442007,
+   0.001368,
+   0.527963,
+   -0.000174,
+   0.813643,
+   0.096329
+  ],
+  "g": [
+   1.0,
+   0.9602
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.05% vertical error and 0.0° of rotation. Depth measured gentle (0.23% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains",
+  "world"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1897/1910",
+ "date_start": 1897,
+ "date_end": 1910,
+ "rights_uri": null,
+ "rights_basis": "Source record is marked 'No restrictions' (Wikimedia Commons license short name): a no-known-copyright-restrictions statement (Flickr Commons usage terms; the exact URL is in license_url). No RightsStatements.org URI was assigned, because that label is not a public-domain determination.",
+ "license_url": null,
+ "source_page_id": 34740717,
+ "source_revision_id": null,
+ "source_sha1": "63f2c57d7724ed26b9725d178306e89b10ab9144"
+}
