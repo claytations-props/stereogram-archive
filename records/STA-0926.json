@@ -1,0 +1,69 @@
+{
+ "title": "Falls of St. Anthony, by Beal's Gallery 5",
+ "place": "Minneapolis, Minnesota",
+ "year": "1859–1890",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Falls_of_St._Anthony%2C_by_Beal%27s_Gallery_5.png/1920px-Falls_of_St._Anthony%2C_by_Beal%27s_Gallery_5.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Falls_of_St._Anthony%2C_by_Beal%27s_Gallery_5.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Falls_of_St._Anthony,_by_Beal%27s_Gallery_5.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1398,
+ "id": "STA-0926",
+ "rect": "rect/925.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.12,
+ "rot": 0.01,
+ "range": 1.41,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8815,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Falls_of_St._Anthony%2C_by_Beal%27s_Gallery_5.png/1920px-Falls_of_St._Anthony%2C_by_Beal%27s_Gallery_5.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8815,
+  "L": [
+   0.371875,
+   0.0,
+   0.121615,
+   0.0,
+   0.825688,
+   0.086137
+  ],
+  "R": [
+   0.37124,
+   -0.006447,
+   0.544438,
+   0.004241,
+   0.831444,
+   0.092687
+  ],
+  "g": [
+   0.978,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured gentle (1.41% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Beal's Gallery",
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859/1890",
+ "date_start": 1859,
+ "date_end": 1890,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7463100,
+ "source_revision_id": null,
+ "source_sha1": "c9af52cd9edf5280d4dd674cd27f1db47c3a724e"
+}

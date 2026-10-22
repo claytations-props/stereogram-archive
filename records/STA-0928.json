@@ -1,0 +1,69 @@
+{
+ "title": "Falls of St. Anthony",
+ "place": "Minneapolis, Minnesota",
+ "year": "1859–1890",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Falls_of_St._Anthony%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Falls_of_St._Anthony%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/76/Falls_of_St._Anthony%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Falls_of_St._Anthony,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1445,
+ "id": "STA-0928",
+ "rect": "rect/927.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.21,
+ "rot": 0.0,
+ "range": 1.37,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.3018,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Falls_of_St._Anthony%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Falls_of_St._Anthony%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.3018,
+  "L": [
+   0.379688,
+   0.0,
+   0.103906,
+   0.0,
+   0.552268,
+   0.118836
+  ],
+  "R": [
+   0.384371,
+   -0.009136,
+   0.515197,
+   -0.025001,
+   0.55787,
+   0.123372
+  ],
+  "g": [
+   0.98,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.0° of rotation. Depth measured gentle (1.37% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859/1890",
+ "date_start": 1859,
+ "date_end": 1890,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7462856,
+ "source_revision_id": null,
+ "source_sha1": "426cb56399edfce241a6aa5bd5c883ced3aa26bd"
+}

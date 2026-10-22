@@ -1,0 +1,69 @@
+{
+ "title": "Falls of St. Anthony, by Martin's Art Gallery 2",
+ "place": "Minneapolis, Minnesota",
+ "year": "1859–1890",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Falls_of_St._Anthony%2C_by_Martin%27s_Art_Gallery_2.jpg/1920px-Falls_of_St._Anthony%2C_by_Martin%27s_Art_Gallery_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Falls_of_St._Anthony%2C_by_Martin%27s_Art_Gallery_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Falls_of_St._Anthony,_by_Martin%27s_Art_Gallery_2.jpg",
+ "license": "Public domain",
+ "w": 2660,
+ "h": 1330,
+ "id": "STA-0922",
+ "rect": "rect/921.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.25,
+ "rot": 0.04,
+ "range": 2.02,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.9171,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Falls_of_St._Anthony%2C_by_Martin%27s_Art_Gallery_2.jpg/1920px-Falls_of_St._Anthony%2C_by_Martin%27s_Art_Gallery_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9171,
+  "L": [
+   0.299479,
+   0.0,
+   0.190365,
+   0.0,
+   0.653125,
+   0.271354
+  ],
+  "R": [
+   0.30771,
+   -0.011218,
+   0.597877,
+   -0.000205,
+   0.659045,
+   0.300331
+  ],
+  "g": [
+   1.0,
+   0.9299
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.25% vertical error and 0.04° of rotation. Depth measured moderate (2.02% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Martin's Art Gallery",
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859/1890",
+ "date_start": 1859,
+ "date_end": 1890,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7463001,
+ "source_revision_id": null,
+ "source_sha1": "98ac1aa87d7badeb4bbd21b7f208828760b323b0"
+}

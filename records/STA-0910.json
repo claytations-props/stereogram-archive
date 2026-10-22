@@ -1,0 +1,69 @@
+{
+ "title": "Fawn's leap, by W. Brown",
+ "place": "Minneapolis, Minnesota",
+ "year": "1862",
+ "sy": 1862,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Fawn%27s_leap%2C_by_W._Brown.jpg/1920px-Fawn%27s_leap%2C_by_W._Brown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/82/Fawn%27s_leap%2C_by_W._Brown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Fawn%27s_leap,_by_W._Brown.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1417,
+ "id": "STA-0910",
+ "rect": "rect/909.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.1,
+ "rot": 0.02,
+ "range": 2.82,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.8358,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Fawn%27s_leap%2C_by_W._Brown.jpg/1920px-Fawn%27s_leap%2C_by_W._Brown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8358,
+  "L": [
+   0.381771,
+   0.0,
+   0.10026,
+   0.0,
+   0.882294,
+   0.047787
+  ],
+  "R": [
+   0.38384,
+   -0.006218,
+   0.522446,
+   0.009149,
+   0.887107,
+   0.04503
+  ],
+  "g": [
+   0.9238,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured deep (2.82% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "W. Brown",
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1862",
+ "date_start": 1862,
+ "date_end": 1862,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7460981,
+ "source_revision_id": null,
+ "source_sha1": "9427806fe2b3b428f5cf69a879cac83a7ed0ceac"
+}

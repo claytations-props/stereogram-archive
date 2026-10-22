@@ -1,0 +1,69 @@
+{
+ "title": "Minne-ha-ha, by A. A. Palmer",
+ "place": "Minneapolis, Minnesota",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Minne-ha-ha%2C_by_A._A._Palmer.png/1920px-Minne-ha-ha%2C_by_A._A._Palmer.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Minne-ha-ha%2C_by_A._A._Palmer.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Minne-ha-ha,_by_A._A._Palmer.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1410,
+ "id": "STA-0905",
+ "rect": "rect/904.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.08,
+ "rot": 0.01,
+ "range": 2.05,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.7555,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Minne-ha-ha%2C_by_A._A._Palmer.png/1920px-Minne-ha-ha%2C_by_A._A._Palmer.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7555,
+  "L": [
+   0.339583,
+   0.0,
+   0.153906,
+   0.0,
+   0.872599,
+   0.078362
+  ],
+  "R": [
+   0.343854,
+   -0.007118,
+   0.579268,
+   0.003735,
+   0.872205,
+   0.048845
+  ],
+  "g": [
+   0.9993,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured moderate (2.05% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "A. A. Palmer",
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7462050,
+ "source_revision_id": null,
+ "source_sha1": "3533bea69637aec5f7aa32c78a0489168fa1b468"
+}

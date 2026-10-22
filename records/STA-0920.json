@@ -1,0 +1,71 @@
+{
+ "title": "Camp view, by Schlattman Bros.",
+ "place": "Minneapolis, Minnesota",
+ "year": "1862",
+ "sy": 1862,
+ "era": "early",
+ "cats": [
+  "war",
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Camp_view%2C_by_Schlattman_Bros..png/1920px-Camp_view%2C_by_Schlattman_Bros..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/22/Camp_view%2C_by_Schlattman_Bros..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Camp_view,_by_Schlattman_Bros..png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1715,
+ "id": "STA-0920",
+ "rect": "rect/919.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.24,
+ "rot": 0.0,
+ "range": 0.35,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 2.4641,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Camp_view%2C_by_Schlattman_Bros..png/1920px-Camp_view%2C_by_Schlattman_Bros..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 2.4641,
+  "L": [
+   0.392708,
+   0.0,
+   0.078906,
+   0.0,
+   0.254364,
+   0.540732
+  ],
+  "R": [
+   0.395494,
+   -0.002549,
+   0.518807,
+   -0.001135,
+   0.256458,
+   0.547786
+  ],
+  "g": [
+   0.9672,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.0° of rotation. Depth measured gentle (0.35% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Schlattman Bros.",
+ "creator_dates": null,
+ "facets": [
+  "war",
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1862",
+ "date_start": 1862,
+ "date_end": 1862,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7461272,
+ "source_revision_id": null,
+ "source_sha1": "204a9bfa34d7b0d288eac0e841c7222c84a52a58"
+}

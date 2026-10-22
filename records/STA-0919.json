@@ -1,0 +1,69 @@
+{
+ "title": "Minnehaha Falls, (\"Summer.\") Minn",
+ "place": "Minneapolis, Minnesota",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Minnehaha_Falls%2C_%28%22Summer.%22%29_Minn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Minnehaha_Falls%2C_%28%22Summer.%22%29_Minn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Minnehaha_Falls%2C_%28%22Summer.%22%29_Minn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Minnehaha_Falls,_(%22Summer.%22)_Minn,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1407,
+ "id": "STA-0919",
+ "rect": "rect/918.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.19,
+ "rot": 0.11,
+ "range": 2.31,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.7493,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Minnehaha_Falls%2C_%28%22Summer.%22%29_Minn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Minnehaha_Falls%2C_%28%22Summer.%22%29_Minn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7493,
+  "L": [
+   0.297396,
+   0.0,
+   0.149219,
+   0.0,
+   0.772036,
+   0.058257
+  ],
+  "R": [
+   0.30225,
+   -0.006491,
+   0.564114,
+   -0.002662,
+   0.7855,
+   0.050785
+  ],
+  "g": [
+   0.9153,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.11° of rotation. Depth measured deep (2.31% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7461784,
+ "source_revision_id": null,
+ "source_sha1": "9ccf271870e90a45d39ad531efe5024c2ad05a9d"
+}

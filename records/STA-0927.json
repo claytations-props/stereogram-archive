@@ -1,0 +1,71 @@
+{
+ "title": "Stone arch bridge, by Robbins & Bissell",
+ "place": "Minneapolis, Minnesota",
+ "year": "1862",
+ "sy": 1862,
+ "era": "early",
+ "cats": [
+  "cities",
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Stone_arch_bridge%2C_by_Robbins_%26_Bissell.jpg/1920px-Stone_arch_bridge%2C_by_Robbins_%26_Bissell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/70/Stone_arch_bridge%2C_by_Robbins_%26_Bissell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Stone_arch_bridge,_by_Robbins_%26_Bissell.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1673,
+ "id": "STA-0927",
+ "rect": "rect/926.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.17,
+ "rot": 0.02,
+ "range": 0.58,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.6057,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Stone_arch_bridge%2C_by_Robbins_%26_Bissell.jpg/1920px-Stone_arch_bridge%2C_by_Robbins_%26_Bissell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.6057,
+  "L": [
+   0.383854,
+   0.0,
+   0.109635,
+   0.0,
+   0.390971,
+   0.476576
+  ],
+  "R": [
+   0.384484,
+   -0.007142,
+   0.517777,
+   0.020002,
+   0.38741,
+   0.466057
+  ],
+  "g": [
+   0.8711,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.02° of rotation. Depth measured gentle (0.58% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Robbins & Bissell",
+ "creator_dates": null,
+ "facets": [
+  "cities",
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1862",
+ "date_start": 1862,
+ "date_end": 1862,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7461269,
+ "source_revision_id": null,
+ "source_sha1": "9bf3e9252de92e3db0083722042186ab4d018000"
+}
