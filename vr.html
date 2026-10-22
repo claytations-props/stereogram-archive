@@ -320,9 +320,10 @@ function drawRecord(d){
   field('Title',d.t,27,3);
   field('Place',d.p,24,1);
   field('Date',d.y,24,1);
-  field('Collection',d.coll,24,2);
+  if(d.cr)field('Creator',d.cr,22,1);
+  field('Collection',d.cn||d.coll,24,2);
   field('Series',d.cats.map(k=>CATLABEL[k]||k).join(', '),24,2);
-  field('Condition',d.cond,22,5);
+  field('Condition',d.cond,22,4);
   recTex.needsUpdate=true;
 }
 
@@ -718,7 +719,7 @@ addEventListener('click',e=>{ /* flat click: pick wall tiles and room buttons */
 
 addEventListener('resize',()=>{camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix();renderer.setSize(innerWidth,innerHeight);sizePair();});
 fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(items=>{
-  DATA=items.map((d,i)=>({id:d.id,t:d.title,p:d.place,y:d.year,coll:d.coll,cats:d.cats||[],cond:d.cond||'',img:d.rect||('rect/'+String(i).padStart(2,'0')+'.jpg'),oimg:d.img||'',src:d.full,a:d.va,f:d.f}));
+  DATA=items.map((d,i)=>({id:d.id,t:d.title,p:d.place,y:d.year,coll:d.coll,cn:d.collection_name||null,cr:d.creator||null,cats:d.cats||[],cond:d.cond||'',img:d.rect||('rect/'+String(i).padStart(2,'0')+'.jpg'),oimg:d.img||'',src:d.full,a:d.va,f:d.f}));
   SETS=deriveSets(DATA,readFavs());
   buildBrowse();
   // one archive, one memory: a #STA-#### hash names the card; a ?set=
