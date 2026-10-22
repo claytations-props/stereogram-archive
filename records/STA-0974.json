@@ -1,0 +1,69 @@
+{
+ "title": "Brooklyn Bridge, from Robert N. Dennis collection of stereoscopic views 13",
+ "place": "New York, New York",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Brooklyn_Bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_13.jpg/1920px-Brooklyn_Bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/97/Brooklyn_Bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge,_from_Robert_N._Dennis_collection_of_stereoscopic_views_13.jpg",
+ "license": "Public domain",
+ "w": 2624,
+ "h": 1345,
+ "id": "STA-0974",
+ "rect": "rect/973.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.19,
+ "rot": 0.09,
+ "range": 1.19,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.1828,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Brooklyn_Bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_13.jpg/1920px-Brooklyn_Bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.1828,
+  "L": [
+   0.286458,
+   0.0,
+   0.083594,
+   0.0,
+   0.472561,
+   0.241362
+  ],
+  "R": [
+   0.286918,
+   -0.003116,
+   0.5083,
+   0.004574,
+   0.473067,
+   0.240263
+  ],
+  "g": [
+   1.0,
+   0.9295
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.09° of rotation. Depth measured gentle (1.19% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11828037,
+ "source_revision_id": null,
+ "source_sha1": "9e7a4a6ef61f213a7f728d32b03493477313de97"
+}

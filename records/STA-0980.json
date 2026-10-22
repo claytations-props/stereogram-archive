@@ -1,0 +1,69 @@
+{
+ "title": "Brooklyn Bridge from Brooklyn elev",
+ "place": "New York, New York",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Brooklyn_Bridge_from_Brooklyn_elev%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Brooklyn_Bridge_from_Brooklyn_elev%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Brooklyn_Bridge_from_Brooklyn_elev%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_from_Brooklyn_elev,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2583,
+ "h": 1345,
+ "id": "STA-0980",
+ "rect": "rect/979.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.14,
+ "rot": 0.01,
+ "range": 0.53,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.2343,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Brooklyn_Bridge_from_Brooklyn_elev%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Brooklyn_Bridge_from_Brooklyn_elev%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.2343,
+  "L": [
+   0.359375,
+   0.0,
+   0.11849,
+   0.0,
+   0.559,
+   0.3195
+  ],
+  "R": [
+   0.359765,
+   0.000166,
+   0.531458,
+   -0.000917,
+   0.561065,
+   0.319756
+  ],
+  "g": [
+   1.0,
+   0.9566
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.01° of rotation. Depth measured gentle (0.53% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11827482,
+ "source_revision_id": null,
+ "source_sha1": "59882dbaa0c12f9998c1c7207f7b8180bbf5a8c4"
+}

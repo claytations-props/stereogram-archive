@@ -1,0 +1,71 @@
+{
+ "title": "The East River bridge, New York City",
+ "place": "New York, New York",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "water",
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/The_East_River_bridge%2C_New_York_City%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_East_River_bridge%2C_New_York_City%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/c1/The_East_River_bridge%2C_New_York_City%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_East_River_bridge,_New_York_City,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2609,
+ "h": 1335,
+ "id": "STA-0985",
+ "rect": "rect/984.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.05,
+ "range": 0.37,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.7755,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/The_East_River_bridge%2C_New_York_City%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_East_River_bridge%2C_New_York_City%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7755,
+  "L": [
+   0.36875,
+   0.0,
+   0.088281,
+   0.0,
+   0.929735,
+   0.037169
+  ],
+  "R": [
+   0.369314,
+   0.005538,
+   0.507286,
+   -0.011461,
+   0.928753,
+   0.04355
+  ],
+  "g": [
+   1.0,
+   0.9753
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.05° of rotation. Depth measured gentle (0.37% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11827337,
+ "source_revision_id": null,
+ "source_sha1": "b9334e19f287c218fc84bfa1b957608b95433bc4"
+}
