@@ -31,6 +31,7 @@ select{background:var(--panel2);border:1px solid var(--line);color:var(--text);b
 .btn:hover{border-color:var(--brass);color:var(--brass2)}
 .btn.gold{background:var(--brass);color:var(--inkbtn);border-color:var(--brass)}
 .btn.gold:hover{background:var(--brass2);color:var(--inkbtn)}
+.btn[hidden]{display:none}
 a.btn{text-decoration:none;display:inline-block}
 .chips{max-width:1180px;margin:10px auto 0;display:flex;flex-wrap:wrap;gap:8px}
 .chip{border:1px solid var(--line);background:transparent;color:var(--dim);border-radius:3px;padding:8px 12px;font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;cursor:pointer;font-weight:600}
@@ -138,7 +139,9 @@ footer a{color:var(--brass)}
 .vtop{display:flex;align-items:center;gap:12px;padding:14px 18px;border-bottom:1px solid var(--line);flex-wrap:wrap}
 .vtop h2{font-family:"Playfair Display",Georgia,serif;font-size:clamp(19px,3vw,27px);flex:1;min-width:200px}
 .vtop .meta{color:var(--dim);font-size:13px;width:100%;font-variant-numeric:tabular-nums}
+.vcontext{color:var(--brass2);font-size:12px;letter-spacing:.06em;width:100%;font-variant-numeric:tabular-nums}
 .modes{display:flex;gap:8px;flex-wrap:wrap;padding:12px 18px 0;justify-content:center}
+.modehint{color:var(--dim);font-size:13px;line-height:1.45;text-align:center;padding:9px 18px 0}
 .mode{border:1px solid var(--line);background:var(--panel2);color:var(--dim);border-radius:3px;padding:9px 14px;font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;font-weight:600;cursor:pointer;text-decoration:none}
 .mode.on{background:var(--brass);color:var(--inkbtn);border-color:var(--brass)}
 .stage{display:flex;align-items:center;justify-content:center;padding:18px;min-height:56vh;position:relative}
@@ -220,6 +223,7 @@ canvas#ana.show{display:block}
     <span id="idxNote" role="status" style="font-size:12px;color:var(--dim)"></span>
     <select id="era" aria-label="Filter by era"><option value="all">All eras</option><option value="early">1840s–1860s</option><option value="mid">1870s–1890s</option><option value="late">1900s–1920s</option><option value="undated">Undated</option></select>
     <select id="sort" aria-label="Sort items"><option value="featured">Sort: Accession order</option><option value="old">Oldest first</option><option value="new">Newest first</option><option value="az">Title A–Z</option><option value="shuffle">Shuffle</option></select>
+    <button class="btn" id="clearFilters" hidden>Clear search &amp; filters</button>
     <span class="viewtog"><button class="btn on" id="vShelves">Shelves</button><button class="btn" id="vRegister">Register</button></span>
     <button class="btn" id="surprise">Request an item</button>
     <a class="btn gold" href="vr.html">Enter the VR Parlor</a>
@@ -266,8 +270,9 @@ All photographs are public domain or CC0, via Wikimedia Commons, from collection
   <div class="vtop">
     <h2 id="vTitle"></h2>
     <button class="xbtn" id="vFav">♡ Save</button>
-    <button class="xbtn" id="vClose">✕ Close</button>
+    <button class="xbtn" id="vClose">✕ Back to results</button>
     <div class="meta" id="vMeta"></div>
+    <div class="vcontext" id="vContext" role="status"></div>
   </div>
   <div class="modes" id="modes">
     <button class="mode on" data-m="pair" aria-pressed="true">Original Pair</button>
@@ -277,6 +282,7 @@ All photographs are public domain or CC0, via Wikimedia Commons, from collection
     <button class="mode" data-m="anaglyph" aria-pressed="false">Anaglyph</button>
     <a class="mode" id="vParlor" href="vr.html">VR Parlor</a>
   </div>
+  <p class="modehint" id="vModeHint" role="status"></p>
   </div>
   <div class="stage" style="position:relative">
     <button class="navbtn" id="prevB" aria-label="Previous item">‹</button>
@@ -338,7 +344,7 @@ function migrateFavs(){
 }
 function browseHay(d){return (d.title+" "+d.place+" "+d.year+" "+d.id+" "+d.coll+" "+d.cats.map(c=>CATLABEL[c]||c).join(" ")).toLowerCase()}
 function init(){
- migrateFavs();
+ migrateFavs();updateChipCounts();
  DATA.forEach(d=>d._hay=SLIM?browseHay(d):(d.title+" "+d.place+" "+d.year+" "+(d.blurb||"")+" "+d.id+" "+d.coll+" "+d.cats.map(c=>CATLABEL[c]||c).join(" ")).toLowerCase());
  buildAid();
  document.getElementById('holdings').textContent='Holdings · '+DATA.length+' items · '+new Set(DATA.map(d=>d.coll)).size+' collections';
@@ -390,7 +396,19 @@ let state={cat:"all",era:"all",q:"",sort:"featured",coll:"all",view:"shelves"};
 let favs=new Set(JSON.parse(localStorage.getItem("stereoFavs")||"[]"));
 const $=s=>document.querySelector(s);
 const chips=$("#chips");
-CATS.forEach(([k,l])=>{const b=document.createElement("button");b.className="chip"+(k==="all"?" on":"");b.textContent=l;b.setAttribute("aria-pressed",k==="all"?"true":"false");b.onclick=()=>setCat(k);chips.appendChild(b)});
+CATS.forEach(([k,l])=>{const b=document.createElement("button");b.className="chip"+(k==="all"?" on":"");b.dataset.k=k;b.textContent=l;b.setAttribute("aria-pressed",k==="all"?"true":"false");b.onclick=()=>setCat(k);chips.appendChild(b)});
+function chipCount(k){if(k==="all")return DATA.length;if(k==="favs")return favs.size;return DATA.filter(d=>d.cats.includes(k)).length}
+function updateChipCounts(){document.querySelectorAll(".chip").forEach(c=>{const found=CATS.find(([k])=>k===c.dataset.k);if(found&&DATA.length)c.textContent=found[1]+" · "+chipCount(c.dataset.k)})}
+function isFiltered(){return state.q!==""||state.era!=="all"||state.coll!=="all"||state.cat!=="all"}
+function listContext(){
+ const parts=[];
+ if(state.coll!=="all")parts.push("Collection: "+state.coll);
+ if(state.cat==="favs")parts.push("Reading List");
+ else if(state.cat!=="all")parts.push("Series: "+(CATLABEL[state.cat]||state.cat));
+ if(state.era!=="all"){const opt=document.querySelector("#era option[value='"+state.era+"']");parts.push("Era: "+(opt?opt.textContent:state.era))}
+ if(state.q)parts.push('Search: "'+state.q+'"');
+ return parts.length?parts.join(" · "):"All items";
+}
 function setCat(k){state.cat=k;document.querySelectorAll(".chip").forEach((c,i)=>{c.classList.toggle("on",CATS[i][0]===k);c.setAttribute("aria-pressed",CATS[i][0]===k?"true":"false")});document.querySelectorAll("#seriesList .arow").forEach(r=>r.classList.toggle("on",r.dataset.k===k));render()}
 /* finding aid */
 function buildAid(){
@@ -443,7 +461,9 @@ function render(){
  if(!sameSig){shown=48;lastSig=sig;renderedShown=0;}
  const page=currentList.slice(0,shown);
  const g=$("#grid"),rg=$("#reg");
- $("#count").textContent="Showing "+currentList.length+" of "+DATA.length+" items"+(state.coll!=="all"?" · Collection: "+state.coll:"")+(state.cat!=="all"&&state.cat!=="favs"?" · Series: "+(CATLABEL[state.cat]||""):"");
+ const ctx=listContext();
+ $("#count").textContent="Showing "+currentList.length+" of "+DATA.length+" items"+(ctx!=="All items"?" · "+ctx:"");
+ $("#clearFilters").hidden=!isFiltered();
  const em=$("#empty");em.style.display=currentList.length?"none":"block";
  if(!currentList.length)em.textContent=state.cat==="favs"?"Your reading list is empty. Tap the heart on any card to keep it here.":"Nothing matches that. Try clearing the search, these photographs are old but they are not hiding.";
  const mb=$("#moreBtn");if(mb)mb.style.display=currentList.length>shown?"block":"none";
@@ -466,21 +486,22 @@ function render(){
  }
  renderedShown=page.length;pendingAppend=false;
 }
-function toggleFav(t){favs.has(t)?favs.delete(t):favs.add(t);localStorage.setItem("stereoFavs",JSON.stringify([...favs]));syncFavBtn()}
+function toggleFav(t){favs.has(t)?favs.delete(t):favs.add(t);localStorage.setItem("stereoFavs",JSON.stringify([...favs]));updateChipCounts();syncFavBtn()}
 let qTimer=null;
 $("#q").oninput=e=>{const v=e.target.value.trim().toLowerCase();clearTimeout(qTimer);qTimer=setTimeout(()=>{state.q=v;render()},120)};
 $("#era").onchange=e=>{state.era=e.target.value;render()};
+$("#clearFilters").onclick=()=>{state.q="";state.era="all";state.coll="all";$("#q").value="";$("#era").value="all";document.querySelectorAll("#collList .arow").forEach((r,i)=>r.classList.toggle("on",i===0));setCat("all")};
 $("#sort").onchange=e=>{state.sort=e.target.value;shuffleRank=null;render()};
 $("#howBtn").onclick=()=>{const h=$("#how");h.style.display=h.style.display==="none"?"block":"none";h.scrollIntoView({behavior:"smooth"})};
-$("#surprise").onclick=()=>{currentList=DATA.slice();openViewer(Math.floor(Math.random()*DATA.length),true)};
+$("#surprise").onclick=()=>{const list=filtered();if(!list.length)return;currentList=list;openViewer(Math.floor(Math.random()*list.length))};
 
 /* viewer */
 function parlorUrl(d){return "vr.html"+(d.cats&&d.cats[0]?"?set="+encodeURIComponent("series:"+d.cats[0]):"")+"#"+d.id}
 let vi=0,mode="pair",wigTimer=null,wigSide=false,lastFocus=null;
-let vrec=null,viewToken=0;
+let vrec=null,viewToken=0,viewerContext="All items";
 function cur(){return currentList[vi]}
 function openViewer(i,fromAll){
- if(fromAll){vi=i;currentList=DATA.slice()}else{vi=i}
+ if(fromAll){vi=i;currentList=DATA.slice();viewerContext="All items"}else{vi=i;viewerContext=listContext()}
  const d=cur();if(!d)return;
  lastFocus=document.activeElement;
  $("#viewer").classList.add("open");document.body.style.overflow="hidden";
@@ -498,6 +519,7 @@ function showCurrent(keepMode){
  $("#vParlor").href=parlorUrl(b);
  $("#vTitle").textContent=b.title;
  $("#vMeta").textContent=b.id+" · "+b.place+" · "+b.year+" · "+b.coll;
+ $("#vContext").textContent="Result "+(vi+1)+" of "+currentList.length+" · "+viewerContext;
  $("#vBlurb").textContent=b.blurb;
  $("#vSource").removeAttribute("href");$("#vFull").removeAttribute("href");$("#vLic").textContent="";
  $("#vImg").src=b.img;$("#vImg").alt=b.title+" stereograph pair";
@@ -527,9 +549,11 @@ function syncFavBtn(){const d=cur();if(!d)return;const b=$("#vFav");const on=fav
 $("#vFav").onclick=()=>{toggleFav(cur().id);render()};
 function stopWig(){if(wigTimer){clearInterval(wigTimer);wigTimer=null}}
 const rectUrl=d=>d.rect||('rect/'+String(parseInt(d.id.slice(4),10)-1).padStart(2,'0')+'.jpg');
+const MODE_HINTS={pair:"The original scanned pair, exactly as it was catalogued.",parallel:"The rectified pair side by side for relaxed parallel viewing.",cross:"The rectified pair swapped for cross-eyed viewing.",wiggle:"The rectified halves alternate, so the depth reads without an eye trick.",anaglyph:"The rectified pair combined for red and cyan glasses, red on the left."};
 function setMode(m){
  mode=m;stopWig();
  document.querySelectorAll(".mode[data-m]").forEach(b=>{b.classList.toggle("on",b.dataset.m===m);b.setAttribute("aria-pressed",b.dataset.m===m?"true":"false")});
+ $("#vModeHint").textContent=MODE_HINTS[m]||"";
  const d=vrec;
  $("#vImg").style.display=m==="pair"?"block":"none";
  $("#vSplit").classList.toggle("show",m==="parallel"||m==="cross");

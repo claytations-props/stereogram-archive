@@ -28,7 +28,11 @@ h1{font-family:"Playfair Display",Georgia,serif;font-size:20px;font-weight:700;m
 .cardinfo{background:rgba(11,10,8,.82);border:1px solid var(--line);border-radius:4px;padding:10px 13px;max-width:380px;backdrop-filter:blur(6px);pointer-events:auto}
 .cardinfo h2{font-family:"Playfair Display",Georgia,serif;font-size:16px;font-weight:700;line-height:1.3}
 .cardinfo div{color:var(--dim);font-size:12.5px;margin-top:4px;font-variant-numeric:tabular-nums}
+.cardinfo .setcrumb{color:var(--brass2);font-size:11px;font-weight:700;letter-spacing:.13em;text-transform:uppercase;margin:0 0 6px}
 .controls{display:flex;gap:8px;pointer-events:auto;flex-wrap:wrap;justify-content:flex-end;align-items:center}
+.setpick{display:flex;align-items:center;gap:7px;color:var(--dim);font-size:11px;font-weight:700;letter-spacing:.09em;text-transform:uppercase}
+.setpick select{background:var(--panel2);border:1px solid var(--line);color:var(--text);border-radius:3px;padding:9px 10px;font-size:12px;max-width:270px;outline:none}
+.setpick select:focus{border-color:var(--brass)}
 button{background:var(--panel2);border:1px solid var(--line);color:var(--text);border-radius:3px;padding:9px 13px;font-size:11.5px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;cursor:pointer}
 button:hover{border-color:var(--brass);color:var(--brass2)}
 button.gold{background:var(--brass);color:var(--inkbtn);border-color:var(--brass)}
@@ -71,8 +75,9 @@ a{color:var(--brass)}
     <div id="status">Loading the parlor…</div>
   </div>
   <div class="bottom">
-    <div class="cardinfo"><h2 id="ciTitle"></h2><div id="ciMeta"></div><div><a id="backLink" href="index.html">← Back to the flat gallery</a></div></div>
+    <div class="cardinfo"><div class="setcrumb" id="setCrumb"></div><h2 id="ciTitle"></h2><div id="ciMeta"></div><div><a id="backLink" href="index.html">← Back to the flat gallery</a></div></div>
     <div class="controls">
+      <label class="setpick">Set <select id="setSelect" aria-label="Choose a set"></select></label>
       <button id="prevBtn">‹ Prev</button>
       <button id="randBtn">Random</button>
       <button id="nextBtn">Next ›</button>
@@ -298,6 +303,8 @@ function drawCaption(d){
   capTex.needsUpdate=true;
   document.getElementById('ciTitle').textContent=d.t;
   document.getElementById('ciMeta').textContent=d.id+' · '+d.p+' · '+d.y+(curSet?' · '+curSet.label+' · Card '+(curPos+1)+' of '+curSet.indices.length:'');
+  document.getElementById('setCrumb').textContent=curSet?('Current set · '+curSet.label+' · Card '+(curPos+1)+' of '+curSet.indices.length):'';
+  syncSetSwitcher();
   document.getElementById('backLink').href='index.html#'+d.id;
   try{history.replaceState(null,'','#'+d.id)}catch(e){}
   updateLanding();
@@ -418,23 +425,82 @@ const ROW_HITS=ROW_DEFS.map(([b])=>b.userData.hit);
 /* ---------- browse state: the finding aid and the shelf wall ---------- */
 const browseGroup=new THREE.Group();browseGroup.visible=false;scene.add(browseGroup);
 // set list panel, near-field at the left, angled toward the viewer
-const SET_ROW_Y0=116,SET_ROW_PITCH=52,SET_ROW_H=42;
+const SET_ROW_Y0=108,SET_ROW_PITCH=48,SET_ROW_H=42,SET_HEAD_H=30,SET_CONTENT_BOTTOM=924;
+let setPanelPage=0,setPanelRows=[],SET_PANEL_HITS=[];
 const setCanvas=document.createElement('canvas');setCanvas.width=512;setCanvas.height=1024;
 const setTex=new THREE.CanvasTexture(setCanvas);
 const setPanelGroup=new THREE.Group();
 setPanelGroup.position.set(-1.80,1.44,-2.02);setPanelGroup.rotation.y=0.30;
 const setPanelMesh=new THREE.Mesh(new THREE.PlaneGeometry(0.60,1.20),new THREE.MeshBasicMaterial({map:setTex,transparent:true}));
 setPanelGroup.add(setPanelMesh);browseGroup.add(setPanelGroup);
+const setHitGroup=new THREE.Group();setPanelGroup.add(setHitGroup);
+function setPanelEntries(){
+  const entries=[];
+  const all=SETS.find(s=>s.key==='all');if(all)entries.push({type:'head',label:'Start'},{type:'set',set:all});
+  const fav=SETS.find(s=>s.key==='favs');if(fav)entries.push({type:'set',set:fav});
+  const colls=SETS.filter(s=>s.key.startsWith('coll:'));
+  if(colls.length){entries.push({type:'head',label:'Collections'});colls.forEach(set=>entries.push({type:'set',set}));}
+  const series=SETS.filter(s=>s.key.startsWith('series:'));
+  if(series.length){entries.push({type:'head',label:'Series'});series.forEach(set=>entries.push({type:'set',set}));}
+  return entries;
+}
+function layoutSetPanel(){
+  const entries=setPanelEntries(),pages=[];let rows=[],y=SET_ROW_Y0;
+  entries.forEach((entry,i)=>{
+    const h=entry.type==='head'?SET_HEAD_H:SET_ROW_PITCH;
+    const orphan=entry.type==='head'&&entries[i+1]&&y+h+SET_ROW_PITCH>SET_CONTENT_BOTTOM;
+    if(rows.length&&(y+h>SET_CONTENT_BOTTOM||orphan)){pages.push(rows);rows=[];y=SET_ROW_Y0;}
+    rows.push(Object.assign({},entry,{y,h}));y+=h;
+  });
+  if(rows.length||!pages.length)pages.push(rows);
+  setPanelPage=Math.max(0,Math.min(setPanelPage,pages.length-1));
+  setPanelRows=pages[setPanelPage]||[];
+  return pages.length;
+}
+function panelPageForSet(key){
+  const entries=setPanelEntries();let page=0,y=SET_ROW_Y0;
+  for(let i=0;i<entries.length;i++){
+    const entry=entries[i],h=entry.type==='head'?SET_HEAD_H:SET_ROW_PITCH;
+    const orphan=entry.type==='head'&&entries[i+1]&&y+h+SET_ROW_PITCH>SET_CONTENT_BOTTOM;
+    if(y+h>SET_CONTENT_BOTTOM||orphan){page++;y=SET_ROW_Y0;}
+    if(entry.type==='set'&&entry.set.key===key)return page;
+    y+=h;
+  }
+  return 0;
+}
+function syncSetPanelHits(){
+  while(setHitGroup.children.length)setHitGroup.remove(setHitGroup.children[0]);
+  SET_PANEL_HITS=[];
+  setPanelRows.filter(row=>row.type==='set').forEach(row=>{
+    const y=(0.5-(row.y+SET_ROW_H/2)/1024)*1.20;
+    const hl=new THREE.Mesh(new THREE.PlaneGeometry(0.565,0.05),new THREE.MeshBasicMaterial({color:0xc9a86a,transparent:true,opacity:0,depthWrite:false}));
+    hl.position.set(0,y,0.004);setHitGroup.add(hl);
+    const hit=new THREE.Mesh(new THREE.PlaneGeometry(0.565,0.058),new THREE.MeshBasicMaterial({visible:false}));
+    hit.position.set(0,y,0.008);hit.layers.enableAll();
+    hit.userData={act:'set',setKey:row.set.key,vis:hl,onHover:on=>{hl.material.opacity=on?0.30:0;}};
+    setHitGroup.add(hit);SET_PANEL_HITS.push(hit);
+  });
+}
+function setPanelGo(dir){
+  const pages=layoutSetPanel(),nextPage=Math.max(0,Math.min(setPanelPage+dir,pages-1));
+  if(nextPage!==setPanelPage){setPanelPage=nextPage;drawSetPanel();}
+}
 function drawSetPanel(){
+  const pageCount=layoutSetPanel();syncSetPanelHits();
   const c=setCanvas.getContext('2d');
   c.clearRect(0,0,512,1024);
   c.fillStyle='rgba(12,10,7,0.80)';c.beginPath();c.roundRect(0,0,512,1024,24);c.fill();
   c.strokeStyle='rgba(201,168,106,0.5)';c.lineWidth=2;c.beginPath();c.roundRect(6,6,500,1012,20);c.stroke();
   c.textAlign='left';c.textBaseline='alphabetic';
   c.fillStyle='#c9a86a';c.font='700 25px Georgia,serif';c.fillText('THE FINDING AID',28,54);
-  c.fillStyle='#a89c86';c.font='20px Georgia,serif';c.fillText('Collections & series',28,84);
-  SETS.forEach((s,i)=>{
-    const y=SET_ROW_Y0+i*SET_ROW_PITCH;
+  c.fillStyle='#a89c86';c.font='20px Georgia,serif';c.fillText('Start, collections & series',28,84);
+  setPanelRows.forEach(row=>{
+    if(row.type==='head'){
+      c.font='700 19px Georgia,serif';c.fillStyle='#c9a86a';c.fillText(row.label.toUpperCase(),28,row.y+20);
+      c.fillStyle='rgba(201,168,106,0.45)';c.fillRect(28,row.y+26,456,1);
+      return;
+    }
+    const s=row.set,y=row.y;
     if(curSet&&s.key===curSet.key){c.fillStyle='rgba(201,168,106,0.22)';c.beginPath();c.roundRect(14,y,484,SET_ROW_H,10);c.fill();}
     c.font='25px Georgia,serif';c.fillStyle=(curSet&&s.key===curSet.key)?'#e8c987':'#ece5d8';
     let label=s.label;
@@ -443,8 +509,13 @@ function drawSetPanel(){
     c.fillText(label,28,y+30);
     c.font='22px Georgia,serif';c.fillStyle='#a89c86';c.textAlign='right';c.fillText(String(s.indices.length),484,y+29);c.textAlign='left';
   });
+  c.font='19px Georgia,serif';c.fillStyle='#a89c86';c.textAlign='center';
+  c.fillText(pageCount>1?('SET PANEL · PAGE '+(setPanelPage+1)+' OF '+pageCount):'ALL SETS',256,982);
+  c.textAlign='left';
   setTex.needsUpdate=true;
 }
+const setPagePrevBtn=arrowButton('\u2039','setPagePrev',{vis:.18,hitW:.27,hitH:.34});setPagePrevBtn.position.set(-0.17,-0.70,0.01);setPanelGroup.add(setPagePrevBtn);
+const setPageNextBtn=arrowButton('\u203a','setPageNext',{vis:.18,hitW:.27,hitH:.34});setPageNextBtn.position.set(0.17,-0.70,0.012);setPanelGroup.add(setPageNextBtn);
 // the shelf wall: a paged grid of the current set's cards
 const PAGE=24,COLS=6,ROWS=4;
 const wallGroup=new THREE.Group();wallGroup.position.set(0.30,1.46,-2.25);browseGroup.add(wallGroup);
@@ -468,7 +539,7 @@ function drawIndicator(){
 // small line centered at the bottom of the wall assembly
 const pagePrevBtn=arrowButton('\u2039','pagePrev',{vis:.18,hitW:.27,hitH:.34});pagePrevBtn.position.set(-0.16,-0.72,0.0006);wallGroup.add(pagePrevBtn);
 const pageNextBtn=arrowButton('\u203a','pageNext',{vis:.18,hitW:.27,hitH:.34});pageNextBtn.position.set(0.16,-0.72,0.0018);wallGroup.add(pageNextBtn);
-const BROWSE_STATIC_HITS=[pagePrevBtn.userData.hit,pageNextBtn.userData.hit];
+const BROWSE_STATIC_HITS=[pagePrevBtn.userData.hit,pageNextBtn.userData.hit,setPagePrevBtn.userData.hit,setPageNextBtn.userData.hit];
 let TILE_HITS=[],wallTex=[],wallGen=0;
 const tileLoader=new THREE.TextureLoader();tileLoader.setCrossOrigin('anonymous');
 function clearTiles(){
@@ -528,18 +599,9 @@ function updateWallHi(){
 }
 function buildBrowse(){
   drawSetPanel();
-  SETS.forEach((s,i)=>{
-    const y=(0.5-(SET_ROW_Y0+i*SET_ROW_PITCH+SET_ROW_H/2)/1024)*1.20;
-    const hl=new THREE.Mesh(new THREE.PlaneGeometry(0.565,0.05),new THREE.MeshBasicMaterial({color:0xc9a86a,transparent:true,opacity:0,depthWrite:false}));
-    hl.position.set(0,y,0.004);setPanelGroup.add(hl);
-    const hit=new THREE.Mesh(new THREE.PlaneGeometry(0.565,0.058),new THREE.MeshBasicMaterial({visible:false}));
-    hit.position.set(0,y,0.008);hit.layers.enableAll();
-    hit.userData={act:'set',setKey:s.key,vis:hl,onHover:on=>{hl.material.opacity=on?0.30:0;}};
-    setPanelGroup.add(hit);BROWSE_STATIC_HITS.push(hit);
-  });
   renderWall();
 }
-function browseHits(){return BROWSE_STATIC_HITS.concat(TILE_HITS);}
+function browseHits(){return BROWSE_STATIC_HITS.concat(SET_PANEL_HITS,TILE_HITS);}
 function currentHits(){return uiState==='browse'?ROW_HITS.concat(browseHits()):ROW_HITS;}
 
 /* ---------- shared state: one archive, one memory of where you are --- */
@@ -550,6 +612,15 @@ function persist(){
 }
 function readFavs(){
   try{return JSON.parse(localStorage.getItem('stereoFavs')||'[]');}catch(e){return[];}
+}
+function syncSetSwitcher(){
+  const sel=document.getElementById('setSelect');if(!sel)return;
+  if(sel.options.length!==SETS.length){
+    sel.innerHTML='';
+    SETS.forEach(s=>{const o=document.createElement('option');o.value=s.key;o.textContent=s.label+' · '+s.indices.length;sel.appendChild(o);});
+  }
+  sel.value=curSet?curSet.key:'';
+  sel.disabled=!SETS.length;
 }
 
 // main card loading. Every pair arrives already rectified by the overlay
@@ -707,6 +778,7 @@ document.getElementById('nextBtn').onclick=next;
 document.getElementById('prevBtn').onclick=prev;
 document.getElementById('randBtn').onclick=()=>{if(curSet)navShow(Math.floor(Math.random()*curSet.indices.length));};
 document.getElementById('browseBtn').onclick=()=>setState(uiState==='browse'?'reading':'browse');
+document.getElementById('setSelect').addEventListener('change',e=>selectSet(e.target.value));
 document.getElementById('recBtn').onclick=()=>toggleRecord();
 addEventListener('keydown',e=>{
   if(uiState==='browse'){if(e.key==='ArrowRight')wallGo(1);if(e.key==='ArrowLeft')wallGo(-1);if(e.key==='Escape')setState('reading');}
@@ -752,7 +824,7 @@ function setState(s){
   if(!curSet)return;
   cancelProj();
   uiState=s;
-  if(s==='browse'){wallPage=Math.floor(curPos/PAGE);drawSetPanel();renderWall();}
+  if(s==='browse'){wallPage=Math.floor(curPos/PAGE);setPanelPage=panelPageForSet(curSet.key);drawSetPanel();renderWall();}
   browseBtn3d.userData.hit.userData.redraw(s==='browse'?'READ':'BROWSE',false);
   ROW_HITS.forEach(h=>setHover(h,false));
   applyVis();updateStatus();updateHtmlButtons();updateLanding();persist();
@@ -767,7 +839,7 @@ function selectSet(key){
   cancelProj();
   const s=SETS.find(x=>x.key===key);
   if(!s||!s.indices.length)return;
-  curSet=s;
+  curSet=s;syncSetSwitcher();setPanelPage=panelPageForSet(s.key);
   const p=s.indices.indexOf(cur);
   curPos=p>=0?p:0;
   wallPage=Math.floor(curPos/PAGE);
@@ -808,6 +880,8 @@ function activate(hit){
   if(a==='set')return selectSet(hit.userData.setKey);
   if(a==='pagePrev')return wallGo(-1);
   if(a==='pageNext')return wallGo(1);
+  if(a==='setPagePrev')return setPanelGo(-1);
+  if(a==='setPageNext')return setPanelGo(1);
 }
 function isShown(o){while(o){if(!o.visible)return false;o=o.parent;}return true;}
 
@@ -860,7 +934,7 @@ fetch('vr.json',{cache:'no-cache'}).then(r=>r.json()).then(items=>{
   const qs=new URLSearchParams(location.search);
   const setParam=qs.get('set');
   const hashId=/^#STA-\d{4}$/.test(location.hash||'')?location.hash.slice(1):null;
-  let startBrowse=false,resolved=false;
+  let startBrowse=true,resolved=false;
   curSet=SETS[0];curPos=0;
   if(hashId){
     const ix=DATA.findIndex(d=>d.id===hashId);
@@ -868,6 +942,7 @@ fetch('vr.json',{cache:'no-cache'}).then(r=>r.json()).then(items=>{
       const s=setParam?SETS.find(x=>x.key===setParam):null;
       if(s&&s.indices.includes(ix)){curSet=s;curPos=s.indices.indexOf(ix);}
       else curPos=ix;
+      startBrowse=false;
       resolved=true;
     }
   }
@@ -885,6 +960,7 @@ fetch('vr.json',{cache:'no-cache'}).then(r=>r.json()).then(items=>{
       else if(ix>=0)curPos=ix;
     }
   }
+  syncSetSwitcher();
   setState(startBrowse?'browse':'reading');
   showPos(curPos);
   initMode();
