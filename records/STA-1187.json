@@ -1,0 +1,69 @@
+{
+ "title": "Scene on Oil Creek, Pennsylvania",
+ "place": "Place unrecorded",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Scene_on_Oil_Creek%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Scene_on_Oil_Creek%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Scene_on_Oil_Creek,_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 385,
+ "id": "STA-1187",
+ "rect": "rect/1186.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.21,
+ "rot": 0.02,
+ "range": 2.57,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.7517,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Scene_on_Oil_Creek%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.7517,
+  "L": [
+   0.298684,
+   0.0,
+   0.126974,
+   0.0,
+   0.784416,
+   0.079221
+  ],
+  "R": [
+   0.297129,
+   0.001471,
+   0.586433,
+   -0.00325,
+   0.780466,
+   0.070122
+  ],
+  "g": [
+   1.0,
+   0.9706
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.02° of rotation. Depth measured deep (2.57% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12019094,
+ "source_revision_id": null,
+ "source_sha1": "618310935beded0f4266e6e8baba5523ef8cbbed"
+}

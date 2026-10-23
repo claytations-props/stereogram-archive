@@ -1,0 +1,69 @@
+{
+ "title": "Erie, Pennsylvania",
+ "place": "Place unrecorded",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/d/db/Erie%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/db/Erie%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Erie,_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 381,
+ "id": "STA-1178",
+ "rect": "rect/1177.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.19,
+ "rot": 0.01,
+ "range": 0.87,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.2023,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/d/db/Erie%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.2023,
+  "L": [
+   0.406579,
+   0.0,
+   0.075658,
+   0.0,
+   0.674541,
+   0.287402
+  ],
+  "R": [
+   0.410863,
+   -0.000388,
+   0.510846,
+   0.001862,
+   0.683168,
+   0.280395
+  ],
+  "g": [
+   0.9895,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.01° of rotation. Depth measured gentle (0.87% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7480378,
+ "source_revision_id": null,
+ "source_sha1": "36b1fe8bc1ca9c4a92007bff3a9cafe44ce357f5"
+}

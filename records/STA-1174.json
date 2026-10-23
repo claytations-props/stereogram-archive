@@ -1,0 +1,69 @@
+{
+ "title": "Stereoscopic views of Gettysburg, Pennsylvania, from Robert N. Dennis collection of stereoscopic views 3",
+ "place": "Gettysburg, Pennsylvania",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "war"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/23/Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Stereoscopic_views_of_Gettysburg,_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg",
+ "license": "Public domain",
+ "w": 2713,
+ "h": 1719,
+ "id": "STA-1174",
+ "rect": "rect/1173.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.15,
+ "rot": 0.03,
+ "range": 1.68,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.4877,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.4877,
+  "L": [
+   0.378125,
+   0.0,
+   0.09401,
+   0.0,
+   0.400986,
+   0.551767
+  ],
+  "R": [
+   0.377723,
+   -0.014749,
+   0.526467,
+   0.002493,
+   0.399684,
+   0.554696
+  ],
+  "g": [
+   1.0,
+   0.9897
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.03° of rotation. Depth measured moderate (1.68% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "war"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7481206,
+ "source_revision_id": null,
+ "source_sha1": "b2a1d8f781e6723042ee85e622bfd10109a98248"
+}

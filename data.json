@@ -69270,5 +69270,1185 @@
   "date_start": 1907,
   "date_end": 1907,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Post office, Smithfield Street, Pittsburg, Pennsylvania",
+  "place": "Place unrecorded",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Post_office%2C_Smithfield_Street%2C_Pittsburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Post_office%2C_Smithfield_Street%2C_Pittsburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Post_office%2C_Smithfield_Street%2C_Pittsburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Post_office,_Smithfield_Street,_Pittsburg,_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1685,
+  "id": "STA-1171",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1170.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 1.43,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.6957,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Post_office%2C_Smithfield_Street%2C_Pittsburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Post_office%2C_Smithfield_Street%2C_Pittsburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.6957,
+   "L": [
+    0.375,
+    0.0,
+    0.089323,
+    0.0,
+    0.875635,
+    0.03088
+   ],
+   "R": [
+    0.376686,
+    0.000464,
+    0.524679,
+    -0.000972,
+    0.877576,
+    0.036483
+   ],
+   "g": [
+    1.0,
+    0.9617
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (1.43% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Stereoscopic views of Gettysburg, Pennsylvania",
+  "place": "Gettysburg, Pennsylvania",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Stereoscopic_views_of_Gettysburg,_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1431,
+  "id": "STA-1172",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1171.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.24,
+  "rot": 0.0,
+  "range": 0.37,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.065,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.065,
+   "L": [
+    0.347396,
+    0.0,
+    0.128906,
+    0.0,
+    0.321713,
+    0.50249
+   ],
+   "R": [
+    0.343722,
+    -0.002999,
+    0.52432,
+    0.005275,
+    0.320471,
+    0.504134
+   ],
+   "g": [
+    1.0,
+    0.9532
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.0° of rotation. Depth measured gentle (0.37% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Stereoscopic views of Gettysburg, Pennsylvania, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Gettysburg, Pennsylvania",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Stereoscopic_views_of_Gettysburg,_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1430,
+  "id": "STA-1173",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1172.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.2,
+  "rot": 0.07,
+  "range": 1.27,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.6453,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.6453,
+   "L": [
+    0.280208,
+    0.0,
+    0.109115,
+    0.0,
+    0.326022,
+    0.51994
+   ],
+   "R": [
+    0.280369,
+    -0.01217,
+    0.524026,
+    0.0066,
+    0.326294,
+    0.499067
+   ],
+   "g": [
+    0.9593,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.2% vertical error and 0.07° of rotation. Depth measured gentle (1.27% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Stereoscopic views of Gettysburg, Pennsylvania, from Robert N. Dennis collection of stereoscopic views 3",
+  "place": "Gettysburg, Pennsylvania",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/23/Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Stereoscopic_views_of_Gettysburg,_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg",
+  "license": "Public domain",
+  "w": 2713,
+  "h": 1719,
+  "id": "STA-1174",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1173.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.03,
+  "range": 1.68,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.4877,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Stereoscopic_views_of_Gettysburg%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.4877,
+   "L": [
+    0.378125,
+    0.0,
+    0.09401,
+    0.0,
+    0.400986,
+    0.551767
+   ],
+   "R": [
+    0.377723,
+    -0.014749,
+    0.526467,
+    0.002493,
+    0.399684,
+    0.554696
+   ],
+   "g": [
+    1.0,
+    0.9897
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.03° of rotation. Depth measured moderate (1.68% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Stereoscopic views of Pittsburgh, Pennsylvania and vicinity",
+  "place": "Place unrecorded",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Stereoscopic_views_of_Pittsburgh%2C_Pennsylvania_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Stereoscopic_views_of_Pittsburgh%2C_Pennsylvania_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/00/Stereoscopic_views_of_Pittsburgh%2C_Pennsylvania_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Stereoscopic_views_of_Pittsburgh,_Pennsylvania_and_vicinity,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1382,
+  "id": "STA-1175",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1174.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.02,
+  "range": 1.75,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8296,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Stereoscopic_views_of_Pittsburgh%2C_Pennsylvania_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Stereoscopic_views_of_Pittsburgh%2C_Pennsylvania_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8296,
+   "L": [
+    0.370312,
+    0.0,
+    0.102865,
+    0.0,
+    0.884417,
+    0.058308
+   ],
+   "R": [
+    0.371032,
+    -0.007354,
+    0.52328,
+    0.00254,
+    0.886916,
+    0.058991
+   ],
+   "g": [
+    1.0,
+    0.9914
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.02° of rotation. Depth measured moderate (1.75% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Kittaning, Pennsylvania",
+  "place": "Place unrecorded",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Kittaning%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Kittaning%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Kittaning,_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 511,
+  "id": "STA-1176",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1175.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.22,
+  "rot": 0.02,
+  "range": 0.71,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1111,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Kittaning%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 1.1111,
+   "L": [
+    0.368421,
+    0.0,
+    0.117763,
+    0.0,
+    0.493151,
+    0.443249
+   ],
+   "R": [
+    0.369167,
+    -0.001018,
+    0.506559,
+    -0.000748,
+    0.496763,
+    0.446562
+   ],
+   "g": [
+    0.9262,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.02° of rotation. Depth measured gentle (0.71% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View near Oil City, Pennsylvania",
+  "place": "Place unrecorded",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/d/d1/View_near_Oil_City%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d1/View_near_Oil_City%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_near_Oil_City,_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 394,
+  "id": "STA-1177",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1176.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.02,
+  "range": 1.29,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.6267,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/d/d1/View_near_Oil_City%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.6267,
+   "L": [
+    0.296053,
+    0.0,
+    0.115132,
+    0.0,
+    0.911168,
+    0.044416
+   ],
+   "R": [
+    0.29487,
+    -0.00705,
+    0.565333,
+    0.002006,
+    0.906729,
+    0.038623
+   ],
+   "g": [
+    1.0,
+    0.9155
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.02° of rotation. Depth measured gentle (1.29% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Erie, Pennsylvania",
+  "place": "Place unrecorded",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/d/db/Erie%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/db/Erie%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Erie,_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 381,
+  "id": "STA-1178",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1177.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.19,
+  "rot": 0.01,
+  "range": 0.87,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2023,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/d/db/Erie%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 1.2023,
+   "L": [
+    0.406579,
+    0.0,
+    0.075658,
+    0.0,
+    0.674541,
+    0.287402
+   ],
+   "R": [
+    0.410863,
+    -0.000388,
+    0.510846,
+    0.001862,
+    0.683168,
+    0.280395
+   ],
+   "g": [
+    0.9895,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.01° of rotation. Depth measured gentle (0.87% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Stereoscopic views of the oil region of Pennsylvania and New York",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/6/66/Stereoscopic_views_of_the_oil_region_of_Pennsylvania_and_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/66/Stereoscopic_views_of_the_oil_region_of_Pennsylvania_and_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Stereoscopic_views_of_the_oil_region_of_Pennsylvania_and_New_York,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 382,
+  "id": "STA-1179",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1178.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.22,
+  "rot": 0.0,
+  "range": 0.81,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.858,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/6/66/Stereoscopic_views_of_the_oil_region_of_Pennsylvania_and_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.858,
+   "L": [
+    0.389474,
+    0.0,
+    0.084868,
+    0.0,
+    0.903141,
+    0.037958
+   ],
+   "R": [
+    0.390105,
+    -0.002269,
+    0.51496,
+    0.004863,
+    0.903531,
+    0.04265
+   ],
+   "g": [
+    1.0,
+    0.9752
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.0° of rotation. Depth measured gentle (0.81% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Stereoscopic views of Catawissa Creek, Pennsylvania",
+  "place": "Place unrecorded",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/0/03/Stereoscopic_views_of_Catawissa_Creek%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/03/Stereoscopic_views_of_Catawissa_Creek%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Stereoscopic_views_of_Catawissa_Creek,_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 396,
+  "id": "STA-1180",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1179.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.24,
+  "rot": 0.01,
+  "range": 0.76,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.773,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/0/03/Stereoscopic_views_of_Catawissa_Creek%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 1.773,
+   "L": [
+    0.380263,
+    0.0,
+    0.099342,
+    0.0,
+    0.411616,
+    0.526515
+   ],
+   "R": [
+    0.378081,
+    -4.1e-05,
+    0.525349,
+    0.001121,
+    0.409581,
+    0.529591
+   ],
+   "g": [
+    0.9157,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.01° of rotation. Depth measured gentle (0.76% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Delaware Water Gap, Pennsylvania, by Continent Stereoscopic Company",
+  "place": "Place unrecorded",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Delaware_Water_Gap%2C_Pennsylvania%2C_by_Continent_Stereoscopic_Company.jpg/1920px-Delaware_Water_Gap%2C_Pennsylvania%2C_by_Continent_Stereoscopic_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Delaware_Water_Gap%2C_Pennsylvania%2C_by_Continent_Stereoscopic_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Delaware_Water_Gap,_Pennsylvania,_by_Continent_Stereoscopic_Company.jpg",
+  "license": "Public domain",
+  "w": 2655,
+  "h": 1663,
+  "id": "STA-1181",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1180.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.04,
+  "range": 1.67,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.0953,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Delaware_Water_Gap%2C_Pennsylvania%2C_by_Continent_Stereoscopic_Company.jpg/1920px-Delaware_Water_Gap%2C_Pennsylvania%2C_by_Continent_Stereoscopic_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0953,
+   "L": [
+    0.365104,
+    0.0,
+    0.126823,
+    0.0,
+    0.532003,
+    0.424356
+   ],
+   "R": [
+    0.360981,
+    -0.003934,
+    0.508722,
+    -0.002235,
+    0.535517,
+    0.419339
+   ],
+   "g": [
+    1.0,
+    0.9459
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.04° of rotation. Depth measured moderate (1.67% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Continent Stereoscopic Company",
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Pennsylvania Hospital, side view",
+  "place": "Place unrecorded",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Pennsylvania_Hospital%2C_side_view%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pennsylvania_Hospital%2C_side_view%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/31/Pennsylvania_Hospital%2C_side_view%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Pennsylvania_Hospital,_side_view,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1397,
+  "id": "STA-1182",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1181.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.05,
+  "range": 3.8,
+  "f": 0.74,
+  "depth": "Deep",
+  "va": 1.1442,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Pennsylvania_Hospital%2C_side_view%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pennsylvania_Hospital%2C_side_view%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1442,
+   "L": [
+    0.392708,
+    0.0,
+    0.099219,
+    0.0,
+    0.672449,
+    0.153571
+   ],
+   "R": [
+    0.392209,
+    -0.002364,
+    0.510646,
+    0.002623,
+    0.675371,
+    0.14776
+   ],
+   "g": [
+    0.9615,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.05° of rotation. Depth measured deep (3.8% of frame width); hung in the VR Parlor at 74% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Corn binder at work, side view, showing rows of bundles, Crawford County, Pennsylvania",
+  "place": "Place unrecorded",
+  "year": "1906",
+  "sy": 1906,
+  "era": "late",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Corn_binder_at_work%2C_side_view%2C_showing_rows_of_bundles%2C_Crawford_County%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Corn_binder_at_work%2C_side_view%2C_showing_rows_of_bundles%2C_Crawford_County%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Corn_binder_at_work,_side_view,_showing_rows_of_bundles,_Crawford_County,_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 396,
+  "id": "STA-1183",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1182.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.19,
+  "rot": 0.0,
+  "range": 1.45,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1176,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Corn_binder_at_work%2C_side_view%2C_showing_rows_of_bundles%2C_Crawford_County%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 1.1176,
+   "L": [
+    0.375,
+    0.0,
+    0.0875,
+    0.0,
+    0.643939,
+    0.299242
+   ],
+   "R": [
+    0.379471,
+    -0.00555,
+    0.520577,
+    -0.001973,
+    0.651051,
+    0.296147
+   ],
+   "g": [
+    1.0,
+    0.947
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.0° of rotation. Depth measured gentle (1.45% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1906",
+  "date_start": 1906,
+  "date_end": 1906,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Franklin Street, Scranton, Pennsylvania",
+  "place": "Place unrecorded",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Franklin_Street%2C_Scranton%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Franklin_Street%2C_Scranton%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Franklin_Street%2C_Scranton%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Franklin_Street,_Scranton,_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1792,
+  "id": "STA-1184",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1183.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.01,
+  "range": 3.93,
+  "f": 0.61,
+  "depth": "Deep",
+  "va": 1.366,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Franklin_Street%2C_Scranton%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Franklin_Street%2C_Scranton%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.366,
+   "L": [
+    0.40625,
+    0.0,
+    0.085156,
+    0.0,
+    0.454256,
+    0.266905
+   ],
+   "R": [
+    0.406384,
+    0.001712,
+    0.506168,
+    -0.003274,
+    0.453697,
+    0.273201
+   ],
+   "g": [
+    0.9547,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured deep (3.93% of frame width); hung in the VR Parlor at 61% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Mauch Chunk, Pennsylvania, from Robert N. Dennis collection of stereoscopic views 5",
+  "place": "Place unrecorded",
+  "year": "1859–1885",
+  "sy": 1859,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Mauch_Chunk%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.png/1920px-Mauch_Chunk%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mauch_Chunk%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Mauch_Chunk,_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1408,
+  "id": "STA-1185",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1184.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.0,
+  "range": 2.4,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.9307,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Mauch_Chunk%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.png/1920px-Mauch_Chunk%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9307,
+   "L": [
+    0.377604,
+    0.0,
+    0.110156,
+    0.0,
+    0.788462,
+    0.149291
+   ],
+   "R": [
+    0.374868,
+    -0.000952,
+    0.514711,
+    -0.002362,
+    0.784429,
+    0.166854
+   ],
+   "g": [
+    0.9794,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured deep (2.4% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1859/1885",
+  "date_start": 1859,
+  "date_end": 1885,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Pennsylvania Avenue",
+  "place": "Place unrecorded",
+  "year": "1865–1920",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/2/25/Pennsylvania_Avenue%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/25/Pennsylvania_Avenue%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Pennsylvania_Avenue,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 435,
+  "id": "STA-1186",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1185.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.19,
+  "rot": 0.04,
+  "range": 3.55,
+  "f": 0.98,
+  "depth": "Deep",
+  "va": 0.9091,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/2/25/Pennsylvania_Avenue%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.9091,
+   "L": [
+    0.342105,
+    0.0,
+    0.136184,
+    0.0,
+    0.657471,
+    0.293103
+   ],
+   "R": [
+    0.343326,
+    -0.011656,
+    0.523082,
+    0.006208,
+    0.660111,
+    0.286546
+   ],
+   "g": [
+    1.0,
+    0.8849
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.04° of rotation. Depth measured deep (3.55% of frame width); hung in the VR Parlor at 98% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865/1920",
+  "date_start": 1865,
+  "date_end": 1920,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Scene on Oil Creek, Pennsylvania",
+  "place": "Place unrecorded",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Scene_on_Oil_Creek%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Scene_on_Oil_Creek%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Scene_on_Oil_Creek,_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 385,
+  "id": "STA-1187",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1186.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.21,
+  "rot": 0.02,
+  "range": 2.57,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.7517,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Scene_on_Oil_Creek%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.7517,
+   "L": [
+    0.298684,
+    0.0,
+    0.126974,
+    0.0,
+    0.784416,
+    0.079221
+   ],
+   "R": [
+    0.297129,
+    0.001471,
+    0.586433,
+    -0.00325,
+    0.780466,
+    0.070122
+   ],
+   "g": [
+    1.0,
+    0.9706
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.02° of rotation. Depth measured deep (2.57% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Mauch Chunk, Pennsylvania, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Place unrecorded",
+  "year": "1859–1885",
+  "sy": 1859,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Mauch_Chunk%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-Mauch_Chunk%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mauch_Chunk%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Mauch_Chunk,_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1372,
+  "id": "STA-1188",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1187.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 0.5,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2782,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Mauch_Chunk%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-Mauch_Chunk%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2782,
+   "L": [
+    0.394792,
+    0.0,
+    0.075781,
+    0.0,
+    0.616424,
+    0.338358
+   ],
+   "R": [
+    0.395247,
+    0.006911,
+    0.525484,
+    -0.01818,
+    0.620648,
+    0.337378
+   ],
+   "g": [
+    1.0,
+    0.9615
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (0.5% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1859/1885",
+  "date_start": 1859,
+  "date_end": 1885,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "On the Schuylkil (Schuylkill), Pennsylvania",
+  "place": "Place unrecorded",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/On_the_Schuylkil_%28Schuylkill%29%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-On_the_Schuylkil_%28Schuylkill%29%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/43/On_the_Schuylkil_%28Schuylkill%29%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:On_the_Schuylkil_(Schuylkill),_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1439,
+  "id": "STA-1189",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1188.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.24,
+  "rot": 0.01,
+  "range": 2.64,
+  "f": 0.57,
+  "depth": "Deep",
+  "va": 2.4108,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/On_the_Schuylkil_%28Schuylkill%29%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-On_the_Schuylkil_%28Schuylkill%29%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.4108,
+   "L": [
+    0.372917,
+    0.0,
+    0.117448,
+    0.0,
+    0.294351,
+    0.457384
+   ],
+   "R": [
+    0.369001,
+    -0.002207,
+    0.517979,
+    0.004142,
+    0.292689,
+    0.44787
+   ],
+   "g": [
+    0.9427,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.01° of rotation. Depth measured deep (2.64% of frame width); hung in the VR Parlor at 57% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Early morning on the Juniata, Pennsylvania",
+  "place": "Place unrecorded",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Early_morning_on_the_Juniata%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Early_morning_on_the_Juniata%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Early_morning_on_the_Juniata,_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 387,
+  "id": "STA-1190",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1189.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.24,
+  "rot": 0.01,
+  "range": 3.95,
+  "f": 0.93,
+  "depth": "Deep",
+  "va": 0.8588,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Early_morning_on_the_Juniata%2C_Pennsylvania%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.8588,
+   "L": [
+    0.384211,
+    0.0,
+    0.098026,
+    0.0,
+    0.878553,
+    0.050388
+   ],
+   "R": [
+    0.388165,
+    -0.008152,
+    0.519002,
+    0.003748,
+    0.882652,
+    0.054279
+   ],
+   "g": [
+    0.9197,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.01° of rotation. Depth measured deep (3.95% of frame width); hung in the VR Parlor at 93% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]
