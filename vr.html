@@ -77,7 +77,7 @@ a{color:var(--brass)}
       <button id="randBtn">Random</button>
       <button id="nextBtn">Next ›</button>
       <button id="browseBtn">Browse the shelves</button>
-      <button id="recBtn">Catalogue card: on</button>
+      <button id="recBtn">Catalogue card: off</button>
     </div>
   </div>
 </div>
@@ -404,6 +404,7 @@ const nextBtn3d=arrowButton('\u203a','next',{vis:.18,hitW:.27,hitH:.34});
 const next10Btn=arrowButton('\u00bb','next10',{vis:.18,hitW:.27,hitH:.34});
 const browseBtn3d=pillButton('BROWSE','browse',.33);
 const recordBtn3d=pillButton('RECORD','record',.33);
+recordBtn3d.userData.hit.userData.redraw('RECORD',true); // the catalogue card starts off (dim), per Clay
 const exitBtn=pillButton('EXIT','exit',.25);
 const ROW_DEFS=[[prev10Btn,.18],[prevBtn3d,.18],[nextBtn3d,.18],[next10Btn,.18],[browseBtn3d,.33],[recordBtn3d,.33],[exitBtn,.25]];
 {
@@ -542,7 +543,7 @@ function browseHits(){return BROWSE_STATIC_HITS.concat(TILE_HITS);}
 function currentHits(){return uiState==='browse'?ROW_HITS.concat(browseHits()):ROW_HITS;}
 
 /* ---------- shared state: one archive, one memory of where you are --- */
-let SETS=[],curSet=null,curPos=0,cur=-1,busy=false,uiState='reading',wallPage=0,recordOn=true;
+let SETS=[],curSet=null,curPos=0,cur=-1,busy=false,uiState='reading',wallPage=0,recordOn=false;
 function persist(){
   if(!curSet||cur<0||!DATA[cur])return;
   try{localStorage.setItem('parlorState',JSON.stringify({setKey:curSet.key,cardId:DATA[cur].id}));}catch(e){}
