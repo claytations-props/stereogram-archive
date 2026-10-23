@@ -1,0 +1,217 @@
+{
+ "assignments": {
+  "STA-1110": {
+   "tags": [
+    "monument",
+    "construction",
+    "house"
+   ],
+   "conf": "high"
+  },
+  "STA-1111": {
+   "tags": [
+    "monument",
+    "construction",
+    "house"
+   ],
+   "conf": "high"
+  },
+  "STA-1112": {
+   "tags": [
+    "parade",
+    "crowd",
+    "statue"
+   ],
+   "conf": "high"
+  },
+  "STA-1113": {
+   "tags": [
+    "garden",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1114": {
+   "tags": [
+    "storefront",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-1116": {
+   "tags": [
+    "staircase",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1117": {
+   "tags": [
+    "staircase",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1119": {
+   "tags": [
+    "mansion",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1120": {
+   "tags": [
+    "staircase",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1121": {
+   "tags": [
+    "statue",
+    "children",
+    "cannon"
+   ],
+   "conf": "high"
+  },
+  "STA-1122": {
+   "tags": [
+    "statue",
+    "children",
+    "cannon"
+   ],
+   "conf": "high"
+  },
+  "STA-1123": {
+   "tags": [
+    "monument",
+    "construction",
+    "house"
+   ],
+   "conf": "high"
+  },
+  "STA-1124": {
+   "tags": [
+    "monument",
+    "statue",
+    "town square",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1125": {
+   "tags": [
+    "garden",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1126": {
+   "tags": [
+    "soldiers",
+    "cannon",
+    "mansion",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1127": {
+   "tags": [
+    "statue",
+    "children",
+    "cannon"
+   ],
+   "conf": "high"
+  },
+  "STA-1128": {
+   "tags": [
+    "garden",
+    "trees",
+    "statue"
+   ],
+   "conf": "high"
+  },
+  "STA-1129": {
+   "tags": [
+    "garden",
+    "flowers",
+    "fountain"
+   ],
+   "conf": "high"
+  },
+  "STA-1130": {
+   "tags": [
+    "greenhouse",
+    "conservatory",
+    "flowers",
+    "palm tree"
+   ],
+   "conf": "high"
+  },
+  "STA-1134": {
+   "tags": [
+    "monument",
+    "statue",
+    "town square",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1135": {
+   "tags": [
+    "room interior",
+    "fireplace"
+   ],
+   "conf": "high"
+  },
+  "STA-1137": {
+   "tags": [
+    "monument",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1138": {
+   "tags": [
+    "statue",
+    "monument",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1139": {
+   "tags": [
+    "monument",
+    "statue",
+    "town square",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1141": {
+   "tags": [
+    "mansion",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1142": {
+   "tags": [
+    "garden",
+    "trees",
+    "river"
+   ],
+   "conf": "high"
+  }
+ },
+ "held": {
+  "STA-1115": "Large brick government office building has no in-vocabulary term; only a fence and one small bare tree are also visible, so no second honest tag.",
+  "STA-1118": "Columned government building has no in-vocabulary term and the foreground is a bare empty lot; no second subject is resolvable.",
+  "STA-1131": "Decorated ballroom interior; 'room interior' is the only in-vocabulary term that honestly fits, below the two-tag minimum.",
+  "STA-1132": "Post office building has no in-vocabulary term; the street vehicles are too small to verify, leaving no honest tag set.",
+  "STA-1133": "Columned post office building facing an empty street; no in-vocabulary term for the building and no other resolvable subject.",
+  "STA-1136": "Columned post office building has no in-vocabulary term and nothing else in the empty street-corner view is resolvable enough to tag.",
+  "STA-1140": "School building is the only resolvable subject; 'schoolhouse' alone is below the two-tag minimum and no second visible term is honest.",
+  "STA-1143": "Columned post office building has no in-vocabulary term; the empty street corner offers no other resolvable subject."
+ }
+}
