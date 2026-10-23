@@ -1,0 +1,69 @@
+{
+ "title": "Westborough town pump and hardware store",
+ "place": "Place unrecorded",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Westborough_town_pump_and_hardware_store%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Westborough_town_pump_and_hardware_store%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Westborough_town_pump_and_hardware_store,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 391,
+ "id": "STA-1039",
+ "rect": "rect/1038.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.32,
+ "rot": 0.02,
+ "range": 0.61,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.3474,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Westborough_town_pump_and_hardware_store%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.3474,
+  "L": [
+   0.377632,
+   0.0,
+   0.100658,
+   0.0,
+   0.544757,
+   0.134271
+  ],
+  "R": [
+   0.376353,
+   0.004073,
+   0.518286,
+   -0.011049,
+   0.544202,
+   0.140383
+  ],
+  "g": [
+   1.0,
+   0.9719
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.32% vertical error and 0.02° of rotation. Depth measured gentle (0.61% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7440776,
+ "source_revision_id": null,
+ "source_sha1": "bf15659f3b5b32cf65b0851b7dcfd70abcd1cc59"
+}

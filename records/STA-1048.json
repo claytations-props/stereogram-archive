@@ -1,0 +1,69 @@
+{
+ "title": "Mechanics Hall",
+ "place": "Place unrecorded",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Mechanics_Hall%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Mechanics_Hall%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Mechanics_Hall%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Mechanics_Hall,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1401,
+ "id": "STA-1048",
+ "rect": "rect/1047.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.14,
+ "rot": 0.05,
+ "range": 0.89,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.2229,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Mechanics_Hall%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Mechanics_Hall%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.2229,
+  "L": [
+   0.394271,
+   0.0,
+   0.090365,
+   0.0,
+   0.629705,
+   0.079858
+  ],
+  "R": [
+   0.394829,
+   -0.000967,
+   0.507313,
+   0.000522,
+   0.629353,
+   0.077378
+  ],
+  "g": [
+   0.9701,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.05° of rotation. Depth measured gentle (0.89% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7448180,
+ "source_revision_id": null,
+ "source_sha1": "b591f4042c8fe074272a3f2a111a8102bd20a80a"
+}

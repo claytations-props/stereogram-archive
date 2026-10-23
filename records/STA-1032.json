@@ -1,0 +1,71 @@
+{
+ "title": "View of a river valley and farms near Hubbardston",
+ "place": "Place unrecorded",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/View_of_a_river_valley_and_farms_near_Hubbardston%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/75/View_of_a_river_valley_and_farms_near_Hubbardston%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_river_valley_and_farms_near_Hubbardston,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 376,
+ "id": "STA-1032",
+ "rect": "rect/1031.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.24,
+ "rot": 0.02,
+ "range": 0.65,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 2.0414,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/7/75/View_of_a_river_valley_and_farms_near_Hubbardston%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 2.0414,
+  "L": [
+   0.389474,
+   0.0,
+   0.094079,
+   0.0,
+   0.385638,
+   0.549202
+  ],
+  "R": [
+   0.389512,
+   -0.011547,
+   0.534911,
+   -0.009637,
+   0.38736,
+   0.552361
+  ],
+  "g": [
+   0.9036,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.02° of rotation. Depth measured gentle (0.65% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7440832,
+ "source_revision_id": null,
+ "source_sha1": "312d38780bf9731299287952c62c1ce6670cbe05"
+}

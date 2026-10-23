@@ -1,0 +1,69 @@
+{
+ "title": "Commercial building, Warren",
+ "place": "Place unrecorded",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Commercial_building%2C_Warren%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Commercial_building%2C_Warren%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Commercial_building,_Warren,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 437,
+ "id": "STA-1050",
+ "rect": "rect/1049.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.25,
+ "rot": 0.02,
+ "range": 0.65,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.434,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Commercial_building%2C_Warren%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.434,
+  "L": [
+   0.443421,
+   0.0,
+   0.044079,
+   0.0,
+   0.537757,
+   0.083524
+  ],
+  "R": [
+   0.440063,
+   0.006736,
+   0.504453,
+   -0.013851,
+   0.536705,
+   0.059054
+  ],
+  "g": [
+   0.9781,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.25% vertical error and 0.02° of rotation. Depth measured gentle (0.65% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7440876,
+ "source_revision_id": null,
+ "source_sha1": "284be1f971832ff2b0f54ede219716cf5cfde0f7"
+}

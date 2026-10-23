@@ -1,0 +1,69 @@
+{
+ "title": "Worcester St",
+ "place": "Place unrecorded",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Worcester_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Worcester_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Worcester_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Worcester_St,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1389,
+ "id": "STA-1029",
+ "rect": "rect/1028.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.13,
+ "rot": 0.0,
+ "range": 1.56,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.3022,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Worcester_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Worcester_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.3022,
+  "L": [
+   0.392708,
+   0.0,
+   0.080469,
+   0.0,
+   0.594456,
+   0.195585
+  ],
+  "R": [
+   0.390655,
+   0.001356,
+   0.504903,
+   -0.005173,
+   0.592885,
+   0.191603
+  ],
+  "g": [
+   0.9485,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.0° of rotation. Depth measured moderate (1.56% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7454181,
+ "source_revision_id": null,
+ "source_sha1": "ce37e71ecd65835fcb2d057338f2b36ab2624776"
+}
