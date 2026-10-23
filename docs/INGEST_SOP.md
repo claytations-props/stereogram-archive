@@ -96,7 +96,35 @@ How a v2 record is built at merge (all mechanical — `tools/v2fields.py`):
   `source_revision_id` is null at merge time; a later pin pass fills it
   from the Commons API by page ID (as the Phase 1 migration did).
 
-## 5. Staging retention
+## 5. Tagging (index layer, after merge)
+
+New cards ship untagged; tagging is a vision pass that runs after a
+batch's merge and publish, before the next batch's review. It is the
+same discipline as the full-catalog run (see docs/tagging-full-run.md
+and docs/tagging-pilot.md):
+
+1. For each new STA id, view
+   `~/workspace/stereogram-archive-assets/thumbs-rect/<STA>/w1000.jpg`;
+   if the rectified crop is ambiguous or a subject looks cropped out,
+   check the original-scan fallback at `thumbs/<STA>/w1000.jpg` first.
+   (After the Internet Archive image switchover, view the hosted
+   thumbs instead of the repo-local ones.)
+2. Title is context only; tags describe what is VISIBLE. Assign 2-8
+   terms from `tools/tag_vocabulary.json` — nothing else (the build
+   refuses out-of-vocabulary tags). Low-confidence cards get NO tags
+   and go on the held list with a one-line reason; never guess.
+3. Write an assignments file, e.g. `tagging/run-<batch>.json`:
+   `{"assignments": {"STA-1027": {"tags": [...], "conf": "high"}}}`.
+4. Apply: `python tools/tag_batch.py --assignments tagging/run-<batch>.json`
+   (validates vocabulary and tag count; idempotent — it never
+   overwrites or degrades tags a card already has).
+5. Regenerate outputs and validate:
+   `python tools/build_catalog.py` then
+   `python tools/validate_catalog.py --v2` (must report 0 errors).
+6. Commit records + regenerated outputs + tagging notes together,
+   push, and live-verify the tagged cards render and are searchable.
+
+## 6. Staging retention
 
 - `staging/` is git-ignored working space, not part of the repository.
 - Keep a batch's `manifest.json` and review notes until its merge has
