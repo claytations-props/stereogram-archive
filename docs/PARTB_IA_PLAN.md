@@ -5,8 +5,14 @@ Written 2026-10-22. Clay approved the move to the Internet Archive
 card. The Archive needs no card, and its upload API makes the move
 fully scripted — nothing is uploaded by hand.)
 
-**Status: PREP COMPLETE, TEST UPLOAD PASSED. The full upload has
-NOT been started — it waits for a separate go.**
+**Status: UPLOAD RUNNING under the supervised service
+(`stereogram-ia-upload.service`, one paced stream, images item
+then masters). Scope TRIMMED 2026-10-23 (Clay's decision): the
+images item is now the 1,026 rectified pairs ONLY — see the trim
+note under the item table. As of the 2026-10-23 rescan, all
+1,026 rectified pairs are verified present on IA (size + MD5),
+so the images item is complete; the masters upload continues
+independently in the background.**
 
 ## Item plan
 
@@ -16,9 +22,20 @@ scratch test item:
 
 | Item | Mediatype | Contents | Files | Size |
 |---|---|---|---|---|
-| `stereogram-archive-images` | image | `rect/<n>.jpg` rectified pairs; `thumbs/<STA>/w{250,500,1000}.jpg`; `thumbs-rect/<STA>/w{250,500,1000}.jpg` | 7,182 | 532.5 MB |
+| `stereogram-archive-images` | image | `rect/<n>.jpg` rectified pairs only (trimmed scope, 2026-10-23) | 1,026 | 258.0 MB |
 | `stereogram-archive-masters` | data | `masters/<STA>/<original filename>` — the preservation masters, paths exactly as in the local preservation store | 1,026 | 4,873.6 MB |
 | `stereogram-archive-test` | image | STA-0001 only: its rect pair, 6 thumbnails, and its master | 8 | 1.1 MB |
+
+**Trim note (2026-10-23).** The original plan also moved the
+two local thumbnail ladders (`thumbs/`, `thumbs-rect/`, 6,156
+files). Clay trimmed them from the move: the gallery grid keeps
+using the Commons CDN thumbnails exactly as it does today, and
+the hosted-ladder speed win described in
+`docs/speed-switchover-prep.md` is therefore off the table.
+1,834 thumbnail files were uploaded before the trim; they stay
+on the item, unused — nothing is deleted from IA. The local
+ladders still exist in the assets store; they are simply no
+longer part of this move.
 
 Metadata on each real item: creator "Claytations Props", subject
 tags (stereographs; stereoscopic photography; vintage photography;
@@ -27,12 +44,13 @@ own About/footer wording — factual text about the collection, no
 new claims. The masters item's description states that SHA-256 is
 recorded per file in the archive fixity manifest.
 
-After the images item is verified, the site's `ASSET_BASE`
-(tools/build_catalog.py) becomes
-`https://archive.org/download/stereogram-archive-images/`, which
-produces exactly the URL shapes the catalog already expects:
-`{base}rect/<n>.jpg`, `{base}thumbs/<STA>/w<width>.jpg`,
-`{base}thumbs-rect/<STA>/w<width>.jpg`.
+After the rectified pairs are verified complete, the site's
+`ASSET_BASE` (tools/build_catalog.py) becomes
+`https://archive.org/download/stereogram-archive-images/`.
+Only the rect URL shape is served from IA —
+`{base}rect/<n>.jpg` (viewer modes and the Parlor). Thumbnail
+URLs in the gallery grid stay on the Commons CDN (see the trim
+note above).
 
 ## The upload script
 
@@ -58,9 +76,12 @@ produces exactly the URL shapes the catalog already expects:
 - Commands for the full run, in order:
   1. `python tools/upload_ia.py --item images`
   2. `python tools/upload_ia.py --item masters`
-  3. `python tools/upload_ia.py --item images --verify-only` and
-     `--item masters --verify-only` — both must report 0 missing /
-     0 mismatched before the switchover.
+  3. `python tools/upload_ia.py --item images --verify-only` —
+     the rectified pairs must report 0 missing / 0 mismatched
+     before the switchover. The masters item is preservation
+     only, is never served by the site, and does NOT gate the
+     switch; its upload and verify continue independently in
+     the background.
 
 ## Thumbnail ladder (completed 2026-10-22)
 
@@ -120,17 +141,23 @@ executed against `stereogram-archive-test` on 2026-10-22:
    them by checksum, and `--verify-only` reported 8 OK /
    0 missing / 0 mismatched.
 
-The same four checks must be re-run against
-`stereogram-archive-images` (one rect pair + one thumbnail)
-after the full upload, before `ASSET_BASE` is switched.
+The same checks must be re-run against
+`stereogram-archive-images` (one rect pair) once the rectified
+pairs are verified complete, before `ASSET_BASE` is switched.
+(Only rect pairs are served from IA under the trimmed scope.)
 
-## Switchover steps (after the full upload verifies)
+## Switchover steps (gate: rectified pairs verified complete)
+
+The masters upload does not gate the switch (see the upload
+script section, step 3).
 
 1. Re-run the CORS checks against the real images item.
 2. Set `ASSET_BASE` in tools/build_catalog.py to
    `https://archive.org/download/stereogram-archive-images/`
-   (or pass `--asset-base`), regenerate outputs, and wire the
-   gallery/Parlor thumbnail URLs to the ladders.
+   (or pass `--asset-base`) and regenerate outputs. The viewer
+   and Parlor pick up `{base}rect/<n>.jpg`; the gallery grid's
+   thumbnails keep coming from the Commons CDN — no ladder
+   wiring (trimmed scope).
 3. Push, then verify live: gallery browse, a record open, and
    the Parlor in the headset (Clay's verdict governs).
 4. Remove the `rect/` binaries from the repo working tree in a
