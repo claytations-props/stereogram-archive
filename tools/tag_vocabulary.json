@@ -1,5 +1,5 @@
 {
- "about": "Controlled subject vocabulary for the archive's INDEX layer (see docs/tagging-pilot.md). Tags are machine-assigned index terms describing what is visibly pictured; they are NOT catalog text and never enter title/place/date/blurb. The tagger must choose only terms listed here (lowercase, singular). Grouped for human review; the flat term set is the authority.",
+ "about": "Controlled subject vocabulary for the archive's INDEX layer (see docs/tagging-pilot.md). Tags are machine-assigned index terms describing what is visibly pictured; they are NOT catalog text and never enter title/place/date/blurb. The tagger must choose only terms listed here (lowercase, singular). Grouped for human review; the flat term set is the authority. v2 (2026-10-23 full-catalog run): +trees, pier, town square, pavilion, synagogue, derrick, headframe from pilot gap candidates.",
  "groups": {
   "animals": [
    "horse",
@@ -61,7 +61,10 @@
    "pyramid",
    "sphinx",
    "ruins",
-   "skyscraper"
+   "skyscraper",
+   "town square",
+   "pavilion",
+   "synagogue"
   ],
   "interiors & exhibits": [
    "room interior",
@@ -99,7 +102,8 @@
    "flowers",
    "glacier",
    "snow",
-   "ice"
+   "ice",
+   "trees"
   ],
   "people & activity": [
    "crowd",
@@ -186,7 +190,8 @@
    "canal lock",
    "geyser",
    "hot spring",
-   "fjord"
+   "fjord",
+   "pier"
   ],
   "work & industry": [
    "logging",
@@ -206,7 +211,9 @@
    "steam shovel",
    "quarry",
    "ice harvesting",
-   "textile mill"
+   "textile mill",
+   "derrick",
+   "headframe"
   ]
  },
  "version": 1
