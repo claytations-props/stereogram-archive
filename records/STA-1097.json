@@ -1,0 +1,69 @@
+{
+ "title": "Mauch Chunk",
+ "place": "Place unrecorded",
+ "year": "1859–1885",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Mauch_Chunk%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Mauch_Chunk%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/98/Mauch_Chunk%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Mauch_Chunk,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1404,
+ "id": "STA-1097",
+ "rect": "rect/1096.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.02,
+ "range": 2.75,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.8785,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Mauch_Chunk%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Mauch_Chunk%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8785,
+  "L": [
+   0.388021,
+   0.0,
+   0.10026,
+   0.0,
+   0.860914,
+   0.088832
+  ],
+  "R": [
+   0.387173,
+   0.001469,
+   0.564262,
+   -0.005388,
+   0.866624,
+   0.079367
+  ],
+  "g": [
+   1.0,
+   0.975
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured deep (2.75% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859/1885",
+ "date_start": 1859,
+ "date_end": 1885,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7482351,
+ "source_revision_id": null,
+ "source_sha1": "6f2b48cdba4406f3a821e5b301ef16c752550b78"
+}

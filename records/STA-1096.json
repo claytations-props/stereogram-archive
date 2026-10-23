@@ -1,0 +1,69 @@
+{
+ "title": "Panorama Mauch Chunk",
+ "place": "Place unrecorded",
+ "year": "1859–1885",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Panorama_Mauch_Chunk%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Panorama_Mauch_Chunk%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Panorama_Mauch_Chunk%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Panorama_Mauch_Chunk,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1379,
+ "id": "STA-1096",
+ "rect": "rect/1095.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.03,
+ "range": 3.12,
+ "f": 0.91,
+ "depth": "Deep",
+ "va": 1.1319,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Panorama_Mauch_Chunk%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Panorama_Mauch_Chunk%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.1319,
+  "L": [
+   0.393229,
+   0.0,
+   0.08151,
+   0.0,
+   0.689762,
+   0.276629
+  ],
+  "R": [
+   0.383326,
+   -0.004294,
+   0.510211,
+   -0.000567,
+   0.680017,
+   0.282464
+  ],
+  "g": [
+   1.0,
+   0.9958
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.03° of rotation. Depth measured deep (3.12% of frame width); hung in the VR Parlor at 91% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859/1885",
+ "date_start": 1859,
+ "date_end": 1885,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7482599,
+ "source_revision_id": null,
+ "source_sha1": "cab58d38cc00e889d67681d577751354e73985ba"
+}
