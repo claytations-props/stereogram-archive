@@ -1,12 +1,11 @@
 {
  "title": "Plauterkill Gap, Catskill Mountains, by London Stereoscopic View Co.",
- "place": "Place unrecorded",
+ "place": "Catskill Mountains",
  "year": "1858",
  "sy": 1858,
  "era": "early",
  "cats": [
-  "mountains",
-  "world"
+  "mountains"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Plauterkill_Gap%2C_Catskill_Mountains%2C_by_London_Stereoscopic_View_Co..jpg/1920px-Plauterkill_Gap%2C_Catskill_Mountains%2C_by_London_Stereoscopic_View_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -17,7 +16,7 @@
  "h": 1199,
  "id": "STA-1058",
  "rect": "rect/1057.jpg",
- "coll": "Source unrecorded",
+ "coll": "Robert N. Dennis Collection",
  "vert": 0.09,
  "rot": 0.24,
  "range": 9.52,
@@ -49,14 +48,13 @@
   ]
  },
  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.24° of rotation. Depth measured deep (9.52% of frame width); hung in the VR Parlor at 38% size.",
- "repository": null,
- "collection_name": null,
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
  "publisher": null,
  "creator": "London Stereoscopic View Co.",
  "creator_dates": null,
  "facets": [
-  "mountains",
-  "world"
+  "mountains"
  ],
  "publisher_series": null,
  "date_edtf": "1858",

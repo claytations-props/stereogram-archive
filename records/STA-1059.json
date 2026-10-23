@@ -1,13 +1,12 @@
 {
  "title": "Kauterskill Fall, Catskill Mountains, by London Stereoscopic View Co.",
- "place": "Place unrecorded",
+ "place": "Catskill Mountains",
  "year": "1858",
  "sy": 1858,
  "era": "early",
  "cats": [
   "water",
-  "mountains",
-  "world"
+  "mountains"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Kauterskill_Fall%2C_Catskill_Mountains%2C_by_London_Stereoscopic_View_Co..jpg/1920px-Kauterskill_Fall%2C_Catskill_Mountains%2C_by_London_Stereoscopic_View_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -18,7 +17,7 @@
  "h": 1254,
  "id": "STA-1059",
  "rect": "rect/1058.jpg",
- "coll": "Source unrecorded",
+ "coll": "Robert N. Dennis Collection",
  "vert": 0.1,
  "rot": 0.0,
  "range": 2.97,
@@ -50,15 +49,14 @@
   ]
  },
  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured deep (2.97% of frame width); hung in the VR Parlor at full size.",
- "repository": null,
- "collection_name": null,
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
  "publisher": null,
  "creator": "London Stereoscopic View Co.",
  "creator_dates": null,
  "facets": [
   "water",
-  "mountains",
-  "world"
+  "mountains"
  ],
  "publisher_series": null,
  "date_edtf": "1858",
