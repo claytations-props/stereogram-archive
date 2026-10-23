@@ -259,7 +259,7 @@ canvas#ana.show{display:block}
 </section>
 
 <footer>
-All photographs are public domain or CC0, via Wikimedia Commons, from collections including the Robert N. Dennis Collection of Stereoscopic Views (NYPL), the Library of Congress, the Met Open Access, the National Archives, and the Getty Open Content program. Each photograph links to its source page. Every pair is measured and rectified through the archive process before it appears here. No tracking; your reading list lives only in your browser.
+All photographs are public domain or CC0, via Wikimedia Commons, from collections including the Robert N. Dennis Collection of Stereoscopic Views (NYPL), the Library of Congress, the Met Open Access, the National Archives, and the Getty Open Content program. Each photograph links to its source page. Every pair is measured and rectified through the archive process before it appears here. No tracking; your reading list lives only in your browser. Slide projector sound: <a href="https://freesound.org/people/designerschoice/sounds/837655/">"Slide projector changes" by designerschoice</a> — freesound.org — <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
 </footer>
 
 <div class="viewer" id="viewer" role="dialog" aria-modal="true" aria-label="Item viewer">
@@ -590,7 +590,8 @@ document.querySelectorAll(".mode[data-m]").forEach(b=>b.onclick=()=>setMode(b.da
    timings (a tad faster, per Clay). Opening the viewer fresh
    (showCurrent(false)) never runs this. */
 let slidePhase=null,slideAnim=null,slideDelta=0,slideSwapDone=false,slideT0=0,slideCycle=0,slideTimers=[];
-let actx=null,noiseBuf=null,masterOut=null;
+let actx=null,noiseBuf=null,masterOut=null,compOut=null;
+let projBuf=null,projBufState="idle";
 let slideDecTok=0,slideDecSettled=true;
 let soundOn=true;
 try{soundOn=localStorage.getItem("stereoSound")!=="0"}catch(e){}
@@ -641,7 +642,7 @@ function startSlideCycle(n){
  const st=$("#vSlide");const cyc=++slideCycle;
  slideDelta=n;slideSwapDone=false;slidePhase="closing";slideT0=performance.now();
  clearSlideTimers();cancelSlideAnims();
- slideSound();
+ playSlideSound();
  armDecode();
  slideAnim=st.animate([{filter:"brightness(1)"},{filter:"brightness(0)"}],{duration:43,easing:"cubic-bezier(0.32,0,0.67,0)",fill:"forwards"});
  const shut=slideAnim;
@@ -663,13 +664,32 @@ function slideAudioInit(){
  if(!actx){
   actx=new AC();
   masterOut=actx.createGain();masterOut.gain.value=0.15;
-  const comp=actx.createDynamicsCompressor();comp.threshold.value=-18;comp.ratio.value=12;
+  const comp=actx.createDynamicsCompressor();compOut=comp;comp.threshold.value=-18;comp.ratio.value=12;
   masterOut.connect(comp);comp.connect(actx.destination);
   noiseBuf=actx.createBuffer(1,actx.sampleRate,actx.sampleRate);
   const ch=noiseBuf.getChannelData(0);for(let i=0;i<ch.length;i++)ch[i]=Math.random()*2-1;
  }
  if(actx.state==="suspended")actx.resume();
  return true;
+}
+/* The real thing: one recorded slide change ("Slide projector changes"
+   by designerschoice, freesound.org, CC BY 4.0 — credit in the footer),
+   cut to a single change and tempo-lifted with pitch preserved so its
+   drop chunk lands on the reveal. Fetched and decoded once, after the
+   audio unlock (ensureAudio calls this); until it is ready — or if it
+   fails — the synthesized slideSound() below stands in. */
+function loadProjectorSound(){
+ if(projBufState!=="idle")return;
+ if(!actx||typeof fetch!=="function"||!actx.decodeAudioData)return;
+ projBufState="loading";
+ try{
+  fetch("assets/projector-change.mp3").then(r=>{
+   if(!r.ok)throw new Error("http "+r.status);
+   return r.arrayBuffer();
+  }).then(ab=>actx.decodeAudioData(ab)).then(buf=>{
+   projBuf=buf;projBufState="ready";
+  }).catch(()=>{projBufState="failed"});
+ }catch(e){projBufState="failed"}
 }
 /* iOS unlock. Safari only starts Web Audio inside a user-gesture call
    stack, and slideSound() fires later (timers, animation callbacks), so
@@ -688,6 +708,7 @@ function ensureAudio(){
   if(typeof navigator!=="undefined"&&navigator.audioSession){try{navigator.audioSession.type="playback"}catch(e){}}
   if(!slideAudioInit())return;
   if(actx.state==="suspended")actx.resume();
+  loadProjectorSound();
   if(!audioUnlocked){
    audioUnlocked=true;
    const b=actx.createBuffer(1,1,actx.sampleRate);
@@ -764,12 +785,28 @@ function slideSound(){
   noiseHit(t+(425+jitMs(10))/1000,0.16,[["bandpass",2000,1.5]],0.001,0.025);
  }catch(e){}
 }
+/* Play the change sound: the recorded buffer once it has decoded — it
+   was level-set in production, so it runs at unity through its own
+   gain into the compressor ceiling only, never through the synth
+   master — otherwise the synthesized stand-in, exactly as before. */
+function playSlideSound(){
+ try{
+  if(!soundOn||motionReduced())return;
+  if(projBuf&&actx&&compOut){
+   const s=actx.createBufferSource();s.buffer=projBuf;
+   const g=actx.createGain();g.gain.value=1.0;
+   s.connect(g);g.connect(compOut);s.start(actx.currentTime);
+   return;
+  }
+ }catch(e){}
+ slideSound();
+}
 function step(n){
  ensureAudio();
  const st=$("#vSlide");
  /* Reduced motion: instant cut and no sound, regardless of the toggle. */
  if(motionReduced()){applyStep(n);return}
- if(!st||typeof st.animate!=="function"){slideSound();applyStep(n);return}
+ if(!st||typeof st.animate!=="function"){playSlideSound();applyStep(n);return}
  /* A step during reveal/settle cuts it instantly (cancelling snaps the
     stage to its final state) and starts a fresh change; a step during
     the shutter close or the black hold just accumulates into the
