@@ -139,7 +139,7 @@ footer a{color:var(--brass)}
 .vtop h2{font-family:"Playfair Display",Georgia,serif;font-size:clamp(19px,3vw,27px);flex:1;min-width:200px}
 .vtop .meta{color:var(--dim);font-size:13px;width:100%;font-variant-numeric:tabular-nums}
 .modes{display:flex;gap:8px;flex-wrap:wrap;padding:12px 18px 0;justify-content:center}
-.mode{border:1px solid var(--line);background:var(--panel2);color:var(--dim);border-radius:3px;padding:9px 14px;font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;font-weight:600;cursor:pointer}
+.mode{border:1px solid var(--line);background:var(--panel2);color:var(--dim);border-radius:3px;padding:9px 14px;font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;font-weight:600;cursor:pointer;text-decoration:none}
 .mode.on{background:var(--brass);color:var(--inkbtn);border-color:var(--brass)}
 .stage{display:flex;align-items:center;justify-content:center;padding:18px;min-height:56vh;position:relative}
 .stage img.pair{max-width:min(1100px,96vw);max-height:74vh;border-radius:3px;box-shadow:0 20px 60px rgba(0,0,0,.7)}
@@ -254,11 +254,11 @@ canvas#ana.show{display:block}
 <section class="about">
  <div class="acol"><h2>The Collection</h2><p>The Stereograph Archive gathers public domain stereoscopic photographs, the 3D postcards of the nineteenth century, from the great open collections: the Robert N. Dennis Collection at NYPL, the Library of Congress, the Met, the Getty, and the National Archives. Every item is catalogued with its provenance and license, and every record links back to its source.</p></div>
  <div class="acol"><h2>The Views</h2><p>Before cinema, the stereoscope was the window on the world: Niagara in flood, Yosemite before the hotels, a war photographed as it happened, the Moon itself in stereo. Browse by collection or series, work the register, or ask the desk to request an item for you.</p></div>
- <div class="acol"><h2>Measured for Comfort</h2><p>Old stereo pairs were never perfectly aligned, and misalignment strains the eyes. Every pair here is measured by our rectification process: the halves are registered to a fraction of a percent, the depth is budgeted, and the condition report on each record shows the numbers. Views that cannot meet the standard are held back, not shipped.</p></div>
+ <div class="acol"><h2>Measured for Comfort</h2><p>Old stereo pairs were never perfectly aligned, and misalignment strains the eyes. Every pair here is measured by our rectification process: the halves are registered to a fraction of a percent, and the depth is budgeted against a fixed standard. Views that cannot meet the standard are held back, not shipped.</p></div>
 </section>
 
 <footer>
-All photographs are public domain or CC0, via Wikimedia Commons, from collections including the Robert N. Dennis Collection of Stereoscopic Views (NYPL), the Library of Congress, the Met Open Access, the National Archives, and the Getty Open Content program. Each photograph links to its source page. Every pair carries a measured condition report from the archive rectification process. No tracking; your reading list lives only in your browser.
+All photographs are public domain or CC0, via Wikimedia Commons, from collections including the Robert N. Dennis Collection of Stereoscopic Views (NYPL), the Library of Congress, the Met Open Access, the National Archives, and the Getty Open Content program. Each photograph links to its source page. Every pair is measured and rectified through the archive process before it appears here. No tracking; your reading list lives only in your browser.
 </footer>
 
 <div class="viewer" id="viewer" role="dialog" aria-modal="true" aria-label="Item viewer">
@@ -275,6 +275,7 @@ All photographs are public domain or CC0, via Wikimedia Commons, from collection
     <button class="mode" data-m="cross" aria-pressed="false">Cross-Eye</button>
     <button class="mode" data-m="wiggle" aria-pressed="false">Wiggle</button>
     <button class="mode" data-m="anaglyph" aria-pressed="false">Anaglyph</button>
+    <a class="mode" id="vParlor" href="vr.html">VR Parlor</a>
   </div>
   </div>
   <div class="stage" style="position:relative">
@@ -472,6 +473,7 @@ $("#howBtn").onclick=()=>{const h=$("#how");h.style.display=h.style.display==="n
 $("#surprise").onclick=()=>{currentList=DATA.slice();openViewer(Math.floor(Math.random()*DATA.length),true)};
 
 /* viewer */
+function parlorUrl(d){return "vr.html"+(d.cats&&d.cats[0]?"?set="+encodeURIComponent("series:"+d.cats[0]):"")+"#"+d.id}
 let vi=0,mode="pair",wigTimer=null,wigSide=false,lastFocus=null;
 let vrec=null,viewToken=0;
 function cur(){return currentList[vi]}
@@ -491,6 +493,7 @@ function showCurrent(keepMode){
  const b=cur();if(!b)return;
  const tk=++viewToken;vrec=null;
  try{history.replaceState(null,"","#"+b.id)}catch(e){}
+ $("#vParlor").href=parlorUrl(b);
  $("#vTitle").textContent=b.title;
  $("#vMeta").textContent=b.id+" · "+b.place+" · "+b.year+" · "+b.coll;
  $("#vBlurb").textContent=b.blurb;
@@ -506,9 +509,10 @@ function showCurrent(keepMode){
  });
 }
 function fillRecord(d){
+ $("#vParlor").href=parlorUrl(d);
  $("#vSource").href=d.source;$("#vFull").href=d.full;
  $("#vLic").textContent="License: "+d.license;
- $("#vRecord").innerHTML=`<div class="rhead"><h3>Catalogue Record</h3><span class="stamp">${d.id}</span></div><dl><dt>Title</dt><dd>${d.title}</dd><dt>Date</dt><dd>${d.year}</dd><dt>Place</dt><dd>${d.place}</dd>${d.creator?`<dt>Creator</dt><dd>${d.creator}</dd>`:''}${(d.repository||d.collection_name||d.publisher)?(d.repository?`<dt>Repository</dt><dd>${d.repository}</dd>`:'')+(d.collection_name?`<dt>Collection</dt><dd>${d.collection_name}</dd>`:'')+(d.publisher?`<dt>Publisher</dt><dd>${d.publisher}</dd>`:''):`<dt>Collection</dt><dd>${d.coll}</dd>`}<dt>Series</dt><dd>${d.cats.map(c=>CATLABEL[c]||c).join(", ")}</dd><dt>License</dt><dd>${d.rights_uri?`<a href="${d.rights_uri}">${d.license}</a>`:d.license}</dd><dt>Depth</dt><dd>${d.depth} (${d.range}% of frame width)</dd><dt>Condition</dt><dd>${d.cond}</dd></dl><p style="margin-top:10px;font-size:13.5px">This item also hangs in the <a href="vr.html${d.cats&&d.cats[0]?"?set="+encodeURIComponent("series:"+d.cats[0]):""}#${d.id}">VR Parlor</a>.</p>`;
+ $("#vRecord").innerHTML=`<div class="rhead"><h3>Catalogue Record</h3><span class="stamp">${d.id}</span></div><dl><dt>Title</dt><dd>${d.title}</dd><dt>Date</dt><dd>${d.year}</dd><dt>Place</dt><dd>${d.place}</dd>${d.creator?`<dt>Creator</dt><dd>${d.creator}</dd>`:''}${(d.repository||d.collection_name||d.publisher)?(d.repository?`<dt>Repository</dt><dd>${d.repository}</dd>`:'')+(d.collection_name?`<dt>Collection</dt><dd>${d.collection_name}</dd>`:'')+(d.publisher?`<dt>Publisher</dt><dd>${d.publisher}</dd>`:''):`<dt>Collection</dt><dd>${d.coll}</dd>`}<dt>Series</dt><dd>${d.cats.map(c=>CATLABEL[c]||c).join(", ")}</dd><dt>License</dt><dd>${d.rights_uri?`<a href="${d.rights_uri}">${d.license}</a>`:d.license}</dd><dt>Depth</dt><dd>${d.depth}</dd></dl>`;
 }
 addEventListener("hashchange",()=>{
  const h=(location.hash||'').replace('#','');
@@ -523,7 +527,7 @@ function stopWig(){if(wigTimer){clearInterval(wigTimer);wigTimer=null}}
 const rectUrl=d=>d.rect||('rect/'+String(parseInt(d.id.slice(4),10)-1).padStart(2,'0')+'.jpg');
 function setMode(m){
  mode=m;stopWig();
- document.querySelectorAll(".mode").forEach(b=>{b.classList.toggle("on",b.dataset.m===m);b.setAttribute("aria-pressed",b.dataset.m===m?"true":"false")});
+ document.querySelectorAll(".mode[data-m]").forEach(b=>{b.classList.toggle("on",b.dataset.m===m);b.setAttribute("aria-pressed",b.dataset.m===m?"true":"false")});
  const d=vrec;
  $("#vImg").style.display=m==="pair"?"block":"none";
  $("#vSplit").classList.toggle("show",m==="parallel"||m==="cross");
@@ -567,7 +571,7 @@ function buildAnaglyph(d){
  };
  img.onerror=()=>{if(stale())return;load.textContent="Could not load this image for anaglyph, try Wiggle instead."};
 }
-document.querySelectorAll(".mode").forEach(b=>b.onclick=()=>setMode(b.dataset.m));
+document.querySelectorAll(".mode[data-m]").forEach(b=>b.onclick=()=>setMode(b.dataset.m));
 function step(n){vi=(vi+n+currentList.length)%currentList.length;showCurrent(true)}
 $("#prevB").onclick=()=>step(-1);$("#nextB").onclick=()=>step(1);
 function closeViewer(){$("#viewer").classList.remove("open");document.body.style.overflow="";stopWig();try{history.replaceState(null,"",location.pathname+location.search)}catch(e){}if(lastFocus&&lastFocus.focus)lastFocus.focus();}

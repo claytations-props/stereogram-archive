@@ -308,7 +308,7 @@ function drawRecord(d){
   c.strokeStyle='#c9a86a';c.lineWidth=3;c.strokeRect(-92,-27,184,54);
   c.fillStyle='#e8c987';c.font='700 30px Georgia,serif';c.textAlign='center';c.fillText(d.id,0,11);
   c.restore();c.textAlign='left';
-  let y=128;
+  let y=140;
   const field=(label,value,fs,maxLines)=>{
     c.font='600 17px Georgia,serif';c.fillStyle='#a89c86';c.fillText(label.toUpperCase(),40,y);y+=10;
     let f=fs,lines=[];
@@ -321,7 +321,7 @@ function drawRecord(d){
     }
     c.fillStyle='#ece5d8';c.font=f+'px Georgia,serif';
     lines.forEach(L=>{y+=f*1.28;c.fillText(L,40,y);});
-    y+=22;
+    y+=30;
   };
   field('Title',d.t,27,3);
   field('Place',d.p,24,1);
@@ -329,7 +329,6 @@ function drawRecord(d){
   if(d.cr)field('Creator',d.cr,22,1);
   field('Collection',d.cn||d.coll,24,2);
   field('Series',d.cats.map(k=>CATLABEL[k]||k).join(', '),24,2);
-  field('Condition',d.cond,22,4);
   recTex.needsUpdate=true;
 }
 
