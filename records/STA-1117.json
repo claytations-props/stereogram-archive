@@ -1,0 +1,69 @@
+{
+ "title": "The Magnificent Capitol, Washington, D.C.",
+ "place": "Washington, D.C.",
+ "year": "1898–1925",
+ "sy": 1898,
+ "era": "mid",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/The_Magnificent_Capitol%2C_Washington%2C_D.C.%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/75/The_Magnificent_Capitol%2C_Washington%2C_D.C.%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_Magnificent_Capitol,_Washington,_D.C.,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 383,
+ "id": "STA-1117",
+ "rect": "rect/1116.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.22,
+ "rot": 0.09,
+ "range": 4.27,
+ "f": 0.84,
+ "depth": "Deep",
+ "va": 0.8839,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/7/75/The_Magnificent_Capitol%2C_Washington%2C_D.C.%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8839,
+  "L": [
+   0.390789,
+   0.0,
+   0.092763,
+   0.0,
+   0.877285,
+   0.043081
+  ],
+  "R": [
+   0.3938,
+   -0.002966,
+   0.543032,
+   0.001958,
+   0.88321,
+   0.059876
+  ],
+  "g": [
+   1.0,
+   0.9911
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.09° of rotation. Depth measured deep (4.27% of frame width); hung in the VR Parlor at 84% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1898/1925",
+ "date_start": 1898,
+ "date_end": 1925,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10245988,
+ "source_revision_id": null,
+ "source_sha1": "e5b32403d16242cd55f2a0dd59b18eae03fcef19"
+}

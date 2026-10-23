@@ -1,0 +1,69 @@
+{
+ "title": "Oak Hill Cemetery, Washington, D.C",
+ "place": "Washington, D.C.",
+ "year": "1865–1890",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/Oak_Hill_Cemetery%2C_Washington%2C_D.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/91/Oak_Hill_Cemetery%2C_Washington%2C_D.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Oak_Hill_Cemetery,_Washington,_D.C,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 387,
+ "id": "STA-1129",
+ "rect": "rect/1128.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.25,
+ "rot": 0.08,
+ "range": 1.89,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.8401,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/9/91/Oak_Hill_Cemetery%2C_Washington%2C_D.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8401,
+  "L": [
+   0.380263,
+   0.0,
+   0.111184,
+   0.0,
+   0.888889,
+   0.047804
+  ],
+  "R": [
+   0.379808,
+   -0.021006,
+   0.533116,
+   -0.002257,
+   0.883387,
+   0.049212
+  ],
+  "g": [
+   1.0,
+   0.9905
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.25% vertical error and 0.08° of rotation. Depth measured moderate (1.89% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865/1890",
+ "date_start": 1865,
+ "date_end": 1890,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7246142,
+ "source_revision_id": null,
+ "source_sha1": "2da630eea0e85b1f78622495680c243053ecc44d"
+}

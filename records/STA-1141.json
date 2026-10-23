@@ -1,0 +1,69 @@
+{
+ "title": "Views of the Soldiers Home, Washington, D.C.",
+ "place": "Washington, D.C.",
+ "year": "1867–1900",
+ "sy": 1867,
+ "era": "early",
+ "cats": [
+  "war"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/0/07/Views_of_the_Soldiers_Home%2C_Washington%2C_D.C.%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/07/Views_of_the_Soldiers_Home%2C_Washington%2C_D.C.%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Views_of_the_Soldiers_Home,_Washington,_D.C.,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 388,
+ "id": "STA-1141",
+ "rect": "rect/1140.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.35,
+ "rot": 0.0,
+ "range": 1.12,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.8121,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/0/07/Views_of_the_Soldiers_Home%2C_Washington%2C_D.C.%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.8121,
+  "L": [
+   0.393421,
+   0.0,
+   0.079605,
+   0.0,
+   0.425258,
+   0.274485
+  ],
+  "R": [
+   0.402718,
+   -0.001414,
+   0.516412,
+   0.002123,
+   0.435528,
+   0.256937
+  ],
+  "g": [
+   0.9193,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.35% vertical error and 0.0° of rotation. Depth measured gentle (1.12% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "war"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1867/1900",
+ "date_start": 1867,
+ "date_end": 1900,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7246836,
+ "source_revision_id": null,
+ "source_sha1": "bddb0d89b2f18bab11e3019bce512db644774d65"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "General Post Office, Washington, D.C",
+ "place": "Washington, D.C.",
+ "year": "1860–1890",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/b/bd/General_Post_Office%2C_Washington%2C_D.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/bd/General_Post_Office%2C_Washington%2C_D.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:General_Post_Office,_Washington,_D.C,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 386,
+ "id": "STA-1136",
+ "rect": "rect/1135.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.26,
+ "rot": 0.01,
+ "range": 0.69,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.6821,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/b/bd/General_Post_Office%2C_Washington%2C_D.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.6821,
+  "L": [
+   0.382895,
+   0.0,
+   0.100658,
+   0.0,
+   0.448187,
+   0.44171
+  ],
+  "R": [
+   0.382798,
+   -0.002412,
+   0.526225,
+   0.005984,
+   0.446614,
+   0.44829
+  ],
+  "g": [
+   1.0,
+   0.8813
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.26% vertical error and 0.01° of rotation. Depth measured gentle (0.69% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860/1890",
+ "date_start": 1860,
+ "date_end": 1890,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7246636,
+ "source_revision_id": null,
+ "source_sha1": "2a8b5ceded8d89940d967594388f3e570877a669"
+}

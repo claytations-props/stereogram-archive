@@ -1,0 +1,69 @@
+{
+ "title": "Statue of Andrew Jackson, Washington, D.C., from Robert N. Dennis collection of stereoscopic views 3",
+ "place": "Washington, D.C.",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Statue_of_Andrew_Jackson%2C_Washington%2C_D.C.%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Statue_of_Andrew_Jackson%2C_Washington%2C_D.C.%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Andrew_Jackson,_Washington,_D.C.,_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 461,
+ "id": "STA-1127",
+ "rect": "rect/1126.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.16,
+ "rot": 0.01,
+ "range": 2.1,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.7944,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Statue_of_Andrew_Jackson%2C_Washington%2C_D.C.%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.7944,
+  "L": [
+   0.376316,
+   0.0,
+   0.105921,
+   0.0,
+   0.780911,
+   0.085683
+  ],
+  "R": [
+   0.378931,
+   -0.002075,
+   0.509764,
+   -0.00666,
+   0.781319,
+   0.079754
+  ],
+  "g": [
+   0.9766,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.01° of rotation. Depth measured moderate (2.1% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7247015,
+ "source_revision_id": null,
+ "source_sha1": "e9edd562cdc9865bb1fac265eb93a3bd76c0ef46"
+}
