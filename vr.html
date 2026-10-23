@@ -758,8 +758,13 @@ function drawSetPanel(){
   });
   setTex.needsUpdate=true;
 }
-const setPagePrevBtn=arrowButton('\u2039','setPagePrev',{vis:.18,hitW:.27,hitH:.34});setPagePrevBtn.position.set(-0.17,-0.70,0.01);setPanelGroup.add(setPagePrevBtn);
-const setPageNextBtn=arrowButton('\u203a','setPageNext',{vis:.18,hitW:.27,hitH:.34});setPageNextBtn.position.set(0.17,-0.70,0.012);setPanelGroup.add(setPageNextBtn);
+// the cabinet's page buttons live INSIDE the frame, on the panel's
+// cleared bottom strip (rows end at 836px, panel y -0.38): disc and
+// hit plane both end above the frame's bottom rail. They used to
+// hang at y=-0.70, past the frame's bottom edge at -0.675 — Clay
+// saw them sticking out past the bottom in the headset.
+const setPagePrevBtn=arrowButton('\u2039','setPagePrev',{vis:.15,hitW:.24,hitH:.22});setPagePrevBtn.position.set(-0.19,-0.51,0.01);setPanelGroup.add(setPagePrevBtn);
+const setPageNextBtn=arrowButton('\u203a','setPageNext',{vis:.15,hitW:.24,hitH:.22});setPageNextBtn.position.set(0.19,-0.51,0.012);setPanelGroup.add(setPageNextBtn);
 // the shelf wall: a paged grid of the current set's cards
 const PAGE=24,COLS=6,ROWS=4;
 const wallGroup=new THREE.Group();wallGroup.position.set(0.30,1.46,-2.25);browseGroup.add(wallGroup);
