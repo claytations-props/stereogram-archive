@@ -139,3 +139,67 @@ beam and glow to 0 and back to 0.034 / 0.35.
 What only a headset can judge: whether the projector still distracts,
 whether the beam reads as light rather than geometry, and whether the
 dust is as subtle as intended. Those are Clay's call in the headset.
+
+## Fix pass 2 (Oct 23, after Clay's second headset visit)
+
+Clay's words: "okay i don't like the images across the bottom. also
+the frame to the left is hard to read and buttons stick out past the
+bottom." Three fixes, one commit each, plus a fourth the measuring
+turned up.
+
+The images across the bottom were the reading state's low shelf:
+the six-card window of the current set standing on a low bookcase
+under the projection (ec2db86). It is removed whole — group, shelf
+boards, tiles, textures, hit list, and every call that fed it.
+Reading keeps the projection, the record card, set switching from
+the cabinet and the flat controls, and stepping with the dip. The
+harness asserts the reading state now carries zero tile hits and
+that no mesh stands where the shelf stood.
+
+The frame to the left is the finding aid cabinet (613478d). Its
+panel backing was a translucent near-black (alpha 0.80) over dark
+wood, and in the dim room the grey-brass ink sank into it. The
+backing is now a near-opaque warm card (alpha 0.96, measured 245 of
+255 on the canvas), the ink is brighter (set labels #f4eee1,
+secondary text #a89c86 → #d8cbaa, measured ink-to-backing contrast
+16.4:1), and the type steps up: title 27px, set labels 25 → 29,
+counts 22 → 25, section heads 19 → 21. The page indicator moved
+from the panel's foot into its header, and the rows now end at
+836px, clearing the bottom strip. A soft radial halo (0.92 × 1.58 m,
+additive, opacity 0.42) stands behind the cabinet, so a rim of
+lamplight escapes past the frame's silhouette; the room's own
+lighting is untouched.
+
+The buttons past the bottom were the cabinet's page-turn buttons
+(c78fe18). They hung at panel y −0.70 while the frame's bottom rail
+ends at −0.675: discs reached −0.79, hit planes −0.87. They now sit
+on the panel's cleared bottom strip at y −0.51, a size smaller
+(disc 0.15 m, hit 0.24 × 0.22): disc ends at −0.585 inside the
+panel, hit plane ends at −0.62, above the rail, with 39 mm of clear
+air under the lowest row hit on the fullest page. The browse wall's
+page buttons were measured against the bookcase in the same pass
+and already sit inside it (bookcase y −0.97 to 1.04; buttons −0.89
+to −0.55).
+
+The flat page had the same fault (9246838, measured first): at a
+1024×500 viewport the landing overlay's content ran from −30 to
+520, its lower buttons past the bottom with no way to reach them.
+The overlay now scrolls and centres safely; on tall screens it
+looks as before. The flat control bar itself measured inside the
+viewport at 1280×720, 1024×500, and 390×700 and needed no change.
+
+Verification: harness 34/34, run against the full catalog (1,190
+cards, 17 sets with an empty Reading List, 2 cabinet pages) — zero
+exceptions; shelf fossils absent; reading tile hits zero; the
+position line live ("Current set · All cards · Card 1 of 1190");
+NEXT and PREV both dip to 0.00 and repaint; the record card starts
+hidden and toggles; set switching works from the cabinet path and
+the flat selector; every cabinet button and every set-row hit on
+both panel pages sits inside the panel and the frame, measured from
+the scene graph. Live-verified on vrparlor.com: vr.html 200 with
+all four changes present in the served file.
+
+What only a headset can judge: whether the cabinet reads comfortably
+at arm's length in the dim room, and whether the bottom of the
+reading view feels empty without the shelf of cards. Those are
+Clay's call in the headset.
