@@ -45,6 +45,7 @@ a{color:var(--brass)}
 #enterVrBtn{background:var(--brass);color:var(--inkbtn);border:1px solid var(--brass);border-radius:3px;font-size:15px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;padding:17px 42px;margin-top:8px}
 #enterVrBtn:hover{background:var(--brass2);color:var(--inkbtn)}
 #landHint{color:var(--dim);font-size:12.5px;max-width:440px;line-height:1.55}
+#landCredit{color:var(--dim);font-size:11.5px;max-width:440px;line-height:1.55}
 @media(max-width:640px){.top{max-width:248px;padding:10px 12px}.top p{display:none}.cardinfo{max-width:205px}button{padding:12px 14px;font-size:12px}}
 </style>
 <script type="importmap">{"imports":{"three":"https://unpkg.com/three@0.160.0/build/three.module.js","three/addons/":"https://unpkg.com/three@0.160.0/examples/jsm/"}}</script>
@@ -58,7 +59,9 @@ a{color:var(--brass)}
   <div id="landMeta"></div>
   <div id="landSet"></div>
   <button id="enterVrBtn">Enter VR</button>
+  <button id="soundBtn">Sound: On</button>
   <div id="landHint">One tap takes you into the room, on this card. The shelves, the catalogue card, and the button row are all inside.</div>
+  <div id="landCredit">Slide projector sound: <a href="https://freesound.org/people/designerschoice/sounds/837655/">"Slide projector changes" by designerschoice</a> — freesound.org — <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div>
 </div>
 <div id="ui">
   <div class="top">
@@ -114,6 +117,7 @@ function updateLanding(){
 function showLanding(){landingActive=true;landingEl.hidden=false;vrBtn.style.display='none';updateStatus();updateLanding();}
 function hideLanding(){landingActive=false;landingEl.hidden=true;}
 document.getElementById('enterVrBtn').addEventListener('click',()=>{
+  ensureProjAudio();
   if(!('xr' in navigator))return;
   navigator.xr.requestSession('immersive-vr',{optionalFeatures:['local-floor','bounded-floor','hand-tracking']})
     .then(s=>{renderer.xr.setSession(s);})
@@ -537,11 +541,18 @@ function readFavs(){
 const texLoader=new THREE.TextureLoader();texLoader.setCrossOrigin('anonymous');
 const maxAniso=Math.min(16,renderer.capabilities.getMaxAnisotropy());
 let liveTex=[];
+/* Slide-projector change state (see the block after showPos): the
+   photo planes' current brightness (1 = fully lit), the DATA index of
+   the card whose texture is actually on the planes, and a navigation
+   target queued while a texture load is in flight, so steps taken
+   during a change coalesce onto the final card. */
+let projValue=1,paintedIdx=-1,queuedPos=null;
 function refreshContext(){
   if(cur>=0&&DATA[cur]){drawCaption(DATA[cur]);updateWallHi();persist();}
 }
 function showPos(pos){
-  if(!curSet||!curSet.indices.length||busy)return;
+  if(!curSet||!curSet.indices.length)return;
+  if(busy){queuedPos=pos;return;}
   const len=curSet.indices.length;
   pos=((pos%len)+len)%len;
   const idx=curSet.indices[pos];
@@ -563,10 +574,10 @@ function showPos(pos){
       const t=tex.clone();liveTex.push(t);t.needsUpdate=true;t.wrapS=THREE.ClampToEdgeWrapping;t.wrapT=THREE.ClampToEdgeWrapping;
       t.minFilter=THREE.LinearMipmapLinearFilter;t.anisotropy=maxAniso;
       t.repeat.set(0.5,1);t.offset.set(i*0.5,0);
-      pl.material.map=t;pl.material.color.setScalar(1);pl.geometry.dispose();pl.geometry=new THREE.PlaneGeometry(W,H);pl.material.needsUpdate=true;
+      pl.material.map=t;pl.material.color.setScalar(projValue);pl.geometry.dispose();pl.geometry=new THREE.PlaneGeometry(W,H);pl.material.needsUpdate=true;
     });
     const pt=tex.clone();liveTex.push(pt);pt.needsUpdate=true;
-    pairPlane.material.map=pt;pairPlane.material.color.set(0xffffff);
+    pairPlane.material.map=pt;pairPlane.material.color.setScalar(projValue);
     pairAspect=2*d.a;sizePair();pairPlane.material.needsUpdate=true;
     drawCaption(d);
     drawRecord(d);
@@ -574,13 +585,109 @@ function showPos(pos){
     updateWallHi();
     persist();
     updateStatus();
+    paintedIdx=idx;
     busy=false;
-  },undefined,()=>{statusEl.textContent='That card failed to load, skipping\u2026';busy=false;setTimeout(()=>showPos(pos+1),400);});
+    if(queuedPos!=null){const q=queuedPos;queuedPos=null;if(q!==curPos)showPos(q);}
+  },undefined,()=>{statusEl.textContent='That card failed to load, skipping\u2026';busy=false;const q=queuedPos;queuedPos=null;setTimeout(()=>showPos(q!=null?q:pos+1),400);});
 }
-const next=()=>showPos(curPos+1),prev=()=>showPos(curPos-1);
+/* ---------- slide-projector change (reading state only) ----------
+   A card change made while reading dips the photograph to black
+   while the mechanism works, like the Carousel's dark-screen shutter:
+   dip over ~43 ms, hold black until the new card's texture is really
+   on the planes AND ~370 ms have passed (so the recorded change's
+   drop chunk lands on the reveal), then the beam returns over
+   ~45 ms; a ~1200 ms ceiling reveals anyway. Brightness only — the
+   photo never moves — and only the photo planes dip: the caption
+   plaque, the record card, the room and the floor stay lit. Steps
+   landing during the dip or hold retarget the same cycle (showPos
+   queues them onto the final card, one reveal); a step during the
+   beam's return cuts it and starts a fresh dip. Entering the reading
+   state (opening a tile, switching sets, first load) does NOT run
+   this — those call showPos directly.
+   The sound is one recorded slide change ("Slide projector changes"
+   by designerschoice, freesound.org, CC BY 4.0 — credit on the
+   landing), fetched and decoded once after the ENTER VR gesture
+   unlocks audio; if it cannot load, changes are simply silent. */
+const motionReduced=()=>{try{return matchMedia('(prefers-reduced-motion: reduce)').matches}catch(e){return false}};
+function projSoundOn(){try{return localStorage.getItem('stereoSound')!=='0';}catch(e){return true}}
+let pActx=null,pBuf=null,pBufState='idle';
+function ensureProjAudio(){
+  try{
+    if(!projSoundOn())return;
+    const AC=window.AudioContext||window.webkitAudioContext;if(!AC)return;
+    if(!pActx)pActx=new AC();
+    if(pActx.state==='suspended')pActx.resume();
+    if(pBufState==='idle'&&typeof fetch==='function'&&pActx.decodeAudioData){
+      pBufState='loading';
+      fetch('assets/projector-change.mp3').then(r=>{if(!r.ok)throw new Error('http '+r.status);return r.arrayBuffer();})
+        .then(ab=>pActx.decodeAudioData(ab)).then(buf=>{pBuf=buf;pBufState='ready';})
+        .catch(()=>{pBufState='failed';});
+    }
+  }catch(e){}
+}
+function resumeProjAudio(){try{if(pActx&&pActx.state==='suspended')pActx.resume();}catch(e){}}
+function playProjSound(){
+  try{
+    if(motionReduced()||!projSoundOn())return;
+    if(!pActx||!pBuf||pActx.state!=='running')return;
+    const s=pActx.createBufferSource();s.buffer=pBuf;
+    const g=pActx.createGain();g.gain.value=0.9;
+    s.connect(g);g.connect(pActx.destination);s.start(pActx.currentTime);
+  }catch(e){}
+}
+let projActive=false,projPhase=null,projT0=0,projRampT0=0,projFrom=1;
+function setPhotoBrightness(v){
+  projValue=v;
+  leftPlane.material.color.setScalar(v);
+  rightPlane.material.color.setScalar(v);
+  pairPlane.material.color.setScalar(v);
+}
+function startProjChange(){
+  projActive=true;projPhase='dip';projT0=performance.now();projFrom=projValue;
+  ensureProjAudio();playProjSound();
+}
+function cancelProj(){
+  if(projActive||projValue!==1){projActive=false;projPhase=null;setPhotoBrightness(1);}
+}
+function updateProj(){
+  if(!projActive)return;
+  const now=performance.now();
+  if(projPhase==='dip'){
+    const e=now-projT0;
+    if(e>=43){setPhotoBrightness(0);projPhase='hold';}
+    else setPhotoBrightness(Math.max(0,projFrom*(1-e/43)));
+  }
+  if(projPhase==='hold'){
+    const el=now-projT0;
+    if((paintedIdx===cur&&el>=370)||el>=1200){projPhase='ramp';projRampT0=now;}
+  }
+  if(projPhase==='ramp'){
+    const e=now-projRampT0;
+    if(e>=45){setPhotoBrightness(1);projActive=false;projPhase=null;}
+    else setPhotoBrightness(e/45);
+  }
+}
+/* Reading-state navigation funnel: the 2D buttons, the keyboard, the
+   controller trigger/squeeze, the thumbstick and the in-room row all
+   arrive here (via next/prev and activate). Reduced motion keeps the
+   plain instant swap, sound or no sound. */
+function navShow(pos){
+  if(!curSet||!curSet.indices.length)return;
+  const len=curSet.indices.length;
+  const idx=curSet.indices[((pos%len)+len)%len];
+  if(idx===cur||motionReduced()){showPos(pos);return;}
+  if(!projActive||projPhase==='ramp')startProjChange();
+  showPos(pos);
+}
+vrBtn.addEventListener('click',()=>ensureProjAudio());
+const soundBtn=document.getElementById('soundBtn');
+function syncSoundBtn(){if(soundBtn)soundBtn.textContent='Sound: '+(projSoundOn()?'On':'Off');}
+if(soundBtn)soundBtn.onclick=()=>{try{localStorage.setItem('stereoSound',projSoundOn()?'0':'1');}catch(e){}syncSoundBtn();ensureProjAudio();};
+syncSoundBtn();
+const next=()=>navShow(curPos+1),prev=()=>navShow(curPos-1);
 document.getElementById('nextBtn').onclick=next;
 document.getElementById('prevBtn').onclick=prev;
-document.getElementById('randBtn').onclick=()=>{if(curSet)showPos(Math.floor(Math.random()*curSet.indices.length));};
+document.getElementById('randBtn').onclick=()=>{if(curSet)navShow(Math.floor(Math.random()*curSet.indices.length));};
 document.getElementById('browseBtn').onclick=()=>setState(uiState==='browse'?'reading':'browse');
 document.getElementById('recBtn').onclick=()=>toggleRecord();
 addEventListener('keydown',e=>{
@@ -625,6 +732,7 @@ function setHover(hit,on){
 }
 function setState(s){
   if(!curSet)return;
+  cancelProj();
   uiState=s;
   if(s==='browse'){wallPage=Math.floor(curPos/PAGE);drawSetPanel();renderWall();}
   browseBtn3d.userData.hit.userData.redraw(s==='browse'?'READ':'BROWSE',false);
@@ -638,6 +746,7 @@ function toggleRecord(){
   applyVis();
 }
 function selectSet(key){
+  cancelProj();
   const s=SETS.find(x=>x.key===key);
   if(!s||!s.indices.length)return;
   curSet=s;
@@ -671,8 +780,8 @@ function activate(hit){
   }else{
     if(a==='next')return next();
     if(a==='prev')return prev();
-    if(a==='next10')return showPos(curPos+10);
-    if(a==='prev10')return showPos(curPos-10);
+    if(a==='next10')return navShow(curPos+10);
+    if(a==='prev10')return navShow(curPos-10);
   }
   if(a==='exit'){const s=renderer.xr.getSession();if(s)s.end();return;}
   if(a==='record')return toggleRecord();
@@ -686,8 +795,8 @@ function isShown(o){while(o){if(!o.visible)return false;o=o.parent;}return true;
 
 // VR enter/exit: the session opens in the current state, at the current
 // set and card, and leaving returns the flat page to the same place.
-renderer.xr.addEventListener('sessionstart',()=>{hideLanding();startLoop();applyVis();updateStatus();});
-renderer.xr.addEventListener('sessionend',()=>{applyVis();updateStatus();if(vrCapable){stopLoop();showLanding();}});
+renderer.xr.addEventListener('sessionstart',()=>{hideLanding();cancelProj();startLoop();applyVis();updateStatus();});
+renderer.xr.addEventListener('sessionend',()=>{cancelProj();applyVis();updateStatus();if(vrCapable){stopLoop();showLanding();}});
 
 // controllers + ray picking
 const ray=new THREE.Raycaster();const tmpM=new THREE.Matrix4();
@@ -702,8 +811,8 @@ function pick(controller){
 const ctrls=[];
 [0,1].forEach(i=>{
   const ctl=renderer.xr.getController(i);ctrls.push(ctl);
-  ctl.addEventListener('selectstart',()=>pick(ctl));
-  ctl.addEventListener('squeezestart',()=>{if(uiState==='browse')setState('reading');else prev();});
+  ctl.addEventListener('selectstart',()=>{resumeProjAudio();pick(ctl);});
+  ctl.addEventListener('squeezestart',()=>{resumeProjAudio();if(uiState==='browse')setState('reading');else prev();});
   scene.add(ctl);
   const line=new THREE.Line(new THREE.BufferGeometry().setFromPoints([new THREE.Vector3(0,0,0),new THREE.Vector3(0,0,-3)]),new THREE.LineBasicMaterial({color:0xc9a86a,transparent:true,opacity:.5}));
   line.layers.enableAll();ctl.add(line);
@@ -778,6 +887,7 @@ function pollSticks(t){
 function loopFn(t){
   camera.rotation.set(pitch,yaw,0,'YXZ');
   if(renderer.xr.isPresenting){updateHover();pollSticks(t);}
+  updateProj();
   renderer.render(scene,camera);
 }
 if(!('xr' in navigator))statusEl.textContent='This browser has no WebXR, so no VR button. The parlor still works flat here, and in a Quest or Vision Pro browser you will get the full VR version.';
