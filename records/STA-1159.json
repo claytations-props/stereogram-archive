@@ -1,0 +1,69 @@
+{
+ "title": "Interior - Iowa Capitol Library",
+ "place": "Place unrecorded",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Interior_-_Iowa_Capitol_Library%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Interior_-_Iowa_Capitol_Library%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/80/Interior_-_Iowa_Capitol_Library%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Interior_-_Iowa_Capitol_Library,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1659,
+ "id": "STA-1159",
+ "rect": "rect/1158.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.02,
+ "range": 2.43,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.7318,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Interior_-_Iowa_Capitol_Library%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Interior_-_Iowa_Capitol_Library%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7318,
+  "L": [
+   0.386458,
+   0.0,
+   0.105469,
+   0.0,
+   0.871134,
+   0.06744
+  ],
+  "R": [
+   0.384389,
+   -0.013795,
+   0.526448,
+   0.017248,
+   0.872312,
+   0.056943
+  ],
+  "g": [
+   0.95,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured deep (2.43% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7307057,
+ "source_revision_id": null,
+ "source_sha1": "965d8ee1ff48f87246bc8df80502ae872318c37d"
+}

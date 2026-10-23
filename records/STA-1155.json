@@ -1,0 +1,69 @@
+{
+ "title": "Snow covered street, Victor, Iowa",
+ "place": "Place unrecorded",
+ "year": "c. 1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Snow_covered_street%2C_Victor%2C_Iowa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Snow_covered_street%2C_Victor%2C_Iowa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Snow_covered_street%2C_Victor%2C_Iowa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Snow_covered_street,_Victor,_Iowa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2716,
+ "h": 1405,
+ "id": "STA-1155",
+ "rect": "rect/1154.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.35,
+ "rot": 0.01,
+ "range": 2.01,
+ "f": 0.7,
+ "depth": "Moderate",
+ "va": 2.6361,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Snow_covered_street%2C_Victor%2C_Iowa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Snow_covered_street%2C_Victor%2C_Iowa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 2.6361,
+  "L": [
+   0.403646,
+   0.0,
+   0.075781,
+   0.0,
+   0.296073,
+   0.174723
+  ],
+  "R": [
+   0.40398,
+   0.003595,
+   0.527839,
+   -0.019703,
+   0.297722,
+   0.161735
+  ],
+  "g": [
+   0.9378,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.35% vertical error and 0.01° of rotation. Depth measured moderate (2.01% of frame width); hung in the VR Parlor at 70% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870~",
+ "date_start": 1865,
+ "date_end": 1875,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7306746,
+ "source_revision_id": null,
+ "source_sha1": "5a1567e512690c624b7d989fd206f8b5d2c850f1"
+}

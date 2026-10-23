@@ -1,0 +1,69 @@
+{
+ "title": "Sioux City, Iowa",
+ "place": "Place unrecorded",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Sioux_City%2C_Iowa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Sioux_City%2C_Iowa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Sioux_City%2C_Iowa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Sioux_City,_Iowa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1404,
+ "id": "STA-1150",
+ "rect": "rect/1149.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.13,
+ "rot": 0.02,
+ "range": 2.08,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.3316,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Sioux_City%2C_Iowa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Sioux_City%2C_Iowa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.3316,
+  "L": [
+   0.391146,
+   0.0,
+   0.090885,
+   0.0,
+   0.572589,
+   0.359898
+  ],
+  "R": [
+   0.390159,
+   0.0028,
+   0.510744,
+   -0.008305,
+   0.571903,
+   0.373763
+  ],
+  "g": [
+   1.0,
+   0.8813
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.02° of rotation. Depth measured moderate (2.08% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7306842,
+ "source_revision_id": null,
+ "source_sha1": "85736c5850cb2e54c6f77273f35d362907cc9e41"
+}
