@@ -582,14 +582,15 @@ document.querySelectorAll(".mode[data-m]").forEach(b=>b.onclick=()=>setMode(b.da
    stays on and a dark-screen shutter cuts the stage to true black while
    the mechanism works (the images never visibly travel, no crossfade),
    the card swaps inside the black once the incoming image is decoded,
-   then the beam returns and the new slide settles a few px with a
-   whisper of focus blur. The sound is a 5-layer synthesized mechanism
+   the beam returns only once the incoming picture can actually paint
+   (a slow first load stretches the black, capped at 1200 ms), and the
+   new slide settles a few px with a whisper of focus blur. The sound is a 5-layer synthesized mechanism
    (solenoid click, lift clack, tray whirr with ratchet ticks, gravity
    drop chunk, seat tick) through a 0.15 master gain and a compressor,
    jittered slightly on every change, at 0.78x the researched sheet
    timings (a tad faster, per Clay). Opening the viewer fresh
    (showCurrent(false)) never runs this. */
-let slidePhase=null,slideAnim=null,slideDelta=0,slideSwapDone=false,slideT0=0,slideCycle=0,slideTimers=[];
+let slidePhase=null,slideAnim=null,slideDelta=0,slideSwapDone=false,slideT0=0,slideCycle=0,slideTimers=[],slideGateOn=false;
 let actx=null,noiseBuf=null,masterOut=null,compOut=null;
 let projBuf=null,projBufState="idle";
 let slideDecTok=0,slideDecSettled=true;
@@ -599,7 +600,7 @@ const motionReduced=()=>{try{return matchMedia("(prefers-reduced-motion: reduce)
 function applyStep(n){const L=currentList.length;if(!L)return;vi=((vi+n)%L+L)%L;showCurrent(true)}
 function clearSlideTimers(){slideTimers.forEach(id=>{try{clearTimeout(id)}catch(e){}});slideTimers=[]}
 function cancelSlideAnims(){if(slideAnim){try{slideAnim.cancel()}catch(e){}slideAnim=null}const st=$("#vSlide");if(st&&st.getAnimations)st.getAnimations().forEach(a=>{try{a.cancel()}catch(e){}})}
-function resetSlide(){slideDelta=0;slideCycle++;slidePhase=null;slideSwapDone=false;slideDecTok++;clearSlideTimers();cancelSlideAnims()}
+function resetSlide(){slideDelta=0;slideCycle++;slidePhase=null;slideSwapDone=false;slideGateOn=false;slideDecTok++;clearSlideTimers();cancelSlideAnims()}
 /* Pre-decode the pending target's pair image from t=0 so the swap inside
    the black never has to wait on a decode stall. Re-armed whenever the
    accumulated delta changes the target mid-change. */
@@ -620,6 +621,73 @@ function maybeSwap(){
  doSlideSwap();
 }
 function doSlideSwap(){if(slideSwapDone)return;slideSwapDone=true;const d=slideDelta;slideDelta=0;if(d)applyStep(d)}
+/* The swap only points the stage at the new card; on a slow first load
+   the browser goes on painting the OLD card in the visible element
+   until the new image is ready to paint, so a purely timer-driven
+   reveal lights the old card back up and the new one pops in whenever
+   it arrives (Clay's phone report: image, black, same image, then the
+   next image). The reveal therefore also waits for paint readiness of
+   the view the active mode really shows: never earlier than the normal
+   370 ms schedule when everything is fast, later only when the picture
+   genuinely is not ready — and never past the 1200 ms ceiling armed
+   in startSlideCycle, so the stage can never sit black. */
+function stagePaintReady(){
+ try{
+  if(mode==="pair"){
+   const im=$("#vImg");
+   if(im){
+    /* Already loaded (a card seen before, or a fast cache hit): the
+       old picture cannot be repainted, so readiness is synchronous
+       and the reveal keeps its exact schedule. */
+    if(im.complete&&im.naturalWidth>0)return true;
+    if(typeof im.decode==="function")return im.decode().then(()=>{},()=>{});
+   }
+   return true;
+  }
+  /* Parallel, cross-eye, wiggle and anaglyph all paint the rectified
+     pair: the split eyes and the wiggle are background-image divs and
+     the anaglyph is a canvas drawn from a detached Image, so a
+     detached decode of the exact URL they display is the readiness
+     evidence. */
+  const b=cur();if(!b)return Promise.resolve();
+  return getRecord(b.id).then(rec=>{
+   const url=rectUrl(rec||b);
+   return new Promise(res=>{
+    try{
+     const im=new Image();im.src=url;
+     if(typeof im.decode==="function")im.decode().then(res,res);
+     else{im.onload=()=>res();im.onerror=()=>res()}
+    }catch(e){res()}
+   });
+  },()=>{});
+ }catch(e){return Promise.resolve()}
+}
+/* Fold any not-yet-consumed navigation into the stage: the pending
+   swap, plus steps that landed after it while the black stretched. */
+function consumePendingSwap(){
+ if(!slideSwapDone){doSlideSwap();return}
+ if(slideDelta){slideSwapDone=false;doSlideSwap()}
+}
+function gateReveal(){
+ if(slidePhase!=="black"||slideGateOn)return;
+ slideGateOn=true;
+ gateStep();
+}
+function gateStep(){
+ const cyc=slideCycle;
+ consumePendingSwap();
+ const r=stagePaintReady();
+ if(r===true){
+  if(slideDelta){gateStep();return}
+  startReveal();
+  return;
+ }
+ r.then(()=>{
+  if(cyc!==slideCycle||slidePhase!=="black")return;
+  if(slideDelta){gateStep();return}
+  startReveal();
+ });
+}
 function startReveal(){
  if(slidePhase!=="black")return;
  slidePhase="reveal";
@@ -640,7 +708,7 @@ function startReveal(){
 }
 function startSlideCycle(n){
  const st=$("#vSlide");const cyc=++slideCycle;
- slideDelta=n;slideSwapDone=false;slidePhase="closing";slideT0=performance.now();
+ slideDelta=n;slideSwapDone=false;slideGateOn=false;slidePhase="closing";slideT0=performance.now();
  clearSlideTimers();cancelSlideAnims();
  playSlideSound();
  armDecode();
@@ -649,11 +717,14 @@ function startSlideCycle(n){
  shut.onfinish=()=>{
   if(cyc!==slideCycle)return;
   slidePhase="black";
-  if(performance.now()-slideT0>=370){doSlideSwap();startReveal()}
+  if(performance.now()-slideT0>=370){doSlideSwap();gateReveal()}
   else maybeSwap();
  };
  slideTimers.push(setTimeout(()=>{if(cyc===slideCycle)maybeSwap()},155));
- slideTimers.push(setTimeout(()=>{if(cyc!==slideCycle)return;doSlideSwap();startReveal()},370));
+ slideTimers.push(setTimeout(()=>{if(cyc!==slideCycle)return;doSlideSwap();gateReveal()},370));
+ /* Hard ceiling: if paint readiness has not resolved by 1200 ms from
+    the press, reveal anyway — a rare late pop beats sitting black. */
+ slideTimers.push(setTimeout(()=>{if(cyc!==slideCycle)return;if(slidePhase==="black"){consumePendingSwap();startReveal()}},1200));
 }
 const jitA=(v,a)=>v*(1+(Math.random()*2-1)*a);
 const jitMs=v=>(Math.random()*2-1)*v;
