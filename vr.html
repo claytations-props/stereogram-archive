@@ -594,7 +594,20 @@ const setTex=new THREE.CanvasTexture(setCanvas);
 const setPanelGroup=new THREE.Group();
 setPanelGroup.position.set(-1.80,1.44,-2.02);setPanelGroup.rotation.y=0.30;
 const setPanelMesh=new THREE.Mesh(new THREE.PlaneGeometry(0.60,1.20),new THREE.MeshBasicMaterial({map:setTex,transparent:true}));
-setPanelGroup.add(setPanelMesh);browseGroup.add(setPanelGroup);
+setPanelGroup.add(setPanelMesh);
+// the finding aid gets a wooden cabinet frame, and the panel now
+// lives in the room in BOTH states (it used to hide with the browse
+// group): in reading it stands at the visitor's left, so sets can be
+// switched from the shelves without leaving the projection.
+{
+  const back=new THREE.Mesh(new THREE.BoxGeometry(0.68,1.30,0.03),MAT_WOOD_DARK);
+  back.position.z=-0.028;setPanelGroup.add(back);
+  const ft=new THREE.Mesh(new THREE.BoxGeometry(0.70,0.05,0.045),MAT_WOOD);ft.position.set(0,0.65,-0.01);setPanelGroup.add(ft);
+  const fb=ft.clone();fb.position.y=-0.65;setPanelGroup.add(fb);
+  const fl=new THREE.Mesh(new THREE.BoxGeometry(0.05,1.35,0.045),MAT_WOOD);fl.position.set(-0.3375,0,-0.01);setPanelGroup.add(fl);
+  const fr=fl.clone();fr.position.x=0.3375;setPanelGroup.add(fr);
+}
+setPanelGroup.visible=false;scene.add(setPanelGroup);
 const setHitGroup=new THREE.Group();setPanelGroup.add(setHitGroup);
 function setPanelEntries(){
   const entries=[];
@@ -682,6 +695,26 @@ const setPageNextBtn=arrowButton('\u203a','setPageNext',{vis:.18,hitW:.27,hitH:.
 const PAGE=24,COLS=6,ROWS=4;
 const wallGroup=new THREE.Group();wallGroup.position.set(0.30,1.46,-2.25);browseGroup.add(wallGroup);
 const wallTilesGroup=new THREE.Group();wallGroup.add(wallTilesGroup);
+/* the shelf unit the wall hangs in: a dark wood back panel, side
+   uprights, a top board and a plinth, and a shelf board under every
+   row of cards — the tiles stand ON the shelves of a bookcase. Board
+   tops land exactly on each row's bottom edge. */
+{
+  const back=new THREE.Mesh(new THREE.BoxGeometry(2.62,1.98,0.05),MAT_WOOD_DARK);
+  back.position.set(0,0.02,-0.075);wallGroup.add(back);
+  [-1.31,1.31].forEach(x=>{
+    const up=new THREE.Mesh(new THREE.BoxGeometry(0.055,1.98,0.20),MAT_WOOD);
+    up.position.set(x,0.02,-0.055);wallGroup.add(up);
+  });
+  const topB=new THREE.Mesh(new THREE.BoxGeometry(2.68,0.055,0.20),MAT_WOOD);
+  topB.position.set(0,1.015,-0.055);wallGroup.add(topB);
+  const plinth=new THREE.Mesh(new THREE.BoxGeometry(2.68,0.06,0.20),MAT_WOOD);
+  plinth.position.set(0,-0.65,-0.055);wallGroup.add(plinth);
+  [0.295,0,-0.295,-0.59].forEach(y=>{
+    const board=new THREE.Mesh(new THREE.BoxGeometry(2.56,0.035,0.20),MAT_WOOD);
+    board.position.set(0,y,-0.055);wallGroup.add(board);
+  });
+}
 const indCanvas=document.createElement('canvas');indCanvas.width=1024;indCanvas.height=64;
 const indTex=new THREE.CanvasTexture(indCanvas);
 const indMesh=new THREE.Mesh(new THREE.PlaneGeometry(1.5,0.094),new THREE.MeshBasicMaterial({map:indTex,transparent:true}));
@@ -701,7 +734,8 @@ function drawIndicator(){
 // small line centered at the bottom of the wall assembly
 const pagePrevBtn=arrowButton('\u2039','pagePrev',{vis:.18,hitW:.27,hitH:.34});pagePrevBtn.position.set(-0.16,-0.72,0.0006);wallGroup.add(pagePrevBtn);
 const pageNextBtn=arrowButton('\u203a','pageNext',{vis:.18,hitW:.27,hitH:.34});pageNextBtn.position.set(0.16,-0.72,0.0018);wallGroup.add(pageNextBtn);
-const BROWSE_STATIC_HITS=[pagePrevBtn.userData.hit,pageNextBtn.userData.hit,setPagePrevBtn.userData.hit,setPageNextBtn.userData.hit];
+const WALL_PAGE_HITS=[pagePrevBtn.userData.hit,pageNextBtn.userData.hit];
+const SET_PAGE_HITS=[setPagePrevBtn.userData.hit,setPageNextBtn.userData.hit];
 let TILE_HITS=[],wallTex=[],wallGen=0;
 const tileLoader=new THREE.TextureLoader();tileLoader.setCrossOrigin('anonymous');
 function clearTiles(){
@@ -763,8 +797,83 @@ function buildBrowse(){
   drawSetPanel();
   renderWall();
 }
-function browseHits(){return BROWSE_STATIC_HITS.concat(SET_PANEL_HITS,TILE_HITS);}
-function currentHits(){return uiState==='browse'?ROW_HITS.concat(browseHits()):ROW_HITS;}
+/* ---------- reading state: the low shelf under the projection ----
+   A long low bookcase against the front wall, beneath the picture,
+   holding one row of six cards from the current set — the window of
+   the set around the card on the wall — so the next card can be
+   picked straight off the shelf while its projection hangs. The
+   tiles are the browse tiles at 0.8 scale, on their own texture and
+   hit lists so the wall's paging never disturbs them. */
+const readingShelfGroup=new THREE.Group();readingShelfGroup.visible=false;scene.add(readingShelfGroup);
+{
+  const base=new THREE.Mesh(new THREE.BoxGeometry(2.75,0.30,0.26),MAT_WOOD_DARK);
+  base.position.set(0,0.15,-3.27);readingShelfGroup.add(base);
+  const board=new THREE.Mesh(new THREE.BoxGeometry(2.75,0.035,0.30),MAT_WOOD);
+  board.position.set(0,0.3175,-3.25);readingShelfGroup.add(board);
+}
+const readTilesGroup=new THREE.Group();readingShelfGroup.add(readTilesGroup);
+let READ_TILE_HITS=[],readTex=[],readGen=0,readRowBase=-1;
+function clearReadTiles(){
+  readGen++;
+  readTex.forEach(t=>t.dispose());readTex=[];
+  while(readTilesGroup.children.length)readTilesGroup.remove(readTilesGroup.children[0]);
+  READ_TILE_HITS=[];
+}
+function makeReadTile(pos){
+  const d=DATA[curSet.indices[pos]];
+  const wrap=new THREE.Group();
+  const g=new THREE.Group();wrap.add(g);
+  const border=new THREE.Mesh(new THREE.PlaneGeometry(0.365,0.265),new THREE.MeshBasicMaterial({color:0xc9a86a}));
+  border.position.z=-0.004;border.visible=(pos===curPos);g.add(border);
+  const bg=new THREE.Mesh(new THREE.PlaneGeometry(0.36,0.26),new THREE.MeshBasicMaterial({color:0x14110c}));
+  bg.position.z=-0.002;g.add(bg);
+  const h=Math.min(0.20,0.34/(2*(d.a||0.9)));
+  const imgMat=new THREE.MeshBasicMaterial({color:0x2a251c});
+  const img=new THREE.Mesh(new THREE.PlaneGeometry(0.34,h),imgMat);
+  img.position.set(0,0.035,0);g.add(img);
+  const cv=document.createElement('canvas');cv.width=320;cv.height=44;const cx=cv.getContext('2d');
+  cx.fillStyle='rgba(10,9,7,0.55)';cx.beginPath();cx.roundRect(0,2,320,40,8);cx.fill();
+  cx.font='600 20px system-ui,sans-serif';cx.fillStyle='#ece5d8';cx.textAlign='center';cx.textBaseline='middle';
+  let cap=d.id+' \u00b7 '+d.t;
+  const fullCap=cap;
+  while(cap.length&&cx.measureText(cap).width>304)cap=cap.slice(0,-1);
+  if(cap!==fullCap)cap=cap.trimEnd()+'\u2026';
+  cx.fillText(cap,160,23);
+  const capTex2=new THREE.CanvasTexture(cv);readTex.push(capTex2);
+  const capMesh=new THREE.Mesh(new THREE.PlaneGeometry(0.35,0.048),new THREE.MeshBasicMaterial({map:capTex2,transparent:true}));
+  capMesh.position.set(0,-0.105,0);g.add(capMesh);
+  const hit=new THREE.Mesh(new THREE.PlaneGeometry(0.37,0.27),new THREE.MeshBasicMaterial({visible:false}));
+  hit.layers.enableAll();
+  hit.userData={act:'tile',pos:pos,vis:g,hoverScale:1.07,border:border};
+  g.add(hit);READ_TILE_HITS.push(hit);
+  const gen=readGen,url=thumbFrom(d.oimg,320);
+  const paint=t=>{if(gen!==readGen){t.dispose();return;}t.colorSpace=THREE.SRGBColorSpace;imgMat.map=t;imgMat.color.set(0xffffff);imgMat.needsUpdate=true;readTex.push(t);};
+  tileLoader.load(url,paint,undefined,()=>{if(url!==d.img&&gen===readGen)tileLoader.load(d.img,paint,undefined,()=>{});});
+  wrap.scale.set(0.8,0.8,1);
+  return wrap;
+}
+function syncReadHi(){
+  READ_TILE_HITS.forEach(h=>{if(h.userData.border)h.userData.border.visible=(h.userData.pos===curPos);});
+}
+function renderReadShelf(force){
+  if(!curSet)return;
+  const base=Math.floor(curPos/6)*6;
+  if(!force&&base===readRowBase&&readTilesGroup.children.length){syncReadHi();return;}
+  readRowBase=base;clearReadTiles();
+  const total=curSet.indices.length;
+  for(let slot=0;slot<6&&base+slot<total;slot++){
+    const tile=makeReadTile(base+slot);
+    tile.position.set((slot-2.5)*0.308,0.44,-3.22);
+    readTilesGroup.add(tile);
+  }
+  syncReadHi();
+}
+function currentHits(){
+  // the control row and the finding aid work in both states; the wall
+  // tiles belong to browse, the low-shelf tiles to reading
+  const base=ROW_HITS.concat(SET_PAGE_HITS,SET_PANEL_HITS);
+  return uiState==='browse'?base.concat(WALL_PAGE_HITS,TILE_HITS):base.concat(READ_TILE_HITS);
+}
 
 /* ---------- shared state: one archive, one memory of where you are --- */
 let SETS=[],curSet=null,curPos=0,cur=-1,busy=false,uiState='reading',wallPage=0,recordOn=false;
@@ -799,7 +908,7 @@ let liveTex=[];
    during a change coalesce onto the final card. */
 let projValue=1,paintedIdx=-1,queuedPos=null;
 function refreshContext(){
-  if(cur>=0&&DATA[cur]){drawCaption(DATA[cur]);updateWallHi();persist();}
+  if(cur>=0&&DATA[cur]){drawCaption(DATA[cur]);updateWallHi();renderReadShelf();persist();}
 }
 function showPos(pos){
   if(!curSet||!curSet.indices.length)return;
@@ -834,6 +943,7 @@ function showPos(pos){
     drawRecord(d);
     applyVis();
     updateWallHi();
+    renderReadShelf();
     persist();
     updateStatus();
     paintedIdx=idx;
@@ -950,6 +1060,14 @@ addEventListener('keydown',e=>{
 function applyVis(){
   const browsing=uiState==='browse';
   browseGroup.visible=browsing;
+  // the finding aid cabinet stands in the room in both states; the
+  // low shelf, the beam and its dust belong to the projection, so
+  // they show only while reading
+  setPanelGroup.visible=true;
+  readingShelfGroup.visible=!browsing;
+  beam.visible=!browsing;
+  beamDust.pts.visible=!browsing;
+  lensGlowMat.opacity=browsing?0:0.5*projValue;
   plaque.visible=!browsing;
   // the one control row rides at the bottom of whichever assembly is
   // showing: under the caption in the reading state, under the wall
@@ -987,6 +1105,7 @@ function setState(s){
   cancelProj();
   uiState=s;
   if(s==='browse'){wallPage=Math.floor(curPos/PAGE);setPanelPage=panelPageForSet(curSet.key);drawSetPanel();renderWall();}
+  if(s==='reading')renderReadShelf(true);
   browseBtn3d.userData.hit.userData.redraw(s==='browse'?'READ':'BROWSE',false);
   ROW_HITS.forEach(h=>setHover(h,false));
   applyVis();updateStatus();updateHtmlButtons();updateLanding();persist();
@@ -1005,7 +1124,7 @@ function selectSet(key){
   const p=s.indices.indexOf(cur);
   curPos=p>=0?p:0;
   wallPage=Math.floor(curPos/PAGE);
-  drawSetPanel();renderWall();
+  drawSetPanel();renderWall();renderReadShelf(true);
   showPos(curPos);
   updateStatus();
 }
