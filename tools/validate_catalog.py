@@ -162,7 +162,14 @@ def main():
             errors.append(f'{tag}: h must be positive')
 
         rect = it.get('rect')
-        if isinstance(rect, str):
+        if isinstance(rect, str) and rect.startswith(('http://', 'https://')):
+            # Part B: rectified pairs are served from the asset host
+            # (ASSET_BASE in tools/build_catalog.py); there is no local
+            # file to check. Presence/integrity were verified against
+            # the host by the upload verify pass. The schema pattern
+            # above still pins the URL's shape and host.
+            pass
+        elif isinstance(rect, str):
             rp = BASE / rect
             if not rp.exists():
                 errors.append(f'{tag}: rect file missing: {rect}')

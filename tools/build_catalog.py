@@ -56,7 +56,7 @@ ID_RE = re.compile(r'^STA-\d{4}$')
 
 # Phase 2 asset hosting: see the module docstring. Default '' keeps
 # every generated asset reference relative, exactly as before Part B.
-ASSET_BASE = ''
+ASSET_BASE = 'https://archive.org/download/stereogram-archive-images/'
 
 # Intended public URL patterns for the thumbnail ladders under
 # ASSET_BASE (tools/build_thumbs.py writes the matching directory
