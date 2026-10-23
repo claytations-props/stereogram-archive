@@ -165,7 +165,31 @@ def validate_record(rec, schema, tag):
         errors.append(f'{tag}: id does not match ^STA-\\d{{4}}$')
     if rec.get('facets') != rec.get('cats'):
         errors.append(f'{tag}: facets must mirror cats in v2')
+    if 'tags' in rec:
+        vocab = _tag_vocabulary()
+        if not isinstance(rec['tags'], list):
+            errors.append(f'{tag}: "tags" must be an array')
+        else:
+            for t in rec['tags']:
+                if not isinstance(t, str) or t not in vocab:
+                    errors.append(f'{tag}: tag {t!r} is not in '
+                                  'tools/tag_vocabulary.json')
     return errors
+
+
+_TAG_VOCABULARY = None
+
+
+def _tag_vocabulary():
+    """The flat term set of the controlled index vocabulary
+    (tools/tag_vocabulary.json), loaded once."""
+    global _TAG_VOCABULARY
+    if _TAG_VOCABULARY is None:
+        doc = json.loads((Path(__file__).parent
+                          / 'tag_vocabulary.json').read_text())
+        _TAG_VOCABULARY = {t for terms in doc['groups'].values()
+                           for t in terms}
+    return _TAG_VOCABULARY
 
 
 def load_records(records_dir):
@@ -241,11 +265,16 @@ def haystack(rec):
     """The full-text search string for one record, byte-for-byte the
     haystack index.html built from data.json before Phase 2A:
     title, place, year, blurb, id, coll, and the series labels,
-    lowercased."""
+    lowercased. Since the tagging pilot, a record's optional `tags`
+    (the INDEX layer: machine-assigned subject terms from
+    tools/tag_vocabulary.json, never catalog text) are appended so
+    pictured content is searchable too."""
     labels = ' '.join(CAT_LABELS.get(c, c) for c in rec['cats'])
     text = (rec['title'] + ' ' + rec['place'] + ' ' + rec['year'] + ' '
             + (rec['blurb'] or '') + ' ' + rec['id'] + ' ' + rec['coll']
             + ' ' + labels)
+    if rec.get('tags'):
+        text += ' ' + ' '.join(rec['tags'])
     return text.lower()
 
 

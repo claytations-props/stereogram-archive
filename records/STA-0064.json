@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10037422,
  "source_revision_id": 296897790,
- "source_sha1": "3b58e9ff037070abe3d2171afb4f5a1cf7e9aae8"
+ "source_sha1": "3b58e9ff037070abe3d2171afb4f5a1cf7e9aae8",
+ "tags": [
+  "rapids",
+  "river",
+  "waves"
+ ]
 }

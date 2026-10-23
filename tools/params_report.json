@@ -1,0 +1,464 @@
+{
+ "0": {
+  "sim_rot": 0.01,
+  "sim_vert": 0.07,
+  "ref_rot": 0.02,
+  "ref_vert": 0.08,
+  "gains": [
+   0.9729,
+   1.0
+  ],
+  "verified": true
+ },
+ "1": {
+  "sim_rot": 0.01,
+  "sim_vert": 0.08,
+  "ref_rot": 0.01,
+  "ref_vert": 0.08,
+  "gains": [
+   0.9563,
+   1.0
+  ],
+  "verified": true
+ },
+ "2": {
+  "sim_rot": 0.01,
+  "sim_vert": 0.1,
+  "ref_rot": 0.02,
+  "ref_vert": 0.08,
+  "gains": [
+   0.9944,
+   1.0
+  ],
+  "verified": true
+ },
+ "3": {
+  "sim_rot": 0.04,
+  "sim_vert": 0.21,
+  "ref_rot": 0.16,
+  "ref_vert": 0.19,
+  "gains": [
+   0.9937,
+   0.9999
+  ],
+  "verified": true
+ },
+ "4": {
+  "sim_rot": 0.03,
+  "sim_vert": 0.13,
+  "ref_rot": 0.01,
+  "ref_vert": 0.13,
+  "gains": [
+   0.9999,
+   0.9032
+  ],
+  "verified": true
+ },
+ "5": {
+  "sim_rot": 0.08,
+  "sim_vert": 0.23,
+  "ref_rot": 0.02,
+  "ref_vert": 0.21,
+  "gains": [
+   0.9596,
+   0.9995
+  ],
+  "verified": true
+ },
+ "6": {
+  "sim_rot": 0.0,
+  "sim_vert": 0.1,
+  "ref_rot": 0.01,
+  "ref_vert": 0.09,
+  "gains": [
+   0.9827,
+   1.0
+  ],
+  "verified": true
+ },
+ "7": {
+  "sim_rot": 0.01,
+  "sim_vert": 0.08,
+  "ref_rot": 0.01,
+  "ref_vert": 0.1,
+  "gains": [
+   1.0,
+   0.8539
+  ],
+  "verified": true
+ },
+ "8": {
+  "sim_rot": 0.01,
+  "sim_vert": 0.07,
+  "ref_rot": 0.0,
+  "ref_vert": 0.07,
+  "gains": [
+   0.9322,
+   1.0
+  ],
+  "verified": true
+ },
+ "9": {
+  "sim_rot": 0.09,
+  "sim_vert": 0.16,
+  "ref_rot": 0.06,
+  "ref_vert": 0.2,
+  "gains": [
+   0.9808,
+   0.9997
+  ],
+  "verified": true
+ },
+ "10": {
+  "sim_rot": 0.25,
+  "sim_vert": 0.28,
+  "ref_rot": 0.16,
+  "ref_vert": 0.33,
+  "gains": [
+   1.0,
+   0.9916
+  ],
+  "verified": true
+ },
+ "11": {
+  "sim_rot": 0.03,
+  "sim_vert": 0.09,
+  "ref_rot": 0.04,
+  "ref_vert": 0.1,
+  "gains": [
+   0.9891,
+   1.0
+  ],
+  "verified": true
+ },
+ "12": {
+  "sim_rot": 0.01,
+  "sim_vert": 0.23,
+  "ref_rot": 0.02,
+  "ref_vert": 0.18,
+  "gains": [
+   1.0,
+   0.9279
+  ],
+  "verified": true
+ },
+ "13": {
+  "sim_rot": 0.13,
+  "sim_vert": 0.14,
+  "ref_rot": 0.07,
+  "ref_vert": 0.14,
+  "gains": [
+   1.0,
+   0.9738
+  ],
+  "verified": true
+ },
+ "14": {
+  "sim_rot": 0.0,
+  "sim_vert": 0.05,
+  "ref_rot": 0.01,
+  "ref_vert": 0.06,
+  "gains": [
+   1.0,
+   0.9399
+  ],
+  "verified": true
+ },
+ "15": {
+  "sim_rot": 0.01,
+  "sim_vert": 0.04,
+  "ref_rot": 0.0,
+  "ref_vert": 0.04,
+  "gains": [
+   1.0,
+   0.8493
+  ],
+  "verified": true
+ },
+ "16": {
+  "sim_rot": 0.1,
+  "sim_vert": 0.18,
+  "ref_rot": 0.06,
+  "ref_vert": 0.24,
+  "gains": [
+   0.9775,
+   0.9997
+  ],
+  "verified": true
+ },
+ "17": {
+  "sim_rot": 0.07,
+  "sim_vert": 0.14,
+  "ref_rot": 0.08,
+  "ref_vert": 0.17,
+  "gains": [
+   0.9799,
+   1.0
+  ],
+  "verified": true
+ },
+ "18": {
+  "sim_rot": 0.02,
+  "sim_vert": 0.08,
+  "ref_rot": 0.01,
+  "ref_vert": 0.08,
+  "gains": [
+   1.0,
+   0.9945
+  ],
+  "verified": true
+ },
+ "19": {
+  "sim_rot": 0.05,
+  "sim_vert": 0.19,
+  "ref_rot": 0.19,
+  "ref_vert": 0.13,
+  "gains": [
+   1.0,
+   0.9266
+  ],
+  "verified": true
+ },
+ "20": {
+  "sim_rot": 0.02,
+  "sim_vert": 0.13,
+  "ref_rot": 0.01,
+  "ref_vert": 0.12,
+  "gains": [
+   1.0,
+   0.9828
+  ],
+  "verified": true
+ },
+ "21": {
+  "sim_rot": 0.01,
+  "sim_vert": 0.13,
+  "ref_rot": 0.03,
+  "ref_vert": 0.13,
+  "gains": [
+   0.9999,
+   0.9593
+  ],
+  "verified": true
+ },
+ "22": {
+  "sim_rot": 0.08,
+  "sim_vert": 0.19,
+  "ref_rot": 0.02,
+  "ref_vert": 0.25,
+  "gains": [
+   0.9779,
+   0.9997
+  ],
+  "verified": true
+ },
+ "23": {
+  "sim_rot": 0.01,
+  "sim_vert": 0.18,
+  "ref_rot": 0.03,
+  "ref_vert": 0.2,
+  "gains": [
+   1.0,
+   0.9934
+  ],
+  "verified": true
+ },
+ "24": {
+  "sim_rot": 0.02,
+  "sim_vert": 0.09,
+  "ref_rot": 0.01,
+  "ref_vert": 0.1,
+  "gains": [
+   1.0,
+   0.983
+  ],
+  "verified": true
+ },
+ "25": {
+  "sim_rot": 0.07,
+  "sim_vert": 0.12,
+  "ref_rot": 0.06,
+  "ref_vert": 0.1,
+  "gains": [
+   0.9998,
+   0.9768
+  ],
+  "verified": true
+ },
+ "26": {
+  "sim_rot": 0.0,
+  "sim_vert": 0.18,
+  "ref_rot": 0.02,
+  "ref_vert": 0.27,
+  "gains": [
+   0.9754,
+   0.9997
+  ],
+  "verified": true
+ },
+ "27": {
+  "sim_rot": 0.03,
+  "sim_vert": 0.14,
+  "ref_rot": 0.01,
+  "ref_vert": 0.16,
+  "gains": [
+   0.9495,
+   0.9977
+  ],
+  "verified": true
+ },
+ "28": {
+  "sim_rot": 0.02,
+  "sim_vert": 0.14,
+  "ref_rot": 0.04,
+  "ref_vert": 0.13,
+  "gains": [
+   1.0,
+   0.9941
+  ],
+  "verified": true
+ },
+ "29": {
+  "sim_rot": 0.01,
+  "sim_vert": 0.11,
+  "ref_rot": 0.01,
+  "ref_vert": 0.14,
+  "gains": [
+   1.0,
+   0.9946
+  ],
+  "verified": true
+ },
+ "30": {
+  "sim_rot": 0.0,
+  "sim_vert": 0.17,
+  "ref_rot": 0.01,
+  "ref_vert": 0.16,
+  "gains": [
+   0.9905,
+   0.9983
+  ],
+  "verified": true
+ },
+ "31": {
+  "sim_rot": 0.03,
+  "sim_vert": 0.13,
+  "ref_rot": 0.09,
+  "ref_vert": 0.13,
+  "gains": [
+   0.965,
+   0.9987
+  ],
+  "verified": true
+ },
+ "32": {
+  "sim_rot": 0.01,
+  "sim_vert": 0.08,
+  "ref_rot": 0.01,
+  "ref_vert": 0.09,
+  "gains": [
+   0.9428,
+   0.9991
+  ],
+  "verified": true
+ },
+ "33": {
+  "sim_rot": 0.02,
+  "sim_vert": 0.06,
+  "ref_rot": 0.0,
+  "ref_vert": 0.06,
+  "gains": [
+   0.9428,
+   0.998
+  ],
+  "verified": true
+ },
+ "34": {
+  "sim_rot": 0.01,
+  "sim_vert": 0.09,
+  "ref_rot": 0.0,
+  "ref_vert": 0.09,
+  "gains": [
+   0.9827,
+   0.999
+  ],
+  "verified": true
+ },
+ "35": {
+  "sim_rot": 0.02,
+  "sim_vert": 0.11,
+  "ref_rot": 0.01,
+  "ref_vert": 0.1,
+  "gains": [
+   0.9589,
+   0.9981
+  ],
+  "verified": true
+ },
+ "36": {
+  "sim_rot": 0.0,
+  "sim_vert": 0.07,
+  "ref_rot": 0.01,
+  "ref_vert": 0.07,
+  "gains": [
+   1.0,
+   0.9821
+  ],
+  "verified": true
+ },
+ "37": {
+  "sim_rot": 0.03,
+  "sim_vert": 0.07,
+  "ref_rot": 0.01,
+  "ref_vert": 0.08,
+  "gains": [
+   0.9364,
+   0.9989
+  ],
+  "verified": true
+ },
+ "38": {
+  "sim_rot": 0.05,
+  "sim_vert": 0.07,
+  "ref_rot": 0.02,
+  "ref_vert": 0.09,
+  "gains": [
+   0.9275,
+   0.9993
+  ],
+  "verified": true
+ },
+ "39": {
+  "sim_rot": 0.0,
+  "sim_vert": 0.1,
+  "ref_rot": 0.01,
+  "ref_vert": 0.1,
+  "gains": [
+   0.9692,
+   0.9993
+  ],
+  "verified": true
+ },
+ "40": {
+  "sim_rot": 0.0,
+  "sim_vert": 0.28,
+  "ref_rot": 0.02,
+  "ref_vert": 0.28,
+  "gains": [
+   0.9927,
+   0.9991
+  ],
+  "verified": true
+ },
+ "41": {
+  "sim_rot": 0.01,
+  "sim_vert": 0.09,
+  "ref_rot": 0.01,
+  "ref_vert": 0.12,
+  "gains": [
+   0.9219,
+   0.9986
+  ],
+  "verified": true
+ }
+}
