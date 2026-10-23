@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7444116,
  "source_revision_id": 954855923,
- "source_sha1": "b55de4f21f1673e163631f646fe9ad7cb1a96542"
+ "source_sha1": "b55de4f21f1673e163631f646fe9ad7cb1a96542",
+ "tags": [
+  "gazebo",
+  "crowd"
+ ]
 }

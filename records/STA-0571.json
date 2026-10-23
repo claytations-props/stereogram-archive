@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7459344,
  "source_revision_id": null,
- "source_sha1": "c6481a62c4fa819d051f24b5b057389d537526c4"
+ "source_sha1": "c6481a62c4fa819d051f24b5b057389d537526c4",
+ "tags": [
+  "warehouse",
+  "wagon"
+ ]
 }
