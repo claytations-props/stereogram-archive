@@ -91,3 +91,51 @@ the flat selector; returning to browse hides the beam again.
 What only a headset can judge: the room's dimness and scale, shelf
 reach, the projection's size on the wall, and whether the low reading
 shelf sits comfortably under the picture.
+
+## Fix pass (Oct 23, after Clay's first headset visit)
+
+Clay, from inside the room: the projector was way too distracting and
+blocked sight lines to the buttons; he wanted the beam to fade as it
+travels, dimmer, ending at the image's edges (no circle); and the dust
+subtle everywhere in the room except in front of the image. Three
+commits, one per piece, so each can be vetoed on its own:
+
+1. **Projector placement** — the carousel projector shrinks about 20%
+   and drops: it stands forward at z = −1.05 on a lower, smaller table
+   (top y 0.30). Body centre y 0.37, tray r 0.115, lens height 0.42
+   (was 0.60). Its whole silhouette tops out at y ≈ 0.46, well below
+   the low control cluster's sight lines. The lens glass shrinks to
+   r 0.024 and the glow sprite to an 0.11 m soft glint peaking at
+   0.35 opacity (was a 0.30 m disc at 0.5) — no visible circle.
+2. **Dust** — the beam dust cloud is gone entirely. One room cloud of
+   300 small motes (size 0.011, opacity 0.30, slow drift) spreads
+   evenly through the whole room volume. Seeding rejects anything
+   inside the beam frustum (cross-sections widened ×1.18 + 0.06, more
+   than the ±0.045 worst-case drift, so no mote can wander in) and
+   anything in the slab in front of the picture's face. The dust no
+   longer cuts during slide changes; it is room air, not beam air.
+3. **Beam** — the round cone is replaced by a rectangular frustum:
+   12 vertices, 3 rings of 4 corners. The near ring hugs the lens
+   (0.030 × 0.024 half-extents at the lens point (0, 0.42, −1.27));
+   the far ring IS the presenting picture's rect — refit by
+   `fitBeam()` whenever the picture is sized or the state changes,
+   reading the flat pair plane's geometry, or the eye planes' live
+   per-card rect when a headset is presenting. Brightness fades
+   along the length via vertex colours: ring factors 1 → 0.30 → 0
+   (a (1−t)² falloff in three rings), warm tint (1.0, 0.875, 0.682).
+   Peak opacity 0.034 (was a flat 0.05), so the wall end contributes
+   nothing. The shutter tie-in is unchanged: beam and lens glow still
+   cut to zero with the dip and return with the reveal.
+
+Verification: harness 35/35 — zero exceptions; browse entry with the
+beam hidden; projector top measured at y 0.464 from the scene graph;
+beam far-ring vertices equal the picture rect's corners to ~1e-7 in
+both flat and eye-plane fits; vertex-colour rings read 1 / 0.30 / 0;
+300 dust motes with zero inside the corridor or the screen slab under
+a recomputed drift-proof test, and motes present in every room region
+(near the side walls, high, low, behind the visitor); the dip drives
+beam and glow to 0 and back to 0.034 / 0.35.
+
+What only a headset can judge: whether the projector still distracts,
+whether the beam reads as light rather than geometry, and whether the
+dust is as subtle as intended. Those are Clay's call in the headset.
