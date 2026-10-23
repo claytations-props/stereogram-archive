@@ -1,0 +1,71 @@
+{
+ "title": "Crystal Cascade, Catskill Mountains, by London Stereoscopic View Co.",
+ "place": "Place unrecorded",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "mountains",
+  "world"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Crystal_Cascade%2C_Catskill_Mountains%2C_by_London_Stereoscopic_View_Co..jpg/1920px-Crystal_Cascade%2C_Catskill_Mountains%2C_by_London_Stereoscopic_View_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Crystal_Cascade%2C_Catskill_Mountains%2C_by_London_Stereoscopic_View_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Crystal_Cascade,_Catskill_Mountains,_by_London_Stereoscopic_View_Co..jpg",
+ "license": "Public domain",
+ "w": 2596,
+ "h": 1273,
+ "id": "STA-1055",
+ "rect": "rect/1054.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.11,
+ "rot": 0.16,
+ "range": 3.12,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.9801,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Crystal_Cascade%2C_Catskill_Mountains%2C_by_London_Stereoscopic_View_Co..jpg/1920px-Crystal_Cascade%2C_Catskill_Mountains%2C_by_London_Stereoscopic_View_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9801,
+  "L": [
+   0.359896,
+   0.0,
+   0.11224,
+   0.0,
+   0.748408,
+   0.038747
+  ],
+  "R": [
+   0.352898,
+   -0.01027,
+   0.530651,
+   -0.008146,
+   0.751004,
+   0.037884
+  ],
+  "g": [
+   0.9811,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.16° of rotation. Depth measured deep (3.12% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "London Stereoscopic View Co.",
+ "creator_dates": null,
+ "facets": [
+  "mountains",
+  "world"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10068577,
+ "source_revision_id": null,
+ "source_sha1": "3b9331a5ce970a5d4c565b8aa93e8bd6769cb23a"
+}

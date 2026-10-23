@@ -1,0 +1,71 @@
+{
+ "title": "South Lake, Catskill Mountains",
+ "place": "Place unrecorded",
+ "year": "c. 1880",
+ "sy": 1880,
+ "era": "mid",
+ "cats": [
+  "water",
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/South_Lake%2C_Catskill_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-South_Lake%2C_Catskill_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/01/South_Lake%2C_Catskill_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:South_Lake,_Catskill_Mountains,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2566,
+ "h": 1336,
+ "id": "STA-1069",
+ "rect": "rect/1068.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.3,
+ "rot": 0.05,
+ "range": 2.13,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.4369,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/South_Lake%2C_Catskill_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-South_Lake%2C_Catskill_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.4369,
+  "L": [
+   0.23125,
+   0.0,
+   0.161719,
+   0.0,
+   0.309,
+   0.3405
+  ],
+  "R": [
+   0.230524,
+   -0.001452,
+   0.598838,
+   0.000844,
+   0.306454,
+   0.371983
+  ],
+  "g": [
+   1.0,
+   0.9493
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.3% vertical error and 0.05° of rotation. Depth measured moderate (2.13% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1880~",
+ "date_start": 1875,
+ "date_end": 1885,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10067156,
+ "source_revision_id": null,
+ "source_sha1": "50df782f921bc7a91ba88474065f8e188dc8be22"
+}

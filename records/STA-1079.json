@@ -1,0 +1,71 @@
+{
+ "title": "Mountain scene on the Catskills, by London Stereoscopic View Co.",
+ "place": "Place unrecorded",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "mountains",
+  "world"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Mountain_scene_on_the_Catskills%2C_by_London_Stereoscopic_View_Co..png/1920px-Mountain_scene_on_the_Catskills%2C_by_London_Stereoscopic_View_Co..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mountain_scene_on_the_Catskills%2C_by_London_Stereoscopic_View_Co..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Mountain_scene_on_the_Catskills,_by_London_Stereoscopic_View_Co..png",
+ "license": "Public domain",
+ "w": 2595,
+ "h": 1255,
+ "id": "STA-1079",
+ "rect": "rect/1078.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.18,
+ "rot": 0.02,
+ "range": 4.95,
+ "f": 0.74,
+ "depth": "Deep",
+ "va": 0.8668,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Mountain_scene_on_the_Catskills%2C_by_London_Stereoscopic_View_Co..png/1920px-Mountain_scene_on_the_Catskills%2C_by_London_Stereoscopic_View_Co..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8668,
+  "L": [
+   0.339062,
+   0.0,
+   0.114323,
+   0.0,
+   0.808396,
+   0.037137
+  ],
+  "R": [
+   0.337591,
+   -0.003453,
+   0.522134,
+   -0.007153,
+   0.807384,
+   0.035425
+  ],
+  "g": [
+   0.9534,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.02° of rotation. Depth measured deep (4.95% of frame width); hung in the VR Parlor at 74% size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "London Stereoscopic View Co.",
+ "creator_dates": null,
+ "facets": [
+  "mountains",
+  "world"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10068630,
+ "source_revision_id": null,
+ "source_sha1": "5dc320466d2f40eeea117d886e1d07ac552b8be2"
+}

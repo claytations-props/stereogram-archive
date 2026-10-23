@@ -1,0 +1,71 @@
+{
+ "title": "Camp Malcher, Catskill Mountains",
+ "place": "Place unrecorded",
+ "year": "c. 1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "mountains",
+  "war"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Camp_Malcher%2C_Catskill_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Camp_Malcher%2C_Catskill_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Camp_Malcher%2C_Catskill_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Camp_Malcher,_Catskill_Mountains,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2543,
+ "h": 1251,
+ "id": "STA-1068",
+ "rect": "rect/1067.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.18,
+ "rot": 0.0,
+ "range": 0.97,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.8717,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Camp_Malcher%2C_Catskill_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Camp_Malcher%2C_Catskill_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.8717,
+  "L": [
+   0.402604,
+   0.0,
+   0.088281,
+   0.0,
+   0.437037,
+   0.326455
+  ],
+  "R": [
+   0.403476,
+   -0.000405,
+   0.505516,
+   -0.006367,
+   0.437846,
+   0.327125
+  ],
+  "g": [
+   0.9979,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.0° of rotation. Depth measured gentle (0.97% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains",
+  "war"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865~",
+ "date_start": 1860,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10067102,
+ "source_revision_id": null,
+ "source_sha1": "467e6b7ce36b354ba3667eea2e742fe45677de42"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Catskill Mountain House and Lodge",
+ "place": "Place unrecorded",
+ "year": "c. 1875",
+ "sy": 1875,
+ "era": "mid",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Catskill_Mountain_House_and_Lodge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Catskill_Mountain_House_and_Lodge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/57/Catskill_Mountain_House_and_Lodge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Catskill_Mountain_House_and_Lodge,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2615,
+ "h": 1307,
+ "id": "STA-1075",
+ "rect": "rect/1074.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.0,
+ "range": 1.15,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.3759,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Catskill_Mountain_House_and_Lodge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Catskill_Mountain_House_and_Lodge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.3759,
+  "L": [
+   0.398438,
+   0.0,
+   0.095052,
+   0.0,
+   0.579167,
+   0.398438
+  ],
+  "R": [
+   0.401086,
+   -0.018589,
+   0.52832,
+   0.003538,
+   0.579935,
+   0.394201
+  ],
+  "g": [
+   1.0,
+   0.9587
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (1.15% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1875~",
+ "date_start": 1870,
+ "date_end": 1880,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10067130,
+ "source_revision_id": null,
+ "source_sha1": "02a8807084e9645d23ac8c9bdf22bf0ffc01523f"
+}

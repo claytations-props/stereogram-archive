@@ -1,0 +1,69 @@
+{
+ "title": "Laurel House, Catskill Mountains",
+ "place": "Place unrecorded",
+ "year": "c. 1880",
+ "sy": 1880,
+ "era": "mid",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Laurel_House%2C_Catskill_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Laurel_House%2C_Catskill_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Laurel_House%2C_Catskill_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Laurel_House,_Catskill_Mountains,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2587,
+ "h": 1355,
+ "id": "STA-1067",
+ "rect": "rect/1066.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.19,
+ "rot": 0.0,
+ "range": 1.43,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0862,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Laurel_House%2C_Catskill_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Laurel_House%2C_Catskill_Mountains%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0862,
+  "L": [
+   0.367708,
+   0.0,
+   0.10026,
+   0.0,
+   0.646123,
+   0.164513
+  ],
+  "R": [
+   0.369867,
+   0.00272,
+   0.506213,
+   0.001668,
+   0.652773,
+   0.11573
+  ],
+  "g": [
+   1.0,
+   0.9822
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.0° of rotation. Depth measured gentle (1.43% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1880~",
+ "date_start": 1875,
+ "date_end": 1885,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10067162,
+ "source_revision_id": null,
+ "source_sha1": "8ea28f8e6387f68608d8a5b8151c9447c6e9d271"
+}
