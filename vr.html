@@ -305,15 +305,16 @@ beam.position.copy(LENS_POS);
 beam.quaternion.setFromUnitVectors(new THREE.Vector3(0,-1,0),BEAM_DIR);
 scene.add(beam);
 
-/* ---------- dust: motes drifting in the room's light ----------
-   Two small Points clouds, one soft sprite, slow sine drift on the
-   CPU — a few hundred points, nothing the Quest will notice. Beam
-   dust lives inside the beam cone and stops ~25 cm short of the
-   wall: it never crosses the picture. Ambient dust stays out of the
-   visitor-to-screen corridor entirely: clusters at the two lamp
-   glows, a sparse scatter hugging the side walls, a little near the
-   ceiling corners. Ambient dust stays lit during a slide change (the
-   room is still there); beam dust dies with the beam. */
+/* ---------- dust: small motes floating through the whole room ----
+   ONE Points cloud, ~300 motes spread through the room's whole
+   volume — floor, walls, ceiling — small, faint, drifting slowly
+   on sine paths. Clay's headset note (Oct 23): the beam cluster is
+   gone; the dust belongs everywhere EXCEPT in front of the image.
+   So seeding rejection-tests every point against the beam frustum
+   (the visitor-to-picture corridor, widened past what the drift
+   can cross) and against a slab in front of the picture's face:
+   the corridor and the screen stay completely clear. Room dust is
+   room air — it stays lit during a slide change. */
 function dustCloud(count,size,opacity,color){
   const geo=new THREE.BufferGeometry();
   geo.setAttribute('position',new THREE.BufferAttribute(new Float32Array(count*3),3));
@@ -328,38 +329,40 @@ function dustSeed(sys,i,x,y,z){
 function dustFinish(sys){
   const a=sys.pts.geometry.attributes.position.array;a.set(sys.base);sys.pts.geometry.attributes.position.needsUpdate=true;
 }
-const beamDust=dustCloud(140,0.013,0.5,0xffd9a3);
+const roomDust=dustCloud(300,0.011,0.30,0xffd9a3);
 {
-  const u=new THREE.Vector3(1,0,0),v=new THREE.Vector3().crossVectors(BEAM_DIR,u).normalize();
-  for(let i=0;i<beamDust.n;i++){
-    const t=0.05+Math.random()*0.83; // along the beam, stopping short of the wall
-    const r=(0.032+(BEAM_R1-0.032)*t)*0.92*Math.sqrt(Math.random()),th=Math.random()*6.283;
-    const p=LENS_POS.clone().addScaledVector(BEAM_DIR,BEAM_LEN*t).addScaledVector(u,Math.cos(th)*r).addScaledVector(v,Math.sin(th)*r);
-    dustSeed(beamDust,i,p.x,p.y,p.z);
+  // the keep-out, in numbers: the beam frustum runs from the lens
+  // (0,0.42,-1.27) to the picture rect (1.34 × 1.22 centred (0,1.5)
+  // on the wall at z=-3.37). A point is in the corridor when its
+  // offset from the beam axis, measured on the axis' own right/up
+  // basis, falls inside the frustum's cross-section at its depth —
+  // the section widened ×1.18 + 0.06, more than the ±0.045 drift.
+  const lens=new THREE.Vector3(0,0.42,-1.27),picC=new THREE.Vector3(0,1.5,-3.37);
+  const axis=picC.clone().sub(lens),axisLen=axis.length();axis.normalize();
+  const right=new THREE.Vector3().crossVectors(axis,new THREE.Vector3(0,1,0)).normalize();
+  const upv=new THREE.Vector3().crossVectors(right,axis).normalize();
+  const inCorridor=(x,y,z)=>{
+    const px=x-lens.x,py=y-lens.y,pz=z-lens.z;
+    const along=px*axis.x+py*axis.y+pz*axis.z;
+    if(along<=0||along>=axisLen)return false;
+    const t=along/axisLen;
+    const dx=px-axis.x*along,dy=py-axis.y*along,dz=pz-axis.z*along;
+    const hw=(0.030+(1.34/2-0.030)*t)*1.18+0.06,hh=(0.024+(1.22/2-0.024)*t)*1.18+0.06;
+    return Math.abs(dx*right.x+dy*right.y+dz*right.z)<hw&&Math.abs(dx*upv.x+dy*upv.y+dz*upv.z)<hh;
+  };
+  const inFrontOfPicture=(x,y,z)=>z<-2.55&&Math.abs(x)<1.34/2+0.12&&Math.abs(y-1.5)<1.22/2+0.12;
+  let i=0,guard=0;
+  while(i<roomDust.n&&guard++<20000){
+    const x=-2.6+Math.random()*5.2,y=0.15+Math.random()*2.8,z=-3.2+Math.random()*5.6;
+    if(inCorridor(x,y,z)||inFrontOfPicture(x,y,z))continue;
+    dustSeed(roomDust,i++,x,y,z);
   }
-  dustFinish(beamDust);
-}
-const roomDust=dustCloud(150,0.016,0.32,0xffd9a3);
-{
-  let i=0;
-  const cluster=(cx,cy,cz,r,n)=>{for(let k=0;k<n&&i<roomDust.n;k++,i++){
-    const th=Math.random()*6.283,ph=Math.acos(2*Math.random()-1),rr=r*Math.cbrt(Math.random());
-    dustSeed(roomDust,i,cx+rr*Math.sin(ph)*Math.cos(th),cy+rr*Math.cos(ph)*0.7,cz+rr*Math.sin(ph)*Math.sin(th));
-  }};
-  cluster(-2.45,1.95,-2.4,0.5,32);cluster(2.45,1.95,-2.4,0.5,32); // at the lamp glows
-  for(let k=0;k<56&&i<roomDust.n;k++,i++){ // hugging the side walls
-    const s=Math.random()<0.5?-1:1;
-    dustSeed(roomDust,i,s*(2.15+Math.random()*0.45),0.3+Math.random()*2.4,-3.1+Math.random()*5.2);
-  }
-  while(i<roomDust.n){ // near the ceiling, out toward the corners
-    const s=Math.random()<0.5?-1:1;
-    dustSeed(roomDust,i,s*(1.3+Math.random()*1.3),2.55+Math.random()*0.4,-3.0+Math.random()*4.5);i++;
-  }
+  while(i<roomDust.n)dustSeed(roomDust,i++,-2.5,2.8,2.3); // unreachable in practice; a safe corner if the guard ever trips
   dustFinish(roomDust);
 }
 function updateDust(t){
   const s=t*0.001;
-  for(const sys of [beamDust,roomDust]){
+  for(const sys of [roomDust]){
     const a=sys.pts.geometry.attributes.position.array,b=sys.base,ph=sys.ph;
     for(let i=0;i<sys.n;i++){
       a[i*3]  =b[i*3]  +Math.sin(s*0.11+ph[i*3])*0.045;
@@ -1011,10 +1014,10 @@ function setPhotoBrightness(v){
   rightPlane.material.color.setScalar(v);
   pairPlane.material.color.setScalar(v);
   // the projector's shutter is what makes the dark: while it is shut,
-  // the beam and its dust go dark with the picture, and the lens glow
-  // dies — then all of it comes back with the reveal
+  // the beam goes dark with the picture, and the lens glow dies —
+  // then all of it comes back with the reveal (the room's dust is
+  // just room air; it stays)
   beamMat.opacity=0.05*v;
-  beamDust.mat.opacity=0.5*v;
   if(uiState!=='browse')lensGlowMat.opacity=LENS_GLOW_PEAK*v;
   lensGlassMat.opacity=0.2+0.8*v;
 }
@@ -1076,12 +1079,11 @@ function applyVis(){
   const browsing=uiState==='browse';
   browseGroup.visible=browsing;
   // the finding aid cabinet stands in the room in both states; the
-  // low shelf, the beam and its dust belong to the projection, so
-  // they show only while reading
+  // low shelf and the beam belong to the projection, so they show
+  // only while reading
   setPanelGroup.visible=true;
   readingShelfGroup.visible=!browsing;
   beam.visible=!browsing;
-  beamDust.pts.visible=!browsing;
   lensGlowMat.opacity=browsing?0:LENS_GLOW_PEAK*projValue;
   plaque.visible=!browsing;
   // the one control row rides at the bottom of whichever assembly is
