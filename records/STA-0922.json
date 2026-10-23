@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7463001,
  "source_revision_id": null,
- "source_sha1": "98ac1aa87d7badeb4bbd21b7f208828760b323b0"
+ "source_sha1": "98ac1aa87d7badeb4bbd21b7f208828760b323b0",
+ "tags": [
+  "waterfall",
+  "logging"
+ ]
 }
