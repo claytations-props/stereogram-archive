@@ -958,8 +958,10 @@ function showPos(pos){
    on the planes AND ~370 ms have passed (so the recorded change's
    drop chunk lands on the reveal), then the beam returns over
    ~45 ms; a ~1200 ms ceiling reveals anyway. Brightness only — the
-   photo never moves — and only the photo planes dip: the caption
-   plaque, the record card, the room and the floor stay lit. Steps
+   photo never moves — and the photo planes dip: the caption
+   plaque, the record card, the room and the floor stay lit, while
+   the projector's beam and lens glow cut with the shutter and
+   return with the reveal, as a real Carousel's would. Steps
    landing during the dip or hold retarget the same cycle (showPos
    queues them onto the final card, one reveal); a step during the
    beam's return cuts it and starts a fresh dip. Entering the reading
@@ -1002,6 +1004,13 @@ function setPhotoBrightness(v){
   leftPlane.material.color.setScalar(v);
   rightPlane.material.color.setScalar(v);
   pairPlane.material.color.setScalar(v);
+  // the projector's shutter is what makes the dark: while it is shut,
+  // the beam and its dust go dark with the picture, and the lens glow
+  // dies — then all of it comes back with the reveal
+  beamMat.opacity=0.05*v;
+  beamDust.mat.opacity=0.5*v;
+  if(uiState!=='browse')lensGlowMat.opacity=0.5*v;
+  lensGlassMat.opacity=0.2+0.8*v;
 }
 function startProjChange(){
   projActive=true;projPhase='dip';projT0=performance.now();projFrom=projValue;
@@ -1263,6 +1272,7 @@ function loopFn(t){
   camera.rotation.set(pitch,yaw,0,'YXZ');
   if(renderer.xr.isPresenting){updateHover();pollSticks(t);}
   updateProj();
+  updateDust(t);
   renderer.render(scene,camera);
 }
 if(!('xr' in navigator))statusEl.textContent='This browser has no WebXR, so no VR button. The parlor still works flat here, and in a Quest or Vision Pro browser you will get the full VR version.';
