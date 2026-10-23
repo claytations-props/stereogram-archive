@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 7311485,
  "source_revision_id": 1131908170,
- "source_sha1": "5c535d73c4b073409012aa2cf69a3e2fc131e210"
+ "source_sha1": "5c535d73c4b073409012aa2cf69a3e2fc131e210",
+ "tags": [
+  "mule",
+  "workers",
+  "wagon"
+ ]
 }

@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 48545914,
  "source_revision_id": null,
- "source_sha1": "da128cb903239d819fc20f87ead561ed41c51adf"
+ "source_sha1": "da128cb903239d819fc20f87ead561ed41c51adf",
+ "tags": [
+  "workers",
+  "pier"
+ ]
 }
