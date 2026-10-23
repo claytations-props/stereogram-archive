@@ -259,36 +259,42 @@ ring.rotation.x=-Math.PI/2;ring.position.y=0.002;scene.add(ring);
 
 /* ---------- the projector: a small machine on a low table ----------
    Below and in front of the visitor, low and centered on the
-   projection axis, its top well under the sightlines to the shelves,
-   the caption and the button row. Stylized low-poly: table, body,
-   slide carousel on top, lens barrel facing the wall. */
-const projectorGroup=new THREE.Group();projectorGroup.position.set(0,0,-0.95);scene.add(projectorGroup);
+   projection axis. Clay's headset note (Oct 23): the first build was
+   way too distracting — it crowded the sight lines down to the
+   button row. So the machine shrank and dropped: the lens sits at
+   0.42 m, the whole silhouette stays under ~0.46 m, and it stands a
+   step further forward. Stylized low-poly: table, body, slide
+   carousel on top, lens barrel facing the wall. */
+const projectorGroup=new THREE.Group();projectorGroup.position.set(0,0,-1.05);scene.add(projectorGroup);
 {
-  const top=new THREE.Mesh(new THREE.BoxGeometry(0.56,0.035,0.62),MAT_WOOD);top.position.y=0.50;projectorGroup.add(top);
-  [[-0.24,-0.26],[0.24,-0.26],[-0.24,0.26],[0.24,0.26]].forEach(([lx,lz])=>{
-    const leg=new THREE.Mesh(new THREE.BoxGeometry(0.04,0.48,0.04),MAT_WOOD_DARK);
-    leg.position.set(lx,0.24,lz);projectorGroup.add(leg);
+  const top=new THREE.Mesh(new THREE.BoxGeometry(0.44,0.03,0.50),MAT_WOOD);top.position.y=0.30;projectorGroup.add(top);
+  [[-0.185,-0.21],[0.185,-0.21],[-0.185,0.21],[0.185,0.21]].forEach(([lx,lz])=>{
+    const leg=new THREE.Mesh(new THREE.BoxGeometry(0.035,0.285,0.035),MAT_WOOD_DARK);
+    leg.position.set(lx,0.1425,lz);projectorGroup.add(leg);
   });
-  const body=new THREE.Mesh(new THREE.BoxGeometry(0.36,0.15,0.44),new THREE.MeshStandardMaterial({color:0x16120e,roughness:0.55,metalness:0.3}));
-  body.position.y=0.5925;projectorGroup.add(body);
-  const tray=new THREE.Mesh(new THREE.CylinderGeometry(0.155,0.155,0.028,28),new THREE.MeshStandardMaterial({color:0x1e1913,roughness:0.6,metalness:0.25}));
-  tray.position.y=0.679;projectorGroup.add(tray);
-  const hub=new THREE.Mesh(new THREE.CylinderGeometry(0.03,0.03,0.02,14),new THREE.MeshStandardMaterial({color:0x6a5326,roughness:0.5,metalness:0.6}));
-  hub.position.y=0.70;projectorGroup.add(hub);
-  const barrel=new THREE.Mesh(new THREE.CylinderGeometry(0.048,0.056,0.09,20),new THREE.MeshStandardMaterial({color:0x0c0a08,roughness:0.4,metalness:0.5}));
-  barrel.rotation.x=Math.PI/2;barrel.position.set(0,0.60,-0.255);projectorGroup.add(barrel);
+  const body=new THREE.Mesh(new THREE.BoxGeometry(0.28,0.11,0.34),new THREE.MeshStandardMaterial({color:0x16120e,roughness:0.55,metalness:0.3}));
+  body.position.y=0.37;projectorGroup.add(body);
+  const tray=new THREE.Mesh(new THREE.CylinderGeometry(0.115,0.115,0.024,28),new THREE.MeshStandardMaterial({color:0x1e1913,roughness:0.6,metalness:0.25}));
+  tray.position.y=0.437;projectorGroup.add(tray);
+  const hub=new THREE.Mesh(new THREE.CylinderGeometry(0.024,0.024,0.018,14),new THREE.MeshStandardMaterial({color:0x6a5326,roughness:0.5,metalness:0.6}));
+  hub.position.y=0.455;projectorGroup.add(hub);
+  const barrel=new THREE.Mesh(new THREE.CylinderGeometry(0.034,0.04,0.07,20),new THREE.MeshStandardMaterial({color:0x0c0a08,roughness:0.4,metalness:0.5}));
+  barrel.rotation.x=Math.PI/2;barrel.position.set(0,0.42,-0.185);projectorGroup.add(barrel);
 }
-// lens glass and its glow, at the barrel's mouth (world z ≈ -1.26)
+// lens glass and its glow, at the barrel's mouth (world z ≈ -1.27).
+// The glow is a tiny soft glint now, not a disc: 0.11 m of radial
+// falloff at low opacity, so no circle shape reads at the lens.
+const LENS_GLOW_PEAK=0.35;
 const lensGlassMat=new THREE.MeshBasicMaterial({color:0xffd9a0,transparent:true,opacity:1,fog:false});
-const lensGlass=new THREE.Mesh(new THREE.CircleGeometry(0.036,20),lensGlassMat);
-lensGlass.position.set(0,0.60,-1.258);lensGlass.rotation.y=Math.PI;scene.add(lensGlass);
-const lensGlowMat=new THREE.SpriteMaterial({map:glowTex,color:0xffc37a,transparent:true,opacity:0.5,blending:THREE.AdditiveBlending,depthWrite:false});
-const lensGlow=new THREE.Sprite(lensGlowMat);lensGlow.scale.set(0.3,0.3,1);lensGlow.position.set(0,0.60,-1.29);scene.add(lensGlow);
+const lensGlass=new THREE.Mesh(new THREE.CircleGeometry(0.024,20),lensGlassMat);
+lensGlass.position.set(0,0.42,-1.272);lensGlass.rotation.y=Math.PI;scene.add(lensGlass);
+const lensGlowMat=new THREE.SpriteMaterial({map:glowTex,color:0xffc37a,transparent:true,opacity:LENS_GLOW_PEAK,blending:THREE.AdditiveBlending,depthWrite:false});
+const lensGlow=new THREE.Sprite(lensGlowMat);lensGlow.scale.set(0.11,0.11,1);lensGlow.position.set(0,0.42,-1.285);scene.add(lensGlow);
 /* the beam: a whisper of a cone from the lens to the picture on the
    wall — additive, very low opacity, ending AT the image plane so it
    never washes the picture. It cuts with the projector shutter during
    a slide change (setPhotoBrightness scales it) and is off in browse. */
-const LENS_POS=new THREE.Vector3(0,0.60,-1.27);
+const LENS_POS=new THREE.Vector3(0,0.42,-1.27);
 const BEAM_TARGET=new THREE.Vector3(0,1.5,-3.36);
 const BEAM_DIR=BEAM_TARGET.clone().sub(LENS_POS);const BEAM_LEN=BEAM_DIR.length();BEAM_DIR.normalize();
 const BEAM_R1=0.80;
@@ -1009,7 +1015,7 @@ function setPhotoBrightness(v){
   // dies — then all of it comes back with the reveal
   beamMat.opacity=0.05*v;
   beamDust.mat.opacity=0.5*v;
-  if(uiState!=='browse')lensGlowMat.opacity=0.5*v;
+  if(uiState!=='browse')lensGlowMat.opacity=LENS_GLOW_PEAK*v;
   lensGlassMat.opacity=0.2+0.8*v;
 }
 function startProjChange(){
@@ -1076,7 +1082,7 @@ function applyVis(){
   readingShelfGroup.visible=!browsing;
   beam.visible=!browsing;
   beamDust.pts.visible=!browsing;
-  lensGlowMat.opacity=browsing?0:0.5*projValue;
+  lensGlowMat.opacity=browsing?0:LENS_GLOW_PEAK*projValue;
   plaque.visible=!browsing;
   // the one control row rides at the bottom of whichever assembly is
   // showing: under the caption in the reading state, under the wall
