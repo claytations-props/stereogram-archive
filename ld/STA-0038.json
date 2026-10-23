@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0038.json",
+ "name": "Ladders at the Vernal Fall, by Lawrence & Houseworth",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/37.jpg",
+ "identifier": "STA-0038",
+ "creator": {
+  "@type": "Person",
+  "name": "Lawrence & Houseworth"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yosemite Valley, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Ladders_at_the_Vernal_Fall,_by_Lawrence_%26_Houseworth.jpg"
+}

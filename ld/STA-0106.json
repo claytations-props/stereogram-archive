@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0106.json",
+ "name": "Catskill Falls and Laurel House, from Prospect Rock, Catskill Mt, by H. S. Fifield",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/105.jpg",
+ "identifier": "STA-0106",
+ "creator": {
+  "@type": "Person",
+  "name": "H. S. Fifield"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Catskill, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Catskill_Falls_and_Laurel_House,_from_Prospect_Rock,_Catskill_Mt,_by_H._S._Fifield.png"
+}

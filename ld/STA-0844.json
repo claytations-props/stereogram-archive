@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0844.json",
+ "name": "Les Bains de la Samaritaine bij Pont Neuf in Parijs, RP-F-F05442",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/843.jpg",
+ "identifier": "STA-0844",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Les_Bains_de_la_Samaritaine_bij_Pont_Neuf_in_Parijs,_RP-F-F05442.jpg"
+}

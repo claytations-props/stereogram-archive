@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0541.json",
+ "name": "Sargent's Mountain from near Eagle Lake (NYPL b11707225-G89F205 006F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/540.jpg",
+ "identifier": "STA-0541",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sargent%27s_Mountain_from_near_Eagle_Lake_(NYPL_b11707225-G89F205_006F).tiff"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0335.json",
+ "name": "Moss Cataract Del Water Gap Pa, by R. Newell & Sons",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/334.jpg",
+ "identifier": "STA-0335",
+ "creator": {
+  "@type": "Person",
+  "name": "R. Newell & Sons"
+ },
+ "dateCreated": "1860",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Delaware Water Gap, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Moss_Cataract_Del_Water_Gap_Pa,_by_R._Newell_%26_Sons.png"
+}

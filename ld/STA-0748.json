@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0748.json",
+ "name": "Frankenstein Trestle, P. & O.R.R., White Mts. Notch, from Robert N. Dennis collection of stereoscopic views 3",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/747.jpg",
+ "identifier": "STA-0748",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Crawford Notch, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Frankenstein_Trestle,_P._%26_O.R.R.,_White_Mts._Notch,_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.png"
+}

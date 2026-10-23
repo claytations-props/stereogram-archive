@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0881.json",
+ "name": "De Kerk der Paters Redemptoristen.(Onze Lieve Vrouwenkerk.) op de Keizersgracht bij de Westermarkt, te Amsterdam, RP-F-F11644",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/880.jpg",
+ "identifier": "STA-0881",
+ "dateCreated": "1859",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:De_Kerk_der_Paters_Redemptoristen.(Onze_Lieve_Vrouwenkerk.)_op_de_Keizersgracht_bij_de_Westermarkt,_te_Amsterdam,_RP-F-F11644.jpg"
+}

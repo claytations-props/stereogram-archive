@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0363.json",
+ "name": "French Quarter New Orleans - 900 block of Royal Street, 1926",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/362.jpg",
+ "identifier": "STA-0363",
+ "dateCreated": "1926",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:French_Quarter_New_Orleans_-_900_block_of_Royal_Street,_1926.png"
+}

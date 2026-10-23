@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0480.json",
+ "name": "A group of students on the steps of their school, by J. S. Lefavour 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/479.jpg",
+ "identifier": "STA-0480",
+ "creator": {
+  "@type": "Person",
+  "name": "J. S. Lefavour"
+ },
+ "dateCreated": "1859",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salem, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:A_group_of_students_on_the_steps_of_their_school,_by_J._S._Lefavour_2.png"
+}

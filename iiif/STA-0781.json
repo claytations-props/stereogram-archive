@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0781.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "View of Nobb Hill, the millionaire residence district (NYPL b11707478-G90F002 042F)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1906"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "San Francisco, California"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0781.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0781/canvas/1",
+   "type": "Canvas",
+   "width": 1180,
+   "height": 499,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0781/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0781/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/780.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1180,
+        "height": 499,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/View_of_Nobb_Hill%2C_the_millionaire_residence_district_%28NYPL_b11707478-G90F002_042F%29.tiff/lossy-page1-1920px-View_of_Nobb_Hill%2C_the_millionaire_residence_district_%28NYPL_b11707478-G90F002_042F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0781/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

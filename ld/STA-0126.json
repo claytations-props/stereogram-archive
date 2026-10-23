@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0126.json",
+ "name": "Baltimore City Jail., Maryland, by Beidel, H. Frank, 1857-1932",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/125.jpg",
+ "identifier": "STA-0126",
+ "creator": {
+  "@type": "Person",
+  "name": "Beidel, H. Frank"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Baltimore, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Baltimore_City_Jail.,_Maryland,_by_Beidel,_H._Frank,_1857-1932.jpg"
+}

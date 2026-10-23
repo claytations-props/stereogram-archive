@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0098.json",
+ "name": "The Basin, Franconia, New Hampshire (NYPL b11708055-G91F020 004F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/97.jpg",
+ "identifier": "STA-0098",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Franconia, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Basin,_Franconia,_New_Hampshire_(NYPL_b11708055-G91F020_004F).tiff"
+}

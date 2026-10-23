@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0187.json",
+ "name": "Leadville, Colorado. (Apr. 23, (18)79), by Gurnsey, B. H. (Byron H.), 1833-1880",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/186.jpg",
+ "identifier": "STA-0187",
+ "creator": {
+  "@type": "Person",
+  "name": "Gurnsey, B. H. (Byron H.)"
+ },
+ "dateCreated": "1879",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Leadville, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Leadville,_Colorado._(Apr._23,_(18)79),_by_Gurnsey,_B._H._(Byron_H.),_1833-1880.png"
+}

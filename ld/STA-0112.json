@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0112.json",
+ "name": "Wolfe Hall, Denver, Colorado, by Chamberlain, W. G. (William Gunnison)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/111.jpg",
+ "identifier": "STA-0112",
+ "creator": {
+  "@type": "Person",
+  "name": "Chamberlain, W. G. (William Gunnison)"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Denver, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Wolfe_Hall,_Denver,_Colorado,_by_Chamberlain,_W._G._(William_Gunnison).png"
+}

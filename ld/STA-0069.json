@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0069.json",
+ "name": "El Capitan, solid granite (3300 ft. high), looking N.W. Yosemite Valley, Cal, by Underwood & Underwood",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/68.jpg",
+ "identifier": "STA-0069",
+ "creator": {
+  "@type": "Person",
+  "name": "Underwood & Underwood"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yosemite, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:El_Capitan,_solid_granite_(3300_ft._high),_looking_N.W._Yosemite_Valley,_Cal,_by_Underwood_%26_Underwood.png"
+}

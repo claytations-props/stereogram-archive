@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0972.json",
+ "name": "East River bridge tower, N.Y, from Robert N. Dennis collection of stereoscopic views 3",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/971.jpg",
+ "identifier": "STA-0972",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New York, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:East_River_bridge_tower,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg"
+}

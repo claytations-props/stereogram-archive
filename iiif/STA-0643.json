@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0643.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Congress Spring, Saratoga, by Deloss Barnum 6"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Deloss Barnum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1863"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Saratoga Springs, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0643.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0643/canvas/1",
+   "type": "Canvas",
+   "width": 1476,
+   "height": 818,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0643/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0643/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/642.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1476,
+        "height": 818,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Congress_Spring%2C_Saratoga%2C_by_Deloss_Barnum_6.png/1920px-Congress_Spring%2C_Saratoga%2C_by_Deloss_Barnum_6.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0643/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

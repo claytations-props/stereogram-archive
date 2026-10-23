@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1009.json",
+ "name": "Gezicht op de Thunersee nabij Thun, Zwitserland Environs de Thoune (titel op object), RP-F-F07928",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1008.jpg",
+ "identifier": "STA-1009",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_Thunersee_nabij_Thun,_Zwitserland_Environs_de_Thoune_(titel_op_object),_RP-F-F07928.jpg"
+}

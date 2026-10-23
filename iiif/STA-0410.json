@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0410.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Lake Champlain, near the Elbow, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Stoddard, Seneca Ray"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "1844-1917"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Lake Champlain, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0410.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0410/canvas/1",
+   "type": "Canvas",
+   "width": 1444,
+   "height": 472,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0410/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0410/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/409.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1444,
+        "height": 472,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Champlain%2C_near_the_Elbow%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg/1920px-Lake_Champlain%2C_near_the_Elbow%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0410/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

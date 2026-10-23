@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0265.json",
+ "name": "View of Faribault, from Fairview house, by A. F. Burnham",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/264.jpg",
+ "identifier": "STA-0265",
+ "creator": {
+  "@type": "Person",
+  "name": "A. F. Burnham"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_Faribault,_from_Fairview_house,_by_A._F._Burnham.jpg"
+}

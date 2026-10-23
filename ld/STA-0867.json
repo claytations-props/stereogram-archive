@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0867.json",
+ "name": "Zaal met Japans lakwerk in het Musée Guimet te Parijs Paris. Musée Guimet, salle des lacques japonaises (titel op object), RP-F-00-8953",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/866.jpg",
+ "identifier": "STA-0867",
+ "dateCreated": "1903",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Zaal_met_Japans_lakwerk_in_het_Mus%C3%A9e_Guimet_te_Parijs_Paris._Mus%C3%A9e_Guimet,_salle_des_lacques_japonaises_(titel_op_object),_RP-F-00-8953.jpg"
+}

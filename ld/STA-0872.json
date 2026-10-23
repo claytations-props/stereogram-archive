@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0872.json",
+ "name": "Gezicht op het Paleis voor Volksvlijt, Amsterdam, RP-F-2018-162",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/871.jpg",
+ "identifier": "STA-0872",
+ "dateCreated": "1865",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_het_Paleis_voor_Volksvlijt,_Amsterdam,_RP-F-2018-162.jpg"
+}

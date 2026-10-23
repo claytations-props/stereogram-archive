@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1023.json",
+ "name": "Brug over de Linth Vue dans la Vallée de la Linth, Canton de Glarus. Suisse. (titel op object), RP-F-F08117",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1022.jpg",
+ "identifier": "STA-1023",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Brug_over_de_Linth_Vue_dans_la_Vall%C3%A9e_de_la_Linth,_Canton_de_Glarus._Suisse._(titel_op_object),_RP-F-F08117.jpg"
+}

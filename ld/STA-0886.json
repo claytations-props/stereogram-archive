@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0886.json",
+ "name": "Stadsschouwburg, RP-F-2015-114-20",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/885.jpg",
+ "identifier": "STA-0886",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Stadsschouwburg,_RP-F-2015-114-20.jpg"
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0966.json",
+ "name": "New York, from the pier of the suspension bridge, by Kilburn Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/965.jpg",
+ "identifier": "STA-0966",
+ "creator": {
+  "@type": "Person",
+  "name": "Kilburn Brothers"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New York, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:New_York,_from_the_pier_of_the_suspension_bridge,_by_Kilburn_Brothers.png"
+}

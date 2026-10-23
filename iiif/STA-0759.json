@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0759.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Crawford House and Cherry Mountain, from Elephant's Head, by Pease, N. W. (Nathan W.), 1836-1918"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Pease, N. W. (Nathan W.)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "1836-1918"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Crawford Notch, New Hampshire"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0759.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0759/canvas/1",
+   "type": "Canvas",
+   "width": 1020,
+   "height": 448,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0759/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0759/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/758.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1020,
+        "height": 448,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Crawford_House_and_Cherry_Mountain%2C_from_Elephant%27s_Head%2C_by_Pease%2C_N._W._%28Nathan_W.%29%2C_1836-1918.png/1920px-Crawford_House_and_Cherry_Mountain%2C_from_Elephant%27s_Head%2C_by_Pease%2C_N._W._%28Nathan_W.%29%2C_1836-1918.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0759/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

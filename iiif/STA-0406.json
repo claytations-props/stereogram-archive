@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0406.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Cumberland Head, Lake Champlain, by Styles, A. F. (Adin French), 1832-1910"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Styles, A. F. (Adin French)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "1832-1910"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Lake Champlain, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0406.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0406/canvas/1",
+   "type": "Canvas",
+   "width": 1600,
+   "height": 663,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0406/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0406/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/405.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1600,
+        "height": 663,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Cumberland_Head%2C_Lake_Champlain%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.jpg/1920px-Cumberland_Head%2C_Lake_Champlain%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0406/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0398.json",
+ "name": "An Eastern Turn out, Field's Columbian Museum, Chicago, Ill., U.S.A (NYPL b11707462-G90F185 014F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/397.jpg",
+ "identifier": "STA-0398",
+ "dateCreated": "1896",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chicago, Illinois"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:An_Eastern_Turn_out,_Field%27s_Columbian_Museum,_Chicago,_Ill.,_U.S.A_(NYPL_b11707462-G90F185_014F).tiff"
+}

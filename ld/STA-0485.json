@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0485.json",
+ "name": "Model of the Mayflower, by William S. Robbins & Co. 4",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/484.jpg",
+ "identifier": "STA-0485",
+ "creator": {
+  "@type": "Person",
+  "name": "William S. Robbins & Co."
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Plymouth, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Model_of_the_Mayflower,_by_William_S._Robbins_%26_Co._4.jpg"
+}

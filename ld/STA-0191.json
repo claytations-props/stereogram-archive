@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0191.json",
+ "name": "Bluff Island -- one of the pretty sites in the St. Lawrence, Thousand Islands, by Underwood & Underwood",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/190.jpg",
+ "identifier": "STA-0191",
+ "creator": {
+  "@type": "Person",
+  "name": "Underwood & Underwood"
+ },
+ "dateCreated": "1900",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Thousand Islands, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bluff_Island_--_one_of_the_pretty_sites_in_the_St._Lawrence,_Thousand_Islands,_by_Underwood_%26_Underwood.jpg"
+}

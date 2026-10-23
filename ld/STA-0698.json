@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0698.json",
+ "name": "Profile Lake (NYPL b11708055-G91F020 237F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/697.jpg",
+ "identifier": "STA-0698",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Franconia Notch, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Profile_Lake_(NYPL_b11708055-G91F020_237F).tiff"
+}

@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0733.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Train on P. & O.R.R., White Mt. Notch, N.H"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "New York Public Library"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Collection"
+    ]
+   },
+   "value": {
+    "none": [
+     "Robert N. Dennis Collection of Stereoscopic Views"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1876–1889"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Crawford Notch, New Hampshire"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0733.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0733/canvas/1",
+   "type": "Canvas",
+   "width": 1546,
+   "height": 840,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0733/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0733/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/732.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1546,
+        "height": 840,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Train_on_P._%26_O.R.R.%2C_White_Mt._Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Train_on_P._%26_O.R.R.%2C_White_Mt._Notch%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0733/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

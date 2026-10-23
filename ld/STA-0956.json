@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0956.json",
+ "name": "Harald Ulrik Sverdrup måler solstrålenes intensitet, 1919 (12114497643)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/955.jpg",
+ "identifier": "STA-0956",
+ "dateCreated": "1919",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Harald_Ulrik_Sverdrup_m%C3%A5ler_solstr%C3%A5lenes_intensitet,_1919_(12114497643).jpg"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0752.json",
+ "name": "Willey House",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/751.jpg",
+ "identifier": "STA-0752",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Crawford Notch, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Willey_House,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

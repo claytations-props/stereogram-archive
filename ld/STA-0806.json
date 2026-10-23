@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0806.json",
+ "name": "Lower Depot, Mt. Wash'n. Railway, N.H, by Adams, S. F., b. 1844",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/805.jpg",
+ "identifier": "STA-0806",
+ "creator": {
+  "@type": "Person",
+  "name": "Adams, S. F."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mount Washington, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Lower_Depot,_Mt._Wash%27n._Railway,_N.H,_by_Adams,_S._F.,_b._1844.jpg"
+}

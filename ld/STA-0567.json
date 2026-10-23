@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0567.json",
+ "name": "Rev. Dr. Huntington's Church",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/566.jpg",
+ "identifier": "STA-0567",
+ "dateCreated": "1864",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Rev._Dr._Huntington%27s_Church,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

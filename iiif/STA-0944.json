@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0944.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Fra Bjørnstjerne Bjørnsons hjem, Aulestad stereofotografi - no-nb digifoto 20151202 00217 blds 07749"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Norway"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0944.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0944/canvas/1",
+   "type": "Canvas",
+   "width": 1504,
+   "height": 522,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0944/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0944/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/943.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1504,
+        "height": 522,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Fra_Bj%C3%B8rnstjerne_Bj%C3%B8rnsons_hjem%2C_Aulestad_stereofotografi_-_no-nb_digifoto_20151202_00217_blds_07749.jpg/1920px-Fra_Bj%C3%B8rnstjerne_Bj%C3%B8rnsons_hjem%2C_Aulestad_stereofotografi_-_no-nb_digifoto_20151202_00217_blds_07749.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0944/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

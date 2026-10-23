@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0726.json",
+ "name": "The Profile house, Franconia notch. Messrs. Taft, Taylor & Greenleaf, proprietors, by E. & H.T. Anthony (Firm)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/725.jpg",
+ "identifier": "STA-0726",
+ "creator": {
+  "@type": "Person",
+  "name": "E. & H.T. Anthony (Firm)"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Franconia Notch, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Profile_house,_Franconia_notch._Messrs._Taft,_Taylor_%26_Greenleaf,_proprietors,_by_E._%26_H.T._Anthony_(Firm).png"
+}

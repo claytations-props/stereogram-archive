@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0224.json",
+ "name": "(Model of Jerusalem), Chautauqua Lake, August 14, 18(??)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/223.jpg",
+ "identifier": "STA-0224",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chautauqua Lake, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:(Model_of_Jerusalem),_Chautauqua_Lake,_August_14,_18(%3F%3F),_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

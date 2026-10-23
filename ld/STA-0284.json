@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0284.json",
+ "name": "Old Church on Star Island",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/283.jpg",
+ "identifier": "STA-0284",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Isles of Shoals, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Old_Church_on_Star_Island,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0059.json",
+ "name": "Group portrait of Indians, including children, by C. W. Carter",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/58.jpg",
+ "identifier": "STA-0059",
+ "creator": {
+  "@type": "Person",
+  "name": "C. W. Carter"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Group_portrait_of_Indians,_including_children,_by_C._W._Carter.jpg"
+}

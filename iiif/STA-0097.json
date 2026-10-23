@@ -1,0 +1,128 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0097.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "New Year Picnic, Mission Creek, by Hayward & Muzzall"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "New York Public Library"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Collection"
+    ]
+   },
+   "value": {
+    "none": [
+     "Robert N. Dennis Collection of Stereoscopic Views"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Hayward & Muzzall"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1875"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Santa Barbara, California"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0097.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0097/canvas/1",
+   "type": "Canvas",
+   "width": 1370,
+   "height": 615,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0097/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0097/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/96.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1370,
+        "height": 615,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/New_Year_Picnic%2C_Mission_Creek%2C_by_Hayward_%26_Muzzall.png/1920px-New_Year_Picnic%2C_Mission_Creek%2C_by_Hayward_%26_Muzzall.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0097/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

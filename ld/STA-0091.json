@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0091.json",
+ "name": "Bishop Hopkins' golden wedding, by G. B. Davis",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/90.jpg",
+ "identifier": "STA-0091",
+ "creator": {
+  "@type": "Person",
+  "name": "G. B. Davis"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Burlington, Vermont"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bishop_Hopkins%27_golden_wedding,_by_G._B._Davis.jpg"
+}

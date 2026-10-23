@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0286.json",
+ "name": "Miss Underhill's Chair, by Davis Brothers 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/285.jpg",
+ "identifier": "STA-0286",
+ "creator": {
+  "@type": "Person",
+  "name": "Davis Brothers"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Isles of Shoals, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Miss_Underhill%27s_Chair,_by_Davis_Brothers_2.png"
+}

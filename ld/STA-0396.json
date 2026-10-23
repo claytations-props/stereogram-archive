@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0396.json",
+ "name": "St. James Episcopal Church, by Lovejoy & Foster",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/395.jpg",
+ "identifier": "STA-0396",
+ "creator": {
+  "@type": "Person",
+  "name": "Lovejoy & Foster"
+ },
+ "dateCreated": "1871",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chicago, Illinois"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:St._James_Episcopal_Church,_by_Lovejoy_%26_Foster.png"
+}

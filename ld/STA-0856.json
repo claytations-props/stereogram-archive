@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0856.json",
+ "name": "Sculptuur van Antoine-Denis Chaudet in het Musée du Louvre te Parijs, voorstellende Amor Paris Louvre L'Amour de Chaudet (titel op object), RP-F-00-8869",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/855.jpg",
+ "identifier": "STA-0856",
+ "dateCreated": "1904",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sculptuur_van_Antoine-Denis_Chaudet_in_het_Mus%C3%A9e_du_Louvre_te_Parijs,_voorstellende_Amor_Paris_Louvre_L%27Amour_de_Chaudet_(titel_op_object),_RP-F-00-8869.jpg"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0547.json",
+ "name": "Murray's Hotel, Forks. Kennebec Valley (NYPL b11707243-G89F277 037F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/546.jpg",
+ "identifier": "STA-0547",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Murray%27s_Hotel,_Forks._Kennebec_Valley_(NYPL_b11707243-G89F277_037F).tiff"
+}

@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0834.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Carriage Road round the Ledge, Mt. Wash'n., N.H, by Bierstadt Brothers"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Bierstadt Brothers"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1860"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Mount Washington, New Hampshire"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0834.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0834/canvas/1",
+   "type": "Canvas",
+   "width": 1170,
+   "height": 333,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0834/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0834/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/833.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1170,
+        "height": 333,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Carriage_Road_round_the_Ledge%2C_Mt._Wash%27n.%2C_N.H%2C_by_Bierstadt_Brothers.png/1920px-Carriage_Road_round_the_Ledge%2C_Mt._Wash%27n.%2C_N.H%2C_by_Bierstadt_Brothers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0834/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

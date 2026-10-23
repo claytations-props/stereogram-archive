@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0516.json",
+ "name": "Franciscan Mission Church (NYPL b11707285-G89F353 021F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/515.jpg",
+ "identifier": "STA-0516",
+ "dateCreated": "1875",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Franciscan_Mission_Church_(NYPL_b11707285-G89F353_021F).tiff"
+}

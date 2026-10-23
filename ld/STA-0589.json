@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0589.json",
+ "name": "Christian endeavor visitors at the great tents, Boston '95, by Kilburn, B. W. (Benjamin West), 1827-1909",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/588.jpg",
+ "identifier": "STA-0589",
+ "creator": {
+  "@type": "Person",
+  "name": "Kilburn, B. W. (Benjamin West)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Christian_endeavor_visitors_at_the_great_tents,_Boston_%2795,_by_Kilburn,_B._W._(Benjamin_West),_1827-1909.png"
+}

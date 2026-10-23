@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1010.json",
+ "name": "Gebouwen in de vallei van Rosenlaui Vue dans la Vallée de Rosenlaui. Suisse. (titel op object), RP-F-F08074",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1009.jpg",
+ "identifier": "STA-1010",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gebouwen_in_de_vallei_van_Rosenlaui_Vue_dans_la_Vall%C3%A9e_de_Rosenlaui._Suisse._(titel_op_object),_RP-F-F08074.jpg"
+}

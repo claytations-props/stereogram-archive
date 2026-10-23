@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0113.json",
+ "name": "High school building, Denver, Colorado, by Weitfle, Charles, 1836-1921",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/112.jpg",
+ "identifier": "STA-0113",
+ "creator": {
+  "@type": "Person",
+  "name": "Weitfle, Charles"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Denver, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:High_school_building,_Denver,_Colorado,_by_Weitfle,_Charles,_1836-1921.png"
+}

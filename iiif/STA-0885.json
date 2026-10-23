@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0885.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Een opgezette bij, Natura Artis Magistra , Amsterdam, Nederland, RP-F-2000-88"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1879"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Amsterdam, Netherlands"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0885.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0885/canvas/1",
+   "type": "Canvas",
+   "width": 1266,
+   "height": 300,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0885/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0885/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/884.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1266,
+        "height": 300,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Een_opgezette_bij%2C_Natura_Artis_Magistra_%2C_Amsterdam%2C_Nederland%2C_RP-F-2000-88.jpg/1920px-Een_opgezette_bij%2C_Natura_Artis_Magistra_%2C_Amsterdam%2C_Nederland%2C_RP-F-2000-88.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0885/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

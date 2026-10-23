@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0187.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Leadville, Colorado. (Apr. 23, (18)79), by Gurnsey, B. H. (Byron H.), 1833-1880"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Gurnsey, B. H. (Byron H.)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "1833-1880"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1879"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Leadville, Colorado"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0187.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0187/canvas/1",
+   "type": "Canvas",
+   "width": 1538,
+   "height": 733,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0187/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0187/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/186.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1538,
+        "height": 733,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Leadville%2C_Colorado._%28Apr._23%2C_%2818%2979%29%2C_by_Gurnsey%2C_B._H._%28Byron_H.%29%2C_1833-1880.png/1920px-Leadville%2C_Colorado._%28Apr._23%2C_%2818%2979%29%2C_by_Gurnsey%2C_B._H._%28Byron_H.%29%2C_1833-1880.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0187/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

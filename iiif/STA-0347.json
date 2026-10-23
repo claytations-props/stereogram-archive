@@ -1,0 +1,91 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0347.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Confederate Monument, Greenwood Cemetery. (7038869875)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1880"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "New Orleans, Louisiana"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "No restrictions"
+    ]
+   }
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0347.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0347/canvas/1",
+   "type": "Canvas",
+   "width": 862,
+   "height": 313,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0347/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0347/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/346.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 862,
+        "height": 313,
+        "thumbnail": [
+         {
+          "id": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Confederate_Monument%2C_Greenwood_Cemetery._%287038869875%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0347/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

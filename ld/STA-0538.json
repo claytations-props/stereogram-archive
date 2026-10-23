@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0538.json",
+ "name": "View from, best general view, Yo Semite Val (NYPL b11707303-G89F379 007ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/537.jpg",
+ "identifier": "STA-0538",
+ "dateCreated": "1872",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_from,_best_general_view,_Yo_Semite_Val_(NYPL_b11707303-G89F379_007ZF).tiff"
+}

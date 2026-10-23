@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0370.json",
+ "name": "The Pride of New Orleans La - Canal Street Stereocard with Bobtail Streetcars and Clock",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/369.jpg",
+ "identifier": "STA-0370",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Pride_of_New_Orleans_La_-_Canal_Street_Stereocard_with_Bobtail_Streetcars_and_Clock.png"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0445.json",
+ "name": "Gloucester harbor, by John S. E. Rogers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/444.jpg",
+ "identifier": "STA-0445",
+ "creator": {
+  "@type": "Person",
+  "name": "John S. E. Rogers"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gloucester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gloucester_harbor,_by_John_S._E._Rogers.jpg"
+}

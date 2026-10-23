@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0722.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Mt. Cannon, Franconia (NYPL b11708043-G91F019 248F)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Franconia Notch, New Hampshire"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0722.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0722/canvas/1",
+   "type": "Canvas",
+   "width": 1322,
+   "height": 466,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0722/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0722/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/721.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1322,
+        "height": 466,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Mt._Cannon%2C_Franconia_%28NYPL_b11708043-G91F019_248F%29.tiff/lossy-page1-1920px-Mt._Cannon%2C_Franconia_%28NYPL_b11708043-G91F019_248F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0722/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

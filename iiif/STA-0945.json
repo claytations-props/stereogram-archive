@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0945.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "12. Norge. Parti fra Digernæs i Hardanger - no-nb digifoto 20150205 00158 bldsa stereo 0303"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1863"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Norway"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0945.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0945/canvas/1",
+   "type": "Canvas",
+   "width": 1306,
+   "height": 762,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0945/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0945/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/944.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1306,
+        "height": 762,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/12._Norge._Parti_fra_Digern%C3%A6s_i_Hardanger_-_no-nb_digifoto_20150205_00158_bldsa_stereo_0303.jpg/1920px-12._Norge._Parti_fra_Digern%C3%A6s_i_Hardanger_-_no-nb_digifoto_20150205_00158_bldsa_stereo_0303.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0945/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

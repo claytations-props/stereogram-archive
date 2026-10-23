@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0342.json",
+ "name": "Diana's Bath, by Woodward, C. W. (Charles Warren)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/341.jpg",
+ "identifier": "STA-0342",
+ "creator": {
+  "@type": "Person",
+  "name": "Woodward, C. W. (Charles Warren)"
+ },
+ "dateCreated": "1860",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Delaware Water Gap, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Diana%27s_Bath,_by_Woodward,_C._W._(Charles_Warren).png"
+}

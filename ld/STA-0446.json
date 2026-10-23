@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0446.json",
+ "name": "Middle St., from Washington, showing old Pearce house, by Procter Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/445.jpg",
+ "identifier": "STA-0446",
+ "creator": {
+  "@type": "Person",
+  "name": "Procter Brothers"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gloucester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Middle_St.,_from_Washington,_showing_old_Pearce_house,_by_Procter_Brothers.jpg"
+}

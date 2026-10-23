@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0932.json",
+ "name": "Hattfjelldal. Nye Præstegaard. Konfirmanter. Stereoskop - NB bldsa OTO0806 A",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/931.jpg",
+ "identifier": "STA-0932",
+ "dateCreated": "1860",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Hattfjelldal._Nye_Pr%C3%A6stegaard._Konfirmanter._Stereoskop_-_NB_bldsa_OTO0806_A.jpg"
+}

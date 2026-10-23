@@ -1,0 +1,91 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0937.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Reppastølen, ca. 1905-1910."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1905"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Norway"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "No restrictions"
+    ]
+   }
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0937.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0937/canvas/1",
+   "type": "Canvas",
+   "width": 1654,
+   "height": 790,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0937/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0937/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/936.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1654,
+        "height": 790,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Reppast%C3%B8len%2C_ca._1905-1910..jpg/1920px-Reppast%C3%B8len%2C_ca._1905-1910..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0937/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0243.json",
+ "name": "Godfrey Peak, by Illingworth, W. H. (William H.), 1842-1893",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/242.jpg",
+ "identifier": "STA-0243",
+ "creator": {
+  "@type": "Person",
+  "name": "Illingworth, W. H. (William H.)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Black Hills, South Dakota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Godfrey_Peak,_by_Illingworth,_W._H._(William_H.),_1842-1893.jpg"
+}

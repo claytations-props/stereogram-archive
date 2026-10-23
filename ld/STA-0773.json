@@ -1,0 +1,20 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0773.json",
+ "name": "Great destruction brought by earthquake and fire, showing Temple Emanuel, San Francisco. Cal (NYPL b11707337-G89F415 010F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/772.jpg",
+ "identifier": "STA-0773",
+ "creator": {
+  "@type": "Person",
+  "name": "earthquake and fire, showing Temple Emanuel, San Francisco. Cal (NYPL b11707337-G89F415 010F)"
+ },
+ "dateCreated": "1906",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Great_destruction_brought_by_earthquake_and_fire,_showing_Temple_Emanuel,_San_Francisco._Cal_(NYPL_b11707337-G89F415_010F).tiff"
+}

@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0198.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Side view of Bridge, Sport Island, Thousand Islands, by Woodward Stereoscopic Co."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Woodward Stereoscopic Co."
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1885"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Thousand Islands, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0198.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0198/canvas/1",
+   "type": "Canvas",
+   "width": 1494,
+   "height": 219,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0198/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0198/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/197.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1494,
+        "height": 219,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Side_view_of_Bridge%2C_Sport_Island%2C_Thousand_Islands%2C_by_Woodward_Stereoscopic_Co..png/1920px-Side_view_of_Bridge%2C_Sport_Island%2C_Thousand_Islands%2C_by_Woodward_Stereoscopic_Co..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0198/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

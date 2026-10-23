@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0740.json",
+ "name": "View from Crawford House, White Mts",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/739.jpg",
+ "identifier": "STA-0740",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Crawford Notch, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_from_Crawford_House,_White_Mts,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

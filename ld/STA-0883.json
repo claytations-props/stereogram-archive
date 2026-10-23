@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0883.json",
+ "name": "Gezicht op het interieur van de Nieuwe Kerk in Amsterdam, RP-F-F11664",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/882.jpg",
+ "identifier": "STA-0883",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_het_interieur_van_de_Nieuwe_Kerk_in_Amsterdam,_RP-F-F11664.jpg"
+}

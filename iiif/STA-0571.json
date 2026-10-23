@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0571.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Unidentified building with carts in foreground"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "New York Public Library"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Collection"
+    ]
+   },
+   "value": {
+    "none": [
+     "Robert N. Dennis Collection of Stereoscopic Views"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1859"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Boston, Massachusetts"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0571.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0571/canvas/1",
+   "type": "Canvas",
+   "width": 1526,
+   "height": 790,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0571/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0571/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/570.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1526,
+        "height": 790,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Unidentified_building_with_carts_in_foreground%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Unidentified_building_with_carts_in_foreground%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0571/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

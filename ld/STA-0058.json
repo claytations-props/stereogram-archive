@@ -1,0 +1,11 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0058.json",
+ "name": "Group of natives. (Group portrait of children on benches.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/57.jpg",
+ "identifier": "STA-0058",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Group_of_natives._(Group_portrait_of_children_on_benches.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

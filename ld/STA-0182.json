@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0182.json",
+ "name": "Chestnut Street, looking west, by Thurlow, J., 1831-1878",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/181.jpg",
+ "identifier": "STA-0182",
+ "creator": {
+  "@type": "Person",
+  "name": "Thurlow, J."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Leadville, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Chestnut_Street,_looking_west,_by_Thurlow,_J.,_1831-1878.jpg"
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0977.json",
+ "name": "Brooklyn Bridge, New York, U.S.A, by Kilburn, B. W. (Benjamin West), 1827-1909",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/976.jpg",
+ "identifier": "STA-0977",
+ "creator": {
+  "@type": "Person",
+  "name": "Kilburn, B. W. (Benjamin West)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New York, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge,_New_York,_U.S.A,_by_Kilburn,_B._W._(Benjamin_West),_1827-1909.jpg"
+}

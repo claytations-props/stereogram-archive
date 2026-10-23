@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0266.json",
+ "name": "Anoka looking north, by F. A. Taylor",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/265.jpg",
+ "identifier": "STA-0266",
+ "creator": {
+  "@type": "Person",
+  "name": "F. A. Taylor"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Anoka_looking_north,_by_F._A._Taylor.jpg"
+}

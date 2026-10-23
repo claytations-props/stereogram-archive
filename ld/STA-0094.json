@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0094.json",
+ "name": "Picnic Rock, Stony Clove, by J. Loeffler",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/93.jpg",
+ "identifier": "STA-0094",
+ "creator": {
+  "@type": "Person",
+  "name": "J. Loeffler"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Stony Clove, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Picnic_Rock,_Stony_Clove,_by_J._Loeffler.jpg"
+}

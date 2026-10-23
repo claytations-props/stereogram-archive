@@ -1,0 +1,13 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0946.json",
+ "name": "Leikanger church, ca. 1888-1925.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/945.jpg",
+ "identifier": "STA-0946",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Leikanger_church,_ca._1888-1925..jpg"
+}

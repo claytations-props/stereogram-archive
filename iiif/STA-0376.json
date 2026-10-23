@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0376.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "New Orleans Mardi Gras Stereo Card 1928 02"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1928"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "New Orleans, Louisiana"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0376.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0376/canvas/1",
+   "type": "Canvas",
+   "width": 1536,
+   "height": 864,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0376/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0376/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/375.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1536,
+        "height": 864,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/New_Orleans_Mardi_Gras_Stereo_Card_1928_02.jpg/1920px-New_Orleans_Mardi_Gras_Stereo_Card_1928_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0376/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

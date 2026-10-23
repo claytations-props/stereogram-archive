@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0170.json",
+ "name": "Ice Grove, Luna Island, by Soule, John P., 1827-1904 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/169.jpg",
+ "identifier": "STA-0170",
+ "creator": {
+  "@type": "Person",
+  "name": "Soule, John P."
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Niagara Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Ice_Grove,_Luna_Island,_by_Soule,_John_P.,_1827-1904_2.png"
+}

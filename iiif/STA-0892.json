@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0892.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Interieur van het Paleis voor Volksvlijt, Amsterdam, Nederland Views of Holland (serietitel) La Hollande (serietitel), RP-F-2000-67"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Amsterdam, Netherlands"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0892.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0892/canvas/1",
+   "type": "Canvas",
+   "width": 1360,
+   "height": 847,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0892/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0892/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/891.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1360,
+        "height": 847,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Interieur_van_het_Paleis_voor_Volksvlijt%2C_Amsterdam%2C_Nederland_Views_of_Holland_%28serietitel%29_La_Hollande_%28serietitel%29%2C_RP-F-2000-67.jpg/1920px-Interieur_van_het_Paleis_voor_Volksvlijt%2C_Amsterdam%2C_Nederland_Views_of_Holland_%28serietitel%29_La_Hollande_%28serietitel%29%2C_RP-F-2000-67.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0892/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

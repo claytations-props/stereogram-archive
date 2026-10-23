@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0931.json",
+ "name": "(92) - 692- Trondhjem cathedral, whose traditions reach back eight centuries - grandest church in Norway stereofotografi - no-nb digifoto 20160621 00068 bldsa stereo 0225",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/930.jpg",
+ "identifier": "STA-0931",
+ "dateCreated": "1900",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:(92)_-_692-_Trondhjem_cathedral,_whose_traditions_reach_back_eight_centuries_-_grandest_church_in_Norway_stereofotografi_-_no-nb_digifoto_20160621_00068_bldsa_stereo_0225.jpg"
+}

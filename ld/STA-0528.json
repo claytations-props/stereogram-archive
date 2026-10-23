@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0528.json",
+ "name": "Cathedral Spires and the majestic Cathedral Rocks, from across the Merced River, Yosemite, California (NYPL b11707318-G89F396 016F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/527.jpg",
+ "identifier": "STA-0528",
+ "dateCreated": "1893",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yosemite, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cathedral_Spires_and_the_majestic_Cathedral_Rocks,_from_across_the_Merced_River,_Yosemite,_California_(NYPL_b11707318-G89F396_016F).tiff"
+}

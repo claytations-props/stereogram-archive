@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0930.json",
+ "name": "\"Bjørnson taler i Sogndal\", 1897.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/929.jpg",
+ "identifier": "STA-0930",
+ "dateCreated": "1897",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:%22Bj%C3%B8rnson_taler_i_Sogndal%22,_1897..jpg"
+}

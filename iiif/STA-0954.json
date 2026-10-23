@@ -1,0 +1,91 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0954.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Eivindvik, ca. 1898-1906. (12609018823)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1898–1906"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Norway"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "No restrictions"
+    ]
+   }
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0954.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0954/canvas/1",
+   "type": "Canvas",
+   "width": 1704,
+   "height": 733,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0954/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0954/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/953.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1704,
+        "height": 733,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Eivindvik%2C_ca._1898-1906._%2812609018823%29.jpg/1920px-Eivindvik%2C_ca._1898-1906._%2812609018823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0954/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

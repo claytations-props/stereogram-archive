@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0992.json",
+ "name": "Leeuw van Luzern in een bergwand nabij Luzern, Zwitserland Monument du Lion (titel op object) Lucerne (serietitel op object) Suisse (serietitel op object), RP-F-F07889",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/991.jpg",
+ "identifier": "STA-0992",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Leeuw_van_Luzern_in_een_bergwand_nabij_Luzern,_Zwitserland_Monument_du_Lion_(titel_op_object)_Lucerne_(serietitel_op_object)_Suisse_(serietitel_op_object),_RP-F-F07889.jpg"
+}

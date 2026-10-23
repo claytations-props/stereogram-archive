@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0889.json",
+ "name": "De onthulling van Naatje (het Monument ter herinnering aan de Volksgeest van 1830-1831) op de Dam in Amsterdam, RP-F-2012-96-281",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/888.jpg",
+ "identifier": "STA-0889",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:De_onthulling_van_Naatje_(het_Monument_ter_herinnering_aan_de_Volksgeest_van_1830-1831)_op_de_Dam_in_Amsterdam,_RP-F-2012-96-281.jpg"
+}

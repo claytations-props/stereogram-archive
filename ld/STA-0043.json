@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0043.json",
+ "name": "Devil's Den, Gettysburg, Pa., June 25, 1892. (Group posing at Devil's Den.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/42.jpg",
+ "identifier": "STA-0043",
+ "dateCreated": "1892",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gettysburg, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Devil%27s_Den,_Gettysburg,_Pa.,_June_25,_1892._(Group_posing_at_Devil%27s_Den.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

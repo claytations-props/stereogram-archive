@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0927.json",
+ "name": "Stone arch bridge, by Robbins & Bissell",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/926.jpg",
+ "identifier": "STA-0927",
+ "creator": {
+  "@type": "Person",
+  "name": "Robbins & Bissell"
+ },
+ "dateCreated": "1862",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minneapolis, Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Stone_arch_bridge,_by_Robbins_%26_Bissell.jpg"
+}

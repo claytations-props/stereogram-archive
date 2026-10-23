@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0609.json",
+ "name": "Tourists amusing themselves on the St. John's at Palatka, Florida (NYPL b11707404-G90F128 002F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/608.jpg",
+ "identifier": "STA-0609",
+ "dateCreated": "1875",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Florida"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Tourists_amusing_themselves_on_the_St._John%27s_at_Palatka,_Florida_(NYPL_b11707404-G90F128_002F).tiff"
+}

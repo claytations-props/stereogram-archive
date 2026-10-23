@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0174.json",
+ "name": "Ice Grove, Luna Island (NYPL b11708202-G91F073 045F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/173.jpg",
+ "identifier": "STA-0174",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Niagara Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Ice_Grove,_Luna_Island_(NYPL_b11708202-G91F073_045F).tiff"
+}

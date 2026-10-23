@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0994.json",
+ "name": "Gezicht op Fribourg, Zwitserland Vue à Fribourg (Suisse) (titel op object), RP-F-F08295",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/993.jpg",
+ "identifier": "STA-0994",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_Fribourg,_Zwitserland_Vue_%C3%A0_Fribourg_(Suisse)_(titel_op_object),_RP-F-F08295.jpg"
+}

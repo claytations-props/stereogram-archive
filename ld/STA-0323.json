@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0323.json",
+ "name": "Marshall's Falls, from the ravine, from Robert N. Dennis collection of stereoscopic views 3",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/322.jpg",
+ "identifier": "STA-0323",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Delaware Water Gap, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Marshall%27s_Falls,_from_the_ravine,_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg"
+}

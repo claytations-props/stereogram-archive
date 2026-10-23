@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0481.json",
+ "name": "Back of the Witch House, by J.W. & J.S. Moulton",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/480.jpg",
+ "identifier": "STA-0481",
+ "creator": {
+  "@type": "Person",
+  "name": "J.W. & J.S. Moulton"
+ },
+ "dateCreated": "1859",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salem, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Back_of_the_Witch_House,_by_J.W._%26_J.S._Moulton.jpg"
+}

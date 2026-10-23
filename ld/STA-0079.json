@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0079.json",
+ "name": "Richmond, Virginia, by Anderson, D. H. (David H.), 1827-",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/78.jpg",
+ "identifier": "STA-0079",
+ "creator": {
+  "@type": "Person",
+  "name": "Anderson, D. H. (David H.)"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Richmond, Virginia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Richmond,_Virginia,_by_Anderson,_D._H._(David_H.),_1827-.png"
+}

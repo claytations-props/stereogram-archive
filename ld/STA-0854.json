@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0854.json",
+ "name": "Gezicht op de Boulevard Sébastopol in Parijs, RP-F-2012-96-299",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/853.jpg",
+ "identifier": "STA-0854",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_Boulevard_S%C3%A9bastopol_in_Parijs,_RP-F-2012-96-299.jpg"
+}

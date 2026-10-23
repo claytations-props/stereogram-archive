@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0209.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "View on Chautauqua Lake, by Woodward, C. W. (Charles Warren)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Woodward, C. W. (Charles Warren)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1870"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Chautauqua Lake, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0209.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0209/canvas/1",
+   "type": "Canvas",
+   "width": 1462,
+   "height": 789,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0209/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0209/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/208.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1462,
+        "height": 789,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/View_on_Chautauqua_Lake%2C_by_Woodward%2C_C._W._%28Charles_Warren%29.png/1920px-View_on_Chautauqua_Lake%2C_by_Woodward%2C_C._W._%28Charles_Warren%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0209/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0785.json",
+ "name": "Refugees' camp in Jefferson Square (NYPL b11707478-G90F002 103F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/784.jpg",
+ "identifier": "STA-0785",
+ "dateCreated": "1906",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Refugees%27_camp_in_Jefferson_Square_(NYPL_b11707478-G90F002_103F).tiff"
+}

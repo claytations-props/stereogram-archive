@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0738.json",
+ "name": "Silver Cascade, Crawford Notch, from Robert N. Dennis collection of stereoscopic views 4",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/737.jpg",
+ "identifier": "STA-0738",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Crawford Notch, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Silver_Cascade,_Crawford_Notch,_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.png"
+}

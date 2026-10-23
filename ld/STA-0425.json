@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0425.json",
+ "name": "The Murray Church, Gloucester, Mass, by E. G. Rollins",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/424.jpg",
+ "identifier": "STA-0425",
+ "creator": {
+  "@type": "Person",
+  "name": "E. G. Rollins"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gloucester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Murray_Church,_Gloucester,_Mass,_by_E._G._Rollins.jpg"
+}

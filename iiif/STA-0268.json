@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0268.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "On the Lake Superior & Mississippi R.R, by Zimmerman, Charles A., 1844-1909"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Zimmerman, Charles A."
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "1844-1909"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Minnesota"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0268.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0268/canvas/1",
+   "type": "Canvas",
+   "width": 1558,
+   "height": 844,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0268/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0268/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/267.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1558,
+        "height": 844,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/On_the_Lake_Superior_%26_Mississippi_R.R%2C_by_Zimmerman%2C_Charles_A.%2C_1844-1909.jpg/1920px-On_the_Lake_Superior_%26_Mississippi_R.R%2C_by_Zimmerman%2C_Charles_A.%2C_1844-1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0268/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

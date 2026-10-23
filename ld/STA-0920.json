@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0920.json",
+ "name": "Camp view, by Schlattman Bros.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/919.jpg",
+ "identifier": "STA-0920",
+ "creator": {
+  "@type": "Person",
+  "name": "Schlattman Bros."
+ },
+ "dateCreated": "1862",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minneapolis, Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Camp_view,_by_Schlattman_Bros..png"
+}

@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1005.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Kloof op de Via Mala Entrée de la Gorge de la Via Mala. Suisse. (titel op object), RP-F-F08133"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1850"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Switzerland"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1005.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1005/canvas/1",
+   "type": "Canvas",
+   "width": 1348,
+   "height": 785,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1005/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1005/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1004.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1348,
+        "height": 785,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Kloof_op_de_Via_Mala_Entr%C3%A9e_de_la_Gorge_de_la_Via_Mala._Suisse._%28titel_op_object%29%2C_RP-F-F08133.jpg/1920px-Kloof_op_de_Via_Mala_Entr%C3%A9e_de_la_Gorge_de_la_Via_Mala._Suisse._%28titel_op_object%29%2C_RP-F-F08133.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1005/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

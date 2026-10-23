@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0224.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "(Model of Jerusalem), Chautauqua Lake, August 14, 18(??)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "New York Public Library"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Collection"
+    ]
+   },
+   "value": {
+    "none": [
+     "Robert N. Dennis Collection of Stereoscopic Views"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1870"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Chautauqua Lake, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0224.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0224/canvas/1",
+   "type": "Canvas",
+   "width": 1614,
+   "height": 1003,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0224/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0224/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/223.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1614,
+        "height": 1003,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/%28Model_of_Jerusalem%29%2C_Chautauqua_Lake%2C_August_14%2C_18%28%3F%3F%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-%28Model_of_Jerusalem%29%2C_Chautauqua_Lake%2C_August_14%2C_18%28%3F%3F%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0224/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

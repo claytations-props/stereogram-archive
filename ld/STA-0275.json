@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0275.json",
+ "name": "Seabury hall divinity school, by A. F. Burnham",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/274.jpg",
+ "identifier": "STA-0275",
+ "creator": {
+  "@type": "Person",
+  "name": "A. F. Burnham"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Seabury_hall_divinity_school,_by_A._F._Burnham.jpg"
+}

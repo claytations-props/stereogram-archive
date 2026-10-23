@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0295.json",
+ "name": "Neptune's Hall, Appledore Island, by Hobbs, W. N. (William N.), 1830-1881",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/294.jpg",
+ "identifier": "STA-0295",
+ "creator": {
+  "@type": "Person",
+  "name": "Hobbs, W. N. (William N.)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Isles of Shoals, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Neptune%27s_Hall,_Appledore_Island,_by_Hobbs,_W._N._(William_N.),_1830-1881.jpg"
+}

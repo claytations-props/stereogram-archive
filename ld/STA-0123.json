@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0123.json",
+ "name": "The cradle of liberty, interior, Faneuil Hall, Boston-scene of epoch-making meetings of two centuries (NYPL b11707580-G90F350 049F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/122.jpg",
+ "identifier": "STA-0123",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_cradle_of_liberty,_interior,_Faneuil_Hall,_Boston-scene_of_epoch-making_meetings_of_two_centuries_(NYPL_b11707580-G90F350_049F).tiff"
+}

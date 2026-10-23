@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0001.json",
+ "name": "Niagara Falls. (American Falls.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/00.jpg",
+ "identifier": "STA-0001",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Niagara Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Niagara_Falls._(American_Falls.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

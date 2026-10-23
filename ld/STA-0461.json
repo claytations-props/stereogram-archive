@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0461.json",
+ "name": "Summer Street from Essex, by John P. Tilton",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/460.jpg",
+ "identifier": "STA-0461",
+ "creator": {
+  "@type": "Person",
+  "name": "John P. Tilton"
+ },
+ "dateCreated": "1859",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salem, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Summer_Street_from_Essex,_by_John_P._Tilton.png"
+}

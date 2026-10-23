@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0279.json",
+ "name": "Levee at Winona, showing Winona and St. Peter R.R. depots, by Whitney & Zimmerman",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/278.jpg",
+ "identifier": "STA-0279",
+ "creator": {
+  "@type": "Person",
+  "name": "Whitney & Zimmerman"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Levee_at_Winona,_showing_Winona_and_St._Peter_R.R._depots,_by_Whitney_%26_Zimmerman.jpg"
+}

@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0448.json",
+ "name": "General view of Gloucester (NYPL b11707512-G90F236 034ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/447.jpg",
+ "identifier": "STA-0448",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gloucester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:General_view_of_Gloucester_(NYPL_b11707512-G90F236_034ZF).tiff"
+}

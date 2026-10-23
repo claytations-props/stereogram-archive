@@ -1,0 +1,128 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0118.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "The cradle of liberty, Faneuil Hall, scene of historic assemblies, Boston, Mass, by Underwood & Underwood"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "New York Public Library"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Collection"
+    ]
+   },
+   "value": {
+    "none": [
+     "Robert N. Dennis Collection of Stereoscopic Views"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Underwood & Underwood"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1859"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Boston, Massachusetts"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0118.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0118/canvas/1",
+   "type": "Canvas",
+   "width": 1560,
+   "height": 634,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0118/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0118/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/117.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1560,
+        "height": 634,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/The_cradle_of_liberty%2C_Faneuil_Hall%2C_scene_of_historic_assemblies%2C_Boston%2C_Mass%2C_by_Underwood_%26_Underwood.jpg/1920px-The_cradle_of_liberty%2C_Faneuil_Hall%2C_scene_of_historic_assemblies%2C_Boston%2C_Mass%2C_by_Underwood_%26_Underwood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0118/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

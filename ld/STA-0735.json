@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0735.json",
+ "name": "Gates of the Crawford Notch",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/734.jpg",
+ "identifier": "STA-0735",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Crawford Notch, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gates_of_the_Crawford_Notch,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0049.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Battle-field of Gettysburg - inside view of the Gate-way of the Soldier's National Cemetery"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "New York Public Library"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Collection"
+    ]
+   },
+   "value": {
+    "none": [
+     "Robert N. Dennis Collection of Stereoscopic Views"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1865"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Gettysburg, Pennsylvania"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0049.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0049/canvas/1",
+   "type": "Canvas",
+   "width": 1404,
+   "height": 534,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0049/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0049/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/48.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1404,
+        "height": 534,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Battle-field_of_Gettysburg_-_inside_view_of_the_Gate-way_of_the_Soldier%27s_National_Cemetery%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Battle-field_of_Gettysburg_-_inside_view_of_the_Gate-way_of_the_Soldier%27s_National_Cemetery%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0049/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

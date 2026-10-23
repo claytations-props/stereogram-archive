@@ -1,0 +1,20 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0793.json",
+ "name": "Showing devastation by Earthquake and Fire, building containing the Municipal Records (NYPL b11707375-G90F001 006F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/792.jpg",
+ "identifier": "STA-0793",
+ "creator": {
+  "@type": "Person",
+  "name": "Earthquake and Fire, building containing the Municipal Records (NYPL b11707375-G90F001 006F)"
+ },
+ "dateCreated": "1906",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Showing_devastation_by_Earthquake_and_Fire,_building_containing_the_Municipal_Records_(NYPL_b11707375-G90F001_006F).tiff"
+}

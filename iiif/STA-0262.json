@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0262.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "View of a bridge and a building (possibly a mill) near the falls of a small river, by W. J. Hillman"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "W. J. Hillman"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1869"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Minnesota"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0262.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0262/canvas/1",
+   "type": "Canvas",
+   "width": 1626,
+   "height": 283,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0262/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0262/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/261.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1626,
+        "height": 283,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/View_of_a_bridge_and_a_building_%28possibly_a_mill%29_near_the_falls_of_a_small_river%2C_by_W._J._Hillman.jpg/1920px-View_of_a_bridge_and_a_building_%28possibly_a_mill%29_near_the_falls_of_a_small_river%2C_by_W._J._Hillman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0262/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

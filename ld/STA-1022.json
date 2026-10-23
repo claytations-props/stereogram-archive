@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1022.json",
+ "name": "Gezicht op de Rhônegletsjer La Glacier du Rhone. Suisse. (titel op object), RP-F-F07994",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1021.jpg",
+ "identifier": "STA-1022",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_Rh%C3%B4negletsjer_La_Glacier_du_Rhone._Suisse._(titel_op_object),_RP-F-F07994.jpg"
+}

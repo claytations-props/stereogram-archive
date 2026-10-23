@@ -1,0 +1,12 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0057.json",
+ "name": "Children in a miniature sleigh (NYPL b11708207-G91F081 029F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/56.jpg",
+ "identifier": "STA-0057",
+ "dateCreated": "1915",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Children_in_a_miniature_sleigh_(NYPL_b11708207-G91F081_029F).tiff"
+}

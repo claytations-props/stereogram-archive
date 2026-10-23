@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0892.json",
+ "name": "Interieur van het Paleis voor Volksvlijt, Amsterdam, Nederland Views of Holland (serietitel) La Hollande (serietitel), RP-F-2000-67",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/891.jpg",
+ "identifier": "STA-0892",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Interieur_van_het_Paleis_voor_Volksvlijt,_Amsterdam,_Nederland_Views_of_Holland_(serietitel)_La_Hollande_(serietitel),_RP-F-2000-67.jpg"
+}

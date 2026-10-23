@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0413.json",
+ "name": "Birch Island, St. Regis Pond, by Jr.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/412.jpg",
+ "identifier": "STA-0413",
+ "creator": {
+  "@type": "Person",
+  "name": "Jr."
+ },
+ "dateCreated": "1860",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lake Champlain, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Birch_Island,_St._Regis_Pond,_by_Jr..jpg"
+}

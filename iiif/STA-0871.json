@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0871.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Gezicht op de Prinsengracht, Amsterdam. In de verte de brug in het verlengde van de Runstraat en de Westerkerk Quai des Princes (Prinzengracht), vue prise du Runsluis (titel op object) Amsterdam (serietitel op object) , RP-F-F11632"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1860–1866"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Amsterdam, Netherlands"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0871.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0871/canvas/1",
+   "type": "Canvas",
+   "width": 1378,
+   "height": 557,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0871/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0871/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/870.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1378,
+        "height": 557,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Gezicht_op_de_Prinsengracht%2C_Amsterdam._In_de_verte_de_brug_in_het_verlengde_van_de_Runstraat_en_de_Westerkerk_Quai_des_Princes_%28Prinzengracht%29%2C_vue_prise_du_Runsluis_%28titel_op_object%29_Amsterdam_%28serietitel_op_object%29_%2C_RP-F-F11632.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0871/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

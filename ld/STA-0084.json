@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0084.json",
+ "name": "Vicksburg Cemetery, (Avenue), by A. L. Blanks",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/83.jpg",
+ "identifier": "STA-0084",
+ "creator": {
+  "@type": "Person",
+  "name": "A. L. Blanks"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Vicksburg, Mississippi"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Vicksburg_Cemetery,_(Avenue),_by_A._L._Blanks.jpg"
+}

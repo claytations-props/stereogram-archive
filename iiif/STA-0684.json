@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0684.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Rainbow falls and triple cascades, (Glen) Of the Pools, by Gates, G. F. (George F.)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Gates, G. F. (George F.)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1865"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Watkins Glen, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0684.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0684/canvas/1",
+   "type": "Canvas",
+   "width": 1356,
+   "height": 1148,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0684/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0684/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/683.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1356,
+        "height": 1148,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Rainbow_falls_and_triple_cascades%2C_%28Glen%29_Of_the_Pools%2C_by_Gates%2C_G._F._%28George_F.%29.jpg/1920px-Rainbow_falls_and_triple_cascades%2C_%28Glen%29_Of_the_Pools%2C_by_Gates%2C_G._F._%28George_F.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0684/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

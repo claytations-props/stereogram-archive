@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0745.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Nancy's Brook and Bridge, White Mountains, by Pease, N. W. (Nathan W.), 1836-1918 2"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Pease, N. W. (Nathan W.)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "1836-1918"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Crawford Notch, New Hampshire"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0745.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0745/canvas/1",
+   "type": "Canvas",
+   "width": 1536,
+   "height": 881,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0745/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0745/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/744.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1536,
+        "height": 881,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Nancy%27s_Brook_and_Bridge%2C_White_Mountains%2C_by_Pease%2C_N._W._%28Nathan_W.%29%2C_1836-1918_2.jpg/1920px-Nancy%27s_Brook_and_Bridge%2C_White_Mountains%2C_by_Pease%2C_N._W._%28Nathan_W.%29%2C_1836-1918_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0745/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

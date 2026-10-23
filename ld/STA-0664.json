@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0664.json",
+ "name": "Frowning cliff, (Glen) Difficulty, by Gates, G. F. (George F.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/663.jpg",
+ "identifier": "STA-0664",
+ "creator": {
+  "@type": "Person",
+  "name": "Gates, G. F. (George F.)"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Watkins Glen, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Frowning_cliff,_(Glen)_Difficulty,_by_Gates,_G._F._(George_F.).jpg"
+}

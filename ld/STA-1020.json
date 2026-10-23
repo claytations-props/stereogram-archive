@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1020.json",
+ "name": "Toegangsportaal van de Kathedraal van Fribourg Fribourg. Portail de la cathédrale (titel op object), RP-F-00-9059",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1019.jpg",
+ "identifier": "STA-1020",
+ "dateCreated": "1906",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Toegangsportaal_van_de_Kathedraal_van_Fribourg_Fribourg._Portail_de_la_cath%C3%A9drale_(titel_op_object),_RP-F-00-9059.jpg"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0005.json",
+ "name": "Three Brothers, Yosemite",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/04.jpg",
+ "identifier": "STA-0005",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yosemite, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Three_Brothers,_Yosemite,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

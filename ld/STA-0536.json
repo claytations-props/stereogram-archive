@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0536.json",
+ "name": "Yosemite Falls, 2,634 feet high (NYPL b11707302-G89F378 027F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/535.jpg",
+ "identifier": "STA-0536",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yosemite, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Yosemite_Falls,_2,634_feet_high_(NYPL_b11707302-G89F378_027F).tiff"
+}

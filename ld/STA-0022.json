@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0022.json",
+ "name": "How Biddy served Tomatoes UNDRESSED",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/21.jpg",
+ "identifier": "STA-0022",
+ "dateCreated": "1897",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "United States"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:How_Biddy_served_Tomatoes_UNDRESSED.jpg"
+}

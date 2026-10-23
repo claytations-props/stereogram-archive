@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0570.json",
+ "name": "Sudbury River Conduit, B.W.W. div. 4, sec 15, Sept. 13 1876, view of cutting of large arch taken from east bank of Charles River",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/569.jpg",
+ "identifier": "STA-0570",
+ "dateCreated": "1876",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sudbury_River_Conduit,_B.W.W._div._4,_sec_15,_Sept._13_1876,_view_of_cutting_of_large_arch_taken_from_east_bank_of_Charles_River,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

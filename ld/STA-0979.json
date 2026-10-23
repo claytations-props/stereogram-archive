@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0979.json",
+ "name": "N.Y. & Brooklyn bridge from Tribune building, N.Y",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/978.jpg",
+ "identifier": "STA-0979",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New York, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:N.Y._%26_Brooklyn_bridge_from_Tribune_building,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

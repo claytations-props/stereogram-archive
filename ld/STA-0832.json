@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0832.json",
+ "name": "Franconia Mts. from Jacob's Ladder, Mt. Wash'n., N.H, by Adams, S. F., b. 1844 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/831.jpg",
+ "identifier": "STA-0832",
+ "creator": {
+  "@type": "Person",
+  "name": "Adams, S. F."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mount Washington, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Franconia_Mts._from_Jacob%27s_Ladder,_Mt._Wash%27n.,_N.H,_by_Adams,_S._F.,_b._1844_2.png"
+}

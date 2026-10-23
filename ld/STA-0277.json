@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0277.json",
+ "name": "Reed's landing, by Zimmerman, Charles A., 1844-1909",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/276.jpg",
+ "identifier": "STA-0277",
+ "creator": {
+  "@type": "Person",
+  "name": "Zimmerman, Charles A."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Reed%27s_landing,_by_Zimmerman,_Charles_A.,_1844-1909.png"
+}

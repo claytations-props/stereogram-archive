@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0996.json",
+ "name": "Gezicht op Zürich aan de Zürichsee, Zwitserland Vue de Zurich de l'ille (titel op object), RP-F-F07942",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/995.jpg",
+ "identifier": "STA-0996",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_Z%C3%BCrich_aan_de_Z%C3%BCrichsee,_Zwitserland_Vue_de_Zurich_de_l%27ille_(titel_op_object),_RP-F-F07942.jpg"
+}

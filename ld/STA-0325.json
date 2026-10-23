@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0325.json",
+ "name": "Del' Water Gap, by Cremer, James, 1821-1893",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/324.jpg",
+ "identifier": "STA-0325",
+ "creator": {
+  "@type": "Person",
+  "name": "Cremer, James"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Delaware Water Gap, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Del%27_Water_Gap,_by_Cremer,_James,_1821-1893.png"
+}

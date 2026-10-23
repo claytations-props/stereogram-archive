@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0031.json",
+ "name": "Niagara Falls (Horseshoe Falls), Niagara Falls, N.Y., U.S.A, by Keystone View Company",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/30.jpg",
+ "identifier": "STA-0031",
+ "creator": {
+  "@type": "Person",
+  "name": "Keystone View Company"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Niagara Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Niagara_Falls_(Horseshoe_Falls),_Niagara_Falls,_N.Y.,_U.S.A,_by_Keystone_View_Company.jpg"
+}

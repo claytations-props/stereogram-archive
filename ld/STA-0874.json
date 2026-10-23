@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0874.json",
+ "name": "Twee Noord-Afrikaanse mannen tijdens de tentoonstelling Oud-Holland in 1897, Amsterdam, Nederland, RP-F-2000-12-29",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/873.jpg",
+ "identifier": "STA-0874",
+ "dateCreated": "1897",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Twee_Noord-Afrikaanse_mannen_tijdens_de_tentoonstelling_Oud-Holland_in_1897,_Amsterdam,_Nederland,_RP-F-2000-12-29.jpg"
+}

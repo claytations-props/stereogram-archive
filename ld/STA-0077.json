@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0077.json",
+ "name": "Monument in National Cemetery, Vicksburg, Mississippi, by H. J. Herrick",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/76.jpg",
+ "identifier": "STA-0077",
+ "creator": {
+  "@type": "Person",
+  "name": "H. J. Herrick"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Vicksburg, Mississippi"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Monument_in_National_Cemetery,_Vicksburg,_Mississippi,_by_H._J._Herrick.jpg"
+}

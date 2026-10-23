@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0962.json",
+ "name": "Brooklyn Bridge from Brooklyn elev (NYPL b11708026-G91F173 060F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/961.jpg",
+ "identifier": "STA-0962",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New York, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_from_Brooklyn_elev_(NYPL_b11708026-G91F173_060F).tiff"
+}

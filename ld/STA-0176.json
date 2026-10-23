@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0176.json",
+ "name": "Burro pack train, on the way to Leadville, Col, by Kilburn Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/175.jpg",
+ "identifier": "STA-0176",
+ "creator": {
+  "@type": "Person",
+  "name": "Kilburn Brothers"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Leadville, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Burro_pack_train,_on_the_way_to_Leadville,_Col,_by_Kilburn_Brothers.png"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1004.json",
+ "name": "Gezicht op de Daubensee Le Dauben see passage de la Gemmi. Suisse. (titel op object), RP-F-F08151",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1003.jpg",
+ "identifier": "STA-1004",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_Daubensee_Le_Dauben_see_passage_de_la_Gemmi._Suisse._(titel_op_object),_RP-F-F08151.jpg"
+}

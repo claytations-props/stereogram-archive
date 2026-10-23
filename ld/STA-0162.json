@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0162.json",
+ "name": "View of the centennial flood innudating the railroad bridge (NYPL b11707683-G90F075 020ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/161.jpg",
+ "identifier": "STA-0162",
+ "dateCreated": "1876",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norwich, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_the_centennial_flood_innudating_the_railroad_bridge_(NYPL_b11707683-G90F075_020ZF).tiff"
+}

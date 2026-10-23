@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0364.json",
+ "name": "Camp Street from Lafayette Square New Orleans Stereo Blessing",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/363.jpg",
+ "identifier": "STA-0364",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Camp_Street_from_Lafayette_Square_New_Orleans_Stereo_Blessing.jpg"
+}

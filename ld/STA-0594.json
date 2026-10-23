@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0594.json",
+ "name": "View on Federal Street, by Kilburn Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/593.jpg",
+ "identifier": "STA-0594",
+ "creator": {
+  "@type": "Person",
+  "name": "Kilburn Brothers"
+ },
+ "dateCreated": "1872",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_on_Federal_Street,_by_Kilburn_Brothers.png"
+}

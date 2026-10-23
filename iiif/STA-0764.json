@@ -1,0 +1,128 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0764.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "The wreck of the beautiful St. Luke's Church on Van Ness Avenue, devastated by earthquake and fire (NYPL b11707375-G90F001 032F)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "New York Public Library"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Collection"
+    ]
+   },
+   "value": {
+    "none": [
+     "Robert N. Dennis Collection of Stereoscopic Views"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "earthquake and fire (NYPL b11707375-G90F001 032F)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1906"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "San Francisco, California"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0764.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0764/canvas/1",
+   "type": "Canvas",
+   "width": 1242,
+   "height": 539,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0764/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0764/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/763.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1242,
+        "height": 539,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/The_wreck_of_the_beautiful_St._Luke%27s_Church_on_Van_Ness_Avenue%2C_devastated_by_earthquake_and_fire_%28NYPL_b11707375-G90F001_032F%29.tiff/lossy-page1-1920px-The_wreck_of_the_beautiful_St._Luke%27s_Church_on_Van_Ness_Avenue%2C_devastated_by_earthquake_and_fire_%28NYPL_b11707375-G90F001_032F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0764/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

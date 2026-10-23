@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0810.json",
+ "name": "Pony Team on the Mountain, by Adams, S. F., b. 1844",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/809.jpg",
+ "identifier": "STA-0810",
+ "creator": {
+  "@type": "Person",
+  "name": "Adams, S. F."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mount Washington, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Pony_Team_on_the_Mountain,_by_Adams,_S._F.,_b._1844.png"
+}

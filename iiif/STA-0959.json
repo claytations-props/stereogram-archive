@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0959.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "East River bridge, N.Y (NYPL b11708026-G91F173 044F)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "New York, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0959.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0959/canvas/1",
+   "type": "Canvas",
+   "width": 1302,
+   "height": 761,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0959/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0959/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/958.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1302,
+        "height": 761,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/East_River_bridge%2C_N.Y_%28NYPL_b11708026-G91F173_044F%29.tiff/lossy-page1-1920px-East_River_bridge%2C_N.Y_%28NYPL_b11708026-G91F173_044F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0959/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

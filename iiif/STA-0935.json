@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0935.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "S. 35. - Spitsbergen, Green Harbour stereofotografi - no-nb digifoto 20151013 00123 bldsa stereo 0975"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1925"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Norway"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0935.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0935/canvas/1",
+   "type": "Canvas",
+   "width": 1418,
+   "height": 1228,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0935/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0935/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/934.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1418,
+        "height": 1228,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/S._35._-_Spitsbergen%2C_Green_Harbour_stereofotografi_-_no-nb_digifoto_20151013_00123_bldsa_stereo_0975.jpg/1920px-S._35._-_Spitsbergen%2C_Green_Harbour_stereofotografi_-_no-nb_digifoto_20151013_00123_bldsa_stereo_0975.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0935/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

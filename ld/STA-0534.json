@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0534.json",
+ "name": "Conservatory at Woodward's Gardens, interior view (NYPL b11707333-G89F411 011F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/533.jpg",
+ "identifier": "STA-0534",
+ "dateCreated": "1866",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Conservatory_at_Woodward%27s_Gardens,_interior_view_(NYPL_b11707333-G89F411_011F).tiff"
+}

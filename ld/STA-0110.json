@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0110.json",
+ "name": "Last Remnants of the American Bison, Yellowstone National Park, U. S. A, by A.C. Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/109.jpg",
+ "identifier": "STA-0110",
+ "creator": {
+  "@type": "Person",
+  "name": "A.C. Co."
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yellowstone, Wyoming"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Last_Remnants_of_the_American_Bison,_Yellowstone_National_Park,_U._S._A,_by_A.C._Co..png"
+}

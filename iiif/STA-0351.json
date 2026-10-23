@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0351.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "City hall, New Orleans (NYPL b11707483-G90F205 006F)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "New Orleans, Louisiana"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0351.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0351/canvas/1",
+   "type": "Canvas",
+   "width": 1220,
+   "height": 571,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0351/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0351/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/350.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1220,
+        "height": 571,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/City_hall%2C_New_Orleans_%28NYPL_b11707483-G90F205_006F%29.tiff/lossy-page1-1920px-City_hall%2C_New_Orleans_%28NYPL_b11707483-G90F205_006F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0351/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

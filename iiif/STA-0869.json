@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0869.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Gezicht op de graven op de Cimetière du Père-Lachaise te Parijs, anonymous, c. 1860 - c. 1885"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1860"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Paris, France"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0869.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0869/canvas/1",
+   "type": "Canvas",
+   "width": 1056,
+   "height": 731,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0869/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0869/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/868.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1056,
+        "height": 731,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Gezicht_op_de_graven_op_de_Cimeti%C3%A8re_du_P%C3%A8re-Lachaise_te_Parijs%2C_anonymous%2C_c._1860_-_c._1885.jpg/1920px-Gezicht_op_de_graven_op_de_Cimeti%C3%A8re_du_P%C3%A8re-Lachaise_te_Parijs%2C_anonymous%2C_c._1860_-_c._1885.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0869/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0053.json",
+ "name": "5th Maine Stevens' Battery, near Culp Hill, Gettysburg, Pa",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/52.jpg",
+ "identifier": "STA-0053",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gettysburg, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:5th_Maine_Stevens%27_Battery,_near_Culp_Hill,_Gettysburg,_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

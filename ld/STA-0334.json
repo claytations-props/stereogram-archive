@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0334.json",
+ "name": "Delaware Water Gap, from Robert N. Dennis collection of stereoscopic views 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/333.jpg",
+ "identifier": "STA-0334",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Delaware Water Gap, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Delaware_Water_Gap,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg"
+}

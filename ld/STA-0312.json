@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0312.json",
+ "name": "Betty Moody's Cave, Star Island, by Hobbs, W. N. (William N.), 1830-1881",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/311.jpg",
+ "identifier": "STA-0312",
+ "creator": {
+  "@type": "Person",
+  "name": "Hobbs, W. N. (William N.)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Isles of Shoals, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Betty_Moody%27s_Cave,_Star_Island,_by_Hobbs,_W._N._(William_N.),_1830-1881.png"
+}

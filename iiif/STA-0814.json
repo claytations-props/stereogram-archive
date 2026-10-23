@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0814.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Tip Top House, Mt. Washington, N.H, by Bierstadt Brothers 13"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Bierstadt Brothers 13"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1860"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Mount Washington, New Hampshire"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0814.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0814/canvas/1",
+   "type": "Canvas",
+   "width": 1272,
+   "height": 556,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0814/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0814/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/813.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1272,
+        "height": 556,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Tip_Top_House%2C_Mt._Washington%2C_N.H%2C_by_Bierstadt_Brothers_13.png/1920px-Tip_Top_House%2C_Mt._Washington%2C_N.H%2C_by_Bierstadt_Brothers_13.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0814/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

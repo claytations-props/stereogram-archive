@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0784.json",
+ "name": "Ft. Mason refugee campers and their belongings saved from the flames of burning San Francisco (NYPL b11707375-G90F001 084F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/783.jpg",
+ "identifier": "STA-0784",
+ "dateCreated": "1906",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Ft._Mason_refugee_campers_and_their_belongings_saved_from_the_flames_of_burning_San_Francisco_(NYPL_b11707375-G90F001_084F).tiff"
+}

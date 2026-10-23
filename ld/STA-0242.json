@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0242.json",
+ "name": "Our-First-Grizzly-847",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/241.jpg",
+ "identifier": "STA-0242",
+ "dateCreated": "1874",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Black Hills, South Dakota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Our-First-Grizzly-847.jpg"
+}

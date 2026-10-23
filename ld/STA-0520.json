@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0520.json",
+ "name": "P.T. Barnum's party in Yosemite Valley, Cal (NYPL b11707311-G89F387 057F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/519.jpg",
+ "identifier": "STA-0520",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yosemite, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:P.T._Barnum%27s_party_in_Yosemite_Valley,_Cal_(NYPL_b11707311-G89F387_057F).tiff"
+}

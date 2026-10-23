@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0041.json",
+ "name": "Entrance to Mammoth Cave, Ky, by Styles, A. F., 1832-1910",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/40.jpg",
+ "identifier": "STA-0041",
+ "creator": {
+  "@type": "Person",
+  "name": "Styles, A. F."
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mammoth Cave, Kentucky"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Entrance_to_Mammoth_Cave,_Ky,_by_Styles,_A._F.,_1832-1910.jpg"
+}

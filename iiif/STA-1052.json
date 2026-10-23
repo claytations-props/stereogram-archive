@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1052.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "The flood at Worcester, March 30, 1876, by Edwin N. Peabody"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Edwin N. Peabody"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1876"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Worcester, Massachusetts"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1052.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1052/canvas/1",
+   "type": "Canvas",
+   "width": 1428,
+   "height": 856,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1052/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1052/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1051.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1428,
+        "height": 856,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/The_flood_at_Worcester%2C_March_30%2C_1876%2C_by_Edwin_N._Peabody.jpg/1920px-The_flood_at_Worcester%2C_March_30%2C_1876%2C_by_Edwin_N._Peabody.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1052/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

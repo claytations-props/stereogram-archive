@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1018.json",
+ "name": "Gezicht op de Limmat te Zürich Zürich. Blick über die Limmat (titel op object), RP-F-00-9081",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1017.jpg",
+ "identifier": "STA-1018",
+ "dateCreated": "1906",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_Limmat_te_Z%C3%BCrich_Z%C3%BCrich._Blick_%C3%BCber_die_Limmat_(titel_op_object),_RP-F-00-9081.jpg"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0127.json",
+ "name": "Exhibition room, Metropolitan Fair, N.Y. 1864 (NYPL b11708071-G91F217 009F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/126.jpg",
+ "identifier": "STA-0127",
+ "dateCreated": "1864",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New York, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Exhibition_room,_Metropolitan_Fair,_N.Y._1864_(NYPL_b11708071-G91F217_009F).tiff"
+}

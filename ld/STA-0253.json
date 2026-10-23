@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0253.json",
+ "name": "View of two people with saw mill in the background, by J. A. McColl",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/252.jpg",
+ "identifier": "STA-0253",
+ "creator": {
+  "@type": "Person",
+  "name": "J. A. McColl"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_two_people_with_saw_mill_in_the_background,_by_J._A._McColl.jpg"
+}

@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0879.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Groenburgwal, Amsterdam, RP-F-2018-159"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1857"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Amsterdam, Netherlands"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0879.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0879/canvas/1",
+   "type": "Canvas",
+   "width": 1534,
+   "height": 697,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0879/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0879/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/878.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1534,
+        "height": 697,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Groenburgwal%2C_Amsterdam%2C_RP-F-2018-159.jpg/1920px-Groenburgwal%2C_Amsterdam%2C_RP-F-2018-159.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0879/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0578.json",
+ "name": "Franklin Street, Boston, Mass, by U.S. Stereoscopic Co. 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/577.jpg",
+ "identifier": "STA-0578",
+ "creator": {
+  "@type": "Person",
+  "name": "U.S. Stereoscopic Co."
+ },
+ "dateCreated": "1859",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Franklin_Street,_Boston,_Mass,_by_U.S._Stereoscopic_Co._2.png"
+}

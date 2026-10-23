@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0518.json",
+ "name": "Lick Observatory, Mount Hamilton, California (NYPL b11707278-G89F341 003F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/517.jpg",
+ "identifier": "STA-0518",
+ "dateCreated": "1880",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Lick_Observatory,_Mount_Hamilton,_California_(NYPL_b11707278-G89F341_003F).tiff"
+}

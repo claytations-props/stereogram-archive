@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0854.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Gezicht op de Boulevard Sébastopol in Parijs, RP-F-2012-96-299"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1860"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Paris, France"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0854.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0854/canvas/1",
+   "type": "Canvas",
+   "width": 1504,
+   "height": 690,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0854/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0854/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/853.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1504,
+        "height": 690,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Gezicht_op_de_Boulevard_S%C3%A9bastopol_in_Parijs%2C_RP-F-2012-96-299.jpg/1920px-Gezicht_op_de_Boulevard_S%C3%A9bastopol_in_Parijs%2C_RP-F-2012-96-299.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0854/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

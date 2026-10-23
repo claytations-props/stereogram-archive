@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0591.json",
+ "name": "Parker House, by J.W. & J.S. Moulton",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/590.jpg",
+ "identifier": "STA-0591",
+ "creator": {
+  "@type": "Person",
+  "name": "J.W. & J.S. Moulton"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Parker_House,_by_J.W._%26_J.S._Moulton.jpg"
+}

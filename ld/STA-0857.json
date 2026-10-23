@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0857.json",
+ "name": "Bal Bullier te Parijs Le Nouveau Paris (serietitel), RP-F-F05186",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/856.jpg",
+ "identifier": "STA-0857",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bal_Bullier_te_Parijs_Le_Nouveau_Paris_(serietitel),_RP-F-F05186.jpg"
+}

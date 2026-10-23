@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0158.json",
+ "name": "PyramidCamelStereo1",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/157.jpg",
+ "identifier": "STA-0158",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Giza, Egypt"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:PyramidCamelStereo1.jpg"
+}

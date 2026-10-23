@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0367.json",
+ "name": "Side vaults, St. Louis cemetery, by George F. Mugnier",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/366.jpg",
+ "identifier": "STA-0367",
+ "creator": {
+  "@type": "Person",
+  "name": "George F. Mugnier"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Side_vaults,_St._Louis_cemetery,_by_George_F._Mugnier.jpg"
+}

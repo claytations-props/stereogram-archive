@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0889.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "De onthulling van Naatje (het Monument ter herinnering aan de Volksgeest van 1830-1831) op de Dam in Amsterdam, RP-F-2012-96-281"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1830–1831"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Amsterdam, Netherlands"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0889.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0889/canvas/1",
+   "type": "Canvas",
+   "width": 944,
+   "height": 532,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0889/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0889/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/888.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 944,
+        "height": 532,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/De_onthulling_van_Naatje_%28het_Monument_ter_herinnering_aan_de_Volksgeest_van_1830-1831%29_op_de_Dam_in_Amsterdam%2C_RP-F-2012-96-281.jpg/1920px-De_onthulling_van_Naatje_%28het_Monument_ter_herinnering_aan_de_Volksgeest_van_1830-1831%29_op_de_Dam_in_Amsterdam%2C_RP-F-2012-96-281.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0889/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

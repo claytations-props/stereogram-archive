@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0007.json",
+ "name": "Golden Gate, Yellowstone National Park, by International Stereoscopic View Company",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/06.jpg",
+ "identifier": "STA-0007",
+ "creator": {
+  "@type": "Person",
+  "name": "International Stereoscopic View Company"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yellowstone, Wyoming"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Golden_Gate,_Yellowstone_National_Park,_by_International_Stereoscopic_View_Company.jpg"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0015.json",
+ "name": "Block house - NARA - 527545",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/14.jpg",
+ "identifier": "STA-0015",
+ "creditText": "National Archives",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Virginia (attributed)"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Block_house_-_NARA_-_527545.jpg"
+}

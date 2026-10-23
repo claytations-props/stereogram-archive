@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0435.json",
+ "name": "Middle St., from Washington St., looking east, by E. G. Rollins",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/434.jpg",
+ "identifier": "STA-0435",
+ "creator": {
+  "@type": "Person",
+  "name": "E. G. Rollins"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gloucester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Middle_St.,_from_Washington_St.,_looking_east,_by_E._G._Rollins.jpg"
+}

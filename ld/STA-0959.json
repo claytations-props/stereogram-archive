@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0959.json",
+ "name": "East River bridge, N.Y (NYPL b11708026-G91F173 044F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/958.jpg",
+ "identifier": "STA-0959",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New York, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:East_River_bridge,_N.Y_(NYPL_b11708026-G91F173_044F).tiff"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0361.json",
+ "name": "Nighttime in New Orleans - Mardi Gras parade on Canal Street 1926 stereo card 02",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/360.jpg",
+ "identifier": "STA-0361",
+ "dateCreated": "1926",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Nighttime_in_New_Orleans_-_Mardi_Gras_parade_on_Canal_Street_1926_stereo_card_02.jpg"
+}

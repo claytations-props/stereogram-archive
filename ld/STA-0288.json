@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0288.json",
+ "name": "Appledore House, by Davis Brothers 7",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/287.jpg",
+ "identifier": "STA-0288",
+ "creator": {
+  "@type": "Person",
+  "name": "Davis Brothers"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Isles of Shoals, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Appledore_House,_by_Davis_Brothers_7.png"
+}

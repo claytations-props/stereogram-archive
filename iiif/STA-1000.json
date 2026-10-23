@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1000.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Interieur van de Tellskapelle La Chapelle de Guillaume Tell sur le Lac des Quartres Cantons. Suisse. (2) (titel op object), RP-F-F08105"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1850"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Switzerland"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1000.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1000/canvas/1",
+   "type": "Canvas",
+   "width": 1412,
+   "height": 800,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1000/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1000/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/999.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1412,
+        "height": 800,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Interieur_van_de_Tellskapelle_La_Chapelle_de_Guillaume_Tell_sur_le_Lac_des_Quartres_Cantons._Suisse._%282%29_%28titel_op_object%29%2C_RP-F-F08105.jpg/1920px-Interieur_van_de_Tellskapelle_La_Chapelle_de_Guillaume_Tell_sur_le_Lac_des_Quartres_Cantons._Suisse._%282%29_%28titel_op_object%29%2C_RP-F-F08105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1000/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

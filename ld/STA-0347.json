@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0347.json",
+ "name": "Confederate Monument, Greenwood Cemetery. (7038869875)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/346.jpg",
+ "identifier": "STA-0347",
+ "dateCreated": "1880",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Confederate_Monument,_Greenwood_Cemetery._(7038869875).jpg"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0596.json",
+ "name": "House of the Parasite (NYPL b11707405-G90F129 067F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/595.jpg",
+ "identifier": "STA-0596",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Florida"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:House_of_the_Parasite_(NYPL_b11707405-G90F129_067F).tiff"
+}

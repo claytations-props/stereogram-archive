@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0871.json",
+ "name": "Gezicht op de Prinsengracht, Amsterdam. In de verte de brug in het verlengde van de Runstraat en de Westerkerk Quai des Princes (Prinzengracht), vue prise du Runsluis (titel op object) Amsterdam (serietitel op object) , RP-F-F11632",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/870.jpg",
+ "identifier": "STA-0871",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_Prinsengracht,_Amsterdam._In_de_verte_de_brug_in_het_verlengde_van_de_Runstraat_en_de_Westerkerk_Quai_des_Princes_(Prinzengracht),_vue_prise_du_Runsluis_(titel_op_object)_Amsterdam_(serietitel_op_object)_,_RP-F-F11632.jpg"
+}

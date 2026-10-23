@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0728.json",
+ "name": "Pass, White Mountain Notch, N.H. P. & O.R.R, by Pease, N. W. (Nathan W.), 1836-1918",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/727.jpg",
+ "identifier": "STA-0728",
+ "creator": {
+  "@type": "Person",
+  "name": "Pease, N. W. (Nathan W.)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Crawford Notch, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Pass,_White_Mountain_Notch,_N.H._P._%26_O.R.R,_by_Pease,_N._W._(Nathan_W.),_1836-1918.jpg"
+}

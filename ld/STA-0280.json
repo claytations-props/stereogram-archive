@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0280.json",
+ "name": "\"Camp Peace\", Faribault Minn",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/279.jpg",
+ "identifier": "STA-0280",
+ "dateCreated": "1869",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:%22Camp_Peace%22,_Faribault_Minn,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

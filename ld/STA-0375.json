@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0375.json",
+ "name": "St. Charles Street showing City Hall Facing Lafayette Square, New Orleans 1926",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/374.jpg",
+ "identifier": "STA-0375",
+ "dateCreated": "1926",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:St._Charles_Street_showing_City_Hall_Facing_Lafayette_Square,_New_Orleans_1926.png"
+}

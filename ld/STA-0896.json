@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0896.json",
+ "name": "Het Vondelpark bij de Kattenlaan, Amsterdam Vondelpark bd Kattelaan (titel op object), RP-F-F11834",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/895.jpg",
+ "identifier": "STA-0896",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Het_Vondelpark_bij_de_Kattenlaan,_Amsterdam_Vondelpark_bd_Kattelaan_(titel_op_object),_RP-F-F11834.jpg"
+}

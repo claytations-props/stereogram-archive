@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0564.json",
+ "name": "Corner of Lincoln and Bedford St. looking toward South St",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/563.jpg",
+ "identifier": "STA-0564",
+ "dateCreated": "1872",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Corner_of_Lincoln_and_Bedford_St._looking_toward_South_St,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

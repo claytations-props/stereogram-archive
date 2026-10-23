@@ -1,0 +1,13 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0957.json",
+ "name": "Landscape, ca. 1888-1925. (12608921035)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/956.jpg",
+ "identifier": "STA-0957",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Landscape,_ca._1888-1925._(12608921035).jpg"
+}

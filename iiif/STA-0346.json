@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0346.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Canal & Carondelet Streets, New Orleans, 1934 stereo view"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Publisher"
+    ]
+   },
+   "value": {
+    "none": [
+     "Keystone View Company"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "New Orleans, Louisiana"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0346.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0346/canvas/1",
+   "type": "Canvas",
+   "width": 1084,
+   "height": 455,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0346/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0346/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/345.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1084,
+        "height": 455,
+        "thumbnail": [
+         {
+          "id": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_%26_Carondelet_Streets%2C_New_Orleans%2C_1934_stereo_view.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0346/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

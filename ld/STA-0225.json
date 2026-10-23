@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0225.json",
+ "name": "Fairpoint landing, Point Chautauqua in distance, by Walker, L. E., 1826-1916",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/224.jpg",
+ "identifier": "STA-0225",
+ "creator": {
+  "@type": "Person",
+  "name": "Walker, L. E."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chautauqua Lake, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Fairpoint_landing,_Point_Chautauqua_in_distance,_by_Walker,_L._E.,_1826-1916.jpg"
+}

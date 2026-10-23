@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0606.json",
+ "name": "Bay Street and St. Johns River, Jacksonville, Fla (NYPL b11707400-G90F124 016F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/605.jpg",
+ "identifier": "STA-0606",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Florida"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bay_Street_and_St._Johns_River,_Jacksonville,_Fla_(NYPL_b11707400-G90F124_016F).tiff"
+}

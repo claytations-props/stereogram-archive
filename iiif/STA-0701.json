@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0701.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Profile House, from the Bridle Path, Franconia Notch, N.H (NYPL b11708043-G91F019 044F)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Franconia Notch, New Hampshire"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0701.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0701/canvas/1",
+   "type": "Canvas",
+   "width": 1314,
+   "height": 353,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0701/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0701/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/700.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1314,
+        "height": 353,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Profile_House%2C_from_the_Bridle_Path%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708043-G91F019_044F%29.tiff/lossy-page1-1920px-Profile_House%2C_from_the_Bridle_Path%2C_Franconia_Notch%2C_N.H_%28NYPL_b11708043-G91F019_044F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0701/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

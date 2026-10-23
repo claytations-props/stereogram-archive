@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0210.json",
+ "name": "East shore, from piazza of Kent House, by Walker, L. E., 1826-1916",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/209.jpg",
+ "identifier": "STA-0210",
+ "creator": {
+  "@type": "Person",
+  "name": "Walker, L. E."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chautauqua Lake, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:East_shore,_from_piazza_of_Kent_House,_by_Walker,_L._E.,_1826-1916.png"
+}

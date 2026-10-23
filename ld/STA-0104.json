@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0104.json",
+ "name": "Crawford House, from the Notch, by Weller, F. G. (Franklin G.),, 1833-1877",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/103.jpg",
+ "identifier": "STA-0104",
+ "creator": {
+  "@type": "Person",
+  "name": "Weller, F. G. (Franklin G.)"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Crawford Notch, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Crawford_House,_from_the_Notch,_by_Weller,_F._G._(Franklin_G.),,_1833-1877.jpg"
+}

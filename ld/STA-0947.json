@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0947.json",
+ "name": "Rombaksfjord, Ofotoen. Stereoskop - NB bldsa OTO0244 A",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/946.jpg",
+ "identifier": "STA-0947",
+ "dateCreated": "1860",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Rombaksfjord,_Ofotoen._Stereoskop_-_NB_bldsa_OTO0244_A.jpg"
+}

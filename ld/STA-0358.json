@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0358.json",
+ "name": "Rex 1899 Pavillion of the Gods stereo",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/357.jpg",
+ "identifier": "STA-0358",
+ "dateCreated": "1899",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Rex_1899_Pavillion_of_the_Gods_stereo.jpg"
+}

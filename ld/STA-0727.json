@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0727.json",
+ "name": "The Basin, Franconia Mts, by Weller, F. G. (Franklin G.),, 1833-1877",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/726.jpg",
+ "identifier": "STA-0727",
+ "creator": {
+  "@type": "Person",
+  "name": "Weller, F. G. (Franklin G.)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Franconia Notch, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Basin,_Franconia_Mts,_by_Weller,_F._G._(Franklin_G.),,_1833-1877.jpg"
+}

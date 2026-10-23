@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0383.json",
+ "name": "State Street, north from Madison, by P. B. Greene",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/382.jpg",
+ "identifier": "STA-0383",
+ "creator": {
+  "@type": "Person",
+  "name": "P. B. Greene"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chicago, Illinois"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:State_Street,_north_from_Madison,_by_P._B._Greene.jpg"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0545.json",
+ "name": "View of Back Bay from City Hall, Portland, Me (NYPL b11707231-G89F234 043F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/544.jpg",
+ "identifier": "STA-0545",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_Back_Bay_from_City_Hall,_Portland,_Me_(NYPL_b11707231-G89F234_043F).tiff"
+}

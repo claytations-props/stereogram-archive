@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0952.json",
+ "name": "173 ny. Frederik Prytz's Familie - NB bldsa OTO0511 A",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/951.jpg",
+ "identifier": "STA-0952",
+ "dateCreated": "1860",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:173_ny._Frederik_Prytz%27s_Familie_-_NB_bldsa_OTO0511_A.jpg"
+}

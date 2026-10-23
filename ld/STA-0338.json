@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0338.json",
+ "name": "Delaware Water Gap. view from Prospect Hill, by Johnson & D'utassy",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/337.jpg",
+ "identifier": "STA-0338",
+ "creator": {
+  "@type": "Person",
+  "name": "Johnson & D'utassy"
+ },
+ "dateCreated": "1860",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Delaware Water Gap, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Delaware_Water_Gap._view_from_Prospect_Hill,_by_Johnson_%26_D%27utassy.png"
+}

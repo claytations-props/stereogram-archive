@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0522.json",
+ "name": "Glacier Rock (NYPL b11707308-G89F384 056ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/521.jpg",
+ "identifier": "STA-0522",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Glacier_Rock_(NYPL_b11707308-G89F384_056ZF).tiff"
+}

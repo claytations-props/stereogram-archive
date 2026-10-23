@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0769.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Gathering a few home relics at the ruins of the Wenban Palace, Van Ness Ave., San Francisco (NYPL b11707375-G90F001 085F)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1906"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "San Francisco, California"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0769.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0769/canvas/1",
+   "type": "Canvas",
+   "width": 1212,
+   "height": 565,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0769/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0769/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/768.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1212,
+        "height": 565,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Gathering_a_few_home_relics_at_the_ruins_of_the_Wenban_Palace%2C_Van_Ness_Ave.%2C_San_Francisco_%28NYPL_b11707375-G90F001_085F%29.tiff/lossy-page1-1920px-Gathering_a_few_home_relics_at_the_ruins_of_the_Wenban_Palace%2C_Van_Ness_Ave.%2C_San_Francisco_%28NYPL_b11707375-G90F001_085F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0769/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

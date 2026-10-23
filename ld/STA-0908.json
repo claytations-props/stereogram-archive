@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0908.json",
+ "name": "Governor's residence, by Ingersoll, T. W. (Truman Ward), 1862-1922",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/907.jpg",
+ "identifier": "STA-0908",
+ "creator": {
+  "@type": "Person",
+  "name": "Ingersoll, T. W. (Truman Ward)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minneapolis, Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Governor%27s_residence,_by_Ingersoll,_T._W._(Truman_Ward),_1862-1922.png"
+}

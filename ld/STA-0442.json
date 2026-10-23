@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0442.json",
+ "name": "Gloucester harbor from Rocky Point (NYPL b11707512-G90F236 041ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/441.jpg",
+ "identifier": "STA-0442",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gloucester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gloucester_harbor_from_Rocky_Point_(NYPL_b11707512-G90F236_041ZF).tiff"
+}

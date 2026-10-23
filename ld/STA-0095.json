@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0095.json",
+ "name": "Party of tourists at a picnic, by A. C. McIntyre",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/94.jpg",
+ "identifier": "STA-0095",
+ "creator": {
+  "@type": "Person",
+  "name": "A. C. McIntyre"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Thousand Islands, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Party_of_tourists_at_a_picnic,_by_A._C._McIntyre.jpg"
+}

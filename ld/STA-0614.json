@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0614.json",
+ "name": "Grounds from Rear Piazza of Grand Union Hotel, by Rumsey, H.D., fl. 187-",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/613.jpg",
+ "identifier": "STA-0614",
+ "creator": {
+  "@type": "Person",
+  "name": "Rumsey, H.D., fl. 187-"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Grounds_from_Rear_Piazza_of_Grand_Union_Hotel,_by_Rumsey,_H.D.,_fl._187-.jpg"
+}

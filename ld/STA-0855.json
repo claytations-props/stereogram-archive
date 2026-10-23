@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0855.json",
+ "name": "Stereofoto van het theater in Parijs Mignon avec les bohémiens (titel op object), RP-F-2016-51-2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/854.jpg",
+ "identifier": "STA-0855",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Stereofoto_van_het_theater_in_Parijs_Mignon_avec_les_boh%C3%A9miens_(titel_op_object),_RP-F-2016-51-2.jpg"
+}

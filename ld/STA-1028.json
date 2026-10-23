@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1028.json",
+ "name": "City Hall, from Robert N. Dennis collection of stereoscopic views 19",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1027.jpg",
+ "identifier": "STA-1028",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:City_Hall,_from_Robert_N._Dennis_collection_of_stereoscopic_views_19.jpg"
+}

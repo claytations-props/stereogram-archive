@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0016.json",
+ "name": "The Damascus Gate, Jerusalem LOC matpc.04876",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/15.jpg",
+ "identifier": "STA-0016",
+ "creditText": "Library of Congress",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Jerusalem"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Damascus_Gate,_Jerusalem_LOC_matpc.04876.jpg"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0163.json",
+ "name": "Mill no. 4 and bridge (NYPL b11707685-G90F077 013ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/162.jpg",
+ "identifier": "STA-0163",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Willimantic, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Mill_no._4_and_bridge_(NYPL_b11707685-G90F077_013ZF).tiff"
+}

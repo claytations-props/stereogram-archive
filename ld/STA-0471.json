@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0471.json",
+ "name": "Essex Street, from Washington Street, Salem, by G. K. Proctor",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/470.jpg",
+ "identifier": "STA-0471",
+ "creator": {
+  "@type": "Person",
+  "name": "G. K. Proctor"
+ },
+ "dateCreated": "1859",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salem, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Essex_Street,_from_Washington_Street,_Salem,_by_G._K._Proctor.png"
+}

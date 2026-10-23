@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0256.json",
+ "name": "Public school building, Faribault, Minn",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/255.jpg",
+ "identifier": "STA-0256",
+ "dateCreated": "1869",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Public_school_building,_Faribault,_Minn,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

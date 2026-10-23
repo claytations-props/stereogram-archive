@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0852.json",
+ "name": "Straatgezicht te Parijs, RP-F-F08379",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/851.jpg",
+ "identifier": "STA-0852",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Straatgezicht_te_Parijs,_RP-F-F08379.jpg"
+}

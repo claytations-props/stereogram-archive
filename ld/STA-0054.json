@@ -1,0 +1,12 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0054.json",
+ "name": "Portrait of a family on porch stairs (NYPL b11708207-G91F081 019F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/53.jpg",
+ "identifier": "STA-0054",
+ "dateCreated": "1915",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_family_on_porch_stairs_(NYPL_b11708207-G91F081_019F).tiff"
+}

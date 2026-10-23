@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0903.json",
+ "name": "Minneapolis, Minn, by R. N. Fearon",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/902.jpg",
+ "identifier": "STA-0903",
+ "creator": {
+  "@type": "Person",
+  "name": "R. N. Fearon"
+ },
+ "dateCreated": "1862",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minneapolis, Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Minneapolis,_Minn,_by_R._N._Fearon.jpg"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0592.json",
+ "name": "Institute of Technology, by Raymond Bros.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/591.jpg",
+ "identifier": "STA-0592",
+ "creator": {
+  "@type": "Person",
+  "name": "Raymond Bros."
+ },
+ "dateCreated": "1859",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Institute_of_Technology,_by_Raymond_Bros..png"
+}

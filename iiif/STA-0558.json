@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0558.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Old North Church, Boston, Mass. U.S.A, by Keystone View Company"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Publisher"
+    ]
+   },
+   "value": {
+    "none": [
+     "Keystone View Company"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Keystone View Company"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1864"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Boston, Massachusetts"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0558.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0558/canvas/1",
+   "type": "Canvas",
+   "width": 1218,
+   "height": 732,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0558/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0558/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/557.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1218,
+        "height": 732,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Old_North_Church%2C_Boston%2C_Mass._U.S.A%2C_by_Keystone_View_Company.png/1920px-Old_North_Church%2C_Boston%2C_Mass._U.S.A%2C_by_Keystone_View_Company.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0558/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

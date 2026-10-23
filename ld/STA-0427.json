@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0427.json",
+ "name": "Murray meeting house, by Cook & Friend",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/426.jpg",
+ "identifier": "STA-0427",
+ "creator": {
+  "@type": "Person",
+  "name": "Cook & Friend"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gloucester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Murray_meeting_house,_by_Cook_%26_Friend.jpg"
+}

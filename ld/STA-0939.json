@@ -1,0 +1,13 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0939.json",
+ "name": "Mountain farm, ca. 1897-1910.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/938.jpg",
+ "identifier": "STA-0939",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Mountain_farm,_ca._1897-1910..jpg"
+}

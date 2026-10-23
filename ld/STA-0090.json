@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0090.json",
+ "name": "Looking toward Picnic Point, by Isaacs, A. C., fl. 187-",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/89.jpg",
+ "identifier": "STA-0090",
+ "creator": {
+  "@type": "Person",
+  "name": "Isaacs, A. C., fl. 187-"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Madison, Wisconsin"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Looking_toward_Picnic_Point,_by_Isaacs,_A._C.,_fl._187-.jpg"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0524.json",
+ "name": "Father of the Forest, 112 feet circumference - near view, Mammoth Grove, Calaveras County (NYPL b11707270-G89F328 068F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/523.jpg",
+ "identifier": "STA-0524",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Father_of_the_Forest,_112_feet_circumference_-_near_view,_Mammoth_Grove,_Calaveras_County_(NYPL_b11707270-G89F328_068F).tiff"
+}

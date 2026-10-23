@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0860.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Het Théâtre de l'Odéon in Parijs Théâtre de l'Odéon, Paris (titel op object), RP-F-F09556"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1863–1875"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Paris, France"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0860.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0860/canvas/1",
+   "type": "Canvas",
+   "width": 1384,
+   "height": 694,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0860/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0860/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/859.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1384,
+        "height": 694,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Het_Th%C3%A9%C3%A2tre_de_l%27Od%C3%A9on_in_Parijs_Th%C3%A9%C3%A2tre_de_l%27Od%C3%A9on%2C_Paris_%28titel_op_object%29%2C_RP-F-F09556.jpg/1920px-Het_Th%C3%A9%C3%A2tre_de_l%27Od%C3%A9on_in_Parijs_Th%C3%A9%C3%A2tre_de_l%27Od%C3%A9on%2C_Paris_%28titel_op_object%29%2C_RP-F-F09556.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0860/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

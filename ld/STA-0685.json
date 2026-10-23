@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0685.json",
+ "name": "Min-ne-ha-ha, Watkins Glen, by R. D. Crum 3",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/684.jpg",
+ "identifier": "STA-0685",
+ "creator": {
+  "@type": "Person",
+  "name": "R. D. Crum"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Watkins Glen, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Min-ne-ha-ha,_Watkins_Glen,_by_R._D._Crum_3.png"
+}

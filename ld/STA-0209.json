@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0209.json",
+ "name": "View on Chautauqua Lake, by Woodward, C. W. (Charles Warren)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/208.jpg",
+ "identifier": "STA-0209",
+ "creator": {
+  "@type": "Person",
+  "name": "Woodward, C. W. (Charles Warren)"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chautauqua Lake, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_on_Chautauqua_Lake,_by_Woodward,_C._W._(Charles_Warren).png"
+}

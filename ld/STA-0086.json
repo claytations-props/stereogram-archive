@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0086.json",
+ "name": "Table set with a wedding cake and fruits, Victor, Iowa, by Coon & Mossetter",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/85.jpg",
+ "identifier": "STA-0086",
+ "creator": {
+  "@type": "Person",
+  "name": "Coon & Mossetter"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Victor, Iowa"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Table_set_with_a_wedding_cake_and_fruits,_Victor,_Iowa,_by_Coon_%26_Mossetter.jpg"
+}

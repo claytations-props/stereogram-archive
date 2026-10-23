@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0428.json",
+ "name": "Rafe's chasm, Gloucester, Mass, by J.W. & J.S. Moulton",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/427.jpg",
+ "identifier": "STA-0428",
+ "creator": {
+  "@type": "Person",
+  "name": "J.W. & J.S. Moulton"
+ },
+ "dateCreated": "1858",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gloucester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Rafe%27s_chasm,_Gloucester,_Mass,_by_J.W._%26_J.S._Moulton.jpg"
+}

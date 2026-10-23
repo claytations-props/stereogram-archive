@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0457.json",
+ "name": "View of an unidentified half-timbered building with a tower",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/456.jpg",
+ "identifier": "STA-0457",
+ "dateCreated": "1859",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salem, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_an_unidentified_half-timbered_building_with_a_tower,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

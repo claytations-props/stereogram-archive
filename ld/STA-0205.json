@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0205.json",
+ "name": "Hubb House, Thousand Islands",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/204.jpg",
+ "identifier": "STA-0205",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Thousand Islands, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Hubb_House,_Thousand_Islands,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

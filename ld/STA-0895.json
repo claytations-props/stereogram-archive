@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0895.json",
+ "name": "Een sloep in het Paleis voor Volksvlijt, Amsterdam, RP-F-F11773",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/894.jpg",
+ "identifier": "STA-0895",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Een_sloep_in_het_Paleis_voor_Volksvlijt,_Amsterdam,_RP-F-F11773.jpg"
+}

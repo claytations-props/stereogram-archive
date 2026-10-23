@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0370.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "The Pride of New Orleans La - Canal Street Stereocard with Bobtail Streetcars and Clock"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1887–1893"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "New Orleans, Louisiana"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0370.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0370/canvas/1",
+   "type": "Canvas",
+   "width": 912,
+   "height": 493,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0370/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0370/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/369.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 912,
+        "height": 493,
+        "thumbnail": [
+         {
+          "id": "https://upload.wikimedia.org/wikipedia/commons/7/7f/The_Pride_of_New_Orleans_La_-_Canal_Street_Stereocard_with_Bobtail_Streetcars_and_Clock.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0370/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

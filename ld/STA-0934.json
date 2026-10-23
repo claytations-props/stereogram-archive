@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0934.json",
+ "name": "Allers Familiejournal stereoscopi - no-nb digifoto 20140731 00042 NB NS NM 02577",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/933.jpg",
+ "identifier": "STA-0934",
+ "dateCreated": "1900",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Allers_Familiejournal_stereoscopi_-_no-nb_digifoto_20140731_00042_NB_NS_NM_02577.jpg"
+}

@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0655.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Watkins and Seneca Lake. On the line of the Erie Railway, by Bierstadt, Charles, 1819-1903 2"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Bierstadt, Charles"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "1819-1903"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Watkins Glen, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0655.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0655/canvas/1",
+   "type": "Canvas",
+   "width": 1456,
+   "height": 228,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0655/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0655/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/654.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1456,
+        "height": 228,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Watkins_and_Seneca_Lake._On_the_line_of_the_Erie_Railway%2C_by_Bierstadt%2C_Charles%2C_1819-1903_2.png/1920px-Watkins_and_Seneca_Lake._On_the_line_of_the_Erie_Railway%2C_by_Bierstadt%2C_Charles%2C_1819-1903_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0655/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

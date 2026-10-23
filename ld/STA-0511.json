@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0511.json",
+ "name": "Model of the Mayflower",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/510.jpg",
+ "identifier": "STA-0511",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Plymouth, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Model_of_the_Mayflower,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0809.json",
+ "name": "Depot and Summit House, Mount Washington",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/808.jpg",
+ "identifier": "STA-0809",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mount Washington, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Depot_and_Summit_House,_Mount_Washington,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

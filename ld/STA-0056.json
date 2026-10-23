@@ -1,0 +1,12 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0056.json",
+ "name": "Family in touring car (NYPL b11708207-G91F081 011F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/55.jpg",
+ "identifier": "STA-0056",
+ "dateCreated": "1915",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Family_in_touring_car_(NYPL_b11708207-G91F081_011F).tiff"
+}

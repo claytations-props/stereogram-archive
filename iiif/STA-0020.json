@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0020.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Eva (Duomo di Milano), by Giorgio Sommer (Getty 1078V7)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Giorgio Sommer (Getty 1078V7)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1800s"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Milan, Italy"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0020.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0020/canvas/1",
+   "type": "Canvas",
+   "width": 1418,
+   "height": 752,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0020/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0020/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/19.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1418,
+        "height": 752,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Eva_%28Duomo_di_Milano%29%2C_by_Giorgio_Sommer_%28Getty_1078V7%29.jpg/1920px-Eva_%28Duomo_di_Milano%29%2C_by_Giorgio_Sommer_%28Getty_1078V7%29.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0020/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

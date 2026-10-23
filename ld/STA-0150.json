@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0150.json",
+ "name": "Swiss cottage, Watkins Glen, by Purviance, W. T. (William T.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/149.jpg",
+ "identifier": "STA-0150",
+ "creator": {
+  "@type": "Person",
+  "name": "Purviance, W. T. (William T.)"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Watkins Glen, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Swiss_cottage,_Watkins_Glen,_by_Purviance,_W._T._(William_T.).jpg"
+}

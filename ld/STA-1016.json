@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1016.json",
+ "name": "Gezicht op de Gemmipas Passage de la Gemmi (titel op object), RP-F-F07974",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1015.jpg",
+ "identifier": "STA-1016",
+ "dateCreated": "1879",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_Gemmipas_Passage_de_la_Gemmi_(titel_op_object),_RP-F-F07974.jpg"
+}

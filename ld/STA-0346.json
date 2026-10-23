@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0346.json",
+ "name": "Canal & Carondelet Streets, New Orleans, 1934 stereo view",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/345.jpg",
+ "identifier": "STA-0346",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Canal_%26_Carondelet_Streets,_New_Orleans,_1934_stereo_view.png"
+}

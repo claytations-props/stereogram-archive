@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0943.json",
+ "name": "Rømbøl i Hardanger - no-nb digifoto 20150205 00155 bldsa stereo 0300",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/942.jpg",
+ "identifier": "STA-0943",
+ "dateCreated": "1864",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:R%C3%B8mb%C3%B8l_i_Hardanger_-_no-nb_digifoto_20150205_00155_bldsa_stereo_0300.jpg"
+}

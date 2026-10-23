@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0371.json",
+ "name": "Camp Street NOLA Blessing St Pats Stereo",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/370.jpg",
+ "identifier": "STA-0371",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Camp_Street_NOLA_Blessing_St_Pats_Stereo.jpg"
+}

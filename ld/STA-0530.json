@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0530.json",
+ "name": "Calistoga Springs (NYPL b11707283-G89F351 008F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/529.jpg",
+ "identifier": "STA-0530",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Calistoga_Springs_(NYPL_b11707283-G89F351_008F).tiff"
+}

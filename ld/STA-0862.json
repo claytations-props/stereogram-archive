@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0862.json",
+ "name": "Nicolaas II van Rusland en Alix van Hessen-Darmstadt in een koets te Parijs, RP-F-F08317",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/861.jpg",
+ "identifier": "STA-0862",
+ "dateCreated": "1896",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Nicolaas_II_van_Rusland_en_Alix_van_Hessen-Darmstadt_in_een_koets_te_Parijs,_RP-F-F08317.jpg"
+}

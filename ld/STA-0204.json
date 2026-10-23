@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0204.json",
+ "name": "Sweet Silver Light of the Moon, Thousand Islands",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/203.jpg",
+ "identifier": "STA-0204",
+ "dateCreated": "1898",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Thousand Islands, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sweet_Silver_Light_of_the_Moon,_Thousand_Islands,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

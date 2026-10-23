@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0938.json",
+ "name": "69 ny. Parti av Junkerdalen (uren). Stereoskop - NB bldsa OTO0099 A",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/937.jpg",
+ "identifier": "STA-0938",
+ "dateCreated": "1860",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:69_ny._Parti_av_Junkerdalen_(uren)._Stereoskop_-_NB_bldsa_OTO0099_A.jpg"
+}

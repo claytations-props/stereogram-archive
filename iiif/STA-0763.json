@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0763.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Looking east from corner Ellis and Jones; Tall building, The San Francisco Call (NYPL b11707478-G90F002 048F)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1906"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "San Francisco, California"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0763.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0763/canvas/1",
+   "type": "Canvas",
+   "width": 1182,
+   "height": 467,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0763/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0763/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/762.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1182,
+        "height": 467,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Looking_east_from_corner_Ellis_and_Jones%3B_Tall_building%2C_The_San_Francisco_Call_%28NYPL_b11707478-G90F002_048F%29.tiff/lossy-page1-1920px-Looking_east_from_corner_Ellis_and_Jones%3B_Tall_building%2C_The_San_Francisco_Call_%28NYPL_b11707478-G90F002_048F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0763/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

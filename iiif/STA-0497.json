@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0497.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Canopy over Pilgrim Rock, Plymouth, Mass, by Kilburn Brothers 3"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Kilburn Brothers"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1865"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Plymouth, Massachusetts"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0497.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0497/canvas/1",
+   "type": "Canvas",
+   "width": 650,
+   "height": 246,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0497/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0497/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/496.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 650,
+        "height": 246,
+        "thumbnail": [
+         {
+          "id": "https://upload.wikimedia.org/wikipedia/commons/1/19/Canopy_over_Pilgrim_Rock%2C_Plymouth%2C_Mass%2C_by_Kilburn_Brothers_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0497/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

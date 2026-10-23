@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0715.json",
+ "name": "Profile House, Franconia Notch, N.H, by Kilburn Brothers 8",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/714.jpg",
+ "identifier": "STA-0715",
+ "creator": {
+  "@type": "Person",
+  "name": "Kilburn Brothers"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Franconia Notch, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Profile_House,_Franconia_Notch,_N.H,_by_Kilburn_Brothers_8.jpg"
+}

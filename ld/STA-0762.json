@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0762.json",
+ "name": "Mt. Webster, from Robert N. Dennis collection of stereoscopic views 6",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/761.jpg",
+ "identifier": "STA-0762",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Crawford Notch, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Mt._Webster,_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.png"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0356.json",
+ "name": "A cotton float, New Orleans, by Continent Stereoscopic Company",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/355.jpg",
+ "identifier": "STA-0356",
+ "creator": {
+  "@type": "Person",
+  "name": "Continent Stereoscopic Company"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:A_cotton_float,_New_Orleans,_by_Continent_Stereoscopic_Company.png"
+}

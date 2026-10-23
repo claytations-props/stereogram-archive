@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0019.json",
+ "name": "Martinsburg (Oberlahnstein) - Early Calotype Stereograph View - DP75388",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/18.jpg",
+ "identifier": "STA-0019",
+ "creditText": "The Metropolitan Museum of Art",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Oberlahnstein, Germany"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Martinsburg_(Oberlahnstein)_-_Early_Calotype_Stereograph_View_-_DP75388.jpg"
+}

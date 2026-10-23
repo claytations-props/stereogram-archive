@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0466.json",
+ "name": "Intricate two-part carving in ivory - \"Heaven and Hell,\" hinged together to close, by G. K. Proctor",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/465.jpg",
+ "identifier": "STA-0466",
+ "creator": {
+  "@type": "Person",
+  "name": "G. K. Proctor"
+ },
+ "dateCreated": "1859",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salem, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Intricate_two-part_carving_in_ivory_-_%22Heaven_and_Hell,%22_hinged_together_to_close,_by_G._K._Proctor.png"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0429.json",
+ "name": "East Gloucester lighthouse and fog bell, by Procter Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/428.jpg",
+ "identifier": "STA-0429",
+ "creator": {
+  "@type": "Person",
+  "name": "Procter Brothers"
+ },
+ "dateCreated": "1858",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gloucester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:East_Gloucester_lighthouse_and_fog_bell,_by_Procter_Brothers.jpg"
+}

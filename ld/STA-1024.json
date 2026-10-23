@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1024.json",
+ "name": "Drie mannen met de honden van het Hospice du Grand-Saint-Bernard Les Chiens de l'Hospice du Grand St. Bernard. Suisse. (titel op object), RP-F-F08160",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1023.jpg",
+ "identifier": "STA-1024",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Drie_mannen_met_de_honden_van_het_Hospice_du_Grand-Saint-Bernard_Les_Chiens_de_l%27Hospice_du_Grand_St._Bernard._Suisse._(titel_op_object),_RP-F-F08160.jpg"
+}

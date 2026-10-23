@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0540.json",
+ "name": "Yosemite Studies (NYPL b11707308-G89F384 091ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/539.jpg",
+ "identifier": "STA-0540",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yosemite, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Yosemite_Studies_(NYPL_b11707308-G89F384_091ZF).tiff"
+}

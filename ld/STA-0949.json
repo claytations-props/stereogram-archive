@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0949.json",
+ "name": "S. 35. - Nordishavet stereofotografi - no-nb digifoto 20151013 00114 bldsa stereo 0966",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/948.jpg",
+ "identifier": "STA-0949",
+ "dateCreated": "1925",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:S._35._-_Nordishavet_stereofotografi_-_no-nb_digifoto_20151013_00114_bldsa_stereo_0966.jpg"
+}

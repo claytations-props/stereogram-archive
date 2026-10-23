@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0665.json",
+ "name": "Glen bridge pavilion and Devil's Punch Bowl, by Gates, G. F. (George F.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/664.jpg",
+ "identifier": "STA-0665",
+ "creator": {
+  "@type": "Person",
+  "name": "Gates, G. F. (George F.)"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Watkins Glen, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Glen_bridge_pavilion_and_Devil%27s_Punch_Bowl,_by_Gates,_G._F._(George_F.).jpg"
+}

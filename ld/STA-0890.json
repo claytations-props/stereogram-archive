@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0890.json",
+ "name": "Poppenkast van A.A. van Hemert, Amsterdam, RP-F-F11736",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/889.jpg",
+ "identifier": "STA-0890",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Poppenkast_van_A.A._van_Hemert,_Amsterdam,_RP-F-F11736.jpg"
+}

@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0851.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Chinese poort voor het Musée Guimet te Parijs Paris. Musée Guimet, porte Indo-Chinoise (titel op object), RP-F-00-8949"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1904"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Paris, France"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0851.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0851/canvas/1",
+   "type": "Canvas",
+   "width": 1140,
+   "height": 876,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0851/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0851/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/850.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1140,
+        "height": 876,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Chinese_poort_voor_het_Mus%C3%A9e_Guimet_te_Parijs_Paris._Mus%C3%A9e_Guimet%2C_porte_Indo-Chinoise_%28titel_op_object%29%2C_RP-F-00-8949.jpg/1920px-Chinese_poort_voor_het_Mus%C3%A9e_Guimet_te_Parijs_Paris._Mus%C3%A9e_Guimet%2C_porte_Indo-Chinoise_%28titel_op_object%29%2C_RP-F-00-8949.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0851/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

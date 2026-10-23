@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0877.json",
+ "name": "Beurs van Zocher op de Dam, versierd ter gelegenheid van de inhuldiging van koningin Wilhelmina, Amsterdam, Nederland, RP-F-2000-12-2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/876.jpg",
+ "identifier": "STA-0877",
+ "dateCreated": "1898",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Beurs_van_Zocher_op_de_Dam,_versierd_ter_gelegenheid_van_de_inhuldiging_van_koningin_Wilhelmina,_Amsterdam,_Nederland,_RP-F-2000-12-2.jpg"
+}

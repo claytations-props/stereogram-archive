@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0392.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "La Salle Street, showing Tacoma building, Chicago, Ill., U.S.A, by Kilburn, B. W. (Benjamin West), 1827-1909"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Kilburn, B. W. (Benjamin West)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "1827-1909"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Chicago, Illinois"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0392.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0392/canvas/1",
+   "type": "Canvas",
+   "width": 1530,
+   "height": 878,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0392/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0392/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/391.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1530,
+        "height": 878,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/La_Salle_Street%2C_showing_Tacoma_building%2C_Chicago%2C_Ill.%2C_U.S.A%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg/1920px-La_Salle_Street%2C_showing_Tacoma_building%2C_Chicago%2C_Ill.%2C_U.S.A%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0392/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

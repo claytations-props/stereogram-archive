@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0999.json",
+ "name": "Gezicht op het Winkelriedhaus te Stans La Maison de Weinkelried à Stans. Suisse. (titel op object), RP-F-F08190",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/998.jpg",
+ "identifier": "STA-0999",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_het_Winkelriedhaus_te_Stans_La_Maison_de_Weinkelried_%C3%A0_Stans._Suisse._(titel_op_object),_RP-F-F08190.jpg"
+}

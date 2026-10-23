@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0945.json",
+ "name": "12. Norge. Parti fra Digernæs i Hardanger - no-nb digifoto 20150205 00158 bldsa stereo 0303",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/944.jpg",
+ "identifier": "STA-0945",
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:12._Norge._Parti_fra_Digern%C3%A6s_i_Hardanger_-_no-nb_digifoto_20150205_00158_bldsa_stereo_0303.jpg"
+}

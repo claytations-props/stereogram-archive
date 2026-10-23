@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0557.json",
+ "name": "B.W.W. dam division, Dam I, center wall and embankment, north side of river, July 14, 1877",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/556.jpg",
+ "identifier": "STA-0557",
+ "dateCreated": "1877",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:B.W.W._dam_division,_Dam_I,_center_wall_and_embankment,_north_side_of_river,_July_14,_1877,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

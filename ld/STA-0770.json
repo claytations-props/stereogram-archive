@@ -1,0 +1,20 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0770.json",
+ "name": "Opening safes from the great business buildings wrecked by earthquake, San Francisco, Cal (NYPL b11707337-G89F415 020F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/769.jpg",
+ "identifier": "STA-0770",
+ "creator": {
+  "@type": "Person",
+  "name": "earthquake, San Francisco, Cal (NYPL b11707337-G89F415 020F)"
+ },
+ "dateCreated": "1906",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Opening_safes_from_the_great_business_buildings_wrecked_by_earthquake,_San_Francisco,_Cal_(NYPL_b11707337-G89F415_020F).tiff"
+}

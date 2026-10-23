@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0731.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Crawford Notch, White Mountains, N.H, by J.W. & J.S. Moulton 2"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "J.W. & J.S. Moulton"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1873–1881"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Crawford Notch, New Hampshire"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0731.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0731/canvas/1",
+   "type": "Canvas",
+   "width": 1448,
+   "height": 601,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0731/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0731/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/730.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1448,
+        "height": 601,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Crawford_Notch%2C_White_Mountains%2C_N.H%2C_by_J.W._%26_J.S._Moulton_2.jpg/1920px-Crawford_Notch%2C_White_Mountains%2C_N.H%2C_by_J.W._%26_J.S._Moulton_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0731/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

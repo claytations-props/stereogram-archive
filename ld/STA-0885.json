@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0885.json",
+ "name": "Een opgezette bij, Natura Artis Magistra , Amsterdam, Nederland, RP-F-2000-88",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/884.jpg",
+ "identifier": "STA-0885",
+ "dateCreated": "1879",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Een_opgezette_bij,_Natura_Artis_Magistra_,_Amsterdam,_Nederland,_RP-F-2000-88.jpg"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0554.json",
+ "name": "Interior of the library of Colby University, Waterville, Maine (NYPL b11707234-G89F241 016ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/553.jpg",
+ "identifier": "STA-0554",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Interior_of_the_library_of_Colby_University,_Waterville,_Maine_(NYPL_b11707234-G89F241_016ZF).tiff"
+}

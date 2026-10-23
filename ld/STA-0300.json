@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0300.json",
+ "name": "Appledore, by S. C. Reed",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/299.jpg",
+ "identifier": "STA-0300",
+ "creator": {
+  "@type": "Person",
+  "name": "S. C. Reed"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Isles of Shoals, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Appledore,_by_S._C._Reed.jpg"
+}

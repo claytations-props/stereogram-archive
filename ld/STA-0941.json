@@ -1,0 +1,13 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0941.json",
+ "name": "Kaupanger main farm, ca. 1888-1925.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/940.jpg",
+ "identifier": "STA-0941",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Kaupanger_main_farm,_ca._1888-1925..jpg"
+}

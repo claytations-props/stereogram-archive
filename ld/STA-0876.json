@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0876.json",
+ "name": "Mannen werken aan de demping van de Overtoom, terwijl jongens van de kant toekijken, Amsterdam, RP-F-F11876",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/875.jpg",
+ "identifier": "STA-0876",
+ "dateCreated": "1901",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Mannen_werken_aan_de_demping_van_de_Overtoom,_terwijl_jongens_van_de_kant_toekijken,_Amsterdam,_RP-F-F11876.jpg"
+}

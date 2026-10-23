@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0033.json",
+ "name": "Cap of Liberty and Nevada Fall, Yosemite Valley, California.ond, by Pond, C. L. (Charles L.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/32.jpg",
+ "identifier": "STA-0033",
+ "creator": {
+  "@type": "Person",
+  "name": "Pond, C. L. (Charles L.)"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yosemite Valley, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cap_of_Liberty_and_Nevada_Fall,_Yosemite_Valley,_California.ond,_by_Pond,_C._L._(Charles_L.).jpg"
+}

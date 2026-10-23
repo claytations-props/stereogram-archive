@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0068.json",
+ "name": "Granitic fissure in Eagle Rock, 1000 feet deep, Yosemite Valley, California, by Muybridge, Eadweard, 1830-1904",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/67.jpg",
+ "identifier": "STA-0068",
+ "creator": {
+  "@type": "Person",
+  "name": "Muybridge, Eadweard"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yosemite, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Granitic_fissure_in_Eagle_Rock,_1000_feet_deep,_Yosemite_Valley,_California,_by_Muybridge,_Eadweard,_1830-1904.png"
+}

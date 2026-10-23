@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0408.json",
+ "name": "Lewis Ore-beds, Lewis Patent, Lake Champlain, Essex Co., N.Y",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/407.jpg",
+ "identifier": "STA-0408",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lake Champlain, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Lewis_Ore-beds,_Lewis_Patent,_Lake_Champlain,_Essex_Co.,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0276.json",
+ "name": "View of a church in the woods",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/275.jpg",
+ "identifier": "STA-0276",
+ "dateCreated": "1869",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_church_in_the_woods,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

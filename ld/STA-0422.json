@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0422.json",
+ "name": "Rafe's chasm, Cape Ann scenery (NYPL b12535909-G90F235 031F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/421.jpg",
+ "identifier": "STA-0422",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gloucester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Rafe%27s_chasm,_Cape_Ann_scenery_(NYPL_b12535909-G90F235_031F).tiff"
+}

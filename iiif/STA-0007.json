@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0007.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Golden Gate, Yellowstone National Park, by International Stereoscopic View Company"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Publisher"
+    ]
+   },
+   "value": {
+    "none": [
+     "International Stereoscopic View Co."
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "International Stereoscopic View Company"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1890"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Yellowstone, Wyoming"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0007.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0007/canvas/1",
+   "type": "Canvas",
+   "width": 1254,
+   "height": 753,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0007/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0007/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1254,
+        "height": 753,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Golden_Gate%2C_Yellowstone_National_Park%2C_by_International_Stereoscopic_View_Company.jpg/1920px-Golden_Gate%2C_Yellowstone_National_Park%2C_by_International_Stereoscopic_View_Company.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0007/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

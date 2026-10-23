@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0865.json",
+ "name": "Stereofoto van het theater in Parijs Mignon transformée (titel op object), RP-F-2016-51-4",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/864.jpg",
+ "identifier": "STA-0865",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Stereofoto_van_het_theater_in_Parijs_Mignon_transform%C3%A9e_(titel_op_object),_RP-F-2016-51-4.jpg"
+}

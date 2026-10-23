@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1000.json",
+ "name": "Interieur van de Tellskapelle La Chapelle de Guillaume Tell sur le Lac des Quartres Cantons. Suisse. (2) (titel op object), RP-F-F08105",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/999.jpg",
+ "identifier": "STA-1000",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Interieur_van_de_Tellskapelle_La_Chapelle_de_Guillaume_Tell_sur_le_Lac_des_Quartres_Cantons._Suisse._(2)_(titel_op_object),_RP-F-F08105.jpg"
+}

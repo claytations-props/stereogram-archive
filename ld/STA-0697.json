@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0697.json",
+ "name": "Road from Echo Lake to Profile House, White Mountains (NYPL b11708055-G91F020 126F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/696.jpg",
+ "identifier": "STA-0697",
+ "dateCreated": "1875",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Franconia Notch, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Road_from_Echo_Lake_to_Profile_House,_White_Mountains_(NYPL_b11708055-G91F020_126F).tiff"
+}

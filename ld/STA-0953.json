@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0953.json",
+ "name": "(72) - 672 - Perilous Brigsdal Glacier, one of the grandest in all Norway stereofotografi - no-nb digifoto 20160622 00187 bldsa stereo 0152",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/952.jpg",
+ "identifier": "STA-0953",
+ "dateCreated": "1900",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:(72)_-_672_-_Perilous_Brigsdal_Glacier,_one_of_the_grandest_in_all_Norway_stereofotografi_-_no-nb_digifoto_20160622_00187_bldsa_stereo_0152.jpg"
+}

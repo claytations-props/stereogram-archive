@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0262.json",
+ "name": "View of a bridge and a building (possibly a mill) near the falls of a small river, by W. J. Hillman",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/261.jpg",
+ "identifier": "STA-0262",
+ "creator": {
+  "@type": "Person",
+  "name": "W. J. Hillman"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_bridge_and_a_building_(possibly_a_mill)_near_the_falls_of_a_small_river,_by_W._J._Hillman.jpg"
+}

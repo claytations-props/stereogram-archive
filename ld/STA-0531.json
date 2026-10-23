@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0531.json",
+ "name": "Sugar Loaf Mountain and Webster's Station. (no. 615) (NYPL b11707292-G89F367 025F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/530.jpg",
+ "identifier": "STA-0531",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sugar_Loaf_Mountain_and_Webster%27s_Station._(no._615)_(NYPL_b11707292-G89F367_025F).tiff"
+}

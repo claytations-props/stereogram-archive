@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1025.json",
+ "name": "Gezicht op het Kasteel van Chillon aan het Meer van Genève Château Chillon Lac de Genéve. Suisse. (2) (titel op object), RP-F-F08000",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1024.jpg",
+ "identifier": "STA-1025",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_het_Kasteel_van_Chillon_aan_het_Meer_van_Gen%C3%A8ve_Ch%C3%A2teau_Chillon_Lac_de_Gen%C3%A9ve._Suisse._(2)_(titel_op_object),_RP-F-F08000.jpg"
+}

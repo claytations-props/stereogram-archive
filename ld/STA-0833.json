@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0833.json",
+ "name": "Summit House, after a frosty night, Mt. Washington, N.H, by Bierstadt Brothers 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/832.jpg",
+ "identifier": "STA-0833",
+ "creator": {
+  "@type": "Person",
+  "name": "Bierstadt Brothers"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mount Washington, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Summit_House,_after_a_frosty_night,_Mt._Washington,_N.H,_by_Bierstadt_Brothers_2.jpg"
+}

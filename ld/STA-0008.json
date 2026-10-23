@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0008.json",
+ "name": "The Grand Falls, Yellowstone River, Yellowstone National Park",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/07.jpg",
+ "identifier": "STA-0008",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yellowstone, Wyoming"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Grand_Falls,_Yellowstone_River,_Yellowstone_National_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

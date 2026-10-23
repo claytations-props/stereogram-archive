@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0913.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Minne-ha-ha, \"laughing water\", by Martin's Art Gallery 4"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Martin's Art Gallery"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1865"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Minneapolis, Minnesota"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0913.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0913/canvas/1",
+   "type": "Canvas",
+   "width": 1106,
+   "height": 867,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0913/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0913/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/912.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1106,
+        "height": 867,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Minne-ha-ha%2C_%22laughing_water%22%2C_by_Martin%27s_Art_Gallery_4.png/1920px-Minne-ha-ha%2C_%22laughing_water%22%2C_by_Martin%27s_Art_Gallery_4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0913/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

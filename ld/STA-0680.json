@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0680.json",
+ "name": "The Vista, Watkins Glen, N.Y, by Hope, J. D., 1846-1929",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/679.jpg",
+ "identifier": "STA-0680",
+ "creator": {
+  "@type": "Person",
+  "name": "Hope, J. D."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Watkins Glen, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Vista,_Watkins_Glen,_N.Y,_by_Hope,_J._D.,_1846-1929.jpg"
+}

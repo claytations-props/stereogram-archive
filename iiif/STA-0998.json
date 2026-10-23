@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0998.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Gezicht op Weggis Wiggis sur le Lac de Lucerne. Suisse. (1) (titel op object), RP-F-F08095"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1850"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Switzerland"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0998.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0998/canvas/1",
+   "type": "Canvas",
+   "width": 1480,
+   "height": 556,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0998/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0998/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/997.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1480,
+        "height": 556,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Gezicht_op_Weggis_Wiggis_sur_le_Lac_de_Lucerne._Suisse._%281%29_%28titel_op_object%29%2C_RP-F-F08095.jpg/1920px-Gezicht_op_Weggis_Wiggis_sur_le_Lac_de_Lucerne._Suisse._%281%29_%28titel_op_object%29%2C_RP-F-F08095.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0998/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

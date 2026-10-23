@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0327.json",
+ "name": "Water Gap Pa. Mt. Minsi",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/326.jpg",
+ "identifier": "STA-0327",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Delaware Water Gap, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Water_Gap_Pa._Mt._Minsi,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

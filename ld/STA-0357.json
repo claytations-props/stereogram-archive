@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0357.json",
+ "name": "Flowers in Howard cemetery, New Orleans, La (NYPL b11707481-G90F203 009ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/356.jpg",
+ "identifier": "STA-0357",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Flowers_in_Howard_cemetery,_New_Orleans,_La_(NYPL_b11707481-G90F203_009ZF).tiff"
+}

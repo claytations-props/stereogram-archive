@@ -1,0 +1,91 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0017.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Stereoscopic Illustrations of the Crystal Palace, at Sydenham. (20852018793)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1850s"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Sydenham, London"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "No restrictions"
+    ]
+   }
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0017.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0017/canvas/1",
+   "type": "Canvas",
+   "width": 584,
+   "height": 341,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0017/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0017/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/16.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 584,
+        "height": 341,
+        "thumbnail": [
+         {
+          "id": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Stereoscopic_Illustrations_of_the_Crystal_Palace%2C_at_Sydenham._%2820852018793%29.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0017/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

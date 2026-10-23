@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1014.json",
+ "name": "Gezicht op Thun Thun pris du lac. Suisse. (titel op object), RP-F-F08077",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1013.jpg",
+ "identifier": "STA-1014",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_Thun_Thun_pris_du_lac._Suisse._(titel_op_object),_RP-F-F08077.jpg"
+}

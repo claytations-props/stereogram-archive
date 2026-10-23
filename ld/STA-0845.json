@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0845.json",
+ "name": "Man poserend bij een fontein op de Champs-Élysées in Parijs, RP-F-2012-96-301",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/844.jpg",
+ "identifier": "STA-0845",
+ "dateCreated": "1858",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Man_poserend_bij_een_fontein_op_de_Champs-%C3%89lys%C3%A9es_in_Parijs,_RP-F-2012-96-301.jpg"
+}

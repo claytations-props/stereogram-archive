@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0035.json",
+ "name": "Broadway and Trinity Church, New York, by Kilburn Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/34.jpg",
+ "identifier": "STA-0035",
+ "creator": {
+  "@type": "Person",
+  "name": "Kilburn Brothers"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New York City"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Broadway_and_Trinity_Church,_New_York,_by_Kilburn_Brothers.jpg"
+}

@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0351.json",
+ "name": "City hall, New Orleans (NYPL b11707483-G90F205 006F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/350.jpg",
+ "identifier": "STA-0351",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:City_hall,_New_Orleans_(NYPL_b11707483-G90F205_006F).tiff"
+}

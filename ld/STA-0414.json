@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0414.json",
+ "name": "Port Henry, from the ruins, showing furnace, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/413.jpg",
+ "identifier": "STA-0414",
+ "creator": {
+  "@type": "Person",
+  "name": "Stoddard, Seneca Ray"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lake Champlain, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Port_Henry,_from_the_ruins,_showing_furnace,_by_Stoddard,_Seneca_Ray,_1844-1917_,_1844-1917.jpg"
+}

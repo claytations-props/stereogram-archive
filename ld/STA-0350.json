@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0350.json",
+ "name": "1866 New Orleans Snow Lafayette Square Stereocard",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/349.jpg",
+ "identifier": "STA-0350",
+ "dateCreated": "1866",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:1866_New_Orleans_Snow_Lafayette_Square_Stereocard.jpg"
+}

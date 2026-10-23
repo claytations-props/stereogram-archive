@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0399.json",
+ "name": "Pine Street, north from Erie, by P. B. Greene",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/398.jpg",
+ "identifier": "STA-0399",
+ "creator": {
+  "@type": "Person",
+  "name": "P. B. Greene"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chicago, Illinois"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Pine_Street,_north_from_Erie,_by_P._B._Greene.jpg"
+}

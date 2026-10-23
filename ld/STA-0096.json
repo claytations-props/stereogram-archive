@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0096.json",
+ "name": "View of a picnic scene, by Towle, S. (Simon)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/95.jpg",
+ "identifier": "STA-0096",
+ "creator": {
+  "@type": "Person",
+  "name": "Towle, S. (Simon)"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lowell, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_picnic_scene,_by_Towle,_S._(Simon).jpg"
+}

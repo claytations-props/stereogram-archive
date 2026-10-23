@@ -1,0 +1,91 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0930.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "\"Bjørnson taler i Sogndal\", 1897."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1897"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Norway"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "No restrictions"
+    ]
+   }
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0930.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0930/canvas/1",
+   "type": "Canvas",
+   "width": 1834,
+   "height": 958,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0930/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0930/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/929.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1834,
+        "height": 958,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/%22Bj%C3%B8rnson_taler_i_Sogndal%22%2C_1897..jpg/1920px-%22Bj%C3%B8rnson_taler_i_Sogndal%22%2C_1897..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0930/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

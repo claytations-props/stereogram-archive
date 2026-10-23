@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0902.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Suspension bridge between St. Anthony and Minneapolis, by Upton, B. F. (Benjamin Franklin), 1818 or 1824-after 1901"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Upton, B. F. (Benjamin Franklin)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "1818 or 1824-after 1901"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Minneapolis, Minnesota"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0902.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0902/canvas/1",
+   "type": "Canvas",
+   "width": 1232,
+   "height": 424,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0902/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0902/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/901.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1232,
+        "height": 424,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Suspension_bridge_between_St._Anthony_and_Minneapolis%2C_by_Upton%2C_B._F._%28Benjamin_Franklin%29%2C_1818_or_1824-after_1901.png/1920px-Suspension_bridge_between_St._Anthony_and_Minneapolis%2C_by_Upton%2C_B._F._%28Benjamin_Franklin%29%2C_1818_or_1824-after_1901.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0902/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

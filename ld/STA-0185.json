@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0185.json",
+ "name": "Shaft and ore at \"New Discovery\" mine, by Thurlow, J., 1831-1878",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/184.jpg",
+ "identifier": "STA-0185",
+ "creator": {
+  "@type": "Person",
+  "name": "Thurlow, J."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Leadville, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Shaft_and_ore_at_%22New_Discovery%22_mine,_by_Thurlow,_J.,_1831-1878.png"
+}

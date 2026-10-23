@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0951.json",
+ "name": "1279. Hengefoss i Røken. Stereoskop - NB bldsa OTO0434 A",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/950.jpg",
+ "identifier": "STA-0951",
+ "dateCreated": "1860",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:1279._Hengefoss_i_R%C3%B8ken._Stereoskop_-_NB_bldsa_OTO0434_A.jpg"
+}

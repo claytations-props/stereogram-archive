@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0376.json",
+ "name": "New Orleans Mardi Gras Stereo Card 1928 02",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/375.jpg",
+ "identifier": "STA-0376",
+ "dateCreated": "1928",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:New_Orleans_Mardi_Gras_Stereo_Card_1928_02.jpg"
+}

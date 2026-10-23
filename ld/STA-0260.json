@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0260.json",
+ "name": "On the L.S. & M. Div. of the Northern Pacific R.R, by Caswell & Davy",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/259.jpg",
+ "identifier": "STA-0260",
+ "creator": {
+  "@type": "Person",
+  "name": "Caswell & Davy"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:On_the_L.S._%26_M._Div._of_the_Northern_Pacific_R.R,_by_Caswell_%26_Davy.jpg"
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0835.json",
+ "name": "Frost work on Mt. Washington, by G. H. Aldrich & Co. 18",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/834.jpg",
+ "identifier": "STA-0835",
+ "creator": {
+  "@type": "Person",
+  "name": "G. H. Aldrich & Co. 18"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mount Washington, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Frost_work_on_Mt._Washington,_by_G._H._Aldrich_%26_Co._18.png"
+}

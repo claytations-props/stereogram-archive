@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0203.json",
+ "name": "Reformed Church. Alexandria Bay, N.Y, by E. & H.T. Anthony (Firm)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/202.jpg",
+ "identifier": "STA-0203",
+ "creator": {
+  "@type": "Person",
+  "name": "E. & H.T. Anthony (Firm)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Thousand Islands, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Reformed_Church._Alexandria_Bay,_N.Y,_by_E._%26_H.T._Anthony_(Firm).jpg"
+}

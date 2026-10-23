@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0372.json",
+ "name": "Orleans Theater French Quarter stereo card by Mugnier",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/371.jpg",
+ "identifier": "STA-0372",
+ "creator": {
+  "@type": "Person",
+  "name": "Mugnier"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Orleans_Theater_French_Quarter_stereo_card_by_Mugnier.jpg"
+}

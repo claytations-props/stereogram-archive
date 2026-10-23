@@ -1,0 +1,103 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0942.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "413. - 15770. Laplanders Milking the Reindeer, Norway (37720959354)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Publisher"
+    ]
+   },
+   "value": {
+    "none": [
+     "Keystone View Company"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Norway"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "No restrictions"
+    ]
+   }
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0942.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0942/canvas/1",
+   "type": "Canvas",
+   "width": 1556,
+   "height": 732,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0942/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0942/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/941.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1556,
+        "height": 732,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/413._-_15770._Laplanders_Milking_the_Reindeer%2C_Norway_%2837720959354%29.jpg/1920px-413._-_15770._Laplanders_Milking_the_Reindeer%2C_Norway_%2837720959354%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0942/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

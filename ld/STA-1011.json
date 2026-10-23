@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1011.json",
+ "name": "Gezicht op de Mönch en de Eiger Le Monch et l'Eiger, Wengern-Alp. Suisse. (titel op object), RP-F-F08170",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1010.jpg",
+ "identifier": "STA-1011",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_M%C3%B6nch_en_de_Eiger_Le_Monch_et_l%27Eiger,_Wengern-Alp._Suisse._(titel_op_object),_RP-F-F08170.jpg"
+}

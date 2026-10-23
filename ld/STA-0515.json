@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0515.json",
+ "name": "Town square, by William S. Robbins & Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/514.jpg",
+ "identifier": "STA-0515",
+ "creator": {
+  "@type": "Person",
+  "name": "William S. Robbins & Co."
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Plymouth, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Town_square,_by_William_S._Robbins_%26_Co..jpg"
+}

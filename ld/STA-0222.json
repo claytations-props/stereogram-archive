@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0222.json",
+ "name": "Model of Jerusalem at Chautauqua, N.Y, by Walker, L. E., 1826-1916",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/221.jpg",
+ "identifier": "STA-0222",
+ "creator": {
+  "@type": "Person",
+  "name": "Walker, L. E."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chautauqua Lake, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Model_of_Jerusalem_at_Chautauqua,_N.Y,_by_Walker,_L._E.,_1826-1916.png"
+}

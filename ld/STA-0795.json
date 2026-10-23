@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0795.json",
+ "name": "Looking down California St. Ferry building in distance, San Francisco Disaster, U.S.A",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/794.jpg",
+ "identifier": "STA-0795",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Looking_down_California_St._Ferry_building_in_distance,_San_Francisco_Disaster,_U.S.A,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

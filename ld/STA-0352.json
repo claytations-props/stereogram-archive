@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0352.json",
+ "name": "Sugar landing, lower levee, New Orleans, U.S.A (NYPL b11707482-G90F204 022F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/351.jpg",
+ "identifier": "STA-0352",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sugar_landing,_lower_levee,_New_Orleans,_U.S.A_(NYPL_b11707482-G90F204_022F).tiff"
+}

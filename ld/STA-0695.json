@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0695.json",
+ "name": "The Basin, by Moulton, John S., b. ca. 1820",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/694.jpg",
+ "identifier": "STA-0695",
+ "creator": {
+  "@type": "Person",
+  "name": "Moulton, John S., b. ca. 1820"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Franconia Notch, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Basin,_by_Moulton,_John_S.,_b._ca._1820.png"
+}

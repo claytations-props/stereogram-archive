@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0870.json",
+ "name": "Seine, Paris, RP-F-F09465",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/869.jpg",
+ "identifier": "STA-0870",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Seine,_Paris,_RP-F-F09465.jpg"
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0198.json",
+ "name": "Side view of Bridge, Sport Island, Thousand Islands, by Woodward Stereoscopic Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/197.jpg",
+ "identifier": "STA-0198",
+ "creator": {
+  "@type": "Person",
+  "name": "Woodward Stereoscopic Co."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Thousand Islands, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Side_view_of_Bridge,_Sport_Island,_Thousand_Islands,_by_Woodward_Stereoscopic_Co..png"
+}

@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0936.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Tornet vid Frognersætern stereofotografi - no-nb digifoto 20151013 00005 bldsa stereo 0957"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Norway"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0936.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0936/canvas/1",
+   "type": "Canvas",
+   "width": 1478,
+   "height": 865,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0936/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0936/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/935.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1478,
+        "height": 865,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Tornet_vid_Frogners%C3%A6tern_stereofotografi_-_no-nb_digifoto_20151013_00005_bldsa_stereo_0957.jpg/1920px-Tornet_vid_Frogners%C3%A6tern_stereofotografi_-_no-nb_digifoto_20151013_00005_bldsa_stereo_0957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0936/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

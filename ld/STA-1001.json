@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1001.json",
+ "name": "Toegangsportaal van de Munster van Bern Bern. Haupteingang des Münsters (titel op object), RP-F-00-9066",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1000.jpg",
+ "identifier": "STA-1001",
+ "dateCreated": "1906",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Toegangsportaal_van_de_Munster_van_Bern_Bern._Haupteingang_des_M%C3%BCnsters_(titel_op_object),_RP-F-00-9066.jpg"
+}

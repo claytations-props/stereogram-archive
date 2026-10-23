@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0466.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Intricate two-part carving in ivory - \"Heaven and Hell,\" hinged together to close, by G. K. Proctor"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "G. K. Proctor"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1859"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Salem, Massachusetts"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0466.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0466/canvas/1",
+   "type": "Canvas",
+   "width": 638,
+   "height": 856,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0466/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0466/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/465.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 638,
+        "height": 856,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Intricate_two-part_carving_in_ivory_-_%22Heaven_and_Hell%2C%22_hinged_together_to_close%2C_by_G._K._Proctor.png/1920px-Intricate_two-part_carving_in_ivory_-_%22Heaven_and_Hell%2C%22_hinged_together_to_close%2C_by_G._K._Proctor.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0466/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

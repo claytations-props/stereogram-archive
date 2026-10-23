@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0765.json",
+ "name": "The utter desolation of San Francisco from the Water Front, Fairmount Hotel on Nob Hill in distance (NYPL b11707375-G90F001 011F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/764.jpg",
+ "identifier": "STA-0765",
+ "dateCreated": "1906",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_utter_desolation_of_San_Francisco_from_the_Water_Front,_Fairmount_Hotel_on_Nob_Hill_in_distance_(NYPL_b11707375-G90F001_011F).tiff"
+}

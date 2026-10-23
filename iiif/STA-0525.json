@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0525.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Cliff House, San Francisco, Cal. Seal Rocks in the distance (NYPL b11707327-G89F405 019F)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "New York Public Library"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Collection"
+    ]
+   },
+   "value": {
+    "none": [
+     "Robert N. Dennis Collection of Stereoscopic Views"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1869"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "San Francisco, California"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0525.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0525/canvas/1",
+   "type": "Canvas",
+   "width": 1328,
+   "height": 404,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0525/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0525/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/524.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1328,
+        "height": 404,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Cliff_House%2C_San_Francisco%2C_Cal._Seal_Rocks_in_the_distance_%28NYPL_b11707327-G89F405_019F%29.tiff/lossy-page1-1920px-Cliff_House%2C_San_Francisco%2C_Cal._Seal_Rocks_in_the_distance_%28NYPL_b11707327-G89F405_019F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0525/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

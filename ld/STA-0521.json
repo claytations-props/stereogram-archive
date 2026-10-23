@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0521.json",
+ "name": "View in the south Cañon, Yosemite Valley, California (NYPL b11707309-G89F385 015F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/520.jpg",
+ "identifier": "STA-0521",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yosemite, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_in_the_south_Ca%C3%B1on,_Yosemite_Valley,_California_(NYPL_b11707309-G89F385_015F).tiff"
+}

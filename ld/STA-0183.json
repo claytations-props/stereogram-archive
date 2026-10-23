@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0183.json",
+ "name": "Leadville, from California Gulch, by Thurlow, J., 1831-1878",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/182.jpg",
+ "identifier": "STA-0183",
+ "creator": {
+  "@type": "Person",
+  "name": "Thurlow, J."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Leadville, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Leadville,_from_California_Gulch,_by_Thurlow,_J.,_1831-1878.png"
+}

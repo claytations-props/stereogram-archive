@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1043.json",
+ "name": "Reform school in Westborough",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1042.jpg",
+ "identifier": "STA-1043",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Westborough, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Reform_school_in_Westborough,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

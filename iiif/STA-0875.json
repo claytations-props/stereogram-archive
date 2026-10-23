@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0875.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Lama in dierentuin (Artis), Nederland Vues des Pays-Bas. Edition originale (serietitel op object), RP-F-2004-39"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1920"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Amsterdam, Netherlands"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0875.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0875/canvas/1",
+   "type": "Canvas",
+   "width": 1504,
+   "height": 751,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0875/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0875/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/874.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1504,
+        "height": 751,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Lama_in_dierentuin_%28Artis%29%2C_Nederland_Vues_des_Pays-Bas._Edition_originale_%28serietitel_op_object%29%2C_RP-F-2004-39.jpg/1920px-Lama_in_dierentuin_%28Artis%29%2C_Nederland_Vues_des_Pays-Bas._Edition_originale_%28serietitel_op_object%29%2C_RP-F-2004-39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0875/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

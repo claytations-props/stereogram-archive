@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0018.json",
+ "name": "Stereograph of Guanajuato (Keystone View Company)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/17.jpg",
+ "identifier": "STA-0018",
+ "dateCreated": "1920",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Guanajuato, Mexico"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Stereograph_of_Guanajuato_(Keystone_View_Company).jpg"
+}

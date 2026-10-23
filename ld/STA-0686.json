@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0686.json",
+ "name": "Entrance, Watkins Glen, by R. D. Crum 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/685.jpg",
+ "identifier": "STA-0686",
+ "creator": {
+  "@type": "Person",
+  "name": "R. D. Crum"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Watkins Glen, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Entrance,_Watkins_Glen,_by_R._D._Crum_2.png"
+}

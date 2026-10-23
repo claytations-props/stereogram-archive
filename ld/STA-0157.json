@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0157.json",
+ "name": "Inundation of the Nile, Egypt. (30451148352)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/156.jpg",
+ "identifier": "STA-0157",
+ "dateCreated": "1900",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Giza, Egypt"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Inundation_of_the_Nile,_Egypt._(30451148352).jpg"
+}

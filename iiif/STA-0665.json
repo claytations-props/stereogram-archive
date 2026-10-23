@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0665.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Glen bridge pavilion and Devil's Punch Bowl, by Gates, G. F. (George F.)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Gates, G. F. (George F.)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1865"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Watkins Glen, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0665.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0665/canvas/1",
+   "type": "Canvas",
+   "width": 1546,
+   "height": 546,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0665/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0665/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/664.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1546,
+        "height": 546,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Glen_bridge_pavilion_and_Devil%27s_Punch_Bowl%2C_by_Gates%2C_G._F._%28George_F.%29.jpg/1920px-Glen_bridge_pavilion_and_Devil%27s_Punch_Bowl%2C_by_Gates%2C_G._F._%28George_F.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0665/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

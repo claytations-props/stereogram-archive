@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0839.json",
+ "name": "Gezicht op het Institut de France, Parijs L'Institut (titel op object), RP-F-F09541",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/838.jpg",
+ "identifier": "STA-0839",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_het_Institut_de_France,_Parijs_L%27Institut_(titel_op_object),_RP-F-F09541.jpg"
+}

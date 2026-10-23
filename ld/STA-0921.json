@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0921.json",
+ "name": "Minne-ha-ha,--laughing water, by Whitney & Zimmerman 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/920.jpg",
+ "identifier": "STA-0921",
+ "creator": {
+  "@type": "Person",
+  "name": "Whitney & Zimmerman"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minneapolis, Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Minne-ha-ha,--laughing_water,_by_Whitney_%26_Zimmerman_2.png"
+}

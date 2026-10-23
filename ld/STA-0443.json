@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0443.json",
+ "name": "Preparing codfish for the market, Gloucester, Mass, by Herbert C. White",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/442.jpg",
+ "identifier": "STA-0443",
+ "creator": {
+  "@type": "Person",
+  "name": "Herbert C. White"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gloucester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Preparing_codfish_for_the_market,_Gloucester,_Mass,_by_Herbert_C._White.jpg"
+}

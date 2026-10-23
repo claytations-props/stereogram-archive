@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0135.json",
+ "name": "Art Gallery, New York Metropolitan Fair (NYPL b11708071-G91F217 011F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/134.jpg",
+ "identifier": "STA-0135",
+ "dateCreated": "1864",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New York, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Art_Gallery,_New_York_Metropolitan_Fair_(NYPL_b11708071-G91F217_011F).tiff"
+}

@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0279.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Levee at Winona, showing Winona and St. Peter R.R. depots, by Whitney & Zimmerman"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Whitney & Zimmerman"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1869"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Minnesota"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0279.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0279/canvas/1",
+   "type": "Canvas",
+   "width": 1456,
+   "height": 625,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0279/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0279/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/278.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1456,
+        "height": 625,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Levee_at_Winona%2C_showing_Winona_and_St._Peter_R.R._depots%2C_by_Whitney_%26_Zimmerman.jpg/1920px-Levee_at_Winona%2C_showing_Winona_and_St._Peter_R.R._depots%2C_by_Whitney_%26_Zimmerman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0279/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

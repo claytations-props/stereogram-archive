@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0354.json",
+ "name": "Lovers' Lane, West End, New Orleans - 1891 stereo card",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/353.jpg",
+ "identifier": "STA-0354",
+ "dateCreated": "1891",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Lovers%27_Lane,_West_End,_New_Orleans_-_1891_stereo_card.tif"
+}

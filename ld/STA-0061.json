@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0061.json",
+ "name": "Sunset, vessel towing down Niagara River, by Pond, C. L. (Charles L.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/60.jpg",
+ "identifier": "STA-0061",
+ "creator": {
+  "@type": "Person",
+  "name": "Pond, C. L. (Charles L.)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Niagara Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sunset,_vessel_towing_down_Niagara_River,_by_Pond,_C._L._(Charles_L.).jpg"
+}

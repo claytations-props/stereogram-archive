@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0843.json",
+ "name": "Gezicht op de Boulevard Montmartre in Parijs Boulevart Montmartre (titel op object) Paris (serietitel op object), RP-F-F05646",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/842.jpg",
+ "identifier": "STA-0843",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_Boulevard_Montmartre_in_Parijs_Boulevart_Montmartre_(titel_op_object)_Paris_(serietitel_op_object),_RP-F-F05646.jpg"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0772.json",
+ "name": "After the greatest of modern catastrophes , Market St. N.E., past the Call building, San Francisco, Cal (NYPL b11707337-G89F415 008F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/771.jpg",
+ "identifier": "STA-0772",
+ "dateCreated": "1906",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:After_the_greatest_of_modern_catastrophes_,_Market_St._N.E.,_past_the_Call_building,_San_Francisco,_Cal_(NYPL_b11707337-G89F415_008F).tiff"
+}

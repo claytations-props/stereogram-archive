@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0915.json",
+ "name": "University at Minneapolis, E.D, by M. Nowack 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/914.jpg",
+ "identifier": "STA-0915",
+ "creator": {
+  "@type": "Person",
+  "name": "M. Nowack"
+ },
+ "dateCreated": "1862",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minneapolis, Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:University_at_Minneapolis,_E.D,_by_M._Nowack_2.jpg"
+}

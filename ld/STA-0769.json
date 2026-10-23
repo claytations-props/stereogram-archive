@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0769.json",
+ "name": "Gathering a few home relics at the ruins of the Wenban Palace, Van Ness Ave., San Francisco (NYPL b11707375-G90F001 085F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/768.jpg",
+ "identifier": "STA-0769",
+ "dateCreated": "1906",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gathering_a_few_home_relics_at_the_ruins_of_the_Wenban_Palace,_Van_Ness_Ave.,_San_Francisco_(NYPL_b11707375-G90F001_085F).tiff"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0297.json",
+ "name": "Old Church, Star Island, by Davis Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/296.jpg",
+ "identifier": "STA-0297",
+ "creator": {
+  "@type": "Person",
+  "name": "Davis Brothers"
+ },
+ "dateCreated": "1867",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Isles of Shoals, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Old_Church,_Star_Island,_by_Davis_Brothers.png"
+}

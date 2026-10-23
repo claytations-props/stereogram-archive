@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0478.json",
+ "name": "Interior of the \"marine museum\" showing cases, bones and sculpture",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/477.jpg",
+ "identifier": "STA-0478",
+ "dateCreated": "1859",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salem, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Interior_of_the_%22marine_museum%22_showing_cases,_bones_and_sculpture,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

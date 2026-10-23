@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0449.json",
+ "name": "Salem, Mass.--grotto at the willows",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/448.jpg",
+ "identifier": "STA-0449",
+ "dateCreated": "1859",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salem, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Salem,_Mass.--grotto_at_the_willows,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

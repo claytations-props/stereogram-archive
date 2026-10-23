@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0072.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Looking north on Broadway, \"The Great White Way,\" New York City (NYPL b11708037-G91F183 002F)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1925"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "New York, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0072.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0072/canvas/1",
+   "type": "Canvas",
+   "width": 1380,
+   "height": 778,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0072/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0072/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/71.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1380,
+        "height": 778,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Looking_north_on_Broadway%2C_%22The_Great_White_Way%2C%22_New_York_City_%28NYPL_b11708037-G91F183_002F%29.tiff/lossy-page1-1920px-Looking_north_on_Broadway%2C_%22The_Great_White_Way%2C%22_New_York_City_%28NYPL_b11708037-G91F183_002F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0072/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

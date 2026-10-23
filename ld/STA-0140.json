@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0140.json",
+ "name": "Hudson River R.R. & Hudson River",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/139.jpg",
+ "identifier": "STA-0140",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hudson River, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Hudson_River_R.R._%26_Hudson_River,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

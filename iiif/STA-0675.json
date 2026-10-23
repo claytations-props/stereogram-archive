@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0675.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Stillwater gorge, Watkins Glen. On the line of the Erie railway, by Bierstadt, Charles, 1819-1903 3"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Bierstadt, Charles"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "1819-1903"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Watkins Glen, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0675.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0675/canvas/1",
+   "type": "Canvas",
+   "width": 880,
+   "height": 886,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0675/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0675/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/674.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 880,
+        "height": 886,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Stillwater_gorge%2C_Watkins_Glen._On_the_line_of_the_Erie_railway%2C_by_Bierstadt%2C_Charles%2C_1819-1903_3.jpg/1920px-Stillwater_gorge%2C_Watkins_Glen._On_the_line_of_the_Erie_railway%2C_by_Bierstadt%2C_Charles%2C_1819-1903_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0675/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

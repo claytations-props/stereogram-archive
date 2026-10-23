@@ -1,0 +1,13 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0017.json",
+ "name": "Stereoscopic Illustrations of the Crystal Palace, at Sydenham. (20852018793)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/16.jpg",
+ "identifier": "STA-0017",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Sydenham, London"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Stereoscopic_Illustrations_of_the_Crystal_Palace,_at_Sydenham._(20852018793).jpg"
+}

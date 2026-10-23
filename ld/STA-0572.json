@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0572.json",
+ "name": "Horticultural Hall, Boston, by N. W. Kendall",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/571.jpg",
+ "identifier": "STA-0572",
+ "creator": {
+  "@type": "Person",
+  "name": "N. W. Kendall"
+ },
+ "dateCreated": "1859",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Horticultural_Hall,_Boston,_by_N._W._Kendall.jpg"
+}

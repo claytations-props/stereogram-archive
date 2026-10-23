@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0590.json",
+ "name": "Haymarket Square, Boston, Mass, by Moulton, John S., b. 1820 or 1",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/589.jpg",
+ "identifier": "STA-0590",
+ "creator": {
+  "@type": "Person",
+  "name": "Moulton, John S."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Haymarket_Square,_Boston,_Mass,_by_Moulton,_John_S.,_b._1820_or_1.jpg"
+}

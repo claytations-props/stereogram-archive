@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0432.json",
+ "name": "Gloucester harbor and East Gloucester, from Unitarian Church (NYPL b11707512-G90F236 033ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/431.jpg",
+ "identifier": "STA-0432",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gloucester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gloucester_harbor_and_East_Gloucester,_from_Unitarian_Church_(NYPL_b11707512-G90F236_033ZF).tiff"
+}

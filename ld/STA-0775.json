@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0775.json",
+ "name": "Refugees' camp, former dwelling in ruins in background. This is earthquake work (NYPL b11707478-G90F002 082F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/774.jpg",
+ "identifier": "STA-0775",
+ "dateCreated": "1906",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Refugees%27_camp,_former_dwelling_in_ruins_in_background._This_is_earthquake_work_(NYPL_b11707478-G90F002_082F).tiff"
+}

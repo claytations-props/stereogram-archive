@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0052.json",
+ "name": "1st N.Y., Bat. K, S.E. of Stannard's Column, Gettysburg, Pa",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/51.jpg",
+ "identifier": "STA-0052",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gettysburg, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:1st_N.Y.,_Bat._K,_S.E._of_Stannard%27s_Column,_Gettysburg,_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

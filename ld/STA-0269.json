@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0269.json",
+ "name": "Petrified stump from field where custer fell, by Woodward & Albee",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/268.jpg",
+ "identifier": "STA-0269",
+ "creator": {
+  "@type": "Person",
+  "name": "Woodward & Albee"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Petrified_stump_from_field_where_custer_fell,_by_Woodward_%26_Albee.png"
+}

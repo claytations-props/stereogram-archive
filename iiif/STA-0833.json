@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0833.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Summit House, after a frosty night, Mt. Washington, N.H, by Bierstadt Brothers 2"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Bierstadt Brothers"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1860"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Mount Washington, New Hampshire"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0833.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0833/canvas/1",
+   "type": "Canvas",
+   "width": 1280,
+   "height": 478,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0833/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0833/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/832.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1280,
+        "height": 478,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Summit_House%2C_after_a_frosty_night%2C_Mt._Washington%2C_N.H%2C_by_Bierstadt_Brothers_2.jpg/1920px-Summit_House%2C_after_a_frosty_night%2C_Mt._Washington%2C_N.H%2C_by_Bierstadt_Brothers_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0833/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

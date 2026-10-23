@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0891.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Damrak in Amsterdam Amsterdam, Damrak (titel op object) Stereoscopen-Gallerie (serietitel op object), RP-F-F11741"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1892–1902"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Amsterdam, Netherlands"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0891.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0891/canvas/1",
+   "type": "Canvas",
+   "width": 1360,
+   "height": 547,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0891/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0891/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/890.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1360,
+        "height": 547,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Damrak_in_Amsterdam_Amsterdam%2C_Damrak_%28titel_op_object%29_Stereoscopen-Gallerie_%28serietitel_op_object%29%2C_RP-F-F11741.jpg/1920px-Damrak_in_Amsterdam_Amsterdam%2C_Damrak_%28titel_op_object%29_Stereoscopen-Gallerie_%28serietitel_op_object%29%2C_RP-F-F11741.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0891/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

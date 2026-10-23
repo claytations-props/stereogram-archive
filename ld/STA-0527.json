@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0527.json",
+ "name": "South Dome from South Fork (NYPL b11707297-G89F373 024F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/526.jpg",
+ "identifier": "STA-0527",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:South_Dome_from_South_Fork_(NYPL_b11707297-G89F373_024F).tiff"
+}

@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0025.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "-Stereograph View of a Gas Balloon- MET DP74755"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "The Metropolitan Museum of Art"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1850s"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "United States"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0025.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0025/canvas/1",
+   "type": "Canvas",
+   "width": 1684,
+   "height": 878,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0025/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0025/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/24.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1684,
+        "height": 878,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/-Stereograph_View_of_a_Gas_Balloon-_MET_DP74755.jpg/1920px--Stereograph_View_of_a_Gas_Balloon-_MET_DP74755.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0025/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

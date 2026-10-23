@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0533.json",
+ "name": "Father of the Forest, circumference 112 feet at base, Mammoth Trees of Calaveras Co., Cal (NYPL b11707271-G89F329 010F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/532.jpg",
+ "identifier": "STA-0533",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Father_of_the_Forest,_circumference_112_feet_at_base,_Mammoth_Trees_of_Calaveras_Co.,_Cal_(NYPL_b11707271-G89F329_010F).tiff"
+}

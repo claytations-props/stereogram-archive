@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0061.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Sunset, vessel towing down Niagara River, by Pond, C. L. (Charles L.)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Pond, C. L. (Charles L.)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1865"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Niagara Falls, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0061.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0061/canvas/1",
+   "type": "Canvas",
+   "width": 1142,
+   "height": 602,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0061/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0061/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/60.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1142,
+        "height": 602,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Sunset%2C_vessel_towing_down_Niagara_River%2C_by_Pond%2C_C._L._%28Charles_L.%29.jpg/1920px-Sunset%2C_vessel_towing_down_Niagara_River%2C_by_Pond%2C_C._L._%28Charles_L.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0061/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

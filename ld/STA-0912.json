@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0912.json",
+ "name": "Minne-ha-ha--laughing water, by Zimmerman, Charles A., 1844-1909",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/911.jpg",
+ "identifier": "STA-0912",
+ "creator": {
+  "@type": "Person",
+  "name": "Zimmerman, Charles A."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minneapolis, Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Minne-ha-ha--laughing_water,_by_Zimmerman,_Charles_A.,_1844-1909.png"
+}

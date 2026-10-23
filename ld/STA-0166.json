@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0166.json",
+ "name": "Luna Island scenery. (Winter view, a group standing among ice covered trees.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/165.jpg",
+ "identifier": "STA-0166",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Niagara Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Luna_Island_scenery._(Winter_view,_a_group_standing_among_ice_covered_trees.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

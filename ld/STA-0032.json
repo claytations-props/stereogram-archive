@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0032.json",
+ "name": "Whirlpool Rapids, Niagara, by Barker, George, 1844-1894 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/31.jpg",
+ "identifier": "STA-0032",
+ "creator": {
+  "@type": "Person",
+  "name": "Barker, George"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Niagara Falls"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Whirlpool_Rapids,_Niagara,_by_Barker,_George,_1844-1894_2.jpg"
+}

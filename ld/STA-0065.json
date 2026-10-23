@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0065.json",
+ "name": "The Upper Yosemite Fall, Yosemite Valley, Mariposa County, Cal (NYPL b11707313-G89F391 011F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/64.jpg",
+ "identifier": "STA-0065",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yosemite, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Upper_Yosemite_Fall,_Yosemite_Valley,_Mariposa_County,_Cal_(NYPL_b11707313-G89F391_011F).tiff"
+}

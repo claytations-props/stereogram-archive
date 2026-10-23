@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0840.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Gezicht op het interieur van een synagoge in Parijs, Frankrijk Intérieur du temple israélite à Paris (titel op object), RP-F-F08426"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1856–1890"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Paris, France"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0840.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0840/canvas/1",
+   "type": "Canvas",
+   "width": 1136,
+   "height": 760,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0840/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0840/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/839.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1136,
+        "height": 760,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Gezicht_op_het_interieur_van_een_synagoge_in_Parijs%2C_Frankrijk_Int%C3%A9rieur_du_temple_isra%C3%A9lite_%C3%A0_Paris_%28titel_op_object%29%2C_RP-F-F08426.jpg/1920px-Gezicht_op_het_interieur_van_een_synagoge_in_Parijs%2C_Frankrijk_Int%C3%A9rieur_du_temple_isra%C3%A9lite_%C3%A0_Paris_%28titel_op_object%29%2C_RP-F-F08426.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0840/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

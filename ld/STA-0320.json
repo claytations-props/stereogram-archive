@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0320.json",
+ "name": "Water Gap from the rail road",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/319.jpg",
+ "identifier": "STA-0320",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Delaware Water Gap, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Water_Gap_from_the_rail_road,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

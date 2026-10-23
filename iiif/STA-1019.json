@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1019.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Gezicht op Schloss Thun Thun. Das schloss vom Rathausplatz aus gesehen (titel op object), RP-F-00-9086"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1906"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Switzerland"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1019.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1019/canvas/1",
+   "type": "Canvas",
+   "width": 1416,
+   "height": 655,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1019/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1019/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1018.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1416,
+        "height": 655,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Gezicht_op_Schloss_Thun_Thun._Das_schloss_vom_Rathausplatz_aus_gesehen_%28titel_op_object%29%2C_RP-F-00-9086.jpg/1920px-Gezicht_op_Schloss_Thun_Thun._Das_schloss_vom_Rathausplatz_aus_gesehen_%28titel_op_object%29%2C_RP-F-00-9086.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1019/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

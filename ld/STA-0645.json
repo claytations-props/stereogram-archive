@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0645.json",
+ "name": "U. States Hotel, Broadway, by Saratoga Photograph Co. 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/644.jpg",
+ "identifier": "STA-0645",
+ "creator": {
+  "@type": "Person",
+  "name": "Saratoga Photograph Co."
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:U._States_Hotel,_Broadway,_by_Saratoga_Photograph_Co._2.jpg"
+}

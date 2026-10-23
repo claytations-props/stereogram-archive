@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0134.json",
+ "name": "Explosion of an ammunition wagon during the Battle of Paardeberg, Boer War, World's Fair, St.Louis, U.S.A (NYPL b11707638-G90F442 032F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/133.jpg",
+ "identifier": "STA-0134",
+ "dateCreated": "1903",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "St. Louis, Missouri"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Explosion_of_an_ammunition_wagon_during_the_Battle_of_Paardeberg,_Boer_War,_World%27s_Fair,_St.Louis,_U.S.A_(NYPL_b11707638-G90F442_032F).tiff"
+}

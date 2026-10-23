@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1002.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Gezicht op de Untertorbrücke te Bern L'Ancien Pont à Berne, Suisse. (titel op object), RP-F-F08197"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1850"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Switzerland"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1002.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1002/canvas/1",
+   "type": "Canvas",
+   "width": 1340,
+   "height": 747,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1002/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1002/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1001.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1340,
+        "height": 747,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Gezicht_op_de_Untertorbr%C3%BCcke_te_Bern_L%27Ancien_Pont_%C3%A0_Berne%2C_Suisse._%28titel_op_object%29%2C_RP-F-F08197.jpg/1920px-Gezicht_op_de_Untertorbr%C3%BCcke_te_Bern_L%27Ancien_Pont_%C3%A0_Berne%2C_Suisse._%28titel_op_object%29%2C_RP-F-F08197.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1002/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

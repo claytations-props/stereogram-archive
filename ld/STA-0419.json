@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0419.json",
+ "name": "Rafe's chasm, Gloucester, Mass (NYPL b12535909-G90F235 095ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/418.jpg",
+ "identifier": "STA-0419",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gloucester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Rafe%27s_chasm,_Gloucester,_Mass_(NYPL_b12535909-G90F235_095ZF).tiff"
+}

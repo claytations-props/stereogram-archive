@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1052.json",
+ "name": "The flood at Worcester, March 30, 1876, by Edwin N. Peabody",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1051.jpg",
+ "identifier": "STA-1052",
+ "creator": {
+  "@type": "Person",
+  "name": "Edwin N. Peabody"
+ },
+ "dateCreated": "1876",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_flood_at_Worcester,_March_30,_1876,_by_Edwin_N._Peabody.jpg"
+}

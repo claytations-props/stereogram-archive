@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0318.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Water Gap, (Pa.) valley of the Delaware, by R. Newell & Sons"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "R. Newell & Sons"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1860"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Delaware Water Gap, Pennsylvania"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0318.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0318/canvas/1",
+   "type": "Canvas",
+   "width": 1406,
+   "height": 704,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0318/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0318/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/317.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1406,
+        "height": 704,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Water_Gap%2C_%28Pa.%29_valley_of_the_Delaware%2C_by_R._Newell_%26_Sons.png/1920px-Water_Gap%2C_%28Pa.%29_valley_of_the_Delaware%2C_by_R._Newell_%26_Sons.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0318/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0040.json",
+ "name": "Sacramento Street, from Powell Street, San Francisco, by Thomas Houseworth & Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/39.jpg",
+ "identifier": "STA-0040",
+ "creator": {
+  "@type": "Person",
+  "name": "Thomas Houseworth & Co."
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sacramento_Street,_from_Powell_Street,_San_Francisco,_by_Thomas_Houseworth_%26_Co..jpg"
+}

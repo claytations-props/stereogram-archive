@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0206.json",
+ "name": "Steamer at Thousand Island Park",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/205.jpg",
+ "identifier": "STA-0206",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Thousand Islands, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Steamer_at_Thousand_Island_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

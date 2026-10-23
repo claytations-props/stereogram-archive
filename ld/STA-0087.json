@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0087.json",
+ "name": "Pic Nic (picnic) at Dog Mountain, by E. L. Allen",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/86.jpg",
+ "identifier": "STA-0087",
+ "creator": {
+  "@type": "Person",
+  "name": "E. L. Allen"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mount Desert Island, Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Pic_Nic_(picnic)_at_Dog_Mountain,_by_E._L._Allen.jpg"
+}

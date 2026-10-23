@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0410.json",
+ "name": "Lake Champlain, near the Elbow, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/409.jpg",
+ "identifier": "STA-0410",
+ "creator": {
+  "@type": "Person",
+  "name": "Stoddard, Seneca Ray"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lake Champlain, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Lake_Champlain,_near_the_Elbow,_by_Stoddard,_Seneca_Ray,_1844-1917_,_1844-1917.jpg"
+}

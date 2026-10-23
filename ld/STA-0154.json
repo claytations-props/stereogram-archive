@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0154.json",
+ "name": "\"The Switzerland of America,\" from mountain road, by Gates, G. F. (George F.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/153.jpg",
+ "identifier": "STA-0154",
+ "creator": {
+  "@type": "Person",
+  "name": "Gates, G. F. (George F.)"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mauch Chunk, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:%22The_Switzerland_of_America,%22_from_mountain_road,_by_Gates,_G._F._(George_F.).jpg"
+}

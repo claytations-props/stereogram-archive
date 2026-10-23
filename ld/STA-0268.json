@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0268.json",
+ "name": "On the Lake Superior & Mississippi R.R, by Zimmerman, Charles A., 1844-1909",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/267.jpg",
+ "identifier": "STA-0268",
+ "creator": {
+  "@type": "Person",
+  "name": "Zimmerman, Charles A."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:On_the_Lake_Superior_%26_Mississippi_R.R,_by_Zimmerman,_Charles_A.,_1844-1909.jpg"
+}

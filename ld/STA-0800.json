@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0800.json",
+ "name": "Sunrise from Mt. Washington, N.H, by Bierstadt Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/799.jpg",
+ "identifier": "STA-0800",
+ "creator": {
+  "@type": "Person",
+  "name": "Bierstadt Brothers"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mount Washington, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sunrise_from_Mt._Washington,_N.H,_by_Bierstadt_Brothers.png"
+}

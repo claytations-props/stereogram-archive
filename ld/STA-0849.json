@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0849.json",
+ "name": "Gezicht op de Rue de Rivoli in Parijs Paris Animé (serietitel op object), RP-F-F05507",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/848.jpg",
+ "identifier": "STA-0849",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_Rue_de_Rivoli_in_Parijs_Paris_Anim%C3%A9_(serietitel_op_object),_RP-F-F05507.jpg"
+}

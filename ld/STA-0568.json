@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0568.json",
+ "name": "Park Street meeting house in Boston",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/567.jpg",
+ "identifier": "STA-0568",
+ "dateCreated": "1864",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Park_Street_meeting_house_in_Boston,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

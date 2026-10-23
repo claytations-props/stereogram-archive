@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0642.json",
+ "name": "Broadway, Saratoga, by Deloss Barnum",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/641.jpg",
+ "identifier": "STA-0642",
+ "creator": {
+  "@type": "Person",
+  "name": "Deloss Barnum"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Broadway,_Saratoga,_by_Deloss_Barnum.png"
+}

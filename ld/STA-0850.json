@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0850.json",
+ "name": "Monument voor François Boucher in de tuin van het Musée du Louvre te Parijs Paris Statue de Boucher (titel op object), RP-F-00-8923",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/849.jpg",
+ "identifier": "STA-0850",
+ "dateCreated": "1904",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Monument_voor_Fran%C3%A7ois_Boucher_in_de_tuin_van_het_Mus%C3%A9e_du_Louvre_te_Parijs_Paris_Statue_de_Boucher_(titel_op_object),_RP-F-00-8923.jpg"
+}

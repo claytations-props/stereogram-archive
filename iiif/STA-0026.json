@@ -1,0 +1,91 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0026.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "16648 - The Full Moon, Yerkes Observatory"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Yerkes Observatory, Wisconsin"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "No restrictions"
+    ]
+   }
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0026.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0026/canvas/1",
+   "type": "Canvas",
+   "width": 1182,
+   "height": 773,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0026/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0026/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/25.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1182,
+        "height": 773,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/16648_-_The_Full_Moon%2C_Yerkes_Observatory.jpg/1920px-16648_-_The_Full_Moon%2C_Yerkes_Observatory.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0026/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

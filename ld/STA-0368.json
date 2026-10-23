@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0368.json",
+ "name": "ST Blessing Moses Photographic Gallery NOLA",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/367.jpg",
+ "identifier": "STA-0368",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:ST_Blessing_Moses_Photographic_Gallery_NOLA.jpg"
+}

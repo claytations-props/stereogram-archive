@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0467.json",
+ "name": "The Avenue, by Guy & Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/466.jpg",
+ "identifier": "STA-0467",
+ "creator": {
+  "@type": "Person",
+  "name": "Guy & Brothers"
+ },
+ "dateCreated": "1859",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salem, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Avenue,_by_Guy_%26_Brothers.png"
+}

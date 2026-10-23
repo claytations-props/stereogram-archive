@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0894.json",
+ "name": "Gezicht op de bocht in Herengracht te Amsterdam, RP-F-2012-96-276",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/893.jpg",
+ "identifier": "STA-0894",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_bocht_in_Herengracht_te_Amsterdam,_RP-F-2012-96-276.jpg"
+}

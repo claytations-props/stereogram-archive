@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0888.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Mannen en vrouwen in zeventiende-eeuwse kleding, tentoonstelling Oud-Holland in 1897, Amsterdam, Nederland, RP-F-2000-12-31"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1897"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Amsterdam, Netherlands"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0888.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0888/canvas/1",
+   "type": "Canvas",
+   "width": 1086,
+   "height": 891,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0888/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0888/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/887.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1086,
+        "height": 891,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Mannen_en_vrouwen_in_zeventiende-eeuwse_kleding%2C_tentoonstelling_Oud-Holland_in_1897%2C_Amsterdam%2C_Nederland%2C_RP-F-2000-12-31.jpg/1920px-Mannen_en_vrouwen_in_zeventiende-eeuwse_kleding%2C_tentoonstelling_Oud-Holland_in_1897%2C_Amsterdam%2C_Nederland%2C_RP-F-2000-12-31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0888/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

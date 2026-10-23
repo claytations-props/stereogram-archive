@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0261.json",
+ "name": "View of a furniture store, by N. J. Trenham",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/260.jpg",
+ "identifier": "STA-0261",
+ "creator": {
+  "@type": "Person",
+  "name": "N. J. Trenham"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_furniture_store,_by_N._J._Trenham.jpg"
+}

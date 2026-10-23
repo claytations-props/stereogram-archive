@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0856.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Sculptuur van Antoine-Denis Chaudet in het Musée du Louvre te Parijs, voorstellende Amor Paris Louvre L'Amour de Chaudet (titel op object), RP-F-00-8869"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1904"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Paris, France"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0856.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0856/canvas/1",
+   "type": "Canvas",
+   "width": 1494,
+   "height": 476,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0856/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0856/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/855.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1494,
+        "height": 476,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Sculptuur_van_Antoine-Denis_Chaudet_in_het_Mus%C3%A9e_du_Louvre_te_Parijs%2C_voorstellende_Amor_Paris_Louvre_L%27Amour_de_Chaudet_%28titel_op_object%29%2C_RP-F-00-8869.jpg/1920px-Sculptuur_van_Antoine-Denis_Chaudet_in_het_Mus%C3%A9e_du_Louvre_te_Parijs%2C_voorstellende_Amor_Paris_Louvre_L%27Amour_de_Chaudet_%28titel_op_object%29%2C_RP-F-00-8869.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0856/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

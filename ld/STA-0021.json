@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0021.json",
+ "name": "Irish wake stereoscopic photograph",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/20.jpg",
+ "identifier": "STA-0021",
+ "dateCreated": "1894",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "United States"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Irish_wake_stereoscopic_photograph.jpg"
+}

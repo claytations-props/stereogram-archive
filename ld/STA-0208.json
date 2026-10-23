@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0208.json",
+ "name": "A Lonely lunch, Thousand Islands, Canada",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/207.jpg",
+ "identifier": "STA-0208",
+ "dateCreated": "1900",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Thousand Islands, Canada"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:A_Lonely_lunch,_Thousand_Islands,_Canada,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

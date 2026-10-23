@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0454.json",
+ "name": "View in Harmony Grove, by J.W. & J.S. Moulton",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/453.jpg",
+ "identifier": "STA-0454",
+ "creator": {
+  "@type": "Person",
+  "name": "J.W. & J.S. Moulton"
+ },
+ "dateCreated": "1859",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salem, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_in_Harmony_Grove,_by_J.W._%26_J.S._Moulton.png"
+}

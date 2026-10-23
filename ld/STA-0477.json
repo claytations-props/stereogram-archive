@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0477.json",
+ "name": "View of a tree-lined street, by C. A. Beckford",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/476.jpg",
+ "identifier": "STA-0477",
+ "creator": {
+  "@type": "Person",
+  "name": "C. A. Beckford"
+ },
+ "dateCreated": "1859",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salem, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_tree-lined_street,_by_C._A._Beckford.png"
+}

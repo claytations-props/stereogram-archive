@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0853.json",
+ "name": "Pont Louis-Philippe in Parijs, RP-F-2015-157",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/852.jpg",
+ "identifier": "STA-0853",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Pont_Louis-Philippe_in_Parijs,_RP-F-2015-157.jpg"
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0177.json",
+ "name": "Leadville, Colorado. General view looking west, by Gurnsey, B. H. (Byron H.), 1833-1880 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/176.jpg",
+ "identifier": "STA-0177",
+ "creator": {
+  "@type": "Person",
+  "name": "Gurnsey, B. H. (Byron H.)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Leadville, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Leadville,_Colorado._General_view_looking_west,_by_Gurnsey,_B._H._(Byron_H.),_1833-1880_2.jpg"
+}

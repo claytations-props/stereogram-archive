@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0526.json",
+ "name": "Yosemite Valley, California (NYPL b11707301-G89F377 027F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/525.jpg",
+ "identifier": "STA-0526",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yosemite, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Yosemite_Valley,_California_(NYPL_b11707301-G89F377_027F).tiff"
+}

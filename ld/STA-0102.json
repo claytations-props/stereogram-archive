@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0102.json",
+ "name": "In the Adirondack Mountain, by Continent Stereoscopic Company",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/101.jpg",
+ "identifier": "STA-0102",
+ "creator": {
+  "@type": "Person",
+  "name": "Continent Stereoscopic Company"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Adirondacks, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:In_the_Adirondack_Mountain,_by_Continent_Stereoscopic_Company.jpg"
+}

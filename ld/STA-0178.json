@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0178.json",
+ "name": "Shafts and mines \"Little Pittsburg\" and \"Little Chief.\", by Thurlow, J., 1831-1878",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/177.jpg",
+ "identifier": "STA-0178",
+ "creator": {
+  "@type": "Person",
+  "name": "Thurlow, J."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Leadville, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Shafts_and_mines_%22Little_Pittsburg%22_and_%22Little_Chief.%22,_by_Thurlow,_J.,_1831-1878.jpg"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1007.json",
+ "name": "Gezicht op de Pissevache-waterval Cascade de Pisse-Vache, a Vernayaz, pres Martigny (titel op object) La Suisse et la Savoie (serietitel), RP-F-F06447",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1006.jpg",
+ "identifier": "STA-1007",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_Pissevache-waterval_Cascade_de_Pisse-Vache,_a_Vernayaz,_pres_Martigny_(titel_op_object)_La_Suisse_et_la_Savoie_(serietitel),_RP-F-F06447.jpg"
+}

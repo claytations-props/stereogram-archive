@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0175.json",
+ "name": "Last snow of summer, Leadville, Aug. 31st, 1882, by W. O. Luke",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/174.jpg",
+ "identifier": "STA-0175",
+ "creator": {
+  "@type": "Person",
+  "name": "W. O. Luke"
+ },
+ "dateCreated": "1882",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Leadville, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Last_snow_of_summer,_Leadville,_Aug._31st,_1882,_by_W._O._Luke.png"
+}

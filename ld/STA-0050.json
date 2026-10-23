@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0050.json",
+ "name": "90th Penn. Inf., Reynold's Ave., Gettysburg, Pa",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/49.jpg",
+ "identifier": "STA-0050",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gettysburg, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:90th_Penn._Inf.,_Reynold%27s_Ave.,_Gettysburg,_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

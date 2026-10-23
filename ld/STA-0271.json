@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0271.json",
+ "name": "Street view, looking north, Moorhead, by F. A. Taylor",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/270.jpg",
+ "identifier": "STA-0271",
+ "creator": {
+  "@type": "Person",
+  "name": "F. A. Taylor"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Street_view,_looking_north,_Moorhead,_by_F._A._Taylor.jpg"
+}

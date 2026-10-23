@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1021.json",
+ "name": "Ingang van een kloof nabij Pfäfers, Zwitserland Entrée de la gorge de Pfaeffers (titel op object) Suisse (serietitel op object), RP-F-F07904",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1020.jpg",
+ "identifier": "STA-1021",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Ingang_van_een_kloof_nabij_Pf%C3%A4fers,_Zwitserland_Entr%C3%A9e_de_la_gorge_de_Pfaeffers_(titel_op_object)_Suisse_(serietitel_op_object),_RP-F-F07904.jpg"
+}

@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0395.json",
+ "name": "Grant and Perkins leather store in Galena, Illinois circa 1865",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/394.jpg",
+ "identifier": "STA-0395",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Galena, Illinois"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Grant_and_Perkins_leather_store_in_Galena,_Illinois_circa_1865.jpg"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0891.json",
+ "name": "Damrak in Amsterdam Amsterdam, Damrak (titel op object) Stereoscopen-Gallerie (serietitel op object), RP-F-F11741",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/890.jpg",
+ "identifier": "STA-0891",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Damrak_in_Amsterdam_Amsterdam,_Damrak_(titel_op_object)_Stereoscopen-Gallerie_(serietitel_op_object),_RP-F-F11741.jpg"
+}

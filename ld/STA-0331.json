@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0331.json",
+ "name": "View at the Delaware Water Gap, from the Pennsylvania shore, by E. & H.T. Anthony (Firm)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/330.jpg",
+ "identifier": "STA-0331",
+ "creator": {
+  "@type": "Person",
+  "name": "E. & H.T. Anthony (Firm)"
+ },
+ "dateCreated": "1860",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Delaware Water Gap, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_at_the_Delaware_Water_Gap,_from_the_Pennsylvania_shore,_by_E._%26_H.T._Anthony_(Firm).png"
+}

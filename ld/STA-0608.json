@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0608.json",
+ "name": "View on Indian River, Rockledge (NYPL b11707409-G90F133 041ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/607.jpg",
+ "identifier": "STA-0608",
+ "dateCreated": "1880",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Florida"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_on_Indian_River,_Rockledge_(NYPL_b11707409-G90F133_041ZF).tiff"
+}

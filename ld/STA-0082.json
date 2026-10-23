@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0082.json",
+ "name": "Vicksburg and the Heights, by A. L. Blanks",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/81.jpg",
+ "identifier": "STA-0082",
+ "creator": {
+  "@type": "Person",
+  "name": "A. L. Blanks"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Vicksburg, Mississippi"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Vicksburg_and_the_Heights,_by_A._L._Blanks.jpg"
+}

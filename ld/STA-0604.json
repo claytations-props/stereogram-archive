@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0604.json",
+ "name": "Alligator under trees draped with Spanish moss (NYPL b11707406-G90F130 040ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/603.jpg",
+ "identifier": "STA-0604",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Florida"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Alligator_under_trees_draped_with_Spanish_moss_(NYPL_b11707406-G90F130_040ZF).tiff"
+}

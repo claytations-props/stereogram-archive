@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0819.json",
+ "name": "Interior, Summit House, Mt. Washington, N.H. Feb. 11, by Weller, F. G. (Franklin G.),, 1833-1877",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/818.jpg",
+ "identifier": "STA-0819",
+ "creator": {
+  "@type": "Person",
+  "name": "Weller, F. G. (Franklin G.)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mount Washington, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Interior,_Summit_House,_Mt._Washington,_N.H._Feb._11,_by_Weller,_F._G._(Franklin_G.),,_1833-1877.jpg"
+}

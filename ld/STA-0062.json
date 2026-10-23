@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0062.json",
+ "name": "Rise of the Niagara River, Buffalo",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/61.jpg",
+ "identifier": "STA-0062",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Buffalo, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Rise_of_the_Niagara_River,_Buffalo,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

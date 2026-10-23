@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0863.json",
+ "name": "Gezicht op de Boulevard des Italiens te Parijs Paris Boulevard des Italiens (titel op object), RP-F-00-8934",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/862.jpg",
+ "identifier": "STA-0863",
+ "dateCreated": "1895",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_Boulevard_des_Italiens_te_Parijs_Paris_Boulevard_des_Italiens_(titel_op_object),_RP-F-00-8934.jpg"
+}

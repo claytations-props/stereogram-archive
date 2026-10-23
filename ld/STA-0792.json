@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0792.json",
+ "name": "True grit. Barber painting sign on tent (NYPL b11707478-G90F002 114F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/791.jpg",
+ "identifier": "STA-0792",
+ "dateCreated": "1906",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:True_grit._Barber_painting_sign_on_tent_(NYPL_b11707478-G90F002_114F).tiff"
+}

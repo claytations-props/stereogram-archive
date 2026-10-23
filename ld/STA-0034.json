@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0034.json",
+ "name": "El Capitan, 3600 ft. Yosemite, by Watkins, Carleton E., 1829-1916",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/33.jpg",
+ "identifier": "STA-0034",
+ "creator": {
+  "@type": "Person",
+  "name": "Watkins, Carleton E."
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yosemite Valley, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:El_Capitan,_3600_ft._Yosemite,_by_Watkins,_Carleton_E.,_1829-1916.jpg"
+}

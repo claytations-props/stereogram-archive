@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0783.json",
+ "name": "The earthquake ruptured pavement and fire wrecked mansions on Van Ness Ave., San Francisco (NYPL b11707375-G90F001 041F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/782.jpg",
+ "identifier": "STA-0783",
+ "dateCreated": "1906",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_earthquake_ruptured_pavement_and_fire_wrecked_mansions_on_Van_Ness_Ave.,_San_Francisco_(NYPL_b11707375-G90F001_041F).tiff"
+}

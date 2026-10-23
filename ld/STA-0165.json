@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0165.json",
+ "name": "People posing with train engine that derailed at bridge, by H. P. McIntosh 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/164.jpg",
+ "identifier": "STA-0165",
+ "creator": {
+  "@type": "Person",
+  "name": "H. P. McIntosh"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Newburyport, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:People_posing_with_train_engine_that_derailed_at_bridge,_by_H._P._McIntosh_2.jpg"
+}

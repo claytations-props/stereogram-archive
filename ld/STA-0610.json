@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0610.json",
+ "name": "Cocoanut (coconut) trees in the white sands of Florida, U.S.A (NYPL b11707397-G90F121 056F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/609.jpg",
+ "identifier": "STA-0610",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Florida"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cocoanut_(coconut)_trees_in_the_white_sands_of_Florida,_U.S.A_(NYPL_b11707397-G90F121_056F).tiff"
+}

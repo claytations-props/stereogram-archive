@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0287.json",
+ "name": "Oceanic House",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/286.jpg",
+ "identifier": "STA-0287",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Isles of Shoals, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Oceanic_House,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

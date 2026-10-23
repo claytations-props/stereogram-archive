@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0799.json",
+ "name": "View from Moulder School distributing station (NYPL b11707478-G90F002 129F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/798.jpg",
+ "identifier": "STA-0799",
+ "dateCreated": "1906",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_from_Moulder_School_distributing_station_(NYPL_b11707478-G90F002_129F).tiff"
+}

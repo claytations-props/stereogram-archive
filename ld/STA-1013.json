@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1013.json",
+ "name": "Gezicht op de Nationalquai te Luzern Luzern. Quai National (titel op object), RP-F-00-9071",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1012.jpg",
+ "identifier": "STA-1013",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_Nationalquai_te_Luzern_Luzern._Quai_National_(titel_op_object),_RP-F-00-9071.jpg"
+}

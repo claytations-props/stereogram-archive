@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0873.json",
+ "name": "Bezoekers bekijken de Staalmeesters in de Nachtwachtuitbouw, RMA-SSA-F-00678-1",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/872.jpg",
+ "identifier": "STA-0873",
+ "dateCreated": "1906",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bezoekers_bekijken_de_Staalmeesters_in_de_Nachtwachtuitbouw,_RMA-SSA-F-00678-1.jpg"
+}

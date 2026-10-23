@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0751.json",
+ "name": "Upper Silver Cascade, Crawford Notch, White Mts",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/750.jpg",
+ "identifier": "STA-0751",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Crawford Notch, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Upper_Silver_Cascade,_Crawford_Notch,_White_Mts,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

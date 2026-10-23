@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0014.json",
+ "name": "Parapet, Fort Sumter LOC 6056605761",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/13.jpg",
+ "identifier": "STA-0014",
+ "dateCreated": "1865",
+ "creditText": "Library of Congress",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Charleston, South Carolina"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Parapet,_Fort_Sumter_LOC_6056605761.jpg"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0842.json",
+ "name": "Man en vrouw zittend in interieur, RP-F-2016-52-1",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/841.jpg",
+ "identifier": "STA-0842",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Man_en_vrouw_zittend_in_interieur,_RP-F-2016-52-1.jpg"
+}

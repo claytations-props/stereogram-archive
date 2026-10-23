@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0469.json",
+ "name": "Classical and High school, by G. K. Proctor",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/468.jpg",
+ "identifier": "STA-0469",
+ "creator": {
+  "@type": "Person",
+  "name": "G. K. Proctor"
+ },
+ "dateCreated": "1859",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salem, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Classical_and_High_school,_by_G._K._Proctor.jpg"
+}

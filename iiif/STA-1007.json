@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1007.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Gezicht op de Pissevache-waterval Cascade de Pisse-Vache, a Vernayaz, pres Martigny (titel op object) La Suisse et la Savoie (serietitel), RP-F-F06447"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1860"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Switzerland"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1007.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1007/canvas/1",
+   "type": "Canvas",
+   "width": 1400,
+   "height": 772,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1007/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1007/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1006.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1400,
+        "height": 772,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Gezicht_op_de_Pissevache-waterval_Cascade_de_Pisse-Vache%2C_a_Vernayaz%2C_pres_Martigny_%28titel_op_object%29_La_Suisse_et_la_Savoie_%28serietitel%29%2C_RP-F-F06447.jpg/1920px-Gezicht_op_de_Pissevache-waterval_Cascade_de_Pisse-Vache%2C_a_Vernayaz%2C_pres_Martigny_%28titel_op_object%29_La_Suisse_et_la_Savoie_%28serietitel%29%2C_RP-F-F06447.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1007/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

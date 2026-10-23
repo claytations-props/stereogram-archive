@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0444.json",
+ "name": "Gloucester, Mass (NYPL b11707512-G90F236 032ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/443.jpg",
+ "identifier": "STA-0444",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gloucester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gloucester,_Mass_(NYPL_b11707512-G90F236_032ZF).tiff"
+}

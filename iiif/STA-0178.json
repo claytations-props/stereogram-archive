@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0178.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Shafts and mines \"Little Pittsburg\" and \"Little Chief.\", by Thurlow, J., 1831-1878"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Thurlow, J."
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "1831-1878"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Leadville, Colorado"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0178.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0178/canvas/1",
+   "type": "Canvas",
+   "width": 1232,
+   "height": 716,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0178/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0178/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/177.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1232,
+        "height": 716,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Shafts_and_mines_%22Little_Pittsburg%22_and_%22Little_Chief.%22%2C_by_Thurlow%2C_J.%2C_1831-1878.jpg/1920px-Shafts_and_mines_%22Little_Pittsburg%22_and_%22Little_Chief.%22%2C_by_Thurlow%2C_J.%2C_1831-1878.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0178/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

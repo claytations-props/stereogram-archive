@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0517.json",
+ "name": "The Original Big Tree; 250 feet from the stump, 335 feet long, Mammoth Grove, Calaveras County (NYPL b11707270-G89F328 077F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/516.jpg",
+ "identifier": "STA-0517",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Original_Big_Tree;_250_feet_from_the_stump,_335_feet_long,_Mammoth_Grove,_Calaveras_County_(NYPL_b11707270-G89F328_077F).tiff"
+}

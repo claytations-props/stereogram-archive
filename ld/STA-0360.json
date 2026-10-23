@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0360.json",
+ "name": "Str. Clinton, Sugar landing (NYPL b11707482-G90F204 038ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/359.jpg",
+ "identifier": "STA-0360",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Str._Clinton,_Sugar_landing_(NYPL_b11707482-G90F204_038ZF).tiff"
+}

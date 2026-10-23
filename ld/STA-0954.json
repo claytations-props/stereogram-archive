@@ -1,0 +1,13 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0954.json",
+ "name": "Eivindvik, ca. 1898-1906. (12609018823)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/953.jpg",
+ "identifier": "STA-0954",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Eivindvik,_ca._1898-1906._(12609018823).jpg"
+}

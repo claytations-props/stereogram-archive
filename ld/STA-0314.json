@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0314.json",
+ "name": "Water Gap, (Pa.) Delaware River, by R. Newell & Sons",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/313.jpg",
+ "identifier": "STA-0314",
+ "creator": {
+  "@type": "Person",
+  "name": "R. Newell & Sons"
+ },
+ "dateCreated": "1860",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Delaware Water Gap, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Water_Gap,_(Pa.)_Delaware_River,_by_R._Newell_%26_Sons.png"
+}

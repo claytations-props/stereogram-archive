@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0293.json",
+ "name": "South Gorge, Isles of Shoals, by Davis Brothers 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/292.jpg",
+ "identifier": "STA-0293",
+ "creator": {
+  "@type": "Person",
+  "name": "Davis Brothers"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Isles of Shoals, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:South_Gorge,_Isles_of_Shoals,_by_Davis_Brothers_2.jpg"
+}

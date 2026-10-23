@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0190.json",
+ "name": "Grounds front of Thousand Island House, by Webster & Albee",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/189.jpg",
+ "identifier": "STA-0190",
+ "creator": {
+  "@type": "Person",
+  "name": "Webster & Albee"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Thousand Islands, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Grounds_front_of_Thousand_Island_House,_by_Webster_%26_Albee.png"
+}

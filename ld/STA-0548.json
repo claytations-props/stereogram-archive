@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0548.json",
+ "name": "Bacon Street from Hill, Biddeford (NYPL b11707246-G89F280 014ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/547.jpg",
+ "identifier": "STA-0548",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bacon_Street_from_Hill,_Biddeford_(NYPL_b11707246-G89F280_014ZF).tiff"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0627.json",
+ "name": "Geyser Spring, from Robert N. Dennis collection of stereoscopic views 6",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/626.jpg",
+ "identifier": "STA-0627",
+ "dateCreated": "1869",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg"
+}

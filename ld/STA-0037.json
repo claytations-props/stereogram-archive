@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0037.json",
+ "name": "Clifford Calverly standing on one foot over the Whirlpool Rapids, Niagara, U.S.A (NYPL b11708197-G91F069 111F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/36.jpg",
+ "identifier": "STA-0037",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Niagara Falls"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Clifford_Calverly_standing_on_one_foot_over_the_Whirlpool_Rapids,_Niagara,_U.S.A_(NYPL_b11708197-G91F069_111F).tiff"
+}

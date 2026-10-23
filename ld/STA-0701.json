@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0701.json",
+ "name": "Profile House, from the Bridle Path, Franconia Notch, N.H (NYPL b11708043-G91F019 044F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/700.jpg",
+ "identifier": "STA-0701",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Franconia Notch, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Profile_House,_from_the_Bridle_Path,_Franconia_Notch,_N.H_(NYPL_b11708043-G91F019_044F).tiff"
+}

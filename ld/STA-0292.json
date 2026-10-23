@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0292.json",
+ "name": "Oceanic House, by Davis Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/291.jpg",
+ "identifier": "STA-0292",
+ "creator": {
+  "@type": "Person",
+  "name": "Davis Brothers"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Isles of Shoals, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Oceanic_House,_by_Davis_Brothers.png"
+}

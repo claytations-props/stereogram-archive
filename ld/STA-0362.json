@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0362.json",
+ "name": "When King Carnival reigns in the New Orleans Mardi Gras stereo card",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/361.jpg",
+ "identifier": "STA-0362",
+ "dateCreated": "1924",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:When_King_Carnival_reigns_in_the_New_Orleans_Mardi_Gras_stereo_card.jpg"
+}

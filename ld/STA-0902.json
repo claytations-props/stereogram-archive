@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0902.json",
+ "name": "Suspension bridge between St. Anthony and Minneapolis, by Upton, B. F. (Benjamin Franklin), 1818 or 1824-after 1901",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/901.jpg",
+ "identifier": "STA-0902",
+ "creator": {
+  "@type": "Person",
+  "name": "Upton, B. F. (Benjamin Franklin)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minneapolis, Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Suspension_bridge_between_St._Anthony_and_Minneapolis,_by_Upton,_B._F._(Benjamin_Franklin),_1818_or_1824-after_1901.png"
+}

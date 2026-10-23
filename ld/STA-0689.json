@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0689.json",
+ "name": "Mystic gorge, Watkins Glen, by Crum, R. D., fl. 1870-1879 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/688.jpg",
+ "identifier": "STA-0689",
+ "creator": {
+  "@type": "Person",
+  "name": "Crum, R. D., fl. 1870-1879 2"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Watkins Glen, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Mystic_gorge,_Watkins_Glen,_by_Crum,_R._D.,_fl._1870-1879_2.png"
+}

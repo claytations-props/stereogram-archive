@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0692.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Eagle Cliff, from Profile House, N.H, by Pease, N. W. (Nathan W.), 1836-1918"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Pease, N. W. (Nathan W.)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "1836-1918"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Franconia Notch, New Hampshire"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0692.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0692/canvas/1",
+   "type": "Canvas",
+   "width": 1506,
+   "height": 832,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0692/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0692/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/691.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1506,
+        "height": 832,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Eagle_Cliff%2C_from_Profile_House%2C_N.H%2C_by_Pease%2C_N._W._%28Nathan_W.%29%2C_1836-1918.png/1920px-Eagle_Cliff%2C_from_Profile_House%2C_N.H%2C_by_Pease%2C_N._W._%28Nathan_W.%29%2C_1836-1918.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0692/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

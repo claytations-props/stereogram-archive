@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0846.json",
+ "name": "Gezicht op het Hotel De La Paix te Parijs in aanbouw Hotel de la Paix, à Paris en Construction. Vue Instantanée (titel op object), RP-F-F05141",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/845.jpg",
+ "identifier": "STA-0846",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_het_Hotel_De_La_Paix_te_Parijs_in_aanbouw_Hotel_de_la_Paix,_%C3%A0_Paris_en_Construction._Vue_Instantan%C3%A9e_(titel_op_object),_RP-F-F05141.jpg"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1019.json",
+ "name": "Gezicht op Schloss Thun Thun. Das schloss vom Rathausplatz aus gesehen (titel op object), RP-F-00-9086",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1018.jpg",
+ "identifier": "STA-1019",
+ "dateCreated": "1906",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_Schloss_Thun_Thun._Das_schloss_vom_Rathausplatz_aus_gesehen_(titel_op_object),_RP-F-00-9086.jpg"
+}

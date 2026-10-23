@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0859.json",
+ "name": "Interieur van de Salon de Madame de Sévigné in het Hôtel de Sévigné te Parijs Paris. Hôtel de Sévigné, Salon de Mme. de Sévigné (titel op object), RP-F-00-8960",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/858.jpg",
+ "identifier": "STA-0859",
+ "dateCreated": "1903",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Interieur_van_de_Salon_de_Madame_de_S%C3%A9vign%C3%A9_in_het_H%C3%B4tel_de_S%C3%A9vign%C3%A9_te_Parijs_Paris._H%C3%B4tel_de_S%C3%A9vign%C3%A9,_Salon_de_Mme._de_S%C3%A9vign%C3%A9_(titel_op_object),_RP-F-00-8960.jpg"
+}

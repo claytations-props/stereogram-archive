@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0603.json",
+ "name": "View from front of Mr. Underwood's house (NYPL b11707404-G90F128 027ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/602.jpg",
+ "identifier": "STA-0603",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Florida"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_from_front_of_Mr._Underwood%27s_house_(NYPL_b11707404-G90F128_027ZF).tiff"
+}

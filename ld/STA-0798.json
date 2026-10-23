@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0798.json",
+ "name": "Looking northeast from Sutter and Jones",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/797.jpg",
+ "identifier": "STA-0798",
+ "dateCreated": "1906",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Looking_northeast_from_Sutter_and_Jones,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

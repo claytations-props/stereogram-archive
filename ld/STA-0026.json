@@ -1,0 +1,13 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0026.json",
+ "name": "16648 - The Full Moon, Yerkes Observatory",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/25.jpg",
+ "identifier": "STA-0026",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yerkes Observatory, Wisconsin"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:16648_-_The_Full_Moon,_Yerkes_Observatory.jpg"
+}

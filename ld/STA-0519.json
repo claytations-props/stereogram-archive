@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0519.json",
+ "name": "Chip of the Old Block, Original Big Tree (NYPL b11707262-G89F320 007F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/518.jpg",
+ "identifier": "STA-0519",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Chip_of_the_Old_Block,_Original_Big_Tree_(NYPL_b11707262-G89F320_007F).tiff"
+}

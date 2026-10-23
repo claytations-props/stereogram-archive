@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0587.json",
+ "name": "Ether Monument in Public Garden, Boston",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/586.jpg",
+ "identifier": "STA-0587",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Ether_Monument_in_Public_Garden,_Boston,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

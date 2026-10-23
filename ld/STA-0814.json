@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0814.json",
+ "name": "Tip Top House, Mt. Washington, N.H, by Bierstadt Brothers 13",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/813.jpg",
+ "identifier": "STA-0814",
+ "creator": {
+  "@type": "Person",
+  "name": "Bierstadt Brothers 13"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mount Washington, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Tip_Top_House,_Mt._Washington,_N.H,_by_Bierstadt_Brothers_13.png"
+}

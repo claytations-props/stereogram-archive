@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0226.json",
+ "name": "Auditorium on S.S.A. (Sunday School Assembly) Grounds, Chautauqua, by Walker, L. E., 1826-1916",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/225.jpg",
+ "identifier": "STA-0226",
+ "creator": {
+  "@type": "Person",
+  "name": "Walker, L. E."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chautauqua Lake, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Auditorium_on_S.S.A._(Sunday_School_Assembly)_Grounds,_Chautauqua,_by_Walker,_L._E.,_1826-1916.png"
+}

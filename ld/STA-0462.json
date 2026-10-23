@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0462.json",
+ "name": "Floating piers, Salem Neck, by Cousins, Frank, b. 1851",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/461.jpg",
+ "identifier": "STA-0462",
+ "creator": {
+  "@type": "Person",
+  "name": "Cousins, Frank"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salem, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Floating_piers,_Salem_Neck,_by_Cousins,_Frank,_b._1851.png"
+}

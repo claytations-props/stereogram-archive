@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0273.json",
+ "name": "Through the timber - northeast, by Cook J. C.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/272.jpg",
+ "identifier": "STA-0273",
+ "creator": {
+  "@type": "Person",
+  "name": "Cook J. C."
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Through_the_timber_-_northeast,_by_Cook_J._C..jpg"
+}

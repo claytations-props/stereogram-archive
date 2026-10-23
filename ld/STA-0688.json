@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0688.json",
+ "name": "Pluto falls, Watkins Glen, by Crum, R. D., fl. 1870-1879 4",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/687.jpg",
+ "identifier": "STA-0688",
+ "creator": {
+  "@type": "Person",
+  "name": "Crum, R. D., fl. 1870-1879 4"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Watkins Glen, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Pluto_falls,_Watkins_Glen,_by_Crum,_R._D.,_fl._1870-1879_4.jpg"
+}

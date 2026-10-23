@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0406.json",
+ "name": "Cumberland Head, Lake Champlain, by Styles, A. F. (Adin French), 1832-1910",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/405.jpg",
+ "identifier": "STA-0406",
+ "creator": {
+  "@type": "Person",
+  "name": "Styles, A. F. (Adin French)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lake Champlain, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cumberland_Head,_Lake_Champlain,_by_Styles,_A._F._(Adin_French),_1832-1910.jpg"
+}

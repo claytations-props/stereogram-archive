@@ -1,0 +1,128 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0773.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Great destruction brought by earthquake and fire, showing Temple Emanuel, San Francisco. Cal (NYPL b11707337-G89F415 010F)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "New York Public Library"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Collection"
+    ]
+   },
+   "value": {
+    "none": [
+     "Robert N. Dennis Collection of Stereoscopic Views"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "earthquake and fire, showing Temple Emanuel, San Francisco. Cal (NYPL b11707337-G89F415 010F)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1906"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "San Francisco, California"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0773.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0773/canvas/1",
+   "type": "Canvas",
+   "width": 1286,
+   "height": 407,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0773/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0773/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/772.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1286,
+        "height": 407,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Great_destruction_brought_by_earthquake_and_fire%2C_showing_Temple_Emanuel%2C_San_Francisco._Cal_%28NYPL_b11707337-G89F415_010F%29.tiff/lossy-page1-1920px-Great_destruction_brought_by_earthquake_and_fire%2C_showing_Temple_Emanuel%2C_San_Francisco._Cal_%28NYPL_b11707337-G89F415_010F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0773/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

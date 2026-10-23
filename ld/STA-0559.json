@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0559.json",
+ "name": "Boston water works, Sudbury River Conduit, 1876, Division III, Section 12, Fuller's Brook waste weir, by Barritt, William, b. ca. 1822",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/558.jpg",
+ "identifier": "STA-0559",
+ "creator": {
+  "@type": "Person",
+  "name": "Barritt, William, b. ca. 1822"
+ },
+ "dateCreated": "1876",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Boston_water_works,_Sudbury_River_Conduit,_1876,_Division_III,_Section_12,_Fuller%27s_Brook_waste_weir,_by_Barritt,_William,_b._ca._1822.jpg"
+}

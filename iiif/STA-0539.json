@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0539.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Nevada Falls (605 ft. high) and Cap of Liberty (1,800 ft. high), from Trail, looking East, Yosemite Valley, Cal (NYPL b11707318-G89F396 060F)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "New York Public Library"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Collection"
+    ]
+   },
+   "value": {
+    "none": [
+     "Robert N. Dennis Collection of Stereoscopic Views"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1893"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Yosemite, California"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0539.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0539/canvas/1",
+   "type": "Canvas",
+   "width": 1268,
+   "height": 852,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0539/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0539/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/538.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1268,
+        "height": 852,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Nevada_Falls_%28605_ft._high%29_and_Cap_of_Liberty_%281%2C800_ft._high%29%2C_from_Trail%2C_looking_East%2C_Yosemite_Valley%2C_Cal_%28NYPL_b11707318-G89F396_060F%29.tiff/lossy-page1-1920px-Nevada_Falls_%28605_ft._high%29_and_Cap_of_Liberty_%281%2C800_ft._high%29%2C_from_Trail%2C_looking_East%2C_Yosemite_Valley%2C_Cal_%28NYPL_b11707318-G89F396_060F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0539/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

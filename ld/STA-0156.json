@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0156.json",
+ "name": "The great Pyramid of Gizeh, a tomb of 5,000 years ago, from S.E. Egypt. (30623284582)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/155.jpg",
+ "identifier": "STA-0156",
+ "dateCreated": "1904",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Giza, Egypt"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_great_Pyramid_of_Gizeh,_a_tomb_of_5,000_years_ago,_from_S.E._Egypt._(30623284582).jpg"
+}

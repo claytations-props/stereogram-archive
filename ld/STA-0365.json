@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0365.json",
+ "name": "Canal Street New Orleans Traffic 1926 Stereo",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/364.jpg",
+ "identifier": "STA-0365",
+ "dateCreated": "1926",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Canal_Street_New_Orleans_Traffic_1926_Stereo.png"
+}

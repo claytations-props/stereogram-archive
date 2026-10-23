@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0542.json",
+ "name": "View showing dwelings and streets of Norway with a boy and girl in foreground (NYPL b11707241-G89F275 015F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/541.jpg",
+ "identifier": "STA-0542",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_showing_dwelings_and_streets_of_Norway_with_a_boy_and_girl_in_foreground_(NYPL_b11707241-G89F275_015F).tiff"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0141.json",
+ "name": "Baker's Rapids on the Hudson River (NYPL b11708209-G91F085 007F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/140.jpg",
+ "identifier": "STA-0141",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hudson River, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Baker%27s_Rapids_on_the_Hudson_River_(NYPL_b11708209-G91F085_007F).tiff"
+}

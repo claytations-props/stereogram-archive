@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0060.json",
+ "name": "A group of children, perhaps a school portrait, by S. S. Vose",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/59.jpg",
+ "identifier": "STA-0060",
+ "creator": {
+  "@type": "Person",
+  "name": "S. S. Vose"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:A_group_of_children,_perhaps_a_school_portrait,_by_S._S._Vose.jpg"
+}

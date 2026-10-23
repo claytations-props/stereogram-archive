@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0118.json",
+ "name": "The cradle of liberty, Faneuil Hall, scene of historic assemblies, Boston, Mass, by Underwood & Underwood",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/117.jpg",
+ "identifier": "STA-0118",
+ "creator": {
+  "@type": "Person",
+  "name": "Underwood & Underwood"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_cradle_of_liberty,_Faneuil_Hall,_scene_of_historic_assemblies,_Boston,_Mass,_by_Underwood_%26_Underwood.jpg"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0120.json",
+ "name": "The cradle of liberty, Faneuil Hall, scene of historic assemblies, Boston, Mass (NYPL b11707580-G90F350 047F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/119.jpg",
+ "identifier": "STA-0120",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_cradle_of_liberty,_Faneuil_Hall,_scene_of_historic_assemblies,_Boston,_Mass_(NYPL_b11707580-G90F350_047F).tiff"
+}

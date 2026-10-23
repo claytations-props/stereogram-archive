@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0869.json",
+ "name": "Gezicht op de graven op de Cimetière du Père-Lachaise te Parijs, anonymous, c. 1860 - c. 1885",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/868.jpg",
+ "identifier": "STA-0869",
+ "creditText": "Rijksmuseum",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_graven_op_de_Cimeti%C3%A8re_du_P%C3%A8re-Lachaise_te_Parijs,_anonymous,_c._1860_-_c._1885.jpg"
+}

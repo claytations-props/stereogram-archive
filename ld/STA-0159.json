@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0159.json",
+ "name": "Canal bridge. (Railroad bridge over the Erie Canal.) (NYPL b11707980-G91F126 020F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/158.jpg",
+ "identifier": "STA-0159",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lockport, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Canal_bridge._(Railroad_bridge_over_the_Erie_Canal.)_(NYPL_b11707980-G91F126_020F).tiff"
+}

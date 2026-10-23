@@ -1,0 +1,13 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0942.json",
+ "name": "413. - 15770. Laplanders Milking the Reindeer, Norway (37720959354)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/941.jpg",
+ "identifier": "STA-0942",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:413._-_15770._Laplanders_Milking_the_Reindeer,_Norway_(37720959354).jpg"
+}

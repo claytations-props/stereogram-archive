@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0063.json",
+ "name": "Niagara River above the Falls, moonlight, Niagara, by Barker, George, 1844-1894",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/62.jpg",
+ "identifier": "STA-0063",
+ "creator": {
+  "@type": "Person",
+  "name": "Barker, George"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Niagara Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Niagara_River_above_the_Falls,_moonlight,_Niagara,_by_Barker,_George,_1844-1894.png"
+}

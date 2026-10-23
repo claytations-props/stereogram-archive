@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0588.json",
+ "name": "Old feather store, built 1680",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/587.jpg",
+ "identifier": "STA-0588",
+ "dateCreated": "1859",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Old_feather_store,_built_1680,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

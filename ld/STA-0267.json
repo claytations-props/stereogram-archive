@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0267.json",
+ "name": "St. Paul's Episcopal church, Winona, by Hoard & Tenney",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/266.jpg",
+ "identifier": "STA-0267",
+ "creator": {
+  "@type": "Person",
+  "name": "Hoard & Tenney"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:St._Paul%27s_Episcopal_church,_Winona,_by_Hoard_%26_Tenney.jpg"
+}

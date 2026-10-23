@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0576.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Boston fire department rushing to the scene of duty, Boston, Mass, U.S.A, by Keystone View Company"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Publisher"
+    ]
+   },
+   "value": {
+    "none": [
+     "Keystone View Company"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Keystone View Company"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1859"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Boston, Massachusetts"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0576.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0576/canvas/1",
+   "type": "Canvas",
+   "width": 1512,
+   "height": 578,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0576/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0576/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/575.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1512,
+        "height": 578,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Boston_fire_department_rushing_to_the_scene_of_duty%2C_Boston%2C_Mass%2C_U.S.A%2C_by_Keystone_View_Company.jpg/1920px-Boston_fire_department_rushing_to_the_scene_of_duty%2C_Boston%2C_Mass%2C_U.S.A%2C_by_Keystone_View_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0576/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

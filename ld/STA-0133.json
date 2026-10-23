@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0133.json",
+ "name": "West Lagoon, World's Fair, St. Louis (NYPL b11707637-G90F441 012F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/132.jpg",
+ "identifier": "STA-0133",
+ "dateCreated": "1904",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "St. Louis, Missouri"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:West_Lagoon,_World%27s_Fair,_St._Louis_(NYPL_b11707637-G90F441_012F).tiff"
+}

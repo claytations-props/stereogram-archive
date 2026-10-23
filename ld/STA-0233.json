@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0233.json",
+ "name": "Our first crossing of an Alkali Valley, by Illingworth, W. H. (William H.), 1842-1893 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/232.jpg",
+ "identifier": "STA-0233",
+ "creator": {
+  "@type": "Person",
+  "name": "Illingworth, W. H. (William H.)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Black Hills, South Dakota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Our_first_crossing_of_an_Alkali_Valley,_by_Illingworth,_W._H._(William_H.),_1842-1893_2.png"
+}

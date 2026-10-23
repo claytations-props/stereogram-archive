@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0384.json",
+ "name": "Michigan (Avenue), north from Randolph, by P. B. Greene",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/383.jpg",
+ "identifier": "STA-0384",
+ "creator": {
+  "@type": "Person",
+  "name": "P. B. Greene"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chicago, Illinois"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Michigan_(Avenue),_north_from_Randolph,_by_P._B._Greene.png"
+}

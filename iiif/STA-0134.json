@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0134.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Explosion of an ammunition wagon during the Battle of Paardeberg, Boer War, World's Fair, St.Louis, U.S.A (NYPL b11707638-G90F442 032F)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "New York Public Library"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Collection"
+    ]
+   },
+   "value": {
+    "none": [
+     "Robert N. Dennis Collection of Stereoscopic Views"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1903"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "St. Louis, Missouri"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0134.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0134/canvas/1",
+   "type": "Canvas",
+   "width": 1412,
+   "height": 780,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0134/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0134/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/133.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1412,
+        "height": 780,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Explosion_of_an_ammunition_wagon_during_the_Battle_of_Paardeberg%2C_Boer_War%2C_World%27s_Fair%2C_St.Louis%2C_U.S.A_%28NYPL_b11707638-G90F442_032F%29.tiff/lossy-page1-1920px-Explosion_of_an_ammunition_wagon_during_the_Battle_of_Paardeberg%2C_Boer_War%2C_World%27s_Fair%2C_St.Louis%2C_U.S.A_%28NYPL_b11707638-G90F442_032F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0134/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

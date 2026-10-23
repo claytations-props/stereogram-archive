@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0585.json",
+ "name": "New Post Office building (NYPL b11707560-G90F300 037F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/584.jpg",
+ "identifier": "STA-0585",
+ "dateCreated": "1872",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:New_Post_Office_building_(NYPL_b11707560-G90F300_037F).tiff"
+}

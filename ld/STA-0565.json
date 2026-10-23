@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0565.json",
+ "name": "Congress block, from Robert N. Dennis collection of stereoscopic views 5",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/564.jpg",
+ "identifier": "STA-0565",
+ "dateCreated": "1872",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Congress_block,_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0172.json",
+ "name": "Ice tree, Luna Island, Niagara (NYPL b11708196-G91F067 002F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/171.jpg",
+ "identifier": "STA-0172",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Niagara Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Ice_tree,_Luna_Island,_Niagara_(NYPL_b11708196-G91F067_002F).tiff"
+}

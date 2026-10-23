@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1006.json",
+ "name": "Gezicht op Zürich, met op de voorgrond de Fraumünsterkerk Panorama de Zurich et l'Eglise du Fraumünster. Suisse. (titel op object), RP-F-F08108",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1005.jpg",
+ "identifier": "STA-1006",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_Z%C3%BCrich,_met_op_de_voorgrond_de_Fraum%C3%BCnsterkerk_Panorama_de_Zurich_et_l%27Eglise_du_Fraum%C3%BCnster._Suisse._(titel_op_object),_RP-F-F08108.jpg"
+}

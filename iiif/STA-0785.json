@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0785.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Refugees' camp in Jefferson Square (NYPL b11707478-G90F002 103F)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1906"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "San Francisco, California"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0785.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0785/canvas/1",
+   "type": "Canvas",
+   "width": 1322,
+   "height": 745,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0785/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0785/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/784.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1322,
+        "height": 745,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Refugees%27_camp_in_Jefferson_Square_%28NYPL_b11707478-G90F002_103F%29.tiff/lossy-page1-1920px-Refugees%27_camp_in_Jefferson_Square_%28NYPL_b11707478-G90F002_103F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0785/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

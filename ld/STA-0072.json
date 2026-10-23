@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0072.json",
+ "name": "Looking north on Broadway, \"The Great White Way,\" New York City (NYPL b11708037-G91F183 002F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/71.jpg",
+ "identifier": "STA-0072",
+ "dateCreated": "1925",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New York, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Looking_north_on_Broadway,_%22The_Great_White_Way,%22_New_York_City_(NYPL_b11708037-G91F183_002F).tiff"
+}

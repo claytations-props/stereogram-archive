@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0811.json",
+ "name": "Jacob's Ladder and Trestle Work, Mt. Washington",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/810.jpg",
+ "identifier": "STA-0811",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mount Washington, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Jacob%27s_Ladder_and_Trestle_Work,_Mt._Washington,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

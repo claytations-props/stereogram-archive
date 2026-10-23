@@ -1,0 +1,20 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0764.json",
+ "name": "The wreck of the beautiful St. Luke's Church on Van Ness Avenue, devastated by earthquake and fire (NYPL b11707375-G90F001 032F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/763.jpg",
+ "identifier": "STA-0764",
+ "creator": {
+  "@type": "Person",
+  "name": "earthquake and fire (NYPL b11707375-G90F001 032F)"
+ },
+ "dateCreated": "1906",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_wreck_of_the_beautiful_St._Luke%27s_Church_on_Van_Ness_Avenue,_devastated_by_earthquake_and_fire_(NYPL_b11707375-G90F001_032F).tiff"
+}

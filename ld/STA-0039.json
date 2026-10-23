@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0039.json",
+ "name": "Upper Cascades, Columbia River, by J. G. Crawford",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/38.jpg",
+ "identifier": "STA-0039",
+ "creator": {
+  "@type": "Person",
+  "name": "J. G. Crawford"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Columbia River"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Upper_Cascades,_Columbia_River,_by_J._G._Crawford.jpg"
+}

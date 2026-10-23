@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0649.json",
+ "name": "Entrance of Grand Union Hotel, Saratoga, N.Y",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/648.jpg",
+ "identifier": "STA-0649",
+ "dateCreated": "1869",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Entrance_of_Grand_Union_Hotel,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

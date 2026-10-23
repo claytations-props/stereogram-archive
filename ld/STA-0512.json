@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0512.json",
+ "name": "Miles Standish's pot & platter, by Kilburn Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/511.jpg",
+ "identifier": "STA-0512",
+ "creator": {
+  "@type": "Person",
+  "name": "Kilburn Brothers"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Plymouth, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Miles_Standish%27s_pot_%26_platter,_by_Kilburn_Brothers.jpg"
+}

@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0027.json",
+ "name": "Iceberg, showing curved snow bands, Cape Roberts, (1911) (6173967298)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/26.jpg",
+ "identifier": "STA-0027",
+ "dateCreated": "1911",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cape Roberts, Antarctica"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Iceberg,_showing_curved_snow_bands,_Cape_Roberts,_(1911)_(6173967298).jpg"
+}

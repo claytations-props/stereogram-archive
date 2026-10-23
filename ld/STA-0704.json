@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0704.json",
+ "name": "Boat House, Profile Lake (NYPL b11708055-G91F020 280ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/703.jpg",
+ "identifier": "STA-0704",
+ "dateCreated": "1876",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Franconia Notch, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Boat_House,_Profile_Lake_(NYPL_b11708055-G91F020_280ZF).tiff"
+}

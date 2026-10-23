@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0237.json",
+ "name": "Agnes Park, by Illingworth, W. H. (William H.), 1842-1893",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/236.jpg",
+ "identifier": "STA-0237",
+ "creator": {
+  "@type": "Person",
+  "name": "Illingworth, W. H. (William H.)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Black Hills, South Dakota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Agnes_Park,_by_Illingworth,_W._H._(William_H.),_1842-1893.png"
+}

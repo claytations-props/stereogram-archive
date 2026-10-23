@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0612.json",
+ "name": "Organ grinder, Saratoga, by Deloss Barnum",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/611.jpg",
+ "identifier": "STA-0612",
+ "creator": {
+  "@type": "Person",
+  "name": "Deloss Barnum"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Organ_grinder,_Saratoga,_by_Deloss_Barnum.png"
+}

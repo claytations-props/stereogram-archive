@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1053.json",
+ "name": "View of buildings on Southbridge street destroyed by explosion of a car of dualin on the Boston & Albany railroad, June 23, 1870",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1052.jpg",
+ "identifier": "STA-1053",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_buildings_on_Southbridge_street_destroyed_by_explosion_of_a_car_of_dualin_on_the_Boston_%26_Albany_railroad,_June_23,_1870,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0097.json",
+ "name": "New Year Picnic, Mission Creek, by Hayward & Muzzall",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/96.jpg",
+ "identifier": "STA-0097",
+ "creator": {
+  "@type": "Person",
+  "name": "Hayward & Muzzall"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Santa Barbara, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:New_Year_Picnic,_Mission_Creek,_by_Hayward_%26_Muzzall.png"
+}

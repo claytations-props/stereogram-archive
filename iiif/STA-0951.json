@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0951.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "1279. Hengefoss i Røken. Stereoskop - NB bldsa OTO0434 A"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1860"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Norway"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0951.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0951/canvas/1",
+   "type": "Canvas",
+   "width": 1676,
+   "height": 712,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0951/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0951/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/950.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1676,
+        "height": 712,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/1279._Hengefoss_i_R%C3%B8ken._Stereoskop_-_NB_bldsa_OTO0434_A.jpg/1920px-1279._Hengefoss_i_R%C3%B8ken._Stereoskop_-_NB_bldsa_OTO0434_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0951/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

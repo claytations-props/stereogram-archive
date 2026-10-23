@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0888.json",
+ "name": "Mannen en vrouwen in zeventiende-eeuwse kleding, tentoonstelling Oud-Holland in 1897, Amsterdam, Nederland, RP-F-2000-12-31",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/887.jpg",
+ "identifier": "STA-0888",
+ "dateCreated": "1897",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Mannen_en_vrouwen_in_zeventiende-eeuwse_kleding,_tentoonstelling_Oud-Holland_in_1897,_Amsterdam,_Nederland,_RP-F-2000-12-31.jpg"
+}

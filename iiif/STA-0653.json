@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0653.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Rainbow falls, Watkins Glen, New York, U.S.A, by Kilburn, B. W. (Benjamin West), 1827-1909"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Kilburn, B. W. (Benjamin West)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "1827-1909"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "New York, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0653.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0653/canvas/1",
+   "type": "Canvas",
+   "width": 1548,
+   "height": 897,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0653/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0653/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/652.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1548,
+        "height": 897,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Rainbow_falls%2C_Watkins_Glen%2C_New_York%2C_U.S.A%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.png/1920px-Rainbow_falls%2C_Watkins_Glen%2C_New_York%2C_U.S.A%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0653/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

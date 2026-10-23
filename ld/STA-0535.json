@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0535.json",
+ "name": "Young Mammoth Grape Vine (NYPL b11707286-G89F354 004F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/534.jpg",
+ "identifier": "STA-0535",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Young_Mammoth_Grape_Vine_(NYPL_b11707286-G89F354_004F).tiff"
+}

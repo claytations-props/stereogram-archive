@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0212.json",
+ "name": "Approach to Amphitheatre from Simpson Avenue, by Walker, L. E., 1826-1916",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/211.jpg",
+ "identifier": "STA-0212",
+ "creator": {
+  "@type": "Person",
+  "name": "Walker, L. E."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chautauqua Lake, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Approach_to_Amphitheatre_from_Simpson_Avenue,_by_Walker,_L._E.,_1826-1916.jpg"
+}

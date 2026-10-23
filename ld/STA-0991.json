@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0991.json",
+ "name": "Brooklyn Bridge, W.N.W. (west-northwest) from Brooklyn toward Manhattan, New York City (NYPL b11708026-G91F173 160F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/990.jpg",
+ "identifier": "STA-0991",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New York, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge,_W.N.W._(west-northwest)_from_Brooklyn_toward_Manhattan,_New_York_City_(NYPL_b11708026-G91F173_160F).tiff"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0460.json",
+ "name": "Old Witch House, Salem, Mass, by George P. Farrington 5",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/459.jpg",
+ "identifier": "STA-0460",
+ "creator": {
+  "@type": "Person",
+  "name": "George P. Farrington"
+ },
+ "dateCreated": "1859",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salem, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Old_Witch_House,_Salem,_Mass,_by_George_P._Farrington_5.png"
+}

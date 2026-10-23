@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0270.json",
+ "name": "Castle rock, by Upton, B. F. (Benjamin Franklin), 1818 or 1824-after 1901 3",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/269.jpg",
+ "identifier": "STA-0270",
+ "creator": {
+  "@type": "Person",
+  "name": "Upton, B. F. (Benjamin Franklin)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Castle_rock,_by_Upton,_B._F._(Benjamin_Franklin),_1818_or_1824-after_1901_3.png"
+}

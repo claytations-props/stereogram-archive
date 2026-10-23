@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0139.json",
+ "name": "Revolutionary relics, Metropolitan Fair, N.Y (NYPL b11708071-G91F217 002F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/138.jpg",
+ "identifier": "STA-0139",
+ "dateCreated": "1864",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New York, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Revolutionary_relics,_Metropolitan_Fair,_N.Y_(NYPL_b11708071-G91F217_002F).tiff"
+}

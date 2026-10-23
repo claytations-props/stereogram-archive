@@ -1,0 +1,20 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0101.json",
+ "name": "Flume, at the time of the flood, Oct. 1869. Franconia, N.H, by H. S. Fifield 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/100.jpg",
+ "identifier": "STA-0101",
+ "creator": {
+  "@type": "Person",
+  "name": "H. S. Fifield"
+ },
+ "dateCreated": "1869",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Franconia, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Flume,_at_the_time_of_the_flood,_Oct._1869._Franconia,_N.H,_by_H._S._Fifield_2.jpg"
+}

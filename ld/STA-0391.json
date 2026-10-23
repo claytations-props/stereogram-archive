@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0391.json",
+ "name": "State Street, south from Madison, the shopping street of Chicago",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/390.jpg",
+ "identifier": "STA-0391",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chicago, Illinois"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:State_Street,_south_from_Madison,_the_shopping_street_of_Chicago,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

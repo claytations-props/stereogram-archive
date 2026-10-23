@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0998.json",
+ "name": "Gezicht op Weggis Wiggis sur le Lac de Lucerne. Suisse. (1) (titel op object), RP-F-F08095",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/997.jpg",
+ "identifier": "STA-0998",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_Weggis_Wiggis_sur_le_Lac_de_Lucerne._Suisse._(1)_(titel_op_object),_RP-F-F08095.jpg"
+}

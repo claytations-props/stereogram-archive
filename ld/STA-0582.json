@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0582.json",
+ "name": "East portal, sec. 8, sta. 30978, by Barritt, William, b. ca. 1822",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/581.jpg",
+ "identifier": "STA-0582",
+ "creator": {
+  "@type": "Person",
+  "name": "Barritt, William, b. ca. 1822"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:East_portal,_sec._8,_sta._30978,_by_Barritt,_William,_b._ca._1822.png"
+}

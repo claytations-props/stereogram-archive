@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0997.json",
+ "name": "Gezicht op Teufen Le village de teufen, Canton Appenzell, Suisse (titel op object), RP-F-F08214",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/996.jpg",
+ "identifier": "STA-0997",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_Teufen_Le_village_de_teufen,_Canton_Appenzell,_Suisse_(titel_op_object),_RP-F-F08214.jpg"
+}

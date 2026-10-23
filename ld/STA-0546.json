@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0546.json",
+ "name": "View of a shipyard (NYPL b11707236-G89F253 030F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/545.jpg",
+ "identifier": "STA-0546",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_shipyard_(NYPL_b11707236-G89F253_030F).tiff"
+}

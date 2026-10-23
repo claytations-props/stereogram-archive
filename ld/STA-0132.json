@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0132.json",
+ "name": "View of an exhibition hall (NYPL b11708071-G91F217 019F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/131.jpg",
+ "identifier": "STA-0132",
+ "dateCreated": "1864",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New York, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_an_exhibition_hall_(NYPL_b11708071-G91F217_019F).tiff"
+}

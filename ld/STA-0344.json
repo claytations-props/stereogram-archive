@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0344.json",
+ "name": "New Orleans from Mississippi River 1934 stereo view",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/343.jpg",
+ "identifier": "STA-0344",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:New_Orleans_from_Mississippi_River_1934_stereo_view.png"
+}

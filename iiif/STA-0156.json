@@ -1,0 +1,91 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0156.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "The great Pyramid of Gizeh, a tomb of 5,000 years ago, from S.E. Egypt. (30623284582)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1904"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Giza, Egypt"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "No restrictions"
+    ]
+   }
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0156.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0156/canvas/1",
+   "type": "Canvas",
+   "width": 852,
+   "height": 483,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0156/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0156/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/155.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 852,
+        "height": 483,
+        "thumbnail": [
+         {
+          "id": "https://upload.wikimedia.org/wikipedia/commons/6/69/The_great_Pyramid_of_Gizeh%2C_a_tomb_of_5%2C000_years_ago%2C_from_S.E._Egypt._%2830623284582%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0156/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

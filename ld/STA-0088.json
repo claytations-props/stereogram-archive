@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0088.json",
+ "name": "View of a baseball game, Rochester, by Monroe, George H. --(Hibbard), 1851-1916",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/87.jpg",
+ "identifier": "STA-0088",
+ "creator": {
+  "@type": "Person",
+  "name": "Monroe, George H. --(Hibbard)"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Rochester, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_baseball_game,_Rochester,_by_Monroe,_George_H._--(Hibbard),_1851-1916.jpg"
+}

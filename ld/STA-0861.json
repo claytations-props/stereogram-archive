@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0861.json",
+ "name": "Kerk St. Germain l'Auxerrois, RP-F-F09492",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/860.jpg",
+ "identifier": "STA-0861",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Kerk_St._Germain_l%27Auxerrois,_RP-F-F09492.jpg"
+}

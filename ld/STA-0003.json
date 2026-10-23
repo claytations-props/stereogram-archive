@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0003.json",
+ "name": "Suspension Bridge, and Clifton House, Niagara Falls",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/02.jpg",
+ "identifier": "STA-0003",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Niagara Falls"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Suspension_Bridge,_and_Clifton_House,_Niagara_Falls,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

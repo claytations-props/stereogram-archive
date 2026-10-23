@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-0846.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Gezicht op het Hotel De La Paix te Parijs in aanbouw Hotel de la Paix, à Paris en Construction. Vue Instantanée (titel op object), RP-F-F05141"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1850"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Paris, France"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-0846.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-0846/canvas/1",
+   "type": "Canvas",
+   "width": 1264,
+   "height": 748,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-0846/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-0846/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/845.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1264,
+        "height": 748,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Gezicht_op_het_Hotel_De_La_Paix_te_Parijs_in_aanbouw_Hotel_de_la_Paix%2C_%C3%A0_Paris_en_Construction._Vue_Instantan%C3%A9e_%28titel_op_object%29%2C_RP-F-F05141.jpg/1920px-Gezicht_op_het_Hotel_De_La_Paix_te_Parijs_in_aanbouw_Hotel_de_la_Paix%2C_%C3%A0_Paris_en_Construction._Vue_Instantan%C3%A9e_%28titel_op_object%29%2C_RP-F-F05141.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-0846/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

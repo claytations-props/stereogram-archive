@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0525.json",
+ "name": "Cliff House, San Francisco, Cal. Seal Rocks in the distance (NYPL b11707327-G89F405 019F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/524.jpg",
+ "identifier": "STA-0525",
+ "dateCreated": "1869",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cliff_House,_San_Francisco,_Cal._Seal_Rocks_in_the_distance_(NYPL_b11707327-G89F405_019F).tiff"
+}

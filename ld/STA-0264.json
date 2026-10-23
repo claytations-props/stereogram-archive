@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0264.json",
+ "name": "View of a railroad bridge from below, by Gaylord & Thompson",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/263.jpg",
+ "identifier": "STA-0264",
+ "creator": {
+  "@type": "Person",
+  "name": "Gaylord & Thompson"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_railroad_bridge_from_below,_by_Gaylord_%26_Thompson.png"
+}

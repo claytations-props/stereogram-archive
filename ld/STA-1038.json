@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1038.json",
+ "name": "Cedar Street",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1037.jpg",
+ "identifier": "STA-1038",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cedar_Street,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

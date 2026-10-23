@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0660.json",
+ "name": "Watkins and Senca (Seneca) Lake, by Gates, G. F. (George F.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/659.jpg",
+ "identifier": "STA-0660",
+ "creator": {
+  "@type": "Person",
+  "name": "Gates, G. F. (George F.)"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Watkins Glen, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Watkins_and_Senca_(Seneca)_Lake,_by_Gates,_G._F._(George_F.).jpg"
+}

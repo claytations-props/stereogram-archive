@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0828.json",
+ "name": "Engine on Summit, Mt. Wash'n., N.H",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/827.jpg",
+ "identifier": "STA-0828",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mount Washington, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Engine_on_Summit,_Mt._Wash%27n.,_N.H,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

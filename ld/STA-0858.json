@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0858.json",
+ "name": "Gezicht op de Église Saint-Germain-l'Auxerrois te Parijs France au Stereoscope (serietitel), RP-F-F05161",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/857.jpg",
+ "identifier": "STA-0858",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Paris, France"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_%C3%89glise_Saint-Germain-l%27Auxerrois_te_Parijs_France_au_Stereoscope_(serietitel),_RP-F-F05161.jpg"
+}

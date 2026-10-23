@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1020.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Toegangsportaal van de Kathedraal van Fribourg Fribourg. Portail de la cathédrale (titel op object), RP-F-00-9059"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "Rijksmuseum"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1906"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Switzerland"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "CC0"
+    ]
+   }
+  }
+ ],
+ "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1020.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1020/canvas/1",
+   "type": "Canvas",
+   "width": 1414,
+   "height": 873,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1020/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1020/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1019.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1414,
+        "height": 873,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Toegangsportaal_van_de_Kathedraal_van_Fribourg_Fribourg._Portail_de_la_cath%C3%A9drale_%28titel_op_object%29%2C_RP-F-00-9059.jpg/1920px-Toegangsportaal_van_de_Kathedraal_van_Fribourg_Fribourg._Portail_de_la_cath%C3%A9drale_%28titel_op_object%29%2C_RP-F-00-9059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1020/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

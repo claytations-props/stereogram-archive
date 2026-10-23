@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0374.json",
+ "name": "JacksonSquareRiverwardsStereoWMChase",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/373.jpg",
+ "identifier": "STA-0374",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Orleans, Louisiana"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:JacksonSquareRiverwardsStereoWMChase.jpeg"
+}

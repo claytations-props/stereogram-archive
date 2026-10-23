@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0555.json",
+ "name": "Federal, from Pearl Street, looking north-east (NYPL b11707232-G89F237 019F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/554.jpg",
+ "identifier": "STA-0555",
+ "dateCreated": "1866",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Federal,_from_Pearl_Street,_looking_north-east_(NYPL_b11707232-G89F237_019F).tiff"
+}

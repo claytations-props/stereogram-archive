@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0910.json",
+ "name": "Fawn's leap, by W. Brown",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/909.jpg",
+ "identifier": "STA-0910",
+ "creator": {
+  "@type": "Person",
+  "name": "W. Brown"
+ },
+ "dateCreated": "1862",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Minneapolis, Minnesota"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Fawn%27s_leap,_by_W._Brown.jpg"
+}

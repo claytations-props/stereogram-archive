@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0305.json",
+ "name": "Oceanic Regatta, July 24, 1875, No. 3, by Hobbs, W. N. (William N.), 1830-1881",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/304.jpg",
+ "identifier": "STA-0305",
+ "creator": {
+  "@type": "Person",
+  "name": "Hobbs, W. N. (William N.)"
+ },
+ "dateCreated": "1875",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Isles of Shoals, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Oceanic_Regatta,_July_24,_1875,_No._3,_by_Hobbs,_W._N._(William_N.),_1830-1881.png"
+}

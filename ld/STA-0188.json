@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0188.json",
+ "name": "Pack train bound for the Dyer mine, by Martin, Alexander, d. 1929",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/187.jpg",
+ "identifier": "STA-0188",
+ "creator": {
+  "@type": "Person",
+  "name": "Martin, Alexander"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Leadville, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Pack_train_bound_for_the_Dyer_mine,_by_Martin,_Alexander,_d._1929.png"
+}

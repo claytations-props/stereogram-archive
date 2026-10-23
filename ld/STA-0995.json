@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0995.json",
+ "name": "Gezicht op Interlaken, met op de achtergrond de Jungfrau Panorama d'Interlaken et de la Jungfrau. Suisse. (titel op object), RP-F-F08046",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/994.jpg",
+ "identifier": "STA-0995",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_Interlaken,_met_op_de_achtergrond_de_Jungfrau_Panorama_d%27Interlaken_et_de_la_Jungfrau._Suisse._(titel_op_object),_RP-F-F08046.jpg"
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0385.json",
+ "name": "View from dome of city hall, looking N.E, by Carbutt, John, 1832-1905",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/384.jpg",
+ "identifier": "STA-0385",
+ "creator": {
+  "@type": "Person",
+  "name": "Carbutt, John"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chicago, Illinois"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_from_dome_of_city_hall,_looking_N.E,_by_Carbutt,_John,_1832-1905.jpg"
+}

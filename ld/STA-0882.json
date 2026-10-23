@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0882.json",
+ "name": "Gezicht op het interieur van het Paleis voor Volksvlijt in Amsterdam, RP-F-F11675",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/881.jpg",
+ "identifier": "STA-0882",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amsterdam, Netherlands"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_het_interieur_van_het_Paleis_voor_Volksvlijt_in_Amsterdam,_RP-F-F11675.jpg"
+}

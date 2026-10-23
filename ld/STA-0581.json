@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0581.json",
+ "name": "Sears building, Boston",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/580.jpg",
+ "identifier": "STA-0581",
+ "dateCreated": "1859",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sears_building,_Boston,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

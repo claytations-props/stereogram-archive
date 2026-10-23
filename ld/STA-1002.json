@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1002.json",
+ "name": "Gezicht op de Untertorbrücke te Bern L'Ancien Pont à Berne, Suisse. (titel op object), RP-F-F08197",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1001.jpg",
+ "identifier": "STA-1002",
+ "creditText": "Rijksmuseum",
+ "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Switzerland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_Untertorbr%C3%BCcke_te_Bern_L%27Ancien_Pont_%C3%A0_Berne,_Suisse._(titel_op_object),_RP-F-F08197.jpg"
+}

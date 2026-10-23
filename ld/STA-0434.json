@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0434.json",
+ "name": "Gardner K. Wonson's residence, Rocky Neck, by Procter Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/433.jpg",
+ "identifier": "STA-0434",
+ "creator": {
+  "@type": "Person",
+  "name": "Procter Brothers"
+ },
+ "dateCreated": "1858",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gloucester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gardner_K._Wonson%27s_residence,_Rocky_Neck,_by_Procter_Brothers.jpg"
+}

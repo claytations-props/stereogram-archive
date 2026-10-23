@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0179.json",
+ "name": "Prospectors crossing a stream, by Robert M. Davis",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/178.jpg",
+ "identifier": "STA-0179",
+ "creator": {
+  "@type": "Person",
+  "name": "Robert M. Davis"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Leadville, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Prospectors_crossing_a_stream,_by_Robert_M._Davis.png"
+}

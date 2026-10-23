@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0495.json",
+ "name": "Canopy over Plymouth Rock, by C. H. Rogers 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/494.jpg",
+ "identifier": "STA-0495",
+ "creator": {
+  "@type": "Person",
+  "name": "C. H. Rogers"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Plymouth, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Canopy_over_Plymouth_Rock,_by_C._H._Rogers_2.jpg"
+}

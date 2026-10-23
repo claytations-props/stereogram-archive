@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0722.json",
+ "name": "Mt. Cannon, Franconia (NYPL b11708043-G91F019 248F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/721.jpg",
+ "identifier": "STA-0722",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Franconia Notch, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Mt._Cannon,_Franconia_(NYPL_b11708043-G91F019_248F).tiff"
+}

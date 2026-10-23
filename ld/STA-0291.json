@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0291.json",
+ "name": "Near the Landing, Appledore Island, by Hobbs, W. N. (William N.), 1830-1881",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/290.jpg",
+ "identifier": "STA-0291",
+ "creator": {
+  "@type": "Person",
+  "name": "Hobbs, W. N. (William N.)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Isles of Shoals, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Near_the_Landing,_Appledore_Island,_by_Hobbs,_W._N._(William_N.),_1830-1881.png"
+}

@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0944.json",
+ "name": "Fra Bjørnstjerne Bjørnsons hjem, Aulestad stereofotografi - no-nb digifoto 20151202 00217 blds 07749",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/943.jpg",
+ "identifier": "STA-0944",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norway"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Fra_Bj%C3%B8rnstjerne_Bj%C3%B8rnsons_hjem,_Aulestad_stereofotografi_-_no-nb_digifoto_20151202_00217_blds_07749.jpg"
+}

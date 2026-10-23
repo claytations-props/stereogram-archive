@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0543.json",
+ "name": "Flock of sheep. Anson, Me (NYPL b11707243-G89F277 004F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/542.jpg",
+ "identifier": "STA-0543",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Flock_of_sheep._Anson,_Me_(NYPL_b11707243-G89F277_004F).tiff"
+}

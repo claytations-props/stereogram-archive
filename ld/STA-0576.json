@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0576.json",
+ "name": "Boston fire department rushing to the scene of duty, Boston, Mass, U.S.A, by Keystone View Company",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/575.jpg",
+ "identifier": "STA-0576",
+ "creator": {
+  "@type": "Person",
+  "name": "Keystone View Company"
+ },
+ "dateCreated": "1859",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Boston_fire_department_rushing_to_the_scene_of_duty,_Boston,_Mass,_U.S.A,_by_Keystone_View_Company.jpg"
+}

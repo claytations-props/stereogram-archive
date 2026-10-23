@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-0013.json",
+ "name": "James River, Va. Deck and turret of U.S.S. Monitor LOC 5597835373",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/12.jpg",
+ "identifier": "STA-0013",
+ "dateCreated": "1862",
+ "creditText": "Library of Congress",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "James River, Virginia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:James_River,_Va._Deck_and_turret_of_U.S.S._Monitor_LOC_5597835373.jpg"
+}
