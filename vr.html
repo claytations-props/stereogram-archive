@@ -640,7 +640,7 @@ const ROW_HITS=ROW_DEFS.map(([b])=>b.userData.hit);
 /* ---------- browse state: the finding aid and the shelf wall ---------- */
 const browseGroup=new THREE.Group();browseGroup.visible=false;scene.add(browseGroup);
 // set list panel, near-field at the left, angled toward the viewer
-const SET_ROW_Y0=108,SET_ROW_PITCH=48,SET_ROW_H=42,SET_HEAD_H=30,SET_CONTENT_BOTTOM=924;
+const SET_ROW_Y0=108,SET_ROW_PITCH=48,SET_ROW_H=42,SET_HEAD_H=30,SET_CONTENT_BOTTOM=836;
 let setPanelPage=0,setPanelRows=[],SET_PANEL_HITS=[];
 const setCanvas=document.createElement('canvas');setCanvas.width=512;setCanvas.height=1024;
 const setTex=new THREE.CanvasTexture(setCanvas);
@@ -659,6 +659,17 @@ setPanelGroup.add(setPanelMesh);
   const fb=ft.clone();fb.position.y=-0.65;setPanelGroup.add(fb);
   const fl=new THREE.Mesh(new THREE.BoxGeometry(0.05,1.35,0.045),MAT_WOOD);fl.position.set(-0.3375,0,-0.01);setPanelGroup.add(fl);
   const fr=fl.clone();fr.position.x=0.3375;setPanelGroup.add(fr);
+  // a soft pool of lamplight behind the cabinet (fix pass 2): a warm
+  // radial gradient on a plane a little larger than the frame, set
+  // behind the back board, so only a rim of glow escapes past the
+  // cabinet's silhouette and the panel reads as lit. The room
+  // itself stays as dim as it was; nothing else is brightened.
+  const haloCv=document.createElement('canvas');haloCv.width=haloCv.height=256;
+  const hg=haloCv.getContext('2d').createRadialGradient(128,128,8,128,128,128);
+  hg.addColorStop(0,'rgba(255,196,110,0.85)');hg.addColorStop(0.55,'rgba(255,180,95,0.30)');hg.addColorStop(1,'rgba(255,170,85,0)');
+  const hx=haloCv.getContext('2d');hx.fillStyle=hg;hx.fillRect(0,0,256,256);
+  const halo=new THREE.Mesh(new THREE.PlaneGeometry(0.92,1.58),new THREE.MeshBasicMaterial({map:new THREE.CanvasTexture(haloCv),transparent:true,opacity:0.42,blending:THREE.AdditiveBlending,depthWrite:false}));
+  halo.position.z=-0.055;setPanelGroup.add(halo);
 }
 setPanelGroup.visible=false;scene.add(setPanelGroup);
 const setHitGroup=new THREE.Group();setPanelGroup.add(setHitGroup);
@@ -717,29 +728,34 @@ function drawSetPanel(){
   const pageCount=layoutSetPanel();syncSetPanelHits();
   const c=setCanvas.getContext('2d');
   c.clearRect(0,0,512,1024);
-  c.fillStyle='rgba(12,10,7,0.80)';c.beginPath();c.roundRect(0,0,512,1024,24);c.fill();
-  c.strokeStyle='rgba(201,168,106,0.5)';c.lineWidth=2;c.beginPath();c.roundRect(6,6,500,1012,20);c.stroke();
+  // legibility pass (fix pass 2): the old panel was a translucent
+  // near-black (alpha 0.80) over dark wood, and in the dim room its
+  // grey-brass ink sank into it. The backing is now near-opaque and
+  // a touch warmer, the ink is brighter, and the type is a size up.
+  const bgGrad=c.createLinearGradient(0,0,0,1024);
+  bgGrad.addColorStop(0,'rgba(29,24,17,0.96)');bgGrad.addColorStop(1,'rgba(19,16,11,0.96)');
+  c.fillStyle=bgGrad;c.beginPath();c.roundRect(0,0,512,1024,24);c.fill();
+  c.strokeStyle='rgba(216,178,106,0.75)';c.lineWidth=2;c.beginPath();c.roundRect(6,6,500,1012,20);c.stroke();
   c.textAlign='left';c.textBaseline='alphabetic';
-  c.fillStyle='#c9a86a';c.font='700 25px Georgia,serif';c.fillText('THE FINDING AID',28,54);
-  c.fillStyle='#a89c86';c.font='20px Georgia,serif';c.fillText('Start, collections & series',28,84);
+  c.fillStyle='#e8c987';c.font='700 27px Georgia,serif';c.fillText('THE FINDING AID',28,54);
+  if(pageCount>1){c.font='19px Georgia,serif';c.fillStyle='#d8cbaa';c.textAlign='right';c.fillText('PAGE '+(setPanelPage+1)+' OF '+pageCount,484,54);c.textAlign='left';}
+  c.fillStyle='#d8cbaa';c.font='21px Georgia,serif';c.fillText('Start, collections & series',28,84);
   setPanelRows.forEach(row=>{
     if(row.type==='head'){
-      c.font='700 19px Georgia,serif';c.fillStyle='#c9a86a';c.fillText(row.label.toUpperCase(),28,row.y+20);
-      c.fillStyle='rgba(201,168,106,0.45)';c.fillRect(28,row.y+26,456,1);
+      c.font='700 21px Georgia,serif';c.fillStyle='#e8c987';c.fillText(row.label.toUpperCase(),28,row.y+22);
+      c.fillStyle='rgba(216,178,106,0.6)';c.fillRect(28,row.y+27,456,1);
       return;
     }
     const s=row.set,y=row.y;
-    if(curSet&&s.key===curSet.key){c.fillStyle='rgba(201,168,106,0.22)';c.beginPath();c.roundRect(14,y,484,SET_ROW_H,10);c.fill();}
-    c.font='25px Georgia,serif';c.fillStyle=(curSet&&s.key===curSet.key)?'#e8c987':'#ece5d8';
+    const isCur=curSet&&s.key===curSet.key;
+    if(isCur){c.fillStyle='rgba(216,178,106,0.28)';c.beginPath();c.roundRect(14,y,484,SET_ROW_H,10);c.fill();}
+    c.font=(isCur?'700 ':'')+'29px Georgia,serif';c.fillStyle=isCur?'#f7d774':'#f4eee1';
     let label=s.label;
-    while(label.length&&c.measureText(label).width>330)label=label.slice(0,-1);
+    while(label.length&&c.measureText(label).width>300)label=label.slice(0,-1);
     if(label!==s.label)label=label.trimEnd()+'\u2026';
-    c.fillText(label,28,y+30);
-    c.font='22px Georgia,serif';c.fillStyle='#a89c86';c.textAlign='right';c.fillText(String(s.indices.length),484,y+29);c.textAlign='left';
+    c.fillText(label,28,y+33);
+    c.font='25px Georgia,serif';c.fillStyle='#d8cbaa';c.textAlign='right';c.fillText(String(s.indices.length),484,y+32);c.textAlign='left';
   });
-  c.font='19px Georgia,serif';c.fillStyle='#a89c86';c.textAlign='center';
-  c.fillText(pageCount>1?('SET PANEL · PAGE '+(setPanelPage+1)+' OF '+pageCount):'ALL SETS',256,982);
-  c.textAlign='left';
   setTex.needsUpdate=true;
 }
 const setPagePrevBtn=arrowButton('\u2039','setPagePrev',{vis:.18,hitW:.27,hitH:.34});setPagePrevBtn.position.set(-0.17,-0.70,0.01);setPanelGroup.add(setPagePrevBtn);
