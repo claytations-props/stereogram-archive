@@ -290,20 +290,63 @@ const lensGlass=new THREE.Mesh(new THREE.CircleGeometry(0.024,20),lensGlassMat);
 lensGlass.position.set(0,0.42,-1.272);lensGlass.rotation.y=Math.PI;scene.add(lensGlass);
 const lensGlowMat=new THREE.SpriteMaterial({map:glowTex,color:0xffc37a,transparent:true,opacity:LENS_GLOW_PEAK,blending:THREE.AdditiveBlending,depthWrite:false});
 const lensGlow=new THREE.Sprite(lensGlowMat);lensGlow.scale.set(0.11,0.11,1);lensGlow.position.set(0,0.42,-1.285);scene.add(lensGlow);
-/* the beam: a whisper of a cone from the lens to the picture on the
-   wall — additive, very low opacity, ending AT the image plane so it
-   never washes the picture. It cuts with the projector shutter during
-   a slide change (setPhotoBrightness scales it) and is off in browse. */
+/* the beam: a rectangular frustum from the lens to the picture's
+   own edges. Clay's headset note (Oct 23): the old round cone was
+   distracting, and its circle overshot the picture. Now the far
+   ring IS the picture rect — the eye planes' own per-card rect
+   in the headset; on the flat page fitBeam() refits it to the
+   pair plane whenever sizePair runs — so the light stops at the
+   edges of the image, with no halo past them. Brightness is baked
+   into vertex colours and fades along the length (full at the
+   lens, 0.30 at the mid ring, zero at the wall — a (1-t)^2 falloff
+   in three rings), and the material peak is low: with additive
+   blending the wall end contributes nothing at all. It cuts with
+   the projector shutter during a slide change (setPhotoBrightness
+   scales it) and is off in browse. */
 const LENS_POS=new THREE.Vector3(0,0.42,-1.27);
-const BEAM_TARGET=new THREE.Vector3(0,1.5,-3.36);
-const BEAM_DIR=BEAM_TARGET.clone().sub(LENS_POS);const BEAM_LEN=BEAM_DIR.length();BEAM_DIR.normalize();
-const BEAM_R1=0.80;
-const beamMat=new THREE.MeshBasicMaterial({color:0xffdfae,transparent:true,opacity:0.05,blending:THREE.AdditiveBlending,side:THREE.DoubleSide,depthWrite:false,fog:false});
-const beamGeo=new THREE.CylinderGeometry(0.032,BEAM_R1,BEAM_LEN,24,1,true);beamGeo.translate(0,-BEAM_LEN/2,0);
-const beam=new THREE.Mesh(beamGeo,beamMat);
-beam.position.copy(LENS_POS);
-beam.quaternion.setFromUnitVectors(new THREE.Vector3(0,-1,0),BEAM_DIR);
-scene.add(beam);
+const PIC_C=new THREE.Vector3(0,1.5,-3.37); // the picture's centre on the wall
+const BEAM_PEAK=0.034;
+const beamMat=new THREE.MeshBasicMaterial({color:0xffffff,transparent:true,opacity:BEAM_PEAK,blending:THREE.AdditiveBlending,side:THREE.DoubleSide,depthWrite:false,fog:false,vertexColors:true});
+const beamGeo=new THREE.BufferGeometry();
+beamGeo.setAttribute('position',new THREE.BufferAttribute(new Float32Array(12*3),3));
+beamGeo.setAttribute('color',new THREE.BufferAttribute(new Float32Array(12*3),3));
+{
+  const idx=[];
+  for(let r=0;r<2;r++)for(let c=0;c<4;c++){
+    const a=r*4+c,b=r*4+(c+1)%4,d=(r+1)*4+c,e=(r+1)*4+(c+1)%4;
+    idx.push(a,d,b,b,d,e);
+  }
+  beamGeo.setIndex(idx);
+  const warm=[1.0,0.875,0.682],ringF=[1,0.30,0],col=beamGeo.attributes.color.array;
+  for(let r=0;r<3;r++)for(let c=0;c<4;c++){
+    const i=(r*4+c)*3;col[i]=warm[0]*ringF[r];col[i+1]=warm[1]*ringF[r];col[i+2]=warm[2]*ringF[r];
+  }
+}
+const beam=new THREE.Mesh(beamGeo,beamMat);beam.frustumCulled=false;scene.add(beam);
+function fillBeam(farW,farH){
+  const dir=PIC_C.clone().sub(LENS_POS);dir.normalize();
+  const right=new THREE.Vector3().crossVectors(dir,new THREE.Vector3(0,1,0)).normalize();
+  const upv=new THREE.Vector3().crossVectors(right,dir).normalize();
+  const pos=beamGeo.attributes.position.array;
+  const put=(ring,c,v)=>{const i=(ring*4+c)*3;pos[i]=v.x;pos[i+1]=v.y;pos[i+2]=v.z;};
+  const SIGNS=[[-1,-1],[1,-1],[1,1],[-1,1]];
+  for(let c=0;c<4;c++){
+    const sx=SIGNS[c][0],sy=SIGNS[c][1];
+    const n=LENS_POS.clone().addScaledVector(right,sx*0.030).addScaledVector(upv,sy*0.024);
+    const f=new THREE.Vector3(PIC_C.x+sx*farW/2,PIC_C.y+sy*farH/2,PIC_C.z+0.004);
+    put(0,c,n);put(1,c,n.clone().lerp(f,0.45));put(2,c,f);
+  }
+  beamGeo.attributes.position.needsUpdate=true;
+  beamGeo.computeBoundingSphere();
+}
+function fitBeam(){
+  // the picture being projected right now: in the headset the two
+  // co-located eye planes; on the flat page the pair plane at the
+  // size sizePair last gave it
+  if(renderer.xr.isPresenting){const e=leftPlane.geometry.parameters;fillBeam(e.width,e.height);return;}
+  const p=pairPlane.geometry.parameters;fillBeam(p.width,p.height);
+}
+fillBeam(1.34,1.22); // the headset picture, until fitBeam says otherwise
 
 /* ---------- dust: small motes floating through the whole room ----
    ONE Points cloud, ~300 motes spread through the room's whole
@@ -424,6 +467,7 @@ function sizePair(){
   const maxW=2*dist*tH*0.94,maxH=2*dist*tV*0.94;
   const pw=Math.min(1.35*pairAspect,2.4,maxW,maxH*pairAspect);
   pairPlane.geometry.dispose();pairPlane.geometry=new THREE.PlaneGeometry(pw,pw/pairAspect);
+  fitBeam(); // the beam's far ring tracks the flat picture's edges
 }
 
 // caption plaque (canvas texture). Source titles now run to 180+ characters,
@@ -1017,7 +1061,7 @@ function setPhotoBrightness(v){
   // the beam goes dark with the picture, and the lens glow dies —
   // then all of it comes back with the reveal (the room's dust is
   // just room air; it stays)
-  beamMat.opacity=0.05*v;
+  beamMat.opacity=BEAM_PEAK*v;
   if(uiState!=='browse')lensGlowMat.opacity=LENS_GLOW_PEAK*v;
   lensGlassMat.opacity=0.2+0.8*v;
 }
@@ -1093,6 +1137,7 @@ function applyVis(){
   recordBtn3d.visible=!browsing;
   recordGroup.visible=!browsing&&recordOn;
   const presenting=renderer.xr.isPresenting;
+  fitBeam(); // the beam's far ring is the picture's edges, in whichever mode is showing
   leftPlane.visible=rightPlane.visible=!browsing&&presenting;
   pairPlane.visible=!browsing&&!presenting&&cur>=0;
 }
