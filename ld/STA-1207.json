@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1207.json",
+ "name": "Cotton is king - A plantation scene, Georgia, by Underwood & Underwood 4",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1206.jpg",
+ "identifier": "STA-1207",
+ "creator": {
+  "@type": "Person",
+  "name": "Underwood & Underwood"
+ },
+ "dateCreated": "1895",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Georgia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cotton_is_king_-_A_plantation_scene,_Georgia,_by_Underwood_%26_Underwood_4.jpg"
+}

@@ -1,0 +1,20 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1066.json",
+ "name": "Scene in the Catskill Mountains, after a flood, by London Stereoscopic View Co. 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1065.jpg",
+ "identifier": "STA-1066",
+ "creator": {
+  "@type": "Person",
+  "name": "London Stereoscopic View Co."
+ },
+ "dateCreated": "1858",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Catskill Mountains"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Scene_in_the_Catskill_Mountains,_after_a_flood,_by_London_Stereoscopic_View_Co._2.jpg"
+}

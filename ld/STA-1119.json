@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1119.json",
+ "name": "French Minister's Residence, Washington D.C",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1118.jpg",
+ "identifier": "STA-1119",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Washington, D.C."
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:French_Minister%27s_Residence,_Washington_D.C,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

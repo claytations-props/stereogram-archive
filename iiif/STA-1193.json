@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1193.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Bert Elias Underwood, Underwood & Underwood, Series 1894, The Railway Station, Hanover, Germany. Front Side"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1894"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Hanover, Germany"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1193.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1193/canvas/1",
+   "type": "Canvas",
+   "width": 1544,
+   "height": 670,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1193/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1193/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1192.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1544,
+        "height": 670,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Bert_Elias_Underwood%2C_Underwood_%26_Underwood%2C_Series_1894%2C_The_Railway_Station%2C_Hanover%2C_Germany._Front_Side.jpg/1920px-Bert_Elias_Underwood%2C_Underwood_%26_Underwood%2C_Series_1894%2C_The_Railway_Station%2C_Hanover%2C_Germany._Front_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1193/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

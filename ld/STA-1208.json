@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1208.json",
+ "name": "Stereoscopic photograph of meditators at the Golden Temple complex, Amritsar, Underwood & Underwood, 1903",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1207.jpg",
+ "identifier": "STA-1208",
+ "dateCreated": "1903",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amritsar, India"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Stereoscopic_photograph_of_meditators_at_the_Golden_Temple_complex,_Amritsar,_Underwood_%26_Underwood,_1903.jpg"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1200.json",
+ "name": "Underwood & Underwood - The archaeological site at Epidaurus - Google Art Project",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1199.jpg",
+ "identifier": "STA-1200",
+ "dateCreated": "1897",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Epidaurus"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Underwood_%26_Underwood_-_The_archaeological_site_at_Epidaurus_-_Google_Art_Project.jpg"
+}

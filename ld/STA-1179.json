@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1179.json",
+ "name": "Stereoscopic views of the oil region of Pennsylvania and New York",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1178.jpg",
+ "identifier": "STA-1179",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New York, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Stereoscopic_views_of_the_oil_region_of_Pennsylvania_and_New_York,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

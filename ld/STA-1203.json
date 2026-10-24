@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1203.json",
+ "name": "United States Capitol, Washington, D.C, by Underwood & Underwood 4",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1202.jpg",
+ "identifier": "STA-1203",
+ "creator": {
+  "@type": "Person",
+  "name": "Underwood & Underwood"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Washington, D.C."
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:United_States_Capitol,_Washington,_D.C,_by_Underwood_%26_Underwood_4.jpg"
+}

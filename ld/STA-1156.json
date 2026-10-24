@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1156.json",
+ "name": "View of business district, Des Moines, Iowa",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1155.jpg",
+ "identifier": "STA-1156",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Des Moines, Iowa"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_business_district,_Des_Moines,_Iowa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

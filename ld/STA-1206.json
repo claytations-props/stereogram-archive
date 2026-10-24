@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1206.json",
+ "name": "Avenue of Palms, Los Angeles, California, by Underwood & Underwood 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1205.jpg",
+ "identifier": "STA-1206",
+ "creator": {
+  "@type": "Person",
+  "name": "Underwood & Underwood"
+ },
+ "dateCreated": "1898",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Los Angeles, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Avenue_of_Palms,_Los_Angeles,_California,_by_Underwood_%26_Underwood_2.jpg"
+}

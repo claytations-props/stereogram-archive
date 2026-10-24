@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1212.json",
+ "name": "American Falls from the Canadian side, Niagara, by Underwood & Underwood 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1211.jpg",
+ "identifier": "STA-1212",
+ "creator": {
+  "@type": "Person",
+  "name": "Underwood & Underwood"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Niagara Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:American_Falls_from_the_Canadian_side,_Niagara,_by_Underwood_%26_Underwood_2.jpg"
+}

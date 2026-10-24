@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1197.json",
+ "name": "Admiring tourists viewing the Falls, from Prospect Point, Niagara, U.S.A, by Underwood & Underwood 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1196.jpg",
+ "identifier": "STA-1197",
+ "creator": {
+  "@type": "Person",
+  "name": "Underwood & Underwood"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Niagara Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Admiring_tourists_viewing_the_Falls,_from_Prospect_Point,_Niagara,_U.S.A,_by_Underwood_%26_Underwood_2.jpg"
+}

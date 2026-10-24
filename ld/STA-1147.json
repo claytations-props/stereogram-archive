@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1147.json",
+ "name": "View of a railroad construction site, Davenport, Iowa",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1146.jpg",
+ "identifier": "STA-1147",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Davenport, Iowa"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_railroad_construction_site,_Davenport,_Iowa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

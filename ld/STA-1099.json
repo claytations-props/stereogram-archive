@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1099.json",
+ "name": "Mauch Chunk, Pa., north",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1098.jpg",
+ "identifier": "STA-1099",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mauch Chunk, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Mauch_Chunk,_Pa.,_north,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

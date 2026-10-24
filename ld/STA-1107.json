@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1107.json",
+ "name": "View from East Mauch Chunk, by M. A. Kleckner",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1106.jpg",
+ "identifier": "STA-1107",
+ "creator": {
+  "@type": "Person",
+  "name": "M. A. Kleckner"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mauch Chunk, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_from_East_Mauch_Chunk,_by_M._A._Kleckner.jpg"
+}

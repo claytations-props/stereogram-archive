@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1193.json",
+ "name": "Bert Elias Underwood, Underwood & Underwood, Series 1894, The Railway Station, Hanover, Germany. Front Side",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1192.jpg",
+ "identifier": "STA-1193",
+ "dateCreated": "1894",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hanover, Germany"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bert_Elias_Underwood,_Underwood_%26_Underwood,_Series_1894,_The_Railway_Station,_Hanover,_Germany._Front_Side.jpg"
+}

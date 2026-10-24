@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1211.json",
+ "name": "Sol's clock, Washington Park, Chicago, Ill. U.S.A, by Underwood & Underwood 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1210.jpg",
+ "identifier": "STA-1211",
+ "creator": {
+  "@type": "Person",
+  "name": "Underwood & Underwood"
+ },
+ "dateCreated": "1899",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chicago, Illinois"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sol%27s_clock,_Washington_Park,_Chicago,_Ill._U.S.A,_by_Underwood_%26_Underwood_2.jpg"
+}

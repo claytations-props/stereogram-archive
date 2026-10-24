@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1200.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Underwood & Underwood - The archaeological site at Epidaurus - Google Art Project"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1897"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Epidaurus"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1200.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1200/canvas/1",
+   "type": "Canvas",
+   "width": 1514,
+   "height": 912,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1200/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1200/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1199.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1514,
+        "height": 912,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Underwood_%26_Underwood_-_The_archaeological_site_at_Epidaurus_-_Google_Art_Project.jpg/1920px-Underwood_%26_Underwood_-_The_archaeological_site_at_Epidaurus_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1200/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

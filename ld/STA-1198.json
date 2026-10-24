@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1198.json",
+ "name": "Underwood Bamboo Avenue 1904",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1197.jpg",
+ "identifier": "STA-1198",
+ "dateCreated": "1904",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Japan"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Underwood_Bamboo_Avenue_1904.jpg"
+}

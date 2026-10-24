@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1195.json",
+ "name": "Giant hippopotamus, by Underwood & Underwood 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1194.jpg",
+ "identifier": "STA-1195",
+ "creator": {
+  "@type": "Person",
+  "name": "Underwood & Underwood"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Giant_hippopotamus,_by_Underwood_%26_Underwood_2.jpg"
+}

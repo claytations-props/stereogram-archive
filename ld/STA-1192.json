@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1192.json",
+ "name": "An eroded sentinel - survivor of the primeval flood, by Underwood & Underwood",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1191.jpg",
+ "identifier": "STA-1192",
+ "creator": {
+  "@type": "Person",
+  "name": "Underwood & Underwood"
+ },
+ "dateCreated": "1903",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Grand Canyon, Arizona"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:An_eroded_sentinel_-_survivor_of_the_primeval_flood,_by_Underwood_%26_Underwood.jpg"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1128.json",
+ "name": "Agricultural Grounds, Washington, D.C",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1127.jpg",
+ "identifier": "STA-1128",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Washington, D.C."
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Agricultural_Grounds,_Washington,_D.C,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

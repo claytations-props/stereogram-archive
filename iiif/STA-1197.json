@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1197.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Admiring tourists viewing the Falls, from Prospect Point, Niagara, U.S.A, by Underwood & Underwood 2"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Underwood & Underwood"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1895–1903"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Niagara Falls, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1197.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1197/canvas/1",
+   "type": "Canvas",
+   "width": 1572,
+   "height": 899,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1197/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1197/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1196.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1572,
+        "height": 899,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Admiring_tourists_viewing_the_Falls%2C_from_Prospect_Point%2C_Niagara%2C_U.S.A%2C_by_Underwood_%26_Underwood_2.jpg/1920px-Admiring_tourists_viewing_the_Falls%2C_from_Prospect_Point%2C_Niagara%2C_U.S.A%2C_by_Underwood_%26_Underwood_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1197/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

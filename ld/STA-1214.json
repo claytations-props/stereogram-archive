@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1214.json",
+ "name": "Bridge over Mississippi, St. Louis, Mo, by Underwood & Underwood 3",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1213.jpg",
+ "identifier": "STA-1214",
+ "creator": {
+  "@type": "Person",
+  "name": "Underwood & Underwood"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "St. Louis, Missouri"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bridge_over_Mississippi,_St._Louis,_Mo,_by_Underwood_%26_Underwood_3.jpg"
+}

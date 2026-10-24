@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1168.json",
+ "name": "Court House and soldier's moument in Muscatine, Iowa",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1167.jpg",
+ "identifier": "STA-1168",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Muscatine, Iowa"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Court_House_and_soldier%27s_moument_in_Muscatine,_Iowa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

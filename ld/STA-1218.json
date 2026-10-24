@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1218.json",
+ "name": "Wawona, as we drove through it, Mariposa Grove, California, by Underwood & Underwood 3",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1217.jpg",
+ "identifier": "STA-1218",
+ "creator": {
+  "@type": "Person",
+  "name": "Underwood & Underwood"
+ },
+ "dateCreated": "1902",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mariposa Grove, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Wawona,_as_we_drove_through_it,_Mariposa_Grove,_California,_by_Underwood_%26_Underwood_3.jpg"
+}

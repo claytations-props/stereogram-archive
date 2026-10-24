@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1196.json",
+ "name": "Mirror view of the majestic Cathedral Rocks, looking W.S.W.down the Valley, Cal, by Underwood & Underwood 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1195.jpg",
+ "identifier": "STA-1196",
+ "creator": {
+  "@type": "Person",
+  "name": "Underwood & Underwood"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yosemite, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Mirror_view_of_the_majestic_Cathedral_Rocks,_looking_W.S.W.down_the_Valley,_Cal,_by_Underwood_%26_Underwood_2.jpg"
+}

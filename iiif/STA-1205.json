@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1205.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Avenue of Palms, Los Angeles, California, by Underwood & Underwood 3"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Underwood & Underwood"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1898"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Los Angeles, California"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1205.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1205/canvas/1",
+   "type": "Canvas",
+   "width": 1360,
+   "height": 641,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1205/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1205/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1204.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1360,
+        "height": 641,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Avenue_of_Palms%2C_Los_Angeles%2C_California%2C_by_Underwood_%26_Underwood_3.jpg/1920px-Avenue_of_Palms%2C_Los_Angeles%2C_California%2C_by_Underwood_%26_Underwood_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1205/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

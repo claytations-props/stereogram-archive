@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1162.json",
+ "name": "Sioux City, Iowa. ca. 1873",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1161.jpg",
+ "identifier": "STA-1162",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Sioux City, Iowa"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sioux_City,_Iowa._ca._1873,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

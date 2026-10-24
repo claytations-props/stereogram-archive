@@ -1,0 +1,11 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1194.json",
+ "name": "Davelis-Underwood 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1193.jpg",
+ "identifier": "STA-1194",
+ "dateCreated": "1897",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Davelis-Underwood_2.png"
+}

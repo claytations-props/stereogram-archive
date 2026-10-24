@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1171.json",
+ "name": "Post office, Smithfield Street, Pittsburg, Pennsylvania",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1170.jpg",
+ "identifier": "STA-1171",
+ "dateCreated": "1868",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pittsburg, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Post_office,_Smithfield_Street,_Pittsburg,_Pennsylvania,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

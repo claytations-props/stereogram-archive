@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>1053</quantity>
+    <quantity>1218</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -1426,6 +1426,134 @@
       <unittitle>View of a river valley and farms near Hubbardston</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1031.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1059">
+     <did>
+      <unitid>STA-1059</unitid>
+      <unittitle>Kauterskill Fall, Catskill Mountains, by London Stereoscopic View Co.</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1058.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1063">
+     <did>
+      <unitid>STA-1063</unitid>
+      <unittitle>Falls of the Kauterskill, Catskill Mountains, by London Stereoscopic View Co.</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1062.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1069">
+     <did>
+      <unitid>STA-1069</unitid>
+      <unittitle>South Lake, Catskill Mountains</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1068.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1076">
+     <did>
+      <unitid>STA-1076</unitid>
+      <unittitle>Falls in Catskill Mountains, N.Y. U, S. A, by Keystone View Company</unittitle>
+      <unitdate normal="1885/1895">c. 1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1075.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1098">
+     <did>
+      <unitid>STA-1098</unitid>
+      <unittitle>Canal lock, East Mauch Chunk in the distance</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1097.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1144">
+     <did>
+      <unitid>STA-1144</unitid>
+      <unittitle>Iowa River near Iowa Falls</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1143.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1146">
+     <did>
+      <unitid>STA-1146</unitid>
+      <unittitle>View of the waterfront with railroad cars. (Muscatine, Iowa?)</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1145.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1152">
+     <did>
+      <unitid>STA-1152</unitid>
+      <unittitle>View of some houses with the river in background. (Muscatine, Iowa?</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1151.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1180">
+     <did>
+      <unitid>STA-1180</unitid>
+      <unittitle>Stereoscopic views of Catawissa Creek, Pennsylvania</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1179.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1181">
+     <did>
+      <unitid>STA-1181</unitid>
+      <unittitle>Delaware Water Gap, Pennsylvania, by Continent Stereoscopic Company</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1180.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1187">
+     <did>
+      <unitid>STA-1187</unitid>
+      <unittitle>Scene on Oil Creek, Pennsylvania</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1186.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1189">
+     <did>
+      <unitid>STA-1189</unitid>
+      <unittitle>On the Schuylkil (Schuylkill), Pennsylvania</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1188.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1190">
+     <did>
+      <unitid>STA-1190</unitid>
+      <unittitle>Early morning on the Juniata, Pennsylvania</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1189.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1197">
+     <did>
+      <unitid>STA-1197</unitid>
+      <unittitle>Admiring tourists viewing the Falls, from Prospect Point, Niagara, U.S.A, by Underwood &amp; Underwood 2</unittitle>
+      <unitdate normal="1895/1903">1895–1903</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1196.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1212">
+     <did>
+      <unitid>STA-1212</unitid>
+      <unittitle>American Falls from the Canadian side, Niagara, by Underwood &amp; Underwood 2</unittitle>
+      <unitdate normal="1895/1903">1895–1903</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1211.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1213">
+     <did>
+      <unitid>STA-1213</unitid>
+      <unittitle>General View from Suspension Bridge, Niagara Falls, U.S.A, by Underwood &amp; Underwood</unittitle>
+      <unitdate normal="1894">1894</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1212.jpg"/>
      </did>
     </c>
    </c>
@@ -2943,6 +3071,230 @@
       <unittitle>Brug over de Linth Vue dans la Vallée de la Linth, Canton de Glarus. Suisse. (titel op object), RP-F-F08117</unittitle>
       <unitdate normal="1845/1855">c. 1850</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1022.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1054">
+     <did>
+      <unitid>STA-1054</unitid>
+      <unittitle>Crystal Cascade, Catskill Mountains, by London Stereoscopic View Co. 2</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1053.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1055">
+     <did>
+      <unitid>STA-1055</unitid>
+      <unittitle>Crystal Cascade, Catskill Mountains, by London Stereoscopic View Co.</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1054.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1056">
+     <did>
+      <unitid>STA-1056</unitid>
+      <unittitle>Split Rock, Catskill Mountains, by London Stereoscopic View Co.</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1055.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1057">
+     <did>
+      <unitid>STA-1057</unitid>
+      <unittitle>View in the Kauterskill Glen, Catskill Mountains, by London Stereoscopic View Co. 2</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1056.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1058">
+     <did>
+      <unitid>STA-1058</unitid>
+      <unittitle>Plauterkill Gap, Catskill Mountains, by London Stereoscopic View Co.</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1057.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1060">
+     <did>
+      <unitid>STA-1060</unitid>
+      <unittitle>Scene in the Plauterkill Gorge, Catskill Mountains, by London Stereoscopic View Co.</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1059.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1061">
+     <did>
+      <unitid>STA-1061</unitid>
+      <unittitle>View in the Kauterskill Glen, Catskill Mountains, by London Stereoscopic View Co.</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1060.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1062">
+     <did>
+      <unitid>STA-1062</unitid>
+      <unittitle>View in the Kauterskill Glove, Catskill Mountains, by London Stereoscopic View Co.</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1061.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1064">
+     <did>
+      <unitid>STA-1064</unitid>
+      <unittitle>Scene in the Catskill Mountains, after a flood, by London Stereoscopic View Co.</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1063.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1065">
+     <did>
+      <unitid>STA-1065</unitid>
+      <unittitle>View in the Kauterskill Glove, Catskill Mountains, by London Stereoscopic View Co. 2</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1064.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1066">
+     <did>
+      <unitid>STA-1066</unitid>
+      <unittitle>Scene in the Catskill Mountains, after a flood, by London Stereoscopic View Co. 2</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1065.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1067">
+     <did>
+      <unitid>STA-1067</unitid>
+      <unittitle>Laurel House, Catskill Mountains</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1066.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1068">
+     <did>
+      <unitid>STA-1068</unitid>
+      <unittitle>Camp Malcher, Catskill Mountains</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1067.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1070">
+     <did>
+      <unitid>STA-1070</unitid>
+      <unittitle>Mount Pleasant, Catskill Mountains</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1069.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1071">
+     <did>
+      <unitid>STA-1071</unitid>
+      <unittitle>Winter scene in the Catskill Mountains</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1070.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1072">
+     <did>
+      <unitid>STA-1072</unitid>
+      <unittitle>Kauterskill Chasm, Catskill Mountain, by London Stereoscopic View Co.</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1071.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1073">
+     <did>
+      <unitid>STA-1073</unitid>
+      <unittitle>Cascade on the Kauterskill (Kaaterskill), Catskill Mountains</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1072.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1074">
+     <did>
+      <unitid>STA-1074</unitid>
+      <unittitle>Mount Pleasant, Catskill Mountains, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1073.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1075">
+     <did>
+      <unitid>STA-1075</unitid>
+      <unittitle>Catskill Mountain House and Lodge</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1074.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1077">
+     <did>
+      <unitid>STA-1077</unitid>
+      <unittitle>Catskill Mountain, Glen Mary</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1076.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1078">
+     <did>
+      <unitid>STA-1078</unitid>
+      <unittitle>Catskill Mountain, Haines' Gorge</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1077.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1079">
+     <did>
+      <unitid>STA-1079</unitid>
+      <unittitle>Mountain scene on the Catskills, by London Stereoscopic View Co.</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1078.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1105">
+     <did>
+      <unitid>STA-1105</unitid>
+      <unittitle>Mauch Chunk Narrows</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1104.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1106">
+     <did>
+      <unitid>STA-1106</unitid>
+      <unittitle>Mauch Chunk scenery, Pa</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1105.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1149">
+     <did>
+      <unitid>STA-1149</unitid>
+      <unittitle>View in Cardiff Glen, near Fort Dodge, Iowa</unittitle>
+      <unitdate normal="1868/1878">c. 1873</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1148.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1192">
+     <did>
+      <unitid>STA-1192</unitid>
+      <unittitle>An eroded sentinel - survivor of the primeval flood, by Underwood &amp; Underwood</unittitle>
+      <unitdate normal="1903">1903</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1191.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1196">
+     <did>
+      <unitid>STA-1196</unitid>
+      <unittitle>Mirror view of the majestic Cathedral Rocks, looking W.S.W.down the Valley, Cal, by Underwood &amp; Underwood 2</unittitle>
+      <unitdate normal="1893/1904">1893–1904</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1195.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1218">
+     <did>
+      <unitid>STA-1218</unitid>
+      <unittitle>Wawona, as we drove through it, Mariposa Grove, California, by Underwood &amp; Underwood 3</unittitle>
+      <unitdate normal="1902">1902</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1217.jpg"/>
      </did>
     </c>
    </c>
@@ -5518,6 +5870,622 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1052.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-1080">
+     <did>
+      <unitid>STA-1080</unitid>
+      <unittitle>View at Mauch Chunk, Pa</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1079.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1081">
+     <did>
+      <unitid>STA-1081</unitid>
+      <unittitle>Mauch Chunk (bird's-eye view)</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1080.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1083">
+     <did>
+      <unitid>STA-1083</unitid>
+      <unittitle>View north, Mauch Chunk</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1082.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1084">
+     <did>
+      <unitid>STA-1084</unitid>
+      <unittitle>View in Mauch Chunk</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1083.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1086">
+     <did>
+      <unitid>STA-1086</unitid>
+      <unittitle>L. &amp; S. R. R. (Lehigh &amp; Susquehana Railroad) - cut, Mauch Chunk</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1085.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1087">
+     <did>
+      <unitid>STA-1087</unitid>
+      <unittitle>Mauch Chunk. View south from Mansion house</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1086.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1088">
+     <did>
+      <unitid>STA-1088</unitid>
+      <unittitle>Switchback Railroad, Mauch Chunk, Pa</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1087.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1089">
+     <did>
+      <unitid>STA-1089</unitid>
+      <unittitle>Mauch Chunk, Pa</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1088.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1091">
+     <did>
+      <unitid>STA-1091</unitid>
+      <unittitle>Switchback R.R. (railroad), Mauch Chunk</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1090.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1092">
+     <did>
+      <unitid>STA-1092</unitid>
+      <unittitle>Mauch Chunk, Penn</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1091.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1093">
+     <did>
+      <unitid>STA-1093</unitid>
+      <unittitle>View at Mauch Chunk</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1092.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1094">
+     <did>
+      <unitid>STA-1094</unitid>
+      <unittitle>Susquehanna St., Mauch Chunk</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1093.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1096">
+     <did>
+      <unitid>STA-1096</unitid>
+      <unittitle>Panorama Mauch Chunk</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1095.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1097">
+     <did>
+      <unitid>STA-1097</unitid>
+      <unittitle>Mauch Chunk</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1096.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1099">
+     <did>
+      <unitid>STA-1099</unitid>
+      <unittitle>Mauch Chunk, Pa., north</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1098.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1100">
+     <did>
+      <unitid>STA-1100</unitid>
+      <unittitle>Switchback Railroad, Mauch Chunk, Pa., U.S.A</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1099.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1101">
+     <did>
+      <unitid>STA-1101</unitid>
+      <unittitle>Mauch Chunk, Pennsylvania</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1100.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1102">
+     <did>
+      <unitid>STA-1102</unitid>
+      <unittitle>Mansion house, Mauch Chunk</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1101.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1103">
+     <did>
+      <unitid>STA-1103</unitid>
+      <unittitle>Mauch Chunk, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1102.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1104">
+     <did>
+      <unitid>STA-1104</unitid>
+      <unittitle>Mauch Chunk, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1103.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1107">
+     <did>
+      <unitid>STA-1107</unitid>
+      <unittitle>View from East Mauch Chunk, by M. A. Kleckner</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1106.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1108">
+     <did>
+      <unitid>STA-1108</unitid>
+      <unittitle>Mauch Chunk, Pennsylvania, from Robert N. Dennis collection of stereoscopic views 6</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1107.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1109">
+     <did>
+      <unitid>STA-1109</unitid>
+      <unittitle>Mauch Chunk, looking south</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1108.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1110">
+     <did>
+      <unitid>STA-1110</unitid>
+      <unittitle>Washington Monument under construction, Washington, D.C., from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1859/1905">1859–1905</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1109.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1111">
+     <did>
+      <unitid>STA-1111</unitid>
+      <unittitle>Washington Monument under construction, Washington, D.C., from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1859/1905">1859–1905</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1110.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1112">
+     <did>
+      <unitid>STA-1112</unitid>
+      <unittitle>The Bravest of the Brave, Washington, D.C., U.S.A</unittitle>
+      <unitdate normal="1870/1905">1870–1905</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1111.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1113">
+     <did>
+      <unitid>STA-1113</unitid>
+      <unittitle>View in Washington, D.C</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1112.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1114">
+     <did>
+      <unitid>STA-1114</unitid>
+      <unittitle>Masonic Temple, Washington, D.C.</unittitle>
+      <unitdate normal="1860/1885">1860–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1113.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1115">
+     <did>
+      <unitid>STA-1115</unitid>
+      <unittitle>State Department, Washington, D.C.</unittitle>
+      <unitdate normal="1865/1900">1865–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1114.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1116">
+     <did>
+      <unitid>STA-1116</unitid>
+      <unittitle>U.S. Capitol, North-east view, Washington, D.C.</unittitle>
+      <unitdate normal="1898/1925">1898–1925</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1115.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1117">
+     <did>
+      <unitid>STA-1117</unitid>
+      <unittitle>The Magnificent Capitol, Washington, D.C.</unittitle>
+      <unitdate normal="1898/1925">1898–1925</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1116.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1118">
+     <did>
+      <unitid>STA-1118</unitid>
+      <unittitle>Washington, D.C., from Robert N. Dennis collection of stereoscopic views 5</unittitle>
+      <unitdate normal="1887">1887</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1117.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1119">
+     <did>
+      <unitid>STA-1119</unitid>
+      <unittitle>French Minister's Residence, Washington D.C</unittitle>
+      <unitdate normal="1860/1885">1860–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1118.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1120">
+     <did>
+      <unitid>STA-1120</unitid>
+      <unittitle>The Magnificent Capitol, Washington, D.C., from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1898/1925">1898–1925</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1119.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1123">
+     <did>
+      <unitid>STA-1123</unitid>
+      <unittitle>Washington Monument under construction, Washington, D.C., from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1859/1905">1859–1905</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1122.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1125">
+     <did>
+      <unitid>STA-1125</unitid>
+      <unittitle>Birds Eye view from Capitol, Washington, D.C</unittitle>
+      <unitdate normal="1860/1890">1860–1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1124.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1128">
+     <did>
+      <unitid>STA-1128</unitid>
+      <unittitle>Agricultural Grounds, Washington, D.C</unittitle>
+      <unitdate normal="1868/1890">1868–1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1127.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1132">
+     <did>
+      <unitid>STA-1132</unitid>
+      <unittitle>Post - Office, Washington, D.C</unittitle>
+      <unitdate normal="1860/1890">1860–1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1131.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1133">
+     <did>
+      <unitid>STA-1133</unitid>
+      <unittitle>U.S. Post Office, Washington, D.C</unittitle>
+      <unitdate normal="1860/1890">1860–1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1132.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1136">
+     <did>
+      <unitid>STA-1136</unitid>
+      <unittitle>General Post Office, Washington, D.C</unittitle>
+      <unitdate normal="1860/1890">1860–1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1135.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1140">
+     <did>
+      <unitid>STA-1140</unitid>
+      <unittitle>Summer School, Washington, D.C</unittitle>
+      <unitdate normal="1865/1890">1865–1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1139.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1142">
+     <did>
+      <unitid>STA-1142</unitid>
+      <unittitle>Washington D.C. from Lunatic Asylum</unittitle>
+      <unitdate normal="1860/1890">1860–1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1141.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1143">
+     <did>
+      <unitid>STA-1143</unitid>
+      <unittitle>U.S Post Office, Washington, D.C</unittitle>
+      <unitdate normal="1860/1890">1860–1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1142.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1145">
+     <did>
+      <unitid>STA-1145</unitid>
+      <unittitle>School House, Newton, Iowa</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1144.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1147">
+     <did>
+      <unitid>STA-1147</unitid>
+      <unittitle>View of a railroad construction site, Davenport, Iowa</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1146.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1148">
+     <did>
+      <unitid>STA-1148</unitid>
+      <unittitle>City square buried in snow. Newton, Iowa</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1147.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1150">
+     <did>
+      <unitid>STA-1150</unitid>
+      <unittitle>Sioux City, Iowa</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1149.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1151">
+     <did>
+      <unitid>STA-1151</unitid>
+      <unittitle>Sioux City, Iowa, 1868</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1150.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1153">
+     <did>
+      <unitid>STA-1153</unitid>
+      <unittitle>Siox City, Iowa, 1868</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1152.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1154">
+     <did>
+      <unitid>STA-1154</unitid>
+      <unittitle>Pearl Street, Sioux City, Iowa</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1153.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1155">
+     <did>
+      <unitid>STA-1155</unitid>
+      <unittitle>Snow covered street, Victor, Iowa</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1154.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1156">
+     <did>
+      <unitid>STA-1156</unitid>
+      <unittitle>View of business district, Des Moines, Iowa</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1155.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1157">
+     <did>
+      <unitid>STA-1157</unitid>
+      <unittitle>View of the first Corn Palace, Sioux City, Iowa</unittitle>
+      <unitdate normal="1887">1887</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1156.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1158">
+     <did>
+      <unitid>STA-1158</unitid>
+      <unittitle>View of Ist National Bank, east side. Waterloo, Iowa</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1157.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1161">
+     <did>
+      <unitid>STA-1161</unitid>
+      <unittitle>View of State Capitol, Des Moines, Iowa</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1160.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1162">
+     <did>
+      <unitid>STA-1162</unitid>
+      <unittitle>Sioux City, Iowa. ca. 1873</unittitle>
+      <unitdate normal="1868/1878">c. 1873</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1161.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1163">
+     <did>
+      <unitid>STA-1163</unitid>
+      <unittitle>View of a store selling saddlery, Des Moines, Iowa</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1162.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1164">
+     <did>
+      <unitid>STA-1164</unitid>
+      <unittitle>View of 3rd St. taken from the west, Muscatine, Iowa</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1163.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1165">
+     <did>
+      <unitid>STA-1165</unitid>
+      <unittitle>School House. Sioux City, Iowa</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1164.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1171">
+     <did>
+      <unitid>STA-1171</unitid>
+      <unittitle>Post office, Smithfield Street, Pittsburg, Pennsylvania</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1170.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1176">
+     <did>
+      <unitid>STA-1176</unitid>
+      <unittitle>Kittaning, Pennsylvania</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1175.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1177">
+     <did>
+      <unitid>STA-1177</unitid>
+      <unittitle>View near Oil City, Pennsylvania</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1176.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1178">
+     <did>
+      <unitid>STA-1178</unitid>
+      <unittitle>Erie, Pennsylvania</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1177.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1182">
+     <did>
+      <unitid>STA-1182</unitid>
+      <unittitle>Pennsylvania Hospital, side view</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1181.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1184">
+     <did>
+      <unitid>STA-1184</unitid>
+      <unittitle>Franklin Street, Scranton, Pennsylvania</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1183.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1185">
+     <did>
+      <unitid>STA-1185</unitid>
+      <unittitle>Mauch Chunk, Pennsylvania, from Robert N. Dennis collection of stereoscopic views 5</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1184.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1186">
+     <did>
+      <unitid>STA-1186</unitid>
+      <unittitle>Pennsylvania Avenue</unittitle>
+      <unitdate normal="1865/1920">1865–1920</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1185.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1188">
+     <did>
+      <unitid>STA-1188</unitid>
+      <unittitle>Mauch Chunk, Pennsylvania, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1187.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1193">
+     <did>
+      <unitid>STA-1193</unitid>
+      <unittitle>Bert Elias Underwood, Underwood &amp; Underwood, Series 1894, The Railway Station, Hanover, Germany. Front Side</unittitle>
+      <unitdate normal="1894">1894</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1192.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1199">
+     <did>
+      <unitid>STA-1199</unitid>
+      <unittitle>United States Capitol, Washington, D.C, by Underwood &amp; Underwood 3</unittitle>
+      <unitdate normal="1895/1905">c. 1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1198.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1203">
+     <did>
+      <unitid>STA-1203</unitid>
+      <unittitle>United States Capitol, Washington, D.C, by Underwood &amp; Underwood 4</unittitle>
+      <unitdate normal="1895/1905">c. 1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1202.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1205">
+     <did>
+      <unitid>STA-1205</unitid>
+      <unittitle>Avenue of Palms, Los Angeles, California, by Underwood &amp; Underwood 3</unittitle>
+      <unitdate normal="1898">1898</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1204.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1206">
+     <did>
+      <unitid>STA-1206</unitid>
+      <unittitle>Avenue of Palms, Los Angeles, California, by Underwood &amp; Underwood 2</unittitle>
+      <unitdate normal="1898">1898</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1205.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1210">
+     <did>
+      <unitid>STA-1210</unitid>
+      <unittitle>Randolph Street, Chicago, U.S.A, by Underwood &amp; Underwood 3</unittitle>
+      <unitdate normal="1899">1899</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1209.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1214">
+     <did>
+      <unitid>STA-1214</unitid>
+      <unittitle>Bridge over Mississippi, St. Louis, Mo, by Underwood &amp; Underwood 3</unittitle>
+      <unitdate normal="1873/1909">1873–1909</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1213.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1216">
+     <did>
+      <unitid>STA-1216</unitid>
+      <unittitle>Randolph Street, Chicago, U.S.A, by Underwood &amp; Underwood 2</unittitle>
+      <unitdate normal="1893">1893</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1215.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1217">
+     <did>
+      <unitid>STA-1217</unitid>
+      <unittitle>Bridge over Mississippi, St. Louis, Mo, by Underwood &amp; Underwood 2</unittitle>
+      <unitdate normal="1873/1909">1873–1909</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1216.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -5713,6 +6681,126 @@
       <unittitle>Soldiers' Monument, Worcester, Mass</unittitle>
       <unitdate normal="1870">1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1026.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1121">
+     <did>
+      <unitid>STA-1121</unitid>
+      <unittitle>Statue of Andrew Jackson, Washington, D.C., from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1859/1905">1859–1905</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1120.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1122">
+     <did>
+      <unitid>STA-1122</unitid>
+      <unittitle>Statue of Andrew Jackson, Washington, D.C., from Robert N. Dennis collection of stereoscopic views 5</unittitle>
+      <unitdate normal="1859/1905">1859–1905</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1121.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1124">
+     <did>
+      <unitid>STA-1124</unitid>
+      <unittitle>Washington Monument, Philadelpia</unittitle>
+      <unitdate normal="1859/1905">1859–1905</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1123.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1126">
+     <did>
+      <unitid>STA-1126</unitid>
+      <unittitle>The Soldiers' Home at Washington, D.C.</unittitle>
+      <unitdate normal="1867/1900">1867–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1125.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1127">
+     <did>
+      <unitid>STA-1127</unitid>
+      <unittitle>Statue of Andrew Jackson, Washington, D.C., from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1126.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1134">
+     <did>
+      <unitid>STA-1134</unitid>
+      <unittitle>Washington Monument, Philadelpia, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1859/1905">1859–1905</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1133.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1137">
+     <did>
+      <unitid>STA-1137</unitid>
+      <unittitle>Naval Monument, Washington, D.C.</unittitle>
+      <unitdate normal="1859/1905">1859–1905</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1136.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1138">
+     <did>
+      <unitid>STA-1138</unitid>
+      <unittitle>Washington Marble Statue, Washington, D.C.</unittitle>
+      <unitdate normal="1859/1905">1859–1905</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1137.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1139">
+     <did>
+      <unitid>STA-1139</unitid>
+      <unittitle>Washington Monument, Philadelpia, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1859/1905">1859–1905</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1138.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1141">
+     <did>
+      <unitid>STA-1141</unitid>
+      <unittitle>Views of the Soldiers Home, Washington, D.C.</unittitle>
+      <unitdate normal="1867/1900">1867–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1140.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1166">
+     <did>
+      <unitid>STA-1166</unitid>
+      <unittitle>Court House and soldier's moument in Muscatine, Iowa, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1165.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1168">
+     <did>
+      <unitid>STA-1168</unitid>
+      <unittitle>Court House and soldier's moument in Muscatine, Iowa</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1167.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1172">
+     <did>
+      <unitid>STA-1172</unitid>
+      <unittitle>Stereoscopic views of Gettysburg, Pennsylvania</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1171.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1173">
+     <did>
+      <unitid>STA-1173</unitid>
+      <unittitle>Stereoscopic views of Gettysburg, Pennsylvania, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1172.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1174">
+     <did>
+      <unitid>STA-1174</unitid>
+      <unittitle>Stereoscopic views of Gettysburg, Pennsylvania, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1173.jpg"/>
      </did>
     </c>
    </c>
@@ -6224,6 +7312,14 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/999.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-1198">
+     <did>
+      <unitid>STA-1198</unitid>
+      <unittitle>Underwood Bamboo Avenue 1904</unittitle>
+      <unitdate normal="1904">1904</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1197.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-people">
     <did>
@@ -6675,6 +7771,70 @@
       <unittitle>People in front of Willow Park Seminary</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1050.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1169">
+     <did>
+      <unitid>STA-1169</unitid>
+      <unittitle>People in front of a meat store, Davenport, Iowa</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1168.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1191">
+     <did>
+      <unitid>STA-1191</unitid>
+      <unittitle>Macedonian Rebel Band Kalambaka 1897 - Underwood and Underwood</unittitle>
+      <unitdate normal="1897">1897</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1190.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1194">
+     <did>
+      <unitid>STA-1194</unitid>
+      <unittitle>Davelis-Underwood 2</unittitle>
+      <unitdate normal="1897">1897</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1193.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1201">
+     <did>
+      <unitid>STA-1201</unitid>
+      <unittitle>Cotton is king - A plantation scene, Georgia, by Underwood &amp; Underwood 2</unittitle>
+      <unitdate normal="1895">1895</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1200.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1204">
+     <did>
+      <unitid>STA-1204</unitid>
+      <unittitle>Cotton is king - A plantation scene, Georgia, by Underwood &amp; Underwood 5</unittitle>
+      <unitdate normal="1896">1896</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1203.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1207">
+     <did>
+      <unitid>STA-1207</unitid>
+      <unittitle>Cotton is king - A plantation scene, Georgia, by Underwood &amp; Underwood 4</unittitle>
+      <unitdate normal="1895">1895</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1206.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1208">
+     <did>
+      <unitid>STA-1208</unitid>
+      <unittitle>Stereoscopic photograph of meditators at the Golden Temple complex, Amritsar, Underwood &amp; Underwood, 1903</unittitle>
+      <unitdate normal="1903">1903</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1207.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1209">
+     <did>
+      <unitid>STA-1209</unitid>
+      <unittitle>Cotton is king - A plantation scene, Georgia, by Underwood &amp; Underwood 3</unittitle>
+      <unitdate normal="1895">1895</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1208.jpg"/>
      </did>
     </c>
    </c>
@@ -8480,6 +9640,166 @@
       <unittitle>The flood at Worcester, March 30, 1876, by Edwin N. Peabody</unittitle>
       <unitdate normal="1876">1876</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1051.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1082">
+     <did>
+      <unitid>STA-1082</unitid>
+      <unittitle>Coal shutes, Mauch Chunk</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1081.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1085">
+     <did>
+      <unitid>STA-1085</unitid>
+      <unittitle>Coal chutes, Mauch Chunk, Pa</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1084.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1090">
+     <did>
+      <unitid>STA-1090</unitid>
+      <unittitle>Coal shutes, Mauch Chunk, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1089.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1095">
+     <did>
+      <unitid>STA-1095</unitid>
+      <unittitle>Coal chutes, Mauch Chunk, Pa, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1859/1885">1859–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1094.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1129">
+     <did>
+      <unitid>STA-1129</unitid>
+      <unittitle>Oak Hill Cemetery, Washington, D.C</unittitle>
+      <unitdate normal="1865/1890">1865–1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1128.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1130">
+     <did>
+      <unitid>STA-1130</unitid>
+      <unittitle>The White House Conservatory, Washington, D.C.</unittitle>
+      <unitdate normal="1898/1925">1898–1925</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1129.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1131">
+     <did>
+      <unitid>STA-1131</unitid>
+      <unittitle>Inaugural Ball Room, Washington, D.C</unittitle>
+      <unitdate normal="1870/1905">1870–1905</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1130.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1135">
+     <did>
+      <unitid>STA-1135</unitid>
+      <unittitle>The East Room, White House, Washington, D.C.</unittitle>
+      <unitdate normal="1898/1925">1898–1925</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1134.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1159">
+     <did>
+      <unitid>STA-1159</unitid>
+      <unittitle>Interior - Iowa Capitol Library</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1158.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1160">
+     <did>
+      <unitid>STA-1160</unitid>
+      <unittitle>Interior view of Iowa State Capitol</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1159.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1167">
+     <did>
+      <unitid>STA-1167</unitid>
+      <unittitle>Iowa County meteorites - Professor Leonard collective</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1166.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1170">
+     <did>
+      <unitid>STA-1170</unitid>
+      <unittitle>Inside Amana Community kitchen, caa. 1907, Iowa</unittitle>
+      <unitdate normal="1907">1907</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1169.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1175">
+     <did>
+      <unitid>STA-1175</unitid>
+      <unittitle>Stereoscopic views of Pittsburgh, Pennsylvania and vicinity</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1174.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1179">
+     <did>
+      <unitid>STA-1179</unitid>
+      <unittitle>Stereoscopic views of the oil region of Pennsylvania and New York</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1178.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1183">
+     <did>
+      <unitid>STA-1183</unitid>
+      <unittitle>Corn binder at work, side view, showing rows of bundles, Crawford County, Pennsylvania</unittitle>
+      <unitdate normal="1906">1906</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1182.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1195">
+     <did>
+      <unitid>STA-1195</unitid>
+      <unittitle>Giant hippopotamus, by Underwood &amp; Underwood 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1194.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1200">
+     <did>
+      <unitid>STA-1200</unitid>
+      <unittitle>Underwood &amp; Underwood - The archaeological site at Epidaurus - Google Art Project</unittitle>
+      <unitdate normal="1897">1897</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1199.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1202">
+     <did>
+      <unitid>STA-1202</unitid>
+      <unittitle>The Globe at Washington Park, Chicago, by Underwood &amp; Underwood 2</unittitle>
+      <unitdate normal="1887">1887</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1201.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1211">
+     <did>
+      <unitid>STA-1211</unitid>
+      <unittitle>Sol's clock, Washington Park, Chicago, Ill. U.S.A, by Underwood &amp; Underwood 2</unittitle>
+      <unitdate normal="1899">1899</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1210.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1215">
+     <did>
+      <unitid>STA-1215</unitid>
+      <unittitle>The Globe at Washington Park, Chicago, by Underwood &amp; Underwood</unittitle>
+      <unitdate normal="1893">1893</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1214.jpg"/>
      </did>
     </c>
    </c>
