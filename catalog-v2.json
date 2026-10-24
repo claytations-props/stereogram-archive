@@ -88608,9 +88608,9 @@
  {
   "title": "Giant hippopotamus, by Underwood & Underwood 2",
   "place": "Place unrecorded",
-  "year": "1865",
-  "sy": 1865,
-  "era": "early",
+  "year": "Undated",
+  "sy": 1900,
+  "era": "undated",
   "cats": [
    "oddities"
   ],
@@ -88664,9 +88664,9 @@
    "oddities"
   ],
   "publisher_series": null,
-  "date_edtf": "1865",
-  "date_start": 1865,
-  "date_end": 1865,
+  "date_edtf": null,
+  "date_start": null,
+  "date_end": null,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
   "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
   "license_url": null,
