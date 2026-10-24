@@ -344,7 +344,7 @@ function migrateFavs(){
 }
 function browseHay(d){return (d.title+" "+d.place+" "+d.year+" "+d.id+" "+d.coll+" "+d.cats.map(c=>CATLABEL[c]||c).join(" ")).toLowerCase()}
 function init(){
- migrateFavs();updateChipCounts();
+ migrateFavs();updateChipCounts();updateEraCounts();
  DATA.forEach(d=>d._hay=SLIM?browseHay(d):(d.title+" "+d.place+" "+d.year+" "+(d.blurb||"")+" "+d.id+" "+d.coll+" "+d.cats.map(c=>CATLABEL[c]||c).join(" ")).toLowerCase());
  buildAid();
  document.getElementById('holdings').textContent='Holdings · '+DATA.length+' items · '+new Set(DATA.map(d=>d.coll)).size+' collections';
@@ -398,6 +398,13 @@ const $=s=>document.querySelector(s);
 const chips=$("#chips");
 CATS.forEach(([k,l])=>{const b=document.createElement("button");b.className="chip"+(k==="all"?" on":"");b.dataset.k=k;b.textContent=l;b.setAttribute("aria-pressed",k==="all"?"true":"false");b.onclick=()=>setCat(k);chips.appendChild(b)});
 function chipCount(k){if(k==="all")return DATA.length;if(k==="favs")return favs.size;return DATA.filter(d=>d.cats.includes(k)).length}
+/* Era options carry live counts, like the series chips since round 3:
+   the dropdown was the one shelf choice made blind. */
+function updateEraCounts(){document.querySelectorAll("#era option").forEach(o=>{
+ if(!o.dataset.base)o.dataset.base=o.textContent;
+ const n=o.value==="all"?DATA.length:DATA.filter(d=>d.era===o.value).length;
+ o.textContent=o.dataset.base+" · "+n;
+})}
 function updateChipCounts(){document.querySelectorAll(".chip").forEach(c=>{const found=CATS.find(([k])=>k===c.dataset.k);if(found&&DATA.length)c.textContent=found[1]+" · "+chipCount(c.dataset.k)})}
 function isFiltered(){return state.q!==""||state.era!=="all"||state.coll!=="all"||state.cat!=="all"}
 function listContext(){
