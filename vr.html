@@ -78,9 +78,11 @@ a{color:var(--brass)}
     <div class="cardinfo"><div class="setcrumb" id="setCrumb"></div><h2 id="ciTitle"></h2><div id="ciMeta"></div><div><a id="backLink" href="index.html">← Back to the flat gallery</a></div></div>
     <div class="controls">
       <label class="setpick">Set <select id="setSelect" aria-label="Choose a set"></select></label>
+      <button id="prev10Btn" aria-label="Jump back">«</button>
       <button id="prevBtn">‹ Prev</button>
       <button id="randBtn">Random</button>
       <button id="nextBtn">Next ›</button>
+      <button id="next10Btn" aria-label="Jump forward">»</button>
       <button id="browseBtn">Browse the shelves</button>
       <button id="recBtn">Catalogue card: off</button>
     </div>
@@ -1071,6 +1073,11 @@ document.getElementById('randBtn').onclick=()=>{
   if(uiState==='browse'){showPos(p);wallPage=Math.floor(p/PAGE);renderWall();}
   else navShow(p);
 };
+/* Flat jump buttons, the same double arrows the in-room row has:
+   ten cards at a time while reading, first/last wall page while
+   browsing. The flat row was the only control set without them. */
+document.getElementById('prev10Btn').onclick=()=>{if(uiState==='browse')wallGo(-99);else navShow(curPos-10);};
+document.getElementById('next10Btn').onclick=()=>{if(uiState==='browse')wallGo(99);else navShow(curPos+10);};
 document.getElementById('browseBtn').onclick=()=>setState(uiState==='browse'?'reading':'browse');
 document.getElementById('setSelect').addEventListener('change',e=>selectSet(e.target.value));
 document.getElementById('recBtn').onclick=()=>toggleRecord();
