@@ -1,69 +1,69 @@
 {
- "title": "Avenue of Palms, Los Angeles, California, by Underwood & Underwood 2",
- "place": "Place unrecorded",
- "year": "1898",
- "sy": 1898,
- "era": "mid",
- "cats": [
-  "cities"
- ],
- "blurb": "",
- "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Avenue_of_Palms%2C_Los_Angeles%2C_California%2C_by_Underwood_%26_Underwood_2.jpg/1920px-Avenue_of_Palms%2C_Los_Angeles%2C_California%2C_by_Underwood_%26_Underwood_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
- "full": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Avenue_of_Palms%2C_Los_Angeles%2C_California%2C_by_Underwood_%26_Underwood_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
- "source": "https://commons.wikimedia.org/wiki/File:Avenue_of_Palms,_Los_Angeles,_California,_by_Underwood_%26_Underwood_2.jpg",
- "license": "Public domain",
- "w": 2737,
- "h": 1399,
- "id": "STA-1206",
- "rect": "rect/1205.jpg",
- "coll": "Source unrecorded",
- "vert": 0.14,
- "rot": 0.02,
- "range": 0.94,
- "f": 1.0,
- "depth": "Gentle",
- "va": 1.5168,
- "px": {
-  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Avenue_of_Palms%2C_Los_Angeles%2C_California%2C_by_Underwood_%26_Underwood_2.jpg/1920px-Avenue_of_Palms%2C_Los_Angeles%2C_California%2C_by_Underwood_%26_Underwood_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "ar": 1.5168,
-  "L": [
-   0.376042,
-   0.0,
-   0.109635,
-   0.0,
-   0.485219,
-   0.051478
+  "title": "Avenue of Palms, Los Angeles, California, by Underwood & Underwood 2",
+  "place": "Los Angeles, California",
+  "year": "1898",
+  "sy": 1898,
+  "era": "mid",
+  "cats": [
+    "cities"
   ],
-  "R": [
-   0.379305,
-   -0.002763,
-   0.512966,
-   0.008491,
-   0.483104,
-   0.054581
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Avenue_of_Palms%2C_Los_Angeles%2C_California%2C_by_Underwood_%26_Underwood_2.jpg/1920px-Avenue_of_Palms%2C_Los_Angeles%2C_California%2C_by_Underwood_%26_Underwood_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Avenue_of_Palms%2C_Los_Angeles%2C_California%2C_by_Underwood_%26_Underwood_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Avenue_of_Palms,_Los_Angeles,_California,_by_Underwood_%26_Underwood_2.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1399,
+  "id": "STA-1206",
+  "rect": "rect/1205.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.14,
+  "rot": 0.02,
+  "range": 0.94,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.5168,
+  "px": {
+    "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Avenue_of_Palms%2C_Los_Angeles%2C_California%2C_by_Underwood_%26_Underwood_2.jpg/1920px-Avenue_of_Palms%2C_Los_Angeles%2C_California%2C_by_Underwood_%26_Underwood_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ar": 1.5168,
+    "L": [
+      0.376042,
+      0.0,
+      0.109635,
+      0.0,
+      0.485219,
+      0.051478
+    ],
+    "R": [
+      0.379305,
+      -0.002763,
+      0.512966,
+      0.008491,
+      0.483104,
+      0.054581
+    ],
+    "g": [
+      1.0,
+      0.9895
+    ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.02° of rotation. Depth measured gentle (0.94% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Underwood & Underwood",
+  "creator_dates": null,
+  "facets": [
+    "cities"
   ],
-  "g": [
-   1.0,
-   0.9895
-  ]
- },
- "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.02° of rotation. Depth measured gentle (0.94% of frame width); hung in the VR Parlor at full size.",
- "repository": null,
- "collection_name": null,
- "publisher": null,
- "creator": "Underwood & Underwood",
- "creator_dates": null,
- "facets": [
-  "cities"
- ],
- "publisher_series": null,
- "date_edtf": "1898",
- "date_start": 1898,
- "date_end": 1898,
- "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
- "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
- "license_url": null,
- "source_page_id": 7201616,
- "source_revision_id": null,
- "source_sha1": "f87cb97c9a5833d134186c568e7c5f5d1b2f6aa8"
+  "publisher_series": null,
+  "date_edtf": "1898",
+  "date_start": 1898,
+  "date_end": 1898,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7201616,
+  "source_revision_id": null,
+  "source_sha1": "f87cb97c9a5833d134186c568e7c5f5d1b2f6aa8"
 }

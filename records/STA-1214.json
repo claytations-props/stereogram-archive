@@ -1,69 +1,69 @@
 {
- "title": "Bridge over Mississippi, St. Louis, Mo, by Underwood & Underwood 3",
- "place": "Place unrecorded",
- "year": "1873–1909",
- "sy": 1873,
- "era": "mid",
- "cats": [
-  "cities"
- ],
- "blurb": "",
- "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Bridge_over_Mississippi%2C_St._Louis%2C_Mo%2C_by_Underwood_%26_Underwood_3.jpg/1920px-Bridge_over_Mississippi%2C_St._Louis%2C_Mo%2C_by_Underwood_%26_Underwood_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
- "full": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bridge_over_Mississippi%2C_St._Louis%2C_Mo%2C_by_Underwood_%26_Underwood_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
- "source": "https://commons.wikimedia.org/wiki/File:Bridge_over_Mississippi,_St._Louis,_Mo,_by_Underwood_%26_Underwood_3.jpg",
- "license": "Public domain",
- "w": 2737,
- "h": 1416,
- "id": "STA-1214",
- "rect": "rect/1213.jpg",
- "coll": "Source unrecorded",
- "vert": 0.08,
- "rot": 0.0,
- "range": 0.44,
- "f": 1.0,
- "depth": "Gentle",
- "va": 0.9387,
- "px": {
-  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Bridge_over_Mississippi%2C_St._Louis%2C_Mo%2C_by_Underwood_%26_Underwood_3.jpg/1920px-Bridge_over_Mississippi%2C_St._Louis%2C_Mo%2C_by_Underwood_%26_Underwood_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "ar": 0.9387,
-  "L": [
-   0.391146,
-   0.0,
-   0.09401,
-   0.0,
-   0.805639,
-   0.044814
+  "title": "Bridge over Mississippi, St. Louis, Mo, by Underwood & Underwood 3",
+  "place": "St. Louis, Missouri",
+  "year": "1873–1909",
+  "sy": 1873,
+  "era": "mid",
+  "cats": [
+    "cities"
   ],
-  "R": [
-   0.388766,
-   -0.000175,
-   0.517539,
-   0.000627,
-   0.804167,
-   0.063514
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Bridge_over_Mississippi%2C_St._Louis%2C_Mo%2C_by_Underwood_%26_Underwood_3.jpg/1920px-Bridge_over_Mississippi%2C_St._Louis%2C_Mo%2C_by_Underwood_%26_Underwood_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bridge_over_Mississippi%2C_St._Louis%2C_Mo%2C_by_Underwood_%26_Underwood_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bridge_over_Mississippi,_St._Louis,_Mo,_by_Underwood_%26_Underwood_3.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1416,
+  "id": "STA-1214",
+  "rect": "rect/1213.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 0.44,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9387,
+  "px": {
+    "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Bridge_over_Mississippi%2C_St._Louis%2C_Mo%2C_by_Underwood_%26_Underwood_3.jpg/1920px-Bridge_over_Mississippi%2C_St._Louis%2C_Mo%2C_by_Underwood_%26_Underwood_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ar": 0.9387,
+    "L": [
+      0.391146,
+      0.0,
+      0.09401,
+      0.0,
+      0.805639,
+      0.044814
+    ],
+    "R": [
+      0.388766,
+      -0.000175,
+      0.517539,
+      0.000627,
+      0.804167,
+      0.063514
+    ],
+    "g": [
+      1.0,
+      0.985
+    ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (0.44% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Underwood & Underwood",
+  "creator_dates": null,
+  "facets": [
+    "cities"
   ],
-  "g": [
-   1.0,
-   0.985
-  ]
- },
- "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (0.44% of frame width); hung in the VR Parlor at full size.",
- "repository": null,
- "collection_name": null,
- "publisher": null,
- "creator": "Underwood & Underwood",
- "creator_dates": null,
- "facets": [
-  "cities"
- ],
- "publisher_series": null,
- "date_edtf": "1873/1909",
- "date_start": 1873,
- "date_end": 1909,
- "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
- "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
- "license_url": null,
- "source_page_id": 7467333,
- "source_revision_id": null,
- "source_sha1": "c7a83abbe786841d481f0d2a708e24bb9732e00c"
+  "publisher_series": null,
+  "date_edtf": "1873/1909",
+  "date_start": 1873,
+  "date_end": 1909,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7467333,
+  "source_revision_id": null,
+  "source_sha1": "c7a83abbe786841d481f0d2a708e24bb9732e00c"
 }
