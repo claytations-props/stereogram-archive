@@ -1,0 +1,69 @@
+{
+ "title": "Giant hippopotamus, by Underwood & Underwood 2",
+ "place": "Place unrecorded",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Giant_hippopotamus%2C_by_Underwood_%26_Underwood_2.jpg/1920px-Giant_hippopotamus%2C_by_Underwood_%26_Underwood_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/14/Giant_hippopotamus%2C_by_Underwood_%26_Underwood_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Giant_hippopotamus,_by_Underwood_%26_Underwood_2.jpg",
+ "license": "Public domain",
+ "w": 2652,
+ "h": 1326,
+ "id": "STA-1195",
+ "rect": "rect/1194.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.1,
+ "rot": 0.0,
+ "range": 1.39,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8474,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Giant_hippopotamus%2C_by_Underwood_%26_Underwood_2.jpg/1920px-Giant_hippopotamus%2C_by_Underwood_%26_Underwood_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8474,
+  "L": [
+   0.396354,
+   0.0,
+   0.088802,
+   0.0,
+   0.935417,
+   0.030729
+  ],
+  "R": [
+   0.400178,
+   -0.015111,
+   0.537382,
+   -0.000433,
+   0.938065,
+   0.029284
+  ],
+  "g": [
+   0.9299,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (1.39% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Underwood & Underwood",
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12010874,
+ "source_revision_id": null,
+ "source_sha1": "1b94e9bf092cf49d70c5e29bed7a4279a6c98b45"
+}

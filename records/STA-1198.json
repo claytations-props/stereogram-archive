@@ -1,0 +1,69 @@
+{
+ "title": "Underwood Bamboo Avenue 1904",
+ "place": "Place unrecorded",
+ "year": "1904",
+ "sy": 1904,
+ "era": "late",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "Stereoscopic image from Japan, printed in the USA",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Underwood_Bamboo_Avenue_1904.jpg/1920px-Underwood_Bamboo_Avenue_1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/be/Underwood_Bamboo_Avenue_1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Underwood_Bamboo_Avenue_1904.jpg",
+ "license": "Public domain",
+ "w": 2400,
+ "h": 1207,
+ "id": "STA-1198",
+ "rect": "rect/1197.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.1,
+ "rot": 0.04,
+ "range": 4.1,
+ "f": 0.76,
+ "depth": "Deep",
+ "va": 1.0233,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Underwood_Bamboo_Avenue_1904.jpg/1920px-Underwood_Bamboo_Avenue_1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0233,
+  "L": [
+   0.389583,
+   0.0,
+   0.099219,
+   0.0,
+   0.756729,
+   0.158903
+  ],
+  "R": [
+   0.382641,
+   0.004852,
+   0.514734,
+   -0.005233,
+   0.762727,
+   0.157563
+  ],
+  "g": [
+   0.9783,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.04° of rotation. Depth measured deep (4.1% of frame width); hung in the VR Parlor at 76% size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1904",
+ "date_start": 1904,
+ "date_end": 1904,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 6273662,
+ "source_revision_id": null,
+ "source_sha1": "8d7d2bfe4349fbe409cca5d90f1b72ed62e1b75c"
+}
