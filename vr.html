@@ -1058,9 +1058,19 @@ function syncSoundBtn(){if(soundBtn)soundBtn.textContent='Sound: '+(projSoundOn(
 if(soundBtn)soundBtn.onclick=()=>{try{localStorage.setItem('stereoSound',projSoundOn()?'0':'1');}catch(e){}syncSoundBtn();ensureProjAudio();};
 syncSoundBtn();
 const next=()=>navShow(curPos+1),prev=()=>navShow(curPos-1);
-document.getElementById('nextBtn').onclick=next;
-document.getElementById('prevBtn').onclick=prev;
-document.getElementById('randBtn').onclick=()=>{if(curSet)navShow(Math.floor(Math.random()*curSet.indices.length));};
+/* The flat buttons follow the state they are in, like the keyboard
+   and the in-room row already do: on the shelves they work the wall
+   (page it, or jump it to a random card's page); on a card they step
+   cards. Before this, flat Prev/Next stepped the card even while
+   browsing, silently moving the selection off the visible wall. */
+document.getElementById('nextBtn').onclick=()=>{if(uiState==='browse')wallGo(1);else next();};
+document.getElementById('prevBtn').onclick=()=>{if(uiState==='browse')wallGo(-1);else prev();};
+document.getElementById('randBtn').onclick=()=>{
+  if(!curSet)return;
+  const p=Math.floor(Math.random()*curSet.indices.length);
+  if(uiState==='browse'){showPos(p);wallPage=Math.floor(p/PAGE);renderWall();}
+  else navShow(p);
+};
 document.getElementById('browseBtn').onclick=()=>setState(uiState==='browse'?'reading':'browse');
 document.getElementById('setSelect').addEventListener('change',e=>selectSet(e.target.value));
 document.getElementById('recBtn').onclick=()=>toggleRecord();
