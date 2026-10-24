@@ -26,7 +26,7 @@ against the catalog's place coverage (no deep-coverage duplicates).
 
 ## Done
 
-(none yet — queue starts 2026-10-24)
+1. **Underwood & Underwood** — run 2026-10-24 (wave6-underwood) — harvested 40 candidates: 28 merged (STA-1191–STA-1218), 2 held (auto_rects box failure; vertical error 0.46% > 0.35% gate), 10 same-scan duplicates, 0 license skips — 26 tagged, 2 held untagged (STA-1198 bamboo grove, STA-1208 Amritsar fakirs — vocabulary gaps) — card-caption dates corrected on 10 cards (incl. 3 bogus 1865s → 1887/1893/1899) — status: done
 
 ## Skipped
 
