@@ -469,7 +469,15 @@ function render(){
  const page=currentList.slice(0,shown);
  const g=$("#grid"),rg=$("#reg");
  const ctx=listContext();
- $("#count").textContent="Showing "+currentList.length+" of "+DATA.length+" items"+(ctx!=="All items"?" · "+ctx:"");
+ /* The count names the sort when it is not the default, so a visitor
+    returning from a card can tell a shuffled or reordered list from
+    accession order at a glance. */
+ let sortTxt="";
+ if(state.sort!=="featured"){
+  const so=document.querySelector('#sort option[value="'+state.sort+'"]');
+  sortTxt=state.sort==="shuffle"?" · Shuffled":" · Sorted: "+(so?so.textContent:state.sort);
+ }
+ $("#count").textContent="Showing "+currentList.length+" of "+DATA.length+" items"+(ctx!=="All items"?" · "+ctx:"")+sortTxt;
  $("#clearFilters").hidden=!isFiltered();
  const em=$("#empty");em.style.display=currentList.length?"none":"block";
  if(!currentList.length)em.textContent=state.cat==="favs"?"Your reading list is empty. Tap the heart on any card to keep it here.":"Nothing matches that. Try clearing the search, these photographs are old but they are not hiding.";
