@@ -1,8 +1,8 @@
 {
  "title": "Randolph Street, Chicago, U.S.A, by Underwood & Underwood 2",
  "place": "Chicago, Illinois",
- "year": "1898",
- "sy": 1898,
+ "year": "1893",
+ "sy": 1893,
  "era": "mid",
  "cats": [
   "cities"
@@ -57,13 +57,19 @@
   "cities"
  ],
  "publisher_series": null,
- "date_edtf": "1898",
- "date_start": 1898,
- "date_end": 1898,
+ "date_edtf": "1893",
+ "date_start": 1893,
+ "date_end": 1893,
  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
  "license_url": null,
  "source_page_id": 7289094,
  "source_revision_id": null,
- "source_sha1": "e24fe2b68fac29c7bd950ee71e170d585e52d5dc"
+ "source_sha1": "e24fe2b68fac29c7bd950ee71e170d585e52d5dc",
+ "tags": [
+  "main street",
+  "streetcar",
+  "crowd",
+  "skyscraper"
+ ]
 }

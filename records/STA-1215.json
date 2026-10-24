@@ -1,9 +1,9 @@
 {
  "title": "The Globe at Washington Park, Chicago, by Underwood & Underwood",
  "place": "Chicago, Illinois",
- "year": "1865",
- "sy": 1865,
- "era": "early",
+ "year": "1893",
+ "sy": 1893,
+ "era": "mid",
  "cats": [
   "oddities"
  ],
@@ -57,13 +57,17 @@
   "oddities"
  ],
  "publisher_series": null,
- "date_edtf": "1865",
- "date_start": 1865,
- "date_end": 1865,
+ "date_edtf": "1893",
+ "date_start": 1893,
+ "date_end": 1893,
  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
  "license_url": null,
  "source_page_id": 7287224,
  "source_revision_id": null,
- "source_sha1": "51e638b096b986f047159a03c80c0a9563160c24"
+ "source_sha1": "51e638b096b986f047159a03c80c0a9563160c24",
+ "tags": [
+  "garden",
+  "flowers"
+ ]
 }

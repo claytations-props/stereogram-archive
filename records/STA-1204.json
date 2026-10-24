@@ -1,69 +1,74 @@
 {
-  "title": "Cotton is king - A plantation scene, Georgia, by Underwood & Underwood 5",
-  "place": "Georgia",
-  "year": "1896",
-  "sy": 1896,
-  "era": "mid",
-  "cats": [
-    "people"
+ "title": "Cotton is king - A plantation scene, Georgia, by Underwood & Underwood 5",
+ "place": "Georgia",
+ "year": "1896",
+ "sy": 1896,
+ "era": "mid",
+ "cats": [
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Cotton_is_king_-_A_plantation_scene%2C_Georgia%2C_by_Underwood_%26_Underwood_5.jpg/1920px-Cotton_is_king_-_A_plantation_scene%2C_Georgia%2C_by_Underwood_%26_Underwood_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cotton_is_king_-_A_plantation_scene%2C_Georgia%2C_by_Underwood_%26_Underwood_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Cotton_is_king_-_A_plantation_scene,_Georgia,_by_Underwood_%26_Underwood_5.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1397,
+ "id": "STA-1204",
+ "rect": "rect/1203.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 3.53,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.8158,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Cotton_is_king_-_A_plantation_scene%2C_Georgia%2C_by_Underwood_%26_Underwood_5.jpg/1920px-Cotton_is_king_-_A_plantation_scene%2C_Georgia%2C_by_Underwood_%26_Underwood_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8158,
+  "L": [
+   0.311458,
+   0.0,
+   0.161198,
+   0.0,
+   0.747959,
+   0.193367
   ],
-  "blurb": "",
-  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Cotton_is_king_-_A_plantation_scene%2C_Georgia%2C_by_Underwood_%26_Underwood_5.jpg/1920px-Cotton_is_king_-_A_plantation_scene%2C_Georgia%2C_by_Underwood_%26_Underwood_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "full": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cotton_is_king_-_A_plantation_scene%2C_Georgia%2C_by_Underwood_%26_Underwood_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "source": "https://commons.wikimedia.org/wiki/File:Cotton_is_king_-_A_plantation_scene,_Georgia,_by_Underwood_%26_Underwood_5.jpg",
-  "license": "Public domain",
-  "w": 2737,
-  "h": 1397,
-  "id": "STA-1204",
-  "rect": "rect/1203.jpg",
-  "coll": "Source unrecorded",
-  "vert": 0.1,
-  "rot": 0.01,
-  "range": 3.53,
-  "f": 1.0,
-  "depth": "Deep",
-  "va": 0.8158,
-  "px": {
-    "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Cotton_is_king_-_A_plantation_scene%2C_Georgia%2C_by_Underwood_%26_Underwood_5.jpg/1920px-Cotton_is_king_-_A_plantation_scene%2C_Georgia%2C_by_Underwood_%26_Underwood_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "ar": 0.8158,
-    "L": [
-      0.311458,
-      0.0,
-      0.161198,
-      0.0,
-      0.747959,
-      0.193367
-    ],
-    "R": [
-      0.317118,
-      -0.002475,
-      0.571026,
-      -0.00025,
-      0.748841,
-      0.190721
-    ],
-    "g": [
-      0.9766,
-      1.0
-    ]
-  },
-  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured deep (3.53% of frame width); hung in the VR Parlor at full size.",
-  "repository": null,
-  "collection_name": null,
-  "publisher": null,
-  "creator": "Underwood & Underwood",
-  "creator_dates": null,
-  "facets": [
-    "people"
+  "R": [
+   0.317118,
+   -0.002475,
+   0.571026,
+   -0.00025,
+   0.748841,
+   0.190721
   ],
-  "publisher_series": null,
-  "date_edtf": "1896",
-  "date_start": 1896,
-  "date_end": 1896,
-  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
-  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
-  "license_url": null,
-  "source_page_id": 7144658,
-  "source_revision_id": null,
-  "source_sha1": "d9bfbbd17edcc4327733be945cfcd8c84008ae87"
+  "g": [
+   0.9766,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured deep (3.53% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Underwood & Underwood",
+ "creator_dates": null,
+ "facets": [
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1896",
+ "date_start": 1896,
+ "date_end": 1896,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7144658,
+ "source_revision_id": null,
+ "source_sha1": "d9bfbbd17edcc4327733be945cfcd8c84008ae87",
+ "tags": [
+  "workers",
+  "cotton field",
+  "harvesting"
+ ]
 }

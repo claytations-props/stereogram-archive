@@ -88376,7 +88376,11 @@
   "license_url": null,
   "source_page_id": 21979926,
   "source_revision_id": null,
-  "source_sha1": "381fc4d21ab375aaae94edf869b6f6de8fb24775"
+  "source_sha1": "381fc4d21ab375aaae94edf869b6f6de8fb24775",
+  "tags": [
+   "soldiers",
+   "portrait group"
+  ]
  },
  {
   "title": "An eroded sentinel - survivor of the primeval flood, by Underwood & Underwood",
@@ -88445,7 +88449,11 @@
   "license_url": null,
   "source_page_id": 7144284,
   "source_revision_id": null,
-  "source_sha1": "fff1633e8ed5b1524614a4f055035af3a39eef21"
+  "source_sha1": "fff1633e8ed5b1524614a4f055035af3a39eef21",
+  "tags": [
+   "rock formation",
+   "canyon"
+  ]
  },
  {
   "title": "Bert Elias Underwood, Underwood & Underwood, Series 1894, The Railway Station, Hanover, Germany. Front Side",
@@ -88516,7 +88524,13 @@
   "license_url": null,
   "source_page_id": 11167439,
   "source_revision_id": null,
-  "source_sha1": "2c307e4ce308127eb4eb94ee4bddf660210b96a2"
+  "source_sha1": "2c307e4ce308127eb4eb94ee4bddf660210b96a2",
+  "tags": [
+   "train station",
+   "town square",
+   "fountain",
+   "statue"
+  ]
  },
  {
   "title": "Davelis-Underwood 2",
@@ -88585,7 +88599,11 @@
   "license_url": null,
   "source_page_id": 118849313,
   "source_revision_id": null,
-  "source_sha1": "45ead4c8b20857fe8763ce1b2cfb7140125cf94e"
+  "source_sha1": "45ead4c8b20857fe8763ce1b2cfb7140125cf94e",
+  "tags": [
+   "soldiers",
+   "portrait group"
+  ]
  },
  {
   "title": "Giant hippopotamus, by Underwood & Underwood 2",
@@ -88654,7 +88672,11 @@
   "license_url": null,
   "source_page_id": 12010874,
   "source_revision_id": null,
-  "source_sha1": "1b94e9bf092cf49d70c5e29bed7a4279a6c98b45"
+  "source_sha1": "1b94e9bf092cf49d70c5e29bed7a4279a6c98b45",
+  "tags": [
+   "zoo",
+   "trees"
+  ]
  },
  {
   "title": "Mirror view of the majestic Cathedral Rocks, looking W.S.W.down the Valley, Cal, by Underwood & Underwood 2",
@@ -88723,7 +88745,13 @@
   "license_url": null,
   "source_page_id": 7222225,
   "source_revision_id": null,
-  "source_sha1": "962fb0d19b8ad5f08b8cce9ea5fe2e2cd39d225c"
+  "source_sha1": "962fb0d19b8ad5f08b8cce9ea5fe2e2cd39d225c",
+  "tags": [
+   "cliff",
+   "mountain",
+   "trees",
+   "camping"
+  ]
  },
  {
   "title": "Admiring tourists viewing the Falls, from Prospect Point, Niagara, U.S.A, by Underwood & Underwood 2",
@@ -88792,7 +88820,11 @@
   "license_url": null,
   "source_page_id": 10065131,
   "source_revision_id": null,
-  "source_sha1": "f0eba64e35e1dc6ecca1d475e20b06eef1f32a37"
+  "source_sha1": "f0eba64e35e1dc6ecca1d475e20b06eef1f32a37",
+  "tags": [
+   "crowd",
+   "waterfall"
+  ]
  },
  {
   "title": "Underwood Bamboo Avenue 1904",
@@ -88930,7 +88962,11 @@
   "license_url": null,
   "source_page_id": 10248880,
   "source_revision_id": null,
-  "source_sha1": "2c441ee2d462317be2acf39963a324cafbf39644"
+  "source_sha1": "2c441ee2d462317be2acf39963a324cafbf39644",
+  "tags": [
+   "staircase",
+   "trees"
+  ]
  },
  {
   "title": "Underwood & Underwood - The archaeological site at Epidaurus - Google Art Project",
@@ -88999,7 +89035,11 @@
   "license_url": null,
   "source_page_id": 127294782,
   "source_revision_id": null,
-  "source_sha1": "1336aae7aa0cd3c943d0e5bcbb26131c67e85b49"
+  "source_sha1": "1336aae7aa0cd3c943d0e5bcbb26131c67e85b49",
+  "tags": [
+   "ruins",
+   "mountain"
+  ]
  },
  {
   "title": "Cotton is king - A plantation scene, Georgia, by Underwood & Underwood 2",
@@ -89068,14 +89108,20 @@
   "license_url": null,
   "source_page_id": 7144645,
   "source_revision_id": null,
-  "source_sha1": "9531364f5fca5504b859da58a8678b930a808694"
+  "source_sha1": "9531364f5fca5504b859da58a8678b930a808694",
+  "tags": [
+   "workers",
+   "cotton field",
+   "harvesting",
+   "children"
+  ]
  },
  {
   "title": "The Globe at Washington Park, Chicago, by Underwood & Underwood 2",
   "place": "Chicago, Illinois",
-  "year": "1865",
-  "sy": 1865,
-  "era": "early",
+  "year": "1887",
+  "sy": 1887,
+  "era": "mid",
   "cats": [
    "oddities"
   ],
@@ -89129,15 +89175,19 @@
    "oddities"
   ],
   "publisher_series": null,
-  "date_edtf": "1865",
-  "date_start": 1865,
-  "date_end": 1865,
+  "date_edtf": "1887",
+  "date_start": 1887,
+  "date_end": 1887,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
   "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
   "license_url": null,
   "source_page_id": 7287234,
   "source_revision_id": null,
-  "source_sha1": "6b66b65d8e781ddd886d5719e102f81d387ab765"
+  "source_sha1": "6b66b65d8e781ddd886d5719e102f81d387ab765",
+  "tags": [
+   "garden",
+   "flowers"
+  ]
  },
  {
   "title": "United States Capitol, Washington, D.C, by Underwood & Underwood 4",
@@ -89206,7 +89256,11 @@
   "license_url": null,
   "source_page_id": 10248885,
   "source_revision_id": null,
-  "source_sha1": "a19067bc97a44ea6e2f2b285dcae939c485edafc"
+  "source_sha1": "a19067bc97a44ea6e2f2b285dcae939c485edafc",
+  "tags": [
+   "staircase",
+   "trees"
+  ]
  },
  {
   "title": "Cotton is king - A plantation scene, Georgia, by Underwood & Underwood 5",
@@ -89275,7 +89329,12 @@
   "license_url": null,
   "source_page_id": 7144658,
   "source_revision_id": null,
-  "source_sha1": "d9bfbbd17edcc4327733be945cfcd8c84008ae87"
+  "source_sha1": "d9bfbbd17edcc4327733be945cfcd8c84008ae87",
+  "tags": [
+   "workers",
+   "cotton field",
+   "harvesting"
+  ]
  },
  {
   "title": "Avenue of Palms, Los Angeles, California, by Underwood & Underwood 3",
@@ -89344,7 +89403,12 @@
   "license_url": null,
   "source_page_id": 7201621,
   "source_revision_id": null,
-  "source_sha1": "60de834f0b33b5ce248dec2f9f3bd5000b43dac7"
+  "source_sha1": "60de834f0b33b5ce248dec2f9f3bd5000b43dac7",
+  "tags": [
+   "palm tree",
+   "horse-drawn carriage",
+   "house"
+  ]
  },
  {
   "title": "Avenue of Palms, Los Angeles, California, by Underwood & Underwood 2",
@@ -89413,7 +89477,12 @@
   "license_url": null,
   "source_page_id": 7201616,
   "source_revision_id": null,
-  "source_sha1": "f87cb97c9a5833d134186c568e7c5f5d1b2f6aa8"
+  "source_sha1": "f87cb97c9a5833d134186c568e7c5f5d1b2f6aa8",
+  "tags": [
+   "palm tree",
+   "horse-drawn carriage",
+   "house"
+  ]
  },
  {
   "title": "Cotton is king - A plantation scene, Georgia, by Underwood & Underwood 4",
@@ -89482,11 +89551,16 @@
   "license_url": null,
   "source_page_id": 7144654,
   "source_revision_id": null,
-  "source_sha1": "98389f6305bc846db0b70e13a106b04ecbe8837e"
+  "source_sha1": "98389f6305bc846db0b70e13a106b04ecbe8837e",
+  "tags": [
+   "workers",
+   "cotton field",
+   "harvesting"
+  ]
  },
  {
   "title": "Stereoscopic photograph of meditators at the Golden Temple complex, Amritsar, Underwood & Underwood, 1903",
-  "place": "Amritsar",
+  "place": "Amritsar, India",
   "year": "1903",
   "sy": 1903,
   "era": "late",
@@ -89622,13 +89696,19 @@
   "license_url": null,
   "source_page_id": 7144646,
   "source_revision_id": null,
-  "source_sha1": "feb82ea9adc46df2b58c849e3c5834fe76eaa9d8"
+  "source_sha1": "feb82ea9adc46df2b58c849e3c5834fe76eaa9d8",
+  "tags": [
+   "workers",
+   "cotton field",
+   "harvesting",
+   "children"
+  ]
  },
  {
   "title": "Randolph Street, Chicago, U.S.A, by Underwood & Underwood 3",
   "place": "Chicago, Illinois",
-  "year": "1890–1893",
-  "sy": 1890,
+  "year": "1899",
+  "sy": 1899,
   "era": "mid",
   "cats": [
    "cities"
@@ -89683,22 +89763,28 @@
    "cities"
   ],
   "publisher_series": null,
-  "date_edtf": "1890/1893",
-  "date_start": 1890,
-  "date_end": 1893,
+  "date_edtf": "1899",
+  "date_start": 1899,
+  "date_end": 1899,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
   "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
   "license_url": null,
   "source_page_id": 7289104,
   "source_revision_id": null,
-  "source_sha1": "2511aa27f083912493a403488e8cb58b4fc338e0"
+  "source_sha1": "2511aa27f083912493a403488e8cb58b4fc338e0",
+  "tags": [
+   "main street",
+   "streetcar",
+   "crowd",
+   "skyscraper"
+  ]
  },
  {
   "title": "Sol's clock, Washington Park, Chicago, Ill. U.S.A, by Underwood & Underwood 2",
   "place": "Chicago, Illinois",
-  "year": "1865",
-  "sy": 1865,
-  "era": "early",
+  "year": "1899",
+  "sy": 1899,
+  "era": "mid",
   "cats": [
    "oddities"
   ],
@@ -89752,15 +89838,20 @@
    "oddities"
   ],
   "publisher_series": null,
-  "date_edtf": "1865",
-  "date_start": 1865,
-  "date_end": 1865,
+  "date_edtf": "1899",
+  "date_start": 1899,
+  "date_end": 1899,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
   "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
   "license_url": null,
   "source_page_id": 7287161,
   "source_revision_id": null,
-  "source_sha1": "9f5184c7b41a766abcb8eea87b29492887c95380"
+  "source_sha1": "9f5184c7b41a766abcb8eea87b29492887c95380",
+  "tags": [
+   "children",
+   "garden",
+   "flowers"
+  ]
  },
  {
   "title": "American Falls from the Canadian side, Niagara, by Underwood & Underwood 2",
@@ -89829,13 +89920,18 @@
   "license_url": null,
   "source_page_id": 10065303,
   "source_revision_id": null,
-  "source_sha1": "f8a27f10eefeaf08955d1cd676184aa44008fc6e"
+  "source_sha1": "f8a27f10eefeaf08955d1cd676184aa44008fc6e",
+  "tags": [
+   "waterfall",
+   "crowd",
+   "steamboat"
+  ]
  },
  {
   "title": "General View from Suspension Bridge, Niagara Falls, U.S.A, by Underwood & Underwood",
   "place": "Niagara Falls, New York",
-  "year": "1895–1903",
-  "sy": 1895,
+  "year": "1894",
+  "sy": 1894,
   "era": "mid",
   "cats": [
    "water",
@@ -89892,15 +89988,19 @@
    "cities"
   ],
   "publisher_series": null,
-  "date_edtf": "1895/1903",
-  "date_start": 1895,
-  "date_end": 1903,
+  "date_edtf": "1894",
+  "date_start": 1894,
+  "date_end": 1894,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
   "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
   "license_url": null,
   "source_page_id": 10065083,
   "source_revision_id": null,
-  "source_sha1": "a5503a8c03cd0947e16944959c28ae1fe6850987"
+  "source_sha1": "a5503a8c03cd0947e16944959c28ae1fe6850987",
+  "tags": [
+   "waterfall",
+   "steamboat"
+  ]
  },
  {
   "title": "Bridge over Mississippi, St. Louis, Mo, by Underwood & Underwood 3",
@@ -89969,14 +90069,18 @@
   "license_url": null,
   "source_page_id": 7467333,
   "source_revision_id": null,
-  "source_sha1": "c7a83abbe786841d481f0d2a708e24bb9732e00c"
+  "source_sha1": "c7a83abbe786841d481f0d2a708e24bb9732e00c",
+  "tags": [
+   "bridge",
+   "river"
+  ]
  },
  {
   "title": "The Globe at Washington Park, Chicago, by Underwood & Underwood",
   "place": "Chicago, Illinois",
-  "year": "1865",
-  "sy": 1865,
-  "era": "early",
+  "year": "1893",
+  "sy": 1893,
+  "era": "mid",
   "cats": [
    "oddities"
   ],
@@ -90030,21 +90134,25 @@
    "oddities"
   ],
   "publisher_series": null,
-  "date_edtf": "1865",
-  "date_start": 1865,
-  "date_end": 1865,
+  "date_edtf": "1893",
+  "date_start": 1893,
+  "date_end": 1893,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
   "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
   "license_url": null,
   "source_page_id": 7287224,
   "source_revision_id": null,
-  "source_sha1": "51e638b096b986f047159a03c80c0a9563160c24"
+  "source_sha1": "51e638b096b986f047159a03c80c0a9563160c24",
+  "tags": [
+   "garden",
+   "flowers"
+  ]
  },
  {
   "title": "Randolph Street, Chicago, U.S.A, by Underwood & Underwood 2",
   "place": "Chicago, Illinois",
-  "year": "1898",
-  "sy": 1898,
+  "year": "1893",
+  "sy": 1893,
   "era": "mid",
   "cats": [
    "cities"
@@ -90099,15 +90207,21 @@
    "cities"
   ],
   "publisher_series": null,
-  "date_edtf": "1898",
-  "date_start": 1898,
-  "date_end": 1898,
+  "date_edtf": "1893",
+  "date_start": 1893,
+  "date_end": 1893,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
   "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
   "license_url": null,
   "source_page_id": 7289094,
   "source_revision_id": null,
-  "source_sha1": "e24fe2b68fac29c7bd950ee71e170d585e52d5dc"
+  "source_sha1": "e24fe2b68fac29c7bd950ee71e170d585e52d5dc",
+  "tags": [
+   "main street",
+   "streetcar",
+   "crowd",
+   "skyscraper"
+  ]
  },
  {
   "title": "Bridge over Mississippi, St. Louis, Mo, by Underwood & Underwood 2",
@@ -90176,7 +90290,11 @@
   "license_url": null,
   "source_page_id": 7467328,
   "source_revision_id": null,
-  "source_sha1": "8a1233bc1a1ed718052c005da66494aed1bf03f4"
+  "source_sha1": "8a1233bc1a1ed718052c005da66494aed1bf03f4",
+  "tags": [
+   "bridge",
+   "river"
+  ]
  },
  {
   "title": "Wawona, as we drove through it, Mariposa Grove, California, by Underwood & Underwood 3",
@@ -90245,6 +90363,10 @@
   "license_url": null,
   "source_page_id": 12019363,
   "source_revision_id": null,
-  "source_sha1": "82a970537d32cbfc4fab5937e493c3363a89be8a"
+  "source_sha1": "82a970537d32cbfc4fab5937e493c3363a89be8a",
+  "tags": [
+   "sequoia",
+   "horse-drawn carriage"
+  ]
  }
 ]

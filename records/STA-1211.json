@@ -1,9 +1,9 @@
 {
  "title": "Sol's clock, Washington Park, Chicago, Ill. U.S.A, by Underwood & Underwood 2",
  "place": "Chicago, Illinois",
- "year": "1865",
- "sy": 1865,
- "era": "early",
+ "year": "1899",
+ "sy": 1899,
+ "era": "mid",
  "cats": [
   "oddities"
  ],
@@ -57,13 +57,18 @@
   "oddities"
  ],
  "publisher_series": null,
- "date_edtf": "1865",
- "date_start": 1865,
- "date_end": 1865,
+ "date_edtf": "1899",
+ "date_start": 1899,
+ "date_end": 1899,
  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
  "license_url": null,
  "source_page_id": 7287161,
  "source_revision_id": null,
- "source_sha1": "9f5184c7b41a766abcb8eea87b29492887c95380"
+ "source_sha1": "9f5184c7b41a766abcb8eea87b29492887c95380",
+ "tags": [
+  "children",
+  "garden",
+  "flowers"
+ ]
 }

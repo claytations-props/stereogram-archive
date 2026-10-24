@@ -1,69 +1,73 @@
 {
-  "title": "An eroded sentinel - survivor of the primeval flood, by Underwood & Underwood",
-  "place": "Grand Canyon, Arizona",
-  "year": "1903",
-  "sy": 1903,
-  "era": "late",
-  "cats": [
-    "mountains"
+ "title": "An eroded sentinel - survivor of the primeval flood, by Underwood & Underwood",
+ "place": "Grand Canyon, Arizona",
+ "year": "1903",
+ "sy": 1903,
+ "era": "late",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/An_eroded_sentinel_-_survivor_of_the_primeval_flood%2C_by_Underwood_%26_Underwood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/d4/An_eroded_sentinel_-_survivor_of_the_primeval_flood%2C_by_Underwood_%26_Underwood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:An_eroded_sentinel_-_survivor_of_the_primeval_flood,_by_Underwood_%26_Underwood.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 395,
+ "id": "STA-1192",
+ "rect": "rect/1191.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.14,
+ "rot": 0.01,
+ "range": 1.23,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8841,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/d/d4/An_eroded_sentinel_-_survivor_of_the_primeval_flood%2C_by_Underwood_%26_Underwood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8841,
+  "L": [
+   0.401316,
+   0.0,
+   0.078289,
+   0.0,
+   0.873418,
+   0.067089
   ],
-  "blurb": "",
-  "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/An_eroded_sentinel_-_survivor_of_the_primeval_flood%2C_by_Underwood_%26_Underwood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d4/An_eroded_sentinel_-_survivor_of_the_primeval_flood%2C_by_Underwood_%26_Underwood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "source": "https://commons.wikimedia.org/wiki/File:An_eroded_sentinel_-_survivor_of_the_primeval_flood,_by_Underwood_%26_Underwood.jpg",
-  "license": "Public domain",
-  "w": 760,
-  "h": 395,
-  "id": "STA-1192",
-  "rect": "rect/1191.jpg",
-  "coll": "Source unrecorded",
-  "vert": 0.14,
-  "rot": 0.01,
-  "range": 1.23,
-  "f": 1.0,
-  "depth": "Gentle",
-  "va": 0.8841,
-  "px": {
-    "s": "https://upload.wikimedia.org/wikipedia/commons/d/d4/An_eroded_sentinel_-_survivor_of_the_primeval_flood%2C_by_Underwood_%26_Underwood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "ar": 0.8841,
-    "L": [
-      0.401316,
-      0.0,
-      0.078289,
-      0.0,
-      0.873418,
-      0.067089
-    ],
-    "R": [
-      0.39315,
-      0.000809,
-      0.511238,
-      -0.000484,
-      0.8748,
-      0.058522
-    ],
-    "g": [
-      0.9569,
-      1.0
-    ]
-  },
-  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.01° of rotation. Depth measured gentle (1.23% of frame width); hung in the VR Parlor at full size.",
-  "repository": null,
-  "collection_name": null,
-  "publisher": null,
-  "creator": "Underwood & Underwood",
-  "creator_dates": null,
-  "facets": [
-    "mountains"
+  "R": [
+   0.39315,
+   0.000809,
+   0.511238,
+   -0.000484,
+   0.8748,
+   0.058522
   ],
-  "publisher_series": null,
-  "date_edtf": "1903",
-  "date_start": 1903,
-  "date_end": 1903,
-  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
-  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
-  "license_url": null,
-  "source_page_id": 7144284,
-  "source_revision_id": null,
-  "source_sha1": "fff1633e8ed5b1524614a4f055035af3a39eef21"
+  "g": [
+   0.9569,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.01° of rotation. Depth measured gentle (1.23% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Underwood & Underwood",
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1903",
+ "date_start": 1903,
+ "date_end": 1903,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7144284,
+ "source_revision_id": null,
+ "source_sha1": "fff1633e8ed5b1524614a4f055035af3a39eef21",
+ "tags": [
+  "rock formation",
+  "canyon"
+ ]
 }

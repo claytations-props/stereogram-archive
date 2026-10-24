@@ -1,69 +1,73 @@
 {
-  "title": "Davelis-Underwood 2",
-  "place": "Place unrecorded",
-  "year": "1897",
-  "sy": 1897,
-  "era": "mid",
-  "cats": [
-    "people"
+ "title": "Davelis-Underwood 2",
+ "place": "Place unrecorded",
+ "year": "1897",
+ "sy": 1897,
+ "era": "mid",
+ "cats": [
+  "people"
+ ],
+ "blurb": "Underwood & Underwood - The famous Insurgent Chief Davelis, for which life the Sultan offers $15,000",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Davelis-Underwood_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Davelis-Underwood_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Davelis-Underwood_2.png",
+ "license": "Public domain",
+ "w": 1851,
+ "h": 846,
+ "id": "STA-1194",
+ "rect": "rect/1193.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.07,
+ "rot": 0.01,
+ "range": 4.5,
+ "f": 0.82,
+ "depth": "Deep",
+ "va": 0.8508,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Davelis-Underwood_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8508,
+  "L": [
+   0.332793,
+   0.0,
+   0.146137,
+   0.0,
+   0.855792,
+   0.072695
   ],
-  "blurb": "Underwood & Underwood - The famous Insurgent Chief Davelis, for which life the Sultan offers $15,000",
-  "img": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Davelis-Underwood_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Davelis-Underwood_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "source": "https://commons.wikimedia.org/wiki/File:Davelis-Underwood_2.png",
-  "license": "Public domain",
-  "w": 1851,
-  "h": 846,
-  "id": "STA-1194",
-  "rect": "rect/1193.jpg",
-  "coll": "Source unrecorded",
-  "vert": 0.07,
-  "rot": 0.01,
-  "range": 4.5,
-  "f": 0.82,
-  "depth": "Deep",
-  "va": 0.8508,
-  "px": {
-    "s": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Davelis-Underwood_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "ar": 0.8508,
-    "L": [
-      0.332793,
-      0.0,
-      0.146137,
-      0.0,
-      0.855792,
-      0.072695
-    ],
-    "R": [
-      0.331808,
-      -0.004609,
-      0.509303,
-      0.003567,
-      0.853303,
-      0.067268
-    ],
-    "g": [
-      0.9215,
-      1.0
-    ]
-  },
-  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured deep (4.5% of frame width); hung in the VR Parlor at 82% size.",
-  "repository": null,
-  "collection_name": null,
-  "publisher": null,
-  "creator": null,
-  "creator_dates": null,
-  "facets": [
-    "people"
+  "R": [
+   0.331808,
+   -0.004609,
+   0.509303,
+   0.003567,
+   0.853303,
+   0.067268
   ],
-  "publisher_series": null,
-  "date_edtf": "1897",
-  "date_start": 1897,
-  "date_end": 1897,
-  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
-  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
-  "license_url": null,
-  "source_page_id": 118849313,
-  "source_revision_id": null,
-  "source_sha1": "45ead4c8b20857fe8763ce1b2cfb7140125cf94e"
+  "g": [
+   0.9215,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured deep (4.5% of frame width); hung in the VR Parlor at 82% size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1897",
+ "date_start": 1897,
+ "date_end": 1897,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 118849313,
+ "source_revision_id": null,
+ "source_sha1": "45ead4c8b20857fe8763ce1b2cfb7140125cf94e",
+ "tags": [
+  "soldiers",
+  "portrait group"
+ ]
 }

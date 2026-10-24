@@ -1,69 +1,73 @@
 {
-  "title": "United States Capitol, Washington, D.C, by Underwood & Underwood 3",
-  "place": "Washington, D.C.",
-  "year": "c. 1900",
-  "sy": 1900,
-  "era": "late",
-  "cats": [
-    "cities"
+ "title": "United States Capitol, Washington, D.C, by Underwood & Underwood 3",
+ "place": "Washington, D.C.",
+ "year": "c. 1900",
+ "sy": 1900,
+ "era": "late",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/United_States_Capitol%2C_Washington%2C_D.C%2C_by_Underwood_%26_Underwood_3.jpg/1920px-United_States_Capitol%2C_Washington%2C_D.C%2C_by_Underwood_%26_Underwood_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/10/United_States_Capitol%2C_Washington%2C_D.C%2C_by_Underwood_%26_Underwood_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:United_States_Capitol,_Washington,_D.C,_by_Underwood_%26_Underwood_3.jpg",
+ "license": "Public domain",
+ "w": 2643,
+ "h": 1332,
+ "id": "STA-1199",
+ "rect": "rect/1198.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.11,
+ "rot": 0.02,
+ "range": 1.95,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.196,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/United_States_Capitol%2C_Washington%2C_D.C%2C_by_Underwood_%26_Underwood_3.jpg/1920px-United_States_Capitol%2C_Washington%2C_D.C%2C_by_Underwood_%26_Underwood_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.196,
+  "L": [
+   0.406771,
+   0.0,
+   0.07474,
+   0.0,
+   0.674587,
+   0.036674
   ],
-  "blurb": "",
-  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/United_States_Capitol%2C_Washington%2C_D.C%2C_by_Underwood_%26_Underwood_3.jpg/1920px-United_States_Capitol%2C_Washington%2C_D.C%2C_by_Underwood_%26_Underwood_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "full": "https://upload.wikimedia.org/wikipedia/commons/1/10/United_States_Capitol%2C_Washington%2C_D.C%2C_by_Underwood_%26_Underwood_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "source": "https://commons.wikimedia.org/wiki/File:United_States_Capitol,_Washington,_D.C,_by_Underwood_%26_Underwood_3.jpg",
-  "license": "Public domain",
-  "w": 2643,
-  "h": 1332,
-  "id": "STA-1199",
-  "rect": "rect/1198.jpg",
-  "coll": "Source unrecorded",
-  "vert": 0.11,
-  "rot": 0.02,
-  "range": 1.95,
-  "f": 1.0,
-  "depth": "Moderate",
-  "va": 1.196,
-  "px": {
-    "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/United_States_Capitol%2C_Washington%2C_D.C%2C_by_Underwood_%26_Underwood_3.jpg/1920px-United_States_Capitol%2C_Washington%2C_D.C%2C_by_Underwood_%26_Underwood_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "ar": 1.196,
-    "L": [
-      0.406771,
-      0.0,
-      0.07474,
-      0.0,
-      0.674587,
-      0.036674
-    ],
-    "R": [
-      0.412288,
-      0.004472,
-      0.505653,
-      -0.014179,
-      0.679836,
-      0.036503
-    ],
-    "g": [
-      1.0,
-      0.9454
-    ]
-  },
-  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured moderate (1.95% of frame width); hung in the VR Parlor at full size.",
-  "repository": null,
-  "collection_name": null,
-  "publisher": null,
-  "creator": "Underwood & Underwood",
-  "creator_dates": null,
-  "facets": [
-    "cities"
+  "R": [
+   0.412288,
+   0.004472,
+   0.505653,
+   -0.014179,
+   0.679836,
+   0.036503
   ],
-  "publisher_series": null,
-  "date_edtf": "1900~",
-  "date_start": 1895,
-  "date_end": 1905,
-  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
-  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
-  "license_url": null,
-  "source_page_id": 10248880,
-  "source_revision_id": null,
-  "source_sha1": "2c441ee2d462317be2acf39963a324cafbf39644"
+  "g": [
+   1.0,
+   0.9454
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured moderate (1.95% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Underwood & Underwood",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1900~",
+ "date_start": 1895,
+ "date_end": 1905,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10248880,
+ "source_revision_id": null,
+ "source_sha1": "2c441ee2d462317be2acf39963a324cafbf39644",
+ "tags": [
+  "staircase",
+  "trees"
+ ]
 }
