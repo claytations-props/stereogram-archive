@@ -1,0 +1,69 @@
+{
+ "title": "Degree Oil Co",
+ "place": "Place unrecorded",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Degree_Oil_Co%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/94/Degree_Oil_Co%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Degree_Oil_Co,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 388,
+ "id": "STA-1220",
+ "rect": "rect/1219.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.21,
+ "rot": 0.0,
+ "range": 0.92,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.069,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/9/94/Degree_Oil_Co%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.069,
+  "L": [
+   0.367105,
+   0.0,
+   0.105921,
+   0.0,
+   0.67268,
+   0.228093
+  ],
+  "R": [
+   0.366067,
+   -0.014734,
+   0.536783,
+   0.008954,
+   0.668197,
+   0.238518
+  ],
+  "g": [
+   0.9635,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.0° of rotation. Depth measured gentle (0.92% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12019138,
+ "source_revision_id": null,
+ "source_sha1": "08d93cf48cc2d8585847c21b81c6caf7708d02e6"
+}

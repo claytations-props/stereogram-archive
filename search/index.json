@@ -1,6 +1,6 @@
 {
  "version": 1,
- "count": 1218,
+ "count": 1245,
  "blockSize": 250,
  "chunks": [
   {
@@ -30,8 +30,8 @@
   {
    "file": "chunk-0005.json",
    "from": "STA-1001",
-   "to": "STA-1218",
-   "items": 218
+   "to": "STA-1245",
+   "items": 245
   }
  ]
 }

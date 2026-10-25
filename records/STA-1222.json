@@ -1,0 +1,69 @@
+{
+ "title": "Oil wells, Bradford, Pa",
+ "place": "Bradford, Pennsylvania",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/0/07/Oil_wells%2C_Bradford%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/07/Oil_wells%2C_Bradford%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Oil_wells,_Bradford,_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 471,
+ "id": "STA-1222",
+ "rect": "rect/1221.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.0,
+ "range": 0.74,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.7082,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/0/07/Oil_wells%2C_Bradford%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.7082,
+  "L": [
+   0.373684,
+   0.0,
+   0.107237,
+   0.0,
+   0.85138,
+   0.09448
+  ],
+  "R": [
+   0.375255,
+   -0.001396,
+   0.535044,
+   -0.00227,
+   0.852618,
+   0.099661
+  ],
+  "g": [
+   0.988,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (0.74% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12019214,
+ "source_revision_id": null,
+ "source_sha1": "e7bd4f9872a59cfa11baaef2c17e4e51b08f4a4b"
+}

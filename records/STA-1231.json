@@ -1,0 +1,69 @@
+{
+ "title": "View of a building surrounded by oil derricks and barrels",
+ "place": "Place unrecorded",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/View_of_a_building_surrounded_by_oil_derricks_and_barrels%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/ed/View_of_a_building_surrounded_by_oil_derricks_and_barrels%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_building_surrounded_by_oil_derricks_and_barrels,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 373,
+ "id": "STA-1231",
+ "rect": "rect/1230.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.25,
+ "rot": 0.03,
+ "range": 1.41,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0925,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/e/ed/View_of_a_building_surrounded_by_oil_derricks_and_barrels%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.0925,
+  "L": [
+   0.403947,
+   0.0,
+   0.071711,
+   0.0,
+   0.753351,
+   0.036193
+  ],
+  "R": [
+   0.405551,
+   -0.019185,
+   0.531106,
+   0.005476,
+   0.763151,
+   0.046131
+  ],
+  "g": [
+   1.0,
+   0.998
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.25% vertical error and 0.03° of rotation. Depth measured gentle (1.41% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": "oil derricks and barrels",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12019091,
+ "source_revision_id": null,
+ "source_sha1": "fa2731aefceb5249af3049361e715123ae853472"
+}
