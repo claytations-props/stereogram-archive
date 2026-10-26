@@ -413,7 +413,7 @@ function listContext(){
  if(state.coll!=="all")parts.push("Collection: "+state.coll);
  if(state.cat==="favs")parts.push("Reading List");
  else if(state.cat!=="all")parts.push("Series: "+(CATLABEL[state.cat]||state.cat));
- if(state.era!=="all"){const opt=document.querySelector("#era option[value='"+state.era+"']");parts.push("Era: "+(opt?opt.textContent:state.era))}
+ if(state.era!=="all"){const opt=document.querySelector("#era option[value='"+state.era+"']");/* round 5: the option text now carries its live count (round 4), so the count line must use the base label or the count prints twice */parts.push("Era: "+(opt?(opt.dataset.base||opt.textContent):state.era))}
  if(state.q)parts.push('Search: "'+state.q+'"');
  return parts.length?parts.join(" · "):"All items";
 }
