@@ -107,9 +107,10 @@ vr.html with a local three.js in place of the CDN copy, as in round
   a proxy; the set selector and counts are what this check covers,
   and vr.html is unchanged this round.)
 - Live-verified on vrparlor.com after push: index.html and vr.html
-  both 200, served bytes identical to the repo, the era-label fix,
-  the empty-state button, and the remaining-count code present in
-  the served index.html.
+  both 200, served bytes identical to the repo (identical on the
+  third check, after the Pages deploy caught up with the push), the
+  era-label fix, the empty-state button, and the remaining-count
+  code present in the served index.html.
 
 ## Commits (one per change, each revertible on its own)
 
