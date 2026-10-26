@@ -487,7 +487,7 @@ function render(){
     abandon the list view instead of filling it. */
  const et=$("#emptyText"),ec=$("#emptyClear");
  if(!currentList.length){et.textContent=state.cat==="favs"?"Your reading list is empty. Tap the heart on any card to keep it here.":"Nothing matches that. Try clearing the search, these photographs are old but they are not hiding.";if(ec)ec.hidden=state.cat==="favs";}
- const mb=$("#moreBtn");if(mb)mb.style.display=currentList.length>shown?"block":"none";
+ const mb=$("#moreBtn");if(mb){mb.style.display=currentList.length>shown?"block":"none";/* Round 5: the button is the decision point, so it names what is left; the top count line is out of sight by then. */if(currentList.length>shown)mb.textContent="Show more items · "+(currentList.length-shown)+" remaining";}
  if(state.view==="reg"){
   g.style.display="none";rg.style.display="block";
   rg.innerHTML=`<div class="regwrap"><table><thead><tr><th>No.</th><th>Title</th><th>Date</th><th class="hidemb">Place</th><th class="hidemb">Series</th><th>Depth</th></tr></thead><tbody>${page.map((d,i)=>`<tr data-i="${i}"><td class="no">${d.id}</td><td class="ttl">${d.title}</td><td>${d.year}</td><td class="hidemb">${d.place}</td><td class="hidemb">${d.cats.map(c=>CATLABEL[c]||c).join(", ")}</td><td>${d.depth}</td></tr>`).join("")}</tbody></table></div>`;
