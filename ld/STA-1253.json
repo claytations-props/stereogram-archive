@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1253.json",
+ "name": "Bound for the Klondike gold fields, Chilkoot Pass, Alaska, by Keystone View Company 8",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1252.jpg",
+ "identifier": "STA-1253",
+ "creator": {
+  "@type": "Person",
+  "name": "Keystone View Company"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chilkoot Pass, Alaska"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bound_for_the_Klondike_gold_fields,_Chilkoot_Pass,_Alaska,_by_Keystone_View_Company_8.jpg"
+}

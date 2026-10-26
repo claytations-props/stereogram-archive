@@ -1,0 +1,12 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1240.json",
+ "name": "Thoughts of home. (Portrait of two men in front of a tree, oil derricks in background.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1239.jpg",
+ "identifier": "STA-1240",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Thoughts_of_home._(Portrait_of_two_men_in_front_of_a_tree,_oil_derricks_in_background.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

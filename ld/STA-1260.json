@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1260.json",
+ "name": "Prospectors returning to camp. 62 degrees below zero, Alaska, by Keystone View Company 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1259.jpg",
+ "identifier": "STA-1260",
+ "creator": {
+  "@type": "Person",
+  "name": "Keystone View Company"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Alaska"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Prospectors_returning_to_camp._62_degrees_below_zero,_Alaska,_by_Keystone_View_Company_2.png"
+}

@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>1218</quantity>
+    <quantity>1264</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -1554,6 +1554,62 @@
       <unittitle>General View from Suspension Bridge, Niagara Falls, U.S.A, by Underwood &amp; Underwood</unittitle>
       <unitdate normal="1894">1894</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1212.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1223">
+     <did>
+      <unitid>STA-1223</unitid>
+      <unittitle>Scene on Oil Creek, Pennsylvania, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1222.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1235">
+     <did>
+      <unitid>STA-1235</unitid>
+      <unittitle>Down from Cherry Run. (Oil derrick and bridge over the creek.)</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1234.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1236">
+     <did>
+      <unitid>STA-1236</unitid>
+      <unittitle>Scene on Oil Creek, Pennsylvania, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1235.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1238">
+     <did>
+      <unitid>STA-1238</unitid>
+      <unittitle>Union Hill, Cherry River, Oil City</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1237.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1244">
+     <did>
+      <unitid>STA-1244</unitid>
+      <unittitle>Hollow sycamore, Oil Creek. (Group portrait of men and boys in the hollow bole of a tree.)</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1243.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1247">
+     <did>
+      <unitid>STA-1247</unitid>
+      <unittitle>Stereoscopic views of Niagara Falls, by Keystone View Company</unittitle>
+      <unitdate normal="1893/1902">1893–1902</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1246.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1257">
+     <did>
+      <unitid>STA-1257</unitid>
+      <unittitle>Going up the Yukon River by moonlight to Dawson City, Alaska, by Keystone View Company 2</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1256.jpg"/>
      </did>
     </c>
    </c>
@@ -6486,6 +6542,38 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1216.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-1219">
+     <did>
+      <unitid>STA-1219</unitid>
+      <unittitle>Oil City, Pa</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1218.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1231">
+     <did>
+      <unitid>STA-1231</unitid>
+      <unittitle>View of a building surrounded by oil derricks and barrels</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1230.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1245">
+     <did>
+      <unitid>STA-1245</unitid>
+      <unittitle>Congress Park, Bradford, Pa. (View down a street lined with row houses, oil derrick at the end of the street.)</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1244.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1248">
+     <did>
+      <unitid>STA-1248</unitid>
+      <unittitle>Keystone View Company 03729 Trincomalee, a typical and important street from Kandy, Ceylon, Sri Lanka, historic stereoscopic view with many people at an unidentified location</unittitle>
+      <unitdate normal="1895/1905">c. 1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1247.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -7835,6 +7923,14 @@
       <unittitle>Cotton is king - A plantation scene, Georgia, by Underwood &amp; Underwood 3</unittitle>
       <unitdate normal="1895">1895</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1208.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1240">
+     <did>
+      <unitid>STA-1240</unitid>
+      <unittitle>Thoughts of home. (Portrait of two men in front of a tree, oil derricks in background.)</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1239.jpg"/>
      </did>
     </c>
    </c>
@@ -9766,7 +9862,7 @@
      <did>
       <unitid>STA-1195</unitid>
       <unittitle>Giant hippopotamus, by Underwood &amp; Underwood 2</unittitle>
-      <unitdate normal="1865">1865</unitdate>
+      <unitdate>Undated</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1194.jpg"/>
      </did>
     </c>
@@ -9800,6 +9896,278 @@
       <unittitle>The Globe at Washington Park, Chicago, by Underwood &amp; Underwood</unittitle>
       <unitdate normal="1893">1893</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1214.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1220">
+     <did>
+      <unitid>STA-1220</unitid>
+      <unittitle>Degree Oil Co</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1219.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1221">
+     <did>
+      <unitid>STA-1221</unitid>
+      <unittitle>Phil Sheridan (oil) tanks, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1220.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1222">
+     <did>
+      <unitid>STA-1222</unitid>
+      <unittitle>Oil wells, Bradford, Pa</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1221.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1224">
+     <did>
+      <unitid>STA-1224</unitid>
+      <unittitle>Shipping oil, Story Farm</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1223.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1225">
+     <did>
+      <unitid>STA-1225</unitid>
+      <unittitle>Oil derricks</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1224.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1226">
+     <did>
+      <unitid>STA-1226</unitid>
+      <unittitle>Old Boyd House and oil exchange</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1225.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1227">
+     <did>
+      <unitid>STA-1227</unitid>
+      <unittitle>Drilling an oil well</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1226.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1228">
+     <did>
+      <unitid>STA-1228</unitid>
+      <unittitle>Drilling an oil well, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1227.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1229">
+     <did>
+      <unitid>STA-1229</unitid>
+      <unittitle>Phil Sheridan (oil) tanks</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1228.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1230">
+     <did>
+      <unitid>STA-1230</unitid>
+      <unittitle>Oil tanks, Bradford, Pa</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1229.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1232">
+     <did>
+      <unitid>STA-1232</unitid>
+      <unittitle>Shipping oil, McElhany's Farm</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1231.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1233">
+     <did>
+      <unitid>STA-1233</unitid>
+      <unittitle>Shipping oil, McElhany's Farm, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1232.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1234">
+     <did>
+      <unitid>STA-1234</unitid>
+      <unittitle>Oil wells, Bradford, Pa, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1233.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1237">
+     <did>
+      <unitid>STA-1237</unitid>
+      <unittitle>Oil wells and tanks, Bradford, Pa, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1236.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1239">
+     <did>
+      <unitid>STA-1239</unitid>
+      <unittitle>Source of the world's most gigantic fortune, pumping wells in the oil country, Pennsylvania</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1238.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1241">
+     <did>
+      <unitid>STA-1241</unitid>
+      <unittitle>Filling shell with nitro-glycerine, preparatory to shooting the well, oil field in Penn'a., U.S.A</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1240.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1242">
+     <did>
+      <unitid>STA-1242</unitid>
+      <unittitle>Source of the world's most gigantic fortune, pumping wells in the oil country, Pennsylvania, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1241.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1243">
+     <did>
+      <unitid>STA-1243</unitid>
+      <unittitle>Spindle Top, an important oil region near Beaumont, Texas, U.S.A, by Keystone View Company</unittitle>
+      <unitdate normal="1910/1920">c. 1915</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1242.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1246">
+     <did>
+      <unitid>STA-1246</unitid>
+      <unittitle>A happy home in Alaska, by Keystone View Company 2</unittitle>
+      <unitdate normal="1898/1900">1898–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1245.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1249">
+     <did>
+      <unitid>STA-1249</unitid>
+      <unittitle>Bound for the Klondike gold fields, Chilkoot Pass, Alaska, by Keystone View Company 3</unittitle>
+      <unitdate normal="1898/1900">1898–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1248.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1250">
+     <did>
+      <unitid>STA-1250</unitid>
+      <unittitle>Bound for the Klondike gold fields, Chilkoot Pass, Alaska, by Keystone View Company 9</unittitle>
+      <unitdate normal="1898/1900">1898–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1249.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1251">
+     <did>
+      <unitid>STA-1251</unitid>
+      <unittitle>Bound for the Klondike gold fields, Chilkoot Pass, Alaska, by Keystone View Company 2</unittitle>
+      <unitdate normal="1898/1900">1898–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1250.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1252">
+     <did>
+      <unitid>STA-1252</unitid>
+      <unittitle>Bound for the Klondike gold fields, Chilkoot Pass, Alaska, by Keystone View Company 5</unittitle>
+      <unitdate normal="1898/1900">1898–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1251.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1253">
+     <did>
+      <unitid>STA-1253</unitid>
+      <unittitle>Bound for the Klondike gold fields, Chilkoot Pass, Alaska, by Keystone View Company 8</unittitle>
+      <unitdate normal="1898/1900">1898–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1252.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1254">
+     <did>
+      <unitid>STA-1254</unitid>
+      <unittitle>Bound for the Klondike gold fields, Chilkoot Pass, Alaska, by Keystone View Company 4</unittitle>
+      <unitdate normal="1898/1900">1898–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1253.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1255">
+     <did>
+      <unitid>STA-1255</unitid>
+      <unittitle>Bound for the Klondike gold fields, Chilkoot Pass, Alaska, by Keystone View Company 6</unittitle>
+      <unitdate normal="1898/1900">1898–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1254.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1256">
+     <did>
+      <unitid>STA-1256</unitid>
+      <unittitle>Bound for the Klondike gold fields, Chilkoot Pass, Alaska, by Keystone View Company 7</unittitle>
+      <unitdate normal="1898/1900">1898–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1255.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1258">
+     <did>
+      <unitid>STA-1258</unitid>
+      <unittitle>Preparing to climb "The Golden Stair" and Peterson's Trail, Chilkoot Pass, Alaska, by Keystone View Company 3</unittitle>
+      <unitdate normal="1898/1900">1898–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1257.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1259">
+     <did>
+      <unitid>STA-1259</unitid>
+      <unittitle>Miners and packers climbing the "Golden Stair" trail, Chilkoot Pass, Alaska, by Keystone View Company 2</unittitle>
+      <unitdate normal="1898/1900">1898–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1258.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1260">
+     <did>
+      <unitid>STA-1260</unitid>
+      <unittitle>Prospectors returning to camp. 62 degrees below zero, Alaska, by Keystone View Company 2</unittitle>
+      <unitdate normal="1898/1900">1898–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1259.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1261">
+     <did>
+      <unitid>STA-1261</unitid>
+      <unittitle>A happy home in Alaska, by Keystone View Company</unittitle>
+      <unitdate normal="1898/1900">1898–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1260.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1262">
+     <did>
+      <unitid>STA-1262</unitid>
+      <unittitle>Preparing to climb "The Golden Stair" and Peterson's Trail, Chilkoot Pass, Alaska, by Keystone View Company 2</unittitle>
+      <unitdate normal="1898/1900">1898–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1261.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1263">
+     <did>
+      <unitid>STA-1263</unitid>
+      <unittitle>Distant view of Chilkoot Pass, Alaska, by Keystone View Company</unittitle>
+      <unitdate normal="1898/1900">1898–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1262.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1264">
+     <did>
+      <unitid>STA-1264</unitid>
+      <unittitle>Distant view of Chilcoot (Chilkoot) Pass, Alaska, by Keystone View Company</unittitle>
+      <unitdate normal="1898/1900">1898–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1263.jpg"/>
      </did>
     </c>
    </c>

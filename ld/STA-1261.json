@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1261.json",
+ "name": "A happy home in Alaska, by Keystone View Company",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1260.jpg",
+ "identifier": "STA-1261",
+ "creator": {
+  "@type": "Person",
+  "name": "Keystone View Company"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Alaska"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:A_happy_home_in_Alaska,_by_Keystone_View_Company.jpg"
+}

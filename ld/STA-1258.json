@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1258.json",
+ "name": "Preparing to climb \"The Golden Stair\" and Peterson's Trail, Chilkoot Pass, Alaska, by Keystone View Company 3",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1257.jpg",
+ "identifier": "STA-1258",
+ "creator": {
+  "@type": "Person",
+  "name": "Keystone View Company"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chilkoot Pass, Alaska"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Preparing_to_climb_%22The_Golden_Stair%22_and_Peterson%27s_Trail,_Chilkoot_Pass,_Alaska,_by_Keystone_View_Company_3.jpg"
+}

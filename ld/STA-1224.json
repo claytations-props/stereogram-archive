@@ -1,0 +1,12 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1224.json",
+ "name": "Shipping oil, Story Farm",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1223.jpg",
+ "identifier": "STA-1224",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Shipping_oil,_Story_Farm,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1257.json",
+ "name": "Going up the Yukon River by moonlight to Dawson City, Alaska, by Keystone View Company 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1256.jpg",
+ "identifier": "STA-1257",
+ "creator": {
+  "@type": "Person",
+  "name": "Keystone View Company"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yukon River, Alaska"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Going_up_the_Yukon_River_by_moonlight_to_Dawson_City,_Alaska,_by_Keystone_View_Company_2.jpg"
+}

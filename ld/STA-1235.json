@@ -1,0 +1,12 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1235.json",
+ "name": "Down from Cherry Run. (Oil derrick and bridge over the creek.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1234.jpg",
+ "identifier": "STA-1235",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Down_from_Cherry_Run._(Oil_derrick_and_bridge_over_the_creek.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}
