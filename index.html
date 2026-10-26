@@ -246,7 +246,7 @@ canvas#ana.show{display:block}
 <div class="grid" id="grid"></div>
 <div id="reg" style="display:none"></div>
 <button class="btn" id="moreBtn">Show more items</button>
-<div class="empty" id="empty" style="display:none">Nothing matches that. Try clearing the search, these photographs are old but they are not hiding.</div>
+<div class="empty" id="empty" style="display:none"><span id="emptyText"></span> <button class="btn" id="emptyClear" hidden>Clear search &amp; filters</button></div>
 </main>
 
 <div class="how" id="how" style="display:none">
@@ -481,7 +481,12 @@ function render(){
  $("#count").textContent="Showing "+currentList.length+" of "+DATA.length+" items"+(ctx!=="All items"?" · "+ctx:"")+sortTxt;
  $("#clearFilters").hidden=!isFiltered();
  const em=$("#empty");em.style.display=currentList.length?"none":"block";
- if(!currentList.length)em.textContent=state.cat==="favs"?"Your reading list is empty. Tap the heart on any card to keep it here.":"Nothing matches that. Try clearing the search, these photographs are old but they are not hiding.";
+ /* Round 5: the empty message tells the visitor to clear, so the clear
+    control sits with the message instead of only up in the toolbar.
+    The Reading List empty state keeps no button: clearing there would
+    abandon the list view instead of filling it. */
+ const et=$("#emptyText"),ec=$("#emptyClear");
+ if(!currentList.length){et.textContent=state.cat==="favs"?"Your reading list is empty. Tap the heart on any card to keep it here.":"Nothing matches that. Try clearing the search, these photographs are old but they are not hiding.";if(ec)ec.hidden=state.cat==="favs";}
  const mb=$("#moreBtn");if(mb)mb.style.display=currentList.length>shown?"block":"none";
  if(state.view==="reg"){
   g.style.display="none";rg.style.display="block";
@@ -506,7 +511,10 @@ function toggleFav(t){favs.has(t)?favs.delete(t):favs.add(t);localStorage.setIte
 let qTimer=null;
 $("#q").oninput=e=>{const v=e.target.value.trim().toLowerCase();clearTimeout(qTimer);qTimer=setTimeout(()=>{state.q=v;render()},120)};
 $("#era").onchange=e=>{state.era=e.target.value;render()};
-$("#clearFilters").onclick=()=>{state.q="";state.era="all";state.coll="all";$("#q").value="";$("#era").value="all";document.querySelectorAll("#collList .arow").forEach((r,i)=>r.classList.toggle("on",i===0));setCat("all")};
+/* Round 5: one reset shared by the toolbar button and the empty-state button. Sort is still not reset: sort is not a filter (round 4 holds). */
+function clearAllFilters(){state.q="";state.era="all";state.coll="all";$("#q").value="";$("#era").value="all";document.querySelectorAll("#collList .arow").forEach((r,i)=>r.classList.toggle("on",i===0));setCat("all")}
+$("#clearFilters").onclick=clearAllFilters;
+$("#emptyClear").onclick=clearAllFilters;
 $("#sort").onchange=e=>{state.sort=e.target.value;shuffleRank=null;render()};
 $("#howBtn").onclick=()=>{const h=$("#how");h.style.display=h.style.display==="none"?"block":"none";h.scrollIntoView({behavior:"smooth"})};
 $("#surprise").onclick=()=>{const list=filtered();if(!list.length)return;currentList=list;openViewer(Math.floor(Math.random()*list.length))};
