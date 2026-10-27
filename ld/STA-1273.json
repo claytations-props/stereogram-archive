@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1273.json",
+ "name": "Shore of Salt Lake, by Savage, C. R. (Charles Roscoe), 1832-1909",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1272.jpg",
+ "identifier": "STA-1273",
+ "creator": {
+  "@type": "Person",
+  "name": "Savage, C. R. (Charles Roscoe)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salt Lake"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Shore_of_Salt_Lake,_by_Savage,_C._R._(Charles_Roscoe),_1832-1909.png"
+}

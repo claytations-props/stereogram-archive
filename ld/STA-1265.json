@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1265.json",
+ "name": "Stereoscopic views of Salt Lake City, Utah - C. R. Savage, by Savage, C. R. (Charles Roscoe), 1832-1909",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1264.jpg",
+ "identifier": "STA-1265",
+ "creator": {
+  "@type": "Person",
+  "name": "Savage, C. R. (Charles Roscoe)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salt Lake City, Utah"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Stereoscopic_views_of_Salt_Lake_City,_Utah_-_C._R._Savage,_by_Savage,_C._R._(Charles_Roscoe),_1832-1909.jpg"
+}

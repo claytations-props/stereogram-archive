@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1283.json",
+ "name": "General view of Temple Block, Salt Lake City, by Savage, C. R. (Charles Roscoe), 1832-1909",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1282.jpg",
+ "identifier": "STA-1283",
+ "creator": {
+  "@type": "Person",
+  "name": "Savage, C. R. (Charles Roscoe)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salt Lake City"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:General_view_of_Temple_Block,_Salt_Lake_City,_by_Savage,_C._R._(Charles_Roscoe),_1832-1909.jpg"
+}

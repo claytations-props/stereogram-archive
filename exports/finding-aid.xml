@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>1264</quantity>
+    <quantity>1283</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -1610,6 +1610,38 @@
       <unittitle>Going up the Yukon River by moonlight to Dawson City, Alaska, by Keystone View Company 2</unittitle>
       <unitdate>Undated</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1256.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1268">
+     <did>
+      <unitid>STA-1268</unitid>
+      <unittitle>The old mill, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1267.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1269">
+     <did>
+      <unitid>STA-1269</unitid>
+      <unittitle>The old mill, by Savage, C. R. (Charles Roscoe), 1832-1909 2</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1268.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1273">
+     <did>
+      <unitid>STA-1273</unitid>
+      <unittitle>Shore of Salt Lake, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1272.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1278">
+     <did>
+      <unitid>STA-1278</unitid>
+      <unittitle>Shores of Salt Lake, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1277.jpg"/>
      </did>
     </c>
    </c>
@@ -3351,6 +3383,22 @@
       <unittitle>Wawona, as we drove through it, Mariposa Grove, California, by Underwood &amp; Underwood 3</unittitle>
       <unitdate normal="1902">1902</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1217.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1267">
+     <did>
+      <unitid>STA-1267</unitid>
+      <unittitle>Cathedral Rocks, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1266.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1282">
+     <did>
+      <unitid>STA-1282</unitid>
+      <unittitle>Little Zion Valley, Southern Utah, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1281.jpg"/>
      </did>
     </c>
    </c>
@@ -6574,6 +6622,94 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1247.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-1265">
+     <did>
+      <unitid>STA-1265</unitid>
+      <unittitle>Stereoscopic views of Salt Lake City, Utah - C. R. Savage, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1264.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1266">
+     <did>
+      <unitid>STA-1266</unitid>
+      <unittitle>Salt Lake Temple, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1265.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1270">
+     <did>
+      <unitid>STA-1270</unitid>
+      <unittitle>Scene on East Temple Street, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1269.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1271">
+     <did>
+      <unitid>STA-1271</unitid>
+      <unittitle>Interior of Tabernacle, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1270.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1272">
+     <did>
+      <unitid>STA-1272</unitid>
+      <unittitle>Front view of residence of Pres. B. Young, by Savage, C. R. (Charles Roscoe), 1832-1909 2</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1271.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1274">
+     <did>
+      <unitid>STA-1274</unitid>
+      <unittitle>Scene of East Temple Street, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1273.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1276">
+     <did>
+      <unitid>STA-1276</unitid>
+      <unittitle>Front view of residence of Pres. B. Young, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1275.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1277">
+     <did>
+      <unitid>STA-1277</unitid>
+      <unittitle>Interior of new tabernacle, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1276.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1279">
+     <did>
+      <unitid>STA-1279</unitid>
+      <unittitle>East side Salt Lake City, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1278.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1280">
+     <did>
+      <unitid>STA-1280</unitid>
+      <unittitle>Westside Salt Lake City, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1279.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1283">
+     <did>
+      <unitid>STA-1283</unitid>
+      <unittitle>General view of Temple Block, Salt Lake City, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1282.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -7931,6 +8067,14 @@
       <unittitle>Thoughts of home. (Portrait of two men in front of a tree, oil derricks in background.)</unittitle>
       <unitdate normal="1860">1860</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1239.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1281">
+     <did>
+      <unitid>STA-1281</unitid>
+      <unittitle>Salt Lake coach leaving Ophir, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1280.jpg"/>
      </did>
     </c>
    </c>
@@ -10168,6 +10312,14 @@
       <unittitle>Distant view of Chilcoot (Chilkoot) Pass, Alaska, by Keystone View Company</unittitle>
       <unitdate normal="1898/1900">1898–1900</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1263.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1275">
+     <did>
+      <unitid>STA-1275</unitid>
+      <unittitle>Cactus growth, Arizona, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1274.jpg"/>
      </did>
     </c>
    </c>

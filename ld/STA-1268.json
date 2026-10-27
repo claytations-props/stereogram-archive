@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1268.json",
+ "name": "The old mill, by Savage, C. R. (Charles Roscoe), 1832-1909",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1267.jpg",
+ "identifier": "STA-1268",
+ "creator": {
+  "@type": "Person",
+  "name": "Savage, C. R. (Charles Roscoe)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_old_mill,_by_Savage,_C._R._(Charles_Roscoe),_1832-1909.jpg"
+}

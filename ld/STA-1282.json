@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1282.json",
+ "name": "Little Zion Valley, Southern Utah, by Savage, C. R. (Charles Roscoe), 1832-1909",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1281.jpg",
+ "identifier": "STA-1282",
+ "creator": {
+  "@type": "Person",
+  "name": "Savage, C. R. (Charles Roscoe)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Little Zion Valley, Southern Utah"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Little_Zion_Valley,_Southern_Utah,_by_Savage,_C._R._(Charles_Roscoe),_1832-1909.jpg"
+}

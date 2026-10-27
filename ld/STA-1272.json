@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1272.json",
+ "name": "Front view of residence of Pres. B. Young, by Savage, C. R. (Charles Roscoe), 1832-1909 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1271.jpg",
+ "identifier": "STA-1272",
+ "creator": {
+  "@type": "Person",
+  "name": "Savage, C. R. (Charles Roscoe)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Front_view_of_residence_of_Pres._B._Young,_by_Savage,_C._R._(Charles_Roscoe),_1832-1909_2.jpg"
+}
