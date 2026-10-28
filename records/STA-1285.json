@@ -1,0 +1,69 @@
+{
+ "title": "Ferry landing from Oakland, by Griffith & Griffith",
+ "place": "Place unrecorded",
+ "year": "1906",
+ "sy": 1906,
+ "era": "late",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Ferry_landing_from_Oakland%2C_by_Griffith_%26_Griffith.jpg/1920px-Ferry_landing_from_Oakland%2C_by_Griffith_%26_Griffith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/12/Ferry_landing_from_Oakland%2C_by_Griffith_%26_Griffith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Ferry_landing_from_Oakland,_by_Griffith_%26_Griffith.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1408,
+ "id": "STA-1285",
+ "rect": "rect/1284.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.15,
+ "rot": 0.04,
+ "range": 1.06,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9713,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Ferry_landing_from_Oakland%2C_by_Griffith_%26_Griffith.jpg/1920px-Ferry_landing_from_Oakland%2C_by_Griffith_%26_Griffith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9713,
+  "L": [
+   0.388021,
+   0.0,
+   0.089323,
+   0.0,
+   0.776316,
+   0.083502
+  ],
+  "R": [
+   0.392068,
+   0.003326,
+   0.50836,
+   -0.012028,
+   0.776732,
+   0.087258
+  ],
+  "g": [
+   0.9804,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.04° of rotation. Depth measured gentle (1.06% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Griffith & Griffith",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1906",
+ "date_start": 1906,
+ "date_end": 1906,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10087915,
+ "source_revision_id": null,
+ "source_sha1": "e8d9846edf03544349460a1e7d74f57d4cf1b3e3"
+}
