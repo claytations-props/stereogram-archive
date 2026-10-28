@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1292.json",
+ "name": "Looking up Grant Ave. from Market St, by Griffith & Griffith",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1291.jpg",
+ "identifier": "STA-1292",
+ "creator": {
+  "@type": "Person",
+  "name": "Griffith & Griffith"
+ },
+ "dateCreated": "1906",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Looking_up_Grant_Ave._from_Market_St,_by_Griffith_%26_Griffith.png"
+}

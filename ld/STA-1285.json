@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1285.json",
+ "name": "Ferry landing from Oakland, by Griffith & Griffith",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1284.jpg",
+ "identifier": "STA-1285",
+ "creator": {
+  "@type": "Person",
+  "name": "Griffith & Griffith"
+ },
+ "dateCreated": "1906",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Ferry_landing_from_Oakland,_by_Griffith_%26_Griffith.jpg"
+}

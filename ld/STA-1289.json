@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1289.json",
+ "name": "Ruins of St. Ignatio's Catholic Church, by Griffith & Griffith",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1288.jpg",
+ "identifier": "STA-1289",
+ "creator": {
+  "@type": "Person",
+  "name": "Griffith & Griffith"
+ },
+ "dateCreated": "1906",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Ruins_of_St._Ignatio%27s_Catholic_Church,_by_Griffith_%26_Griffith.jpg"
+}

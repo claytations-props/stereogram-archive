@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>1283</quantity>
+    <quantity>1295</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -1642,6 +1642,14 @@
       <unittitle>Shores of Salt Lake, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
       <unitdate>Undated</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1277.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1284">
+     <did>
+      <unitid>STA-1284</unitid>
+      <unittitle>On the Trail, Yellowstone Park, by Griffith &amp; Griffith</unittitle>
+      <unitdate normal="1890/1900">c. 1895</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1283.jpg"/>
      </did>
     </c>
    </c>
@@ -3399,6 +3407,14 @@
       <unittitle>Little Zion Valley, Southern Utah, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
       <unitdate>Undated</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1281.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1290">
+     <did>
+      <unitid>STA-1290</unitid>
+      <unittitle>View of Nobb Hill, the millionaire residence district, by Griffith &amp; Griffith</unittitle>
+      <unitdate normal="1906">1906</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1289.jpg"/>
      </did>
     </c>
    </c>
@@ -6710,6 +6726,78 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1282.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-1285">
+     <did>
+      <unitid>STA-1285</unitid>
+      <unittitle>Ferry landing from Oakland, by Griffith &amp; Griffith</unittitle>
+      <unitdate normal="1906">1906</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1284.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1287">
+     <did>
+      <unitid>STA-1287</unitid>
+      <unittitle>Looking west from the Jewish Synagogue, by Griffith &amp; Griffith</unittitle>
+      <unitdate normal="1906">1906</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1286.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1288">
+     <did>
+      <unitid>STA-1288</unitid>
+      <unittitle>Refugees' camp in Jefferson Square, by Griffith &amp; Griffith</unittitle>
+      <unitdate normal="1906">1906</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1287.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1289">
+     <did>
+      <unitid>STA-1289</unitid>
+      <unittitle>Ruins of St. Ignatio's Catholic Church, by Griffith &amp; Griffith</unittitle>
+      <unitdate normal="1906">1906</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1288.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1291">
+     <did>
+      <unitid>STA-1291</unitid>
+      <unittitle>Looking south, corner Sutter and Stockton, by Griffith &amp; Griffith</unittitle>
+      <unitdate normal="1906">1906</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1290.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1292">
+     <did>
+      <unitid>STA-1292</unitid>
+      <unittitle>Looking up Grant Ave. from Market St, by Griffith &amp; Griffith</unittitle>
+      <unitdate normal="1906">1906</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1291.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1293">
+     <did>
+      <unitid>STA-1293</unitid>
+      <unittitle>Looking northeast from corner Sutter and Jones Sts, by Griffith &amp; Griffith</unittitle>
+      <unitdate normal="1906">1906</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1292.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1294">
+     <did>
+      <unitid>STA-1294</unitid>
+      <unittitle>California St., looking toward the Ferry Depot, Banking District, by Griffith &amp; Griffith</unittitle>
+      <unitdate normal="1906">1906</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1293.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1295">
+     <did>
+      <unitid>STA-1295</unitid>
+      <unittitle>City Hall, Photographer in foreground. Tall brick chimneys left standing, by Griffith &amp; Griffith</unittitle>
+      <unitdate normal="1906">1906</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1294.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -8075,6 +8163,14 @@
       <unittitle>Salt Lake coach leaving Ophir, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
       <unitdate>Undated</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1280.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1286">
+     <did>
+      <unitid>STA-1286</unitid>
+      <unittitle>Atlantic City, Among the Bathers, by Griffith &amp; Griffith</unittitle>
+      <unitdate normal="1890/1900">c. 1895</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1285.jpg"/>
      </did>
     </c>
    </c>

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1295.json",
+ "name": "City Hall, Photographer in foreground. Tall brick chimneys left standing, by Griffith & Griffith",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1294.jpg",
+ "identifier": "STA-1295",
+ "creator": {
+  "@type": "Person",
+  "name": "Griffith & Griffith"
+ },
+ "dateCreated": "1906",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:City_Hall,_Photographer_in_foreground._Tall_brick_chimneys_left_standing,_by_Griffith_%26_Griffith.jpg"
+}

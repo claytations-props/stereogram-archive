@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1293.json",
+ "name": "Looking northeast from corner Sutter and Jones Sts, by Griffith & Griffith",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1292.jpg",
+ "identifier": "STA-1293",
+ "creator": {
+  "@type": "Person",
+  "name": "Griffith & Griffith"
+ },
+ "dateCreated": "1906",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Looking_northeast_from_corner_Sutter_and_Jones_Sts,_by_Griffith_%26_Griffith.jpg"
+}

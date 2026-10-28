@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1294.json",
+ "name": "California St., looking toward the Ferry Depot, Banking District, by Griffith & Griffith",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1293.jpg",
+ "identifier": "STA-1294",
+ "creator": {
+  "@type": "Person",
+  "name": "Griffith & Griffith"
+ },
+ "dateCreated": "1906",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:California_St.,_looking_toward_the_Ferry_Depot,_Banking_District,_by_Griffith_%26_Griffith.jpg"
+}

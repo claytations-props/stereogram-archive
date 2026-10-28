@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1293.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Looking northeast from corner Sutter and Jones Sts, by Griffith & Griffith"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Griffith & Griffith"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1906"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Place unrecorded"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1293.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1293/canvas/1",
+   "type": "Canvas",
+   "width": 1448,
+   "height": 587,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1293/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1293/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1292.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1448,
+        "height": 587,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Looking_northeast_from_corner_Sutter_and_Jones_Sts%2C_by_Griffith_%26_Griffith.jpg/1920px-Looking_northeast_from_corner_Sutter_and_Jones_Sts%2C_by_Griffith_%26_Griffith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1293/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
