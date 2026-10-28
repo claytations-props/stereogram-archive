@@ -270,6 +270,8 @@ All photographs are public domain or CC0, via Wikimedia Commons, from collection
   <div class="vtop">
     <h2 id="vTitle"></h2>
     <button class="xbtn" id="vFav">♡ Save</button>
+    <button class="xbtn" id="vPrev10" aria-label="Jump back ten items">« 10</button>
+    <button class="xbtn" id="vNext10" aria-label="Jump forward ten items">10 »</button>
     <button class="xbtn" id="vClose">✕ Back to results</button>
     <div class="meta" id="vMeta"></div>
     <div class="vcontext" id="vContext" role="status"></div>
@@ -625,9 +627,13 @@ document.querySelectorAll(".mode[data-m]").forEach(b=>b.onclick=()=>setMode(b.da
 function applyStep(n){const L=currentList.length;if(!L)return;vi=((vi+n)%L+L)%L;showCurrent(true)}
 function step(n){applyStep(n)}
 $("#prevB").onclick=()=>step(-1);$("#nextB").onclick=()=>step(1);
+/* Round 6: the viewer was the one place still stepping one card at a
+   time through a long result list; the Parlor got jump buttons in
+   round 4, the gallery viewer gets the same ten-card jump here. */
+$("#vPrev10").onclick=()=>step(-10);$("#vNext10").onclick=()=>step(10);
 function closeViewer(){$("#viewer").classList.remove("open");document.body.style.overflow="";stopWig();try{history.replaceState(null,"",location.pathname+location.search)}catch(e){}if(lastFocus&&lastFocus.focus)lastFocus.focus();}
 $("#vClose").onclick=closeViewer;
-document.addEventListener("keydown",e=>{if(e.target.closest&&e.target.closest("input,select,textarea"))return;if(!$("#viewer").classList.contains("open"))return;if(e.key==="Escape")closeViewer();if(e.key==="ArrowRight")step(1);if(e.key==="ArrowLeft")step(-1)});
+document.addEventListener("keydown",e=>{if(e.target.closest&&e.target.closest("input,select,textarea"))return;if(!$("#viewer").classList.contains("open"))return;if(e.key==="Escape")closeViewer();if(e.key==="ArrowRight")step(e.shiftKey?10:1);if(e.key==="ArrowLeft")step(e.shiftKey?-10:-1)});
 </script>
 </body>
 </html>
