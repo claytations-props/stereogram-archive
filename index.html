@@ -29,6 +29,7 @@ input[type=search]:focus{border-color:var(--brass)}
 select{background:var(--panel2);border:1px solid var(--line);color:var(--text);border-radius:3px;padding:11px 12px;font-size:13px;outline:none}
 .btn{background:var(--panel2);border:1px solid var(--line);color:var(--text);border-radius:3px;padding:11px 16px;font-size:12px;font-weight:600;letter-spacing:.09em;text-transform:uppercase;cursor:pointer}
 .btn:hover{border-color:var(--brass);color:var(--brass2)}
+.btn:disabled{opacity:.45;cursor:default}
 .btn.gold{background:var(--brass);color:var(--inkbtn);border-color:var(--brass)}
 .btn.gold:hover{background:var(--brass2);color:var(--inkbtn)}
 .btn[hidden]{display:none}
@@ -482,6 +483,10 @@ function render(){
  }
  $("#count").textContent="Showing "+currentList.length+" of "+DATA.length+" items"+(ctx!=="All items"?" · "+ctx:"")+sortTxt;
  $("#clearFilters").hidden=!isFiltered();
+ /* Round 6: "Request an item" on an empty result list silently did
+    nothing, a dead tap. It is disabled while there is nothing to
+    request from, and re-enabled as soon as results exist. */
+ $("#surprise").disabled=!currentList.length;
  const em=$("#empty");em.style.display=currentList.length?"none":"block";
  /* Round 5: the empty message tells the visitor to clear, so the clear
     control sits with the message instead of only up in the toolbar.
