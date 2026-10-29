@@ -1,0 +1,69 @@
+{
+ "title": "The Promenade, New Haven Green",
+ "place": "New Haven, Connecticut",
+ "year": "1869–1881",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/The_Promenade%2C_New_Haven_Green%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Promenade%2C_New_Haven_Green%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Promenade%2C_New_Haven_Green%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_Promenade,_New_Haven_Green,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2651,
+ "h": 1531,
+ "id": "STA-1300",
+ "rect": "rect/1299.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.01,
+ "range": 2.27,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.7301,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/The_Promenade%2C_New_Haven_Green%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Promenade%2C_New_Haven_Green%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7301,
+  "L": [
+   0.373437,
+   0.0,
+   0.11224,
+   0.0,
+   0.885482,
+   0.057259
+  ],
+  "R": [
+   0.377349,
+   0.00187,
+   0.54697,
+   -0.000501,
+   0.897556,
+   0.03646
+  ],
+  "g": [
+   0.9328,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured deep (2.27% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869/1881",
+ "date_start": 1869,
+ "date_end": 1881,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10236328,
+ "source_revision_id": null,
+ "source_sha1": "12de01acc3c8df9f9df9fbc5b54b8fd33b280cd9"
+}

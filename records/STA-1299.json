@@ -1,0 +1,69 @@
+{
+ "title": "New Haven, from Robert N. Dennis collection of stereoscopic views 2",
+ "place": "New Haven, Connecticut",
+ "year": "c. 1875",
+ "sy": 1875,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/New_Haven%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-New_Haven%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/27/New_Haven%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:New_Haven,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+ "license": "Public domain",
+ "w": 2631,
+ "h": 1321,
+ "id": "STA-1299",
+ "rect": "rect/1298.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 0.4,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8184,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/New_Haven%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-New_Haven%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8184,
+  "L": [
+   0.380208,
+   0.0,
+   0.105469,
+   0.0,
+   0.925311,
+   0.030602
+  ],
+  "R": [
+   0.377729,
+   0.002221,
+   0.523953,
+   -0.00676,
+   0.918687,
+   0.048171
+  ],
+  "g": [
+   0.9536,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.4% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1875~",
+ "date_start": 1870,
+ "date_end": 1880,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10236229,
+ "source_revision_id": null,
+ "source_sha1": "70d64949bddae161dbe8ce6472e18e1537f03256"
+}

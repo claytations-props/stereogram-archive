@@ -1,0 +1,69 @@
+{
+ "title": "High school building, Orange Street, New Haven, Conn",
+ "place": "New Haven, Connecticut",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/High_school_building%2C_Orange_Street%2C_New_Haven%2C_Conn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-High_school_building%2C_Orange_Street%2C_New_Haven%2C_Conn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/5f/High_school_building%2C_Orange_Street%2C_New_Haven%2C_Conn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:High_school_building,_Orange_Street,_New_Haven,_Conn,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2638,
+ "h": 1332,
+ "id": "STA-1304",
+ "rect": "rect/1303.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.14,
+ "rot": 0.01,
+ "range": 0.8,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0061,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/High_school_building%2C_Orange_Street%2C_New_Haven%2C_Conn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-High_school_building%2C_Orange_Street%2C_New_Haven%2C_Conn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0061,
+  "L": [
+   0.344271,
+   0.0,
+   0.121615,
+   0.0,
+   0.678019,
+   0.226522
+  ],
+  "R": [
+   0.343193,
+   1.9e-05,
+   0.514988,
+   0.004441,
+   0.677422,
+   0.209701
+  ],
+  "g": [
+   0.9128,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.01° of rotation. Depth measured gentle (0.8% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10236431,
+ "source_revision_id": null,
+ "source_sha1": "f463b52ad927be7526b0e0b9782a57a6a04f4a6f"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "New Haven Green, the \"Center Church.\"",
+ "place": "New Haven, Connecticut",
+ "year": "1869–1881",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/New_Haven_Green%2C_the_%22Center_Church.%22%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-New_Haven_Green%2C_the_%22Center_Church.%22%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/73/New_Haven_Green%2C_the_%22Center_Church.%22%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:New_Haven_Green,_the_%22Center_Church.%22,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2655,
+ "h": 1527,
+ "id": "STA-1303",
+ "rect": "rect/1302.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.16,
+ "rot": 0.05,
+ "range": 0.92,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0207,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/New_Haven_Green%2C_the_%22Center_Church.%22%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-New_Haven_Green%2C_the_%22Center_Church.%22%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0207,
+  "L": [
+   0.384375,
+   0.0,
+   0.045052,
+   0.0,
+   0.654891,
+   0.03125
+  ],
+  "R": [
+   0.380142,
+   0.002101,
+   0.512284,
+   0.000725,
+   0.648917,
+   0.026804
+  ],
+  "g": [
+   0.9621,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.05° of rotation. Depth measured gentle (0.92% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869/1881",
+ "date_start": 1869,
+ "date_end": 1881,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10236312,
+ "source_revision_id": null,
+ "source_sha1": "b7fe2efd02c97714c53f5fbf38537c541c229101"
+}

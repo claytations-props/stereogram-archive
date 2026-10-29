@@ -1,0 +1,69 @@
+{
+ "title": "Pleasant Point, New Haven, N.Y",
+ "place": "New Haven, New York",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Pleasant_Point%2C_New_Haven%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pleasant_Point%2C_New_Haven%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/34/Pleasant_Point%2C_New_Haven%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Pleasant_Point,_New_Haven,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2624,
+ "h": 1317,
+ "id": "STA-1305",
+ "rect": "rect/1304.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 0.59,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9394,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Pleasant_Point%2C_New_Haven%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pleasant_Point%2C_New_Haven%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9394,
+  "L": [
+   0.379688,
+   0.0,
+   0.114323,
+   0.0,
+   0.804979,
+   0.025415
+  ],
+  "R": [
+   0.378875,
+   -0.018857,
+   0.524408,
+   0.026551,
+   0.803588,
+   0.029406
+  ],
+  "g": [
+   0.9405,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.59% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10068677,
+ "source_revision_id": null,
+ "source_sha1": "e63d49f5927643292edbda1fabe5b0f631564d38"
+}
