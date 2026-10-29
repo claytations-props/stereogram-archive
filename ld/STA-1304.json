@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1304.json",
+ "name": "High school building, Orange Street, New Haven, Conn",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1303.jpg",
+ "identifier": "STA-1304",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Haven, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:High_school_building,_Orange_Street,_New_Haven,_Conn,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

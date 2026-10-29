@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1297.json",
+ "name": "3rd Congregational Church, New Haven",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1296.jpg",
+ "identifier": "STA-1297",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Haven, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:3rd_Congregational_Church,_New_Haven,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

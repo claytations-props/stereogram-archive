@@ -11,5 +11,9 @@
  },
  "dateCreated": "1906",
  "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
  "sameAs": "https://commons.wikimedia.org/wiki/File:Refugees%27_camp_in_Jefferson_Square,_by_Griffith_%26_Griffith.png"
 }

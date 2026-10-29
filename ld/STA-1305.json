@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1305.json",
+ "name": "Pleasant Point, New Haven, N.Y",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1304.jpg",
+ "identifier": "STA-1305",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Haven, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Pleasant_Point,_New_Haven,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

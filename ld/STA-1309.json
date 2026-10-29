@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1309.json",
+ "name": "New Haven (NYPL b11707673-G90F065 002F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1308.jpg",
+ "identifier": "STA-1309",
+ "dateCreated": "1875",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Haven, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:New_Haven_(NYPL_b11707673-G90F065_002F).tiff"
+}

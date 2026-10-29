@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>1295</quantity>
+    <quantity>1311</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -1650,6 +1650,14 @@
       <unittitle>On the Trail, Yellowstone Park, by Griffith &amp; Griffith</unittitle>
       <unitdate normal="1890/1900">c. 1895</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1283.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1305">
+     <did>
+      <unitid>STA-1305</unitid>
+      <unittitle>Pleasant Point, New Haven, N.Y</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1304.jpg"/>
      </did>
     </c>
    </c>
@@ -6796,6 +6804,126 @@
       <unittitle>City Hall, Photographer in foreground. Tall brick chimneys left standing, by Griffith &amp; Griffith</unittitle>
       <unitdate normal="1906">1906</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1294.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1296">
+     <did>
+      <unitid>STA-1296</unitid>
+      <unittitle>New Haven</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1295.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1297">
+     <did>
+      <unitid>STA-1297</unitid>
+      <unittitle>3rd Congregational Church, New Haven</unittitle>
+      <unitdate normal="1863/1869">1863–1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1296.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1298">
+     <did>
+      <unitid>STA-1298</unitid>
+      <unittitle>College St., New Haven</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1297.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1299">
+     <did>
+      <unitid>STA-1299</unitid>
+      <unittitle>New Haven, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1298.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1300">
+     <did>
+      <unitid>STA-1300</unitid>
+      <unittitle>The Promenade, New Haven Green</unittitle>
+      <unitdate normal="1869/1881">1869–1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1299.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1301">
+     <did>
+      <unitid>STA-1301</unitid>
+      <unittitle>New Haven, Connecticut</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1300.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1302">
+     <did>
+      <unitid>STA-1302</unitid>
+      <unittitle>Chapel St., New Haven, March 1888</unittitle>
+      <unitdate normal="1888">1888</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1301.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1303">
+     <did>
+      <unitid>STA-1303</unitid>
+      <unittitle>New Haven Green, the "Center Church."</unittitle>
+      <unitdate normal="1869/1881">1869–1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1302.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1304">
+     <did>
+      <unitid>STA-1304</unitid>
+      <unittitle>High school building, Orange Street, New Haven, Conn</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1303.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1306">
+     <did>
+      <unitid>STA-1306</unitid>
+      <unittitle>Fair Haven and Westville Railroad Depot</unittitle>
+      <unitdate normal="1869/1881">1869–1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1305.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1307">
+     <did>
+      <unitid>STA-1307</unitid>
+      <unittitle>City of New Haven, from Railroad Depot Tower, by Peck Brothers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1306.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1308">
+     <did>
+      <unitid>STA-1308</unitid>
+      <unittitle>Chapel St., New Haven, March 1888, by S. C. Northrop</unittitle>
+      <unitdate normal="1888">1888</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1307.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1309">
+     <did>
+      <unitid>STA-1309</unitid>
+      <unittitle>New Haven (NYPL b11707673-G90F065 002F)</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1308.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1310">
+     <did>
+      <unitid>STA-1310</unitid>
+      <unittitle>Stereo card of New Haven Union Station (NYPL b11707673-G90F065 024ZF)</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1309.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1311">
+     <did>
+      <unitid>STA-1311</unitid>
+      <unittitle>Temple Street, New Haven, by Whitney, Beckwith &amp; Paradice 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1310.jpg"/>
      </did>
     </c>
    </c>

@@ -11,5 +11,9 @@
  },
  "dateCreated": "1906",
  "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
  "sameAs": "https://commons.wikimedia.org/wiki/File:Looking_northeast_from_corner_Sutter_and_Jones_Sts,_by_Griffith_%26_Griffith.jpg"
 }

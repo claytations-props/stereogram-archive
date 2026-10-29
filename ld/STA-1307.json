@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1307.json",
+ "name": "City of New Haven, from Railroad Depot Tower, by Peck Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1306.jpg",
+ "identifier": "STA-1307",
+ "creator": {
+  "@type": "Person",
+  "name": "Peck Brothers"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Haven, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:City_of_New_Haven,_from_Railroad_Depot_Tower,_by_Peck_Brothers.jpg"
+}

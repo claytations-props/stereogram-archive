@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1308.json",
+ "name": "Chapel St., New Haven, March 1888, by S. C. Northrop",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1307.jpg",
+ "identifier": "STA-1308",
+ "creator": {
+  "@type": "Person",
+  "name": "S. C. Northrop"
+ },
+ "dateCreated": "1888",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Haven, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Chapel_St.,_New_Haven,_March_1888,_by_S._C._Northrop.jpg"
+}

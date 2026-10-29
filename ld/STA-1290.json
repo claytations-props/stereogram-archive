@@ -11,5 +11,9 @@
  },
  "dateCreated": "1906",
  "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
  "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_Nobb_Hill,_the_millionaire_residence_district,_by_Griffith_%26_Griffith.jpg"
 }
