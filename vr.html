@@ -35,6 +35,7 @@ h1{font-family:"Playfair Display",Georgia,serif;font-size:20px;font-weight:700;m
 .setpick select:focus{border-color:var(--brass)}
 button{background:var(--panel2);border:1px solid var(--line);color:var(--text);border-radius:3px;padding:9px 13px;font-size:11.5px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;cursor:pointer}
 button:hover{border-color:var(--brass);color:var(--brass2)}
+button:disabled{opacity:.45;cursor:default}
 button.gold{background:var(--brass);color:var(--inkbtn);border-color:var(--brass)}
 button.gold:hover{background:var(--brass2);color:var(--inkbtn)}
 #VRButton{border-radius:3px !important;letter-spacing:.07em;text-transform:uppercase}
@@ -865,6 +866,7 @@ function renderWall(){
     tile.position.set(((slot%COLS)-2.5)*0.385,(1.5-Math.floor(slot/COLS))*0.295,0);
     wallTilesGroup.add(tile);
   }
+  syncFlatWallButtons();
 }
 function updateWallHi(){
   TILE_HITS.forEach(h=>{if(h.userData.border)h.userData.border.visible=(h.userData.pos===curPos);});
@@ -1122,6 +1124,19 @@ function updateStatus(){
 function updateHtmlButtons(){
   document.getElementById('browseBtn').textContent=uiState==='browse'?'Back to the card':'Browse the shelves';
 }
+/* Round 7: in browse the flat row pages the wall, and at the first or
+   last wall page Prev/Next and the jumps silently did nothing — the
+   last dead tap in the flat row, which unlike the wall header carries
+   no page position of its own. The spent direction reads disabled
+   while browsing; in reading the same buttons wrap, so they stay live. */
+function syncFlatWallButtons(){
+  const browsing=uiState==='browse';
+  const pages=curSet?Math.max(1,Math.ceil(curSet.indices.length/PAGE)):1;
+  document.getElementById('prevBtn').disabled=browsing&&wallPage<=0;
+  document.getElementById('prev10Btn').disabled=browsing&&wallPage<=0;
+  document.getElementById('nextBtn').disabled=browsing&&wallPage>=pages-1;
+  document.getElementById('next10Btn').disabled=browsing&&wallPage>=pages-1;
+}
 function setHover(hit,on){
   if(hit.userData.onHover){hit.userData.onHover(on);return;}
   const s=on?(hit.userData.hoverScale||1.25):1;
@@ -1134,7 +1149,7 @@ function setState(s){
   if(s==='browse'){wallPage=Math.floor(curPos/PAGE);setPanelPage=panelPageForSet(curSet.key);drawSetPanel();renderWall();}
   browseBtn3d.userData.hit.userData.redraw(s==='browse'?'READ':'BROWSE',false);
   ROW_HITS.forEach(h=>setHover(h,false));
-  applyVis();updateStatus();updateHtmlButtons();updateLanding();persist();
+  applyVis();updateStatus();updateHtmlButtons();syncFlatWallButtons();updateLanding();persist();
 }
 function toggleRecord(){
   recordOn=!recordOn;
