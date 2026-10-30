@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1322.json",
+ "name": "Sunset Lake, Asbury Park (NYPL b11707648-G90F454 063F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1321.jpg",
+ "identifier": "STA-1322",
+ "dateCreated": "1875",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Asbury Park, New Jersey"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sunset_Lake,_Asbury_Park_(NYPL_b11707648-G90F454_063F).tiff"
+}

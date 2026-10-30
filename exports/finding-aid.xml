@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>1311</quantity>
+    <quantity>1322</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -1658,6 +1658,70 @@
       <unittitle>Pleasant Point, New Haven, N.Y</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1304.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1312">
+     <did>
+      <unitid>STA-1312</unitid>
+      <unittitle>Sunset Lake, Asbury Park</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1311.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1313">
+     <did>
+      <unitid>STA-1313</unitid>
+      <unittitle>Sunset Lake, Asbury Park, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1312.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1315">
+     <did>
+      <unitid>STA-1315</unitid>
+      <unittitle>Sunset Lake, Asbury Park, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1314.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1316">
+     <did>
+      <unitid>STA-1316</unitid>
+      <unittitle>Sunset Lake, Asbury Park, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1315.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1318">
+     <did>
+      <unitid>STA-1318</unitid>
+      <unittitle>Bird's eye view of Wesley Lake, Asbury Park</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1317.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1320">
+     <did>
+      <unitid>STA-1320</unitid>
+      <unittitle>St. John's Is. Sunset Lake, Asbury Park</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1319.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1321">
+     <did>
+      <unitid>STA-1321</unitid>
+      <unittitle>Sunset Lake, Asbury Park (NYPL b11707648-G90F454 086F)</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1320.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1322">
+     <did>
+      <unitid>STA-1322</unitid>
+      <unittitle>Sunset Lake, Asbury Park (NYPL b11707648-G90F454 063F)</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1321.jpg"/>
      </did>
     </c>
    </c>
@@ -6926,6 +6990,14 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1310.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-1317">
+     <did>
+      <unitid>STA-1317</unitid>
+      <unittitle>Educational Hall, Asbury Park</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1316.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -8299,6 +8371,22 @@
       <unittitle>Atlantic City, Among the Bathers, by Griffith &amp; Griffith</unittitle>
       <unitdate normal="1890/1900">c. 1895</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1285.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1314">
+     <did>
+      <unitid>STA-1314</unitid>
+      <unittitle>View of Asbury Park. (People in boat.)</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1313.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1319">
+     <did>
+      <unitid>STA-1319</unitid>
+      <unittitle>View of Asbury Park. Beach scene</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1318.jpg"/>
      </did>
     </c>
    </c>

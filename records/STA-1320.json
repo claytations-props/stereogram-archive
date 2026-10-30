@@ -1,6 +1,6 @@
 {
  "title": "St. John's Is. Sunset Lake, Asbury Park",
- "place": "Place unrecorded",
+ "place": "Asbury Park, New Jersey",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10038912,
  "source_revision_id": null,
- "source_sha1": "2418d0faa3a04e86d745c8cede98dcfc941de61a"
+ "source_sha1": "2418d0faa3a04e86d745c8cede98dcfc941de61a",
+ "tags": [
+  "lake",
+  "island",
+  "trees"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "title": "Sunset Lake, Asbury Park (NYPL b11707648-G90F454 086F)",
- "place": "Place unrecorded",
+ "place": "Asbury Park, New Jersey",
  "year": "1875",
  "sy": 1875,
  "era": "mid",
@@ -65,5 +65,11 @@
  "license_url": null,
  "source_page_id": 49945845,
  "source_revision_id": null,
- "source_sha1": "231d00f50ccabb4fda6068bde564d530bafe8ea2"
+ "source_sha1": "231d00f50ccabb4fda6068bde564d530bafe8ea2",
+ "tags": [
+  "lake",
+  "rowboat",
+  "boating",
+  "trees"
+ ]
 }

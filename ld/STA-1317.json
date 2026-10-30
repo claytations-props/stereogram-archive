@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1317.json",
+ "name": "Educational Hall, Asbury Park",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1316.jpg",
+ "identifier": "STA-1317",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Asbury Park, New Jersey"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Educational_Hall,_Asbury_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}
