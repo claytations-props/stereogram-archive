@@ -1,0 +1,69 @@
+{
+ "title": "St. John's Is. Sunset Lake, Asbury Park",
+ "place": "Place unrecorded",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/St._John%27s_Is._Sunset_Lake%2C_Asbury_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-St._John%27s_Is._Sunset_Lake%2C_Asbury_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/e8/St._John%27s_Is._Sunset_Lake%2C_Asbury_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:St._John%27s_Is._Sunset_Lake,_Asbury_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2590,
+ "h": 1321,
+ "id": "STA-1320",
+ "rect": "rect/1319.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.33,
+ "rot": 0.02,
+ "range": 0.25,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 4.8,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/St._John%27s_Is._Sunset_Lake%2C_Asbury_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-St._John%27s_Is._Sunset_Lake%2C_Asbury_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 4.8,
+  "L": [
+   0.4,
+   0.0,
+   0.069531,
+   0.0,
+   0.163432,
+   0.304903
+  ],
+  "R": [
+   0.399151,
+   -0.000565,
+   0.512416,
+   0.003164,
+   0.163225,
+   0.295414
+  ],
+  "g": [
+   1.0,
+   0.9713
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.33% vertical error and 0.02° of rotation. Depth measured gentle (0.25% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10038912,
+ "source_revision_id": null,
+ "source_sha1": "2418d0faa3a04e86d745c8cede98dcfc941de61a"
+}
