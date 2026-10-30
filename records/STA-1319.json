@@ -1,11 +1,11 @@
 {
  "title": "View of Asbury Park. Beach scene",
- "place": "Place unrecorded",
+ "place": "Asbury Park, New Jersey",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
  "cats": [
-  "oddities"
+  "people"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Asbury_Park._Beach_scene%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_Asbury_Park._Beach_scene%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "people"
  ],
  "publisher_series": null,
  "date_edtf": "1870",
@@ -65,5 +65,11 @@
  "license_url": null,
  "source_page_id": 10039376,
  "source_revision_id": null,
- "source_sha1": "16fc2975d49aad5a99ddb09054bb1bc84d7dc597"
+ "source_sha1": "16fc2975d49aad5a99ddb09054bb1bc84d7dc597",
+ "tags": [
+  "rowboat",
+  "boating",
+  "beach",
+  "children"
+ ]
 }

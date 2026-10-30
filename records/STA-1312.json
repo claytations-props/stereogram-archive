@@ -1,6 +1,6 @@
 {
  "title": "Sunset Lake, Asbury Park",
- "place": "Place unrecorded",
+ "place": "Asbury Park, New Jersey",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
@@ -65,5 +65,11 @@
  "license_url": null,
  "source_page_id": 10039097,
  "source_revision_id": null,
- "source_sha1": "969522cc7cc7709255bba5c89767cf18ecb4d2fd"
+ "source_sha1": "969522cc7cc7709255bba5c89767cf18ecb4d2fd",
+ "tags": [
+  "lake",
+  "rowboat",
+  "boating",
+  "trees"
+ ]
 }
