@@ -169,6 +169,7 @@ canvas#ana.show{display:block}
 @media(max-width:640px){.eye{width:47vw}.navbtn{width:40px;height:40px}}
 #aidToggle{display:none}
 .card:focus-visible{outline:2px solid var(--brass);outline-offset:2px}
+.sitem:focus-visible,.arow:focus-visible,.regwrap tbody tr:focus-visible{outline:2px solid var(--brass);outline-offset:2px}
 .btn:focus-visible,.chip:focus-visible,.mode:focus-visible,.xbtn:focus-visible,.navbtn:focus-visible,select:focus-visible,.fav:focus-visible{outline:2px solid var(--brass);outline-offset:2px}
 @media(max-width:640px){
  header{padding:18px 12px 0}
@@ -328,8 +329,11 @@ function buildHero(){
 }
 function buildShelf(){
  const sh=document.getElementById('shelf');if(!sh)return;
- sh.innerHTML=DATA.slice(-10).reverse().map(d=>{const i=DATA.indexOf(d);return `<div class="sitem" data-i="${i}"><img loading="lazy" decoding="async" src="${thumb(d,250)}" data-full="${d.img}" ${FB} alt="${d.title}"><div class="sid">${d.id}</div><div class="stt">${d.title}</div></div>`}).join('');
- sh.querySelectorAll('.sitem').forEach(el=>el.onclick=()=>openViewer(+el.dataset.i,true));
+ sh.innerHTML=DATA.slice(-10).reverse().map(d=>{const i=DATA.indexOf(d);return `<div class="sitem" data-i="${i}" tabindex="0" role="button"><img loading="lazy" decoding="async" src="${thumb(d,250)}" data-full="${d.img}" ${FB} alt="${d.title}"><div class="sid">${d.id}</div><div class="stt">${d.title}</div></div>`}).join('');
+ /* Round 7: shelf tiles, Finding Aid rows, and register rows were
+    clickable but unreachable by keyboard, while grid cards already
+    took Enter/Space. They get the same keyboard behavior here. */
+ sh.querySelectorAll('.sitem').forEach(el=>{el.onclick=()=>openViewer(+el.dataset.i,true);el.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();openViewer(+el.dataset.i,true)}}});
 }
 /* One-time migration (Phase 0): reading-list favorites were keyed by title;
    they are now keyed by STA ID. Stored titles become their item's ID, values
@@ -425,12 +429,12 @@ function setCat(k){state.cat=k;document.querySelectorAll(".chip").forEach((c,i)=
 function buildAid(){
  const cl=$("#collList");
  const vrA=key=>` · <a href="vr.html?set=${encodeURIComponent(key)}" onclick="event.stopPropagation()">Browse in VR</a>`;
- const mk=(label,n,span,fn,on,vrKey)=>{const r=document.createElement("div");r.className="arow"+(on?" on":"");r.innerHTML=`<span>${label}</span><span class="n">${n} ${n===1?"item":"items"} · ${span}${vrKey?vrA(vrKey):""}</span>`;r.onclick=fn;cl.appendChild(r);return r};
+ const mk=(label,n,span,fn,on,vrKey)=>{const r=document.createElement("div");r.className="arow"+(on?" on":"");r.tabIndex=0;r.setAttribute("role","button");r.innerHTML=`<span>${label}</span><span class="n">${n} ${n===1?"item":"items"} · ${span}${vrKey?vrA(vrKey):""}</span>`;r.onclick=fn;r.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();fn()}};cl.appendChild(r);return r};
  const span=a=>{const lo=Math.min(...a.map(d=>d.sy)),hi=Math.max(...a.map(d=>d.sy));return lo===hi?""+lo:lo+"–"+hi};
  mk("All holdings",DATA.length,span(DATA),()=>{state.coll="all";cl.querySelectorAll(".arow").forEach((r,i)=>r.classList.toggle("on",i===0));setCat("all")},true,"all");
  [...new Set(DATA.map(d=>d.coll))].forEach(name=>{const items=DATA.filter(d=>d.coll===name);const r=mk(name,items.length,span(items),()=>{state.coll=name;cl.querySelectorAll(".arow").forEach(x=>x.classList.remove("on"));r.classList.add("on");render()},"","coll:"+name)});
  const sl=$("#seriesList");
- CATS.filter(([k])=>k!=="all"&&k!=="favs").forEach(([k,l])=>{const n=DATA.filter(d=>d.cats.includes(k)).length;const r=document.createElement("div");r.className="arow";r.dataset.k=k;r.innerHTML=`<span>${l}</span><span class="n">${n} ${n===1?"item":"items"}${vrA("series:"+k)}</span>`;r.onclick=()=>setCat(state.cat===k?"all":k);sl.appendChild(r)});
+ CATS.filter(([k])=>k!=="all"&&k!=="favs").forEach(([k,l])=>{const n=DATA.filter(d=>d.cats.includes(k)).length;const r=document.createElement("div");r.className="arow";r.tabIndex=0;r.setAttribute("role","button");r.dataset.k=k;r.innerHTML=`<span>${l}</span><span class="n">${n} ${n===1?"item":"items"}${vrA("series:"+k)}</span>`;r.onclick=()=>setCat(state.cat===k?"all":k);r.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();setCat(state.cat===k?"all":k)}};sl.appendChild(r)});
 }
 $("#aidToggle").setAttribute("aria-expanded","false");
 $("#aidToggle").onclick=()=>{const sec=$("#aidSec");sec.classList.toggle("open");const open=sec.classList.contains("open");$("#aidToggle").textContent=open?"Finding Aid · tap to close":"Finding Aid · tap to open";$("#aidToggle").setAttribute("aria-expanded",open?"true":"false")};
@@ -498,7 +502,7 @@ function render(){
  if(state.view==="reg"){
   g.style.display="none";rg.style.display="block";
   rg.innerHTML=`<div class="regwrap"><table><thead><tr><th>No.</th><th>Title</th><th>Date</th><th class="hidemb">Place</th><th class="hidemb">Series</th><th>Depth</th></tr></thead><tbody>${page.map((d,i)=>`<tr data-i="${i}"><td class="no">${d.id}</td><td class="ttl">${d.title}</td><td>${d.year}</td><td class="hidemb">${d.place}</td><td class="hidemb">${d.cats.map(c=>CATLABEL[c]||c).join(", ")}</td><td>${d.depth}</td></tr>`).join("")}</tbody></table></div>`;
-  rg.querySelectorAll("tbody tr").forEach(tr=>tr.onclick=()=>openViewer(+tr.dataset.i));
+  rg.querySelectorAll("tbody tr").forEach(tr=>{tr.tabIndex=0;tr.onclick=()=>openViewer(+tr.dataset.i);tr.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();openViewer(+tr.dataset.i)}}});
   renderedShown=page.length;pendingAppend=false;
   return;
  }
