@@ -137,8 +137,13 @@ first page disables Prev/« only, middle page disables nothing, last
 page (55 of 56 for the 1,322-card set) disables Next/» only,
 single-page set disables all four, reading disables nothing, and
 both call sites (renderWall, setState) are present. Both edited
-scripts also pass node --check with no syntax errors. The live check
-below confirms the served vr.html carries the change.
+scripts also pass node --check with no syntax errors.
+
+Live-verified on vrparlor.com after push: index.html and vr.html
+both 200, served bytes identical to the repo (identical on the
+second check, after the Pages deploy caught up with the push), the
+new-tab Research Notes link, the shelf-tile keyboard attributes,
+and the syncFlatWallButtons code present in the served files.
 
 ## Commits (one per change, each revertible on its own)
 
