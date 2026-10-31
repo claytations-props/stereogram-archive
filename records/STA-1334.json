@@ -1,0 +1,69 @@
+{
+ "title": "North River, New York Harbor",
+ "place": "New York, New York",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/North_River%2C_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-North_River%2C_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/48/North_River%2C_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:North_River,_New_York_Harbor,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2616,
+ "h": 1376,
+ "id": "STA-1334",
+ "rect": "rect/1333.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.27,
+ "rot": 0.01,
+ "range": 0.66,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 2.2431,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/North_River%2C_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-North_River%2C_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 2.2431,
+  "L": [
+   0.336458,
+   0.0,
+   0.113281,
+   0.0,
+   0.285149,
+   0.584653
+  ],
+  "R": [
+   0.335348,
+   -0.005411,
+   0.514329,
+   0.010895,
+   0.283816,
+   0.560222
+  ],
+  "g": [
+   0.9732,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.27% vertical error and 0.01° of rotation. Depth measured gentle (0.66% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12000392,
+ "source_revision_id": null,
+ "source_sha1": "3e2938d3c9ebc46f3cea4f9635189d1114cc0d90"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "The Ferry Boats, New York Harbor",
+ "place": "New York, New York",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/The_Ferry_Boats%2C_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Ferry_Boats%2C_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Ferry_Boats%2C_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_Ferry_Boats,_New_York_Harbor,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2646,
+ "h": 1324,
+ "id": "STA-1342",
+ "rect": "rect/1341.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.25,
+ "rot": 0.06,
+ "range": 0.46,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 6.7203,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/The_Ferry_Boats%2C_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Ferry_Boats%2C_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 6.7203,
+  "L": [
+   0.413021,
+   0.0,
+   0.07474,
+   0.0,
+   0.122789,
+   0.401145
+  ],
+  "R": [
+   0.416032,
+   -0.001667,
+   0.506797,
+   0.00033,
+   0.12179,
+   0.400672
+  ],
+  "g": [
+   0.9808,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.25% vertical error and 0.06° of rotation. Depth measured gentle (0.46% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7154388,
+ "source_revision_id": null,
+ "source_sha1": "7801ec6a9e93c719fc6e3fc0ab62571b2fd05173"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "New York Harbor",
+ "place": "New York, New York",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/1a/New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:New_York_Harbor,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2554,
+ "h": 1259,
+ "id": "STA-1329",
+ "rect": "rect/1328.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.0,
+ "range": 0.41,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.3622,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.3622,
+  "L": [
+   0.39375,
+   0.0,
+   0.085677,
+   0.0,
+   0.586681,
+   0.388478
+  ],
+  "R": [
+   0.392937,
+   -0.004565,
+   0.509359,
+   0.008441,
+   0.584821,
+   0.373056
+  ],
+  "g": [
+   0.853,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (0.41% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7154166,
+ "source_revision_id": null,
+ "source_sha1": "25333e73e3d0a52ac42a7ce18440db96a6e897d6"
+}

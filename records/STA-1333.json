@@ -1,0 +1,69 @@
+{
+ "title": "Fort Hamilton, New York Harbor",
+ "place": "New York, New York",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "war"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Fort_Hamilton%2C_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Fort_Hamilton%2C_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Fort_Hamilton%2C_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Fort_Hamilton,_New_York_Harbor,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2564,
+ "h": 1227,
+ "id": "STA-1333",
+ "rect": "rect/1332.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.15,
+ "rot": 0.01,
+ "range": 0.83,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0344,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Fort_Hamilton%2C_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Fort_Hamilton%2C_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0344,
+  "L": [
+   0.375521,
+   0.0,
+   0.11849,
+   0.0,
+   0.758433,
+   0.223613
+  ],
+  "R": [
+   0.376197,
+   -0.004632,
+   0.510743,
+   -0.000449,
+   0.756347,
+   0.205758
+  ],
+  "g": [
+   0.9991,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.01° of rotation. Depth measured gentle (0.83% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "war"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11999631,
+ "source_revision_id": null,
+ "source_sha1": "53d9501b22b8860c5ee44b4a014109a898fd2da3"
+}

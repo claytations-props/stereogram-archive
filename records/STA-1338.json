@@ -1,0 +1,69 @@
+{
+ "title": "Bird's-eye View of New York Harbor, New York, N.Y",
+ "place": "New York, New York",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Bird%27s-eye_View_of_New_York_Harbor%2C_New_York%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s-eye_View_of_New_York_Harbor%2C_New_York%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Bird%27s-eye_View_of_New_York_Harbor%2C_New_York%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Bird%27s-eye_View_of_New_York_Harbor,_New_York,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2682,
+ "h": 1344,
+ "id": "STA-1338",
+ "rect": "rect/1337.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.26,
+ "rot": 0.01,
+ "range": 0.24,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 3.5,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Bird%27s-eye_View_of_New_York_Harbor%2C_New_York%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s-eye_View_of_New_York_Harbor%2C_New_York%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 3.5,
+  "L": [
+   0.411979,
+   0.0,
+   0.08099,
+   0.0,
+   0.234927,
+   0.471414
+  ],
+  "R": [
+   0.406358,
+   0.000779,
+   0.505632,
+   -0.005189,
+   0.231711,
+   0.466578
+  ],
+  "g": [
+   1.0,
+   0.9202
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.26% vertical error and 0.01° of rotation. Depth measured gentle (0.24% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7154373,
+ "source_revision_id": null,
+ "source_sha1": "8a2f50e165d5ce64a52b5e8106996cf81e904d2c"
+}

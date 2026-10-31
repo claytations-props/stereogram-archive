@@ -1,0 +1,69 @@
+{
+ "title": "Ferry Boat in New York Harbor",
+ "place": "New York, New York",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Ferry_Boat_in_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Ferry_Boat_in_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Ferry_Boat_in_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Ferry_Boat_in_New_York_Harbor,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2506,
+ "h": 1240,
+ "id": "STA-1340",
+ "rect": "rect/1339.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 0.56,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.1716,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Ferry_Boat_in_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Ferry_Boat_in_New_York_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.1716,
+  "L": [
+   0.373437,
+   0.0,
+   0.102865,
+   0.0,
+   0.644211,
+   0.321579
+  ],
+  "R": [
+   0.373416,
+   0.001255,
+   0.538682,
+   -0.007733,
+   0.642302,
+   0.333211
+  ],
+  "g": [
+   1.0,
+   0.9789
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.56% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7154180,
+ "source_revision_id": null,
+ "source_sha1": "ba7a95de9e42f68a3716714eb36b3f7e6bb27f09"
+}
