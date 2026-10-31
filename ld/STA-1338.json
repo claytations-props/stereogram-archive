@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1338.json",
+ "name": "Bird's-eye View of New York Harbor, New York, N.Y",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1337.jpg",
+ "identifier": "STA-1338",
+ "dateCreated": "1858",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New York, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bird%27s-eye_View_of_New_York_Harbor,_New_York,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

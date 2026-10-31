@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1340.json",
+ "name": "Ferry Boat in New York Harbor",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1339.jpg",
+ "identifier": "STA-1340",
+ "dateCreated": "1858",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New York, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Ferry_Boat_in_New_York_Harbor,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

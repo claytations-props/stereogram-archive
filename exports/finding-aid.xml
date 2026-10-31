@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>1322</quantity>
+    <quantity>1342</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -1722,6 +1722,142 @@
       <unittitle>Sunset Lake, Asbury Park (NYPL b11707648-G90F454 063F)</unittitle>
       <unitdate normal="1875">1875</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1321.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1323">
+     <did>
+      <unitid>STA-1323</unitid>
+      <unittitle>Stereoscopic views of New York Harbor</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1322.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1324">
+     <did>
+      <unitid>STA-1324</unitid>
+      <unittitle>Stereoscopic views of New York Harbor, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1323.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1325">
+     <did>
+      <unitid>STA-1325</unitid>
+      <unittitle>New York Harbor, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1324.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1327">
+     <did>
+      <unitid>STA-1327</unitid>
+      <unittitle>Ships in New York harbor</unittitle>
+      <unitdate normal="1855/1865">c. 1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1326.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1328">
+     <did>
+      <unitid>STA-1328</unitid>
+      <unittitle>Instantaneous view, New York Harbor</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1327.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1329">
+     <did>
+      <unitid>STA-1329</unitid>
+      <unittitle>New York Harbor</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1328.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1330">
+     <did>
+      <unitid>STA-1330</unitid>
+      <unittitle>New York Harbor - Ferry</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1329.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1331">
+     <did>
+      <unitid>STA-1331</unitid>
+      <unittitle>New York Harbor, from Brooklyn Bridge, New York, U.S.A</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1330.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1332">
+     <did>
+      <unitid>STA-1332</unitid>
+      <unittitle>Statue of Liberty (New York Harbor), New York, N.Y., U.S.A</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1331.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1334">
+     <did>
+      <unitid>STA-1334</unitid>
+      <unittitle>North River, New York Harbor</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1333.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1335">
+     <did>
+      <unitid>STA-1335</unitid>
+      <unittitle>New York Harbor, (bird's-eye view), New York City, U.S.A</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1334.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1336">
+     <did>
+      <unitid>STA-1336</unitid>
+      <unittitle>Instantaneous view, New York Harbor, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1335.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1337">
+     <did>
+      <unitid>STA-1337</unitid>
+      <unittitle>New York Harbor, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1336.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1338">
+     <did>
+      <unitid>STA-1338</unitid>
+      <unittitle>Bird's-eye View of New York Harbor, New York, N.Y</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1337.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1339">
+     <did>
+      <unitid>STA-1339</unitid>
+      <unittitle>Naval parade, New York Harbor, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1338.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1340">
+     <did>
+      <unitid>STA-1340</unitid>
+      <unittitle>Ferry Boat in New York Harbor</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1339.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1342">
+     <did>
+      <unitid>STA-1342</unitid>
+      <unittitle>The Ferry Boats, New York Harbor</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1341.jpg"/>
      </did>
     </c>
    </c>
@@ -7313,6 +7449,30 @@
       <unittitle>Stereoscopic views of Gettysburg, Pennsylvania, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1173.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1326">
+     <did>
+      <unitid>STA-1326</unitid>
+      <unittitle>Naval parade, New York Harbor</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1325.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1333">
+     <did>
+      <unitid>STA-1333</unitid>
+      <unittitle>Fort Hamilton, New York Harbor</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1332.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1341">
+     <did>
+      <unitid>STA-1341</unitid>
+      <unittitle>United States Ship Colorado, New York Harbor</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1340.jpg"/>
      </did>
     </c>
    </c>
