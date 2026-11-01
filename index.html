@@ -642,7 +642,11 @@ $("#prevB").onclick=()=>step(-1);$("#nextB").onclick=()=>step(1);
 $("#vPrev10").onclick=()=>step(-10);$("#vNext10").onclick=()=>step(10);
 function closeViewer(){$("#viewer").classList.remove("open");document.body.style.overflow="";stopWig();try{history.replaceState(null,"",location.pathname+location.search)}catch(e){}if(lastFocus&&lastFocus.focus)lastFocus.focus();}
 $("#vClose").onclick=closeViewer;
-document.addEventListener("keydown",e=>{if(e.target.closest&&e.target.closest("input,select,textarea"))return;if(!$("#viewer").classList.contains("open"))return;if(e.key==="Escape")closeViewer();if(e.key==="ArrowRight")step(e.shiftKey?10:1);if(e.key==="ArrowLeft")step(e.shiftKey?-10:-1)});
+/* Round 8: the viewer is a modal dialog, but Tab walked out of it
+   into the background page. Tab now cycles within the viewer's own
+   controls, checked before the input early-return so the wiggle
+   slider tabs along with the rest of the viewer. */
+document.addEventListener("keydown",e=>{if(!$("#viewer").classList.contains("open"))return;if(e.key==="Tab"){const els=[...$("#viewer").querySelectorAll("button, a[href], input, [tabindex]")].filter(el=>!el.disabled&&(typeof el.checkVisibility!=="function"||el.checkVisibility()));if(!els.length)return;const first=els[0],last=els[els.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus()}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus()}return;}if(e.target.closest&&e.target.closest("input,select,textarea"))return;if(e.key==="Escape")closeViewer();if(e.key==="ArrowRight")step(e.shiftKey?10:1);if(e.key==="ArrowLeft")step(e.shiftKey?-10:-1)});
 </script>
 </body>
 </html>
