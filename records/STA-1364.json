@@ -1,0 +1,69 @@
+{
+ "title": "Boulder Creek, Colorado",
+ "place": "Place unrecorded",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Boulder_Creek%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Boulder_Creek%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Boulder_Creek%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Boulder_Creek,_Colorado,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1560,
+ "id": "STA-1364",
+ "rect": "rect/1363.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.13,
+ "rot": 0.05,
+ "range": 0.86,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8469,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Boulder_Creek%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Boulder_Creek%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8469,
+  "L": [
+   0.426563,
+   0.0,
+   0.065365,
+   0.0,
+   0.883912,
+   0.056216
+  ],
+  "R": [
+   0.430973,
+   -0.013447,
+   0.519113,
+   0.016527,
+   0.894567,
+   0.0423
+  ],
+  "g": [
+   1.0,
+   0.9684
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.05° of rotation. Depth measured gentle (0.86% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10088864,
+ "source_revision_id": null,
+ "source_sha1": "9a3b9b9142c675ea0595aadebc541e9e7040a088"
+}
