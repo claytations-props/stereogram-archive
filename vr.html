@@ -1123,6 +1123,11 @@ function updateStatus(){
 }
 function updateHtmlButtons(){
   document.getElementById('browseBtn').textContent=uiState==='browse'?'Back to the card':'Browse the shelves';
+  /* Round 8: the catalogue card has no work while browsing — the
+     record group stays hidden and the in-room record button is hidden
+     too — so the flat toggle reads disabled there instead of flipping
+     its label while nothing appears. */
+  document.getElementById('recBtn').disabled=uiState==='browse';
 }
 /* Round 7: in browse the flat row pages the wall, and at the first or
    last wall page Prev/Next and the jumps silently did nothing — the
