@@ -492,6 +492,17 @@ function wrapTitle(c,text,maxW){
   if(line)lines.push(line);
   return lines;
 }
+/* Round 8: the flat crumb line is the one persistent location label
+   (round 3), but while browsing it named only the selected card,
+   and the wall page lived only in the 3D wall header. Browsing
+   appends the wall page, so a flat visitor paging the wall can read
+   where they are without reading the in-room header. */
+function crumbText(){
+  if(!curSet)return '';
+  let s='Current set · '+curSet.label+' · Card '+(curPos+1)+' of '+curSet.indices.length;
+  if(uiState==='browse'){const pages=Math.max(1,Math.ceil(curSet.indices.length/PAGE));s+=' · Wall page '+(wallPage+1)+' of '+pages;}
+  return s;
+}
 function drawCaption(d){
   const c=capCanvas.getContext('2d');
   c.clearRect(0,0,1024,200);
@@ -521,7 +532,7 @@ function drawCaption(d){
   capTex.needsUpdate=true;
   document.getElementById('ciTitle').textContent=d.t;
   document.getElementById('ciMeta').textContent=d.id+' · '+d.p+' · '+d.y+(curSet?' · '+curSet.label+' · Card '+(curPos+1)+' of '+curSet.indices.length:'');
-  document.getElementById('setCrumb').textContent=curSet?('Current set · '+curSet.label+' · Card '+(curPos+1)+' of '+curSet.indices.length):'';
+  document.getElementById('setCrumb').textContent=crumbText();
   syncSetSwitcher();
   document.getElementById('backLink').href='index.html#'+d.id;
   try{history.replaceState(null,'','#'+d.id)}catch(e){}
@@ -867,6 +878,9 @@ function renderWall(){
     wallTilesGroup.add(tile);
   }
   syncFlatWallButtons();
+  /* Round 8: paging the wall changes no card, so drawCaption does not
+     run; the crumb's wall page is refreshed here instead. */
+  document.getElementById('setCrumb').textContent=crumbText();
 }
 function updateWallHi(){
   TILE_HITS.forEach(h=>{if(h.userData.border)h.userData.border.visible=(h.userData.pos===curPos);});
