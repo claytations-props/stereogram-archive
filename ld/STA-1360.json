@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1360.json",
+ "name": "Sandstone monument, near Divide El Paso County, Colorado 1874 (Stereoscopic view) (30544585256)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1359.jpg",
+ "identifier": "STA-1360",
+ "dateCreated": "1874",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Divide, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sandstone_monument,_near_Divide_El_Paso_County,_Colorado_1874_(Stereoscopic_view)_(30544585256).jpg"
+}

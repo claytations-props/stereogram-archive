@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1359.json",
+ "name": "Georgetown, Colorado, by Continent Stereoscopic Company",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1358.jpg",
+ "identifier": "STA-1359",
+ "creator": {
+  "@type": "Person",
+  "name": "Continent Stereoscopic Company"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Georgetown, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Georgetown,_Colorado,_by_Continent_Stereoscopic_Company.png"
+}

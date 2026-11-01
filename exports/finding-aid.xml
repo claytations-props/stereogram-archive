@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>1342</quantity>
+    <quantity>1369</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -1860,6 +1860,78 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1341.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-1353">
+     <did>
+      <unitid>STA-1353</unitid>
+      <unittitle>Lower Falls of Lake Fork Hinsdale County, Colorado 1875 (Stereoscopic view) (29949608994)</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1352.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1354">
+     <did>
+      <unitid>STA-1354</unitid>
+      <unittitle>View of the Rio Grande, near Pole Creek Hinsdale County, Colorado 1874 (Stereoscopic view) (30580321495)</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1353.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1355">
+     <did>
+      <unitid>STA-1355</unitid>
+      <unittitle>Elk Lake and Snowmass Mountain, shadow view Pitkin County, Colorado 1873 (Stereoscopic view) (30580413335)</unittitle>
+      <unitdate normal="1873">1873</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1354.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1356">
+     <did>
+      <unitid>STA-1356</unitid>
+      <unittitle>Red Rock Falls, Elk Mountains Gunnison County, Colorado 1873 (Stereoscopic view) (30544505706)</unittitle>
+      <unitdate normal="1873">1873</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1355.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1361">
+     <did>
+      <unitid>STA-1361</unitid>
+      <unittitle>View west from Hot Springs, Middle Park, Grand County, Colorado 1874 (Stereoscopic view) (30464448722)</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1360.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1362">
+     <did>
+      <unitid>STA-1362</unitid>
+      <unittitle>View on the Rio Grande, near Lost Trail Creek Hinsdale County, Colorado 1874 (Stereoscopic view) (29949222404)</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1361.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1363">
+     <did>
+      <unitid>STA-1363</unitid>
+      <unittitle>View of the Rio Grande near Pole Creek Hinsdale County, Colorado 1874 (Stereoscopic view)25 (30581135985)</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1362.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1364">
+     <did>
+      <unitid>STA-1364</unitid>
+      <unittitle>Boulder Creek, Colorado</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1363.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1367">
+     <did>
+      <unitid>STA-1367</unitid>
+      <unittitle>Fall River, Colorado</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1366.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -3623,6 +3695,110 @@
       <unittitle>View of Nobb Hill, the millionaire residence district, by Griffith &amp; Griffith</unittitle>
       <unitdate normal="1906">1906</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1289.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1343">
+     <did>
+      <unitid>STA-1343</unitid>
+      <unittitle>Tablelands on Colorado Divide El Paso County, Colorado 1874 (Stereoscopic view) (30464126742)</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1342.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1344">
+     <did>
+      <unitid>STA-1344</unitid>
+      <unittitle>Pikes Peak from near Colorado City El Paso County, Colorado 1870 (Stereoscopic view) (29948840384)</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1343.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1345">
+     <did>
+      <unitid>STA-1345</unitid>
+      <unittitle>Hot Springs, Middle Park Grand County, Colorado 1874 (Stereoscopic view) (30580639435)</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1344.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1347">
+     <did>
+      <unitid>STA-1347</unitid>
+      <unittitle>Maroon Mountain Elk Mountains Pitkin County, Colorado 1873 (Stereoscopic view) (29946909193)</unittitle>
+      <unitdate normal="1873">1873</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1346.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1348">
+     <did>
+      <unitid>STA-1348</unitid>
+      <unittitle>Cliffs near the cave dwellings Montezuma County, Colorado 1874 (Stereoscopic view) (30463690192)</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1347.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1349">
+     <did>
+      <unitid>STA-1349</unitid>
+      <unittitle>Rocks near Platte Canyon Douglas County, Colorado 1870 (Stereoscopic view) (30581228515)</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1348.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1350">
+     <did>
+      <unitid>STA-1350</unitid>
+      <unittitle>Rock monuments near Larkspur Douglas County, Colorado 1870 (Stereoscopic view) (30492677021)</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1349.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1351">
+     <did>
+      <unitid>STA-1351</unitid>
+      <unittitle>Gore Canyon, upper end Grand County, Colorado 1874 (Stereoscopic view) (30580321825)</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1350.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1352">
+     <did>
+      <unitid>STA-1352</unitid>
+      <unittitle>Studies in Monument Park El Paso County, Colorado 1874 (Stereoscopic view) (30492788061)</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1351.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1360">
+     <did>
+      <unitid>STA-1360</unitid>
+      <unittitle>Sandstone monument, near Divide El Paso County, Colorado 1874 (Stereoscopic view) (30544585256)</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1359.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1365">
+     <did>
+      <unitid>STA-1365</unitid>
+      <unittitle>Erosion columns, Garden of the Gods, Colorado Springs, Colorado</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1364.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1366">
+     <did>
+      <unitid>STA-1366</unitid>
+      <unittitle>View from Ridge Rock showing Sentinel Rock in background, Colorado Springs, Colorado</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1365.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1368">
+     <did>
+      <unitid>STA-1368</unitid>
+      <unittitle>Stereoscopic Views of Clear Creek and Gilpin counties, Colorado</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1367.jpg"/>
      </did>
     </c>
    </c>
@@ -7132,6 +7308,38 @@
       <unittitle>Educational Hall, Asbury Park</unittitle>
       <unitdate normal="1870">1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1316.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1346">
+     <did>
+      <unitid>STA-1346</unitid>
+      <unittitle>Colorado Springs, Colorado, May 1st, 1880</unittitle>
+      <unitdate normal="1880">1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1345.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1357">
+     <did>
+      <unitid>STA-1357</unitid>
+      <unittitle>The Antler's Colorado Springs</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1356.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1358">
+     <did>
+      <unitid>STA-1358</unitid>
+      <unittitle>Colorado</unittitle>
+      <unitdate normal="1898">1898</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1357.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1359">
+     <did>
+      <unitid>STA-1359</unitid>
+      <unittitle>Georgetown, Colorado, by Continent Stereoscopic Company</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1358.jpg"/>
      </did>
     </c>
    </c>
@@ -10792,6 +11000,14 @@
       <unittitle>Cactus growth, Arizona, by Savage, C. R. (Charles Roscoe), 1832-1909</unittitle>
       <unitdate>Undated</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1274.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1369">
+     <did>
+      <unitid>STA-1369</unitid>
+      <unittitle>Ruins about the head of the McElmo Montezuma County, Colorado 1874 (Stereoscopic view) (30580539525)</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1368.jpg"/>
      </did>
     </c>
    </c>

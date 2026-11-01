@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1356.json",
+ "name": "Red Rock Falls, Elk Mountains Gunnison County, Colorado 1873 (Stereoscopic view) (30544505706)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1355.jpg",
+ "identifier": "STA-1356",
+ "dateCreated": "1873",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Elk Mountains, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Red_Rock_Falls,_Elk_Mountains_Gunnison_County,_Colorado_1873_(Stereoscopic_view)_(30544505706).jpg"
+}

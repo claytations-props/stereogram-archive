@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1351.json",
+ "name": "Gore Canyon, upper end Grand County, Colorado 1874 (Stereoscopic view) (30580321825)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1350.jpg",
+ "identifier": "STA-1351",
+ "dateCreated": "1874",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gore Canyon, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gore_Canyon,_upper_end_Grand_County,_Colorado_1874_(Stereoscopic_view)_(30580321825).jpg"
+}

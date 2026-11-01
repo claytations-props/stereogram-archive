@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1344.json",
+ "name": "Pikes Peak from near Colorado City El Paso County, Colorado 1870 (Stereoscopic view) (29948840384)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1343.jpg",
+ "identifier": "STA-1344",
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Colorado City, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Pikes_Peak_from_near_Colorado_City_El_Paso_County,_Colorado_1870_(Stereoscopic_view)_(29948840384).jpg"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1353.json",
+ "name": "Lower Falls of Lake Fork Hinsdale County, Colorado 1875 (Stereoscopic view) (29949608994)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1352.jpg",
+ "identifier": "STA-1353",
+ "dateCreated": "1875",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lake Fork, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Lower_Falls_of_Lake_Fork_Hinsdale_County,_Colorado_1875_(Stereoscopic_view)_(29949608994).jpg"
+}

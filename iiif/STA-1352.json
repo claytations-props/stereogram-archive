@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1352.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Studies in Monument Park El Paso County, Colorado 1874 (Stereoscopic view) (30492788061)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1874"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Monument Park, Colorado"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1352.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1352/canvas/1",
+   "type": "Canvas",
+   "width": 1432,
+   "height": 758,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1352/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1352/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1351.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1432,
+        "height": 758,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Studies_in_Monument_Park_El_Paso_County%2C_Colorado_1874_%28Stereoscopic_view%29_%2830492788061%29.jpg/1920px-Studies_in_Monument_Park_El_Paso_County%2C_Colorado_1874_%28Stereoscopic_view%29_%2830492788061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1352/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1348.json",
+ "name": "Cliffs near the cave dwellings Montezuma County, Colorado 1874 (Stereoscopic view) (30463690192)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1347.jpg",
+ "identifier": "STA-1348",
+ "dateCreated": "1874",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Montezuma County, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cliffs_near_the_cave_dwellings_Montezuma_County,_Colorado_1874_(Stereoscopic_view)_(30463690192).jpg"
+}

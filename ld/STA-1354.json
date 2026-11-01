@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1354.json",
+ "name": "View of the Rio Grande, near Pole Creek Hinsdale County, Colorado 1874 (Stereoscopic view) (30580321495)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1353.jpg",
+ "identifier": "STA-1354",
+ "dateCreated": "1874",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pole Creek, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_the_Rio_Grande,_near_Pole_Creek_Hinsdale_County,_Colorado_1874_(Stereoscopic_view)_(30580321495).jpg"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1365.json",
+ "name": "Erosion columns, Garden of the Gods, Colorado Springs, Colorado",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1364.jpg",
+ "identifier": "STA-1365",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Colorado Springs, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Erosion_columns,_Garden_of_the_Gods,_Colorado_Springs,_Colorado,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

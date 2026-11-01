@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1357.json",
+ "name": "The Antler's Colorado Springs",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1356.jpg",
+ "identifier": "STA-1357",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Colorado Springs, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Antler%27s_Colorado_Springs,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

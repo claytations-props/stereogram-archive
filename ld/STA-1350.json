@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1350.json",
+ "name": "Rock monuments near Larkspur Douglas County, Colorado 1870 (Stereoscopic view) (30492677021)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1349.jpg",
+ "identifier": "STA-1350",
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Larkspur, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Rock_monuments_near_Larkspur_Douglas_County,_Colorado_1870_(Stereoscopic_view)_(30492677021).jpg"
+}

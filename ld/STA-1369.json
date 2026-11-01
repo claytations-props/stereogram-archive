@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1369.json",
+ "name": "Ruins about the head of the McElmo Montezuma County, Colorado 1874 (Stereoscopic view) (30580539525)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1368.jpg",
+ "identifier": "STA-1369",
+ "dateCreated": "1874",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Montezuma County, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Ruins_about_the_head_of_the_McElmo_Montezuma_County,_Colorado_1874_(Stereoscopic_view)_(30580539525).jpg"
+}

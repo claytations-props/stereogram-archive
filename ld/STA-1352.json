@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1352.json",
+ "name": "Studies in Monument Park El Paso County, Colorado 1874 (Stereoscopic view) (30492788061)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1351.jpg",
+ "identifier": "STA-1352",
+ "dateCreated": "1874",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Monument Park, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Studies_in_Monument_Park_El_Paso_County,_Colorado_1874_(Stereoscopic_view)_(30492788061).jpg"
+}

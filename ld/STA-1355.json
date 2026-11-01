@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1355.json",
+ "name": "Elk Lake and Snowmass Mountain, shadow view Pitkin County, Colorado 1873 (Stereoscopic view) (30580413335)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1354.jpg",
+ "identifier": "STA-1355",
+ "dateCreated": "1873",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Elk Lake, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Elk_Lake_and_Snowmass_Mountain,_shadow_view_Pitkin_County,_Colorado_1873_(Stereoscopic_view)_(30580413335).jpg"
+}

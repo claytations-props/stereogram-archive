@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1368.json",
+ "name": "Stereoscopic Views of Clear Creek and Gilpin counties, Colorado",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1367.jpg",
+ "identifier": "STA-1368",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Stereoscopic_Views_of_Clear_Creek_and_Gilpin_counties,_Colorado,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

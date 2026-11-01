@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1354.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "View of the Rio Grande, near Pole Creek Hinsdale County, Colorado 1874 (Stereoscopic view) (30580321495)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1874"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Pole Creek, Colorado"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1354.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1354/canvas/1",
+   "type": "Canvas",
+   "width": 1454,
+   "height": 891,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1354/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1354/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1353.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1454,
+        "height": 891,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/View_of_the_Rio_Grande%2C_near_Pole_Creek_Hinsdale_County%2C_Colorado_1874_%28Stereoscopic_view%29_%2830580321495%29.jpg/1920px-View_of_the_Rio_Grande%2C_near_Pole_Creek_Hinsdale_County%2C_Colorado_1874_%28Stereoscopic_view%29_%2830580321495%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1354/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

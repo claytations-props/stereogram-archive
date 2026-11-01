@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1361.json",
+ "name": "View west from Hot Springs, Middle Park, Grand County, Colorado 1874 (Stereoscopic view) (30464448722)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1360.jpg",
+ "identifier": "STA-1361",
+ "dateCreated": "1874",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Middle Park, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_west_from_Hot_Springs,_Middle_Park,_Grand_County,_Colorado_1874_(Stereoscopic_view)_(30464448722).jpg"
+}
