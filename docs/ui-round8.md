@@ -161,7 +161,7 @@ node --check with no syntax errors.
 
 Live-verified on vrparlor.com after push: index.html and vr.html
 both 200, served bytes identical to the repo (identical on the
-second check, after the Pages deploy caught up with the push), the
+fifth check, after the Pages deploy caught up with the push), the
 viewer Tab-trap code present in the served index.html, and the
 updateHtmlButtons Record-disable plus crumbText code present in the
 served vr.html.
