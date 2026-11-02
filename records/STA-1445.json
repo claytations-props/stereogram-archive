@@ -5,7 +5,7 @@
  "sy": 1860,
  "era": "early",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Sleepy_Hollow%2C_Tarrytown%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Sleepy_Hollow%2C_Tarrytown%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1860~",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10081577,
  "source_revision_id": null,
- "source_sha1": "3309e3ab6c9ec9c1b8d9967dc7c774b4790c1632"
+ "source_sha1": "3309e3ab6c9ec9c1b8d9967dc7c774b4790c1632",
+ "tags": [
+  "creek",
+  "trees",
+  "forest"
+ ]
 }

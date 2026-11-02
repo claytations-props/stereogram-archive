@@ -5,7 +5,7 @@
  "sy": 1870,
  "era": "mid",
  "cats": [
-  "oddities"
+  "people"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/View_of_Rusticating_in_Sleepy_Hollow%2C_by_A._C._McIntyre.png/1920px-View_of_Rusticating_in_Sleepy_Hollow%2C_by_A._C._McIntyre.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "A. C. McIntyre",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "people"
  ],
  "publisher_series": null,
  "date_edtf": "1870",
@@ -65,5 +65,11 @@
  "license_url": null,
  "source_page_id": 10082201,
  "source_revision_id": null,
- "source_sha1": "bcf0f6720d2dab02719dd4d9c69205eb7e04e9b2"
+ "source_sha1": "bcf0f6720d2dab02719dd4d9c69205eb7e04e9b2",
+ "tags": [
+  "portrait group",
+  "children",
+  "trees",
+  "forest"
+ ]
 }

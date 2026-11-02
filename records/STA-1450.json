@@ -5,7 +5,7 @@
  "sy": 1900,
  "era": "undated",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/The_Haunted_Mill%2C_Sleepy_Hollow%2C_by_Chase%2C_W._M._%28William_M.%29%2C_1818_-_9-1905.jpg/1920px-The_Haunted_Mill%2C_Sleepy_Hollow%2C_by_Chase%2C_W._M._%28William_M.%29%2C_1818_-_9-1905.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -47,14 +47,14 @@
    0.9984
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01\u00b0 of rotation. Depth measured gentle (0.48% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured gentle (0.48% of frame width); hung in the VR Parlor at full size.",
  "repository": null,
  "collection_name": null,
  "publisher": null,
  "creator": "Chase, W. M. (William M.), 1818 - 9-1905",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": null,
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10081552,
  "source_revision_id": null,
- "source_sha1": "9236e12412349f5640f729c1659c5b67527f21f8"
+ "source_sha1": "9236e12412349f5640f729c1659c5b67527f21f8",
+ "tags": [
+  "creek",
+  "trees"
+ ]
 }
