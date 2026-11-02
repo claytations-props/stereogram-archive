@@ -1,0 +1,71 @@
+{
+ "title": "Rustic Bridge, Sleepy Hollow. Scene of Washington Irving's 'Headless Man.'",
+ "place": "Sleepy Hollow, New York",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "cities",
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Rustic_Bridge%2C_Sleepy_Hollow._Scene_of_Washington_Irving%27s_%27Headless_Man.%27%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Rustic_Bridge%2C_Sleepy_Hollow._Scene_of_Washington_Irving%27s_%27Headless_Man.%27%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/46/Rustic_Bridge%2C_Sleepy_Hollow._Scene_of_Washington_Irving%27s_%27Headless_Man.%27%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Rustic_Bridge,_Sleepy_Hollow._Scene_of_Washington_Irving%27s_%27Headless_Man.%27,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2613,
+ "h": 1274,
+ "id": "STA-1448",
+ "rect": "rect/1447.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.2,
+ "rot": 0.02,
+ "range": 2.92,
+ "f": 0.78,
+ "depth": "Deep",
+ "va": 1.4376,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Rustic_Bridge%2C_Sleepy_Hollow._Scene_of_Washington_Irving%27s_%27Headless_Man.%27%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Rustic_Bridge%2C_Sleepy_Hollow._Scene_of_Washington_Irving%27s_%27Headless_Man.%27%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.4376,
+  "L": [
+   0.378125,
+   0.0,
+   0.115885,
+   0.0,
+   0.53953,
+   0.083868
+  ],
+  "R": [
+   0.375104,
+   -0.002711,
+   0.527655,
+   0.002072,
+   0.539145,
+   0.070772
+  ],
+  "g": [
+   1.0,
+   0.9387
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.2% vertical error and 0.02° of rotation. Depth measured deep (2.92% of frame width); hung in the VR Parlor at 78% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities",
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10056346,
+ "source_revision_id": null,
+ "source_sha1": "b119f2ef1cb9a4aed4b197ff584617ec6ba0f621"
+}

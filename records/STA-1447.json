@@ -1,0 +1,69 @@
+{
+ "title": "Sleepy Hollow on the Hudson",
+ "place": "Sleepy Hollow, New York",
+ "year": "c. 1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Sleepy_Hollow_on_the_Hudson%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Sleepy_Hollow_on_the_Hudson%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Sleepy_Hollow_on_the_Hudson%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Sleepy_Hollow_on_the_Hudson,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2592,
+ "h": 1270,
+ "id": "STA-1447",
+ "rect": "rect/1446.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.04,
+ "range": 5.38,
+ "f": 0.78,
+ "depth": "Deep",
+ "va": 0.7481,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Sleepy_Hollow_on_the_Hudson%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Sleepy_Hollow_on_the_Hudson%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7481,
+  "L": [
+   0.261458,
+   0.0,
+   0.204427,
+   0.0,
+   0.713071,
+   0.0356
+  ],
+  "R": [
+   0.259973,
+   -0.003272,
+   0.54475,
+   0.003234,
+   0.712721,
+   0.04005
+  ],
+  "g": [
+   0.9952,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.04° of rotation. Depth measured deep (5.38% of frame width); hung in the VR Parlor at 78% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860~",
+ "date_start": 1855,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10081465,
+ "source_revision_id": null,
+ "source_sha1": "1fd395aee4835701e3baa66ff4f54d2589494843"
+}

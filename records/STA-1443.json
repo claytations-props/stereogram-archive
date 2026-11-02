@@ -1,0 +1,69 @@
+{
+ "title": "Sleepy Hollow Bridge",
+ "place": "Sleepy Hollow, New York",
+ "year": "c. 1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Sleepy_Hollow_Bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Sleepy_Hollow_Bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Sleepy_Hollow_Bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Sleepy_Hollow_Bridge,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2637,
+ "h": 1390,
+ "id": "STA-1443",
+ "rect": "rect/1442.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.01,
+ "range": 4.5,
+ "f": 0.97,
+ "depth": "Deep",
+ "va": 0.7195,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Sleepy_Hollow_Bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Sleepy_Hollow_Bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7195,
+  "L": [
+   0.288542,
+   0.0,
+   0.132552,
+   0.0,
+   0.76087,
+   0.09832
+  ],
+  "R": [
+   0.291591,
+   0.001886,
+   0.556566,
+   -0.002906,
+   0.765696,
+   0.076994
+  ],
+  "g": [
+   1.0,
+   0.9897
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured deep (4.5% of frame width); hung in the VR Parlor at 97% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860~",
+ "date_start": 1855,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10081476,
+ "source_revision_id": null,
+ "source_sha1": "9a9dd439918d3c3d47ab384859815bcf0200f1dd"
+}
