@@ -1,9 +1,9 @@
 {
  "title": "The Haunted Mill, Sleepy Hollow, by Chase, W. M. (William M.), 1818 - 9-1905",
  "place": "Sleepy Hollow, New York",
- "year": "1818",
- "sy": 1818,
- "era": "early",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
  "cats": [
   "oddities"
  ],
@@ -47,7 +47,7 @@
    0.9984
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured gentle (0.48% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01\u00b0 of rotation. Depth measured gentle (0.48% of frame width); hung in the VR Parlor at full size.",
  "repository": null,
  "collection_name": null,
  "publisher": null,
@@ -57,9 +57,9 @@
   "oddities"
  ],
  "publisher_series": null,
- "date_edtf": "1818",
- "date_start": 1818,
- "date_end": 1818,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
  "license_url": null,

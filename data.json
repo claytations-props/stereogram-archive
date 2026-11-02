@@ -85748,9 +85748,9 @@
  {
   "title": "The Haunted Mill, Sleepy Hollow, by Chase, W. M. (William M.), 1818 - 9-1905",
   "place": "Sleepy Hollow, New York",
-  "year": "1818",
-  "sy": 1818,
-  "era": "early",
+  "year": "Undated",
+  "sy": 1900,
+  "era": "undated",
   "cats": [
    "oddities"
   ],
@@ -85799,9 +85799,9 @@
   "collection_name": null,
   "publisher": null,
   "creator": "Chase, W. M. (William M.), 1818 - 9-1905",
-  "date_edtf": "1818",
-  "date_start": 1818,
-  "date_end": 1818,
+  "date_edtf": null,
+  "date_start": null,
+  "date_end": null,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  },
  {
