@@ -1,0 +1,69 @@
+{
+ "title": "St. Augustine Hotel, St. Augustine",
+ "place": "St. Augustine, Florida",
+ "year": "1868",
+ "sy": 1868,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/4/46/St._Augustine_Hotel%2C_St._Augustine%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/46/St._Augustine_Hotel%2C_St._Augustine%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:St._Augustine_Hotel,_St._Augustine,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 367,
+ "id": "STA-1469",
+ "rect": "rect/1468.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.17,
+ "rot": 0.0,
+ "range": 1.19,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.1,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/4/46/St._Augustine_Hotel%2C_St._Augustine%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.1,
+  "L": [
+   0.390789,
+   0.0,
+   0.075658,
+   0.0,
+   0.735695,
+   0.23842
+  ],
+  "R": [
+   0.390265,
+   0.001645,
+   0.537909,
+   -0.006449,
+   0.734995,
+   0.238182
+  ],
+  "g": [
+   1.0,
+   0.9693
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.0° of rotation. Depth measured gentle (1.19% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1868",
+ "date_start": 1868,
+ "date_end": 1868,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7266904,
+ "source_revision_id": null,
+ "source_sha1": "de0573de25c9c84cafd19df721f6c56b4ee662c0"
+}

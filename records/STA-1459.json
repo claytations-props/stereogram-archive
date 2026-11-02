@@ -1,0 +1,69 @@
+{
+ "title": "St. George St., St. Augustine, Florida",
+ "place": "St. Augustine, Florida",
+ "year": "1868",
+ "sy": 1868,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/St._George_St.%2C_St._Augustine%2C_Florida%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-St._George_St.%2C_St._Augustine%2C_Florida%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/5f/St._George_St.%2C_St._Augustine%2C_Florida%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:St._George_St.,_St._Augustine,_Florida,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2507,
+ "h": 1371,
+ "id": "STA-1459",
+ "rect": "rect/1458.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.12,
+ "rot": 0.01,
+ "range": 2.27,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.9377,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/St._George_St.%2C_St._Augustine%2C_Florida%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-St._George_St.%2C_St._Augustine%2C_Florida%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9377,
+  "L": [
+   0.4,
+   0.0,
+   0.048698,
+   0.0,
+   0.78,
+   0.04619
+  ],
+  "R": [
+   0.411112,
+   0.000851,
+   0.506896,
+   -0.001973,
+   0.778333,
+   0.052264
+  ],
+  "g": [
+   0.9678,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured deep (2.27% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1868",
+ "date_start": 1868,
+ "date_end": 1868,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7267866,
+ "source_revision_id": null,
+ "source_sha1": "a895ce37dab5533718a78b3dd2e346869aabd627"
+}
