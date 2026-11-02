@@ -1,0 +1,69 @@
+{
+ "title": "South Battery St., Charleston, S.C",
+ "place": "Charleston, South Carolina",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/South_Battery_St.%2C_Charleston%2C_S.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-South_Battery_St.%2C_Charleston%2C_S.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/90/South_Battery_St.%2C_Charleston%2C_S.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:South_Battery_St.,_Charleston,_S.C,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1438,
+ "id": "STA-1408",
+ "rect": "rect/1407.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.0,
+ "range": 1.28,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.017,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/South_Battery_St.%2C_Charleston%2C_S.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-South_Battery_St.%2C_Charleston%2C_S.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.017,
+  "L": [
+   0.373437,
+   0.0,
+   0.113281,
+   0.0,
+   0.698712,
+   0.219524
+  ],
+  "R": [
+   0.374643,
+   -0.002248,
+   0.51057,
+   0.000329,
+   0.704988,
+   0.220877
+  ],
+  "g": [
+   0.9867,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (1.28% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10081748,
+ "source_revision_id": null,
+ "source_sha1": "cdf1a59308d2bcd90d0ad11f02c5745bb16b71e0"
+}

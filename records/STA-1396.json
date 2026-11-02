@@ -1,0 +1,69 @@
+{
+ "title": "Fort Sumpter (Sumter), Charleston Harbor",
+ "place": "Charleston, South Carolina",
+ "year": "1861",
+ "sy": 1861,
+ "era": "early",
+ "cats": [
+  "war"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Fort_Sumpter_%28Sumter%29%2C_Charleston_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Fort_Sumpter_%28Sumter%29%2C_Charleston_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/de/Fort_Sumpter_%28Sumter%29%2C_Charleston_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Fort_Sumpter_(Sumter),_Charleston_Harbor,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2667,
+ "h": 1344,
+ "id": "STA-1396",
+ "rect": "rect/1395.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.33,
+ "rot": 0.06,
+ "range": 0.87,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 3.7449,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Fort_Sumpter_%28Sumter%29%2C_Charleston_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Fort_Sumpter_%28Sumter%29%2C_Charleston_Harbor%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 3.7449,
+  "L": [
+   0.382292,
+   0.0,
+   0.079427,
+   0.0,
+   0.202479,
+   0.440599
+  ],
+  "R": [
+   0.380392,
+   -0.006414,
+   0.515205,
+   -0.001476,
+   0.202238,
+   0.437781
+  ],
+  "g": [
+   1.0,
+   0.9886
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.33% vertical error and 0.06° of rotation. Depth measured gentle (0.87% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "war"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1861",
+ "date_start": 1861,
+ "date_end": 1861,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10023562,
+ "source_revision_id": null,
+ "source_sha1": "b6c71bad2f398bd185f7603f4b6f2eeaad1d6da3"
+}
