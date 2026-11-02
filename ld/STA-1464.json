@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1464.json",
+ "name": "St. Francis St., Oldest house in St. Augustine, Fla",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1463.jpg",
+ "identifier": "STA-1464",
+ "dateCreated": "1868",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "St. Augustine, Florida"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:St._Francis_St.,_Oldest_house_in_St._Augustine,_Fla,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

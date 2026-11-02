@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1422.json",
+ "name": "Church, Hartford, Conn, by Milan P. Warner",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1421.jpg",
+ "identifier": "STA-1422",
+ "creator": {
+  "@type": "Person",
+  "name": "Milan P. Warner"
+ },
+ "dateCreated": "1892",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hartford, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Church,_Hartford,_Conn,_by_Milan_P._Warner.jpg"
+}

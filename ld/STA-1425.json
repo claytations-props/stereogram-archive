@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1425.json",
+ "name": "View of the interior of Church of the Good Shepherd, Hartford, Conn. (Erected by Mrs. Samuel Colt.), by R. S. De Lamater 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1424.jpg",
+ "identifier": "STA-1425",
+ "creator": {
+  "@type": "Person",
+  "name": "R. S. De Lamater"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hartford, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_the_interior_of_Church_of_the_Good_Shepherd,_Hartford,_Conn._(Erected_by_Mrs._Samuel_Colt.),_by_R._S._De_Lamater_2.jpg"
+}

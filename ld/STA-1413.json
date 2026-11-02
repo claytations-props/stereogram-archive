@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1413.json",
+ "name": "The State House, Hartford",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1412.jpg",
+ "identifier": "STA-1413",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hartford, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_State_House,_Hartford,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

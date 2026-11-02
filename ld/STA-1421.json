@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1421.json",
+ "name": "State Capitol, Hartford. (North-east view.), by Kellogg, E. P. (Edwin P.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1420.jpg",
+ "identifier": "STA-1421",
+ "creator": {
+  "@type": "Person",
+  "name": "Kellogg, E. P. (Edwin P.)"
+ },
+ "dateCreated": "1875",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hartford, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:State_Capitol,_Hartford._(North-east_view.),_by_Kellogg,_E._P._(Edwin_P.).jpg"
+}

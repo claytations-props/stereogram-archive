@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>1382</quantity>
+    <quantity>1472</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -1938,6 +1938,70 @@
       <unittitle>Panorama from Telegraph Hill, (No. 11.) Vallejo and Broadway Wharves</unittitle>
       <unitdate normal="1861/1873">1861–1873</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1374.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1387">
+     <did>
+      <unitid>STA-1387</unitid>
+      <unittitle>Shipping, Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1386.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1391">
+     <did>
+      <unitid>STA-1391</unitid>
+      <unittitle>Shipping, Charleston, S.C, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1390.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1401">
+     <did>
+      <unitid>STA-1401</unitid>
+      <unittitle>Steamer "Planter," Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1400.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1405">
+     <did>
+      <unitid>STA-1405</unitid>
+      <unittitle>Bathing house and Battery, Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1404.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1445">
+     <did>
+      <unitid>STA-1445</unitid>
+      <unittitle>Sleepy Hollow, Tarrytown, N.Y</unittitle>
+      <unitdate normal="1855/1865">c. 1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1444.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1447">
+     <did>
+      <unitid>STA-1447</unitid>
+      <unittitle>Sleepy Hollow on the Hudson</unittitle>
+      <unitdate normal="1855/1865">c. 1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1446.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1450">
+     <did>
+      <unitid>STA-1450</unitid>
+      <unittitle>The Haunted Mill, Sleepy Hollow, by Chase, W. M. (William M.), 1818 - 9-1905</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1449.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1455">
+     <did>
+      <unitid>STA-1455</unitid>
+      <unittitle>Sleepy Hollow, by J. Loeffler</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1454.jpg"/>
      </did>
     </c>
    </c>
@@ -7406,6 +7470,430 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1381.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-1383">
+     <did>
+      <unitid>STA-1383</unitid>
+      <unittitle>Charleston, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1382.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1384">
+     <did>
+      <unitid>STA-1384</unitid>
+      <unittitle>Charleston</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1383.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1388">
+     <did>
+      <unitid>STA-1388</unitid>
+      <unittitle>Panorama of Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1387.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1389">
+     <did>
+      <unitid>STA-1389</unitid>
+      <unittitle>Charleston, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1388.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1394">
+     <did>
+      <unitid>STA-1394</unitid>
+      <unittitle>East Battery, (looking south), Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1393.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1397">
+     <did>
+      <unitid>STA-1397</unitid>
+      <unittitle>Ruins of the Circular Church &amp; Secession Hall, Charleston</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1396.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1398">
+     <did>
+      <unitid>STA-1398</unitid>
+      <unittitle>Unitarian &amp; Lutheran churches, Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1397.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1400">
+     <did>
+      <unitid>STA-1400</unitid>
+      <unittitle>East Batterty St., Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1399.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1403">
+     <did>
+      <unitid>STA-1403</unitid>
+      <unittitle>South Battery, looking north, Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1402.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1406">
+     <did>
+      <unitid>STA-1406</unitid>
+      <unittitle>Charleston, S.C., from St. Michael's Church</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1405.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1407">
+     <did>
+      <unitid>STA-1407</unitid>
+      <unittitle>East Battery, looking south, Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1406.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1408">
+     <did>
+      <unitid>STA-1408</unitid>
+      <unittitle>South Battery St., Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1407.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1409">
+     <did>
+      <unitid>STA-1409</unitid>
+      <unittitle>South Battery St., Charleston, S.C, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1408.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1410">
+     <did>
+      <unitid>STA-1410</unitid>
+      <unittitle>East Battery, looking north, Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1409.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1413">
+     <did>
+      <unitid>STA-1413</unitid>
+      <unittitle>The State House, Hartford</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1412.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1414">
+     <did>
+      <unitid>STA-1414</unitid>
+      <unittitle>State Capitol, Hartford, Conn</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1413.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1415">
+     <did>
+      <unitid>STA-1415</unitid>
+      <unittitle>Memorial Arch, Hartford, Conn</unittitle>
+      <unitdate normal="1885/1895">c. 1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1414.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1416">
+     <did>
+      <unitid>STA-1416</unitid>
+      <unittitle>Hartford, Connecticut. Main Street</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1415.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1417">
+     <did>
+      <unitid>STA-1417</unitid>
+      <unittitle>Hartford, Connecticut. Memorial Church of the Good Shepherd</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1416.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1419">
+     <did>
+      <unitid>STA-1419</unitid>
+      <unittitle>Hartford, Connecticut. Residence of Mrs. James Goodwin</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1418.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1421">
+     <did>
+      <unitid>STA-1421</unitid>
+      <unittitle>State Capitol, Hartford. (North-east view.), by Kellogg, E. P. (Edwin P.)</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1420.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1422">
+     <did>
+      <unitid>STA-1422</unitid>
+      <unittitle>Church, Hartford, Conn, by Milan P. Warner</unittitle>
+      <unitdate normal="1892">1892</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1421.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1423">
+     <did>
+      <unitid>STA-1423</unitid>
+      <unittitle>Main Street, Hartford, by S. C. Northrop</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1422.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1424">
+     <did>
+      <unitid>STA-1424</unitid>
+      <unittitle>Conn. Mutual Building, Hartford, by S. C. Northrop</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1423.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1425">
+     <did>
+      <unitid>STA-1425</unitid>
+      <unittitle>View of the interior of Church of the Good Shepherd, Hartford, Conn. (Erected by Mrs. Samuel Colt.), by R. S. De Lamater 2</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1424.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1426">
+     <did>
+      <unitid>STA-1426</unitid>
+      <unittitle>View from Charter Oak building, looking north</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1425.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1427">
+     <did>
+      <unitid>STA-1427</unitid>
+      <unittitle>Street scene, Hartford, Conn, by J.W. &amp; J.S. Moulton</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1426.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1428">
+     <did>
+      <unitid>STA-1428</unitid>
+      <unittitle>Ford Street bridge, Hartford, Conn, by J.W. &amp; J.S. Moulton</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1427.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1429">
+     <did>
+      <unitid>STA-1429</unitid>
+      <unittitle>State Capitol, Hartford, by Kellogg, E. P. (Edwin P.)</unittitle>
+      <unitdate normal="1879">1879</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1428.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1431">
+     <did>
+      <unitid>STA-1431</unitid>
+      <unittitle>State Capitol, Hartford, by Kellogg, E. P. (Edwin P.) 4</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1430.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1432">
+     <did>
+      <unitid>STA-1432</unitid>
+      <unittitle>Athenaeum</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1431.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1433">
+     <did>
+      <unitid>STA-1433</unitid>
+      <unittitle>State Capitol, Hartford, Conn, by Kellogg, E. P. (Edwin P.)</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1432.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1434">
+     <did>
+      <unitid>STA-1434</unitid>
+      <unittitle>State Capitol Hartford, by Kellogg, E. P. (Edwin P.)</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1433.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1435">
+     <did>
+      <unitid>STA-1435</unitid>
+      <unittitle>View of the interior of Church of the Good Shepherd, Hartford, Conn. (Erected by Mrs. Samuel Colt.) (NYPL b11707680-G90F072 003F)</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1434.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1440">
+     <did>
+      <unitid>STA-1440</unitid>
+      <unittitle>Mark Twain place</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1439.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1443">
+     <did>
+      <unitid>STA-1443</unitid>
+      <unittitle>Sleepy Hollow Bridge</unittitle>
+      <unitdate normal="1855/1865">c. 1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1442.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1448">
+     <did>
+      <unitid>STA-1448</unitid>
+      <unittitle>Rustic Bridge, Sleepy Hollow. Scene of Washington Irving's 'Headless Man.'</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1447.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1457">
+     <did>
+      <unitid>STA-1457</unitid>
+      <unittitle>St. George St., St. Augustine, Fla</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1456.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1458">
+     <did>
+      <unitid>STA-1458</unitid>
+      <unittitle>Marine St, St. Augustine, Fla</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1457.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1459">
+     <did>
+      <unitid>STA-1459</unitid>
+      <unittitle>St. George St., St. Augustine, Florida</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1458.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1460">
+     <did>
+      <unitid>STA-1460</unitid>
+      <unittitle>St. George St., St. Augustine, Fla, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1459.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1461">
+     <did>
+      <unitid>STA-1461</unitid>
+      <unittitle>St. Francis St., St. Augustine, Fla</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1460.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1462">
+     <did>
+      <unitid>STA-1462</unitid>
+      <unittitle>St. George St., St. Augustine, Fla, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1461.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1463">
+     <did>
+      <unitid>STA-1463</unitid>
+      <unittitle>Sunshine and shadow, King St., St. Augustine, Fla</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1462.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1464">
+     <did>
+      <unitid>STA-1464</unitid>
+      <unittitle>St. Francis St., Oldest house in St. Augustine, Fla</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1463.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1465">
+     <did>
+      <unitid>STA-1465</unitid>
+      <unittitle>St. Francis St., Oldest house. St. Augustine, Florida</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1464.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1466">
+     <did>
+      <unitid>STA-1466</unitid>
+      <unittitle>St. George St., St. Augustine, Florida, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1465.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1467">
+     <did>
+      <unitid>STA-1467</unitid>
+      <unittitle>St. George St., St. Augustine, Florida, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1466.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1468">
+     <did>
+      <unitid>STA-1468</unitid>
+      <unittitle>General view of St. Augustine</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1467.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1469">
+     <did>
+      <unitid>STA-1469</unitid>
+      <unittitle>St. Augustine Hotel, St. Augustine</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1468.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1470">
+     <did>
+      <unitid>STA-1470</unitid>
+      <unittitle>St. Augustine city view</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1469.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1471">
+     <did>
+      <unitid>STA-1471</unitid>
+      <unittitle>Bird's eye view of St. Augustine</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1470.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1472">
+     <did>
+      <unitid>STA-1472</unitid>
+      <unittitle>General view of the city. (St. Augustine)</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1471.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -7745,6 +8233,38 @@
       <unittitle>United States Ship Colorado, New York Harbor</unittitle>
       <unitdate normal="1858">1858</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1340.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1386">
+     <did>
+      <unitid>STA-1386</unitid>
+      <unittitle>View of war damage, Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1385.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1393">
+     <did>
+      <unitid>STA-1393</unitid>
+      <unittitle>Fort Sumter, Charleston Harbor</unittitle>
+      <unitdate normal="1861">1861</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1392.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1395">
+     <did>
+      <unitid>STA-1395</unitid>
+      <unittitle>Interior view of Fort Sumter, taken in 1868, Charleston, S.C</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1394.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1396">
+     <did>
+      <unitid>STA-1396</unitid>
+      <unittitle>Fort Sumpter (Sumter), Charleston Harbor</unittitle>
+      <unitdate normal="1861">1861</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1395.jpg"/>
      </did>
     </c>
    </c>
@@ -8819,6 +9339,38 @@
       <unittitle>View of Asbury Park. Beach scene</unittitle>
       <unitdate normal="1870">1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1318.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1442">
+     <did>
+      <unitid>STA-1442</unitid>
+      <unittitle>View in Sleepy Hollow. Scene of Washington Irving's 'Headless Man.'</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1441.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1444">
+     <did>
+      <unitid>STA-1444</unitid>
+      <unittitle>View in Sleepy Hollow. Scene of Washington Irving's 'Headless Man.', from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1443.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1446">
+     <did>
+      <unitid>STA-1446</unitid>
+      <unittitle>A Quiet Evening, Sleepy Hollow. Scene of Washington Irving's 'Headless Man.'</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1445.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1454">
+     <did>
+      <unitid>STA-1454</unitid>
+      <unittitle>View of Rusticating in Sleepy Hollow, by A. C. McIntyre</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1453.jpg"/>
      </did>
     </c>
    </c>
@@ -11112,6 +11664,174 @@
       <unittitle>Lawn view at T.H. Selby's Residence, Fair Oaks, Cal, by Watkins, Carleton E., 1829-1916 2</unittitle>
       <unitdate>Undated</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1380.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1385">
+     <did>
+      <unitid>STA-1385</unitid>
+      <unittitle>Magnolia Cemetery, Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1384.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1390">
+     <did>
+      <unitid>STA-1390</unitid>
+      <unittitle>Magnolia cemetery, Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1389.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1392">
+     <did>
+      <unitid>STA-1392</unitid>
+      <unittitle>Gossiping at the gate, Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1391.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1399">
+     <did>
+      <unitid>STA-1399</unitid>
+      <unittitle>Ruins of the Catholic cathedral, Charleston, S. C. Front view</unittitle>
+      <unitdate normal="1861/1865">1861–1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1398.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1402">
+     <did>
+      <unitid>STA-1402</unitid>
+      <unittitle>Fairyland, Magnolia Cemetery, Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1401.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1404">
+     <did>
+      <unitid>STA-1404</unitid>
+      <unittitle>Chapel, Magnolia Cemetery, Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1403.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1411">
+     <did>
+      <unitid>STA-1411</unitid>
+      <unittitle>The great tea rose, Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1410.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1412">
+     <did>
+      <unitid>STA-1412</unitid>
+      <unittitle>Fairy-land, Magnolia Cemetery, Charleston, S.C</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1411.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1418">
+     <did>
+      <unitid>STA-1418</unitid>
+      <unittitle>House of Representatives, Hartford, Conn</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1417.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1420">
+     <did>
+      <unitid>STA-1420</unitid>
+      <unittitle>Interior view of Capitol, Hartford, Conn, by Union View Co.</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1419.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1430">
+     <did>
+      <unitid>STA-1430</unitid>
+      <unittitle>State Capitol, Hartford, by Kellogg, E. P. (Edwin P.) 2</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1429.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1436">
+     <did>
+      <unitid>STA-1436</unitid>
+      <unittitle>State Capitol, Hartford. (First floor.), by Kellogg, E. P. (Edwin P.)</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1435.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1437">
+     <did>
+      <unitid>STA-1437</unitid>
+      <unittitle>State Capitol, Hartford. (Interior dome), by Kellogg, E. P. (Edwin P.)</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1436.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1438">
+     <did>
+      <unitid>STA-1438</unitid>
+      <unittitle>State Capitol, Hartford. (Representatives' Hall.), by Kellogg, E. P. (Edwin P.)</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1437.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1439">
+     <did>
+      <unitid>STA-1439</unitid>
+      <unittitle>State Capitol, Hartford. (Main stairway.), by Kellogg, E. P. (Edwin P.)</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1438.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1441">
+     <did>
+      <unitid>STA-1441</unitid>
+      <unittitle>State Capitol, Hartford. (Interior), by Kellogg, E. P. (Edwin P.)</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1440.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1449">
+     <did>
+      <unitid>STA-1449</unitid>
+      <unittitle>Rip Van Winkle House, Sleepy Hollow, Catskill Mts. N.Y, by H. S. Fifield</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1448.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1451">
+     <did>
+      <unitid>STA-1451</unitid>
+      <unittitle>Rip Van Winkle House in Sleepy Hollow, by E. &amp; H.T. Anthony (Firm) 2</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1450.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1452">
+     <did>
+      <unitid>STA-1452</unitid>
+      <unittitle>Rip Van Winkle House in Sleepy Hollow, by E. &amp; H.T. Anthony (Firm) 3</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1451.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1453">
+     <did>
+      <unitid>STA-1453</unitid>
+      <unittitle>Rip Van Winkle House in Sleepy Hollow, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1452.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1456">
+     <did>
+      <unitid>STA-1456</unitid>
+      <unittitle>Sleepy Hollow, by J. Loeffler 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1455.jpg"/>
      </did>
     </c>
    </c>

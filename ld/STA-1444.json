@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1444.json",
+ "name": "View in Sleepy Hollow. Scene of Washington Irving's 'Headless Man.', from Robert N. Dennis collection of stereoscopic views 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1443.jpg",
+ "identifier": "STA-1444",
+ "dateCreated": "1858",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Sleepy Hollow, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_in_Sleepy_Hollow._Scene_of_Washington_Irving%27s_%27Headless_Man.%27,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg"
+}

@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1449.json",
+ "name": "Rip Van Winkle House, Sleepy Hollow, Catskill Mts. N.Y, by H. S. Fifield",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1448.jpg",
+ "identifier": "STA-1449",
+ "creator": {
+  "@type": "Person",
+  "name": "H. S. Fifield"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Rip_Van_Winkle_House,_Sleepy_Hollow,_Catskill_Mts._N.Y,_by_H._S._Fifield.jpg"
+}

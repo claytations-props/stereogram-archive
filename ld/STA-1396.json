@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1396.json",
+ "name": "Fort Sumpter (Sumter), Charleston Harbor",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1395.jpg",
+ "identifier": "STA-1396",
+ "dateCreated": "1861",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Charleston, South Carolina"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Fort_Sumpter_(Sumter),_Charleston_Harbor,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

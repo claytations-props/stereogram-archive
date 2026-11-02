@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1431.json",
+ "name": "State Capitol, Hartford, by Kellogg, E. P. (Edwin P.) 4",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1430.jpg",
+ "identifier": "STA-1431",
+ "creator": {
+  "@type": "Person",
+  "name": "Kellogg, E. P. (Edwin P.)"
+ },
+ "dateCreated": "1875",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hartford, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:State_Capitol,_Hartford,_by_Kellogg,_E._P._(Edwin_P.)_4.jpg"
+}

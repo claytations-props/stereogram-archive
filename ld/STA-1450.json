@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1450.json",
+ "name": "The Haunted Mill, Sleepy Hollow, by Chase, W. M. (William M.), 1818 - 9-1905",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1449.jpg",
+ "identifier": "STA-1450",
+ "creator": {
+  "@type": "Person",
+  "name": "Chase, W. M. (William M.), 1818 - 9-1905"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Sleepy Hollow, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Haunted_Mill,_Sleepy_Hollow,_by_Chase,_W._M._(William_M.),_1818_-_9-1905.jpg"
+}

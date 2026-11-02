@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1400.json",
+ "name": "East Batterty St., Charleston, S.C",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1399.jpg",
+ "identifier": "STA-1400",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Charleston, South Carolina"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:East_Batterty_St.,_Charleston,_S.C,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

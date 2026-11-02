@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1421.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "State Capitol, Hartford. (North-east view.), by Kellogg, E. P. (Edwin P.)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Kellogg, E. P. (Edwin P.)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1875"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Hartford, Connecticut"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1421.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1421/canvas/1",
+   "type": "Canvas",
+   "width": 1484,
+   "height": 513,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1421/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1421/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1420.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1484,
+        "height": 513,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/State_Capitol%2C_Hartford._%28North-east_view.%29%2C_by_Kellogg%2C_E._P._%28Edwin_P.%29.jpg/1920px-State_Capitol%2C_Hartford._%28North-east_view.%29%2C_by_Kellogg%2C_E._P._%28Edwin_P.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1421/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

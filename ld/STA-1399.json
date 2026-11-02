@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1399.json",
+ "name": "Ruins of the Catholic cathedral, Charleston, S. C. Front view",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1398.jpg",
+ "identifier": "STA-1399",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Charleston, South Carolina"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Ruins_of_the_Catholic_cathedral,_Charleston,_S._C._Front_view,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

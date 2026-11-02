@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1438.json",
+ "name": "State Capitol, Hartford. (Representatives' Hall.), by Kellogg, E. P. (Edwin P.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1437.jpg",
+ "identifier": "STA-1438",
+ "creator": {
+  "@type": "Person",
+  "name": "Kellogg, E. P. (Edwin P.)"
+ },
+ "dateCreated": "1875",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hartford, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:State_Capitol,_Hartford._(Representatives%27_Hall.),_by_Kellogg,_E._P._(Edwin_P.).jpg"
+}

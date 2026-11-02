@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1435.json",
+ "name": "View of the interior of Church of the Good Shepherd, Hartford, Conn. (Erected by Mrs. Samuel Colt.) (NYPL b11707680-G90F072 003F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1434.jpg",
+ "identifier": "STA-1435",
+ "creator": {
+  "@type": "Person",
+  "name": "Mrs. Samuel Colt.) (NYPL b11707680-G90F072 003F)"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hartford, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_the_interior_of_Church_of_the_Good_Shepherd,_Hartford,_Conn._(Erected_by_Mrs._Samuel_Colt.)_(NYPL_b11707680-G90F072_003F).tiff"
+}

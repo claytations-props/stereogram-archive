@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1451.json",
+ "name": "Rip Van Winkle House in Sleepy Hollow, by E. & H.T. Anthony (Firm) 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1450.jpg",
+ "identifier": "STA-1451",
+ "creator": {
+  "@type": "Person",
+  "name": "E. & H.T. Anthony (Firm)"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Sleepy Hollow, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Rip_Van_Winkle_House_in_Sleepy_Hollow,_by_E._%26_H.T._Anthony_(Firm)_2.jpg"
+}

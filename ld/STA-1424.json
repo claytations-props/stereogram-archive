@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1424.json",
+ "name": "Conn. Mutual Building, Hartford, by S. C. Northrop",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1423.jpg",
+ "identifier": "STA-1424",
+ "creator": {
+  "@type": "Person",
+  "name": "S. C. Northrop"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hartford, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Conn._Mutual_Building,_Hartford,_by_S._C._Northrop.jpg"
+}
