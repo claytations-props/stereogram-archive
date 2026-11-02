@@ -5,7 +5,7 @@
  "sy": 1860,
  "era": "early",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Bathing_house_and_Battery%2C_Charleston%2C_S.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Bathing_house_and_Battery%2C_Charleston%2C_S.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1860",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10081717,
  "source_revision_id": null,
- "source_sha1": "e271c0e4c172dc9163a81917b7307d17ee0d5cb8"
+ "source_sha1": "e271c0e4c172dc9163a81917b7307d17ee0d5cb8",
+ "tags": [
+  "pier",
+  "harbor"
+ ]
 }

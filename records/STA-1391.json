@@ -5,7 +5,7 @@
  "sy": 1860,
  "era": "early",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Shipping%2C_Charleston%2C_S.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Shipping%2C_Charleston%2C_S.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1860",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10081769,
  "source_revision_id": null,
- "source_sha1": "e32f2dc3992c27b64cf5aaf7d6c768181029008a"
+ "source_sha1": "e32f2dc3992c27b64cf5aaf7d6c768181029008a",
+ "tags": [
+  "sailing ship",
+  "pier",
+  "harbor"
+ ]
 }

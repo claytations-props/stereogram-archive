@@ -5,7 +5,7 @@
  "sy": 1860,
  "era": "early",
  "cats": [
-  "oddities"
+  "war"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/View_of_war_damage%2C_Charleston%2C_S.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_war_damage%2C_Charleston%2C_S.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "war"
  ],
  "publisher_series": null,
  "date_edtf": "1860",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10081808,
  "source_revision_id": null,
- "source_sha1": "7b003e8c5b112054323e19eb0839ffde7600a115"
+ "source_sha1": "7b003e8c5b112054323e19eb0839ffde7600a115",
+ "tags": [
+  "house",
+  "ruins"
+ ]
 }

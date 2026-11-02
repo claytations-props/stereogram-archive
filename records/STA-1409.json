@@ -5,7 +5,7 @@
  "sy": 1860,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/South_Battery_St.%2C_Charleston%2C_S.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-South_Battery_St.%2C_Charleston%2C_S.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1860",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10081780,
  "source_revision_id": null,
- "source_sha1": "e5f44be0ebefc955031041b879630e361c84c347"
+ "source_sha1": "e5f44be0ebefc955031041b879630e361c84c347",
+ "tags": [
+  "mansion",
+  "horse",
+  "trees"
+ ]
 }

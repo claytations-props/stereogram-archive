@@ -5,7 +5,7 @@
  "sy": 1860,
  "era": "early",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Steamer_%22Planter%2C%22_Charleston%2C_S.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Steamer_%22Planter%2C%22_Charleston%2C_S.C%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1860",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10081760,
  "source_revision_id": null,
- "source_sha1": "d2639b3a4929d9f39a8ebcc1ccccea7b652b0592"
+ "source_sha1": "d2639b3a4929d9f39a8ebcc1ccccea7b652b0592",
+ "tags": [
+  "ship",
+  "harbor"
+ ]
 }
