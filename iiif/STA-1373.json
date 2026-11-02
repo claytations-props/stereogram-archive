@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1373.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Cty of Vallejo and suburbs, from the residence of A.C. Woods, by Watkins, Carleton E., 1829-1916"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Watkins, Carleton E."
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "1829-1916"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Vallejo, California"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1373.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1373/canvas/1",
+   "type": "Canvas",
+   "width": 1528,
+   "height": 651,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1373/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1373/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1372.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1528,
+        "height": 651,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Cty_of_Vallejo_and_suburbs%2C_from_the_residence_of_A.C._Woods%2C_by_Watkins%2C_Carleton_E.%2C_1829-1916.jpg/1920px-Cty_of_Vallejo_and_suburbs%2C_from_the_residence_of_A.C._Woods%2C_by_Watkins%2C_Carleton_E.%2C_1829-1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1373/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

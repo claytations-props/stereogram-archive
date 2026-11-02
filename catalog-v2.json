@@ -101585,7 +101585,11 @@
   "license_url": null,
   "source_page_id": 7225327,
   "source_revision_id": null,
-  "source_sha1": "7b8efdde24d0fc3bc433a915383425d7ff1897b2"
+  "source_sha1": "7b8efdde24d0fc3bc433a915383425d7ff1897b2",
+  "tags": [
+   "house",
+   "main street"
+  ]
  },
  {
   "title": "View of a cemetery, Vallejo, California, by J. G. Smith",
@@ -101654,7 +101658,12 @@
   "license_url": null,
   "source_page_id": 7203046,
   "source_revision_id": null,
-  "source_sha1": "262902f6ba4d0b03bd0e479f06874756cccffcb1"
+  "source_sha1": "262902f6ba4d0b03bd0e479f06874756cccffcb1",
+  "tags": [
+   "cemetery",
+   "bay",
+   "trees"
+  ]
  },
  {
   "title": "The ruins of streets and homes, of wrecked district at Van Ness and Vallejo Sts., San Francisco",
@@ -101723,7 +101732,12 @@
   "license_url": null,
   "source_page_id": 10082528,
   "source_revision_id": null,
-  "source_sha1": "3d50aa9a3e7b9876c98fb8ba102e3285f6370304"
+  "source_sha1": "3d50aa9a3e7b9876c98fb8ba102e3285f6370304",
+  "tags": [
+   "earthquake damage",
+   "horse",
+   "wagon"
+  ]
  },
  {
   "title": "Cty of Vallejo and suburbs, from the residence of A.C. Woods, by Watkins, Carleton E., 1829-1916",
@@ -101732,7 +101746,7 @@
   "sy": 1900,
   "era": "undated",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Cty_of_Vallejo_and_suburbs%2C_from_the_residence_of_A.C._Woods%2C_by_Watkins%2C_Carleton_E.%2C_1829-1916.jpg/1920px-Cty_of_Vallejo_and_suburbs%2C_from_the_residence_of_A.C._Woods%2C_by_Watkins%2C_Carleton_E.%2C_1829-1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -101781,7 +101795,7 @@
   "creator": "Watkins, Carleton E.",
   "creator_dates": "1829-1916",
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": null,
@@ -101792,7 +101806,11 @@
   "license_url": null,
   "source_page_id": 7203080,
   "source_revision_id": null,
-  "source_sha1": "bb7805db6ef4dc35dfac3addf58991d4093ff936"
+  "source_sha1": "bb7805db6ef4dc35dfac3addf58991d4093ff936",
+  "tags": [
+   "house",
+   "main street"
+  ]
  },
  {
   "title": "Panorama from Telegraph Hill, (No. 17.) St. Francis Cathedral, Vallejo Street",
@@ -101861,7 +101879,11 @@
   "license_url": null,
   "source_page_id": 7223079,
   "source_revision_id": null,
-  "source_sha1": "42791456e7abef9f0123847eb032438c1e95f799"
+  "source_sha1": "42791456e7abef9f0123847eb032438c1e95f799",
+  "tags": [
+   "church",
+   "house"
+  ]
  },
  {
   "title": "Panorama from Telegraph Hill, (No. 11.) Vallejo and Broadway Wharves",
@@ -101870,7 +101892,7 @@
   "sy": 1861,
   "era": "early",
   "cats": [
-   "cities"
+   "water"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Panorama_from_Telegraph_Hill%2C_%28No._11.%29_Vallejo_and_Broadway_Wharves%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Panorama_from_Telegraph_Hill%2C_%28No._11.%29_Vallejo_and_Broadway_Wharves%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -101919,7 +101941,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "cities"
+   "water"
   ],
   "publisher_series": null,
   "date_edtf": "1861/1873",
@@ -101930,7 +101952,12 @@
   "license_url": null,
   "source_page_id": 7223052,
   "source_revision_id": null,
-  "source_sha1": "64380f2456815021de1c7aba72ff08e538888a1f"
+  "source_sha1": "64380f2456815021de1c7aba72ff08e538888a1f",
+  "tags": [
+   "pier",
+   "sailing ship",
+   "harbor"
+  ]
  },
  {
   "title": "The ruins of streets and homes, of wrecked district at Van Ness and Vallejo Sts., San Francisco, from Robert N. Dennis collection of stereoscopic views 2",
@@ -101999,7 +102026,12 @@
   "license_url": null,
   "source_page_id": 10082821,
   "source_revision_id": null,
-  "source_sha1": "086485cec55668097d06a07a628b81da33bd18eb"
+  "source_sha1": "086485cec55668097d06a07a628b81da33bd18eb",
+  "tags": [
+   "earthquake damage",
+   "horse",
+   "wagon"
+  ]
  },
  {
   "title": "View of a cemetery, Vallejo, California (NYPL b11707293-G89F369 001F)",
@@ -102068,7 +102100,12 @@
   "license_url": null,
   "source_page_id": 46840462,
   "source_revision_id": null,
-  "source_sha1": "f7043cc2dd7fab0ad18d490249170dcfe4220256"
+  "source_sha1": "f7043cc2dd7fab0ad18d490249170dcfe4220256",
+  "tags": [
+   "cemetery",
+   "bay",
+   "trees"
+  ]
  },
  {
   "title": "Lawn view at T.H. Selby's Residence, Fair Oaks, Cal, by Watkins, Carleton E., 1829-1916 3",
@@ -102137,7 +102174,11 @@
   "license_url": null,
   "source_page_id": 7203121,
   "source_revision_id": null,
-  "source_sha1": "122d3120944df5b99cbe9f609e548cd318286245"
+  "source_sha1": "122d3120944df5b99cbe9f609e548cd318286245",
+  "tags": [
+   "trees",
+   "garden"
+  ]
  },
  {
   "title": "Lawn view at T.H. Selby's Residence, Fair Oaks, Cal, by Watkins, Carleton E., 1829-1916",
@@ -102206,7 +102247,11 @@
   "license_url": null,
   "source_page_id": 7203106,
   "source_revision_id": null,
-  "source_sha1": "ddee2aef970c700ab84225210d1deff39fd046b1"
+  "source_sha1": "ddee2aef970c700ab84225210d1deff39fd046b1",
+  "tags": [
+   "trees",
+   "garden"
+  ]
  },
  {
   "title": "The City and Bay, from Russian Hill, looking down Vallejo Street, by Thomas Houseworth & Co.",
@@ -102275,7 +102320,12 @@
   "license_url": null,
   "source_page_id": 7222776,
   "source_revision_id": null,
-  "source_sha1": "36fb5ddbb2846316fb9f83099597eec5916ad721"
+  "source_sha1": "36fb5ddbb2846316fb9f83099597eec5916ad721",
+  "tags": [
+   "house",
+   "main street",
+   "bay"
+  ]
  },
  {
   "title": "Lawn view at T.H. Selby's Residence, Fair Oaks, Cal, by Watkins, Carleton E., 1829-1916 2",
@@ -102344,7 +102394,12 @@
   "license_url": null,
   "source_page_id": 7203115,
   "source_revision_id": null,
-  "source_sha1": "cc240b21a992ae1da00cd4e5eec94fa8f37941c4"
+  "source_sha1": "cc240b21a992ae1da00cd4e5eec94fa8f37941c4",
+  "tags": [
+   "garden",
+   "trees",
+   "fountain"
+  ]
  },
  {
   "title": "Vallejo Street and the Bay, from Sansome Street, San Francisco, by Thomas Houseworth & Co.",
@@ -102413,6 +102468,11 @@
   "license_url": null,
   "source_page_id": 7223799,
   "source_revision_id": null,
-  "source_sha1": "389158f63faf7afd0219702fcd93577cec8b36b7"
+  "source_sha1": "389158f63faf7afd0219702fcd93577cec8b36b7",
+  "tags": [
+   "main street",
+   "bay",
+   "steamboat"
+  ]
  }
 ]

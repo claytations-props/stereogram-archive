@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>1369</quantity>
+    <quantity>1382</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -1930,6 +1930,14 @@
       <unittitle>Fall River, Colorado</unittitle>
       <unitdate normal="1867">1867</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1366.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1375">
+     <did>
+      <unitid>STA-1375</unitid>
+      <unittitle>Panorama from Telegraph Hill, (No. 11.) Vallejo and Broadway Wharves</unittitle>
+      <unitdate normal="1861/1873">1861–1873</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1374.jpg"/>
      </did>
     </c>
    </c>
@@ -7342,6 +7350,62 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1358.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-1370">
+     <did>
+      <unitid>STA-1370</unitid>
+      <unittitle>Vallejo Street, looking West. Russian Hill in the distance</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1369.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1372">
+     <did>
+      <unitid>STA-1372</unitid>
+      <unittitle>The ruins of streets and homes, of wrecked district at Van Ness and Vallejo Sts., San Francisco</unittitle>
+      <unitdate normal="1906">1906</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1371.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1373">
+     <did>
+      <unitid>STA-1373</unitid>
+      <unittitle>Cty of Vallejo and suburbs, from the residence of A.C. Woods, by Watkins, Carleton E., 1829-1916</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1372.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1374">
+     <did>
+      <unitid>STA-1374</unitid>
+      <unittitle>Panorama from Telegraph Hill, (No. 17.) St. Francis Cathedral, Vallejo Street</unittitle>
+      <unitdate normal="1861/1873">1861–1873</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1373.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1376">
+     <did>
+      <unitid>STA-1376</unitid>
+      <unittitle>The ruins of streets and homes, of wrecked district at Van Ness and Vallejo Sts., San Francisco, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1906">1906</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1375.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1380">
+     <did>
+      <unitid>STA-1380</unitid>
+      <unittitle>The City and Bay, from Russian Hill, looking down Vallejo Street, by Thomas Houseworth &amp; Co.</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1379.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1382">
+     <did>
+      <unitid>STA-1382</unitid>
+      <unittitle>Vallejo Street and the Bay, from Sansome Street, San Francisco, by Thomas Houseworth &amp; Co.</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1381.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -11008,6 +11072,46 @@
       <unittitle>Ruins about the head of the McElmo Montezuma County, Colorado 1874 (Stereoscopic view) (30580539525)</unittitle>
       <unitdate normal="1874">1874</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1368.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1371">
+     <did>
+      <unitid>STA-1371</unitid>
+      <unittitle>View of a cemetery, Vallejo, California, by J. G. Smith</unittitle>
+      <unitdate normal="1871/1881">c. 1876</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1370.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1377">
+     <did>
+      <unitid>STA-1377</unitid>
+      <unittitle>View of a cemetery, Vallejo, California (NYPL b11707293-G89F369 001F)</unittitle>
+      <unitdate normal="1876">1876</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1376.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1378">
+     <did>
+      <unitid>STA-1378</unitid>
+      <unittitle>Lawn view at T.H. Selby's Residence, Fair Oaks, Cal, by Watkins, Carleton E., 1829-1916 3</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1377.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1379">
+     <did>
+      <unitid>STA-1379</unitid>
+      <unittitle>Lawn view at T.H. Selby's Residence, Fair Oaks, Cal, by Watkins, Carleton E., 1829-1916</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1378.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1381">
+     <did>
+      <unitid>STA-1381</unitid>
+      <unittitle>Lawn view at T.H. Selby's Residence, Fair Oaks, Cal, by Watkins, Carleton E., 1829-1916 2</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1380.jpg"/>
      </did>
     </c>
    </c>

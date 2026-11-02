@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1373.json",
+ "name": "Cty of Vallejo and suburbs, from the residence of A.C. Woods, by Watkins, Carleton E., 1829-1916",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1372.jpg",
+ "identifier": "STA-1373",
+ "creator": {
+  "@type": "Person",
+  "name": "Watkins, Carleton E."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Vallejo, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cty_of_Vallejo_and_suburbs,_from_the_residence_of_A.C._Woods,_by_Watkins,_Carleton_E.,_1829-1916.jpg"
+}

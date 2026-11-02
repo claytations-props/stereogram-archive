@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1377.json",
+ "name": "View of a cemetery, Vallejo, California (NYPL b11707293-G89F369 001F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1376.jpg",
+ "identifier": "STA-1377",
+ "dateCreated": "1876",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Vallejo, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_cemetery,_Vallejo,_California_(NYPL_b11707293-G89F369_001F).tiff"
+}

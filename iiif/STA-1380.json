@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1380.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "The City and Bay, from Russian Hill, looking down Vallejo Street, by Thomas Houseworth & Co."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Thomas Houseworth & Co."
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1866"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "San Francisco, California"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1380.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1380/canvas/1",
+   "type": "Canvas",
+   "width": 1364,
+   "height": 571,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1380/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1380/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1379.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1364,
+        "height": 571,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/The_City_and_Bay%2C_from_Russian_Hill%2C_looking_down_Vallejo_Street%2C_by_Thomas_Houseworth_%26_Co..jpg/1920px-The_City_and_Bay%2C_from_Russian_Hill%2C_looking_down_Vallejo_Street%2C_by_Thomas_Houseworth_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1380/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

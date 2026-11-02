@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1380.json",
+ "name": "The City and Bay, from Russian Hill, looking down Vallejo Street, by Thomas Houseworth & Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1379.jpg",
+ "identifier": "STA-1380",
+ "creator": {
+  "@type": "Person",
+  "name": "Thomas Houseworth & Co."
+ },
+ "dateCreated": "1866",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_City_and_Bay,_from_Russian_Hill,_looking_down_Vallejo_Street,_by_Thomas_Houseworth_%26_Co..jpg"
+}

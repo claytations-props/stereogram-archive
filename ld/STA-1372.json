@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1372.json",
+ "name": "The ruins of streets and homes, of wrecked district at Van Ness and Vallejo Sts., San Francisco",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1371.jpg",
+ "identifier": "STA-1372",
+ "dateCreated": "1906",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "San Francisco, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_ruins_of_streets_and_homes,_of_wrecked_district_at_Van_Ness_and_Vallejo_Sts.,_San_Francisco,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

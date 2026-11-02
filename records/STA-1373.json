@@ -5,7 +5,7 @@
  "sy": 1900,
  "era": "undated",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Cty_of_Vallejo_and_suburbs%2C_from_the_residence_of_A.C._Woods%2C_by_Watkins%2C_Carleton_E.%2C_1829-1916.jpg/1920px-Cty_of_Vallejo_and_suburbs%2C_from_the_residence_of_A.C._Woods%2C_by_Watkins%2C_Carleton_E.%2C_1829-1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -47,14 +47,14 @@
    0.985
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (0.57% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0\u00b0 of rotation. Depth measured gentle (0.57% of frame width); hung in the VR Parlor at full size.",
  "repository": null,
  "collection_name": null,
  "publisher": null,
  "creator": "Watkins, Carleton E.",
  "creator_dates": "1829-1916",
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": null,
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7203080,
  "source_revision_id": null,
- "source_sha1": "bb7805db6ef4dc35dfac3addf58991d4093ff936"
+ "source_sha1": "bb7805db6ef4dc35dfac3addf58991d4093ff936",
+ "tags": [
+  "house",
+  "main street"
+ ]
 }

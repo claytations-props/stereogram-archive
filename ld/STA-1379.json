@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1379.json",
+ "name": "Lawn view at T.H. Selby's Residence, Fair Oaks, Cal, by Watkins, Carleton E., 1829-1916",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1378.jpg",
+ "identifier": "STA-1379",
+ "creator": {
+  "@type": "Person",
+  "name": "Watkins, Carleton E."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Fair Oaks, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Lawn_view_at_T.H._Selby%27s_Residence,_Fair_Oaks,_Cal,_by_Watkins,_Carleton_E.,_1829-1916.png"
+}

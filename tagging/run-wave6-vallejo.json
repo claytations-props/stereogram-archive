@@ -1,0 +1,103 @@
+{
+ "assignments": {
+  "STA-1370": {
+   "tags": [
+    "house",
+    "main street"
+   ],
+   "conf": "high"
+  },
+  "STA-1371": {
+   "tags": [
+    "cemetery",
+    "bay",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1372": {
+   "tags": [
+    "earthquake damage",
+    "horse",
+    "wagon"
+   ],
+   "conf": "high"
+  },
+  "STA-1373": {
+   "tags": [
+    "house",
+    "main street"
+   ],
+   "conf": "high"
+  },
+  "STA-1374": {
+   "tags": [
+    "church",
+    "house"
+   ],
+   "conf": "high"
+  },
+  "STA-1375": {
+   "tags": [
+    "pier",
+    "sailing ship",
+    "harbor"
+   ],
+   "conf": "high"
+  },
+  "STA-1376": {
+   "tags": [
+    "earthquake damage",
+    "horse",
+    "wagon"
+   ],
+   "conf": "high"
+  },
+  "STA-1377": {
+   "tags": [
+    "cemetery",
+    "bay",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1378": {
+   "tags": [
+    "trees",
+    "garden"
+   ],
+   "conf": "high"
+  },
+  "STA-1379": {
+   "tags": [
+    "trees",
+    "garden"
+   ],
+   "conf": "high"
+  },
+  "STA-1380": {
+   "tags": [
+    "house",
+    "main street",
+    "bay"
+   ],
+   "conf": "high"
+  },
+  "STA-1381": {
+   "tags": [
+    "garden",
+    "trees",
+    "fountain"
+   ],
+   "conf": "high"
+  },
+  "STA-1382": {
+   "tags": [
+    "main street",
+    "bay",
+    "steamboat"
+   ],
+   "conf": "high"
+  }
+ }
+}
