@@ -5,7 +5,7 @@
  "sy": 1868,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/St._Francis_St.%2C_Oldest_house_in_St._Augustine%2C_Fla%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-St._Francis_St.%2C_Oldest_house_in_St._Augustine%2C_Fla%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1868",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7268483,
  "source_revision_id": null,
- "source_sha1": "33e3e7f1f9bd2bba4affbe36a47d5e03c4a9e7f0"
+ "source_sha1": "33e3e7f1f9bd2bba4affbe36a47d5e03c4a9e7f0",
+ "tags": [
+  "house",
+  "palm tree"
+ ]
 }

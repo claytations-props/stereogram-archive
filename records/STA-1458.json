@@ -5,7 +5,7 @@
  "sy": 1868,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Marine_St%2C_St._Augustine%2C_Fla%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Marine_St%2C_St._Augustine%2C_Fla%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1868",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7268217,
  "source_revision_id": null,
- "source_sha1": "c223efa461d2b865714c61dfbafdd95c24128d99"
+ "source_sha1": "c223efa461d2b865714c61dfbafdd95c24128d99",
+ "tags": [
+  "row houses",
+  "rowboat"
+ ]
 }
