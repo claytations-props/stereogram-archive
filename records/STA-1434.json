@@ -5,7 +5,7 @@
  "sy": 1875,
  "era": "mid",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/State_Capitol_Hartford%2C_by_Kellogg%2C_E._P._%28Edwin_P.%29.png/1920px-State_Capitol_Hartford%2C_by_Kellogg%2C_E._P._%28Edwin_P.%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "Kellogg, E. P. (Edwin P.)",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1875",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10237933,
  "source_revision_id": null,
- "source_sha1": "a107326c993bed2d7d1b48e5314365e4656118bf"
+ "source_sha1": "a107326c993bed2d7d1b48e5314365e4656118bf",
+ "tags": [
+  "bridge",
+  "trees"
+ ]
 }

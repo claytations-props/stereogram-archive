@@ -5,7 +5,7 @@
  "sy": 1890,
  "era": "mid",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Memorial_Arch%2C_Hartford%2C_Conn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Memorial_Arch%2C_Hartford%2C_Conn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1890~",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10237675,
  "source_revision_id": null,
- "source_sha1": "518efd904bec3ccae14c97c0e8bd731df93cf0c9"
+ "source_sha1": "518efd904bec3ccae14c97c0e8bd731df93cf0c9",
+ "tags": [
+  "monument",
+  "trees",
+  "children"
+ ]
 }

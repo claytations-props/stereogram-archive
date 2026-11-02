@@ -104685,7 +104685,7 @@
   "sy": 1880,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/The_State_House%2C_Hartford%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_State_House%2C_Hartford%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -104734,7 +104734,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1880~",
@@ -104754,7 +104754,7 @@
   "sy": 1885,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/State_Capitol%2C_Hartford%2C_Conn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-State_Capitol%2C_Hartford%2C_Conn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -104803,7 +104803,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1885~",
@@ -104823,7 +104823,7 @@
   "sy": 1890,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Memorial_Arch%2C_Hartford%2C_Conn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Memorial_Arch%2C_Hartford%2C_Conn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -104872,7 +104872,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1890~",
@@ -104883,7 +104883,12 @@
   "license_url": null,
   "source_page_id": 10237675,
   "source_revision_id": null,
-  "source_sha1": "518efd904bec3ccae14c97c0e8bd731df93cf0c9"
+  "source_sha1": "518efd904bec3ccae14c97c0e8bd731df93cf0c9",
+  "tags": [
+   "monument",
+   "trees",
+   "children"
+  ]
  },
  {
   "title": "Hartford, Connecticut. Main Street",
@@ -104952,7 +104957,13 @@
   "license_url": null,
   "source_page_id": 10237582,
   "source_revision_id": null,
-  "source_sha1": "51485660faceb21510a7279bf1efeabf9b52fc9c"
+  "source_sha1": "51485660faceb21510a7279bf1efeabf9b52fc9c",
+  "tags": [
+   "main street",
+   "storefront",
+   "horse",
+   "horse-drawn carriage"
+  ]
  },
  {
   "title": "Hartford, Connecticut. Memorial Church of the Good Shepherd",
@@ -105021,7 +105032,11 @@
   "license_url": null,
   "source_page_id": 10237555,
   "source_revision_id": null,
-  "source_sha1": "900880922e29b1dc0c0546de44cca943c8a73f76"
+  "source_sha1": "900880922e29b1dc0c0546de44cca943c8a73f76",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "House of Representatives, Hartford, Conn",
@@ -105099,7 +105114,7 @@
   "sy": 1875,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Hartford%2C_Connecticut._Residence_of_Mrs._James_Goodwin%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Hartford%2C_Connecticut._Residence_of_Mrs._James_Goodwin%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -105148,7 +105163,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1875~",
@@ -105159,7 +105174,11 @@
   "license_url": null,
   "source_page_id": 10237573,
   "source_revision_id": null,
-  "source_sha1": "93a46ebe42255b1ef6b0112998740dcfd604ea52"
+  "source_sha1": "93a46ebe42255b1ef6b0112998740dcfd604ea52",
+  "tags": [
+   "mansion",
+   "trees"
+  ]
  },
  {
   "title": "Interior view of Capitol, Hartford, Conn, by Union View Co.",
@@ -105237,7 +105256,7 @@
   "sy": 1875,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/State_Capitol%2C_Hartford._%28North-east_view.%29%2C_by_Kellogg%2C_E._P._%28Edwin_P.%29.jpg/1920px-State_Capitol%2C_Hartford._%28North-east_view.%29%2C_by_Kellogg%2C_E._P._%28Edwin_P.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -105286,7 +105305,7 @@
   "creator": "Kellogg, E. P. (Edwin P.)",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1875",
@@ -105366,7 +105385,12 @@
   "license_url": null,
   "source_page_id": 10237683,
   "source_revision_id": null,
-  "source_sha1": "90e969c585974d93620f7a493ee782a6beccde4e"
+  "source_sha1": "90e969c585974d93620f7a493ee782a6beccde4e",
+  "tags": [
+   "church",
+   "horse",
+   "wagon"
+  ]
  },
  {
   "title": "Main Street, Hartford, by S. C. Northrop",
@@ -105435,7 +105459,14 @@
   "license_url": null,
   "source_page_id": 10237519,
   "source_revision_id": null,
-  "source_sha1": "86283ef314cf0e9262bd8af4790f0da334219135"
+  "source_sha1": "86283ef314cf0e9262bd8af4790f0da334219135",
+  "tags": [
+   "main street",
+   "storefront",
+   "horse",
+   "horse-drawn carriage",
+   "trees"
+  ]
  },
  {
   "title": "Conn. Mutual Building, Hartford, by S. C. Northrop",
@@ -105573,7 +105604,11 @@
   "license_url": null,
   "source_page_id": 10237743,
   "source_revision_id": null,
-  "source_sha1": "04e89e3abf489ef126f613ab890bb86bc6590dd3"
+  "source_sha1": "04e89e3abf489ef126f613ab890bb86bc6590dd3",
+  "tags": [
+   "church interior",
+   "pipe organ"
+  ]
  },
  {
   "title": "View from Charter Oak building, looking north",
@@ -105642,7 +105677,11 @@
   "license_url": null,
   "source_page_id": 10237537,
   "source_revision_id": null,
-  "source_sha1": "dc82c642af2e336b9242ba9d4917d6b5105af704"
+  "source_sha1": "dc82c642af2e336b9242ba9d4917d6b5105af704",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "Street scene, Hartford, Conn, by J.W. & J.S. Moulton",
@@ -105711,7 +105750,13 @@
   "license_url": null,
   "source_page_id": 10237647,
   "source_revision_id": null,
-  "source_sha1": "855c292a74965456c235ca6a7833faa2b07e0723"
+  "source_sha1": "855c292a74965456c235ca6a7833faa2b07e0723",
+  "tags": [
+   "horse",
+   "main street",
+   "storefront",
+   "trees"
+  ]
  },
  {
   "title": "Ford Street bridge, Hartford, Conn, by J.W. & J.S. Moulton",
@@ -105780,7 +105825,11 @@
   "license_url": null,
   "source_page_id": 10237668,
   "source_revision_id": null,
-  "source_sha1": "05c9f6186d8782a0b5e3e3bba4066f5db72511be"
+  "source_sha1": "05c9f6186d8782a0b5e3e3bba4066f5db72511be",
+  "tags": [
+   "bridge",
+   "trees"
+  ]
  },
  {
   "title": "State Capitol, Hartford, by Kellogg, E. P. (Edwin P.)",
@@ -105789,7 +105838,7 @@
   "sy": 1879,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/State_Capitol%2C_Hartford%2C_by_Kellogg%2C_E._P._%28Edwin_P.%29.jpg/1920px-State_Capitol%2C_Hartford%2C_by_Kellogg%2C_E._P._%28Edwin_P.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -105838,7 +105887,7 @@
   "creator": "Kellogg, E. P. (Edwin P.)",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1879",
@@ -105849,7 +105898,11 @@
   "license_url": null,
   "source_page_id": 10237927,
   "source_revision_id": null,
-  "source_sha1": "ce66ee7aafb97c9b6ddc832b1430e9c9ebd70d10"
+  "source_sha1": "ce66ee7aafb97c9b6ddc832b1430e9c9ebd70d10",
+  "tags": [
+   "bridge",
+   "trees"
+  ]
  },
  {
   "title": "State Capitol, Hartford, by Kellogg, E. P. (Edwin P.) 2",
@@ -105918,7 +105971,11 @@
   "license_url": null,
   "source_page_id": 10237943,
   "source_revision_id": null,
-  "source_sha1": "4cf0a9a250d336e2fb7f478db835f57ee599139a"
+  "source_sha1": "4cf0a9a250d336e2fb7f478db835f57ee599139a",
+  "tags": [
+   "bridge",
+   "trees"
+  ]
  },
  {
   "title": "State Capitol, Hartford, by Kellogg, E. P. (Edwin P.) 4",
@@ -105927,7 +105984,7 @@
   "sy": 1875,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/State_Capitol%2C_Hartford%2C_by_Kellogg%2C_E._P._%28Edwin_P.%29_4.jpg/1920px-State_Capitol%2C_Hartford%2C_by_Kellogg%2C_E._P._%28Edwin_P.%29_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -105976,7 +106033,7 @@
   "creator": "Kellogg, E. P. (Edwin P.)",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1875",
@@ -105996,7 +106053,7 @@
   "sy": 1880,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Athenaeum%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Athenaeum%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -106045,7 +106102,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1880~",
@@ -106065,7 +106122,7 @@
   "sy": 1875,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/State_Capitol%2C_Hartford%2C_Conn%2C_by_Kellogg%2C_E._P._%28Edwin_P.%29.jpg/1920px-State_Capitol%2C_Hartford%2C_Conn%2C_by_Kellogg%2C_E._P._%28Edwin_P.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -106114,7 +106171,7 @@
   "creator": "Kellogg, E. P. (Edwin P.)",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1875",
@@ -106134,7 +106191,7 @@
   "sy": 1875,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/State_Capitol_Hartford%2C_by_Kellogg%2C_E._P._%28Edwin_P.%29.png/1920px-State_Capitol_Hartford%2C_by_Kellogg%2C_E._P._%28Edwin_P.%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -106183,7 +106240,7 @@
   "creator": "Kellogg, E. P. (Edwin P.)",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1875",
@@ -106194,7 +106251,11 @@
   "license_url": null,
   "source_page_id": 10237933,
   "source_revision_id": null,
-  "source_sha1": "a107326c993bed2d7d1b48e5314365e4656118bf"
+  "source_sha1": "a107326c993bed2d7d1b48e5314365e4656118bf",
+  "tags": [
+   "bridge",
+   "trees"
+  ]
  },
  {
   "title": "View of the interior of Church of the Good Shepherd, Hartford, Conn. (Erected by Mrs. Samuel Colt.) (NYPL b11707680-G90F072 003F)",
@@ -106263,7 +106324,11 @@
   "license_url": null,
   "source_page_id": 48129885,
   "source_revision_id": null,
-  "source_sha1": "17494c8d065a9bc6de4970950517de192d407a11"
+  "source_sha1": "17494c8d065a9bc6de4970950517de192d407a11",
+  "tags": [
+   "church interior",
+   "pipe organ"
+  ]
  },
  {
   "title": "State Capitol, Hartford. (First floor.), by Kellogg, E. P. (Edwin P.)",
@@ -106539,7 +106604,11 @@
   "license_url": null,
   "source_page_id": 10238040,
   "source_revision_id": null,
-  "source_sha1": "32dcd6a02dd1c58c2200f07a14d9d9747d9197c6"
+  "source_sha1": "32dcd6a02dd1c58c2200f07a14d9d9747d9197c6",
+  "tags": [
+   "room interior",
+   "staircase"
+  ]
  },
  {
   "title": "Mark Twain place",
@@ -106548,7 +106617,7 @@
   "sy": 1875,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Mark_Twain_place%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Mark_Twain_place%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -106597,7 +106666,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1875~",
@@ -106608,7 +106677,11 @@
   "license_url": null,
   "source_page_id": 10237559,
   "source_revision_id": null,
-  "source_sha1": "1eca0f7f905a4606bf53aa7a681a231e49fb7451"
+  "source_sha1": "1eca0f7f905a4606bf53aa7a681a231e49fb7451",
+  "tags": [
+   "house",
+   "trees"
+  ]
  },
  {
   "title": "State Capitol, Hartford. (Interior), by Kellogg, E. P. (Edwin P.)",
@@ -106677,7 +106750,11 @@
   "license_url": null,
   "source_page_id": 10237986,
   "source_revision_id": null,
-  "source_sha1": "e54fcf3372e6ece6567b283ab4ea88d1659786b0"
+  "source_sha1": "e54fcf3372e6ece6567b283ab4ea88d1659786b0",
+  "tags": [
+   "room interior",
+   "statue"
+  ]
  },
  {
   "title": "View in Sleepy Hollow. Scene of Washington Irving's 'Headless Man.'",

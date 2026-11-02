@@ -5,7 +5,7 @@
  "sy": 1875,
  "era": "mid",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Hartford%2C_Connecticut._Residence_of_Mrs._James_Goodwin%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Hartford%2C_Connecticut._Residence_of_Mrs._James_Goodwin%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1875~",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10237573,
  "source_revision_id": null,
- "source_sha1": "93a46ebe42255b1ef6b0112998740dcfd604ea52"
+ "source_sha1": "93a46ebe42255b1ef6b0112998740dcfd604ea52",
+ "tags": [
+  "mansion",
+  "trees"
+ ]
 }
