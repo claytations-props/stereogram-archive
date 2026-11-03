@@ -1,11 +1,11 @@
 {
  "title": "Chippewa Square, Savannah, Ga",
  "place": "Savannah, Georgia",
- "year": "1856–1908",
+ "year": "1856\u20131908",
  "sy": 1856,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Chippewa_Square%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Chippewa_Square%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -47,14 +47,14 @@
    0.9437
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.05% vertical error and 0.03° of rotation. Depth measured moderate (2.13% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.05% vertical error and 0.03\u00b0 of rotation. Depth measured moderate (2.13% of frame width); hung in the VR Parlor at full size.",
  "repository": "New York Public Library",
  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
  "publisher": null,
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1856/1908",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7274420,
  "source_revision_id": null,
- "source_sha1": "9e64379f5a2d5603c75d2839404b4a4cffdd9992"
+ "source_sha1": "9e64379f5a2d5603c75d2839404b4a4cffdd9992",
+ "tags": [
+  "fountain",
+  "trees"
+ ]
 }

@@ -1,11 +1,11 @@
 {
  "title": "Savannah Market, from Robert N. Dennis collection of stereoscopic views 4",
  "place": "Savannah, Georgia",
- "year": "1856–1908",
+ "year": "1856\u20131908",
  "sy": 1856,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg/1920px-Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -47,14 +47,14 @@
    1.0
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured gentle (0.61% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02\u00b0 of rotation. Depth measured gentle (0.61% of frame width); hung in the VR Parlor at full size.",
  "repository": "New York Public Library",
  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
  "publisher": null,
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1856/1908",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7272974,
  "source_revision_id": null,
- "source_sha1": "181b7429ee32c1bfd016d13dfcf270e36a3fe5b6"
+ "source_sha1": "181b7429ee32c1bfd016d13dfcf270e36a3fe5b6",
+ "tags": [
+  "crowd",
+  "wagon"
+ ]
 }
