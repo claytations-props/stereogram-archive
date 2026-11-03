@@ -1,0 +1,69 @@
+{
+ "title": "Music Stand. Druid Hill Park",
+ "place": "Druid Hill Park, Baltimore, Maryland",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Music_Stand._Druid_Hill_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Music_Stand._Druid_Hill_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Music_Stand._Druid_Hill_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 382,
+ "id": "STA-1529",
+ "rect": "rect/1528.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.21,
+ "rot": 0.02,
+ "range": 2.37,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.784,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Music_Stand._Druid_Hill_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.784,
+  "L": [
+   0.348684,
+   0.0,
+   0.116447,
+   0.0,
+   0.884817,
+   0.066754
+  ],
+  "R": [
+   0.350144,
+   -0.002657,
+   0.519069,
+   -0.003842,
+   0.887868,
+   0.045644
+  ],
+  "g": [
+   0.9876,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.02° of rotation. Depth measured deep (2.37% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7440098,
+ "source_revision_id": null,
+ "source_sha1": "91535ca00d3530ce8c8e873a15b5ceb86a4c8b20"
+}

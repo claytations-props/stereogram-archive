@@ -1,0 +1,69 @@
+{
+ "title": "Statue of boy and the swan. Druid Hill Park, by Richard Walzl",
+ "place": "Druid Hill Park, Baltimore, Maryland",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Statue_of_boy_and_the_swan._Druid_Hill_Park%2C_by_Richard_Walzl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Statue_of_boy_and_the_swan._Druid_Hill_Park%2C_by_Richard_Walzl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Statue_of_boy_and_the_swan._Druid_Hill_Park,_by_Richard_Walzl.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 389,
+ "id": "STA-1540",
+ "rect": "rect/1539.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.21,
+ "rot": 0.03,
+ "range": 2.52,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.8338,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Statue_of_boy_and_the_swan._Druid_Hill_Park%2C_by_Richard_Walzl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8338,
+  "L": [
+   0.376316,
+   0.0,
+   0.099342,
+   0.0,
+   0.881748,
+   0.05527
+  ],
+  "R": [
+   0.371573,
+   0.00923,
+   0.510977,
+   -0.006202,
+   0.872747,
+   0.062427
+  ],
+  "g": [
+   0.9219,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.03° of rotation. Depth measured deep (2.52% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Richard Walzl",
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7440172,
+ "source_revision_id": null,
+ "source_sha1": "639cfcaf6f43e6b825ba5741a15462c07fb31749"
+}

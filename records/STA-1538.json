@@ -1,0 +1,71 @@
+{
+ "title": "Lake Promenade.. Druid Hill Park, by J.W. & J.S. Moulton",
+ "place": "Druid Hill Park, Baltimore, Maryland",
+ "year": "1873–1881",
+ "sy": 1873,
+ "era": "mid",
+ "cats": [
+  "water",
+  "world"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lake_Promenade.._Druid_Hill_Park%2C_by_J.W._%26_J.S._Moulton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lake_Promenade.._Druid_Hill_Park%2C_by_J.W._%26_J.S._Moulton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Lake_Promenade.._Druid_Hill_Park,_by_J.W._%26_J.S._Moulton.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 435,
+ "id": "STA-1538",
+ "rect": "rect/1537.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.15,
+ "rot": 0.0,
+ "range": 4.0,
+ "f": 0.85,
+ "depth": "Deep",
+ "va": 0.9385,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lake_Promenade.._Druid_Hill_Park%2C_by_J.W._%26_J.S._Moulton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.9385,
+  "L": [
+   0.381579,
+   0.0,
+   0.100658,
+   0.0,
+   0.710345,
+   0.037931
+  ],
+  "R": [
+   0.385054,
+   -0.002745,
+   0.507562,
+   -0.001052,
+   0.714458,
+   0.035998
+  ],
+  "g": [
+   0.9745,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured deep (4.0% of frame width); hung in the VR Parlor at 85% size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "J.W. & J.S. Moulton",
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "world"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1873/1881",
+ "date_start": 1873,
+ "date_end": 1881,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7440226,
+ "source_revision_id": null,
+ "source_sha1": "d1bbddd2e83b9703d79394a7aa3bb6a4b6f65d65"
+}

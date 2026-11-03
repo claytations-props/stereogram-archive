@@ -1,0 +1,69 @@
+{
+ "title": "Boat House. Druid Hill Park, Baltimore",
+ "place": "Druid Hill Park, Baltimore, Maryland",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/d/db/Boat_House._Druid_Hill_Park%2C_Baltimore%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/db/Boat_House._Druid_Hill_Park%2C_Baltimore%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Boat_House._Druid_Hill_Park,_Baltimore,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 400,
+ "id": "STA-1528",
+ "rect": "rect/1527.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.23,
+ "rot": 0.06,
+ "range": 7.43,
+ "f": 0.4,
+ "depth": "Deep",
+ "va": 1.0859,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/d/db/Boat_House._Druid_Hill_Park%2C_Baltimore%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.0859,
+  "L": [
+   0.365789,
+   0.0,
+   0.107237,
+   0.0,
+   0.64,
+   0.25375
+  ],
+  "R": [
+   0.363058,
+   -0.009114,
+   0.539584,
+   -0.00152,
+   0.637471,
+   0.27243
+  ],
+  "g": [
+   1.0,
+   0.9951
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.23% vertical error and 0.06° of rotation. Depth measured deep (7.43% of frame width); hung in the VR Parlor at 40% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7440095,
+ "source_revision_id": null,
+ "source_sha1": "77dc910b22a5a808badf330477d8903ada17c899"
+}

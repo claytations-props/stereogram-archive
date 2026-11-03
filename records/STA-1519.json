@@ -1,0 +1,69 @@
+{
+ "title": "Druid Hill Park, Baltimore",
+ "place": "Druid Hill Park, Baltimore, Maryland",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Druid_Hill_Park%2C_Baltimore%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Druid_Hill_Park%2C_Baltimore%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Druid_Hill_Park,_Baltimore,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 403,
+ "id": "STA-1519",
+ "rect": "rect/1518.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.2,
+ "rot": 0.05,
+ "range": 1.77,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.8776,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Druid_Hill_Park%2C_Baltimore%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8776,
+  "L": [
+   0.330263,
+   0.0,
+   0.132237,
+   0.0,
+   0.709677,
+   0.14268
+  ],
+  "R": [
+   0.325757,
+   -0.00314,
+   0.54361,
+   0.00156,
+   0.705945,
+   0.156016
+  ],
+  "g": [
+   0.946,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.2% vertical error and 0.05° of rotation. Depth measured moderate (1.77% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7440099,
+ "source_revision_id": null,
+ "source_sha1": "ae0589577d18ee4ec33d1375352f3dc8ee5bcde5"
+}

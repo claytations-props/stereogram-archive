@@ -1,0 +1,69 @@
+{
+ "title": "Water Fountain. Druid Hill Park, by Richard Walzl",
+ "place": "Druid Hill Park, Baltimore, Maryland",
+ "year": "c. 1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Water_Fountain._Druid_Hill_Park%2C_by_Richard_Walzl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Water_Fountain._Druid_Hill_Park%2C_by_Richard_Walzl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Water_Fountain._Druid_Hill_Park,_by_Richard_Walzl.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 384,
+ "id": "STA-1539",
+ "rect": "rect/1538.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.18,
+ "rot": 0.02,
+ "range": 4.42,
+ "f": 0.84,
+ "depth": "Deep",
+ "va": 0.8504,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Water_Fountain._Druid_Hill_Park%2C_by_Richard_Walzl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8504,
+  "L": [
+   0.381579,
+   0.0,
+   0.083553,
+   0.0,
+   0.888021,
+   0.050781
+  ],
+  "R": [
+   0.377808,
+   -0.009927,
+   0.546379,
+   0.01056,
+   0.87939,
+   0.058388
+  ],
+  "g": [
+   0.9913,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.02° of rotation. Depth measured deep (4.42% of frame width); hung in the VR Parlor at 84% size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Richard Walzl",
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865~",
+ "date_start": 1860,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7440180,
+ "source_revision_id": null,
+ "source_sha1": "f03008c0da0909ee9d0e4d4a4e5d478aed4a03b0"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Druid Hill Park, Baltimore, from Robert N. Dennis collection of stereoscopic views 2",
+ "place": "Druid Hill Park, Baltimore, Maryland",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Druid_Hill_Park%2C_Baltimore%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Druid_Hill_Park%2C_Baltimore%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Druid_Hill_Park,_Baltimore,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 392,
+ "id": "STA-1525",
+ "rect": "rect/1524.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.19,
+ "rot": 0.06,
+ "range": 2.07,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.7438,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Druid_Hill_Park%2C_Baltimore%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.7438,
+  "L": [
+   0.313158,
+   0.0,
+   0.165132,
+   0.0,
+   0.816327,
+   0.044643
+  ],
+  "R": [
+   0.309185,
+   -0.000647,
+   0.573037,
+   0.004026,
+   0.810098,
+   0.041352
+  ],
+  "g": [
+   0.9453,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.06° of rotation. Depth measured moderate (2.07% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7440106,
+ "source_revision_id": null,
+ "source_sha1": "4e0bbd8611df7faca37ef55a9938a822efae1aeb"
+}
