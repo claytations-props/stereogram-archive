@@ -1,0 +1,69 @@
+{
+ "title": "Panorama of Savannah, Georgia",
+ "place": "Savannah, Georgia",
+ "year": "c. 1868",
+ "sy": 1868,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Panorama_of_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Panorama_of_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/19/Panorama_of_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_Savannah,_Georgia,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1408,
+ "id": "STA-1480",
+ "rect": "rect/1479.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.01,
+ "range": 0.42,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.121,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Panorama_of_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Panorama_of_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.121,
+  "L": [
+   0.366667,
+   0.0,
+   0.117969,
+   0.0,
+   0.635628,
+   0.297065
+  ],
+  "R": [
+   0.3661,
+   -0.006907,
+   0.512161,
+   0.013417,
+   0.636599,
+   0.295037
+  ],
+  "g": [
+   0.9762,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (0.42% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1868~",
+ "date_start": 1863,
+ "date_end": 1873,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7269640,
+ "source_revision_id": null,
+ "source_sha1": "67fd9baf5d0cc421ba22047a8731e02bccfa22e9"
+}

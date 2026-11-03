@@ -1,0 +1,69 @@
+{
+ "title": "Liberty Street, Savannah, Ga",
+ "place": "Savannah, Georgia",
+ "year": "1856–1908",
+ "sy": 1856,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Liberty_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Liberty_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Liberty_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Liberty_Street,_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1580,
+ "id": "STA-1495",
+ "rect": "rect/1494.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.02,
+ "range": 0.85,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0025,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Liberty_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Liberty_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0025,
+  "L": [
+   0.416667,
+   0.0,
+   0.066406,
+   0.0,
+   0.720217,
+   0.055505
+  ],
+  "R": [
+   0.420659,
+   0.009945,
+   0.506131,
+   -0.011981,
+   0.729251,
+   0.056049
+  ],
+  "g": [
+   1.0,
+   0.9934
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured gentle (0.85% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1856/1908",
+ "date_start": 1856,
+ "date_end": 1908,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7274584,
+ "source_revision_id": null,
+ "source_sha1": "57d1b43e5cb1e0a4310ac14e54addd96427e6439"
+}

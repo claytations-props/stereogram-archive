@@ -87101,5 +87101,1775 @@
   "date_start": 1868,
   "date_end": 1868,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Stereoscopic views of cemeteries in Savannah, Georgia",
+  "place": "Savannah, Georgia",
+  "year": "1866",
+  "sy": 1866,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Stereoscopic_views_of_cemeteries_in_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Stereoscopic_views_of_cemeteries_in_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/23/Stereoscopic_views_of_cemeteries_in_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Stereoscopic_views_of_cemeteries_in_Savannah,_Georgia,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1384,
+  "id": "STA-1473",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1472.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.01,
+  "range": 1.64,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8855,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Stereoscopic_views_of_cemeteries_in_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Stereoscopic_views_of_cemeteries_in_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8855,
+   "L": [
+    0.394792,
+    0.0,
+    0.084115,
+    0.0,
+    0.881565,
+    0.054068
+   ],
+   "R": [
+    0.395822,
+    -0.003699,
+    0.510496,
+    -0.003473,
+    0.883854,
+    0.060251
+   ],
+   "g": [
+    0.9323,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured moderate (1.64% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1866",
+  "date_start": 1866,
+  "date_end": 1866,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bird's eye view of Savannah",
+  "place": "Savannah, Georgia",
+  "year": "1867",
+  "sy": 1867,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Bird%27s_eye_view_of_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s_eye_view_of_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bird%27s_eye_view_of_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bird%27s_eye_view_of_Savannah,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1394,
+  "id": "STA-1474",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1473.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.17,
+  "rot": 0.06,
+  "range": 0.66,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2983,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Bird%27s_eye_view_of_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s_eye_view_of_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2983,
+   "L": [
+    0.353646,
+    0.0,
+    0.111719,
+    0.0,
+    0.534765,
+    0.408487
+   ],
+   "R": [
+    0.353556,
+    -0.001047,
+    0.516784,
+    0.000487,
+    0.536895,
+    0.419029
+   ],
+   "g": [
+    1.0,
+    0.9689
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.06° of rotation. Depth measured gentle (0.66% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1867",
+  "date_start": 1867,
+  "date_end": 1867,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bird's eye view of Savannah, Ga",
+  "place": "Savannah, Georgia",
+  "year": "1867",
+  "sy": 1867,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Bird%27s_eye_view_of_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Bird%27s_eye_view_of_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bird%27s_eye_view_of_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bird%27s_eye_view_of_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1382,
+  "id": "STA-1475",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1474.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.24,
+  "rot": 0.03,
+  "range": 0.5,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.5164,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Bird%27s_eye_view_of_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Bird%27s_eye_view_of_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5164,
+   "L": [
+    0.385417,
+    0.0,
+    0.102865,
+    0.0,
+    0.503612,
+    0.409185
+   ],
+   "R": [
+    0.385605,
+    0.000142,
+    0.507882,
+    0.001582,
+    0.50496,
+    0.424432
+   ],
+   "g": [
+    1.0,
+    0.9261
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.03° of rotation. Depth measured gentle (0.5% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1867",
+  "date_start": 1867,
+  "date_end": 1867,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Savannah Market",
+  "place": "Savannah, Georgia",
+  "year": "1856–1908",
+  "sy": 1856,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Savannah_Market,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1563,
+  "id": "STA-1476",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1475.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.02,
+  "range": 0.68,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8227,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8227,
+   "L": [
+    0.410938,
+    0.0,
+    0.07526,
+    0.0,
+    0.875,
+    0.080748
+   ],
+   "R": [
+    0.409613,
+    -0.006126,
+    0.520537,
+    -0.003283,
+    0.874678,
+    0.074443
+   ],
+   "g": [
+    1.0,
+    0.9585
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.02° of rotation. Depth measured gentle (0.68% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1856/1908",
+  "date_start": 1856,
+  "date_end": 1908,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Moss Avenue, Bonaventure, Savannah, Ga",
+  "place": "Savannah, Georgia",
+  "year": "1860–1890",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Moss_Avenue%2C_Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Moss_Avenue%2C_Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Moss_Avenue%2C_Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Moss_Avenue,_Bonaventure,_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1587,
+  "id": "STA-1477",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1476.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 0.75,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7363,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Moss_Avenue%2C_Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Moss_Avenue%2C_Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7363,
+   "L": [
+    0.378125,
+    0.0,
+    0.10651,
+    0.0,
+    0.885894,
+    0.053459
+   ],
+   "R": [
+    0.376644,
+    0.005289,
+    0.520223,
+    -0.003779,
+    0.883525,
+    0.04364
+   ],
+   "g": [
+    1.0,
+    0.9103
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.75% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860/1890",
+  "date_start": 1860,
+  "date_end": 1890,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Savannah Market, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Savannah, Georgia",
+  "year": "1856–1908",
+  "sy": 1856,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/38/Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Savannah_Market,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1632,
+  "id": "STA-1478",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1477.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.05,
+  "range": 0.57,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7282,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7282,
+   "L": [
+    0.386458,
+    0.0,
+    0.05599,
+    0.0,
+    0.889956,
+    0.061572
+   ],
+   "R": [
+    0.386959,
+    -0.002479,
+    0.512205,
+    -0.007327,
+    0.890914,
+    0.054441
+   ],
+   "g": [
+    0.9969,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.05° of rotation. Depth measured gentle (0.57% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1856/1908",
+  "date_start": 1856,
+  "date_end": 1908,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bonaventure, Savannah, Ga",
+  "place": "Savannah, Georgia",
+  "year": "1855–1870",
+  "sy": 1855,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bonaventure,_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1415,
+  "id": "STA-1479",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1478.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 0.62,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8733,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8733,
+   "L": [
+    0.402083,
+    0.0,
+    0.083594,
+    0.0,
+    0.890232,
+    0.051863
+   ],
+   "R": [
+    0.402925,
+    -0.000113,
+    0.508744,
+    0.003864,
+    0.893211,
+    0.050474
+   ],
+   "g": [
+    1.0,
+    0.9977
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (0.62% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1855/1870",
+  "date_start": 1855,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Panorama of Savannah, Georgia",
+  "place": "Savannah, Georgia",
+  "year": "c. 1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Panorama_of_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Panorama_of_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/19/Panorama_of_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_Savannah,_Georgia,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1408,
+  "id": "STA-1480",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1479.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 0.42,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.121,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Panorama_of_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Panorama_of_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.121,
+   "L": [
+    0.366667,
+    0.0,
+    0.117969,
+    0.0,
+    0.635628,
+    0.297065
+   ],
+   "R": [
+    0.3661,
+    -0.006907,
+    0.512161,
+    0.013417,
+    0.636599,
+    0.295037
+   ],
+   "g": [
+    0.9762,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (0.42% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1868~",
+  "date_start": 1863,
+  "date_end": 1873,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Madison Square, Savannah, Ga",
+  "place": "Savannah, Georgia",
+  "year": "1856–1908",
+  "sy": 1856,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Madison_Square%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Madison_Square%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/09/Madison_Square%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Madison_Square,_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1602,
+  "id": "STA-1481",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1480.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 1.46,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0106,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Madison_Square%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Madison_Square%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0106,
+   "L": [
+    0.447396,
+    0.0,
+    0.035156,
+    0.0,
+    0.756228,
+    0.060053
+   ],
+   "R": [
+    0.445077,
+    0.004693,
+    0.511217,
+    0.001482,
+    0.751687,
+    0.051174
+   ],
+   "g": [
+    1.0,
+    0.9722
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (1.46% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1856/1908",
+  "date_start": 1856,
+  "date_end": 1908,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bull Street, Savannah, Ga, from Robert N. Dennis collection of stereoscopic views 6",
+  "place": "Savannah, Georgia",
+  "year": "1860–1870",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Bull_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg/1920px-Bull_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bull_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bull_Street,_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1577,
+  "id": "STA-1482",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1481.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.01,
+  "range": 2.16,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.7428,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Bull_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg/1920px-Bull_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7428,
+   "L": [
+    0.377604,
+    0.0,
+    0.095052,
+    0.0,
+    0.882459,
+    0.039331
+   ],
+   "R": [
+    0.378285,
+    -0.003019,
+    0.511356,
+    -7.8e-05,
+    0.878559,
+    0.041643
+   ],
+   "g": [
+    0.9578,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured moderate (2.16% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860/1870",
+  "date_start": 1860,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bonaventure Cemetery, Savannah",
+  "place": "Savannah, Georgia",
+  "year": "1856–1908",
+  "sy": 1856,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Bonaventure_Cemetery%2C_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bonaventure_Cemetery%2C_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bonaventure_Cemetery%2C_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bonaventure_Cemetery,_Savannah,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1587,
+  "id": "STA-1483",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1482.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.05,
+  "range": 0.83,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9123,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Bonaventure_Cemetery%2C_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bonaventure_Cemetery%2C_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9123,
+   "L": [
+    0.411979,
+    0.0,
+    0.07526,
+    0.0,
+    0.778976,
+    0.062444
+   ],
+   "R": [
+    0.410678,
+    0.005466,
+    0.515252,
+    -0.001718,
+    0.779632,
+    0.041915
+   ],
+   "g": [
+    1.0,
+    0.9211
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.05° of rotation. Depth measured gentle (0.83% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1856/1908",
+  "date_start": 1856,
+  "date_end": 1908,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bonaventure Cemetery, Savannah, Ga",
+  "place": "Savannah, Georgia",
+  "year": "1855–1870",
+  "sy": 1855,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Bonaventure_Cemetery%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bonaventure_Cemetery%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bonaventure_Cemetery%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bonaventure_Cemetery,_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1416,
+  "id": "STA-1484",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1483.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.02,
+  "range": 1.08,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8624,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Bonaventure_Cemetery%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bonaventure_Cemetery%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8624,
+   "L": [
+    0.365625,
+    0.0,
+    0.10599,
+    0.0,
+    0.819738,
+    0.041793
+   ],
+   "R": [
+    0.364518,
+    0.000931,
+    0.521389,
+    -0.00022,
+    0.814359,
+    0.04515
+   ],
+   "g": [
+    1.0,
+    0.9852
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured gentle (1.08% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1855/1870",
+  "date_start": 1855,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "The Exchange, Savannah, Georgia",
+  "place": "Savannah, Georgia",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/The_Exchange%2C_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Exchange%2C_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ee/The_Exchange%2C_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Exchange,_Savannah,_Georgia,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1407,
+  "id": "STA-1485",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1484.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 0.4,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8295,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/The_Exchange%2C_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Exchange%2C_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8295,
+   "L": [
+    0.375,
+    0.0,
+    0.101823,
+    0.0,
+    0.879433,
+    0.054205
+   ],
+   "R": [
+    0.374414,
+    0.003276,
+    0.506207,
+    -0.006271,
+    0.875126,
+    0.069951
+   ],
+   "g": [
+    0.9711,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.4% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865~",
+  "date_start": 1860,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Pulaski Monument, Savannah, Ga",
+  "place": "Savannah, Georgia",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Pulaski_Monument%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pulaski_Monument%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Pulaski_Monument%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Pulaski_Monument,_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1375,
+  "id": "STA-1486",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1485.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.05,
+  "range": 1.91,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8772,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Pulaski_Monument%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pulaski_Monument%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8772,
+   "L": [
+    0.360938,
+    0.0,
+    0.115365,
+    0.0,
+    0.818653,
+    0.087565
+   ],
+   "R": [
+    0.373396,
+    0.003848,
+    0.50481,
+    -0.007805,
+    0.857056,
+    0.083048
+   ],
+   "g": [
+    0.997,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.05° of rotation. Depth measured moderate (1.91% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865~",
+  "date_start": 1860,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Panorama of Savannah, Ga",
+  "place": "Savannah, Georgia",
+  "year": "c. 1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Panorama_of_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Panorama_of_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Panorama_of_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1397,
+  "id": "STA-1487",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1486.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.0,
+  "range": 0.46,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9939,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Panorama_of_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Panorama_of_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9939,
+   "L": [
+    0.3375,
+    0.0,
+    0.115365,
+    0.0,
+    0.665306,
+    0.278061
+   ],
+   "R": [
+    0.336418,
+    -0.000371,
+    0.511342,
+    -0.000175,
+    0.665826,
+    0.292496
+   ],
+   "g": [
+    0.9739,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.0° of rotation. Depth measured gentle (0.46% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1868~",
+  "date_start": 1863,
+  "date_end": 1873,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Forsyth Park, Savannah, Ga",
+  "place": "Savannah, Georgia",
+  "year": "1867",
+  "sy": 1867,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Forsyth_Park%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Forsyth_Park%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Forsyth_Park%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Forsyth_Park,_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1574,
+  "id": "STA-1488",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1487.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 1.91,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.7323,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Forsyth_Park%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Forsyth_Park%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7323,
+   "L": [
+    0.381771,
+    0.0,
+    0.08776,
+    0.0,
+    0.906703,
+    0.047554
+   ],
+   "R": [
+    0.381582,
+    -0.004386,
+    0.5211,
+    -0.000185,
+    0.914119,
+    0.04823
+   ],
+   "g": [
+    1.0,
+    0.9769
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured moderate (1.91% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1867",
+  "date_start": 1867,
+  "date_end": 1867,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Moss Ave, Bonaventure, Savannah, Ga",
+  "place": "Savannah, Georgia",
+  "year": "1860–1890",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Moss_Ave%2C_Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Moss_Ave%2C_Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Moss_Ave%2C_Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Moss_Ave,_Bonaventure,_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1590,
+  "id": "STA-1489",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1488.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 0.87,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7542,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Moss_Ave%2C_Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Moss_Ave%2C_Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7542,
+   "L": [
+    0.393229,
+    0.0,
+    0.08776,
+    0.0,
+    0.897758,
+    0.05426
+   ],
+   "R": [
+    0.392802,
+    -0.002294,
+    0.533836,
+    0.007151,
+    0.895204,
+    0.042443
+   ],
+   "g": [
+    1.0,
+    0.9345
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.87% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860/1890",
+  "date_start": 1860,
+  "date_end": 1890,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bonaventure Cemetery, Savannah, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Savannah, Georgia",
+  "year": "1856–1908",
+  "sy": 1856,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Bonaventure_Cemetery%2C_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-Bonaventure_Cemetery%2C_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bonaventure_Cemetery%2C_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bonaventure_Cemetery,_Savannah,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1571,
+  "id": "STA-1490",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1489.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.03,
+  "range": 0.8,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.6266,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Bonaventure_Cemetery%2C_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-Bonaventure_Cemetery%2C_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.6266,
+   "L": [
+    0.309375,
+    0.0,
+    0.135156,
+    0.0,
+    0.860254,
+    0.044011
+   ],
+   "R": [
+    0.309118,
+    0.006575,
+    0.579947,
+    -0.003031,
+    0.862037,
+    0.056269
+   ],
+   "g": [
+    0.9336,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.03° of rotation. Depth measured gentle (0.8% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1856/1908",
+  "date_start": 1856,
+  "date_end": 1908,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bonaventure, Savannah, Ga, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Savannah, Georgia",
+  "year": "1855–1870",
+  "sy": 1855,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bonaventure,_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1405,
+  "id": "STA-1491",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1490.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 1.35,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8251,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-Bonaventure%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8251,
+   "L": [
+    0.383333,
+    0.0,
+    0.101302,
+    0.0,
+    0.904665,
+    0.045132
+   ],
+   "R": [
+    0.383606,
+    0.000549,
+    0.509437,
+    -0.003143,
+    0.903234,
+    0.047739
+   ],
+   "g": [
+    1.0,
+    0.9927
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (1.35% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1855/1870",
+  "date_start": 1855,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Savannah Market, from Robert N. Dennis collection of stereoscopic views 3",
+  "place": "Savannah, Georgia",
+  "year": "1856–1908",
+  "sy": 1856,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Savannah_Market,_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1558,
+  "id": "STA-1492",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1491.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.05,
+  "range": 0.72,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.818,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.818,
+   "L": [
+    0.416667,
+    0.0,
+    0.075781,
+    0.0,
+    0.894785,
+    0.040714
+   ],
+   "R": [
+    0.415487,
+    -0.003747,
+    0.510328,
+    -0.006659,
+    0.893925,
+    0.050486
+   ],
+   "g": [
+    1.0,
+    0.9986
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.05° of rotation. Depth measured gentle (0.72% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1856/1908",
+  "date_start": 1856,
+  "date_end": 1908,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bull Street, Savannah, Ga",
+  "place": "Savannah, Georgia",
+  "year": "1855–1870",
+  "sy": 1855,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Bull_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Bull_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bull_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bull_Street,_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1414,
+  "id": "STA-1493",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1492.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 0.85,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.109,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Bull_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Bull_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.109,
+   "L": [
+    0.397396,
+    0.0,
+    0.08724,
+    0.0,
+    0.693548,
+    0.053931
+   ],
+   "R": [
+    0.397385,
+    6.9e-05,
+    0.50795,
+    0.00239,
+    0.692133,
+    0.047711
+   ],
+   "g": [
+    0.9679,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.85% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1855/1870",
+  "date_start": 1855,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Chippewa Square, Savannah, Ga",
+  "place": "Savannah, Georgia",
+  "year": "1856–1908",
+  "sy": 1856,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Chippewa_Square%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Chippewa_Square%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/13/Chippewa_Square%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Chippewa_Square,_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1569,
+  "id": "STA-1494",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1493.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.05,
+  "rot": 0.03,
+  "range": 2.13,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.7353,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Chippewa_Square%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Chippewa_Square%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7353,
+   "L": [
+    0.377604,
+    0.0,
+    0.095573,
+    0.0,
+    0.89555,
+    0.059491
+   ],
+   "R": [
+    0.380171,
+    -0.014714,
+    0.532515,
+    0.002911,
+    0.896638,
+    0.04444
+   ],
+   "g": [
+    1.0,
+    0.9437
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.05% vertical error and 0.03° of rotation. Depth measured moderate (2.13% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1856/1908",
+  "date_start": 1856,
+  "date_end": 1908,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Liberty Street, Savannah, Ga",
+  "place": "Savannah, Georgia",
+  "year": "1856–1908",
+  "sy": 1856,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Liberty_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Liberty_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Liberty_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Liberty_Street,_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1580,
+  "id": "STA-1495",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1494.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.02,
+  "range": 0.85,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0025,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Liberty_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Liberty_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0025,
+   "L": [
+    0.416667,
+    0.0,
+    0.066406,
+    0.0,
+    0.720217,
+    0.055505
+   ],
+   "R": [
+    0.420659,
+    0.009945,
+    0.506131,
+    -0.011981,
+    0.729251,
+    0.056049
+   ],
+   "g": [
+    1.0,
+    0.9934
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured gentle (0.85% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1856/1908",
+  "date_start": 1856,
+  "date_end": 1908,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Fountain in Park, Savannah, Ga",
+  "place": "Savannah, Georgia",
+  "year": "1867",
+  "sy": 1867,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Fountain_in_Park%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Fountain_in_Park%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Fountain_in_Park%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Fountain_in_Park,_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1592,
+  "id": "STA-1496",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1495.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 2.32,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.7754,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Fountain_in_Park%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Fountain_in_Park%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7754,
+   "L": [
+    0.401042,
+    0.0,
+    0.071615,
+    0.0,
+    0.888988,
+    0.056849
+   ],
+   "R": [
+    0.40137,
+    -0.008258,
+    0.514643,
+    -0.002082,
+    0.890397,
+    0.052025
+   ],
+   "g": [
+    0.9834,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured deep (2.32% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1867",
+  "date_start": 1867,
+  "date_end": 1867,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Laurel Grove Cemetery, Savannah, Ga",
+  "place": "Savannah, Georgia",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Laurel_Grove_Cemetery%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Laurel_Grove_Cemetery%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/32/Laurel_Grove_Cemetery%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Laurel_Grove_Cemetery,_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1560,
+  "id": "STA-1497",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1496.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.03,
+  "range": 2.12,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.537,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Laurel_Grove_Cemetery%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Laurel_Grove_Cemetery%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.537,
+   "L": [
+    0.256771,
+    0.0,
+    0.192448,
+    0.0,
+    0.839122,
+    0.108318
+   ],
+   "R": [
+    0.247234,
+    0.001325,
+    0.619531,
+    -0.002155,
+    0.843757,
+    0.112958
+   ],
+   "g": [
+    0.9597,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.03° of rotation. Depth measured moderate (2.12% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Fountain in Forsyth Park, Savannah, Georgia",
+  "place": "Savannah, Georgia",
+  "year": "1867",
+  "sy": 1867,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Fountain_in_Forsyth_Park%2C_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Fountain_in_Forsyth_Park%2C_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/55/Fountain_in_Forsyth_Park%2C_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Fountain_in_Forsyth_Park,_Savannah,_Georgia,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1622,
+  "id": "STA-1498",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1497.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 1.23,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9389,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Fountain_in_Forsyth_Park%2C_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Fountain_in_Forsyth_Park%2C_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9389,
+   "L": [
+    0.416146,
+    0.0,
+    0.077344,
+    0.0,
+    0.747803,
+    0.119069
+   ],
+   "R": [
+    0.41526,
+    -0.010216,
+    0.515345,
+    0.000797,
+    0.745272,
+    0.122011
+   ],
+   "g": [
+    1.0,
+    0.9806
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (1.23% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1867",
+  "date_start": 1867,
+  "date_end": 1867,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Savannah Market, from Robert N. Dennis collection of stereoscopic views 4",
+  "place": "Savannah, Georgia",
+  "year": "1856–1908",
+  "sy": 1856,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg/1920px-Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/06/Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Savannah_Market,_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1577,
+  "id": "STA-1499",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1498.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.02,
+  "range": 0.61,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8167,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg/1920px-Savannah_Market%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8167,
+   "L": [
+    0.422396,
+    0.0,
+    0.06276,
+    0.0,
+    0.89783,
+    0.04566
+   ],
+   "R": [
+    0.421789,
+    -0.003424,
+    0.511389,
+    -0.007182,
+    0.896799,
+    0.058098
+   ],
+   "g": [
+    0.9942,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured gentle (0.61% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1856/1908",
+  "date_start": 1856,
+  "date_end": 1908,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bonaventure Cemetery, Savannah, Georgia",
+  "place": "Savannah, Georgia",
+  "year": "1866",
+  "sy": 1866,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Bonaventure_Cemetery%2C_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bonaventure_Cemetery%2C_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bonaventure_Cemetery%2C_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bonaventure_Cemetery,_Savannah,_Georgia,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1401,
+  "id": "STA-1500",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1499.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.02,
+  "range": 1.58,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.9298,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Bonaventure_Cemetery%2C_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bonaventure_Cemetery%2C_Savannah%2C_Georgia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9298,
+   "L": [
+    0.351562,
+    0.0,
+    0.099219,
+    0.0,
+    0.738555,
+    0.042218
+   ],
+   "R": [
+    0.351816,
+    0.002204,
+    0.505238,
+    -0.00096,
+    0.738767,
+    0.045912
+   ],
+   "g": [
+    1.0,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.02° of rotation. Depth measured moderate (1.58% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1866",
+  "date_start": 1866,
+  "date_end": 1866,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bonaventure Cemetery near Savannah",
+  "place": "Savannah, Georgia",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Bonaventure_Cemetery_near_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bonaventure_Cemetery_near_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bonaventure_Cemetery_near_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bonaventure_Cemetery_near_Savannah,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1352,
+  "id": "STA-1501",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1500.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.0,
+  "range": 1.31,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8706,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Bonaventure_Cemetery_near_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bonaventure_Cemetery_near_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8706,
+   "L": [
+    0.308333,
+    0.0,
+    0.141927,
+    0.0,
+    0.7173,
+    0.101793
+   ],
+   "R": [
+    0.322258,
+    0.011622,
+    0.507509,
+    -0.019806,
+    0.749877,
+    0.078805
+   ],
+   "g": [
+    1.0,
+    0.9721
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured gentle (1.31% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865~",
+  "date_start": 1860,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Fountain in Park, Savannah, Ga, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Savannah, Georgia",
+  "year": "1867",
+  "sy": 1867,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Fountain_in_Park%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Fountain_in_Park%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/97/Fountain_in_Park%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Fountain_in_Park,_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1552,
+  "id": "STA-1502",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1501.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 1.98,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.7604,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Fountain_in_Park%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Fountain_in_Park%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7604,
+   "L": [
+    0.391667,
+    0.0,
+    0.090885,
+    0.0,
+    0.908173,
+    0.039027
+   ],
+   "R": [
+    0.39189,
+    -0.005992,
+    0.518855,
+    -0.003402,
+    0.907198,
+    0.039
+   ],
+   "g": [
+    1.0,
+    0.9933
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured moderate (1.98% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1867",
+  "date_start": 1867,
+  "date_end": 1867,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]

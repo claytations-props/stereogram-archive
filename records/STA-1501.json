@@ -1,0 +1,69 @@
+{
+ "title": "Bonaventure Cemetery near Savannah",
+ "place": "Savannah, Georgia",
+ "year": "c. 1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Bonaventure_Cemetery_near_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bonaventure_Cemetery_near_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bonaventure_Cemetery_near_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Bonaventure_Cemetery_near_Savannah,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1352,
+ "id": "STA-1501",
+ "rect": "rect/1500.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.15,
+ "rot": 0.0,
+ "range": 1.31,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8706,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Bonaventure_Cemetery_near_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bonaventure_Cemetery_near_Savannah%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8706,
+  "L": [
+   0.308333,
+   0.0,
+   0.141927,
+   0.0,
+   0.7173,
+   0.101793
+  ],
+  "R": [
+   0.322258,
+   0.011622,
+   0.507509,
+   -0.019806,
+   0.749877,
+   0.078805
+  ],
+  "g": [
+   1.0,
+   0.9721
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured gentle (1.31% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865~",
+ "date_start": 1860,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7269902,
+ "source_revision_id": null,
+ "source_sha1": "aca4f15db86a1a4c152d51d684f0b88167033229"
+}

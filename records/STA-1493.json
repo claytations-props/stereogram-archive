@@ -1,0 +1,69 @@
+{
+ "title": "Bull Street, Savannah, Ga",
+ "place": "Savannah, Georgia",
+ "year": "1855–1870",
+ "sy": 1855,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Bull_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Bull_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bull_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Bull_Street,_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1414,
+ "id": "STA-1493",
+ "rect": "rect/1492.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 0.85,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.109,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Bull_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Bull_Street%2C_Savannah%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.109,
+  "L": [
+   0.397396,
+   0.0,
+   0.08724,
+   0.0,
+   0.693548,
+   0.053931
+  ],
+  "R": [
+   0.397385,
+   6.9e-05,
+   0.50795,
+   0.00239,
+   0.692133,
+   0.047711
+  ],
+  "g": [
+   0.9679,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.85% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1855/1870",
+ "date_start": 1855,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7274397,
+ "source_revision_id": null,
+ "source_sha1": "2dc3ee9a655cdfdcd5ff1979c05baeb5e2e8d158"
+}
