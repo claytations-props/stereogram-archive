@@ -5,7 +5,7 @@
  "sy": 1900,
  "era": "undated",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://upload.wikimedia.org/wikipedia/commons/4/4b/View_of_rustic_benches._Druid_Hill_Park%2C_by_Chase%2C_W._M._%28William_M.%29%2C_1818_-_9-1905.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -47,14 +47,14 @@
    0.9748
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.34% vertical error and 0.01° of rotation. Depth measured deep (2.47% of frame width); hung in the VR Parlor at 88% size.",
+ "cond": "Rectified 2026. Halves registered to 0.34% vertical error and 0.01\u00b0 of rotation. Depth measured deep (2.47% of frame width); hung in the VR Parlor at 88% size.",
  "repository": null,
  "collection_name": null,
  "publisher": null,
  "creator": "Chase, W. M. (William M.), 1818 - 9-1905",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": null,
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7440126,
  "source_revision_id": null,
- "source_sha1": "88f34f3689d151553db594bc2749e6c76bcb8ff5"
+ "source_sha1": "88f34f3689d151553db594bc2749e6c76bcb8ff5",
+ "tags": [
+  "trees",
+  "pavilion"
+ ]
 }

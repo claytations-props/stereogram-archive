@@ -5,7 +5,7 @@
  "sy": 1900,
  "era": "undated",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://upload.wikimedia.org/wikipedia/commons/1/16/The_Picturesque_of_Druid_Hill_Park%2C_Baltimore%2C_by_Chase%2C_W._M._%28William_M.%29%2C_1818_-_9-1905.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -47,14 +47,14 @@
    0.9801
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.08° of rotation. Depth measured deep (2.56% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.08\u00b0 of rotation. Depth measured deep (2.56% of frame width); hung in the VR Parlor at full size.",
  "repository": null,
  "collection_name": null,
  "publisher": null,
  "creator": "Chase, W. M. (William M.), 1818 - 9-1905",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": null,
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7440150,
  "source_revision_id": null,
- "source_sha1": "7be9a0f576baf4b4c674921481c644f203ea8656"
+ "source_sha1": "7be9a0f576baf4b4c674921481c644f203ea8656",
+ "tags": [
+  "lake",
+  "trees"
+ ]
 }

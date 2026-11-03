@@ -5,7 +5,7 @@
  "sy": 1859,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://upload.wikimedia.org/wikipedia/commons/d/db/Boat_House._Druid_Hill_Park%2C_Baltimore%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -47,14 +47,14 @@
    0.9951
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.23% vertical error and 0.06° of rotation. Depth measured deep (7.43% of frame width); hung in the VR Parlor at 40% size.",
+ "cond": "Rectified 2026. Halves registered to 0.23% vertical error and 0.06\u00b0 of rotation. Depth measured deep (7.43% of frame width); hung in the VR Parlor at 40% size.",
  "repository": "New York Public Library",
  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
  "publisher": null,
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1859",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7440095,
  "source_revision_id": null,
- "source_sha1": "77dc910b22a5a808badf330477d8903ada17c899"
+ "source_sha1": "77dc910b22a5a808badf330477d8903ada17c899",
+ "tags": [
+  "lake",
+  "rowboat"
+ ]
 }

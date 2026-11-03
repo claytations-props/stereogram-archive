@@ -5,7 +5,7 @@
  "sy": 1875,
  "era": "mid",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mansion_House%2C_south_view._Druid_Hill_Park%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -47,14 +47,14 @@
    1.0
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.31% vertical error and 0.03° of rotation. Depth measured deep (4.38% of frame width); hung in the VR Parlor at 58% size.",
+ "cond": "Rectified 2026. Halves registered to 0.31% vertical error and 0.03\u00b0 of rotation. Depth measured deep (4.38% of frame width); hung in the VR Parlor at 58% size.",
  "repository": null,
  "collection_name": null,
  "publisher": null,
  "creator": "E. & H.T. Anthony (Firm)",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1875~",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7440115,
  "source_revision_id": null,
- "source_sha1": "9059301aec2ecef20f6b9e564a5e4b801fcb5a47"
+ "source_sha1": "9059301aec2ecef20f6b9e564a5e4b801fcb5a47",
+ "tags": [
+  "mansion",
+  "trees"
+ ]
 }

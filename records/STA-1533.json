@@ -5,7 +5,7 @@
  "sy": 1859,
  "era": "early",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Boat_Landing%2C_Druid_Hill_Park%2C_Baltimore%2C_Md%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -47,14 +47,14 @@
    0.9761
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.06° of rotation. Depth measured deep (4.34% of frame width); hung in the VR Parlor at 84% size.",
+ "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.06\u00b0 of rotation. Depth measured deep (4.34% of frame width); hung in the VR Parlor at 84% size.",
  "repository": "New York Public Library",
  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
  "publisher": null,
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1859",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7440222,
  "source_revision_id": null,
- "source_sha1": "d83fb6267daf402a5eeffb993e001ecdaf7b1433"
+ "source_sha1": "d83fb6267daf402a5eeffb993e001ecdaf7b1433",
+ "tags": [
+  "lake",
+  "rowboat"
+ ]
 }

@@ -5,7 +5,7 @@
  "sy": 1865,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Statue_of_boy_and_the_swan._Druid_Hill_Park%2C_by_Richard_Walzl_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -47,14 +47,14 @@
    1.0
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.01° of rotation. Depth measured deep (4.64% of frame width); hung in the VR Parlor at 73% size.",
+ "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.01\u00b0 of rotation. Depth measured deep (4.64% of frame width); hung in the VR Parlor at 73% size.",
  "repository": null,
  "collection_name": null,
  "publisher": null,
  "creator": "Richard Walzl",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1865~",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7440176,
  "source_revision_id": null,
- "source_sha1": "53d0e919818bb20cb69a0cf55174d3b30daf7f83"
+ "source_sha1": "53d0e919818bb20cb69a0cf55174d3b30daf7f83",
+ "tags": [
+  "statue",
+  "trees"
+ ]
 }

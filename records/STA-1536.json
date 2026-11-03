@@ -5,7 +5,7 @@
  "sy": 1880,
  "era": "mid",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Druid_Hill_Park%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -47,14 +47,14 @@
    0.9488
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.01° of rotation. Depth measured moderate (1.71% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.01\u00b0 of rotation. Depth measured moderate (1.71% of frame width); hung in the VR Parlor at full size.",
  "repository": null,
  "collection_name": null,
  "publisher": null,
  "creator": "E. & H.T. Anthony (Firm)",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1880~",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7440122,
  "source_revision_id": null,
- "source_sha1": "ded605e298021fdd5da4b93fb32d3ec4fc097178"
+ "source_sha1": "ded605e298021fdd5da4b93fb32d3ec4fc097178",
+ "tags": [
+  "lake",
+  "trees"
+ ]
 }

@@ -5,7 +5,7 @@
  "sy": 1880,
  "era": "mid",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://upload.wikimedia.org/wikipedia/commons/4/45/Mansion_House_and_Fountain._Druid_Hill_Park%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -47,14 +47,14 @@
    1.0
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.03° of rotation. Depth measured moderate (2.06% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.03\u00b0 of rotation. Depth measured moderate (2.06% of frame width); hung in the VR Parlor at full size.",
  "repository": null,
  "collection_name": null,
  "publisher": null,
  "creator": "E. & H.T. Anthony (Firm)",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1880~",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7440117,
  "source_revision_id": null,
- "source_sha1": "204d39853b5a0bae2d5d78be249e6e03cbdf761f"
+ "source_sha1": "204d39853b5a0bae2d5d78be249e6e03cbdf761f",
+ "tags": [
+  "mansion",
+  "fountain"
+ ]
 }

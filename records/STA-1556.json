@@ -5,7 +5,7 @@
  "sy": 1900,
  "era": "undated",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Druid_Hill_Park%2C_Baltimore_%28NYPL_b11707491-G90F214_012F%29.tiff/lossy-page1-1920px-Druid_Hill_Park%2C_Baltimore_%28NYPL_b11707491-G90F214_012F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -47,14 +47,14 @@
    1.0
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.12° of rotation. Depth measured moderate (1.76% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.12\u00b0 of rotation. Depth measured moderate (1.76% of frame width); hung in the VR Parlor at full size.",
  "repository": null,
  "collection_name": null,
  "publisher": null,
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": null,
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 49481043,
  "source_revision_id": null,
- "source_sha1": "c7f9b1e709a9ca6a3cdf5d2cf8c7e34feaa7c6e2"
+ "source_sha1": "c7f9b1e709a9ca6a3cdf5d2cf8c7e34feaa7c6e2",
+ "tags": [
+  "bridge",
+  "trees"
+ ]
 }

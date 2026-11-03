@@ -5,7 +5,7 @@
  "sy": 1887,
  "era": "mid",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://upload.wikimedia.org/wikipedia/commons/f/f1/The_Music_Stand._Druid_Hill_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -47,14 +47,14 @@
    1.0
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.23% vertical error and 0.05° of rotation. Depth measured moderate (1.84% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.23% vertical error and 0.05\u00b0 of rotation. Depth measured moderate (1.84% of frame width); hung in the VR Parlor at full size.",
  "repository": "New York Public Library",
  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
  "publisher": null,
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1887",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7440097,
  "source_revision_id": null,
- "source_sha1": "0d7d65b1a1aa01faf125525fac1f0ad1220e9855"
+ "source_sha1": "0d7d65b1a1aa01faf125525fac1f0ad1220e9855",
+ "tags": [
+  "bandstand",
+  "trees"
+ ]
 }

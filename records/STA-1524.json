@@ -5,7 +5,7 @@
  "sy": 1875,
  "era": "mid",
  "cats": [
-  "world"
+  "cities"
  ],
  "blurb": "",
  "img": "https://upload.wikimedia.org/wikipedia/commons/6/60/Grand_Promenade._Druid_Hill_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -47,14 +47,14 @@
    1.0
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.03° of rotation. Depth measured deep (2.57% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.03\u00b0 of rotation. Depth measured deep (2.57% of frame width); hung in the VR Parlor at full size.",
  "repository": "New York Public Library",
  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
  "publisher": null,
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "world"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1875~",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7440164,
  "source_revision_id": null,
- "source_sha1": "10bc012307dc6855e2e2f426a9f5b47d7277327d"
+ "source_sha1": "10bc012307dc6855e2e2f426a9f5b47d7277327d",
+ "tags": [
+  "trees",
+  "garden"
+ ]
 }

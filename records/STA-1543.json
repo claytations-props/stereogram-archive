@@ -1,11 +1,11 @@
 {
  "title": "Boat Landing, Druid Hill Park, Baltimore, Md, by J.W. & J.S. Moulton",
  "place": "Druid Hill Park, Baltimore, Maryland",
- "year": "1873–1881",
+ "year": "1873\u20131881",
  "sy": 1873,
  "era": "mid",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://upload.wikimedia.org/wikipedia/commons/8/84/Boat_Landing%2C_Druid_Hill_Park%2C_Baltimore%2C_Md%2C_by_J.W._%26_J.S._Moulton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -47,14 +47,14 @@
    0.9958
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.27% vertical error and 0.01° of rotation. Depth measured moderate (1.9% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.27% vertical error and 0.01\u00b0 of rotation. Depth measured moderate (1.9% of frame width); hung in the VR Parlor at full size.",
  "repository": null,
  "collection_name": null,
  "publisher": null,
  "creator": "J.W. & J.S. Moulton",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1873/1881",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7440223,
  "source_revision_id": null,
- "source_sha1": "dca333cc8b2caa85aea42910bdb9da069d25e9d7"
+ "source_sha1": "dca333cc8b2caa85aea42910bdb9da069d25e9d7",
+ "tags": [
+  "lake",
+  "rowboat"
+ ]
 }
