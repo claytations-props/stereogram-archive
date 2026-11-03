@@ -1,1 +1,99 @@
-{"assignments":{"STA-1562":{"conf":"high","tags":["house","trees"]},"STA-1563":{"conf":"high","tags":["ruins","war"]},"STA-1564":{"conf":"high","tags":["bridge","river"]},"STA-1565":{"conf":"high","tags":["statue","horse"]},"STA-1566":{"conf":"high","tags":["statue","horse","trees"]},"STA-1567":{"conf":"high","tags":["statue","gazebo"]},"STA-1568":{"conf":"high","tags":["bridge","river"]},"STA-1570":{"conf":"high","tags":["prison","horse","wagon"]},"STA-1571":{"conf":"high","tags":["statue","horse","trees"]},"STA-1572":{"conf":"high","tags":["house","trees"]},"STA-1573":{"conf":"high","tags":["statue","horse","church"]},"STA-1574":{"conf":"high","tags":["statue","horse"]},"STA-1575":{"conf":"high","tags":["ruins","war"]}}}
+{
+ "assignments": {
+  "STA-1562": {
+   "conf": "high",
+   "tags": [
+    "house",
+    "trees"
+   ]
+  },
+  "STA-1563": {
+   "conf": "high",
+   "tags": [
+    "ruins",
+    "main street"
+   ]
+  },
+  "STA-1564": {
+   "conf": "high",
+   "tags": [
+    "bridge",
+    "river"
+   ]
+  },
+  "STA-1565": {
+   "conf": "high",
+   "tags": [
+    "statue",
+    "horse"
+   ]
+  },
+  "STA-1566": {
+   "conf": "high",
+   "tags": [
+    "statue",
+    "horse",
+    "trees"
+   ]
+  },
+  "STA-1567": {
+   "conf": "high",
+   "tags": [
+    "statue",
+    "gazebo"
+   ]
+  },
+  "STA-1568": {
+   "conf": "high",
+   "tags": [
+    "bridge",
+    "river"
+   ]
+  },
+  "STA-1570": {
+   "conf": "high",
+   "tags": [
+    "prison",
+    "horse",
+    "wagon"
+   ]
+  },
+  "STA-1571": {
+   "conf": "high",
+   "tags": [
+    "statue",
+    "horse",
+    "trees"
+   ]
+  },
+  "STA-1572": {
+   "conf": "high",
+   "tags": [
+    "house",
+    "trees"
+   ]
+  },
+  "STA-1573": {
+   "conf": "high",
+   "tags": [
+    "statue",
+    "horse",
+    "church"
+   ]
+  },
+  "STA-1574": {
+   "conf": "high",
+   "tags": [
+    "statue",
+    "horse"
+   ]
+  },
+  "STA-1575": {
+   "conf": "high",
+   "tags": [
+    "ruins",
+    "cannon"
+   ]
+  }
+ }
+}

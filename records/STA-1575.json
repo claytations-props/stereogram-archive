@@ -47,7 +47,7 @@
    0.9947
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01\u00b0 of rotation. Depth measured gentle (0.52% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (0.52% of frame width); hung in the VR Parlor at full size.",
  "repository": "New York Public Library",
  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
  "publisher": null,
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10236045,
  "source_revision_id": null,
- "source_sha1": "aa25de5d6412ba59b7074ab47bccca9a26d0c4f6"
+ "source_sha1": "aa25de5d6412ba59b7074ab47bccca9a26d0c4f6",
+ "tags": [
+  "ruins",
+  "cannon"
+ ]
 }

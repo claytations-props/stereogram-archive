@@ -28,7 +28,7 @@ No shelf change for STA-1573 (already "cities").
 ## Per-card tags
 
 - STA-1562: house, trees
-- STA-1563: ruins, war
+- STA-1563: ruins, main street
 - STA-1564: bridge, river
 - STA-1565: statue, horse
 - STA-1566: statue, horse, trees
@@ -39,4 +39,4 @@ No shelf change for STA-1573 (already "cities").
 - STA-1572: house, trees
 - STA-1573: statue, horse, church
 - STA-1574: statue, horse
-- STA-1575: ruins, war
+- STA-1575: ruins, cannon

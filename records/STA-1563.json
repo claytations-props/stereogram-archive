@@ -47,7 +47,7 @@
    1.0
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01\u00b0 of rotation. Depth measured gentle (1.26% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (1.26% of frame width); hung in the VR Parlor at full size.",
  "repository": "New York Public Library",
  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
  "publisher": null,
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10236039,
  "source_revision_id": null,
- "source_sha1": "453a7a5f539867242e91e5c2cecaa06f0f2a91f4"
+ "source_sha1": "453a7a5f539867242e91e5c2cecaa06f0f2a91f4",
+ "tags": [
+  "ruins",
+  "main street"
+ ]
 }
