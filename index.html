@@ -110,6 +110,13 @@ footer a{color:var(--brass)}
 .shelfwrap{max-width:1180px;margin:34px auto 0;padding:0 16px}
 .shelfhead{font-family:"Playfair Display",Georgia,serif;font-size:20px;margin-bottom:12px;display:flex;align-items:baseline;gap:16px}
 .shelfhead::after{content:"";flex:1;border-top:1px solid var(--line)}
+/* Round 9: Timeline view bands reuse the shelf heading and the card
+   grid; a band heading names its decade and its full filtered count,
+   so the size of a decade is visible before Show more fills it. */
+.tlband{margin:30px 0 4px}
+.tlband h2{font-family:"Playfair Display",Georgia,serif;font-size:20px;margin-bottom:12px;display:flex;align-items:baseline;gap:16px}
+.tlband h2::after{content:"";flex:1;border-top:1px solid var(--line)}
+.tlband .n{font-family:inherit;font-size:13px;color:var(--dim);letter-spacing:.05em}
 .shelf{display:flex;gap:12px;overflow-x:auto;padding-bottom:8px}
 .sitem{min-width:158px;max-width:158px;cursor:pointer}
 .sitem img{width:100%;aspect-ratio:2/1;object-fit:cover;border-radius:3px;border:1px solid var(--line);display:block}
@@ -226,7 +233,7 @@ canvas#ana.show{display:block}
     <select id="era" aria-label="Filter by era"><option value="all">All eras</option><option value="early">1840s–1860s</option><option value="mid">1870s–1890s</option><option value="late">1900s–1920s</option><option value="undated">Undated</option></select>
     <select id="sort" aria-label="Sort items"><option value="featured">Sort: Accession order</option><option value="old">Oldest first</option><option value="new">Newest first</option><option value="az">Title A–Z</option><option value="shuffle">Shuffle</option></select>
     <button class="btn" id="clearFilters" hidden>Clear search &amp; filters</button>
-    <span class="viewtog"><button class="btn on" id="vShelves">Shelves</button><button class="btn" id="vRegister">Register</button></span>
+    <span class="viewtog"><button class="btn on" id="vShelves">Shelves</button><button class="btn" id="vRegister">Register</button><button class="btn" id="vTimeline">Timeline</button></span>
     <button class="btn" id="surprise">Request an item</button>
     <a class="btn gold" href="vr.html">Enter the VR Parlor</a>
     <button class="btn" id="howBtn">How to view</button>
@@ -247,6 +254,7 @@ canvas#ana.show{display:block}
 <div class="count" id="count"></div>
 <div class="grid" id="grid"></div>
 <div id="reg" style="display:none"></div>
+<div id="tlm" style="display:none"></div>
 <button class="btn" id="moreBtn">Show more items</button>
 <div class="empty" id="empty" style="display:none"><span id="emptyText"></span> <button class="btn" id="emptyClear" hidden>Clear search &amp; filters</button></div>
 </main>
@@ -438,8 +446,18 @@ function buildAid(){
 }
 $("#aidToggle").setAttribute("aria-expanded","false");
 $("#aidToggle").onclick=()=>{const sec=$("#aidSec");sec.classList.toggle("open");const open=sec.classList.contains("open");$("#aidToggle").textContent=open?"Finding Aid · tap to close":"Finding Aid · tap to open";$("#aidToggle").setAttribute("aria-expanded",open?"true":"false")};
-$("#vShelves").onclick=()=>{state.view="shelves";$("#vShelves").classList.add("on");$("#vRegister").classList.remove("on");render()};
-$("#vRegister").onclick=()=>{state.view="reg";$("#vRegister").classList.add("on");$("#vShelves").classList.remove("on");render()};
+/* Round 9: one view switch for Shelves, Register, and Timeline; the
+   Timeline view is date order by definition, so render() disables the
+   sort control while it is active and re-enables it on leaving. */
+function setView(v){state.view=v;["vShelves","vRegister","vTimeline"].forEach(id=>document.getElementById(id).classList.toggle("on",id==="v"+(v==="shelves"?"Shelves":v==="reg"?"Register":"Timeline")));render()}
+$("#vShelves").onclick=()=>setView("shelves");
+$("#vRegister").onclick=()=>setView("reg");
+$("#vTimeline").onclick=()=>setView("timeline");
+/* Round 9: Timeline bands. Undated items are their own band at the
+   end, never folded into the 1900s: 280 of them carry a placeholder
+   sort year of 1900, so a decade read from sy alone would lie. */
+function tlBand(d){return d.era==="undated"?"Undated":(Math.floor(d.sy/10)*10)+"s"}
+function tlBandOrder(b){return b==="Undated"?9999:parseInt(b,10)}
 $("#moreBtn").onclick=()=>{shown+=48;pendingAppend=true;render()};
 function filtered(){
  let a=DATA.filter(d=>{
@@ -471,6 +489,13 @@ function cardEl(d,i){
 }
 function render(){
  currentList=filtered();
+ /* Round 9: Timeline view steps chronologically, so the list itself
+    is date ordered here (undated last, accession order breaking ties)
+    and the viewer opened from a Timeline card steps in date order too. */
+ if(state.view==="timeline"){
+  const acc=new Map(DATA.map((d,i)=>[d.id,i]));
+  currentList.sort((a,b)=>((a.era==="undated")-(b.era==="undated"))||(a.sy-b.sy)||(acc.get(a.id)-acc.get(b.id)));
+ }
  const sig=[state.cat,state.era,state.q,state.sort,state.coll,state.view].join('|');
  const sameSig=sig===lastSig;
  if(!sameSig){shown=48;lastSig=sig;renderedShown=0;}
@@ -481,10 +506,15 @@ function render(){
     returning from a card can tell a shuffled or reordered list from
     accession order at a glance. */
  let sortTxt="";
- if(state.sort!=="featured"){
+ if(state.view==="timeline")sortTxt=" · In date order";
+ else if(state.sort!=="featured"){
   const so=document.querySelector('#sort option[value="'+state.sort+'"]');
   sortTxt=state.sort==="shuffle"?" · Shuffled":" · Sorted: "+(so?so.textContent:state.sort);
  }
+ /* Round 9: the sort control does nothing in Timeline view (date
+    order is the view), so it reads disabled there instead of silently
+    being overridden. */
+ $("#sort").disabled=state.view==="timeline";
  $("#count").textContent="Showing "+currentList.length+" of "+DATA.length+" items"+(ctx!=="All items"?" · "+ctx:"")+sortTxt;
  $("#clearFilters").hidden=!isFiltered();
  /* Round 6: "Request an item" on an empty result list silently did
@@ -500,13 +530,30 @@ function render(){
  if(!currentList.length){et.textContent=state.cat==="favs"?"Your reading list is empty. Tap the heart on any card to keep it here.":"Nothing matches that. Try clearing the search, these photographs are old but they are not hiding.";if(ec)ec.hidden=state.cat==="favs";}
  const mb=$("#moreBtn");if(mb){mb.style.display=currentList.length>shown?"block":"none";/* Round 5: the button is the decision point, so it names what is left; the top count line is out of sight by then. */if(currentList.length>shown)mb.textContent="Show more items · "+(currentList.length-shown)+" remaining";}
  if(state.view==="reg"){
-  g.style.display="none";rg.style.display="block";
+  g.style.display="none";rg.style.display="block";$("#tlm").style.display="none";
   rg.innerHTML=`<div class="regwrap"><table><thead><tr><th>No.</th><th>Title</th><th>Date</th><th class="hidemb">Place</th><th class="hidemb">Series</th><th>Depth</th></tr></thead><tbody>${page.map((d,i)=>`<tr data-i="${i}"><td class="no">${d.id}</td><td class="ttl">${d.title}</td><td>${d.year}</td><td class="hidemb">${d.place}</td><td class="hidemb">${d.cats.map(c=>CATLABEL[c]||c).join(", ")}</td><td>${d.depth}</td></tr>`).join("")}</tbody></table></div>`;
   rg.querySelectorAll("tbody tr").forEach(tr=>{tr.tabIndex=0;tr.onclick=()=>openViewer(+tr.dataset.i);tr.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();openViewer(+tr.dataset.i)}}});
   renderedShown=page.length;pendingAppend=false;
   return;
  }
- g.style.display="grid";rg.style.display="none";
+ if(state.view==="timeline"){
+  g.style.display="none";rg.style.display="none";
+  const tm=$("#tlm");tm.style.display=currentList.length?"block":"none";tm.innerHTML="";
+  const fullCounts=new Map();currentList.forEach(d=>fullCounts.set(tlBand(d),(fullCounts.get(tlBand(d))||0)+1));
+  const shownGroups=new Map();
+  currentList.slice(0,shown).forEach((d,i)=>{const b=tlBand(d);if(!shownGroups.has(b))shownGroups.set(b,[]);shownGroups.get(b).push([d,i])});
+  [...shownGroups.keys()].sort((a,b)=>tlBandOrder(a)-tlBandOrder(b)).forEach(b=>{
+   const sec=document.createElement("div");sec.className="tlband";
+   const h=document.createElement("h2");const n=fullCounts.get(b);
+   h.innerHTML=b+' <span class="n">'+n+' '+(n===1?"item":"items")+'</span>';sec.appendChild(h);
+   const gr=document.createElement("div");gr.className="grid";
+   shownGroups.get(b).forEach(([d,i])=>gr.appendChild(cardEl(d,i)));
+   sec.appendChild(gr);tm.appendChild(sec);
+  });
+  renderedShown=page.length;pendingAppend=false;
+  return;
+ }
+ g.style.display="grid";rg.style.display="none";$("#tlm").style.display="none";
  /* "Show more" appends only the new slice instead of rebuilding every card
     already on screen; any other state change falls back to a full rebuild. */
  const canAppend=pendingAppend&&sameSig&&g.children.length===renderedShown&&renderedShown<page.length;
