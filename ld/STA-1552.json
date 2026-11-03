@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1552.json",
+ "name": "Statue of boy and the swan. Druid Hill Park (NYPL b11707491-G90F214 047F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1551.jpg",
+ "identifier": "STA-1552",
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Druid Hill Park, Baltimore, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Statue_of_boy_and_the_swan._Druid_Hill_Park_(NYPL_b11707491-G90F214_047F).tiff"
+}

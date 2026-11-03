@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1562.json",
+ "name": "Bird's-eye view of Richmond - Libby Hill",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1561.jpg",
+ "identifier": "STA-1562",
+ "dateCreated": "1863",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Richmond, Virginia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bird%27s-eye_view_of_Richmond_-_Libby_Hill,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

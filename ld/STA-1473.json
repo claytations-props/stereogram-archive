@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1473.json",
+ "name": "Stereoscopic views of cemeteries in Savannah, Georgia",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1472.jpg",
+ "identifier": "STA-1473",
+ "dateCreated": "1866",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Savannah, Georgia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Stereoscopic_views_of_cemeteries_in_Savannah,_Georgia,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

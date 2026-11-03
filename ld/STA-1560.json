@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1560.json",
+ "name": "Edmond's Well. Druid Hill Park, Baltimore, by Chase, W. M. (William M.), 1818 - 9-1905 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1559.jpg",
+ "identifier": "STA-1560",
+ "creator": {
+  "@type": "Person",
+  "name": "Chase, W. M. (William M.), 1818 - 9-1905 2"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Druid Hill Park, Baltimore, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Edmond%27s_Well._Druid_Hill_Park,_Baltimore,_by_Chase,_W._M._(William_M.),_1818_-_9-1905_2.jpg"
+}

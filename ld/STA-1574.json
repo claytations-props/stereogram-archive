@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1574.json",
+ "name": "Crawford's statue of Washington, Capitol Square, Richmond, Va",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1573.jpg",
+ "identifier": "STA-1574",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Richmond, Virginia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Crawford%27s_statue_of_Washington,_Capitol_Square,_Richmond,_Va,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

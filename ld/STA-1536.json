@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1536.json",
+ "name": "Druid Hill Park, by E. & H.T. Anthony (Firm)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1535.jpg",
+ "identifier": "STA-1536",
+ "creator": {
+  "@type": "Person",
+  "name": "E. & H.T. Anthony (Firm)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Druid Hill Park, Baltimore, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Druid_Hill_Park,_by_E._%26_H.T._Anthony_(Firm).jpg"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1513.json",
+ "name": "Treasury St., the narrowest street in St. Augustine",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1512.jpg",
+ "identifier": "STA-1513",
+ "dateCreated": "1868",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "St. Augustine, Florida"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Treasury_St.,_the_narrowest_street_in_St._Augustine,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

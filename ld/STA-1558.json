@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1558.json",
+ "name": "Skating Lake. Druid Hill Park, by Chase, W. M. (William M.), 1818 - 9-1905 4",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1557.jpg",
+ "identifier": "STA-1558",
+ "creator": {
+  "@type": "Person",
+  "name": "Chase, W. M. (William M.), 1818 - 9-1905 4"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Druid Hill Park, Baltimore, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Skating_Lake._Druid_Hill_Park,_by_Chase,_W._M._(William_M.),_1818_-_9-1905_4.jpg"
+}

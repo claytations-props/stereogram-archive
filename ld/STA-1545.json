@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1545.json",
+ "name": "Skating Lake and Cottage. Druid Hill Park, by Thorne, G. W. (George W.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1544.jpg",
+ "identifier": "STA-1545",
+ "creator": {
+  "@type": "Person",
+  "name": "Thorne, G. W. (George W.)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Druid Hill Park, Baltimore, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Skating_Lake_and_Cottage._Druid_Hill_Park,_by_Thorne,_G._W._(George_W.).jpg"
+}

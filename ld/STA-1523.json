@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1523.json",
+ "name": "Garrett Bridge, Druid Hill Park",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1522.jpg",
+ "identifier": "STA-1523",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Druid Hill Park, Baltimore, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Garrett_Bridge,_Druid_Hill_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1517.json",
+ "name": "Sunshine and shadow, King Street, St. Augustine, Fla",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1516.jpg",
+ "identifier": "STA-1517",
+ "dateCreated": "1868",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "St. Augustine, Florida"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sunshine_and_shadow,_King_Street,_St._Augustine,_Fla,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

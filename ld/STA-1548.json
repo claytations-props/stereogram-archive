@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1548.json",
+ "name": "Garrett Bridge, Druid Hill Park (NYPL b11707491-G90F214 043F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1547.jpg",
+ "identifier": "STA-1548",
+ "dateCreated": "1875",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Druid Hill Park, Baltimore, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Garrett_Bridge,_Druid_Hill_Park_(NYPL_b11707491-G90F214_043F).tiff"
+}

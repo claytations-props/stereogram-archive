@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1495.json",
+ "name": "Liberty Street, Savannah, Ga",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1494.jpg",
+ "identifier": "STA-1495",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Savannah, Georgia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Liberty_Street,_Savannah,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1544.json",
+ "name": "Woman at the Fountain. Druid Hill Park, by Richard Walzl",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1543.jpg",
+ "identifier": "STA-1544",
+ "creator": {
+  "@type": "Person",
+  "name": "Richard Walzl"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Druid Hill Park, Baltimore, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Woman_at_the_Fountain._Druid_Hill_Park,_by_Richard_Walzl.jpg"
+}

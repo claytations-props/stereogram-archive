@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>1472</quantity>
+    <quantity>1575</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -2002,6 +2002,126 @@
       <unittitle>Sleepy Hollow, by J. Loeffler</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1454.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1521">
+     <did>
+      <unitid>STA-1521</unitid>
+      <unittitle>The Lake. Druid Hill Park</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1520.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1522">
+     <did>
+      <unitid>STA-1522</unitid>
+      <unittitle>Spring Lake, Druid Hill Park</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1521.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1533">
+     <did>
+      <unitid>STA-1533</unitid>
+      <unittitle>Boat Landing, Druid Hill Park, Baltimore, Md</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1532.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1534">
+     <did>
+      <unitid>STA-1534</unitid>
+      <unittitle>The Lake. Druid Hill Park, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1533.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1536">
+     <did>
+      <unitid>STA-1536</unitid>
+      <unittitle>Druid Hill Park, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1535.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1538">
+     <did>
+      <unitid>STA-1538</unitid>
+      <unittitle>Lake Promenade.. Druid Hill Park, by J.W. &amp; J.S. Moulton</unittitle>
+      <unitdate normal="1873/1881">1873–1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1537.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1543">
+     <did>
+      <unitid>STA-1543</unitid>
+      <unittitle>Boat Landing, Druid Hill Park, Baltimore, Md, by J.W. &amp; J.S. Moulton</unittitle>
+      <unitdate normal="1873/1881">1873–1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1542.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1545">
+     <did>
+      <unitid>STA-1545</unitid>
+      <unittitle>Skating Lake and Cottage. Druid Hill Park, by Thorne, G. W. (George W.)</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1544.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1547">
+     <did>
+      <unitid>STA-1547</unitid>
+      <unittitle>Druid Hill Park, Baltimore, by Chase, W. M. (William M.), 1818 - 9-1905 3</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1546.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1554">
+     <did>
+      <unitid>STA-1554</unitid>
+      <unittitle>The Picturesque of Druid Hill Park, Baltimore, by Chase, W. M. (William M.), 1818 - 9-1905</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1553.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1555">
+     <did>
+      <unitid>STA-1555</unitid>
+      <unittitle>Druid Hill Park, Baltimore, by Chase, W. M. (William M.), 1818 - 9-1905 4</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1554.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1558">
+     <did>
+      <unitid>STA-1558</unitid>
+      <unittitle>Skating Lake. Druid Hill Park, by Chase, W. M. (William M.), 1818 - 9-1905 4</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1557.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1561">
+     <did>
+      <unitid>STA-1561</unitid>
+      <unittitle>Skating Lake. Druid Hill Park, by Chase, W. M. (William M.), 1818 - 9-1905</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1560.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1564">
+     <did>
+      <unitid>STA-1564</unitid>
+      <unittitle>Richmond from Manchester</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1563.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1568">
+     <did>
+      <unitid>STA-1568</unitid>
+      <unittitle>Richmond from Manchester, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1567.jpg"/>
      </did>
     </c>
    </c>
@@ -7894,6 +8014,590 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1471.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-1474">
+     <did>
+      <unitid>STA-1474</unitid>
+      <unittitle>Bird's eye view of Savannah</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1473.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1475">
+     <did>
+      <unitid>STA-1475</unitid>
+      <unittitle>Bird's eye view of Savannah, Ga</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1474.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1476">
+     <did>
+      <unitid>STA-1476</unitid>
+      <unittitle>Savannah Market</unittitle>
+      <unitdate normal="1856/1908">1856–1908</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1475.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1477">
+     <did>
+      <unitid>STA-1477</unitid>
+      <unittitle>Moss Avenue, Bonaventure, Savannah, Ga</unittitle>
+      <unitdate normal="1860/1890">1860–1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1476.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1478">
+     <did>
+      <unitid>STA-1478</unitid>
+      <unittitle>Savannah Market, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1856/1908">1856–1908</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1477.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1480">
+     <did>
+      <unitid>STA-1480</unitid>
+      <unittitle>Panorama of Savannah, Georgia</unittitle>
+      <unitdate normal="1863/1873">c. 1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1479.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1481">
+     <did>
+      <unitid>STA-1481</unitid>
+      <unittitle>Madison Square, Savannah, Ga</unittitle>
+      <unitdate normal="1856/1908">1856–1908</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1480.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1482">
+     <did>
+      <unitid>STA-1482</unitid>
+      <unittitle>Bull Street, Savannah, Ga, from Robert N. Dennis collection of stereoscopic views 6</unittitle>
+      <unitdate normal="1860/1870">1860–1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1481.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1485">
+     <did>
+      <unitid>STA-1485</unitid>
+      <unittitle>The Exchange, Savannah, Georgia</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1484.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1486">
+     <did>
+      <unitid>STA-1486</unitid>
+      <unittitle>Pulaski Monument, Savannah, Ga</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1485.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1487">
+     <did>
+      <unitid>STA-1487</unitid>
+      <unittitle>Panorama of Savannah, Ga</unittitle>
+      <unitdate normal="1863/1873">c. 1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1486.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1488">
+     <did>
+      <unitid>STA-1488</unitid>
+      <unittitle>Forsyth Park, Savannah, Ga</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1487.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1492">
+     <did>
+      <unitid>STA-1492</unitid>
+      <unittitle>Savannah Market, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1856/1908">1856–1908</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1491.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1493">
+     <did>
+      <unitid>STA-1493</unitid>
+      <unittitle>Bull Street, Savannah, Ga</unittitle>
+      <unitdate normal="1855/1870">1855–1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1492.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1494">
+     <did>
+      <unitid>STA-1494</unitid>
+      <unittitle>Chippewa Square, Savannah, Ga</unittitle>
+      <unitdate normal="1856/1908">1856–1908</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1493.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1495">
+     <did>
+      <unitid>STA-1495</unitid>
+      <unittitle>Liberty Street, Savannah, Ga</unittitle>
+      <unitdate normal="1856/1908">1856–1908</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1494.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1496">
+     <did>
+      <unitid>STA-1496</unitid>
+      <unittitle>Fountain in Park, Savannah, Ga</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1495.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1498">
+     <did>
+      <unitid>STA-1498</unitid>
+      <unittitle>Fountain in Forsyth Park, Savannah, Georgia</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1497.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1499">
+     <did>
+      <unitid>STA-1499</unitid>
+      <unittitle>Savannah Market, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1856/1908">1856–1908</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1498.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1502">
+     <did>
+      <unitid>STA-1502</unitid>
+      <unittitle>Fountain in Park, Savannah, Ga, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1501.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1503">
+     <did>
+      <unitid>STA-1503</unitid>
+      <unittitle>A General view of St. Augustine</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1502.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1504">
+     <did>
+      <unitid>STA-1504</unitid>
+      <unittitle>Charlotte St., St. Augustine</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1503.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1505">
+     <did>
+      <unitid>STA-1505</unitid>
+      <unittitle>Treasury St., St. Augustine, Fla</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1504.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1507">
+     <did>
+      <unitid>STA-1507</unitid>
+      <unittitle>Charlotte St., St. Augustine, Florida</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1506.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1508">
+     <did>
+      <unitid>STA-1508</unitid>
+      <unittitle>St. George St., St. Augustine, Florida, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1507.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1509">
+     <did>
+      <unitid>STA-1509</unitid>
+      <unittitle>View of the city of St. Augustine</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1508.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1510">
+     <did>
+      <unitid>STA-1510</unitid>
+      <unittitle>Treasury St., Seven feet wide. St. Augustine, Fla</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1509.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1511">
+     <did>
+      <unitid>STA-1511</unitid>
+      <unittitle>The oldest house, and date palm, St. Francis St., St. Augustine</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1510.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1512">
+     <did>
+      <unitid>STA-1512</unitid>
+      <unittitle>Treasury St., St. Augustine, Fla, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1511.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1513">
+     <did>
+      <unitid>STA-1513</unitid>
+      <unittitle>Treasury St., the narrowest street in St. Augustine</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1512.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1514">
+     <did>
+      <unitid>STA-1514</unitid>
+      <unittitle>Treasury St., St. Augustine, Fla, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1513.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1515">
+     <did>
+      <unitid>STA-1515</unitid>
+      <unittitle>Post Office, St. George St., St. Augustine, Fla</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1514.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1516">
+     <did>
+      <unitid>STA-1516</unitid>
+      <unittitle>The Lightning Express of St. Augustine, Florida</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1515.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1517">
+     <did>
+      <unitid>STA-1517</unitid>
+      <unittitle>Sunshine and shadow, King Street, St. Augustine, Fla</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1516.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1518">
+     <did>
+      <unitid>STA-1518</unitid>
+      <unittitle>Sunshine and shadow, King Street, St. Augustine, Fla, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1517.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1519">
+     <did>
+      <unitid>STA-1519</unitid>
+      <unittitle>Druid Hill Park, Baltimore</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1518.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1520">
+     <did>
+      <unitid>STA-1520</unitid>
+      <unittitle>View of the Fountain. Druid Hill Park</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1519.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1523">
+     <did>
+      <unitid>STA-1523</unitid>
+      <unittitle>Garrett Bridge, Druid Hill Park</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1522.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1524">
+     <did>
+      <unitid>STA-1524</unitid>
+      <unittitle>Grand Promenade. Druid Hill Park</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1523.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1525">
+     <did>
+      <unitid>STA-1525</unitid>
+      <unittitle>Druid Hill Park, Baltimore, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1524.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1526">
+     <did>
+      <unitid>STA-1526</unitid>
+      <unittitle>Statue of Harvest. Druid Hill Park</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1525.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1527">
+     <did>
+      <unitid>STA-1527</unitid>
+      <unittitle>Distant view of the Mansion. Druid Hill Park, Baltimore, Md</unittitle>
+      <unitdate normal="1855/1865">c. 1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1526.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1528">
+     <did>
+      <unitid>STA-1528</unitid>
+      <unittitle>Boat House. Druid Hill Park, Baltimore</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1527.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1529">
+     <did>
+      <unitid>STA-1529</unitid>
+      <unittitle>Music Stand. Druid Hill Park</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1528.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1530">
+     <did>
+      <unitid>STA-1530</unitid>
+      <unittitle>The Music Stand. Druid Hill Park</unittitle>
+      <unitdate normal="1887">1887</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1529.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1531">
+     <did>
+      <unitid>STA-1531</unitid>
+      <unittitle>Music Pavillion, Druid Hill Park</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1530.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1532">
+     <did>
+      <unitid>STA-1532</unitid>
+      <unittitle>Druid Hill Park, Baltimore, Md</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1531.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1535">
+     <did>
+      <unitid>STA-1535</unitid>
+      <unittitle>Drinking Fountain, Silver Spring, Druid Hill Park</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1534.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1537">
+     <did>
+      <unitid>STA-1537</unitid>
+      <unittitle>Mansion House, south view. Druid Hill Park, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1536.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1539">
+     <did>
+      <unitid>STA-1539</unitid>
+      <unittitle>Water Fountain. Druid Hill Park, by Richard Walzl</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1538.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1540">
+     <did>
+      <unitid>STA-1540</unitid>
+      <unittitle>Statue of boy and the swan. Druid Hill Park, by Richard Walzl</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1539.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1541">
+     <did>
+      <unitid>STA-1541</unitid>
+      <unittitle>Mansion House and Fountain. Druid Hill Park, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1540.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1542">
+     <did>
+      <unitid>STA-1542</unitid>
+      <unittitle>View looking towards Mansion House, from Dummy Station. Druid Hill Park, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1541.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1546">
+     <did>
+      <unitid>STA-1546</unitid>
+      <unittitle>View of rustic benches. Druid Hill Park, by Chase, W. M. (William M.), 1818 - 9-1905</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1545.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1548">
+     <did>
+      <unitid>STA-1548</unitid>
+      <unittitle>Garrett Bridge, Druid Hill Park (NYPL b11707491-G90F214 043F)</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1547.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1549">
+     <did>
+      <unitid>STA-1549</unitid>
+      <unittitle>Druid Hill Park, Baltimore, by Chase, W. M. (William M.), 1818 - 9-1905 2</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1548.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1550">
+     <did>
+      <unitid>STA-1550</unitid>
+      <unittitle>Druid Hill Park, Baltimore, by Chase, W. M. (William M.), 1818 - 9-1905</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1549.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1551">
+     <did>
+      <unitid>STA-1551</unitid>
+      <unittitle>Druid Hill Park, Baltimore (NYPL b11707491-G90F214 008F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1550.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1552">
+     <did>
+      <unitid>STA-1552</unitid>
+      <unittitle>Statue of boy and the swan. Druid Hill Park (NYPL b11707491-G90F214 047F)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1551.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1553">
+     <did>
+      <unitid>STA-1553</unitid>
+      <unittitle>Statue of boy and the swan. Druid Hill Park, by Richard Walzl 2</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1552.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1556">
+     <did>
+      <unitid>STA-1556</unitid>
+      <unittitle>Druid Hill Park, Baltimore (NYPL b11707491-G90F214 012F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1555.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1557">
+     <did>
+      <unitid>STA-1557</unitid>
+      <unittitle>Entrance Gateway to Druid Hill Park, by Chase, W. M. (William M.), 1818 - 9-1905</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1556.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1559">
+     <did>
+      <unitid>STA-1559</unitid>
+      <unittitle>Statue of boy and the swan. Druid Hill Park (NYPL b11707491-G90F214 046F)</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1558.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1560">
+     <did>
+      <unitid>STA-1560</unitid>
+      <unittitle>Edmond's Well. Druid Hill Park, Baltimore, by Chase, W. M. (William M.), 1818 - 9-1905 2</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1559.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1562">
+     <did>
+      <unitid>STA-1562</unitid>
+      <unittitle>Bird's-eye view of Richmond - Libby Hill</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1561.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1565">
+     <did>
+      <unitid>STA-1565</unitid>
+      <unittitle>Washington's monument at Richmond, Va</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1564.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1566">
+     <did>
+      <unitid>STA-1566</unitid>
+      <unittitle>Washington monument at Richmond Va</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1565.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1567">
+     <did>
+      <unitid>STA-1567</unitid>
+      <unittitle>Statue of Henry Clay, Richmond, Va</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1566.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1569">
+     <did>
+      <unitid>STA-1569</unitid>
+      <unittitle>The Capitol, Richmond, Va</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1568.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1571">
+     <did>
+      <unitid>STA-1571</unitid>
+      <unittitle>The Washington monument, Richmond, Oct. 26th, 1868</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1570.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1572">
+     <did>
+      <unitid>STA-1572</unitid>
+      <unittitle>Richmond from Gambles Hill</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1571.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1573">
+     <did>
+      <unitid>STA-1573</unitid>
+      <unittitle>Washington monument and City Hall, Richmond, Va</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1572.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1574">
+     <did>
+      <unitid>STA-1574</unitid>
+      <unittitle>Crawford's statue of Washington, Capitol Square, Richmond, Va</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1573.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -8265,6 +8969,38 @@
       <unittitle>Fort Sumpter (Sumter), Charleston Harbor</unittitle>
       <unitdate normal="1861">1861</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1395.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1506">
+     <did>
+      <unitid>STA-1506</unitid>
+      <unittitle>Fort, Inside view. St. Augustine</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1505.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1563">
+     <did>
+      <unitid>STA-1563</unitid>
+      <unittitle>Ruins in Richmond, Va</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1562.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1570">
+     <did>
+      <unitid>STA-1570</unitid>
+      <unittitle>Libby Prison, Richmond, Va</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1569.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1575">
+     <did>
+      <unitid>STA-1575</unitid>
+      <unittitle>Ruins of Arsenal, Richmond</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1574.jpg"/>
      </did>
     </c>
    </c>
@@ -9371,6 +10107,14 @@
       <unittitle>View of Rusticating in Sleepy Hollow, by A. C. McIntyre</unittitle>
       <unitdate normal="1870">1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1453.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1544">
+     <did>
+      <unitid>STA-1544</unitid>
+      <unittitle>Woman at the Fountain. Druid Hill Park, by Richard Walzl</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1543.jpg"/>
      </did>
     </c>
    </c>
@@ -11832,6 +12576,86 @@
       <unittitle>Sleepy Hollow, by J. Loeffler 2</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1455.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1473">
+     <did>
+      <unitid>STA-1473</unitid>
+      <unittitle>Stereoscopic views of cemeteries in Savannah, Georgia</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1472.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1479">
+     <did>
+      <unitid>STA-1479</unitid>
+      <unittitle>Bonaventure, Savannah, Ga</unittitle>
+      <unitdate normal="1855/1870">1855–1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1478.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1483">
+     <did>
+      <unitid>STA-1483</unitid>
+      <unittitle>Bonaventure Cemetery, Savannah</unittitle>
+      <unitdate normal="1856/1908">1856–1908</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1482.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1484">
+     <did>
+      <unitid>STA-1484</unitid>
+      <unittitle>Bonaventure Cemetery, Savannah, Ga</unittitle>
+      <unitdate normal="1855/1870">1855–1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1483.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1489">
+     <did>
+      <unitid>STA-1489</unitid>
+      <unittitle>Moss Ave, Bonaventure, Savannah, Ga</unittitle>
+      <unitdate normal="1860/1890">1860–1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1488.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1490">
+     <did>
+      <unitid>STA-1490</unitid>
+      <unittitle>Bonaventure Cemetery, Savannah, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1856/1908">1856–1908</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1489.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1491">
+     <did>
+      <unitid>STA-1491</unitid>
+      <unittitle>Bonaventure, Savannah, Ga, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1855/1870">1855–1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1490.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1497">
+     <did>
+      <unitid>STA-1497</unitid>
+      <unittitle>Laurel Grove Cemetery, Savannah, Ga</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1496.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1500">
+     <did>
+      <unitid>STA-1500</unitid>
+      <unittitle>Bonaventure Cemetery, Savannah, Georgia</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1499.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1501">
+     <did>
+      <unitid>STA-1501</unitid>
+      <unittitle>Bonaventure Cemetery near Savannah</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1500.jpg"/>
      </did>
     </c>
    </c>

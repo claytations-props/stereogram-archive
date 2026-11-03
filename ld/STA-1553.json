@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1553.json",
+ "name": "Statue of boy and the swan. Druid Hill Park, by Richard Walzl 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1552.jpg",
+ "identifier": "STA-1553",
+ "creator": {
+  "@type": "Person",
+  "name": "Richard Walzl"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Druid Hill Park, Baltimore, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Statue_of_boy_and_the_swan._Druid_Hill_Park,_by_Richard_Walzl_2.jpg"
+}

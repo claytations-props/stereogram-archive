@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1556.json",
+ "name": "Druid Hill Park, Baltimore (NYPL b11707491-G90F214 012F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1555.jpg",
+ "identifier": "STA-1556",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Druid Hill Park, Baltimore, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Druid_Hill_Park,_Baltimore_(NYPL_b11707491-G90F214_012F).tiff"
+}

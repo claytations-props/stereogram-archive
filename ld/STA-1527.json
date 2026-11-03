@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1527.json",
+ "name": "Distant view of the Mansion. Druid Hill Park, Baltimore, Md",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1526.jpg",
+ "identifier": "STA-1527",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Druid Hill Park, Baltimore, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Distant_view_of_the_Mansion._Druid_Hill_Park,_Baltimore,_Md,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}
