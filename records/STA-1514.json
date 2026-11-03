@@ -5,7 +5,7 @@
  "sy": 1868,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Treasury_St.%2C_St._Augustine%2C_Fla%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Treasury_St.%2C_St._Augustine%2C_Fla%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -47,14 +47,14 @@
    1.0
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.07° of rotation. Depth measured deep (2.41% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.07\u00b0 of rotation. Depth measured deep (2.41% of frame width); hung in the VR Parlor at full size.",
  "repository": "New York Public Library",
  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
  "publisher": null,
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1868",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7268513,
  "source_revision_id": null,
- "source_sha1": "a4196ee88c248bc46eedc61286d22f4cc22f1aee"
+ "source_sha1": "a4196ee88c248bc46eedc61286d22f4cc22f1aee",
+ "tags": [
+  "main street",
+  "house"
+ ]
 }

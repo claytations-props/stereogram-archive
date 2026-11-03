@@ -5,7 +5,7 @@
  "sy": 1868,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/The_Lightning_Express_of_St._Augustine%2C_Florida%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Lightning_Express_of_St._Augustine%2C_Florida%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -47,14 +47,14 @@
    1.0
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.04° of rotation. Depth measured moderate (1.98% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.04\u00b0 of rotation. Depth measured moderate (1.98% of frame width); hung in the VR Parlor at full size.",
  "repository": "New York Public Library",
  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
  "publisher": null,
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1868",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 7267205,
  "source_revision_id": null,
- "source_sha1": "1555122b2324b34bf394b5c631abdf4e64e7daf3"
+ "source_sha1": "1555122b2324b34bf394b5c631abdf4e64e7daf3",
+ "tags": [
+  "horse",
+  "wagon",
+  "trees"
+ ]
 }

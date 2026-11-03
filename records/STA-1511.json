@@ -5,7 +5,7 @@
  "sy": 1868,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/The_oldest_house%2C_and_date_palm%2C_St._Francis_St.%2C_St._Augustine%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_oldest_house%2C_and_date_palm%2C_St._Francis_St.%2C_St._Augustine%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -47,14 +47,14 @@
    0.9608
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.08° of rotation. Depth measured gentle (1.01% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.08\u00b0 of rotation. Depth measured gentle (1.01% of frame width); hung in the VR Parlor at full size.",
  "repository": "New York Public Library",
  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
  "publisher": null,
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1868",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7268418,
  "source_revision_id": null,
- "source_sha1": "321a5622743bde62af3b27a6013b78c0af791216"
+ "source_sha1": "321a5622743bde62af3b27a6013b78c0af791216",
+ "tags": [
+  "house",
+  "palm tree"
+ ]
 }

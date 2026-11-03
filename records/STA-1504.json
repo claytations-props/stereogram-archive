@@ -5,7 +5,7 @@
  "sy": 1868,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Charlotte_St.%2C_St._Augustine%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Charlotte_St.%2C_St._Augustine%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -47,14 +47,14 @@
    1.0
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.0° of rotation. Depth measured gentle (1.01% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.0\u00b0 of rotation. Depth measured gentle (1.01% of frame width); hung in the VR Parlor at full size.",
  "repository": "New York Public Library",
  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
  "publisher": null,
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1868",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7268206,
  "source_revision_id": null,
- "source_sha1": "e23f44db11ca35885e4a970b41b3b088801a79fd"
+ "source_sha1": "e23f44db11ca35885e4a970b41b3b088801a79fd",
+ "tags": [
+  "main street",
+  "house"
+ ]
 }
