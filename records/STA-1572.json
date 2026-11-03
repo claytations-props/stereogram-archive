@@ -5,7 +5,7 @@
  "sy": 1863,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Richmond_from_Gambles_Hill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Richmond_from_Gambles_Hill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -47,14 +47,14 @@
    1.0
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured gentle (0.49% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01\u00b0 of rotation. Depth measured gentle (0.49% of frame width); hung in the VR Parlor at full size.",
  "repository": "New York Public Library",
  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
  "publisher": null,
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1863",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10236049,
  "source_revision_id": null,
- "source_sha1": "30f3554f5469d8979c2b4387a457537043b2e82a"
+ "source_sha1": "30f3554f5469d8979c2b4387a457537043b2e82a",
+ "tags": [
+  "house",
+  "trees"
+ ]
 }

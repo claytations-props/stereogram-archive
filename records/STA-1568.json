@@ -5,7 +5,7 @@
  "sy": 1863,
  "era": "early",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Richmond_from_Manchester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Richmond_from_Manchester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -47,14 +47,14 @@
    0.9602
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (0.29% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01\u00b0 of rotation. Depth measured gentle (0.29% of frame width); hung in the VR Parlor at full size.",
  "repository": "New York Public Library",
  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
  "publisher": null,
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1863",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10236381,
  "source_revision_id": null,
- "source_sha1": "7c22410f37d5b168f312c8c3e1bf96cdff78cb11"
+ "source_sha1": "7c22410f37d5b168f312c8c3e1bf96cdff78cb11",
+ "tags": [
+  "bridge",
+  "river"
+ ]
 }

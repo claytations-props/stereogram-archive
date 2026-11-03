@@ -115524,7 +115524,7 @@
   "sy": 1863,
   "era": "early",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Bird%27s-eye_view_of_Richmond_-_Libby_Hill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s-eye_view_of_Richmond_-_Libby_Hill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -115573,7 +115573,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1863",
@@ -115584,7 +115584,11 @@
   "license_url": null,
   "source_page_id": 10236114,
   "source_revision_id": null,
-  "source_sha1": "739ef90042b22422c40fe5fe89a92b3746a81ff0"
+  "source_sha1": "739ef90042b22422c40fe5fe89a92b3746a81ff0",
+  "tags": [
+   "house",
+   "trees"
+  ]
  },
  {
   "title": "Ruins in Richmond, Va",
@@ -115593,7 +115597,7 @@
   "sy": 1863,
   "era": "early",
   "cats": [
-   "oddities"
+   "war"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Ruins_in_Richmond%2C_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Ruins_in_Richmond%2C_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -115642,7 +115646,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "war"
   ],
   "publisher_series": null,
   "date_edtf": "1863",
@@ -115662,7 +115666,7 @@
   "sy": 1863,
   "era": "early",
   "cats": [
-   "oddities"
+   "water"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Richmond_from_Manchester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Richmond_from_Manchester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -115711,7 +115715,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "water"
   ],
   "publisher_series": null,
   "date_edtf": "1863",
@@ -115722,7 +115726,11 @@
   "license_url": null,
   "source_page_id": 10236061,
   "source_revision_id": null,
-  "source_sha1": "cd0082e4ff4c8f877eaddd91ddf2bac0a32ea293"
+  "source_sha1": "cd0082e4ff4c8f877eaddd91ddf2bac0a32ea293",
+  "tags": [
+   "bridge",
+   "river"
+  ]
  },
  {
   "title": "Washington's monument at Richmond, Va",
@@ -115731,7 +115739,7 @@
   "sy": 1863,
   "era": "early",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Washington%27s_monument_at_Richmond%2C_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Washington%27s_monument_at_Richmond%2C_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -115780,7 +115788,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1863",
@@ -115791,7 +115799,11 @@
   "license_url": null,
   "source_page_id": 10236541,
   "source_revision_id": null,
-  "source_sha1": "7bbe5de2d31326544c5cee3127405246371269b3"
+  "source_sha1": "7bbe5de2d31326544c5cee3127405246371269b3",
+  "tags": [
+   "statue",
+   "horse"
+  ]
  },
  {
   "title": "Washington monument at Richmond Va",
@@ -115800,7 +115812,7 @@
   "sy": 1863,
   "era": "early",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Washington_monument_at_Richmond_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Washington_monument_at_Richmond_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -115849,7 +115861,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1863",
@@ -115860,7 +115872,12 @@
   "license_url": null,
   "source_page_id": 10236537,
   "source_revision_id": null,
-  "source_sha1": "34391459978e7b75697c0b6a631ea5ded02d4c7a"
+  "source_sha1": "34391459978e7b75697c0b6a631ea5ded02d4c7a",
+  "tags": [
+   "statue",
+   "horse",
+   "trees"
+  ]
  },
  {
   "title": "Statue of Henry Clay, Richmond, Va",
@@ -115869,7 +115886,7 @@
   "sy": 1874,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Statue_of_Henry_Clay%2C_Richmond%2C_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Statue_of_Henry_Clay%2C_Richmond%2C_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -115918,7 +115935,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1874",
@@ -115929,7 +115946,11 @@
   "license_url": null,
   "source_page_id": 10236531,
   "source_revision_id": null,
-  "source_sha1": "3e6518ad1ac3f3eea15e197a7c8958789152e6e1"
+  "source_sha1": "3e6518ad1ac3f3eea15e197a7c8958789152e6e1",
+  "tags": [
+   "statue",
+   "gazebo"
+  ]
  },
  {
   "title": "Richmond from Manchester, from Robert N. Dennis collection of stereoscopic views 2",
@@ -115938,7 +115959,7 @@
   "sy": 1863,
   "era": "early",
   "cats": [
-   "oddities"
+   "water"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Richmond_from_Manchester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Richmond_from_Manchester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -115987,7 +116008,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "water"
   ],
   "publisher_series": null,
   "date_edtf": "1863",
@@ -115998,7 +116019,11 @@
   "license_url": null,
   "source_page_id": 10236381,
   "source_revision_id": null,
-  "source_sha1": "7c22410f37d5b168f312c8c3e1bf96cdff78cb11"
+  "source_sha1": "7c22410f37d5b168f312c8c3e1bf96cdff78cb11",
+  "tags": [
+   "bridge",
+   "river"
+  ]
  },
  {
   "title": "The Capitol, Richmond, Va",
@@ -116007,7 +116032,7 @@
   "sy": 1863,
   "era": "early",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/The_Capitol%2C_Richmond%2C_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Capitol%2C_Richmond%2C_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -116056,7 +116081,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1863",
@@ -116076,7 +116101,7 @@
   "sy": 1863,
   "era": "early",
   "cats": [
-   "oddities"
+   "war"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Libby_Prison%2C_Richmond%2C_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Libby_Prison%2C_Richmond%2C_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -116125,7 +116150,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "war"
   ],
   "publisher_series": null,
   "date_edtf": "1863",
@@ -116136,7 +116161,12 @@
   "license_url": null,
   "source_page_id": 10236405,
   "source_revision_id": null,
-  "source_sha1": "c89d7cb94a7f0c29df733c058039f32a78e9788b"
+  "source_sha1": "c89d7cb94a7f0c29df733c058039f32a78e9788b",
+  "tags": [
+   "prison",
+   "horse",
+   "wagon"
+  ]
  },
  {
   "title": "The Washington monument, Richmond, Oct. 26th, 1868",
@@ -116145,7 +116175,7 @@
   "sy": 1868,
   "era": "early",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Washington_monument%2C_Richmond%2C_Oct._26th%2C_1868%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Washington_monument%2C_Richmond%2C_Oct._26th%2C_1868%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -116194,7 +116224,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1868",
@@ -116205,7 +116235,12 @@
   "license_url": null,
   "source_page_id": 10236667,
   "source_revision_id": null,
-  "source_sha1": "56c2a3e4c19ff359a1f64228a87edbe463e86328"
+  "source_sha1": "56c2a3e4c19ff359a1f64228a87edbe463e86328",
+  "tags": [
+   "statue",
+   "horse",
+   "trees"
+  ]
  },
  {
   "title": "Richmond from Gambles Hill",
@@ -116214,7 +116249,7 @@
   "sy": 1863,
   "era": "early",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Richmond_from_Gambles_Hill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Richmond_from_Gambles_Hill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -116263,7 +116298,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1863",
@@ -116274,7 +116309,11 @@
   "license_url": null,
   "source_page_id": 10236049,
   "source_revision_id": null,
-  "source_sha1": "30f3554f5469d8979c2b4387a457537043b2e82a"
+  "source_sha1": "30f3554f5469d8979c2b4387a457537043b2e82a",
+  "tags": [
+   "house",
+   "trees"
+  ]
  },
  {
   "title": "Washington monument and City Hall, Richmond, Va",
@@ -116343,7 +116382,12 @@
   "license_url": null,
   "source_page_id": 10236711,
   "source_revision_id": null,
-  "source_sha1": "6b07469127856ec197630ba4e7117465c27e238c"
+  "source_sha1": "6b07469127856ec197630ba4e7117465c27e238c",
+  "tags": [
+   "statue",
+   "horse",
+   "church"
+  ]
  },
  {
   "title": "Crawford's statue of Washington, Capitol Square, Richmond, Va",
@@ -116352,7 +116396,7 @@
   "sy": 1860,
   "era": "early",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Crawford%27s_statue_of_Washington%2C_Capitol_Square%2C_Richmond%2C_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Crawford%27s_statue_of_Washington%2C_Capitol_Square%2C_Richmond%2C_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -116401,7 +116445,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1860",
@@ -116412,7 +116456,11 @@
   "license_url": null,
   "source_page_id": 10236597,
   "source_revision_id": null,
-  "source_sha1": "d8bf0b2aaa6f63c1dda55a20d61b82cfe18565a5"
+  "source_sha1": "d8bf0b2aaa6f63c1dda55a20d61b82cfe18565a5",
+  "tags": [
+   "statue",
+   "horse"
+  ]
  },
  {
   "title": "Ruins of Arsenal, Richmond",
@@ -116421,7 +116469,7 @@
   "sy": 1863,
   "era": "early",
   "cats": [
-   "oddities"
+   "war"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Ruins_of_Arsenal%2C_Richmond%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Ruins_of_Arsenal%2C_Richmond%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -116470,7 +116518,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "war"
   ],
   "publisher_series": null,
   "date_edtf": "1863",

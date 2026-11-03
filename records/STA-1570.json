@@ -5,7 +5,7 @@
  "sy": 1863,
  "era": "early",
  "cats": [
-  "oddities"
+  "war"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Libby_Prison%2C_Richmond%2C_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Libby_Prison%2C_Richmond%2C_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -47,14 +47,14 @@
    0.8989
   ]
  },
- "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (1.24% of frame width); hung in the VR Parlor at full size.",
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0\u00b0 of rotation. Depth measured gentle (1.24% of frame width); hung in the VR Parlor at full size.",
  "repository": "New York Public Library",
  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
  "publisher": null,
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "war"
  ],
  "publisher_series": null,
  "date_edtf": "1863",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10236405,
  "source_revision_id": null,
- "source_sha1": "c89d7cb94a7f0c29df733c058039f32a78e9788b"
+ "source_sha1": "c89d7cb94a7f0c29df733c058039f32a78e9788b",
+ "tags": [
+  "prison",
+  "horse",
+  "wagon"
+ ]
 }
