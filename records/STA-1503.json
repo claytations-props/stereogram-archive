@@ -1,0 +1,69 @@
+{
+ "title": "A General view of St. Augustine",
+ "place": "St. Augustine, Florida",
+ "year": "1868",
+ "sy": 1868,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/A_General_view_of_St._Augustine%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-A_General_view_of_St._Augustine%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/4c/A_General_view_of_St._Augustine%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:A_General_view_of_St._Augustine,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1406,
+ "id": "STA-1503",
+ "rect": "rect/1502.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.0,
+ "range": 0.58,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.1405,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/A_General_view_of_St._Augustine%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-A_General_view_of_St._Augustine%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.1405,
+  "L": [
+   0.393229,
+   0.0,
+   0.098698,
+   0.0,
+   0.6714,
+   0.266227
+  ],
+  "R": [
+   0.393647,
+   -0.001978,
+   0.506798,
+   -0.004079,
+   0.673499,
+   0.267278
+  ],
+  "g": [
+   1.0,
+   0.9817
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (0.58% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1868",
+ "date_start": 1868,
+ "date_end": 1868,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7265832,
+ "source_revision_id": null,
+ "source_sha1": "ca9b5aaac7b576cf7a406caafb31d326a125bcce"
+}
