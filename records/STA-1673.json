@@ -1,0 +1,71 @@
+{
+ "title": "View down the river from Depot",
+ "place": "Place unrecorded",
+ "year": "1869",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "water",
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/View_down_the_river_from_Depot%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_down_the_river_from_Depot%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/ac/View_down_the_river_from_Depot%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_down_the_river_from_Depot,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1398,
+ "id": "STA-1673",
+ "rect": "rect/1672.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.14,
+ "rot": 0.02,
+ "range": 2.22,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.8663,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/View_down_the_river_from_Depot%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_down_the_river_from_Depot%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8663,
+  "L": [
+   0.364583,
+   0.0,
+   0.097656,
+   0.0,
+   0.823649,
+   0.123853
+  ],
+  "R": [
+   0.361389,
+   -0.001686,
+   0.542244,
+   -0.003976,
+   0.817405,
+   0.13528
+  ],
+  "g": [
+   0.9873,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.02° of rotation. Depth measured deep (2.22% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869",
+ "date_start": 1869,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7171851,
+ "source_revision_id": null,
+ "source_sha1": "cf65427fc58122db386a7603a4915de5533669bc"
+}
