@@ -1,0 +1,69 @@
+{
+ "title": "In front of the chapel, showing the library in the background",
+ "place": "Annapolis, Maryland",
+ "year": "1868",
+ "sy": 1868,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/8/84/In_front_of_the_chapel%2C_showing_the_library_in_the_background%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/84/In_front_of_the_chapel%2C_showing_the_library_in_the_background%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:In_front_of_the_chapel,_showing_the_library_in_the_background,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 391,
+ "id": "STA-1637",
+ "rect": "rect/1636.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.23,
+ "rot": 0.07,
+ "range": 1.6,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.908,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/8/84/In_front_of_the_chapel%2C_showing_the_library_in_the_background%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.908,
+  "L": [
+   0.389474,
+   0.0,
+   0.100658,
+   0.0,
+   0.83376,
+   0.049872
+  ],
+  "R": [
+   0.390333,
+   0.004267,
+   0.527307,
+   -0.006285,
+   0.831278,
+   0.050567
+  ],
+  "g": [
+   0.925,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.23% vertical error and 0.07° of rotation. Depth measured moderate (1.6% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1868",
+ "date_start": 1868,
+ "date_end": 1868,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7433552,
+ "source_revision_id": null,
+ "source_sha1": "9cef3a8d489b70914e14ca56bc81d9849c6c4857"
+}

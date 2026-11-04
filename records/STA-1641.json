@@ -1,0 +1,69 @@
+{
+ "title": "Street view of Annapolis (NYPL b11707486-G90F209 020F)",
+ "place": "Annapolis, Maryland",
+ "year": "1880",
+ "sy": 1880,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Street_view_of_Annapolis_%28NYPL_b11707486-G90F209_020F%29.tiff/lossy-page1-1920px-Street_view_of_Annapolis_%28NYPL_b11707486-G90F209_020F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Street_view_of_Annapolis_%28NYPL_b11707486-G90F209_020F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Street_view_of_Annapolis_(NYPL_b11707486-G90F209_020F).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 1680,
+ "id": "STA-1641",
+ "rect": "rect/1640.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.1,
+ "rot": 0.04,
+ "range": 0.87,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.2234,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Street_view_of_Annapolis_%28NYPL_b11707486-G90F209_020F%29.tiff/lossy-page1-1920px-Street_view_of_Annapolis_%28NYPL_b11707486-G90F209_020F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.2234,
+  "L": [
+   0.347917,
+   0.0,
+   0.139844,
+   0.0,
+   0.52,
+   0.41381
+  ],
+  "R": [
+   0.345744,
+   -0.015455,
+   0.519975,
+   -0.003047,
+   0.515002,
+   0.409773
+  ],
+  "g": [
+   0.9719,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.04° of rotation. Depth measured gentle (0.87% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1880",
+ "date_start": 1880,
+ "date_end": 1880,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 49472315,
+ "source_revision_id": null,
+ "source_sha1": "1499b06b85649c7958a9eceaec5b2ef541c6bbc9"
+}

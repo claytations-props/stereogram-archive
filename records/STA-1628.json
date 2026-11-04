@@ -1,0 +1,69 @@
+{
+ "title": "Stereoscopic views of Annapolis, Maryland, and the Chesapeake Bay",
+ "place": "Annapolis, Maryland",
+ "year": "1868",
+ "sy": 1868,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Stereoscopic_views_of_Annapolis%2C_Maryland%2C_and_the_Chesapeake_Bay%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Stereoscopic_views_of_Annapolis%2C_Maryland%2C_and_the_Chesapeake_Bay%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Stereoscopic_views_of_Annapolis,_Maryland,_and_the_Chesapeake_Bay,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 397,
+ "id": "STA-1628",
+ "rect": "rect/1627.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.13,
+ "rot": 0.04,
+ "range": 8.4,
+ "f": 0.79,
+ "depth": "Deep",
+ "va": 0.4644,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Stereoscopic_views_of_Annapolis%2C_Maryland%2C_and_the_Chesapeake_Bay%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.4644,
+  "L": [
+   0.214474,
+   0.0,
+   0.184868,
+   0.0,
+   0.884131,
+   0.051637
+  ],
+  "R": [
+   0.211718,
+   0.005515,
+   0.587988,
+   -0.003809,
+   0.885835,
+   0.065593
+  ],
+  "g": [
+   0.9999,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.04° of rotation. Depth measured deep (8.4% of frame width); hung in the VR Parlor at 79% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1868",
+ "date_start": 1868,
+ "date_end": 1868,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7433566,
+ "source_revision_id": null,
+ "source_sha1": "7cd481c42cf125366f54ed70d1cce9bda6bbc81c"
+}

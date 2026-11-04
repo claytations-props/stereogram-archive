@@ -1,0 +1,69 @@
+{
+ "title": "Stereoscopic views of Annapolis, Maryland, and the Chesapeake Bay (NYPL b11707486-G90F209 027F)",
+ "place": "Annapolis, Maryland",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "war"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Stereoscopic_views_of_Annapolis%2C_Maryland%2C_and_the_Chesapeake_Bay_%28NYPL_b11707486-G90F209_027F%29.tiff/lossy-page1-1920px-Stereoscopic_views_of_Annapolis%2C_Maryland%2C_and_the_Chesapeake_Bay_%28NYPL_b11707486-G90F209_027F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/be/Stereoscopic_views_of_Annapolis%2C_Maryland%2C_and_the_Chesapeake_Bay_%28NYPL_b11707486-G90F209_027F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Stereoscopic_views_of_Annapolis,_Maryland,_and_the_Chesapeake_Bay_(NYPL_b11707486-G90F209_027F).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 1776,
+ "id": "STA-1631",
+ "rect": "rect/1630.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.13,
+ "rot": 0.01,
+ "range": 2.42,
+ "f": 0.84,
+ "depth": "Deep",
+ "va": 1.6423,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Stereoscopic_views_of_Annapolis%2C_Maryland%2C_and_the_Chesapeake_Bay_%28NYPL_b11707486-G90F209_027F%29.tiff/lossy-page1-1920px-Stereoscopic_views_of_Annapolis%2C_Maryland%2C_and_the_Chesapeake_Bay_%28NYPL_b11707486-G90F209_027F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.6423,
+  "L": [
+   0.327604,
+   0.0,
+   0.144531,
+   0.0,
+   0.345045,
+   0.465315
+  ],
+  "R": [
+   0.324103,
+   -0.001315,
+   0.511118,
+   0.002767,
+   0.342378,
+   0.471637
+  ],
+  "g": [
+   0.9538,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured deep (2.42% of frame width); hung in the VR Parlor at 84% size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "war"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 49472550,
+ "source_revision_id": null,
+ "source_sha1": "914f8e2a02a8d3c82b89e384479ab508aa1298ef"
+}
