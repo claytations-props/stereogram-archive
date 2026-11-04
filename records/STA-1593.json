@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7467064,
  "source_revision_id": null,
- "source_sha1": "4624f8166d15c574ef46c0b3b29751aa19bcb6fa"
+ "source_sha1": "4624f8166d15c574ef46c0b3b29751aa19bcb6fa",
+ "tags": [
+  "factory",
+  "workers"
+ ]
 }

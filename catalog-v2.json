@@ -116606,7 +116606,11 @@
   "license_url": null,
   "source_page_id": 7467113,
   "source_revision_id": null,
-  "source_sha1": "e66608b7c77c9f92a7444a6afa3df0c8d6267666"
+  "source_sha1": "e66608b7c77c9f92a7444a6afa3df0c8d6267666",
+  "tags": [
+   "house",
+   "trees"
+  ]
  },
  {
   "title": "Levee, St. Louis, Missouri",
@@ -116675,7 +116679,11 @@
   "license_url": null,
   "source_page_id": 7466695,
   "source_revision_id": null,
-  "source_sha1": "cd123a12bf6eb56065240cb58f4ae2466432064b"
+  "source_sha1": "cd123a12bf6eb56065240cb58f4ae2466432064b",
+  "tags": [
+   "river",
+   "steamboat"
+  ]
  },
  {
   "title": "Fair grounds, St. Louis, by Continent Stereoscopic Company",
@@ -116744,7 +116752,11 @@
   "license_url": null,
   "source_page_id": 12018886,
   "source_revision_id": null,
-  "source_sha1": "64f9daaedcee46c82c0dd5703a19aee6da252775"
+  "source_sha1": "64f9daaedcee46c82c0dd5703a19aee6da252775",
+  "tags": [
+   "pavilion",
+   "trees"
+  ]
  },
  {
   "title": "Southern Hotel, St. Louis, Missouri",
@@ -116882,7 +116894,11 @@
   "license_url": null,
   "source_page_id": 7466704,
   "source_revision_id": null,
-  "source_sha1": "e49942669ec585c4ea287d22b8a3d23a000df024"
+  "source_sha1": "e49942669ec585c4ea287d22b8a3d23a000df024",
+  "tags": [
+   "storefront",
+   "main street"
+  ]
  },
  {
   "title": "Park at St. Louis",
@@ -116951,7 +116967,11 @@
   "license_url": null,
   "source_page_id": 7467372,
   "source_revision_id": null,
-  "source_sha1": "67fde9753934c7d6d8250d4e0a5ffba9a9990264"
+  "source_sha1": "67fde9753934c7d6d8250d4e0a5ffba9a9990264",
+  "tags": [
+   "garden",
+   "trees"
+  ]
  },
  {
   "title": "Bird's eye view of Exposition, St. Louis Missouri",
@@ -117020,7 +117040,11 @@
   "license_url": null,
   "source_page_id": 7468133,
   "source_revision_id": null,
-  "source_sha1": "72c429e0195274b92546181f480151bd0e0ba311"
+  "source_sha1": "72c429e0195274b92546181f480151bd0e0ba311",
+  "tags": [
+   "lake",
+   "bridge"
+  ]
  },
  {
   "title": "Lafayette Park, St. Louis",
@@ -117089,7 +117113,13 @@
   "license_url": null,
   "source_page_id": 12018863,
   "source_revision_id": null,
-  "source_sha1": "77c71a8a0fd8ea5b9283dad691070e1eb9dd7732"
+  "source_sha1": "77c71a8a0fd8ea5b9283dad691070e1eb9dd7732",
+  "tags": [
+   "lake",
+   "gazebo",
+   "fountain",
+   "rowboat"
+  ]
  },
  {
   "title": "Convent of the Sacred Heart, St. Louis, Missouri, by Continent Stereoscopic Company",
@@ -117227,7 +117257,11 @@
   "license_url": null,
   "source_page_id": 7466733,
   "source_revision_id": null,
-  "source_sha1": "9ff3490a5dab406c6a01ae9c0708ed3db7e696d1"
+  "source_sha1": "9ff3490a5dab406c6a01ae9c0708ed3db7e696d1",
+  "tags": [
+   "exhibit hall",
+   "museum exhibit"
+  ]
  },
  {
   "title": "Miss. River at St. Louis, Mo",
@@ -117296,7 +117330,12 @@
   "license_url": null,
   "source_page_id": 7466709,
   "source_revision_id": null,
-  "source_sha1": "01d6945c7a40230d40cbcec1897d15a2e8544b6b"
+  "source_sha1": "01d6945c7a40230d40cbcec1897d15a2e8544b6b",
+  "tags": [
+   "steamboat",
+   "river",
+   "wagon"
+  ]
  },
  {
   "title": "Walnut Street Episcopal Church, St. Louis, Missouri, by Continent Stereoscopic Company",
@@ -117365,7 +117404,11 @@
   "license_url": null,
   "source_page_id": 7467108,
   "source_revision_id": null,
-  "source_sha1": "90efba314c8779f627016b7705950298415bf324"
+  "source_sha1": "90efba314c8779f627016b7705950298415bf324",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "Shaw's Garden, St. Louis, Mo",
@@ -117434,7 +117477,11 @@
   "license_url": null,
   "source_page_id": 7467365,
   "source_revision_id": null,
-  "source_sha1": "e60e186ba38f5b0b43bc94e053fa44c7b35e7691"
+  "source_sha1": "e60e186ba38f5b0b43bc94e053fa44c7b35e7691",
+  "tags": [
+   "garden",
+   "flowers"
+  ]
  },
  {
   "title": "Mississippi River at St. Louis, Missouri",
@@ -117503,7 +117550,11 @@
   "license_url": null,
   "source_page_id": 7467074,
   "source_revision_id": null,
-  "source_sha1": "edced7a9862560282f4d45edecdc28a60ed50b6c"
+  "source_sha1": "edced7a9862560282f4d45edecdc28a60ed50b6c",
+  "tags": [
+   "steamboat",
+   "river"
+  ]
  },
  {
   "title": "Lindell Hotel, St. Louis, Missouri",
@@ -117572,7 +117623,11 @@
   "license_url": null,
   "source_page_id": 7466725,
   "source_revision_id": null,
-  "source_sha1": "e7ca204af117639397f586ad07376ea2fe8fc2cd"
+  "source_sha1": "e7ca204af117639397f586ad07376ea2fe8fc2cd",
+  "tags": [
+   "hotel",
+   "main street"
+  ]
  },
  {
   "title": "Main Gate, interior view at Shaw's Garden, St. Louis, Mo",
@@ -117641,7 +117696,12 @@
   "license_url": null,
   "source_page_id": 7467379,
   "source_revision_id": null,
-  "source_sha1": "4fd91bccd2b265a26c380d553873afbbf5546ff2"
+  "source_sha1": "4fd91bccd2b265a26c380d553873afbbf5546ff2",
+  "tags": [
+   "garden",
+   "trees",
+   "pavilion"
+  ]
  },
  {
   "title": "Iron Mountain R.R. from Work House, St. Louis, Missouri, by Continent Stereoscopic Company",
@@ -117710,7 +117770,13 @@
   "license_url": null,
   "source_page_id": 7467082,
   "source_revision_id": null,
-  "source_sha1": "30c4529becdb22d602e63833912d77a94b0ff9dc"
+  "source_sha1": "30c4529becdb22d602e63833912d77a94b0ff9dc",
+  "tags": [
+   "cliff",
+   "railroad tracks",
+   "river",
+   "workers"
+  ]
  },
  {
   "title": "Fixby, Fobes & Co., St. Louis paper bag factory, by National Stereoscopic Advertising Co.",
@@ -117779,7 +117845,11 @@
   "license_url": null,
   "source_page_id": 7467064,
   "source_revision_id": null,
-  "source_sha1": "4624f8166d15c574ef46c0b3b29751aa19bcb6fa"
+  "source_sha1": "4624f8166d15c574ef46c0b3b29751aa19bcb6fa",
+  "tags": [
+   "factory",
+   "workers"
+  ]
  },
  {
   "title": "Canadian Pavilion. Louisiana Purchase Exposition, St. Louis",
@@ -117848,7 +117918,11 @@
   "license_url": null,
   "source_page_id": 7468182,
   "source_revision_id": null,
-  "source_sha1": "9ac6d4fdc0d49bacc291c0e8bebd091cd1a3cfe8"
+  "source_sha1": "9ac6d4fdc0d49bacc291c0e8bebd091cd1a3cfe8",
+  "tags": [
+   "pavilion",
+   "flowers"
+  ]
  },
  {
   "title": "Iron Mountain R.R. from Work House, St. Louis, Missouri, by Continent Stereoscopic Company 2",
@@ -117917,7 +117991,13 @@
   "license_url": null,
   "source_page_id": 7467096,
   "source_revision_id": null,
-  "source_sha1": "883a09509027c5039142f48c4bddad58c15f7eed"
+  "source_sha1": "883a09509027c5039142f48c4bddad58c15f7eed",
+  "tags": [
+   "cliff",
+   "railroad tracks",
+   "river",
+   "workers"
+  ]
  },
  {
   "title": "Jefferson's Statue and Ffestival Hall, Louisiana Purchase Exposition, St. Louis",
@@ -117986,7 +118066,11 @@
   "license_url": null,
   "source_page_id": 7468141,
   "source_revision_id": null,
-  "source_sha1": "6cc6cec925b429c46e6cc76e684436f3337e6064"
+  "source_sha1": "6cc6cec925b429c46e6cc76e684436f3337e6064",
+  "tags": [
+   "statue",
+   "garden"
+  ]
  },
  {
   "title": "Festival Hall and the Cascades. Louisiana Purchase Exposition, St. Louis",
@@ -118055,7 +118139,11 @@
   "license_url": null,
   "source_page_id": 7468188,
   "source_revision_id": null,
-  "source_sha1": "09a2cb6ff49fcd20b4bca3a1f6d2278f90ead552"
+  "source_sha1": "09a2cb6ff49fcd20b4bca3a1f6d2278f90ead552",
+  "tags": [
+   "fountain",
+   "trees"
+  ]
  },
  {
   "title": "Grand Basin from an Hill. Louisiana Purchase Exposition, St. Louis",
@@ -118124,6 +118212,11 @@
   "license_url": null,
   "source_page_id": 7468196,
   "source_revision_id": null,
-  "source_sha1": "dba3d0f529176e854c28862746c695e1e1824ddf"
+  "source_sha1": "dba3d0f529176e854c28862746c695e1e1824ddf",
+  "tags": [
+   "statue",
+   "lake",
+   "rowboat"
+  ]
  }
 ]

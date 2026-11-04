@@ -1,0 +1,25 @@
+{
+ "assignments": {
+  "STA-1576": {"conf": "high", "tags": ["house", "trees"]},
+  "STA-1577": {"conf": "high", "tags": ["river", "steamboat"]},
+  "STA-1578": {"conf": "high", "tags": ["pavilion", "trees"]},
+  "STA-1580": {"conf": "high", "tags": ["storefront", "main street"]},
+  "STA-1581": {"conf": "high", "tags": ["garden", "trees"]},
+  "STA-1582": {"conf": "high", "tags": ["lake", "bridge"]},
+  "STA-1583": {"conf": "high", "tags": ["lake", "gazebo", "fountain", "rowboat"]},
+  "STA-1585": {"conf": "high", "tags": ["exhibit hall", "museum exhibit"]},
+  "STA-1586": {"conf": "high", "tags": ["steamboat", "river", "wagon"]},
+  "STA-1587": {"conf": "high", "tags": ["church", "trees"]},
+  "STA-1588": {"conf": "high", "tags": ["garden", "flowers"]},
+  "STA-1589": {"conf": "high", "tags": ["steamboat", "river"]},
+  "STA-1590": {"conf": "high", "tags": ["hotel", "main street"]},
+  "STA-1591": {"conf": "high", "tags": ["garden", "trees", "pavilion"]},
+  "STA-1592": {"conf": "high", "tags": ["cliff", "railroad tracks", "river", "workers"]},
+  "STA-1593": {"conf": "high", "tags": ["factory", "workers"]},
+  "STA-1594": {"conf": "high", "tags": ["pavilion", "flowers"]},
+  "STA-1595": {"conf": "high", "tags": ["cliff", "railroad tracks", "river", "workers"]},
+  "STA-1596": {"conf": "high", "tags": ["statue", "garden"]},
+  "STA-1597": {"conf": "high", "tags": ["fountain", "trees"]},
+  "STA-1598": {"conf": "high", "tags": ["statue", "lake", "rowboat"]}
+ }
+}
