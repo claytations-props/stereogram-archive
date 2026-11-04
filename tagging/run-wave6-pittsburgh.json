@@ -1,0 +1,28 @@
+{
+ "assignments": {
+  "STA-1599": {"conf": "high", "tags": ["main street", "storefront", "wagon"]},
+  "STA-1600": {"conf": "high", "tags": ["main street", "church"]},
+  "STA-1601": {"conf": "high", "tags": ["bridge", "house"]},
+  "STA-1602": {"conf": "high", "tags": ["river", "steamboat", "wagon"]},
+  "STA-1603": {"conf": "high", "tags": ["children", "house"]},
+  "STA-1606": {"conf": "high", "tags": ["flood damage", "house"]},
+  "STA-1607": {"conf": "high", "tags": ["factory", "workers"]},
+  "STA-1608": {"conf": "high", "tags": ["suspension bridge", "river"]},
+  "STA-1609": {"conf": "high", "tags": ["factory", "workers"]},
+  "STA-1610": {"conf": "high", "tags": ["flood damage", "house"]},
+  "STA-1611": {"conf": "high", "tags": ["crowd", "house"]},
+  "STA-1612": {"conf": "high", "tags": ["warehouse", "railroad tracks"]},
+  "STA-1614": {"conf": "high", "tags": ["suspension bridge", "river"]},
+  "STA-1615": {"conf": "high", "tags": ["fountain", "crowd"]},
+  "STA-1616": {"conf": "high", "tags": ["flood damage", "house"]},
+  "STA-1617": {"conf": "high", "tags": ["bridge", "river", "house"]},
+  "STA-1618": {"conf": "high", "tags": ["main street", "storefront"]},
+  "STA-1619": {"conf": "high", "tags": ["steamboat", "river"]},
+  "STA-1620": {"conf": "high", "tags": ["factory", "workers", "railroad tracks"]},
+  "STA-1621": {"conf": "high", "tags": ["crowd", "house"]},
+  "STA-1622": {"conf": "high", "tags": ["greenhouse", "flowers"]},
+  "STA-1623": {"conf": "high", "tags": ["river", "suspension bridge"]},
+  "STA-1624": {"conf": "high", "tags": ["wagon", "house"]},
+  "STA-1625": {"conf": "high", "tags": ["factory", "river", "freight train"]}
+ }
+}
