@@ -1,0 +1,69 @@
+{
+ "title": "Shaw's Garden, St. Louis, Mo",
+ "place": "St. Louis, Missouri",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Shaw%27s_Garden%2C_St._Louis%2C_Mo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Shaw%27s_Garden%2C_St._Louis%2C_Mo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Shaw%27s_Garden%2C_St._Louis%2C_Mo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Shaw%27s_Garden,_St._Louis,_Mo,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1449,
+ "id": "STA-1588",
+ "rect": "rect/1587.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.29,
+ "rot": 0.13,
+ "range": 2.23,
+ "f": 0.63,
+ "depth": "Deep",
+ "va": 2.623,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Shaw%27s_Garden%2C_St._Louis%2C_Mo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Shaw%27s_Garden%2C_St._Louis%2C_Mo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 2.623,
+  "L": [
+   0.333333,
+   0.0,
+   0.14974,
+   0.0,
+   0.240157,
+   0.377461
+  ],
+  "R": [
+   0.330256,
+   -0.007077,
+   0.584514,
+   0.00837,
+   0.241081,
+   0.376251
+  ],
+  "g": [
+   0.9116,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.29% vertical error and 0.13° of rotation. Depth measured deep (2.23% of frame width); hung in the VR Parlor at 63% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7467365,
+ "source_revision_id": null,
+ "source_sha1": "e60e186ba38f5b0b43bc94e053fa44c7b35e7691"
+}
