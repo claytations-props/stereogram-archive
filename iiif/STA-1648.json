@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1648.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "State Treasury. Annapolis, Md (NYPL b11707486-G90F209 018F)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1880"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Annapolis, Maryland"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1648.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1648/canvas/1",
+   "type": "Canvas",
+   "width": 1140,
+   "height": 580,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1648/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1648/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1647.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1140,
+        "height": 580,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/State_Treasury._Annapolis%2C_Md_%28NYPL_b11707486-G90F209_018F%29.tiff/lossy-page1-1920px-State_Treasury._Annapolis%2C_Md_%28NYPL_b11707486-G90F209_018F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1648/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

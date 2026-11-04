@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1656.json",
+ "name": "Croquet ground and officers' quarters, by Chase, W. M. (William M.), 1818 - 9-1905",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1655.jpg",
+ "identifier": "STA-1656",
+ "creator": {
+  "@type": "Person",
+  "name": "Chase, W. M. (William M.), 1818 - 9-1905"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Annapolis, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Croquet_ground_and_officers%27_quarters,_by_Chase,_W._M._(William_M.),_1818_-_9-1905.jpg"
+}

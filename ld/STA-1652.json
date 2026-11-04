@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1652.json",
+ "name": "Conduit Street, by C. H. Hopkins",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1651.jpg",
+ "identifier": "STA-1652",
+ "creator": {
+  "@type": "Person",
+  "name": "C. H. Hopkins"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Annapolis, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Conduit_Street,_by_C._H._Hopkins.jpg"
+}

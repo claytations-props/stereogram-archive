@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1659.json",
+ "name": "View of a train wreck on the Maine Central Railroad that occurred August, 1871, near Bangor, Maine",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1658.jpg",
+ "identifier": "STA-1659",
+ "dateCreated": "1871",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bangor, Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_train_wreck_on_the_Maine_Central_Railroad_that_occurred_August,_1871,_near_Bangor,_Maine,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

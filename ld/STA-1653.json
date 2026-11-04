@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1653.json",
+ "name": "Hillside house, by Palace R.R. Photograph Car Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1652.jpg",
+ "identifier": "STA-1653",
+ "creator": {
+  "@type": "Person",
+  "name": "Palace R.R. Photograph Car Co."
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Hillside_house,_by_Palace_R.R._Photograph_Car_Co..jpg"
+}

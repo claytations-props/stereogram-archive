@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1595.json",
+ "name": "Iron Mountain R.R. from Work House, St. Louis, Missouri, by Continent Stereoscopic Company 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1594.jpg",
+ "identifier": "STA-1595",
+ "creator": {
+  "@type": "Person",
+  "name": "Continent Stereoscopic Company"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "St. Louis, Missouri"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Iron_Mountain_R.R._from_Work_House,_St._Louis,_Missouri,_by_Continent_Stereoscopic_Company_2.png"
+}

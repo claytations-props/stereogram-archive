@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1672.json",
+ "name": "Bangor railroad disaster, by A. K. Dole 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1671.jpg",
+ "identifier": "STA-1672",
+ "creator": {
+  "@type": "Person",
+  "name": "A. K. Dole"
+ },
+ "dateCreated": "1871",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bangor, Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bangor_railroad_disaster,_by_A._K._Dole_2.jpg"
+}

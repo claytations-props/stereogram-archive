@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1639.json",
+ "name": "Park and fleet of U.S. Naval Academy, Annapolis, Md, by Chase, W. M. (William M.), 1818 - 9-1905",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1638.jpg",
+ "identifier": "STA-1639",
+ "creator": {
+  "@type": "Person",
+  "name": "Chase, W. M. (William M.), 1818 - 9-1905"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Annapolis, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Park_and_fleet_of_U.S._Naval_Academy,_Annapolis,_Md,_by_Chase,_W._M._(William_M.),_1818_-_9-1905.jpg"
+}

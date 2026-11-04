@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1676.json",
+ "name": "Wreck on the MCRR. High tread. Bangor, by A. K. Dole",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1675.jpg",
+ "identifier": "STA-1676",
+ "creator": {
+  "@type": "Person",
+  "name": "A. K. Dole"
+ },
+ "dateCreated": "1871",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bangor, Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Wreck_on_the_MCRR._High_tread._Bangor,_by_A._K._Dole.png"
+}

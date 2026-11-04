@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1671.json",
+ "name": "View from the belfry of Hammond St. Church, Bangor, Maine, by A. K. Dole",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1670.jpg",
+ "identifier": "STA-1671",
+ "creator": {
+  "@type": "Person",
+  "name": "A. K. Dole"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bangor, Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_from_the_belfry_of_Hammond_St._Church,_Bangor,_Maine,_by_A._K._Dole.jpg"
+}

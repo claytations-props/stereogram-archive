@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1643.json",
+ "name": "Walk in front of the superintendent's house, the admiral's, the porch of which is on the left",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1642.jpg",
+ "identifier": "STA-1643",
+ "dateCreated": "1868",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Annapolis, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Walk_in_front_of_the_superintendent%27s_house,_the_admiral%27s,_the_porch_of_which_is_on_the_left,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

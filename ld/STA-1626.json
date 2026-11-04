@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1626.json",
+ "name": "Carnegie Hall, Allegheny, Pa",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1625.jpg",
+ "identifier": "STA-1626",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Allegheny City, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Carnegie_Hall,_Allegheny,_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

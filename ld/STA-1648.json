@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1648.json",
+ "name": "State Treasury. Annapolis, Md (NYPL b11707486-G90F209 018F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1647.jpg",
+ "identifier": "STA-1648",
+ "dateCreated": "1880",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Annapolis, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:State_Treasury._Annapolis,_Md_(NYPL_b11707486-G90F209_018F).tiff"
+}

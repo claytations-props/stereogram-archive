@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1576.json",
+ "name": "Birds eye view of St. Louis, Missouri, by Continent Stereoscopic Company",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1575.jpg",
+ "identifier": "STA-1576",
+ "creator": {
+  "@type": "Person",
+  "name": "Continent Stereoscopic Company"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "St. Louis, Missouri"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Birds_eye_view_of_St._Louis,_Missouri,_by_Continent_Stereoscopic_Company.jpg"
+}

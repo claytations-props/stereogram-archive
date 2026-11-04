@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1667.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "View of a train wreck on the Maine Central Railroad that occurred August, 1871, near Bangor, Maine, by F. W. Hardy"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "F. W. Hardy"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1871"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Bangor, Maine"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1667.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1667/canvas/1",
+   "type": "Canvas",
+   "width": 1324,
+   "height": 512,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1667/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1667/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1666.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1324,
+        "height": 512,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/View_of_a_train_wreck_on_the_Maine_Central_Railroad_that_occurred_August%2C_1871%2C_near_Bangor%2C_Maine%2C_by_F._W._Hardy.png/1920px-View_of_a_train_wreck_on_the_Maine_Central_Railroad_that_occurred_August%2C_1871%2C_near_Bangor%2C_Maine%2C_by_F._W._Hardy.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1667/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

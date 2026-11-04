@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1636.json",
+ "name": "Part of the grounds in front of the superintendent's house",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1635.jpg",
+ "identifier": "STA-1636",
+ "dateCreated": "1868",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Annapolis, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Part_of_the_grounds_in_front_of_the_superintendent%27s_house,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

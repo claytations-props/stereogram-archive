@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1608.json",
+ "name": "The beautiful Suspension Bridge across the Allegheny, at St. Clair St. Pittsburgh",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1607.jpg",
+ "identifier": "STA-1608",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pittsburgh, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_beautiful_Suspension_Bridge_across_the_Allegheny,_at_St._Clair_St._Pittsburgh,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

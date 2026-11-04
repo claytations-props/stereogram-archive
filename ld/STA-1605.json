@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1605.json",
+ "name": "Plant of the blast furnace, Pittsburgh, Pa., U.S.A, from Robert N. Dennis collection of stereoscopic views 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1604.jpg",
+ "identifier": "STA-1605",
+ "dateCreated": "1868",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pittsburgh, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Plant_of_the_blast_furnace,_Pittsburgh,_Pa.,_U.S.A,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png"
+}

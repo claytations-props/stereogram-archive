@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1596.json",
+ "name": "Jefferson's Statue and Ffestival Hall, Louisiana Purchase Exposition, St. Louis",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1595.jpg",
+ "identifier": "STA-1596",
+ "dateCreated": "1904",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "St. Louis, Missouri"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Jefferson%27s_Statue_and_Ffestival_Hall,_Louisiana_Purchase_Exposition,_St._Louis,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

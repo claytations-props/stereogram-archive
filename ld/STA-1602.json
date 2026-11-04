@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1602.json",
+ "name": "Pittsburgh, from junction of Allegheny and Monongahela River",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1601.jpg",
+ "identifier": "STA-1602",
+ "dateCreated": "1868",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pittsburgh, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Pittsburgh,_from_junction_of_Allegheny_and_Monongahela_River,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

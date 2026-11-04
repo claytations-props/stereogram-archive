@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1614.json",
+ "name": "Suspension Bridge, Pittsburgh, by Purviance, W. T. (William T.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1613.jpg",
+ "identifier": "STA-1614",
+ "creator": {
+  "@type": "Person",
+  "name": "Purviance, W. T. (William T.)"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pittsburgh, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Suspension_Bridge,_Pittsburgh,_by_Purviance,_W._T._(William_T.).jpg"
+}

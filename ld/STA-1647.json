@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1647.json",
+ "name": "The Tripoli Monument, Annapolis, Md (NYPL b11707486-G90F209 013F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1646.jpg",
+ "identifier": "STA-1647",
+ "dateCreated": "1896",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Annapolis, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Tripoli_Monument,_Annapolis,_Md_(NYPL_b11707486-G90F209_013F).tiff"
+}

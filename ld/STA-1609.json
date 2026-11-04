@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1609.json",
+ "name": "Steel works, Pittsburgh, Pa., beam of hot iron in rolling mill, drawn out (00?) feet long",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1608.jpg",
+ "identifier": "STA-1609",
+ "dateCreated": "1868",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pittsburgh, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Steel_works,_Pittsburgh,_Pa.,_beam_of_hot_iron_in_rolling_mill,_drawn_out_(00%3F)_feet_long,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

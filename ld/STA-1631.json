@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1631.json",
+ "name": "Stereoscopic views of Annapolis, Maryland, and the Chesapeake Bay (NYPL b11707486-G90F209 027F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1630.jpg",
+ "identifier": "STA-1631",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Annapolis, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Stereoscopic_views_of_Annapolis,_Maryland,_and_the_Chesapeake_Bay_(NYPL_b11707486-G90F209_027F).tiff"
+}

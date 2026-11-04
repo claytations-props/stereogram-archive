@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1645.json",
+ "name": "Right side of grounds, looking from top of new building, showing a portion of the officer's quarters, the chapel and library",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1644.jpg",
+ "identifier": "STA-1645",
+ "dateCreated": "1868",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Annapolis, Maryland"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Right_side_of_grounds,_looking_from_top_of_new_building,_showing_a_portion_of_the_officer%27s_quarters,_the_chapel_and_library,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

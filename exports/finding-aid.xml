@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>1575</quantity>
+    <quantity>1676</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -2124,6 +2124,166 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1567.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-1577">
+     <did>
+      <unitid>STA-1577</unitid>
+      <unittitle>Levee, St. Louis, Missouri</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1576.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1582">
+     <did>
+      <unitid>STA-1582</unitid>
+      <unittitle>Bird's eye view of Exposition, St. Louis Missouri</unittitle>
+      <unitdate normal="1903">1903</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1581.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1583">
+     <did>
+      <unitid>STA-1583</unitid>
+      <unittitle>Lafayette Park, St. Louis</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1582.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1586">
+     <did>
+      <unitid>STA-1586</unitid>
+      <unittitle>Miss. River at St. Louis, Mo</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1585.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1589">
+     <did>
+      <unitid>STA-1589</unitid>
+      <unittitle>Mississippi River at St. Louis, Missouri</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1588.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1598">
+     <did>
+      <unitid>STA-1598</unitid>
+      <unittitle>Grand Basin from an Hill. Louisiana Purchase Exposition, St. Louis</unittitle>
+      <unitdate normal="1904">1904</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1597.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1602">
+     <did>
+      <unitid>STA-1602</unitid>
+      <unittitle>Pittsburgh, from junction of Allegheny and Monongahela River</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1601.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1608">
+     <did>
+      <unitid>STA-1608</unitid>
+      <unittitle>The beautiful Suspension Bridge across the Allegheny, at St. Clair St. Pittsburgh</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1607.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1614">
+     <did>
+      <unitid>STA-1614</unitid>
+      <unittitle>Suspension Bridge, Pittsburgh, by Purviance, W. T. (William T.)</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1613.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1617">
+     <did>
+      <unitid>STA-1617</unitid>
+      <unittitle>Union Bridge, Pittsburg, Pa</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1616.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1619">
+     <did>
+      <unitid>STA-1619</unitid>
+      <unittitle>Levee and boats, Pittsburg, Pa</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1618.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1622">
+     <did>
+      <unitid>STA-1622</unitid>
+      <unittitle>Lily pond, Schenley Park, Pittsburg, Pa., U.S.A. (Color view.)</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1621.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1623">
+     <did>
+      <unitid>STA-1623</unitid>
+      <unittitle>River coal trade, Pittsburg, Pa., U.S.A</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1622.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1625">
+     <did>
+      <unitid>STA-1625</unitid>
+      <unittitle>Modern steel plant along the Monongahela River, Pittsburg, Pa., U.S.A</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1624.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1639">
+     <did>
+      <unitid>STA-1639</unitid>
+      <unittitle>Park and fleet of U.S. Naval Academy, Annapolis, Md, by Chase, W. M. (William M.), 1818 - 9-1905</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1638.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1650">
+     <did>
+      <unitid>STA-1650</unitid>
+      <unittitle>Park and fleet of U.S. Naval Academy, Annapolis, Md (NYPL b11707486-G90F209 016F)</unittitle>
+      <unitdate normal="1880">1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1649.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1664">
+     <did>
+      <unitid>STA-1664</unitid>
+      <unittitle>Kenduskeag stream, Bangor, Maine</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1663.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1666">
+     <did>
+      <unitid>STA-1666</unitid>
+      <unittitle>Penobscot River, Lumbers District, Bangor, Maine</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1665.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1668">
+     <did>
+      <unitid>STA-1668</unitid>
+      <unittitle>Harbor view</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1667.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1673">
+     <did>
+      <unitid>STA-1673</unitid>
+      <unittitle>View down the river from Depot</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1672.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -3991,6 +4151,22 @@
       <unittitle>Stereoscopic Views of Clear Creek and Gilpin counties, Colorado</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1367.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1592">
+     <did>
+      <unitid>STA-1592</unitid>
+      <unittitle>Iron Mountain R.R. from Work House, St. Louis, Missouri, by Continent Stereoscopic Company</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1591.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1595">
+     <did>
+      <unitid>STA-1595</unitid>
+      <unittitle>Iron Mountain R.R. from Work House, St. Louis, Missouri, by Continent Stereoscopic Company 2</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1594.jpg"/>
      </did>
     </c>
    </c>
@@ -8598,6 +8774,486 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1573.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-1576">
+     <did>
+      <unitid>STA-1576</unitid>
+      <unittitle>Birds eye view of St. Louis, Missouri, by Continent Stereoscopic Company</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1575.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1578">
+     <did>
+      <unitid>STA-1578</unitid>
+      <unittitle>Fair grounds, St. Louis, by Continent Stereoscopic Company</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1577.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1579">
+     <did>
+      <unitid>STA-1579</unitid>
+      <unittitle>Southern Hotel, St. Louis, Missouri</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1578.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1580">
+     <did>
+      <unitid>STA-1580</unitid>
+      <unittitle>McLean's Block. St. Louis, Missouri</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1579.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1581">
+     <did>
+      <unitid>STA-1581</unitid>
+      <unittitle>Park at St. Louis</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1580.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1584">
+     <did>
+      <unitid>STA-1584</unitid>
+      <unittitle>Convent of the Sacred Heart, St. Louis, Missouri, by Continent Stereoscopic Company</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1583.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1585">
+     <did>
+      <unitid>STA-1585</unitid>
+      <unittitle>Exposition Building, St. Louis, Missouri</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1584.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1587">
+     <did>
+      <unitid>STA-1587</unitid>
+      <unittitle>Walnut Street Episcopal Church, St. Louis, Missouri, by Continent Stereoscopic Company</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1586.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1588">
+     <did>
+      <unitid>STA-1588</unitid>
+      <unittitle>Shaw's Garden, St. Louis, Mo</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1587.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1590">
+     <did>
+      <unitid>STA-1590</unitid>
+      <unittitle>Lindell Hotel, St. Louis, Missouri</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1589.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1591">
+     <did>
+      <unitid>STA-1591</unitid>
+      <unittitle>Main Gate, interior view at Shaw's Garden, St. Louis, Mo</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1590.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1593">
+     <did>
+      <unitid>STA-1593</unitid>
+      <unittitle>Fixby, Fobes &amp; Co., St. Louis paper bag factory, by National Stereoscopic Advertising Co.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1592.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1594">
+     <did>
+      <unitid>STA-1594</unitid>
+      <unittitle>Canadian Pavilion. Louisiana Purchase Exposition, St. Louis</unittitle>
+      <unitdate normal="1904">1904</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1593.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1596">
+     <did>
+      <unitid>STA-1596</unitid>
+      <unittitle>Jefferson's Statue and Ffestival Hall, Louisiana Purchase Exposition, St. Louis</unittitle>
+      <unitdate normal="1904">1904</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1595.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1597">
+     <did>
+      <unitid>STA-1597</unitid>
+      <unittitle>Festival Hall and the Cascades. Louisiana Purchase Exposition, St. Louis</unittitle>
+      <unitdate normal="1904">1904</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1596.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1599">
+     <did>
+      <unitid>STA-1599</unitid>
+      <unittitle>View on Wood St., Pittsburgh, Pa</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1598.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1600">
+     <did>
+      <unitid>STA-1600</unitid>
+      <unittitle>Hand Street, Pittsburgh, Pa</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1599.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1601">
+     <did>
+      <unitid>STA-1601</unitid>
+      <unittitle>Bridge of Sighs, Pittsburgh, Pa</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1600.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1604">
+     <did>
+      <unitid>STA-1604</unitid>
+      <unittitle>Plant of the blast furnace, Pittsburgh, Pa., U.S.A</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1603.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1605">
+     <did>
+      <unitid>STA-1605</unitid>
+      <unittitle>Plant of the blast furnace, Pittsburgh, Pa., U.S.A, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1604.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1606">
+     <did>
+      <unitid>STA-1606</unitid>
+      <unittitle>View of flood at Allegheny City</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1605.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1607">
+     <did>
+      <unitid>STA-1607</unitid>
+      <unittitle>Steel works, Pittsburgh, Pa., beam of hot iron in rolling mill, drawn out (00?) feet long, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1606.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1609">
+     <did>
+      <unitid>STA-1609</unitid>
+      <unittitle>Steel works, Pittsburgh, Pa., beam of hot iron in rolling mill, drawn out (00?) feet long</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1608.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1610">
+     <did>
+      <unitid>STA-1610</unitid>
+      <unittitle>View at Allegheny City</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1609.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1611">
+     <did>
+      <unitid>STA-1611</unitid>
+      <unittitle>View at Allegheny City, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1610.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1612">
+     <did>
+      <unitid>STA-1612</unitid>
+      <unittitle>Grain elevator, Pittsburgh, by Purviance, W. T. (William T.)</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1611.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1615">
+     <did>
+      <unitid>STA-1615</unitid>
+      <unittitle>Fountain, corner Federal and Ohio Sts., Pittsburg, Pa., U.S.A</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1614.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1616">
+     <did>
+      <unitid>STA-1616</unitid>
+      <unittitle>View of flood at Allegheny City, Penn</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1615.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1618">
+     <did>
+      <unitid>STA-1618</unitid>
+      <unittitle>Wood St., from Liberty, Pittsburg, Pa</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1617.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1620">
+     <did>
+      <unitid>STA-1620</unitid>
+      <unittitle>Yard of steel works, Pittsburg, Pa., U.S.A</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1619.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1621">
+     <did>
+      <unitid>STA-1621</unitid>
+      <unittitle>View of flood at Allegheny City, Penn, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1620.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1624">
+     <did>
+      <unitid>STA-1624</unitid>
+      <unittitle>Levee from Smithfield St., Pittsburg, Pa</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1623.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1626">
+     <did>
+      <unitid>STA-1626</unitid>
+      <unittitle>Carnegie Hall, Allegheny, Pa</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1625.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1628">
+     <did>
+      <unitid>STA-1628</unitid>
+      <unittitle>Stereoscopic views of Annapolis, Maryland, and the Chesapeake Bay</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1627.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1629">
+     <did>
+      <unitid>STA-1629</unitid>
+      <unittitle>Street view of Annapolis, by Chase, W. M. (William M.), 1818 - 9-1905</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1628.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1630">
+     <did>
+      <unitid>STA-1630</unitid>
+      <unittitle>State Treasury. Annapolis, Md, by Chase, W. M. (William M.), 1818 - 9-1905</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1629.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1632">
+     <did>
+      <unitid>STA-1632</unitid>
+      <unittitle>The state capitol</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1631.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1633">
+     <did>
+      <unitid>STA-1633</unitid>
+      <unittitle>The state capitol, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1632.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1634">
+     <did>
+      <unitid>STA-1634</unitid>
+      <unittitle>The state capitol, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1633.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1636">
+     <did>
+      <unitid>STA-1636</unitid>
+      <unittitle>Part of the grounds in front of the superintendent's house</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1635.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1637">
+     <did>
+      <unitid>STA-1637</unitid>
+      <unittitle>In front of the chapel, showing the library in the background</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1636.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1640">
+     <did>
+      <unitid>STA-1640</unitid>
+      <unittitle>New cadet quarters and mess hall</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1639.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1641">
+     <did>
+      <unitid>STA-1641</unitid>
+      <unittitle>Street view of Annapolis (NYPL b11707486-G90F209 020F)</unittitle>
+      <unitdate normal="1880">1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1640.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1643">
+     <did>
+      <unitid>STA-1643</unitid>
+      <unittitle>Walk in front of the superintendent's house, the admiral's, the porch of which is on the left</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1642.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1644">
+     <did>
+      <unitid>STA-1644</unitid>
+      <unittitle>The portion of the officer's quarters shown in No. 4 looking from the other end. The first is the home of the commandant</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1643.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1645">
+     <did>
+      <unitid>STA-1645</unitid>
+      <unittitle>Right side of grounds, looking from top of new building, showing a portion of the officer's quarters, the chapel and library</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1644.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1646">
+     <did>
+      <unitid>STA-1646</unitid>
+      <unittitle>Tripoli and Herndon monuments from Robert N. Dennis collection</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1645.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1647">
+     <did>
+      <unitid>STA-1647</unitid>
+      <unittitle>The Tripoli Monument, Annapolis, Md (NYPL b11707486-G90F209 013F)</unittitle>
+      <unitdate normal="1896">1896</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1646.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1648">
+     <did>
+      <unitid>STA-1648</unitid>
+      <unittitle>State Treasury. Annapolis, Md (NYPL b11707486-G90F209 018F)</unittitle>
+      <unitdate normal="1880">1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1647.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1651">
+     <did>
+      <unitid>STA-1651</unitid>
+      <unittitle>St. Ann's church, by Chase, W. M. (William M.), 1818 - 9-1905</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1650.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1652">
+     <did>
+      <unitid>STA-1652</unitid>
+      <unittitle>Conduit Street, by C. H. Hopkins</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1651.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1653">
+     <did>
+      <unitid>STA-1653</unitid>
+      <unittitle>Hillside house, by Palace R.R. Photograph Car Co.</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1652.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1654">
+     <did>
+      <unitid>STA-1654</unitid>
+      <unittitle>Large house on grounds of academy, by Chase, W. M. (William M.), 1818 - 9-1905</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1653.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1656">
+     <did>
+      <unitid>STA-1656</unitid>
+      <unittitle>Croquet ground and officers' quarters, by Chase, W. M. (William M.), 1818 - 9-1905</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1655.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1657">
+     <did>
+      <unitid>STA-1657</unitid>
+      <unittitle>Officer's quarter's, by Chase, W. M. (William M.), 1818 - 9-1905</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1656.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1658">
+     <did>
+      <unitid>STA-1658</unitid>
+      <unittitle>Steam engineering department (boys in front of), by Chase, W. M. (William M.), 1818 - 9-1905</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1657.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1660">
+     <did>
+      <unitid>STA-1660</unitid>
+      <unittitle>General view of Bangor</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1659.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1661">
+     <did>
+      <unitid>STA-1661</unitid>
+      <unittitle>Bird's-eye view of Bangor</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1660.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1665">
+     <did>
+      <unitid>STA-1665</unitid>
+      <unittitle>Chri(...) house, Bangor, Maine</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1664.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1671">
+     <did>
+      <unitid>STA-1671</unitid>
+      <unittitle>View from the belfry of Hammond St. Church, Bangor, Maine, by A. K. Dole</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1670.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -9001,6 +9657,22 @@
       <unittitle>Ruins of Arsenal, Richmond</unittitle>
       <unitdate normal="1863">1863</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1574.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1627">
+     <did>
+      <unitid>STA-1627</unitid>
+      <unittitle>Stereoscopic views of Annapolis, Maryland, and the Chesapeake Bay, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1626.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1631">
+     <did>
+      <unitid>STA-1631</unitid>
+      <unittitle>Stereoscopic views of Annapolis, Maryland, and the Chesapeake Bay (NYPL b11707486-G90F209 027F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1630.jpg"/>
      </did>
     </c>
    </c>
@@ -9518,6 +10190,14 @@
       <unittitle>Underwood Bamboo Avenue 1904</unittitle>
       <unitdate normal="1904">1904</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1197.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1655">
+     <did>
+      <unitid>STA-1655</unitid>
+      <unittitle>A Japanese bell, by Chase, W. M. (William M.), 1818 - 9-1905</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1654.jpg"/>
      </did>
     </c>
    </c>
@@ -10115,6 +10795,46 @@
       <unittitle>Woman at the Fountain. Druid Hill Park, by Richard Walzl</unittitle>
       <unitdate normal="1860/1870">c. 1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1543.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1603">
+     <did>
+      <unitid>STA-1603</unitid>
+      <unittitle>Group of children playing around water hole strewn with refuse, Pittsburgh</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1602.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1635">
+     <did>
+      <unitid>STA-1635</unitid>
+      <unittitle>Students' parade, U.S.N. Academy, Annapolis, Md, by Chase, W. M. (William M.), 1818 - 9-1905</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1634.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1638">
+     <did>
+      <unitid>STA-1638</unitid>
+      <unittitle>U.S. Naval Academy (cadets in foreground)</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1637.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1642">
+     <did>
+      <unitid>STA-1642</unitid>
+      <unittitle>Men on the deck of a ship. Line of shipboard cannons</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1641.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1649">
+     <did>
+      <unitid>STA-1649</unitid>
+      <unittitle>Students' parade, U.S.N. Academy, Annapolis, Md (NYPL b11707486-G90F209 022F)</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1648.jpg"/>
      </did>
     </c>
    </c>
@@ -12656,6 +13376,94 @@
       <unittitle>Bonaventure Cemetery near Savannah</unittitle>
       <unitdate normal="1860/1870">c. 1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1500.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1613">
+     <did>
+      <unitid>STA-1613</unitid>
+      <unittitle>Glass works in Birmingham, Pittsburg, Pa</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1612.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1659">
+     <did>
+      <unitid>STA-1659</unitid>
+      <unittitle>View of a train wreck on the Maine Central Railroad that occurred August, 1871, near Bangor, Maine</unittitle>
+      <unitdate normal="1871">1871</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1658.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1662">
+     <did>
+      <unitid>STA-1662</unitid>
+      <unittitle>Bangor railroad disaster</unittitle>
+      <unitdate normal="1871">1871</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1661.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1663">
+     <did>
+      <unitid>STA-1663</unitid>
+      <unittitle>Train wreck, Bangor, Maine, 1871</unittitle>
+      <unitdate normal="1871">1871</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1662.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1667">
+     <did>
+      <unitid>STA-1667</unitid>
+      <unittitle>View of a train wreck on the Maine Central Railroad that occurred August, 1871, near Bangor, Maine, by F. W. Hardy</unittitle>
+      <unitdate normal="1871">1871</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1666.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1669">
+     <did>
+      <unitid>STA-1669</unitid>
+      <unittitle>Interior view of one of the wrecked cars</unittitle>
+      <unitdate normal="1871">1871</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1668.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1670">
+     <did>
+      <unitid>STA-1670</unitid>
+      <unittitle>Bangor railroad disaster, by A. K. Dole</unittitle>
+      <unitdate normal="1871">1871</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1669.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1672">
+     <did>
+      <unitid>STA-1672</unitid>
+      <unittitle>Bangor railroad disaster, by A. K. Dole 2</unittitle>
+      <unitdate normal="1871">1871</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1671.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1674">
+     <did>
+      <unitid>STA-1674</unitid>
+      <unittitle>Train wreckage</unittitle>
+      <unitdate normal="1871">1871</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1673.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1675">
+     <did>
+      <unitid>STA-1675</unitid>
+      <unittitle>Railroad disaster, Bangor, 1871, by A. K. Dole</unittitle>
+      <unitdate normal="1871">1871</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1674.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1676">
+     <did>
+      <unitid>STA-1676</unitid>
+      <unittitle>Wreck on the MCRR. High tread. Bangor, by A. K. Dole</unittitle>
+      <unitdate normal="1871">1871</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1675.jpg"/>
      </did>
     </c>
    </c>

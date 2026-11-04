@@ -1,0 +1,12 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1673.json",
+ "name": "View down the river from Depot",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1672.jpg",
+ "identifier": "STA-1673",
+ "dateCreated": "1869",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_down_the_river_from_Depot,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1617.json",
+ "name": "Union Bridge, Pittsburg, Pa",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1616.jpg",
+ "identifier": "STA-1617",
+ "dateCreated": "1868",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pittsburgh, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Union_Bridge,_Pittsburg,_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

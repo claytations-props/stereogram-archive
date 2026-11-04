@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1613.json",
+ "name": "Glass works in Birmingham, Pittsburg, Pa",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1612.jpg",
+ "identifier": "STA-1613",
+ "dateCreated": "1868",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pittsburgh, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Glass_works_in_Birmingham,_Pittsburg,_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1675.json",
+ "name": "Railroad disaster, Bangor, 1871, by A. K. Dole",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1674.jpg",
+ "identifier": "STA-1675",
+ "creator": {
+  "@type": "Person",
+  "name": "A. K. Dole"
+ },
+ "dateCreated": "1871",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bangor, Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Railroad_disaster,_Bangor,_1871,_by_A._K._Dole.jpg"
+}

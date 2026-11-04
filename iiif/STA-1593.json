@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1593.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Fixby, Fobes & Co., St. Louis paper bag factory, by National Stereoscopic Advertising Co."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "National Stereoscopic Advertising Co."
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1865"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "St. Louis, Missouri"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1593.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1593/canvas/1",
+   "type": "Canvas",
+   "width": 1198,
+   "height": 506,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1593/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1593/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1592.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1198,
+        "height": 506,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Fixby%2C_Fobes_%26_Co.%2C_St._Louis_paper_bag_factory%2C_by_National_Stereoscopic_Advertising_Co..png/1920px-Fixby%2C_Fobes_%26_Co.%2C_St._Louis_paper_bag_factory%2C_by_National_Stereoscopic_Advertising_Co..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1593/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
