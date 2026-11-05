@@ -1,0 +1,22 @@
+{"assignments": {
+"STA-1717": {"tags": ["beach", "ocean", "waves"], "conf": "high"},
+"STA-1719": {"tags": ["hotel", "trees"], "conf": "high"},
+"STA-1720": {"tags": ["house", "main street"], "conf": "high"},
+"STA-1721": {"tags": ["fountain", "garden"], "conf": "high"},
+"STA-1722": {"tags": ["beach", "ocean", "waves"], "conf": "high"},
+"STA-1723": {"tags": ["lake", "trestle bridge", "mountain"], "conf": "medium"},
+"STA-1724": {"tags": ["cliff", "ocean"], "conf": "high"},
+"STA-1725": {"tags": ["gorge", "rock formation"], "conf": "high"},
+"STA-1726": {"tags": ["ruins", "trees"], "conf": "high"},
+"STA-1727": {"tags": ["main street", "house"], "conf": "high"},
+"STA-1728": {"tags": ["fort", "harbor"], "conf": "high"},
+"STA-1729": {"tags": ["schoolhouse", "children"], "conf": "high"},
+"STA-1730": {"tags": ["ruins", "trees"], "conf": "high"},
+"STA-1731": {"tags": ["ruins", "trees"], "conf": "high"},
+"STA-1732": {"tags": ["creek", "bridge"], "conf": "medium"},
+"STA-1733": {"tags": ["main street", "storefront", "trees"], "conf": "medium"},
+"STA-1734": {"tags": ["ocean", "cliff", "house"], "conf": "high"},
+"STA-1735": {"tags": ["ruins", "trees"], "conf": "high"},
+"STA-1737": {"tags": ["ruins", "trees"], "conf": "high"},
+"STA-1738": {"tags": ["ruins", "trees"], "conf": "high"}
+}}
