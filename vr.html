@@ -86,6 +86,7 @@ a{color:var(--brass)}
       <button id="next10Btn" aria-label="Jump forward">»</button>
       <button id="browseBtn">Browse the shelves</button>
       <button id="recBtn">Catalogue card: off</button>
+      <button id="saveBtn" aria-pressed="false">♡ Save</button>
     </div>
   </div>
 </div>
@@ -534,6 +535,7 @@ function drawCaption(d){
   document.getElementById('ciMeta').textContent=d.id+' · '+d.p+' · '+d.y+(curSet?' · '+curSet.label+' · Card '+(curPos+1)+' of '+curSet.indices.length:'');
   document.getElementById('setCrumb').textContent=crumbText();
   syncSetSwitcher();
+  syncSaveUI(); // Round 10: the save button and pill follow the card on display
   document.getElementById('backLink').href='index.html#'+d.id;
   try{history.replaceState(null,'','#'+d.id)}catch(e){}
   updateLanding();
@@ -641,8 +643,14 @@ const next10Btn=arrowButton('\u00bb','next10',{vis:.18,hitW:.27,hitH:.34});
 const browseBtn3d=pillButton('BROWSE','browse',.33);
 const recordBtn3d=pillButton('RECORD','record',.33);
 recordBtn3d.userData.hit.userData.redraw('RECORD',true); // the catalogue card starts off (dim), per Clay
+/* Round 10: a SAVE pill beside RECORD, so a card loved in the room can
+   join the Reading List without leaving the Parlor. It starts dim like
+   RECORD; syncSaveUI redraws it SAVED and bright once the current card
+   is in the list. */
+const saveBtn3d=pillButton('SAVE','save',.28);
+saveBtn3d.userData.hit.userData.redraw('SAVE',true);
 const exitBtn=pillButton('EXIT','exit',.25);
-const ROW_DEFS=[[prev10Btn,.18],[prevBtn3d,.18],[nextBtn3d,.18],[next10Btn,.18],[browseBtn3d,.33],[recordBtn3d,.33],[exitBtn,.25]];
+const ROW_DEFS=[[prev10Btn,.18],[prevBtn3d,.18],[nextBtn3d,.18],[next10Btn,.18],[browseBtn3d,.33],[recordBtn3d,.33],[saveBtn3d,.28],[exitBtn,.25]];
 {
   const GAP=.065;let total=-GAP;ROW_DEFS.forEach(([b,w])=>total+=w+GAP);
   let x=-total/2;
@@ -906,12 +914,66 @@ function persist(){
 function readFavs(){
   try{return JSON.parse(localStorage.getItem('stereoFavs')||'[]');}catch(e){return[];}
 }
+function writeFavs(list){try{localStorage.setItem('stereoFavs',JSON.stringify(list));}catch(e){}}
+/* Round 10: the Parlor could already browse the Reading List, but it
+   could not add to it — a card loved in the headset had to be saved
+   later from the flat gallery. The list is one shared localStorage
+   key, so the Parlor saves into the same list the gallery hearts
+   build, and the Reading List set appears, grows, and shrinks live.
+   Removing the card being read from its own set steps to the card
+   that slides into its place; removing the last one falls back to
+   All cards on the same card. Catalog data is untouched; only the
+   local list and the derived set list change. */
+function isSaved(id){return readFavs().includes(id);}
+function toggleSaveCurrent(){
+  if(cur<0||!DATA[cur])return;
+  const id=DATA[cur].id,favs=readFavs(),at=favs.indexOf(id);
+  if(at>=0)favs.splice(at,1);else favs.push(id);
+  writeFavs(favs);
+  refreshSetsAfterFav();
+  syncSaveUI();
+}
+function refreshSetsAfterFav(){
+  const wasFavs=curSet&&curSet.key==='favs';
+  SETS=deriveSets(DATA,readFavs());
+  const favsSet=SETS.find(s=>s.key==='favs');
+  let wallChanged=false;
+  if(wasFavs){
+    wallChanged=true;
+    if(favsSet){
+      curSet=favsSet;
+      curPos=Math.min(curPos,Math.max(0,favsSet.indices.length-1));
+    }else{
+      curSet=SETS[0];
+      curPos=cur>=0?cur:0;
+    }
+    wallPage=Math.floor(curPos/PAGE);
+    showPos(curPos);
+  }else if(curSet){
+    const same=SETS.find(s=>s.key===curSet.key);
+    if(same)curSet=same;
+  }
+  buildSetOptions();
+  drawSetPanel();
+  if(wallChanged)renderWall();
+}
+function syncSaveUI(){
+  const d=cur>=0&&DATA[cur]?DATA[cur]:null;
+  const saved=!!(d&&isSaved(d.id));
+  const b=document.getElementById('saveBtn');
+  if(b){b.textContent=saved?'♥ Saved':'♡ Save';b.setAttribute('aria-pressed',saved?'true':'false');}
+  saveBtn3d.userData.hit.userData.redraw(saved?'SAVED':'SAVE',!saved);
+}
+function buildSetOptions(){
+  const sel=document.getElementById('setSelect');if(!sel)return;
+  sel.innerHTML='';
+  SETS.forEach(s=>{const o=document.createElement('option');o.value=s.key;o.textContent=s.label+' · '+s.indices.length;sel.appendChild(o);});
+  sel.value=curSet?curSet.key:'';
+  sel.disabled=!SETS.length;
+}
 function syncSetSwitcher(){
   const sel=document.getElementById('setSelect');if(!sel)return;
-  if(sel.options.length!==SETS.length){
-    sel.innerHTML='';
-    SETS.forEach(s=>{const o=document.createElement('option');o.value=s.key;o.textContent=s.label+' · '+s.indices.length;sel.appendChild(o);});
-  }
+  if(sel.options.length!==SETS.length)buildSetOptions();
   sel.value=curSet?curSet.key:'';
   sel.disabled=!SETS.length;
 }
@@ -1097,6 +1159,7 @@ document.getElementById('next10Btn').onclick=()=>{if(uiState==='browse')wallGo(9
 document.getElementById('browseBtn').onclick=()=>setState(uiState==='browse'?'reading':'browse');
 document.getElementById('setSelect').addEventListener('change',e=>selectSet(e.target.value));
 document.getElementById('recBtn').onclick=()=>toggleRecord();
+document.getElementById('saveBtn').onclick=()=>toggleSaveCurrent();
 addEventListener('keydown',e=>{
   if(uiState==='browse'){if(e.key==='ArrowRight')wallGo(1);if(e.key==='ArrowLeft')wallGo(-1);if(e.key==='Escape')setState('reading');}
   else{if(e.key==='ArrowRight')next();if(e.key==='ArrowLeft')prev();}
@@ -1216,6 +1279,7 @@ function activate(hit){
   }
   if(a==='exit'){const s=renderer.xr.getSession();if(s)s.end();return;}
   if(a==='record')return toggleRecord();
+  if(a==='save')return toggleSaveCurrent();
   if(a==='browse')return setState(uiState==='browse'?'reading':'browse');
   if(a==='tile')return openTile(hit.userData.pos);
   if(a==='set')return selectSet(hit.userData.setKey);
