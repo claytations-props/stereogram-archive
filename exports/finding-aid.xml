@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>1676</quantity>
+    <quantity>1775</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -2284,6 +2284,158 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1672.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-1687">
+     <did>
+      <unitid>STA-1687</unitid>
+      <unittitle>Bow in Conn. river from Mount Holyoke, by Knowlton Bros.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1686.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1688">
+     <did>
+      <unitid>STA-1688</unitid>
+      <unittitle>Mount Holyoke and Hockanum village from ferry, by Knowlton Bros.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1687.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1691">
+     <did>
+      <unitid>STA-1691</unitid>
+      <unittitle>View of Connecticut River from Mount Holyoke (NYPL b11707524-G90F249 026ZF)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1690.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1693">
+     <did>
+      <unitid>STA-1693</unitid>
+      <unittitle>Ox Bow in Conn. River from Mt. Holyoke, by Knowlton Bros.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1692.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1703">
+     <did>
+      <unitid>STA-1703</unitid>
+      <unittitle>Indian encampment (...) Lake</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1702.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1716">
+     <did>
+      <unitid>STA-1716</unitid>
+      <unittitle>Kasa-an (Kasaan) village, Indians and canoes, Alaska</unittitle>
+      <unitdate normal="1895/1905">c. 1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1715.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1717">
+     <did>
+      <unitid>STA-1717</unitid>
+      <unittitle>Newport Beach. General view</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1716.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1722">
+     <did>
+      <unitid>STA-1722</unitid>
+      <unittitle>Beach at Newport, R.I</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1721.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1723">
+     <did>
+      <unitid>STA-1723</unitid>
+      <unittitle>Newport, Magog and Owl's Head</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1722.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1724">
+     <did>
+      <unitid>STA-1724</unitid>
+      <unittitle>Forty Steps, Newport, R.I</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1723.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1728">
+     <did>
+      <unitid>STA-1728</unitid>
+      <unittitle>Fort Adams, Newport, Rhode Island</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1727.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1732">
+     <did>
+      <unitid>STA-1732</unitid>
+      <unittitle>View of West-Canada Creek below the bridge Newport N. Y.</unittitle>
+      <unitdate normal="1855/1865">c. 1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1731.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1734">
+     <did>
+      <unitid>STA-1734</unitid>
+      <unittitle>Shore near Spouting Cave, Newport, R.I</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1733.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1744">
+     <did>
+      <unitid>STA-1744</unitid>
+      <unittitle>Providence River</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1743.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1748">
+     <did>
+      <unitid>STA-1748</unitid>
+      <unittitle>Steamer Providence</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1747.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1763">
+     <did>
+      <unitid>STA-1763</unitid>
+      <unittitle>Genesee Falls at Rochester</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1762.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1765">
+     <did>
+      <unitid>STA-1765</unitid>
+      <unittitle>Genesee High Falls, Rochester</unittitle>
+      <unitdate normal="1885/1895">c. 1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1764.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1771">
+     <did>
+      <unitid>STA-1771</unitid>
+      <unittitle>Middle Falls and ... Rochester, N.Y</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1770.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1773">
+     <did>
+      <unitid>STA-1773</unitid>
+      <unittitle>Genesee Lower Falls, Rochester, N.Y</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1772.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -4167,6 +4319,78 @@
       <unittitle>Iron Mountain R.R. from Work House, St. Louis, Missouri, by Continent Stereoscopic Company 2</unittitle>
       <unitdate normal="1880/1890">c. 1885</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1594.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1679">
+     <did>
+      <unitid>STA-1679</unitid>
+      <unittitle>Prospect House, Mount Holyoke, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1678.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1682">
+     <did>
+      <unitid>STA-1682</unitid>
+      <unittitle>Northern section of Titan's Pier, near Mount Holyoke</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1681.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1683">
+     <did>
+      <unitid>STA-1683</unitid>
+      <unittitle>Prospect House, Mount Holyoke, by Knowlton Bros.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1682.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1684">
+     <did>
+      <unitid>STA-1684</unitid>
+      <unittitle>Globe Rock, Mount Holyoke, by F. H. Putnam</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1683.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1686">
+     <did>
+      <unitid>STA-1686</unitid>
+      <unittitle>Northampton from Mount Holyoke, by Knowlton Bros.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1685.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1692">
+     <did>
+      <unitid>STA-1692</unitid>
+      <unittitle>Prospect House</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1691.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1725">
+     <did>
+      <unitid>STA-1725</unitid>
+      <unittitle>Purgatory, Newport</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1724.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1761">
+     <did>
+      <unitid>STA-1761</unitid>
+      <unittitle>View of a mountain and home in Rochester</unittitle>
+      <unitdate normal="1883/1893">c. 1888</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1760.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1775">
+     <did>
+      <unitid>STA-1775</unitid>
+      <unittitle>Park-side and Mountain, Rochester</unittitle>
+      <unitdate normal="1888">1888</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1774.jpg"/>
      </did>
     </c>
    </c>
@@ -9254,6 +9478,382 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1670.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-1678">
+     <did>
+      <unitid>STA-1678</unitid>
+      <unittitle>Mount Holyoke from the avenue</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1677.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1680">
+     <did>
+      <unitid>STA-1680</unitid>
+      <unittitle>Interior of Prospect House, Mount Holyoke</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1679.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1681">
+     <did>
+      <unitid>STA-1681</unitid>
+      <unittitle>Prospect House, Mount Holyoke, from foot of railway</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1680.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1689">
+     <did>
+      <unitid>STA-1689</unitid>
+      <unittitle>Prospect House, Mount Holyoke, from foot of railway, by Knowlton Bros.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1688.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1690">
+     <did>
+      <unitid>STA-1690</unitid>
+      <unittitle>Prospect House, Mount Holyoke, from foot of railway, by Knowlton Bros. 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1689.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1697">
+     <did>
+      <unitid>STA-1697</unitid>
+      <unittitle>Gov't school for Indians. Pawnee reservation</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1696.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1718">
+     <did>
+      <unitid>STA-1718</unitid>
+      <unittitle>Orist Mill, Newport</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1717.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1719">
+     <did>
+      <unitid>STA-1719</unitid>
+      <unittitle>Atlantic House, Newport, R.I</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1718.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1720">
+     <did>
+      <unitid>STA-1720</unitid>
+      <unittitle>A view on upper Main Street Newport N. Y</unittitle>
+      <unitdate normal="1855/1865">c. 1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1719.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1721">
+     <did>
+      <unitid>STA-1721</unitid>
+      <unittitle>View of grounds at Newport, Herkimer Co., N. Y.</unittitle>
+      <unitdate normal="1855/1865">c. 1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1720.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1726">
+     <did>
+      <unitid>STA-1726</unitid>
+      <unittitle>Old Stone Mill, Newport, R.I</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1725.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1727">
+     <did>
+      <unitid>STA-1727</unitid>
+      <unittitle>Norway Street Newport N. Y</unittitle>
+      <unitdate normal="1855/1865">c. 1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1726.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1729">
+     <did>
+      <unitid>STA-1729</unitid>
+      <unittitle>School-house Newport N. Y.</unittitle>
+      <unitdate normal="1855/1865">c. 1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1728.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1730">
+     <did>
+      <unitid>STA-1730</unitid>
+      <unittitle>The Old Stone Mill, Newport, R.I</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1729.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1731">
+     <did>
+      <unitid>STA-1731</unitid>
+      <unittitle>Old Stone Mill, Newport</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1730.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1733">
+     <did>
+      <unitid>STA-1733</unitid>
+      <unittitle>Main Street Newport N. Y</unittitle>
+      <unitdate normal="1855/1865">c. 1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1732.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1735">
+     <did>
+      <unitid>STA-1735</unitid>
+      <unittitle>Old Stone Mill, Newport, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1734.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1736">
+     <did>
+      <unitid>STA-1736</unitid>
+      <unittitle>Union Store Newport N. Y.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1735.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1737">
+     <did>
+      <unitid>STA-1737</unitid>
+      <unittitle>Old Stone Mill, Newport, R.I, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1736.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1738">
+     <did>
+      <unitid>STA-1738</unitid>
+      <unittitle>The Old Stone Mill, Newport, R.I, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1737.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1739">
+     <did>
+      <unitid>STA-1739</unitid>
+      <unittitle>Westminster Street, Providence</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1738.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1740">
+     <did>
+      <unitid>STA-1740</unitid>
+      <unittitle>Boston and Providence R.R. Station, exterior</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1739.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1741">
+     <did>
+      <unitid>STA-1741</unitid>
+      <unittitle>Arcade, Providence, R.I</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1740.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1742">
+     <did>
+      <unitid>STA-1742</unitid>
+      <unittitle>Providence Depot</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1741.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1743">
+     <did>
+      <unitid>STA-1743</unitid>
+      <unittitle>Baptist Church, Providence, R.I</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1742.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1745">
+     <did>
+      <unitid>STA-1745</unitid>
+      <unittitle>First Baptist Church, Providence, R.I</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1744.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1746">
+     <did>
+      <unitid>STA-1746</unitid>
+      <unittitle>Providence Railroad Depot, Boston</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1745.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1747">
+     <did>
+      <unitid>STA-1747</unitid>
+      <unittitle>Market Square, Providence, R.I</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1746.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1749">
+     <did>
+      <unitid>STA-1749</unitid>
+      <unittitle>Central Railroad Station, Providence, R.I</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1748.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1750">
+     <did>
+      <unitid>STA-1750</unitid>
+      <unittitle>Broad St., Providence, R.I</unittitle>
+      <unitdate normal="1863/1873">c. 1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1749.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1751">
+     <did>
+      <unitid>STA-1751</unitid>
+      <unittitle>First Baptist Church, Providence, R.I, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1750.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1752">
+     <did>
+      <unitid>STA-1752</unitid>
+      <unittitle>Westminster St., Providence, R.I</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1751.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1753">
+     <did>
+      <unitid>STA-1753</unitid>
+      <unittitle>Brown University, Providence, R.I</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1752.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1754">
+     <did>
+      <unitid>STA-1754</unitid>
+      <unittitle>Post Office, Providence, R.I</unittitle>
+      <unitdate normal="1863/1873">c. 1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1753.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1755">
+     <did>
+      <unitid>STA-1755</unitid>
+      <unittitle>Washington Building, Providence, R.I</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1754.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1757">
+     <did>
+      <unitid>STA-1757</unitid>
+      <unittitle>Market Square, Providence, R.I, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1756.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1758">
+     <did>
+      <unitid>STA-1758</unitid>
+      <unittitle>(Roger Williams) Park, Providence, R.I</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1757.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1760">
+     <did>
+      <unitid>STA-1760</unitid>
+      <unittitle>View of Rochester, New York</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1759.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1762">
+     <did>
+      <unitid>STA-1762</unitid>
+      <unittitle>University, Rochester, N.Y</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1761.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1764">
+     <did>
+      <unitid>STA-1764</unitid>
+      <unittitle>Rochester St</unittitle>
+      <unitdate normal="1883/1893">c. 1888</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1763.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1766">
+     <did>
+      <unitid>STA-1766</unitid>
+      <unittitle>Court House and City Hall, Rochester, N.Y</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1765.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1767">
+     <did>
+      <unitid>STA-1767</unitid>
+      <unittitle>Arnold Park, Rochester</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1766.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1768">
+     <did>
+      <unitid>STA-1768</unitid>
+      <unittitle>View from Oak Ave., Mt. Hope, Rochester, N.Y</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1767.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1769">
+     <did>
+      <unitid>STA-1769</unitid>
+      <unittitle>Livingstone Place, Rochester, N.Y</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1768.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1770">
+     <did>
+      <unitid>STA-1770</unitid>
+      <unittitle>Arcade and Powers' Block, Rochester, N.Y</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1769.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1772">
+     <did>
+      <unitid>STA-1772</unitid>
+      <unittitle>East Main St. Rochester, N.Y</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1771.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1774">
+     <did>
+      <unitid>STA-1774</unitid>
+      <unittitle>First Baptist Church, Rochester, N.Y</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1773.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -10835,6 +11435,198 @@
       <unittitle>Students' parade, U.S.N. Academy, Annapolis, Md (NYPL b11707486-G90F209 022F)</unittitle>
       <unitdate normal="1868">1868</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1648.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1677">
+     <did>
+      <unitid>STA-1677</unitid>
+      <unittitle>Prospecting on Mount Holyoke</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1676.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1685">
+     <did>
+      <unitid>STA-1685</unitid>
+      <unittitle>Prospecting on Mount Holyoke, by F. H. Putnam</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1684.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1694">
+     <did>
+      <unitid>STA-1694</unitid>
+      <unittitle>Group of people on side of hill, some sitting, one with telescope</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1693.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1695">
+     <did>
+      <unitid>STA-1695</unitid>
+      <unittitle>Apache Indians at a game of cards, by Continent Stereoscopic Company</unittitle>
+      <unitdate normal="1878/1898">1878–1898</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1694.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1696">
+     <did>
+      <unitid>STA-1696</unitid>
+      <unittitle>Group portrait of scouts and Indians</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1695.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1698">
+     <did>
+      <unitid>STA-1698</unitid>
+      <unittitle>Pawnee Indians receiving their Gov't annuity</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1697.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1699">
+     <did>
+      <unitid>STA-1699</unitid>
+      <unittitle>Peter Lacharre. Head Chief of the Pawnee Indians</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1698.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1700">
+     <did>
+      <unitid>STA-1700</unitid>
+      <unittitle>An Indian feast during "payment"</unittitle>
+      <unitdate normal="1890/1900">c. 1895</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1699.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1701">
+     <did>
+      <unitid>STA-1701</unitid>
+      <unittitle>Omaha Indian tent</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1700.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1702">
+     <did>
+      <unitid>STA-1702</unitid>
+      <unittitle>Indian squaws and papooses</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1701.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1704">
+     <did>
+      <unitid>STA-1704</unitid>
+      <unittitle>Group Indian guides and interpreters on horseback</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1703.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1705">
+     <did>
+      <unitid>STA-1705</unitid>
+      <unittitle>The Chief of the Snake River Indians, by Universal Photo Art Co.</unittitle>
+      <unitdate normal="1890/1900">c. 1895</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1704.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1706">
+     <did>
+      <unitid>STA-1706</unitid>
+      <unittitle>Group Siouxs</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1705.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1707">
+     <did>
+      <unitid>STA-1707</unitid>
+      <unittitle>Wan-Hesa</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1706.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1708">
+     <did>
+      <unitid>STA-1708</unitid>
+      <unittitle>Pawnee Chief</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1707.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1709">
+     <did>
+      <unitid>STA-1709</unitid>
+      <unittitle>A young chief and family</unittitle>
+      <unitdate normal="1890/1900">c. 1895</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1708.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1710">
+     <did>
+      <unitid>STA-1710</unitid>
+      <unittitle>Wan-Hesa, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1709.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1711">
+     <did>
+      <unitid>STA-1711</unitid>
+      <unittitle>"City of the West"</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1710.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1712">
+     <did>
+      <unitid>STA-1712</unitid>
+      <unittitle>Preparing for an attack</unittitle>
+      <unitdate normal="1890/1900">c. 1895</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1711.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1713">
+     <did>
+      <unitid>STA-1713</unitid>
+      <unittitle>Sioux Indians. Two fine types of a dying race, by Underwood &amp; Underwood</unittitle>
+      <unitdate normal="1882/1902">1882–1902</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1712.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1714">
+     <did>
+      <unitid>STA-1714</unitid>
+      <unittitle>Red Dog Sioux Chief</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1713.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1715">
+     <did>
+      <unitid>STA-1715</unitid>
+      <unittitle>After the chase. The unlucky captive</unittitle>
+      <unitdate normal="1890/1900">c. 1895</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1714.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1756">
+     <did>
+      <unitid>STA-1756</unitid>
+      <unittitle>Friends' School Scholars, Providence, R.I</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1755.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1759">
+     <did>
+      <unitid>STA-1759</unitid>
+      <unittitle>Club Girls of Friend's School, Providence, R.I</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1758.jpg"/>
      </did>
     </c>
    </c>

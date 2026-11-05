@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1775.json",
+ "name": "Park-side and Mountain, Rochester",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1774.jpg",
+ "identifier": "STA-1775",
+ "dateCreated": "1888",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Rochester, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Park-side_and_Mountain,_Rochester,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1720.json",
+ "name": "A view on upper Main Street Newport N. Y",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1719.jpg",
+ "identifier": "STA-1720",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Newport, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:A_view_on_upper_Main_Street_Newport_N._Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

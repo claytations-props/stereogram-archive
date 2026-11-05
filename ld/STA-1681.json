@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1681.json",
+ "name": "Prospect House, Mount Holyoke, from foot of railway",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1680.jpg",
+ "identifier": "STA-1681",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mount Holyoke, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Prospect_House,_Mount_Holyoke,_from_foot_of_railway,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

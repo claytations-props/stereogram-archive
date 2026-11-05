@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1759.json",
+ "name": "Club Girls of Friend's School, Providence, R.I",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1758.jpg",
+ "identifier": "STA-1759",
+ "dateCreated": "1874",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Providence, Rhode Island"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Club_Girls_of_Friend%27s_School,_Providence,_R.I,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

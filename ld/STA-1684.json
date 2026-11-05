@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1684.json",
+ "name": "Globe Rock, Mount Holyoke, by F. H. Putnam",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1683.jpg",
+ "identifier": "STA-1684",
+ "creator": {
+  "@type": "Person",
+  "name": "F. H. Putnam"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mount Holyoke, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Globe_Rock,_Mount_Holyoke,_by_F._H._Putnam.jpg"
+}

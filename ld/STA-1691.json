@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1691.json",
+ "name": "View of Connecticut River from Mount Holyoke (NYPL b11707524-G90F249 026ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1690.jpg",
+ "identifier": "STA-1691",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mount Holyoke, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_Connecticut_River_from_Mount_Holyoke_(NYPL_b11707524-G90F249_026ZF).tiff"
+}

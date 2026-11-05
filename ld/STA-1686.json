@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1686.json",
+ "name": "Northampton from Mount Holyoke, by Knowlton Bros.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1685.jpg",
+ "identifier": "STA-1686",
+ "creator": {
+  "@type": "Person",
+  "name": "Knowlton Bros."
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Northampton, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Northampton_from_Mount_Holyoke,_by_Knowlton_Bros..jpg"
+}

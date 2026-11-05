@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1746.json",
+ "name": "Providence Railroad Depot, Boston",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1745.jpg",
+ "identifier": "STA-1746",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boston, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Providence_Railroad_Depot,_Boston,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

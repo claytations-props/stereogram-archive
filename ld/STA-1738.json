@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1738.json",
+ "name": "The Old Stone Mill, Newport, R.I, from Robert N. Dennis collection of stereoscopic views 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1737.jpg",
+ "identifier": "STA-1738",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Newport, Rhode Island"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Old_Stone_Mill,_Newport,_R.I,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg"
+}

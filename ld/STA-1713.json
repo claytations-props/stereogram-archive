@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1713.json",
+ "name": "Sioux Indians. Two fine types of a dying race, by Underwood & Underwood",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1712.jpg",
+ "identifier": "STA-1713",
+ "creator": {
+  "@type": "Person",
+  "name": "Underwood & Underwood"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sioux_Indians._Two_fine_types_of_a_dying_race,_by_Underwood_%26_Underwood.jpg"
+}

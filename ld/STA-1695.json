@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1695.json",
+ "name": "Apache Indians at a game of cards, by Continent Stereoscopic Company",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1694.jpg",
+ "identifier": "STA-1695",
+ "creator": {
+  "@type": "Person",
+  "name": "Continent Stereoscopic Company"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Apache_Indians_at_a_game_of_cards,_by_Continent_Stereoscopic_Company.png"
+}
