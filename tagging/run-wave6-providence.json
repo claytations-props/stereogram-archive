@@ -1,0 +1,18 @@
+{"assignments": {
+"STA-1739": {"tags": ["main street", "storefront"], "conf": "high"},
+"STA-1742": {"tags": ["train station", "statue"], "conf": "high"},
+"STA-1743": {"tags": ["church", "trees"], "conf": "high"},
+"STA-1744": {"tags": ["river", "ship"], "conf": "high"},
+"STA-1745": {"tags": ["church", "trees"], "conf": "medium"},
+"STA-1747": {"tags": ["town square", "storefront"], "conf": "high"},
+"STA-1749": {"tags": ["train station", "wagon"], "conf": "high"},
+"STA-1750": {"tags": ["main street", "storefront"], "conf": "high"},
+"STA-1751": {"tags": ["church interior", "pipe organ"], "conf": "high"},
+"STA-1752": {"tags": ["main street", "church"], "conf": "high"},
+"STA-1753": {"tags": ["university", "trees"], "conf": "high"},
+"STA-1754": {"tags": ["main street", "storefront"], "conf": "high"},
+"STA-1756": {"tags": ["portrait group", "children"], "conf": "high"},
+"STA-1757": {"tags": ["main street", "storefront"], "conf": "high"},
+"STA-1758": {"tags": ["trees", "house"], "conf": "high"},
+"STA-1759": {"tags": ["portrait group", "trees"], "conf": "high"}
+}}
