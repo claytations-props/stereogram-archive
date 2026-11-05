@@ -1,0 +1,69 @@
+{
+ "title": "Indian encampment (...) Lake",
+ "place": "Place unrecorded",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Indian_encampment_%28...%29_Lake%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Indian_encampment_%28...%29_Lake%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/32/Indian_encampment_%28...%29_Lake%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Indian_encampment_(...)_Lake,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2563,
+ "h": 1286,
+ "id": "STA-1703",
+ "rect": "rect/1702.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.16,
+ "rot": 0.05,
+ "range": 2.92,
+ "f": 0.8,
+ "depth": "Deep",
+ "va": 1.4118,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Indian_encampment_%28...%29_Lake%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Indian_encampment_%28...%29_Lake%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.4118,
+  "L": [
+   0.4,
+   0.0,
+   0.079427,
+   0.0,
+   0.564901,
+   0.2892
+  ],
+  "R": [
+   0.399483,
+   -0.030556,
+   0.565156,
+   0.00803,
+   0.569939,
+   0.289017
+  ],
+  "g": [
+   1.0,
+   0.9654
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.05° of rotation. Depth measured deep (2.92% of frame width); hung in the VR Parlor at 80% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10033210,
+ "source_revision_id": null,
+ "source_sha1": "28b323adc1372edb11b5c27b1f8cb13f1d688c21"
+}

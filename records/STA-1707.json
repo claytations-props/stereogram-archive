@@ -1,0 +1,69 @@
+{
+ "title": "Wan-Hesa",
+ "place": "Place unrecorded",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Wan-Hesa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Wan-Hesa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/72/Wan-Hesa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Wan-Hesa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2601,
+ "h": 1300,
+ "id": "STA-1707",
+ "rect": "rect/1706.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.21,
+ "rot": 0.19,
+ "range": 2.35,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.8607,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Wan-Hesa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Wan-Hesa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8607,
+  "L": [
+   0.286458,
+   0.0,
+   0.203906,
+   0.0,
+   0.665625,
+   0.304688
+  ],
+  "R": [
+   0.303072,
+   0.004623,
+   0.596784,
+   -5.7e-05,
+   0.66678,
+   0.309154
+  ],
+  "g": [
+   0.959,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.19° of rotation. Depth measured deep (2.35% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10033202,
+ "source_revision_id": null,
+ "source_sha1": "f4da19bc51c74aec4322ad221f353c1e04f1f8b5"
+}
