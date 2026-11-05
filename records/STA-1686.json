@@ -1,0 +1,69 @@
+{
+ "title": "Northampton from Mount Holyoke, by Knowlton Bros.",
+ "place": "Northampton, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Northampton_from_Mount_Holyoke%2C_by_Knowlton_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Northampton_from_Mount_Holyoke%2C_by_Knowlton_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Northampton_from_Mount_Holyoke,_by_Knowlton_Bros..jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 440,
+ "id": "STA-1686",
+ "rect": "rect/1685.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.33,
+ "rot": 0.08,
+ "range": 1.04,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.2867,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Northampton_from_Mount_Holyoke%2C_by_Knowlton_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.2867,
+  "L": [
+   0.242105,
+   0.0,
+   0.076974,
+   0.0,
+   0.325,
+   0.642045
+  ],
+  "R": [
+   0.246748,
+   -0.010011,
+   0.560325,
+   0.001162,
+   0.324918,
+   0.62976
+  ],
+  "g": [
+   0.8983,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.33% vertical error and 0.08° of rotation. Depth measured gentle (1.04% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Knowlton Bros.",
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7443109,
+ "source_revision_id": null,
+ "source_sha1": "00b3fbab554c9396cb0a16e34fee7a196d8bfa87"
+}

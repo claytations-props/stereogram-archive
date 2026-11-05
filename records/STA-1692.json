@@ -1,0 +1,69 @@
+{
+ "title": "Prospect House",
+ "place": "Mount Holyoke, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/6/66/Prospect_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/66/Prospect_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Prospect_House,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 444,
+ "id": "STA-1692",
+ "rect": "rect/1691.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.17,
+ "rot": 0.07,
+ "range": 1.16,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.7698,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/6/66/Prospect_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.7698,
+  "L": [
+   0.396053,
+   0.0,
+   0.075658,
+   0.0,
+   0.880631,
+   0.068694
+  ],
+  "R": [
+   0.399316,
+   -0.008349,
+   0.5246,
+   -0.004496,
+   0.883938,
+   0.061296
+  ],
+  "g": [
+   0.9589,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.07° of rotation. Depth measured gentle (1.16% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7443119,
+ "source_revision_id": null,
+ "source_sha1": "3473b0ed23bc135d17b811ada83526edec6ce853"
+}
