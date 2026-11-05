@@ -1,0 +1,69 @@
+{
+ "title": "Arnold Park, Rochester",
+ "place": "Rochester, New York",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Arnold_Park%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Arnold_Park%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Arnold_Park%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Arnold_Park,_Rochester,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2645,
+ "h": 1378,
+ "id": "STA-1767",
+ "rect": "rect/1766.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.12,
+ "rot": 0.0,
+ "range": 2.84,
+ "f": 0.72,
+ "depth": "Deep",
+ "va": 1.6256,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Arnold_Park%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Arnold_Park%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.6256,
+  "L": [
+   0.364063,
+   0.0,
+   0.107031,
+   0.0,
+   0.43,
+   0.1665
+  ],
+  "R": [
+   0.364015,
+   -0.000457,
+   0.524231,
+   -0.000282,
+   0.429317,
+   0.185374
+  ],
+  "g": [
+   1.0,
+   0.9799
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured deep (2.84% of frame width); hung in the VR Parlor at 72% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10069358,
+ "source_revision_id": null,
+ "source_sha1": "ab3cac9c83eda438623ca53dcc5bdf4c03b57b11"
+}

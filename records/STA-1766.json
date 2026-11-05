@@ -1,0 +1,69 @@
+{
+ "title": "Court House and City Hall, Rochester, N.Y",
+ "place": "Rochester, New York",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Court_House_and_City_Hall%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Court_House_and_City_Hall%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Court_House_and_City_Hall%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Court_House_and_City_Hall,_Rochester,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2663,
+ "h": 1390,
+ "id": "STA-1766",
+ "rect": "rect/1765.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.04,
+ "range": 0.87,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.7887,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Court_House_and_City_Hall%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Court_House_and_City_Hall%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7887,
+  "L": [
+   0.371354,
+   0.0,
+   0.105469,
+   0.0,
+   0.902196,
+   0.044411
+  ],
+  "R": [
+   0.369037,
+   -0.001047,
+   0.525231,
+   -0.006515,
+   0.897908,
+   0.060849
+  ],
+  "g": [
+   1.0,
+   0.9959
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.04° of rotation. Depth measured gentle (0.87% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10069413,
+ "source_revision_id": null,
+ "source_sha1": "757113d26a0558547954474569fa6777cd97cca8"
+}

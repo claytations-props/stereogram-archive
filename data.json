@@ -104036,5 +104036,949 @@
   "date_start": 1874,
   "date_end": 1874,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of Rochester, New York",
+  "place": "Rochester, New York",
+  "year": "c. 1885",
+  "sy": 1885,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/View_of_Rochester%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_Rochester%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5b/View_of_Rochester%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_Rochester,_New_York,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2639,
+  "h": 1390,
+  "id": "STA-1760",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1759.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.01,
+  "range": 0.82,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8341,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/View_of_Rochester%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_Rochester%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8341,
+   "L": [
+    0.374479,
+    0.0,
+    0.113281,
+    0.0,
+    0.852621,
+    0.036103
+   ],
+   "R": [
+    0.3712,
+    0.000817,
+    0.534854,
+    0.002361,
+    0.846578,
+    0.041917
+   ],
+   "g": [
+    0.9977,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.01° of rotation. Depth measured gentle (0.82% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1885~",
+  "date_start": 1880,
+  "date_end": 1890,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of a mountain and home in Rochester",
+  "place": "Rochester, New York",
+  "year": "c. 1888",
+  "sy": 1888,
+  "era": "mid",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/View_of_a_mountain_and_home_in_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_a_mountain_and_home_in_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7e/View_of_a_mountain_and_home_in_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_mountain_and_home_in_Rochester,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2657,
+  "h": 1384,
+  "id": "STA-1761",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1760.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.26,
+  "rot": 0.01,
+  "range": 0.43,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.0919,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/View_of_a_mountain_and_home_in_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_a_mountain_and_home_in_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.0919,
+   "L": [
+    0.403125,
+    0.0,
+    0.078385,
+    0.0,
+    0.37,
+    0.2455
+   ],
+   "R": [
+    0.401191,
+    -0.003947,
+    0.520523,
+    0.015179,
+    0.368605,
+    0.236277
+   ],
+   "g": [
+    0.8769,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.26% vertical error and 0.01° of rotation. Depth measured gentle (0.43% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1888~",
+  "date_start": 1883,
+  "date_end": 1893,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "University, Rochester, N.Y",
+  "place": "Rochester, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/University%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-University%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/4c/University%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:University,_Rochester,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2657,
+  "h": 1354,
+  "id": "STA-1762",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1761.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.21,
+  "rot": 0.01,
+  "range": 0.56,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.8088,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/University%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-University%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.8088,
+   "L": [
+    0.397917,
+    0.0,
+    0.077344,
+    0.0,
+    0.278119,
+    0.314417
+   ],
+   "R": [
+    0.395526,
+    0.000142,
+    0.506425,
+    -0.001024,
+    0.277102,
+    0.313806
+   ],
+   "g": [
+    1.0,
+    0.9353
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.01° of rotation. Depth measured gentle (0.56% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Genesee Falls at Rochester",
+  "place": "Rochester, New York",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Genesee_Falls_at_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Genesee_Falls_at_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/13/Genesee_Falls_at_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Genesee_Falls_at_Rochester,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2633,
+  "h": 1324,
+  "id": "STA-1763",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1762.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.26,
+  "rot": 0.12,
+  "range": 0.43,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.6779,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Genesee_Falls_at_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Genesee_Falls_at_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.6779,
+   "L": [
+    0.284896,
+    0.0,
+    0.116927,
+    0.0,
+    0.337824,
+    0.276166
+   ],
+   "R": [
+    0.288978,
+    0.000473,
+    0.517762,
+    -0.003255,
+    0.341441,
+    0.270553
+   ],
+   "g": [
+    1.0,
+    0.982
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.26% vertical error and 0.12° of rotation. Depth measured gentle (0.43% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865~",
+  "date_start": 1860,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Rochester St",
+  "place": "Rochester, New York",
+  "year": "c. 1888",
+  "sy": 1888,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Rochester_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Rochester_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Rochester_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Rochester_St,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2651,
+  "h": 1366,
+  "id": "STA-1764",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1763.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.2,
+  "rot": 0.06,
+  "range": 0.38,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.3373,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Rochester_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Rochester_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3373,
+   "L": [
+    0.404687,
+    0.0,
+    0.079427,
+    0.0,
+    0.587462,
+    0.055106
+   ],
+   "R": [
+    0.403343,
+    1.2e-05,
+    0.518858,
+    -0.002059,
+    0.590768,
+    0.044445
+   ],
+   "g": [
+    0.8459,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.2% vertical error and 0.06° of rotation. Depth measured gentle (0.38% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1888~",
+  "date_start": 1883,
+  "date_end": 1893,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Genesee High Falls, Rochester",
+  "place": "Rochester, New York",
+  "year": "c. 1890",
+  "sy": 1890,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Genesee_High_Falls%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Genesee_High_Falls%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Genesee_High_Falls%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Genesee_High_Falls,_Rochester,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2681,
+  "h": 1360,
+  "id": "STA-1765",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1764.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.16,
+  "rot": 0.01,
+  "range": 0.77,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9049,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Genesee_High_Falls%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Genesee_High_Falls%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9049,
+   "L": [
+    0.386458,
+    0.0,
+    0.08724,
+    0.0,
+    0.841889,
+    0.120637
+   ],
+   "R": [
+    0.387555,
+    -0.006334,
+    0.511236,
+    0.007862,
+    0.838352,
+    0.121379
+   ],
+   "g": [
+    0.9784,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.01° of rotation. Depth measured gentle (0.77% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1890~",
+  "date_start": 1885,
+  "date_end": 1895,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Court House and City Hall, Rochester, N.Y",
+  "place": "Rochester, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Court_House_and_City_Hall%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Court_House_and_City_Hall%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Court_House_and_City_Hall%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Court_House_and_City_Hall,_Rochester,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1390,
+  "id": "STA-1766",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1765.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.04,
+  "range": 0.87,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7887,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Court_House_and_City_Hall%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Court_House_and_City_Hall%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7887,
+   "L": [
+    0.371354,
+    0.0,
+    0.105469,
+    0.0,
+    0.902196,
+    0.044411
+   ],
+   "R": [
+    0.369037,
+    -0.001047,
+    0.525231,
+    -0.006515,
+    0.897908,
+    0.060849
+   ],
+   "g": [
+    1.0,
+    0.9959
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.04° of rotation. Depth measured gentle (0.87% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Arnold Park, Rochester",
+  "place": "Rochester, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Arnold_Park%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Arnold_Park%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Arnold_Park%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Arnold_Park,_Rochester,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2645,
+  "h": 1378,
+  "id": "STA-1767",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1766.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 2.84,
+  "f": 0.72,
+  "depth": "Deep",
+  "va": 1.6256,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Arnold_Park%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Arnold_Park%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.6256,
+   "L": [
+    0.364063,
+    0.0,
+    0.107031,
+    0.0,
+    0.43,
+    0.1665
+   ],
+   "R": [
+    0.364015,
+    -0.000457,
+    0.524231,
+    -0.000282,
+    0.429317,
+    0.185374
+   ],
+   "g": [
+    1.0,
+    0.9799
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured deep (2.84% of frame width); hung in the VR Parlor at 72% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View from Oak Ave., Mt. Hope, Rochester, N.Y",
+  "place": "Rochester, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/View_from_Oak_Ave.%2C_Mt._Hope%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_from_Oak_Ave.%2C_Mt._Hope%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/2b/View_from_Oak_Ave.%2C_Mt._Hope%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_from_Oak_Ave.,_Mt._Hope,_Rochester,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2639,
+  "h": 1372,
+  "id": "STA-1768",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1767.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 1.71,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.7046,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/View_from_Oak_Ave.%2C_Mt._Hope%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_from_Oak_Ave.%2C_Mt._Hope%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7046,
+   "L": [
+    0.309375,
+    0.0,
+    0.110677,
+    0.0,
+    0.844689,
+    0.043587
+   ],
+   "R": [
+    0.308184,
+    -0.000678,
+    0.550954,
+    -0.003067,
+    0.84034,
+    0.044664
+   ],
+   "g": [
+    0.9238,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured moderate (1.71% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Livingstone Place, Rochester, N.Y",
+  "place": "Rochester, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Livingstone_Place%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Livingstone_Place%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/10/Livingstone_Place%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Livingstone_Place,_Rochester,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2639,
+  "h": 1378,
+  "id": "STA-1769",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1768.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 1.38,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2029,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Livingstone_Place%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Livingstone_Place%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2029,
+   "L": [
+    0.389062,
+    0.0,
+    0.097135,
+    0.0,
+    0.619143,
+    0.049352
+   ],
+   "R": [
+    0.387985,
+    -0.002502,
+    0.514852,
+    0.006552,
+    0.619229,
+    0.042773
+   ],
+   "g": [
+    1.0,
+    0.9193
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (1.38% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Arcade and Powers' Block, Rochester, N.Y",
+  "place": "Rochester, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Arcade_and_Powers%27_Block%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Arcade_and_Powers%27_Block%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Arcade_and_Powers%27_Block%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Arcade_and_Powers%27_Block,_Rochester,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2627,
+  "h": 1366,
+  "id": "STA-1770",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1769.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 0.54,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.842,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Arcade_and_Powers%27_Block%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Arcade_and_Powers%27_Block%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.842,
+   "L": [
+    0.380208,
+    0.0,
+    0.088281,
+    0.0,
+    0.868737,
+    0.096693
+   ],
+   "R": [
+    0.379328,
+    -0.000381,
+    0.515619,
+    0.000423,
+    0.868144,
+    0.097009
+   ],
+   "g": [
+    1.0,
+    0.9724
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (0.54% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Middle Falls and ... Rochester, N.Y",
+  "place": "Rochester, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Middle_Falls_and_..._Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Middle_Falls_and_..._Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/91/Middle_Falls_and_..._Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Middle_Falls_and_..._Rochester,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2621,
+  "h": 1354,
+  "id": "STA-1771",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1770.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.06,
+  "range": 0.56,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8378,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Middle_Falls_and_..._Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Middle_Falls_and_..._Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8378,
+   "L": [
+    0.376563,
+    0.0,
+    0.094531,
+    0.0,
+    0.86996,
+    0.037802
+   ],
+   "R": [
+    0.376533,
+    -0.003088,
+    0.526945,
+    -0.000174,
+    0.868512,
+    0.038719
+   ],
+   "g": [
+    1.0,
+    0.9312
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.06° of rotation. Depth measured gentle (0.56% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "East Main St. Rochester, N.Y",
+  "place": "Rochester, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/East_Main_St._Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-East_Main_St._Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f0/East_Main_St._Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:East_Main_St._Rochester,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2651,
+  "h": 1378,
+  "id": "STA-1772",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1771.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.02,
+  "range": 1.01,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.845,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/East_Main_St._Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-East_Main_St._Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.845,
+   "L": [
+    0.340625,
+    0.0,
+    0.102865,
+    0.0,
+    0.775551,
+    0.137776
+   ],
+   "R": [
+    0.341535,
+    -0.005551,
+    0.51312,
+    0.003418,
+    0.781158,
+    0.164634
+   ],
+   "g": [
+    0.9097,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured gentle (1.01% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Genesee Lower Falls, Rochester, N.Y",
+  "place": "Rochester, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Genesee_Lower_Falls%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Genesee_Lower_Falls%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Genesee_Lower_Falls%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Genesee_Lower_Falls,_Rochester,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2657,
+  "h": 1372,
+  "id": "STA-1773",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1772.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 0.31,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1664,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Genesee_Lower_Falls%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Genesee_Lower_Falls%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1664,
+   "L": [
+    0.383333,
+    0.0,
+    0.097135,
+    0.0,
+    0.636731,
+    0.046922
+   ],
+   "R": [
+    0.384228,
+    -0.006355,
+    0.516179,
+    0.012931,
+    0.637714,
+    0.036422
+   ],
+   "g": [
+    1.0,
+    0.9593
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured gentle (0.31% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "First Baptist Church, Rochester, N.Y",
+  "place": "Rochester, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/First_Baptist_Church%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-First_Baptist_Church%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/99/First_Baptist_Church%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:First_Baptist_Church,_Rochester,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1664,
+  "id": "STA-1774",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1773.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.04,
+  "range": 1.88,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.0117,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/First_Baptist_Church%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-First_Baptist_Church%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0117,
+   "L": [
+    0.404167,
+    0.0,
+    0.071615,
+    0.0,
+    0.639167,
+    0.052083
+   ],
+   "R": [
+    0.405297,
+    0.00295,
+    0.50501,
+    -0.00409,
+    0.636441,
+    0.058915
+   ],
+   "g": [
+    0.9798,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.04° of rotation. Depth measured moderate (1.88% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Park-side and Mountain, Rochester",
+  "place": "Rochester, New York",
+  "year": "1888",
+  "sy": 1888,
+  "era": "mid",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Park-side_and_Mountain%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Park-side_and_Mountain%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/52/Park-side_and_Mountain%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Park-side_and_Mountain,_Rochester,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2645,
+  "h": 1354,
+  "id": "STA-1775",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1774.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.24,
+  "rot": 0.03,
+  "range": 0.4,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.526,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Park-side_and_Mountain%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Park-side_and_Mountain%2C_Rochester%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.526,
+   "L": [
+    0.4125,
+    0.0,
+    0.076823,
+    0.0,
+    0.527976,
+    0.042218
+   ],
+   "R": [
+    0.405505,
+    -0.000123,
+    0.515549,
+    0.001244,
+    0.516962,
+    0.050179
+   ],
+   "g": [
+    0.9979,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.03° of rotation. Depth measured gentle (0.4% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1888",
+  "date_start": 1888,
+  "date_end": 1888,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]
