@@ -1,0 +1,69 @@
+{
+ "title": "Old Stone Mill, Newport",
+ "place": "Newport, Rhode Island",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Old_Stone_Mill%2C_Newport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Old_Stone_Mill%2C_Newport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/39/Old_Stone_Mill%2C_Newport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Old_Stone_Mill,_Newport,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1456,
+ "id": "STA-1731",
+ "rect": "rect/1730.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.12,
+ "rot": 0.01,
+ "range": 1.33,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.1062,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Old_Stone_Mill%2C_Newport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Old_Stone_Mill%2C_Newport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.1062,
+  "L": [
+   0.298438,
+   0.0,
+   0.128906,
+   0.0,
+   0.507346,
+   0.226738
+  ],
+  "R": [
+   0.3002,
+   -0.004827,
+   0.530394,
+   0.007709,
+   0.50833,
+   0.248171
+  ],
+  "g": [
+   0.8684,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured gentle (1.33% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10078838,
+ "source_revision_id": null,
+ "source_sha1": "52dcf6428e713e76c4c48c1c526d3035ca3d2c16"
+}

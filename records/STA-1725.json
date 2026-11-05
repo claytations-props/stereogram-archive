@@ -1,0 +1,69 @@
+{
+ "title": "Purgatory, Newport",
+ "place": "Newport, Rhode Island",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Purgatory%2C_Newport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Purgatory%2C_Newport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/45/Purgatory%2C_Newport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Purgatory,_Newport,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1458,
+ "id": "STA-1725",
+ "rect": "rect/1724.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.12,
+ "rot": 0.02,
+ "range": 1.61,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.9372,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Purgatory%2C_Newport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Purgatory%2C_Newport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9372,
+  "L": [
+   0.279687,
+   0.0,
+   0.201823,
+   0.0,
+   0.560117,
+   0.171554
+  ],
+  "R": [
+   0.276707,
+   -0.005206,
+   0.600225,
+   0.001467,
+   0.56123,
+   0.16824
+  ],
+  "g": [
+   1.0,
+   0.9956
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.02° of rotation. Depth measured moderate (1.61% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10078833,
+ "source_revision_id": null,
+ "source_sha1": "ecb42ac358687f6190d7b82a38bdb6ae75627f4d"
+}
