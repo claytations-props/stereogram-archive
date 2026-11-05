@@ -1,0 +1,17 @@
+{"assignments": {
+"STA-1760": {"tags": ["main street", "storefront"], "conf": "high"},
+"STA-1761": {"tags": ["mountain", "house"], "conf": "high"},
+"STA-1762": {"tags": ["university", "trees"], "conf": "high"},
+"STA-1763": {"tags": ["waterfall", "river"], "conf": "high"},
+"STA-1764": {"tags": ["main street", "trees"], "conf": "high"},
+"STA-1765": {"tags": ["waterfall", "river", "bridge"], "conf": "high"},
+"STA-1767": {"tags": ["trees", "garden"], "conf": "high"},
+"STA-1768": {"tags": ["cemetery", "trees"], "conf": "high"},
+"STA-1769": {"tags": ["trees", "house"], "conf": "high"},
+"STA-1770": {"tags": ["main street", "storefront"], "conf": "high"},
+"STA-1771": {"tags": ["waterfall", "river"], "conf": "high"},
+"STA-1772": {"tags": ["main street", "storefront"], "conf": "high"},
+"STA-1773": {"tags": ["waterfall", "ice"], "conf": "high"},
+"STA-1774": {"tags": ["church", "house"], "conf": "high"},
+"STA-1775": {"tags": ["trees", "mountain"], "conf": "medium"}
+}}
