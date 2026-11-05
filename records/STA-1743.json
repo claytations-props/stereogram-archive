@@ -1,0 +1,69 @@
+{
+ "title": "Baptist Church, Providence, R.I",
+ "place": "Providence, Rhode Island",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Baptist_Church%2C_Providence%2C_R.I%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Baptist_Church%2C_Providence%2C_R.I%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/00/Baptist_Church%2C_Providence%2C_R.I%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Baptist_Church,_Providence,_R.I,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1394,
+ "id": "STA-1743",
+ "rect": "rect/1742.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.12,
+ "rot": 0.0,
+ "range": 0.46,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8796,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Baptist_Church%2C_Providence%2C_R.I%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Baptist_Church%2C_Providence%2C_R.I%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8796,
+  "L": [
+   0.388021,
+   0.0,
+   0.101823,
+   0.0,
+   0.866053,
+   0.093558
+  ],
+  "R": [
+   0.391464,
+   -0.001271,
+   0.511609,
+   0.001076,
+   0.875021,
+   0.074865
+  ],
+  "g": [
+   0.9787,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (0.46% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10080209,
+ "source_revision_id": null,
+ "source_sha1": "489ae60e78c2ab704dcd5f8a3c51d4ff6c6649d0"
+}

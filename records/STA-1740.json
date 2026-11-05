@@ -1,0 +1,69 @@
+{
+ "title": "Boston and Providence R.R. Station, exterior",
+ "place": "Boston, Massachusetts",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Boston_and_Providence_R.R._Station%2C_exterior%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Boston_and_Providence_R.R._Station%2C_exterior%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/69/Boston_and_Providence_R.R._Station%2C_exterior%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Boston_and_Providence_R.R._Station,_exterior,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1420,
+ "id": "STA-1740",
+ "rect": "rect/1739.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.01,
+ "range": 1.18,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8675,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Boston_and_Providence_R.R._Station%2C_exterior%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Boston_and_Providence_R.R._Station%2C_exterior%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8675,
+  "L": [
+   0.381771,
+   0.0,
+   0.10651,
+   0.0,
+   0.848394,
+   0.040663
+  ],
+  "R": [
+   0.379593,
+   0.000832,
+   0.505835,
+   -0.001501,
+   0.848238,
+   0.052309
+  ],
+  "g": [
+   1.0,
+   0.9943
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (1.18% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7459267,
+ "source_revision_id": null,
+ "source_sha1": "2ec178d21b55fe4ff0e11854655f6c0b3198e8ef"
+}

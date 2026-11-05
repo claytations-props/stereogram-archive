@@ -1,0 +1,69 @@
+{
+ "title": "(Roger Williams) Park, Providence, R.I",
+ "place": "Providence, Rhode Island",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/%28Roger_Williams%29_Park%2C_Providence%2C_R.I%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-%28Roger_Williams%29_Park%2C_Providence%2C_R.I%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/b0/%28Roger_Williams%29_Park%2C_Providence%2C_R.I%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:(Roger_Williams)_Park,_Providence,_R.I,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1413,
+ "id": "STA-1758",
+ "rect": "rect/1757.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.24,
+ "rot": 0.18,
+ "range": 1.09,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.6348,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/%28Roger_Williams%29_Park%2C_Providence%2C_R.I%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-%28Roger_Williams%29_Park%2C_Providence%2C_R.I%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.6348,
+  "L": [
+   0.356771,
+   0.0,
+   0.136198,
+   0.0,
+   0.422805,
+   0.056004
+  ],
+  "R": [
+   0.358002,
+   -0.00368,
+   0.509806,
+   -0.000918,
+   0.422574,
+   0.057995
+  ],
+  "g": [
+   1.0,
+   0.9713
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.18° of rotation. Depth measured gentle (1.09% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10080282,
+ "source_revision_id": null,
+ "source_sha1": "cf9f1c7f5ed5917c43df085d4f36f5fb2458e47d"
+}

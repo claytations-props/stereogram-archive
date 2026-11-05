@@ -1,0 +1,69 @@
+{
+ "title": "Steamer Providence",
+ "place": "New York, New York",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Steamer_Providence%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Steamer_Providence%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/28/Steamer_Providence%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Steamer_Providence,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2608,
+ "h": 1311,
+ "id": "STA-1748",
+ "rect": "rect/1747.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.0,
+ "range": 4.83,
+ "f": 0.72,
+ "depth": "Deep",
+ "va": 0.9044,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Steamer_Providence%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Steamer_Providence%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9044,
+  "L": [
+   0.408854,
+   0.0,
+   0.082552,
+   0.0,
+   0.899482,
+   0.028497
+  ],
+  "R": [
+   0.411614,
+   -0.011532,
+   0.518239,
+   0.018585,
+   0.902601,
+   0.02002
+  ],
+  "g": [
+   1.0,
+   0.9361
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured deep (4.83% of frame width); hung in the VR Parlor at 72% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11999774,
+ "source_revision_id": null,
+ "source_sha1": "028123ca4603d0f3333675cfa0dc367f28b8310a"
+}
