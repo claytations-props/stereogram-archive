@@ -233,7 +233,7 @@ canvas#ana.show{display:block}
     <select id="era" aria-label="Filter by era"><option value="all">All eras</option><option value="early">1840s–1860s</option><option value="mid">1870s–1890s</option><option value="late">1900s–1920s</option><option value="undated">Undated</option></select>
     <select id="sort" aria-label="Sort items"><option value="featured">Sort: Accession order</option><option value="old">Oldest first</option><option value="new">Newest first</option><option value="az">Title A–Z</option><option value="shuffle">Shuffle</option></select>
     <button class="btn" id="clearFilters" hidden>Clear search &amp; filters</button>
-    <span class="viewtog"><button class="btn on" id="vShelves">Shelves</button><button class="btn" id="vRegister">Register</button><button class="btn" id="vTimeline">Timeline</button></span>
+    <span class="viewtog"><button class="btn on" id="vShelves" aria-pressed="true">Shelves</button><button class="btn" id="vRegister" aria-pressed="false">Register</button><button class="btn" id="vTimeline" aria-pressed="false">Timeline</button></span>
     <button class="btn" id="surprise">Request an item</button>
     <a class="btn gold" href="vr.html">Enter the VR Parlor</a>
     <button class="btn" id="howBtn">How to view</button>
@@ -449,7 +449,9 @@ $("#aidToggle").onclick=()=>{const sec=$("#aidSec");sec.classList.toggle("open")
 /* Round 9: one view switch for Shelves, Register, and Timeline; the
    Timeline view is date order by definition, so render() disables the
    sort control while it is active and re-enables it on leaving. */
-function setView(v){state.view=v;["vShelves","vRegister","vTimeline"].forEach(id=>document.getElementById(id).classList.toggle("on",id==="v"+(v==="shelves"?"Shelves":v==="reg"?"Register":"Timeline")));render()}
+/* Round 10: the view toggle is a three-way switch, but only its class
+   said which view was active; screen readers get aria-pressed too. */
+function setView(v){state.view=v;const map={shelves:"vShelves",reg:"vRegister",timeline:"vTimeline"};Object.entries(map).forEach(([k,id])=>{const b=document.getElementById(id);b.classList.toggle("on",k===v);b.setAttribute("aria-pressed",k===v?"true":"false")});render()}
 $("#vShelves").onclick=()=>setView("shelves");
 $("#vRegister").onclick=()=>setView("reg");
 $("#vTimeline").onclick=()=>setView("timeline");
