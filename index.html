@@ -695,7 +695,12 @@ $("#vClose").onclick=closeViewer;
    into the background page. Tab now cycles within the viewer's own
    controls, checked before the input early-return so the wiggle
    slider tabs along with the rest of the viewer. */
-document.addEventListener("keydown",e=>{if(!$("#viewer").classList.contains("open"))return;if(e.key==="Tab"){const els=[...$("#viewer").querySelectorAll("button, a[href], input, [tabindex]")].filter(el=>!el.disabled&&(typeof el.checkVisibility!=="function"||el.checkVisibility()));if(!els.length)return;const first=els[0],last=els[els.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus()}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus()}return;}if(e.target.closest&&e.target.closest("input,select,textarea"))return;if(e.key==="Escape")closeViewer();if(e.key==="ArrowRight")step(e.shiftKey?10:1);if(e.key==="ArrowLeft")step(e.shiftKey?-10:-1)});
+document.addEventListener("keydown",e=>{if(!$("#viewer").classList.contains("open"))return;if(e.key==="Tab"){const els=[...$("#viewer").querySelectorAll("button, a[href], input, [tabindex]")].filter(el=>!el.disabled&&(typeof el.checkVisibility!=="function"||el.checkVisibility()));if(!els.length)return;const first=els[0],last=els[els.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus()}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus()}return;}if(e.target.closest&&e.target.closest("input,select,textarea"))return;if(e.key==="Escape")closeViewer();
+/* Round 10: the viewer already stepped one and ten cards; Home and End
+   complete the set, jumping to the first and last result. */
+if(e.key==="Home"){e.preventDefault();vi=0;showCurrent(true);}
+if(e.key==="End"){e.preventDefault();vi=currentList.length-1;showCurrent(true);}
+if(e.key==="ArrowRight")step(e.shiftKey?10:1);if(e.key==="ArrowLeft")step(e.shiftKey?-10:-1)});
 </script>
 </body>
 </html>
