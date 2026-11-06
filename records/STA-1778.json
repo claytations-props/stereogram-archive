@@ -1,0 +1,69 @@
+{
+ "title": "Buffalo, N.Y. Central Presbyterian Church",
+ "place": "Place unrecorded",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Buffalo%2C_N.Y._Central_Presbyterian_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Buffalo%2C_N.Y._Central_Presbyterian_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/83/Buffalo%2C_N.Y._Central_Presbyterian_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Buffalo,_N.Y._Central_Presbyterian_Church,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2622,
+ "h": 1345,
+ "id": "STA-1778",
+ "rect": "rect/1777.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.15,
+ "rot": 0.05,
+ "range": 0.56,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8423,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Buffalo%2C_N.Y._Central_Presbyterian_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Buffalo%2C_N.Y._Central_Presbyterian_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8423,
+  "L": [
+   0.317188,
+   0.0,
+   0.15651,
+   0.0,
+   0.73401,
+   0.204569
+  ],
+  "R": [
+   0.323532,
+   0.001206,
+   0.512215,
+   -8.9e-05,
+   0.743199,
+   0.194013
+  ],
+  "g": [
+   0.9526,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.05° of rotation. Depth measured gentle (0.56% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10052379,
+ "source_revision_id": null,
+ "source_sha1": "ed3cc1de6788eaf03cfcec8e46e37cde21df2b39"
+}

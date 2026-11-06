@@ -1,0 +1,69 @@
+{
+ "title": "Light house near Buffalo, N.Y. (Ice and ship)",
+ "place": "Place unrecorded",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Light_house_near_Buffalo%2C_N.Y._%28Ice_and_ship%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Light_house_near_Buffalo%2C_N.Y._%28Ice_and_ship%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Light_house_near_Buffalo%2C_N.Y._%28Ice_and_ship%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Light_house_near_Buffalo,_N.Y._(Ice_and_ship),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2616,
+ "h": 1321,
+ "id": "STA-1787",
+ "rect": "rect/1786.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.01,
+ "range": 1.13,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.221,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Light_house_near_Buffalo%2C_N.Y._%28Ice_and_ship%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Light_house_near_Buffalo%2C_N.Y._%28Ice_and_ship%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.221,
+  "L": [
+   0.394271,
+   0.0,
+   0.091406,
+   0.0,
+   0.639175,
+   0.263402
+  ],
+  "R": [
+   0.394357,
+   -0.021366,
+   0.532166,
+   0.003817,
+   0.639692,
+   0.25981
+  ],
+  "g": [
+   0.8103,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (1.13% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10052302,
+ "source_revision_id": null,
+ "source_sha1": "529e92cdd3658e2ec33d172720dddf3f76a7f8ce"
+}

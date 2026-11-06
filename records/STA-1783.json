@@ -1,0 +1,69 @@
+{
+ "title": "Vessel in lock, Erie Canal, Buffalo, N.Y",
+ "place": "Place unrecorded",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Vessel_in_lock%2C_Erie_Canal%2C_Buffalo%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Vessel_in_lock%2C_Erie_Canal%2C_Buffalo%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Vessel_in_lock%2C_Erie_Canal%2C_Buffalo%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Vessel_in_lock,_Erie_Canal,_Buffalo,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2601,
+ "h": 1336,
+ "id": "STA-1783",
+ "rect": "rect/1782.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.21,
+ "rot": 0.01,
+ "range": 0.58,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 2.0326,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Vessel_in_lock%2C_Erie_Canal%2C_Buffalo%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Vessel_in_lock%2C_Erie_Canal%2C_Buffalo%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 2.0326,
+  "L": [
+   0.422396,
+   0.0,
+   0.070052,
+   0.0,
+   0.404665,
+   0.504564
+  ],
+  "R": [
+   0.422485,
+   -0.003698,
+   0.52536,
+   0.002519,
+   0.405405,
+   0.487407
+  ],
+  "g": [
+   1.0,
+   0.9514
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.01° of rotation. Depth measured gentle (0.58% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10053519,
+ "source_revision_id": null,
+ "source_sha1": "22e5763e6bad460b53df8b2d29d0d40e31a9cbd4"
+}
