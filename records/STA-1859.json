@@ -1,0 +1,69 @@
+{
+ "title": "Pryor Street, Atlanta, by J. L. Schaub",
+ "place": "Place unrecorded",
+ "year": "c. 1880",
+ "sy": 1880,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Pryor_Street%2C_Atlanta%2C_by_J._L._Schaub.jpg/1920px-Pryor_Street%2C_Atlanta%2C_by_J._L._Schaub.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pryor_Street%2C_Atlanta%2C_by_J._L._Schaub.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Pryor_Street,_Atlanta,_by_J._L._Schaub.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1581,
+ "id": "STA-1859",
+ "rect": "rect/1858.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.09,
+ "rot": 0.01,
+ "range": 1.29,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9014,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Pryor_Street%2C_Atlanta%2C_by_J._L._Schaub.jpg/1920px-Pryor_Street%2C_Atlanta%2C_by_J._L._Schaub.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9014,
+  "L": [
+   0.380729,
+   0.0,
+   0.090365,
+   0.0,
+   0.731289,
+   0.051849
+  ],
+  "R": [
+   0.383851,
+   -0.000592,
+   0.513,
+   0.000691,
+   0.734122,
+   0.052621
+  ],
+  "g": [
+   1.0,
+   0.9915
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (1.29% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "J. L. Schaub",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1880~",
+ "date_start": 1875,
+ "date_end": 1885,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7268693,
+ "source_revision_id": null,
+ "source_sha1": "85ab7b52b6c7b4efa6ae805709afb547f03ee9b3"
+}

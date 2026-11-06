@@ -1,0 +1,69 @@
+{
+ "title": "Railroad depot from the bridge, Atlanta, Ga",
+ "place": "Place unrecorded",
+ "year": "1861–1865",
+ "sy": 1861,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Railroad_depot_from_the_bridge%2C_Atlanta%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Railroad_depot_from_the_bridge%2C_Atlanta%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Railroad_depot_from_the_bridge,_Atlanta,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 386,
+ "id": "STA-1855",
+ "rect": "rect/1854.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.32,
+ "rot": 0.03,
+ "range": 2.08,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.0,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Railroad_depot_from_the_bridge%2C_Atlanta%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.0,
+  "L": [
+   0.352632,
+   0.0,
+   0.120395,
+   0.0,
+   0.694301,
+   0.239637
+  ],
+  "R": [
+   0.351758,
+   -0.002993,
+   0.530558,
+   4.7e-05,
+   0.69079,
+   0.233564
+  ],
+  "g": [
+   0.9429,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.32% vertical error and 0.03° of rotation. Depth measured moderate (2.08% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1861/1865",
+ "date_start": 1861,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12019666,
+ "source_revision_id": null,
+ "source_sha1": "cd171a841cf539e825ac2d29b22e340bd2c78eb9"
+}
