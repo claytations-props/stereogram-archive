@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1847.json",
+ "name": "Bar Harbor. Bird's-eye view of Mt. Desert Island (NYPL b11707212-G89F151 010ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1846.jpg",
+ "identifier": "STA-1847",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bar Harbor, Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bar_Harbor._Bird%27s-eye_view_of_Mt._Desert_Island_(NYPL_b11707212-G89F151_010ZF).tiff"
+}

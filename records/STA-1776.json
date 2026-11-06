@@ -1,6 +1,6 @@
 {
  "title": "Buffalo, N.Y., 1897. Birdseye view of Camp Jewett, G.A.R",
- "place": "Place unrecorded",
+ "place": "Buffalo, New York",
  "year": "1897",
  "sy": 1897,
  "era": "mid",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10052414,
  "source_revision_id": null,
- "source_sha1": "c31a54a0f4dea3e30eb106d14fdfdedcc699833d"
+ "source_sha1": "c31a54a0f4dea3e30eb106d14fdfdedcc699833d",
+ "tags": [
+  "encampment",
+  "tents",
+  "trees"
+ ]
 }

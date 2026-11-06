@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1808.json",
+ "name": "From Seminary Ridge S.E. to Penn. College, Gettysburg, used as a hospital during battle",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1807.jpg",
+ "identifier": "STA-1808",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gettysburg, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:From_Seminary_Ridge_S.E._to_Penn._College,_Gettysburg,_used_as_a_hospital_during_battle,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

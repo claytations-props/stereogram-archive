@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1836.json",
+ "name": "Bar Harbor. Bird's-eye view of Mt. Desert Island, by B. Bradley",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1835.jpg",
+ "identifier": "STA-1836",
+ "creator": {
+  "@type": "Person",
+  "name": "B. Bradley"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bar Harbor, Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bar_Harbor._Bird%27s-eye_view_of_Mt._Desert_Island,_by_B._Bradley.jpg"
+}

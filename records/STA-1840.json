@@ -1,11 +1,11 @@
 {
  "title": "Bar Harbor (Mt. Desert), by J. P. Armbrust",
- "place": "Place unrecorded",
+ "place": "Bar Harbor, Maine",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Bar_Harbor_%28Mt._Desert%29%2C_by_J._P._Armbrust.jpg/1920px-Bar_Harbor_%28Mt._Desert%29%2C_by_J._P._Armbrust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "J. P. Armbrust",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1870",
@@ -65,5 +65,11 @@
  "license_url": null,
  "source_page_id": 7170661,
  "source_revision_id": null,
- "source_sha1": "5a70adef828e97ed69e9c6839b32490a8860d534"
+ "source_sha1": "5a70adef828e97ed69e9c6839b32490a8860d534",
+ "tags": [
+  "pier",
+  "sailboat",
+  "harbor",
+  "rowboat"
+ ]
 }

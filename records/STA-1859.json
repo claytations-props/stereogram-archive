@@ -1,6 +1,6 @@
 {
  "title": "Pryor Street, Atlanta, by J. L. Schaub",
- "place": "Place unrecorded",
+ "place": "Atlanta, Georgia",
  "year": "c. 1880",
  "sy": 1880,
  "era": "mid",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 7268693,
  "source_revision_id": null,
- "source_sha1": "85ab7b52b6c7b4efa6ae805709afb547f03ee9b3"
+ "source_sha1": "85ab7b52b6c7b4efa6ae805709afb547f03ee9b3",
+ "tags": [
+  "main street",
+  "storefront",
+  "horse-drawn carriage"
+ ]
 }

@@ -1,11 +1,11 @@
 {
  "title": "View in the flats, Cleveland, O",
- "place": "Place unrecorded",
+ "place": "Cleveland, Ohio",
  "year": "1865",
  "sy": 1865,
  "era": "early",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/View_in_the_flats%2C_Cleveland%2C_O%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_in_the_flats%2C_Cleveland%2C_O%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1865",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 7474948,
  "source_revision_id": null,
- "source_sha1": "948b4330d48206881debf2ddc9d25c5f13b74d4a"
+ "source_sha1": "948b4330d48206881debf2ddc9d25c5f13b74d4a",
+ "tags": [
+  "river",
+  "ship",
+  "warehouse"
+ ]
 }

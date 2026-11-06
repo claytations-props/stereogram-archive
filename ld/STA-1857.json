@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1857.json",
+ "name": "Destruction of Atlanta, Ga., by Sherman's army, November 1864",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1856.jpg",
+ "identifier": "STA-1857",
+ "creator": {
+  "@type": "Person",
+  "name": "Sherman's army, November 1864"
+ },
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Atlanta, Georgia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Destruction_of_Atlanta,_Ga.,_by_Sherman%27s_army,_November_1864,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,11 +1,11 @@
 {
  "title": "National Military Cemetery, Graves, Nashville, Tenn, by Union View Co.",
- "place": "Place unrecorded",
+ "place": "Nashville, Tennessee",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Military_Cemetery%2C_Graves%2C_Nashville%2C_Tenn%2C_by_Union_View_Co..jpg/1920px-National_Military_Cemetery%2C_Graves%2C_Nashville%2C_Tenn%2C_by_Union_View_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "Union View Co.",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1870",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10082842,
  "source_revision_id": null,
- "source_sha1": "38cb8d2f502f4cb9e933ba2179b833bf06ceb2b4"
+ "source_sha1": "38cb8d2f502f4cb9e933ba2179b833bf06ceb2b4",
+ "tags": [
+  "cemetery",
+  "gravestone",
+  "trees"
+ ]
 }

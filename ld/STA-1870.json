@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1870.json",
+ "name": "The place where Maj. Gen. J. B. McPherson was killed, Atlanta, Ga",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1869.jpg",
+ "identifier": "STA-1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Atlanta, Georgia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_place_where_Maj._Gen._J._B._McPherson_was_killed,_Atlanta,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

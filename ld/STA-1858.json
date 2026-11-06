@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1858.json",
+ "name": "View in Oakland Cemetery, Atlanta (NYPL b11707424-G90F147 028ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1857.jpg",
+ "identifier": "STA-1858",
+ "dateCreated": "1880",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Atlanta, Georgia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_in_Oakland_Cemetery,_Atlanta_(NYPL_b11707424-G90F147_028ZF).tiff"
+}

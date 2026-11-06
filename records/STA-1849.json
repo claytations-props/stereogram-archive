@@ -1,11 +1,11 @@
 {
  "title": "Bar Harbor, from Scott's Hill, Mount Desert, Me, by Kilburn, B. W. (Benjamin West), 1827-1909",
- "place": "Place unrecorded",
+ "place": "Bar Harbor, Maine",
  "year": "Undated",
  "sy": 1900,
  "era": "undated",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Bar_Harbor%2C_from_Scott%27s_Hill%2C_Mount_Desert%2C_Me%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg/1920px-Bar_Harbor%2C_from_Scott%27s_Hill%2C_Mount_Desert%2C_Me%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "Kilburn, B. W. (Benjamin West)",
  "creator_dates": "1827-1909",
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": null,
@@ -65,5 +65,11 @@
  "license_url": null,
  "source_page_id": 7170829,
  "source_revision_id": null,
- "source_sha1": "c6c04ce58fdd77d4fcfe490f750332700af454e8"
+ "source_sha1": "c6c04ce58fdd77d4fcfe490f750332700af454e8",
+ "tags": [
+  "house",
+  "pine tree",
+  "harbor",
+  "island"
+ ]
 }

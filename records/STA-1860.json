@@ -1,69 +1,69 @@
 {
- "title": "Customs House, Atlanta, Ga, by M.M. & W.H. Gardner",
- "place": "Place unrecorded",
- "year": "c. 1887",
- "sy": 1887,
- "era": "mid",
- "cats": [
-  "oddities"
- ],
- "blurb": "",
- "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Customs_House%2C_Atlanta%2C_Ga%2C_by_M.M._%26_W.H._Gardner.jpg/1920px-Customs_House%2C_Atlanta%2C_Ga%2C_by_M.M._%26_W.H._Gardner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
- "full": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Customs_House%2C_Atlanta%2C_Ga%2C_by_M.M._%26_W.H._Gardner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
- "source": "https://commons.wikimedia.org/wiki/File:Customs_House,_Atlanta,_Ga,_by_M.M._%26_W.H._Gardner.jpg",
- "license": "Public domain",
- "w": 2737,
- "h": 1554,
- "id": "STA-1860",
- "rect": "rect/1859.jpg",
- "coll": "Source unrecorded",
- "vert": 0.1,
- "rot": 0.0,
- "range": 0.82,
- "f": 1.0,
- "depth": "Gentle",
- "va": 1.1792,
- "px": {
-  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Customs_House%2C_Atlanta%2C_Ga%2C_by_M.M._%26_W.H._Gardner.jpg/1920px-Customs_House%2C_Atlanta%2C_Ga%2C_by_M.M._%26_W.H._Gardner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "ar": 1.1792,
-  "L": [
-   0.407813,
-   0.0,
-   0.06849,
-   0.0,
-   0.609174,
-   0.316055
+  "title": "Customs House, Atlanta, Ga, by M.M. & W.H. Gardner",
+  "place": "Atlanta, Georgia",
+  "year": "c. 1887",
+  "sy": 1887,
+  "era": "mid",
+  "cats": [
+    "cities"
   ],
-  "R": [
-   0.409713,
-   -0.00297,
-   0.529458,
-   0.006878,
-   0.612865,
-   0.251944
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Customs_House%2C_Atlanta%2C_Ga%2C_by_M.M._%26_W.H._Gardner.jpg/1920px-Customs_House%2C_Atlanta%2C_Ga%2C_by_M.M._%26_W.H._Gardner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Customs_House%2C_Atlanta%2C_Ga%2C_by_M.M._%26_W.H._Gardner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Customs_House,_Atlanta,_Ga,_by_M.M._%26_W.H._Gardner.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1554,
+  "id": "STA-1860",
+  "rect": "rect/1859.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.0,
+  "range": 0.82,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1792,
+  "px": {
+    "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Customs_House%2C_Atlanta%2C_Ga%2C_by_M.M._%26_W.H._Gardner.jpg/1920px-Customs_House%2C_Atlanta%2C_Ga%2C_by_M.M._%26_W.H._Gardner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ar": 1.1792,
+    "L": [
+      0.407813,
+      0.0,
+      0.06849,
+      0.0,
+      0.609174,
+      0.316055
+    ],
+    "R": [
+      0.409713,
+      -0.00297,
+      0.529458,
+      0.006878,
+      0.612865,
+      0.251944
+    ],
+    "g": [
+      0.9315,
+      1.0
+    ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (0.82% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "M.M. & W.H. Gardner",
+  "creator_dates": null,
+  "facets": [
+    "cities"
   ],
-  "g": [
-   0.9315,
-   1.0
-  ]
- },
- "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (0.82% of frame width); hung in the VR Parlor at full size.",
- "repository": null,
- "collection_name": null,
- "publisher": null,
- "creator": "M.M. & W.H. Gardner",
- "creator_dates": null,
- "facets": [
-  "oddities"
- ],
- "publisher_series": null,
- "date_edtf": "1887~",
- "date_start": 1882,
- "date_end": 1892,
- "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
- "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
- "license_url": null,
- "source_page_id": 7268644,
- "source_revision_id": null,
- "source_sha1": "556d6584e2b8fe104ce5323a3af37879ecc69e3b"
+  "publisher_series": null,
+  "date_edtf": "1887~",
+  "date_start": 1882,
+  "date_end": 1892,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7268644,
+  "source_revision_id": null,
+  "source_sha1": "556d6584e2b8fe104ce5323a3af37879ecc69e3b"
 }

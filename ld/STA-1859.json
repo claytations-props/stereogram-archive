@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1859.json",
+ "name": "Pryor Street, Atlanta, by J. L. Schaub",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1858.jpg",
+ "identifier": "STA-1859",
+ "creator": {
+  "@type": "Person",
+  "name": "J. L. Schaub"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Atlanta, Georgia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Pryor_Street,_Atlanta,_by_J._L._Schaub.jpg"
+}

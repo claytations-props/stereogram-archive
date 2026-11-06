@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1822.json",
+ "name": "National Military Cemetery, Graves, Nashville, Tenn, by Union View Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1821.jpg",
+ "identifier": "STA-1822",
+ "creator": {
+  "@type": "Person",
+  "name": "Union View Co."
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Nashville, Tennessee"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:National_Military_Cemetery,_Graves,_Nashville,_Tenn,_by_Union_View_Co..jpg"
+}

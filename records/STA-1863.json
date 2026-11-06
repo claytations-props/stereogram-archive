@@ -1,11 +1,11 @@
 {
  "title": "Governor's Mansion, Atlanta, Georgia, by J. L. Schaub",
- "place": "Place unrecorded",
+ "place": "Atlanta, Georgia",
  "year": "c. 1880",
  "sy": 1880,
  "era": "mid",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Governor%27s_Mansion%2C_Atlanta%2C_Georgia%2C_by_J._L._Schaub.jpg/1920px-Governor%27s_Mansion%2C_Atlanta%2C_Georgia%2C_by_J._L._Schaub.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "J. L. Schaub",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1880~",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7268706,
  "source_revision_id": null,
- "source_sha1": "e572457d96a85c366a8a273aa00ff54709e07d68"
+ "source_sha1": "e572457d96a85c366a8a273aa00ff54709e07d68",
+ "tags": [
+  "mansion",
+  "trees"
+ ]
 }

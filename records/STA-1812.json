@@ -1,69 +1,69 @@
 {
- "title": "Custom House and Post Office, Nashville, Tenn, by Continent Stereoscopic Company",
- "place": "Place unrecorded",
- "year": "c. 1885",
- "sy": 1885,
- "era": "mid",
- "cats": [
-  "oddities"
- ],
- "blurb": "",
- "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Custom_House_and_Post_Office%2C_Nashville%2C_Tenn%2C_by_Continent_Stereoscopic_Company.png/1920px-Custom_House_and_Post_Office%2C_Nashville%2C_Tenn%2C_by_Continent_Stereoscopic_Company.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
- "full": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Custom_House_and_Post_Office%2C_Nashville%2C_Tenn%2C_by_Continent_Stereoscopic_Company.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
- "source": "https://commons.wikimedia.org/wiki/File:Custom_House_and_Post_Office,_Nashville,_Tenn,_by_Continent_Stereoscopic_Company.png",
- "license": "Public domain",
- "w": 2715,
- "h": 1694,
- "id": "STA-1812",
- "rect": "rect/1811.jpg",
- "coll": "Source unrecorded",
- "vert": 0.14,
- "rot": 0.1,
- "range": 7.37,
- "f": 0.47,
- "depth": "Deep",
- "va": 0.9045,
- "px": {
-  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Custom_House_and_Post_Office%2C_Nashville%2C_Tenn%2C_by_Continent_Stereoscopic_Company.png/1920px-Custom_House_and_Post_Office%2C_Nashville%2C_Tenn%2C_by_Continent_Stereoscopic_Company.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "ar": 0.9045,
-  "L": [
-   0.315625,
-   0.0,
-   0.122135,
-   0.0,
-   0.559265,
-   0.312604
+  "title": "Custom House and Post Office, Nashville, Tenn, by Continent Stereoscopic Company",
+  "place": "Nashville, Tennessee",
+  "year": "c. 1885",
+  "sy": 1885,
+  "era": "mid",
+  "cats": [
+    "cities"
   ],
-  "R": [
-   0.319533,
-   0.000215,
-   0.507338,
-   0.003991,
-   0.561969,
-   0.314948
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Custom_House_and_Post_Office%2C_Nashville%2C_Tenn%2C_by_Continent_Stereoscopic_Company.png/1920px-Custom_House_and_Post_Office%2C_Nashville%2C_Tenn%2C_by_Continent_Stereoscopic_Company.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Custom_House_and_Post_Office%2C_Nashville%2C_Tenn%2C_by_Continent_Stereoscopic_Company.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Custom_House_and_Post_Office,_Nashville,_Tenn,_by_Continent_Stereoscopic_Company.png",
+  "license": "Public domain",
+  "w": 2715,
+  "h": 1694,
+  "id": "STA-1812",
+  "rect": "rect/1811.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.14,
+  "rot": 0.1,
+  "range": 7.37,
+  "f": 0.47,
+  "depth": "Deep",
+  "va": 0.9045,
+  "px": {
+    "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Custom_House_and_Post_Office%2C_Nashville%2C_Tenn%2C_by_Continent_Stereoscopic_Company.png/1920px-Custom_House_and_Post_Office%2C_Nashville%2C_Tenn%2C_by_Continent_Stereoscopic_Company.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ar": 0.9045,
+    "L": [
+      0.315625,
+      0.0,
+      0.122135,
+      0.0,
+      0.559265,
+      0.312604
+    ],
+    "R": [
+      0.319533,
+      0.000215,
+      0.507338,
+      0.003991,
+      0.561969,
+      0.314948
+    ],
+    "g": [
+      0.9815,
+      1.0
+    ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.1° of rotation. Depth measured deep (7.37% of frame width); hung in the VR Parlor at 47% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Continent Stereoscopic Company",
+  "creator_dates": null,
+  "facets": [
+    "cities"
   ],
-  "g": [
-   0.9815,
-   1.0
-  ]
- },
- "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.1° of rotation. Depth measured deep (7.37% of frame width); hung in the VR Parlor at 47% size.",
- "repository": null,
- "collection_name": null,
- "publisher": null,
- "creator": "Continent Stereoscopic Company",
- "creator_dates": null,
- "facets": [
-  "oddities"
- ],
- "publisher_series": null,
- "date_edtf": "1885~",
- "date_start": 1880,
- "date_end": 1890,
- "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
- "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
- "license_url": null,
- "source_page_id": 10082806,
- "source_revision_id": null,
- "source_sha1": "a88083fdf3b342accfb7b5361e15db9028ea8eb1"
+  "publisher_series": null,
+  "date_edtf": "1885~",
+  "date_start": 1880,
+  "date_end": 1890,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10082806,
+  "source_revision_id": null,
+  "source_sha1": "a88083fdf3b342accfb7b5361e15db9028ea8eb1"
 }

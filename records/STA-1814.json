@@ -1,11 +1,11 @@
 {
  "title": "National Military Cemetery, Graves, Nashville, Tenn, by Continent Stereoscopic Company",
- "place": "Place unrecorded",
+ "place": "Nashville, Tennessee",
  "year": "c. 1885",
  "sy": 1885,
  "era": "mid",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/National_Military_Cemetery%2C_Graves%2C_Nashville%2C_Tenn%2C_by_Continent_Stereoscopic_Company.jpg/1920px-National_Military_Cemetery%2C_Graves%2C_Nashville%2C_Tenn%2C_by_Continent_Stereoscopic_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "Continent Stereoscopic Company",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1885~",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10082820,
  "source_revision_id": null,
- "source_sha1": "d6f375ddf3685e2d53f044a18c6d88e82b9ad8b0"
+ "source_sha1": "d6f375ddf3685e2d53f044a18c6d88e82b9ad8b0",
+ "tags": [
+  "cemetery",
+  "gravestone",
+  "trees"
+ ]
 }

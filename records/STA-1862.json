@@ -1,6 +1,6 @@
 {
  "title": "Whitehall Street, Atlanta, Georgia, by J. L. Schaub",
- "place": "Place unrecorded",
+ "place": "Atlanta, Georgia",
  "year": "c. 1880",
  "sy": 1880,
  "era": "mid",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 7268699,
  "source_revision_id": null,
- "source_sha1": "91859446a6388ea874e87b948b728a7508f0cc91"
+ "source_sha1": "91859446a6388ea874e87b948b728a7508f0cc91",
+ "tags": [
+  "main street",
+  "storefront",
+  "horse-drawn carriage"
+ ]
 }

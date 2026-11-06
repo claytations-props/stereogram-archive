@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1793.json",
+ "name": "Under the Grand Old Flag again, Grand Army Reunion, Buffalo, N.Y., U.S.A., Aug. 25, 1897. (Parade.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1792.jpg",
+ "identifier": "STA-1793",
+ "dateCreated": "1897",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Buffalo, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Under_the_Grand_Old_Flag_again,_Grand_Army_Reunion,_Buffalo,_N.Y.,_U.S.A.,_Aug._25,_1897._(Parade.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

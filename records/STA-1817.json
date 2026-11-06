@@ -1,11 +1,11 @@
 {
  "title": "National Military Cemetery, Graves, Nashville, Tenn",
- "place": "Place unrecorded",
+ "place": "Nashville, Tennessee",
  "year": "c. 1870",
  "sy": 1870,
  "era": "mid",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/National_Military_Cemetery%2C_Graves%2C_Nashville%2C_Tenn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-National_Military_Cemetery%2C_Graves%2C_Nashville%2C_Tenn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1870~",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10082726,
  "source_revision_id": null,
- "source_sha1": "f5ace60244df56bfa1dcd6cd3cd036360f00682c"
+ "source_sha1": "f5ace60244df56bfa1dcd6cd3cd036360f00682c",
+ "tags": [
+  "cemetery",
+  "gravestone",
+  "trees"
+ ]
 }

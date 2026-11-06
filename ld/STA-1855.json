@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1855.json",
+ "name": "Railroad depot from the bridge, Atlanta, Ga",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1854.jpg",
+ "identifier": "STA-1855",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Atlanta, Georgia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Railroad_depot_from_the_bridge,_Atlanta,_Ga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

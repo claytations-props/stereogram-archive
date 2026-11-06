@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1788.json",
+ "name": "Invalids' and Tourists' Hotel, Buffalo, N.Y",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1787.jpg",
+ "identifier": "STA-1788",
+ "dateCreated": "1878",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Buffalo, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Invalids%27_and_Tourists%27_Hotel,_Buffalo,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

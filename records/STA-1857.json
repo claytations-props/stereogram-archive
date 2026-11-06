@@ -1,12 +1,11 @@
 {
  "title": "Destruction of Atlanta, Ga., by Sherman's army, November 1864",
- "place": "Place unrecorded",
+ "place": "Atlanta, Georgia",
  "year": "1861–1865",
  "sy": 1861,
  "era": "early",
  "cats": [
-  "war",
-  "people"
+  "war"
  ],
  "blurb": "",
  "img": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Destruction_of_Atlanta%2C_Ga.%2C_by_Sherman%27s_army%2C_November_1864%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -55,8 +54,7 @@
  "creator": "Sherman's army, November 1864",
  "creator_dates": null,
  "facets": [
-  "war",
-  "people"
+  "war"
  ],
  "publisher_series": null,
  "date_edtf": "1861/1865",
@@ -67,5 +65,9 @@
  "license_url": null,
  "source_page_id": 12019545,
  "source_revision_id": null,
- "source_sha1": "af7f24bc98c4d4224497c36fea326df478ec9e8f"
+ "source_sha1": "af7f24bc98c4d4224497c36fea326df478ec9e8f",
+ "tags": [
+  "ruins",
+  "fire damage"
+ ]
 }

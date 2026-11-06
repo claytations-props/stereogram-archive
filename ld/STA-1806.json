@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1806.json",
+ "name": "Head Sanitary Commission at Gen. Hospital Gettysburg",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1805.jpg",
+ "identifier": "STA-1806",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gettysburg, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Head_Sanitary_Commission_at_Gen._Hospital_Gettysburg,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

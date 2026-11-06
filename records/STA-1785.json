@@ -1,11 +1,11 @@
 {
  "title": "Lake Side Park House, Buffalo, N.Y",
- "place": "Place unrecorded",
+ "place": "Buffalo, New York",
  "year": "1865",
  "sy": 1865,
  "era": "early",
  "cats": [
-  "water"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Lake_Side_Park_House%2C_Buffalo%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Lake_Side_Park_House%2C_Buffalo%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "water"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1865",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10052367,
  "source_revision_id": null,
- "source_sha1": "8196ab80ec89b681acdd8db4a6b14b85e16e83db"
+ "source_sha1": "8196ab80ec89b681acdd8db4a6b14b85e16e83db",
+ "tags": [
+  "pavilion",
+  "crowd"
+ ]
 }

@@ -1,69 +1,69 @@
 {
- "title": "State capitol building, Atlanta, by J. L. Schaub",
- "place": "Place unrecorded",
- "year": "c. 1875",
- "sy": 1875,
- "era": "mid",
- "cats": [
-  "cities"
- ],
- "blurb": "",
- "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/State_capitol_building%2C_Atlanta%2C_by_J._L._Schaub.png/1920px-State_capitol_building%2C_Atlanta%2C_by_J._L._Schaub.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
- "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/State_capitol_building%2C_Atlanta%2C_by_J._L._Schaub.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
- "source": "https://commons.wikimedia.org/wiki/File:State_capitol_building,_Atlanta,_by_J._L._Schaub.png",
- "license": "Public domain",
- "w": 2737,
- "h": 1570,
- "id": "STA-1864",
- "rect": "rect/1863.jpg",
- "coll": "Source unrecorded",
- "vert": 0.09,
- "rot": 0.01,
- "range": 9.57,
- "f": 0.38,
- "depth": "Deep",
- "va": 0.8754,
- "px": {
-  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/State_capitol_building%2C_Atlanta%2C_by_J._L._Schaub.png/1920px-State_capitol_building%2C_Atlanta%2C_by_J._L._Schaub.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "ar": 0.8754,
-  "L": [
-   0.391667,
-   0.0,
-   0.096615,
-   0.0,
-   0.7802,
-   0.10218
+  "title": "State capitol building, Atlanta, by J. L. Schaub",
+  "place": "Atlanta, Georgia",
+  "year": "c. 1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+    "cities"
   ],
-  "R": [
-   0.393226,
-   0.001736,
-   0.514445,
-   -0.002809,
-   0.779258,
-   0.101565
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/State_capitol_building%2C_Atlanta%2C_by_J._L._Schaub.png/1920px-State_capitol_building%2C_Atlanta%2C_by_J._L._Schaub.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/State_capitol_building%2C_Atlanta%2C_by_J._L._Schaub.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:State_capitol_building,_Atlanta,_by_J._L._Schaub.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1570,
+  "id": "STA-1864",
+  "rect": "rect/1863.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 9.57,
+  "f": 0.38,
+  "depth": "Deep",
+  "va": 0.8754,
+  "px": {
+    "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/State_capitol_building%2C_Atlanta%2C_by_J._L._Schaub.png/1920px-State_capitol_building%2C_Atlanta%2C_by_J._L._Schaub.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ar": 0.8754,
+    "L": [
+      0.391667,
+      0.0,
+      0.096615,
+      0.0,
+      0.7802,
+      0.10218
+    ],
+    "R": [
+      0.393226,
+      0.001736,
+      0.514445,
+      -0.002809,
+      0.779258,
+      0.101565
+    ],
+    "g": [
+      1.0,
+      0.9466
+    ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured deep (9.57% of frame width); hung in the VR Parlor at 38% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "J. L. Schaub",
+  "creator_dates": null,
+  "facets": [
+    "cities"
   ],
-  "g": [
-   1.0,
-   0.9466
-  ]
- },
- "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured deep (9.57% of frame width); hung in the VR Parlor at 38% size.",
- "repository": null,
- "collection_name": null,
- "publisher": null,
- "creator": "J. L. Schaub",
- "creator_dates": null,
- "facets": [
-  "cities"
- ],
- "publisher_series": null,
- "date_edtf": "1875~",
- "date_start": 1870,
- "date_end": 1880,
- "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
- "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
- "license_url": null,
- "source_page_id": 7268680,
- "source_revision_id": null,
- "source_sha1": "a9f1a06a7a8b08671947a3c193ad7dea43f48339"
+  "publisher_series": null,
+  "date_edtf": "1875~",
+  "date_start": 1870,
+  "date_end": 1880,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7268680,
+  "source_revision_id": null,
+  "source_sha1": "a9f1a06a7a8b08671947a3c193ad7dea43f48339"
 }

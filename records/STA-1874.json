@@ -1,11 +1,11 @@
 {
  "title": "Cleveland (O.) medical college, by Woodward Stereoscopic Co.",
- "place": "Place unrecorded",
+ "place": "Cleveland, Ohio",
  "year": "1865",
  "sy": 1865,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Cleveland_%28O.%29_medical_college%2C_by_Woodward_Stereoscopic_Co..jpg/1920px-Cleveland_%28O.%29_medical_college%2C_by_Woodward_Stereoscopic_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "Woodward Stereoscopic Co.",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1865",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7475463,
  "source_revision_id": null,
- "source_sha1": "1fb61888901fda66d5b25eb727f517535c5230c8"
+ "source_sha1": "1fb61888901fda66d5b25eb727f517535c5230c8",
+ "tags": [
+  "university",
+  "trees"
+ ]
 }

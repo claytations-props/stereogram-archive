@@ -1,11 +1,11 @@
 {
  "title": "Post office, Cleveland, Ohio, from Robert N. Dennis collection of stereoscopic views 2",
- "place": "Place unrecorded",
+ "place": "Cleveland, Ohio",
  "year": "1865",
  "sy": 1865,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Post_office%2C_Cleveland%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-Post_office%2C_Cleveland%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1865",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 7475266,
  "source_revision_id": null,
- "source_sha1": "03cdca57ba9d5f7574fadc1105df8df58988d6a0"
+ "source_sha1": "03cdca57ba9d5f7574fadc1105df8df58988d6a0",
+ "tags": [
+  "horse-drawn carriage",
+  "horse",
+  "trees"
+ ]
 }

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1835.json",
+ "name": "Bar Harbor, by A. D. Bonney",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1834.jpg",
+ "identifier": "STA-1835",
+ "creator": {
+  "@type": "Person",
+  "name": "A. D. Bonney"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bar Harbor, Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bar_Harbor,_by_A._D._Bonney.jpg"
+}

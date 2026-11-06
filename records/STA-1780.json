@@ -1,11 +1,11 @@
 {
  "title": "Buffalo harbor. (Boat and ice in water.)",
- "place": "Place unrecorded",
+ "place": "Buffalo, New York",
  "year": "1865",
  "sy": 1865,
  "era": "early",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Buffalo_harbor._%28Boat_and_ice_in_water.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Buffalo_harbor._%28Boat_and_ice_in_water.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1865",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10052526,
  "source_revision_id": null,
- "source_sha1": "b5de512b114b5cbe95a33c259219551f66e1b8cc"
+ "source_sha1": "b5de512b114b5cbe95a33c259219551f66e1b8cc",
+ "tags": [
+  "harbor",
+  "ice",
+  "ship"
+ ]
 }

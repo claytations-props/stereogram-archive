@@ -1,6 +1,6 @@
 {
  "title": "Looking East from Fort Negley, Nashville, Tenn, by Webster & Albee",
- "place": "Place unrecorded",
+ "place": "Nashville, Tennessee",
  "year": "c. 1890",
  "sy": 1890,
  "era": "mid",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10082788,
  "source_revision_id": null,
- "source_sha1": "7a06d6ed4734c826fa47f6f479784146a1523ebf"
+ "source_sha1": "7a06d6ed4734c826fa47f6f479784146a1523ebf",
+ "tags": [
+  "fort",
+  "children"
+ ]
 }

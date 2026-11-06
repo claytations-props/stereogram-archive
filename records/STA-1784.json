@@ -1,12 +1,11 @@
 {
  "title": "Young Men's Association building, Buffalo, New York",
- "place": "New York, New York",
+ "place": "Buffalo, New York",
  "year": "1865",
  "sy": 1865,
  "era": "early",
  "cats": [
-  "cities",
-  "people"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Young_Men%27s_Association_building%2C_Buffalo%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Young_Men%27s_Association_building%2C_Buffalo%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -55,8 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "cities",
-  "people"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1865",
@@ -67,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10053309,
  "source_revision_id": null,
- "source_sha1": "fe04e1af4ce406f6d962f47288701aa54c2bfb8d"
+ "source_sha1": "fe04e1af4ce406f6d962f47288701aa54c2bfb8d",
+ "tags": [
+  "library",
+  "storefront"
+ ]
 }

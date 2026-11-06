@@ -1,11 +1,11 @@
 {
  "title": "Public square, Cleveland",
- "place": "Place unrecorded",
+ "place": "Cleveland, Ohio",
  "year": "1865",
  "sy": 1865,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Public_square%2C_Cleveland%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Public_square%2C_Cleveland%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1865",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 7474940,
  "source_revision_id": null,
- "source_sha1": "8e95d437de4f77e799865d5146eb1c415cc4b3ea"
+ "source_sha1": "8e95d437de4f77e799865d5146eb1c415cc4b3ea",
+ "tags": [
+  "cannon",
+  "main street",
+  "trees"
+ ]
 }

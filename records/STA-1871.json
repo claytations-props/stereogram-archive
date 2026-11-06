@@ -1,11 +1,11 @@
 {
  "title": "Barbecue, Atlanta Exposition, by Kilburn, B. W. (Benjamin West), 1827-1909",
- "place": "Place unrecorded",
+ "place": "Atlanta, Georgia",
  "year": "Undated",
  "sy": 1900,
  "era": "undated",
  "cats": [
-  "oddities"
+  "people"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Barbecue%2C_Atlanta_Exposition%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg/1920px-Barbecue%2C_Atlanta_Exposition%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "Kilburn, B. W. (Benjamin West)",
  "creator_dates": "1827-1909",
  "facets": [
-  "oddities"
+  "people"
  ],
  "publisher_series": null,
  "date_edtf": null,
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 7268549,
  "source_revision_id": null,
- "source_sha1": "6c79b6631e3963f2ef936812bdf1957bfcfd9a41"
+ "source_sha1": "6c79b6631e3963f2ef936812bdf1957bfcfd9a41",
+ "tags": [
+  "workers",
+  "exposition",
+  "pig"
+ ]
 }

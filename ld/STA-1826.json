@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1826.json",
+ "name": "Looking East from Fort Negley, Nashville, Tenn, by Webster & Albee",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1825.jpg",
+ "identifier": "STA-1826",
+ "creator": {
+  "@type": "Person",
+  "name": "Webster & Albee"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Nashville, Tennessee"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Looking_East_from_Fort_Negley,_Nashville,_Tenn,_by_Webster_%26_Albee.jpg"
+}

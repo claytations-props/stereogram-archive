@@ -1,11 +1,11 @@
 {
  "title": "Harvesting onions, truck farming, near Buffalo, N.Y., U.S.A",
- "place": "Place unrecorded",
+ "place": "Buffalo, New York",
  "year": "1865",
  "sy": 1865,
  "era": "early",
  "cats": [
-  "oddities"
+  "people"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Harvesting_onions%2C_truck_farming%2C_near_Buffalo%2C_N.Y.%2C_U.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Harvesting_onions%2C_truck_farming%2C_near_Buffalo%2C_N.Y.%2C_U.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "people"
  ],
  "publisher_series": null,
  "date_edtf": "1865",
@@ -65,5 +65,11 @@
  "license_url": null,
  "source_page_id": 10052648,
  "source_revision_id": null,
- "source_sha1": "768168310275cf8394ab86d693d47bf9ec723785"
+ "source_sha1": "768168310275cf8394ab86d693d47bf9ec723785",
+ "tags": [
+  "harvesting",
+  "farmers",
+  "children",
+  "workers"
+ ]
 }

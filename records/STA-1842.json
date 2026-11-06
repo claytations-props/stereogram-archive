@@ -1,11 +1,11 @@
 {
  "title": "Bar Harbor from Scott's Hill, Mt. Desert, Me, by Kilburn Brothers",
- "place": "Place unrecorded",
+ "place": "Bar Harbor, Maine",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Bar_Harbor_from_Scott%27s_Hill%2C_Mt._Desert%2C_Me%2C_by_Kilburn_Brothers.jpg/1920px-Bar_Harbor_from_Scott%27s_Hill%2C_Mt._Desert%2C_Me%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "Kilburn Brothers",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1870",
@@ -65,5 +65,11 @@
  "license_url": null,
  "source_page_id": 7170594,
  "source_revision_id": null,
- "source_sha1": "85973524a5fc8d1148099283c81023cf2c6400bd"
+ "source_sha1": "85973524a5fc8d1148099283c81023cf2c6400bd",
+ "tags": [
+  "house",
+  "pine tree",
+  "harbor",
+  "island"
+ ]
 }

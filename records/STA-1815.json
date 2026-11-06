@@ -1,11 +1,11 @@
 {
  "title": "The Hermitage, Nashville, Tenn",
- "place": "Place unrecorded",
+ "place": "Nashville, Tennessee",
  "year": "c. 1870",
  "sy": 1870,
  "era": "mid",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/The_Hermitage%2C_Nashville%2C_Tenn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Hermitage%2C_Nashville%2C_Tenn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1870~",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10082740,
  "source_revision_id": null,
- "source_sha1": "4e0c4ae025f63f2fcae5c4e7630b73bdcaed03bc"
+ "source_sha1": "4e0c4ae025f63f2fcae5c4e7630b73bdcaed03bc",
+ "tags": [
+  "mansion",
+  "trees"
+ ]
 }

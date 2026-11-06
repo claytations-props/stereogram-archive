@@ -1,6 +1,6 @@
 {
  "title": "Passenger Depot, Atlanta, Ga, by J. L. Schaub",
- "place": "Place unrecorded",
+ "place": "Atlanta, Georgia",
  "year": "c. 1880",
  "sy": 1880,
  "era": "mid",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7268713,
  "source_revision_id": null,
- "source_sha1": "e01bd24dfcfda023ab81ad947ecac6fdf349fa85"
+ "source_sha1": "e01bd24dfcfda023ab81ad947ecac6fdf349fa85",
+ "tags": [
+  "train station",
+  "room interior"
+ ]
 }

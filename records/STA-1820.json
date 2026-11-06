@@ -1,6 +1,6 @@
 {
  "title": "Cumberland River, Nashville, Tenn, by Union View Co.",
- "place": "Place unrecorded",
+ "place": "Nashville, Tennessee",
  "year": "1880–1885",
  "sy": 1880,
  "era": "mid",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10082837,
  "source_revision_id": null,
- "source_sha1": "bde42fb1483dd3108516254ced2e2317dae65874"
+ "source_sha1": "bde42fb1483dd3108516254ced2e2317dae65874",
+ "tags": [
+  "river",
+  "trestle bridge"
+ ]
 }

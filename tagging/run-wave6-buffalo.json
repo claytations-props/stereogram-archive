@@ -1,0 +1,127 @@
+{
+ "assignments": {
+  "STA-1776": {
+   "tags": [
+    "encampment",
+    "tents",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1778": {
+   "tags": [
+    "church",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1779": {
+   "tags": [
+    "harbor",
+    "ice",
+    "ship"
+   ],
+   "conf": "high"
+  },
+  "STA-1780": {
+   "tags": [
+    "harbor",
+    "ice",
+    "ship"
+   ],
+   "conf": "high"
+  },
+  "STA-1781": {
+   "tags": [
+    "schoolhouse",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1782": {
+   "tags": [
+    "church",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1783": {
+   "tags": [
+    "canal lock",
+    "sailing ship",
+    "canal"
+   ],
+   "conf": "high"
+  },
+  "STA-1784": {
+   "tags": [
+    "library",
+    "storefront"
+   ],
+   "conf": "high"
+  },
+  "STA-1785": {
+   "tags": [
+    "pavilion",
+    "crowd"
+   ],
+   "conf": "high"
+  },
+  "STA-1787": {
+   "tags": [
+    "lighthouse",
+    "ice",
+    "ship"
+   ],
+   "conf": "high"
+  },
+  "STA-1788": {
+   "tags": [
+    "hotel",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1789": {
+   "tags": [
+    "house",
+    "church",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1790": {
+   "tags": [
+    "house",
+    "baseball",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1791": {
+   "tags": [
+    "harvesting",
+    "farmers",
+    "children",
+    "workers"
+   ],
+   "conf": "high"
+  },
+  "STA-1792": {
+   "tags": [
+    "mansion",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1793": {
+   "tags": [
+    "parade",
+    "marching band",
+    "crowd",
+    "main street"
+   ],
+   "conf": "high"
+  }
+ }
+}

@@ -5,7 +5,6 @@
  "sy": 1865,
  "era": "early",
  "cats": [
-  "water",
   "war"
  ],
  "blurb": "",
@@ -55,7 +54,6 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "water",
   "war"
  ],
  "publisher_series": null,
@@ -67,5 +65,11 @@
  "license_url": null,
  "source_page_id": 7481083,
  "source_revision_id": null,
- "source_sha1": "13078937620f3606f70d73a6844f9f3a6693e26a"
+ "source_sha1": "13078937620f3606f70d73a6844f9f3a6693e26a",
+ "tags": [
+  "memorial",
+  "cemetery",
+  "family",
+  "trees"
+ ]
 }

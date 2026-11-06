@@ -1,6 +1,6 @@
 {
  "title": "Railroad depot from the bridge, Atlanta, Ga",
- "place": "Place unrecorded",
+ "place": "Atlanta, Georgia",
  "year": "1861–1865",
  "sy": 1861,
  "era": "early",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 12019666,
  "source_revision_id": null,
- "source_sha1": "cd171a841cf539e825ac2d29b22e340bd2c78eb9"
+ "source_sha1": "cd171a841cf539e825ac2d29b22e340bd2c78eb9",
+ "tags": [
+  "railroad tracks",
+  "depot"
+ ]
 }

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1811.json",
+ "name": "The Capitol Building, Nashville, Tenn, by Continent Stereoscopic Company",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1810.jpg",
+ "identifier": "STA-1811",
+ "creator": {
+  "@type": "Person",
+  "name": "Continent Stereoscopic Company"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Nashville, Tennessee"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Capitol_Building,_Nashville,_Tenn,_by_Continent_Stereoscopic_Company.png"
+}

@@ -1,11 +1,11 @@
 {
  "title": "The place where Major-General McPherson was killed, near Atlanta, Ga",
- "place": "Place unrecorded",
+ "place": "Atlanta, Georgia",
  "year": "1861–1865",
  "sy": 1861,
  "era": "early",
  "cats": [
-  "oddities"
+  "war"
  ],
  "blurb": "",
  "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/The_place_where_Major-General_McPherson_was_killed%2C_near_Atlanta%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "war"
  ],
  "publisher_series": null,
  "date_edtf": "1861/1865",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 12019547,
  "source_revision_id": null,
- "source_sha1": "1769061c0b1000baa85dfcee48d99146f616c6f1"
+ "source_sha1": "1769061c0b1000baa85dfcee48d99146f616c6f1",
+ "tags": [
+  "cannon",
+  "forest",
+  "trees"
+ ]
 }

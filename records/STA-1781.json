@@ -1,6 +1,6 @@
 {
  "title": "State Normal School building, Buffalo, N.Y",
- "place": "Place unrecorded",
+ "place": "Buffalo, New York",
  "year": "1865",
  "sy": 1865,
  "era": "early",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10054340,
  "source_revision_id": null,
- "source_sha1": "add1e834e30166542a89dba2f27a0ee948a2bd63"
+ "source_sha1": "add1e834e30166542a89dba2f27a0ee948a2bd63",
+ "tags": [
+  "schoolhouse",
+  "trees"
+ ]
 }

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1801.json",
+ "name": "Battle of Gettysburg July 2 1863",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1800.jpg",
+ "identifier": "STA-1801",
+ "dateCreated": "1863",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gettysburg, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Battle_of_Gettysburg_July_2_1863,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

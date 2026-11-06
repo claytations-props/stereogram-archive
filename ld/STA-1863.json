@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1863.json",
+ "name": "Governor's Mansion, Atlanta, Georgia, by J. L. Schaub",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1862.jpg",
+ "identifier": "STA-1863",
+ "creator": {
+  "@type": "Person",
+  "name": "J. L. Schaub"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Atlanta, Georgia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Governor%27s_Mansion,_Atlanta,_Georgia,_by_J._L._Schaub.jpg"
+}

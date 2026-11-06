@@ -1,11 +1,11 @@
 {
  "title": "Bar Harbor (NYPL b11707212-G89F151 003F)",
- "place": "Place unrecorded",
+ "place": "Bar Harbor, Maine",
  "year": "Undated",
  "sy": 1900,
  "era": "undated",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bar_Harbor_%28NYPL_b11707212-G89F151_003F%29.tiff/lossy-page1-1920px-Bar_Harbor_%28NYPL_b11707212-G89F151_003F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": null,
@@ -65,5 +65,12 @@
  "license_url": null,
  "source_page_id": 49443861,
  "source_revision_id": null,
- "source_sha1": "5aa1f44d6593acd7d02ed60c167877296dee4317"
+ "source_sha1": "5aa1f44d6593acd7d02ed60c167877296dee4317",
+ "tags": [
+  "harbor",
+  "bay",
+  "mountain",
+  "sailing ship",
+  "pine tree"
+ ]
 }

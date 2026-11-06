@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1838.json",
+ "name": "View of Bar Harbor (NYPL b11707212-G89F151 001F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1837.jpg",
+ "identifier": "STA-1838",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bar Harbor, Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_Bar_Harbor_(NYPL_b11707212-G89F151_001F).tiff"
+}

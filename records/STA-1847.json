@@ -1,11 +1,11 @@
 {
  "title": "Bar Harbor. Bird's-eye view of Mt. Desert Island (NYPL b11707212-G89F151 010ZF)",
- "place": "Place unrecorded",
+ "place": "Bar Harbor, Maine",
  "year": "Undated",
  "sy": 1900,
  "era": "undated",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bar_Harbor._Bird%27s-eye_view_of_Mt._Desert_Island_%28NYPL_b11707212-G89F151_010ZF%29.tiff/lossy-page1-1920px-Bar_Harbor._Bird%27s-eye_view_of_Mt._Desert_Island_%28NYPL_b11707212-G89F151_010ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": null,
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 49444143,
  "source_revision_id": null,
- "source_sha1": "e0fc8138175a5cf4b5625422d7b818cde17fe7aa"
+ "source_sha1": "e0fc8138175a5cf4b5625422d7b818cde17fe7aa",
+ "tags": [
+  "hotel",
+  "harbor",
+  "mountain"
+ ]
 }

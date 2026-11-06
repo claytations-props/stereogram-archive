@@ -131080,7 +131080,7 @@
  },
  {
   "title": "Buffalo, N.Y., 1897. Birdseye view of Camp Jewett, G.A.R",
-  "place": "Place unrecorded",
+  "place": "Buffalo, New York",
   "year": "1897",
   "sy": 1897,
   "era": "mid",
@@ -131145,11 +131145,16 @@
   "license_url": null,
   "source_page_id": 10052414,
   "source_revision_id": null,
-  "source_sha1": "c31a54a0f4dea3e30eb106d14fdfdedcc699833d"
+  "source_sha1": "c31a54a0f4dea3e30eb106d14fdfdedcc699833d",
+  "tags": [
+   "encampment",
+   "tents",
+   "trees"
+  ]
  },
  {
   "title": "City Hall, Buffalo, N.Y",
-  "place": "Place unrecorded",
+  "place": "Buffalo, New York",
   "year": "1865",
   "sy": 1865,
   "era": "early",
@@ -131218,7 +131223,7 @@
  },
  {
   "title": "Buffalo, N.Y. Central Presbyterian Church",
-  "place": "Place unrecorded",
+  "place": "Buffalo, New York",
   "year": "1865",
   "sy": 1865,
   "era": "early",
@@ -131283,16 +131288,20 @@
   "license_url": null,
   "source_page_id": 10052379,
   "source_revision_id": null,
-  "source_sha1": "ed3cc1de6788eaf03cfcec8e46e37cde21df2b39"
+  "source_sha1": "ed3cc1de6788eaf03cfcec8e46e37cde21df2b39",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "Buffalo harbor, boat and ice in water",
-  "place": "Place unrecorded",
+  "place": "Buffalo, New York",
   "year": "1865",
   "sy": 1865,
   "era": "early",
   "cats": [
-   "oddities"
+   "water"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Buffalo_harbor%2C_boat_and_ice_in_water%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Buffalo_harbor%2C_boat_and_ice_in_water%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -131341,7 +131350,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "water"
   ],
   "publisher_series": null,
   "date_edtf": "1865",
@@ -131352,16 +131361,21 @@
   "license_url": null,
   "source_page_id": 10052553,
   "source_revision_id": null,
-  "source_sha1": "4cfd26f0d95d0ed94cd35801915ad579d19d630c"
+  "source_sha1": "4cfd26f0d95d0ed94cd35801915ad579d19d630c",
+  "tags": [
+   "harbor",
+   "ice",
+   "ship"
+  ]
  },
  {
   "title": "Buffalo harbor. (Boat and ice in water.)",
-  "place": "Place unrecorded",
+  "place": "Buffalo, New York",
   "year": "1865",
   "sy": 1865,
   "era": "early",
   "cats": [
-   "oddities"
+   "water"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Buffalo_harbor._%28Boat_and_ice_in_water.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Buffalo_harbor._%28Boat_and_ice_in_water.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -131410,7 +131424,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "water"
   ],
   "publisher_series": null,
   "date_edtf": "1865",
@@ -131421,11 +131435,16 @@
   "license_url": null,
   "source_page_id": 10052526,
   "source_revision_id": null,
-  "source_sha1": "b5de512b114b5cbe95a33c259219551f66e1b8cc"
+  "source_sha1": "b5de512b114b5cbe95a33c259219551f66e1b8cc",
+  "tags": [
+   "harbor",
+   "ice",
+   "ship"
+  ]
  },
  {
   "title": "State Normal School building, Buffalo, N.Y",
-  "place": "Place unrecorded",
+  "place": "Buffalo, New York",
   "year": "1865",
   "sy": 1865,
   "era": "early",
@@ -131490,16 +131509,20 @@
   "license_url": null,
   "source_page_id": 10054340,
   "source_revision_id": null,
-  "source_sha1": "add1e834e30166542a89dba2f27a0ee948a2bd63"
+  "source_sha1": "add1e834e30166542a89dba2f27a0ee948a2bd63",
+  "tags": [
+   "schoolhouse",
+   "trees"
+  ]
  },
  {
   "title": "St. Joseph's Cathedral, Buffalo, N.Y",
-  "place": "Place unrecorded",
+  "place": "Buffalo, New York",
   "year": "1865",
   "sy": 1865,
   "era": "early",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/St._Joseph%27s_Cathedral%2C_Buffalo%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-St._Joseph%27s_Cathedral%2C_Buffalo%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -131548,7 +131571,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1865",
@@ -131559,16 +131582,20 @@
   "license_url": null,
   "source_page_id": 10054384,
   "source_revision_id": null,
-  "source_sha1": "7657e3b68397016fe567810ae3b8a05ee5c48739"
+  "source_sha1": "7657e3b68397016fe567810ae3b8a05ee5c48739",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "Vessel in lock, Erie Canal, Buffalo, N.Y",
-  "place": "Place unrecorded",
+  "place": "Buffalo, New York",
   "year": "1865",
   "sy": 1865,
   "era": "early",
   "cats": [
-   "oddities"
+   "water"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Vessel_in_lock%2C_Erie_Canal%2C_Buffalo%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Vessel_in_lock%2C_Erie_Canal%2C_Buffalo%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -131617,7 +131644,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "water"
   ],
   "publisher_series": null,
   "date_edtf": "1865",
@@ -131628,17 +131655,21 @@
   "license_url": null,
   "source_page_id": 10053519,
   "source_revision_id": null,
-  "source_sha1": "22e5763e6bad460b53df8b2d29d0d40e31a9cbd4"
+  "source_sha1": "22e5763e6bad460b53df8b2d29d0d40e31a9cbd4",
+  "tags": [
+   "canal lock",
+   "sailing ship",
+   "canal"
+  ]
  },
  {
   "title": "Young Men's Association building, Buffalo, New York",
-  "place": "New York, New York",
+  "place": "Buffalo, New York",
   "year": "1865",
   "sy": 1865,
   "era": "early",
   "cats": [
-   "cities",
-   "people"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Young_Men%27s_Association_building%2C_Buffalo%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Young_Men%27s_Association_building%2C_Buffalo%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -131687,8 +131718,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "cities",
-   "people"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1865",
@@ -131699,16 +131729,20 @@
   "license_url": null,
   "source_page_id": 10053309,
   "source_revision_id": null,
-  "source_sha1": "fe04e1af4ce406f6d962f47288701aa54c2bfb8d"
+  "source_sha1": "fe04e1af4ce406f6d962f47288701aa54c2bfb8d",
+  "tags": [
+   "library",
+   "storefront"
+  ]
  },
  {
   "title": "Lake Side Park House, Buffalo, N.Y",
-  "place": "Place unrecorded",
+  "place": "Buffalo, New York",
   "year": "1865",
   "sy": 1865,
   "era": "early",
   "cats": [
-   "water"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Lake_Side_Park_House%2C_Buffalo%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Lake_Side_Park_House%2C_Buffalo%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -131757,7 +131791,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "water"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1865",
@@ -131768,7 +131802,11 @@
   "license_url": null,
   "source_page_id": 10052367,
   "source_revision_id": null,
-  "source_sha1": "8196ab80ec89b681acdd8db4a6b14b85e16e83db"
+  "source_sha1": "8196ab80ec89b681acdd8db4a6b14b85e16e83db",
+  "tags": [
+   "pavilion",
+   "crowd"
+  ]
  },
  {
   "title": "Head of a buffalo",
@@ -131841,12 +131879,12 @@
  },
  {
   "title": "Light house near Buffalo, N.Y. (Ice and ship)",
-  "place": "Place unrecorded",
+  "place": "Buffalo, New York",
   "year": "1865",
   "sy": 1865,
   "era": "early",
   "cats": [
-   "oddities"
+   "water"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Light_house_near_Buffalo%2C_N.Y._%28Ice_and_ship%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Light_house_near_Buffalo%2C_N.Y._%28Ice_and_ship%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -131895,7 +131933,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "water"
   ],
   "publisher_series": null,
   "date_edtf": "1865",
@@ -131906,11 +131944,16 @@
   "license_url": null,
   "source_page_id": 10052302,
   "source_revision_id": null,
-  "source_sha1": "529e92cdd3658e2ec33d172720dddf3f76a7f8ce"
+  "source_sha1": "529e92cdd3658e2ec33d172720dddf3f76a7f8ce",
+  "tags": [
+   "lighthouse",
+   "ice",
+   "ship"
+  ]
  },
  {
   "title": "Invalids' and Tourists' Hotel, Buffalo, N.Y",
-  "place": "Place unrecorded",
+  "place": "Buffalo, New York",
   "year": "1878",
   "sy": 1878,
   "era": "mid",
@@ -131975,11 +132018,15 @@
   "license_url": null,
   "source_page_id": 10054470,
   "source_revision_id": null,
-  "source_sha1": "734cccb8041b4723c7933aeb1cbea60863155d37"
+  "source_sha1": "734cccb8041b4723c7933aeb1cbea60863155d37",
+  "tags": [
+   "hotel",
+   "trees"
+  ]
  },
  {
   "title": "Looking E., from Tourists' Hotel, Buffalo, N.Y",
-  "place": "Place unrecorded",
+  "place": "Buffalo, New York",
   "year": "1878",
   "sy": 1878,
   "era": "mid",
@@ -132044,11 +132091,16 @@
   "license_url": null,
   "source_page_id": 10054193,
   "source_revision_id": null,
-  "source_sha1": "717ff074c5548c2e8d9d8fd83fed6fa74a22d970"
+  "source_sha1": "717ff074c5548c2e8d9d8fd83fed6fa74a22d970",
+  "tags": [
+   "house",
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "Base ball grounds, from Tourists' Hotel, Buffalo",
-  "place": "Place unrecorded",
+  "place": "Buffalo, New York",
   "year": "1878",
   "sy": 1878,
   "era": "mid",
@@ -132113,16 +132165,21 @@
   "license_url": null,
   "source_page_id": 10054265,
   "source_revision_id": null,
-  "source_sha1": "f8fa21d47d2d4db233f744eb1435084632f57658"
+  "source_sha1": "f8fa21d47d2d4db233f744eb1435084632f57658",
+  "tags": [
+   "house",
+   "baseball",
+   "trees"
+  ]
  },
  {
   "title": "Harvesting onions, truck farming, near Buffalo, N.Y., U.S.A",
-  "place": "Place unrecorded",
+  "place": "Buffalo, New York",
   "year": "1865",
   "sy": 1865,
   "era": "early",
   "cats": [
-   "oddities"
+   "people"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Harvesting_onions%2C_truck_farming%2C_near_Buffalo%2C_N.Y.%2C_U.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Harvesting_onions%2C_truck_farming%2C_near_Buffalo%2C_N.Y.%2C_U.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -132171,7 +132228,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "people"
   ],
   "publisher_series": null,
   "date_edtf": "1865",
@@ -132182,16 +132239,22 @@
   "license_url": null,
   "source_page_id": 10052648,
   "source_revision_id": null,
-  "source_sha1": "768168310275cf8394ab86d693d47bf9ec723785"
+  "source_sha1": "768168310275cf8394ab86d693d47bf9ec723785",
+  "tags": [
+   "harvesting",
+   "farmers",
+   "children",
+   "workers"
+  ]
  },
  {
   "title": "Wilcox House, where President Roosevelt took oath of office, Buffalo, N.Y",
-  "place": "Place unrecorded",
+  "place": "Buffalo, New York",
   "year": "1865",
   "sy": 1865,
   "era": "early",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Wilcox_House%2C_where_President_Roosevelt_took_oath_of_office%2C_Buffalo%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Wilcox_House%2C_where_President_Roosevelt_took_oath_of_office%2C_Buffalo%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -132240,7 +132303,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1865",
@@ -132251,11 +132314,15 @@
   "license_url": null,
   "source_page_id": 10053453,
   "source_revision_id": null,
-  "source_sha1": "eebff5a6304c5339d69b079a23d1a3be233714e5"
+  "source_sha1": "eebff5a6304c5339d69b079a23d1a3be233714e5",
+  "tags": [
+   "mansion",
+   "trees"
+  ]
  },
  {
   "title": "Under the Grand Old Flag again, Grand Army Reunion, Buffalo, N.Y., U.S.A., Aug. 25, 1897. (Parade.)",
-  "place": "Place unrecorded",
+  "place": "Buffalo, New York",
   "year": "1897",
   "sy": 1897,
   "era": "mid",
@@ -132320,7 +132387,13 @@
   "license_url": null,
   "source_page_id": 10052589,
   "source_revision_id": null,
-  "source_sha1": "7c7e99ea32b50d697c1f7c56afedad59581d6dfb"
+  "source_sha1": "7c7e99ea32b50d697c1f7c56afedad59581d6dfb",
+  "tags": [
+   "parade",
+   "marching band",
+   "crowd",
+   "main street"
+  ]
  },
  {
   "title": "Battles of Gettysburg",
@@ -132389,7 +132462,13 @@
   "license_url": null,
   "source_page_id": 7481229,
   "source_revision_id": null,
-  "source_sha1": "fe6ff826f0a099017cbcd75696bb7f26424feb4f"
+  "source_sha1": "fe6ff826f0a099017cbcd75696bb7f26424feb4f",
+  "tags": [
+   "battlefield",
+   "soldiers",
+   "horse",
+   "cannon"
+  ]
  },
  {
   "title": "Round Top Gettysburg",
@@ -132458,7 +132537,12 @@
   "license_url": null,
   "source_page_id": 7480841,
   "source_revision_id": null,
-  "source_sha1": "4a56e11f7723614cc7cf3537e37dc288352f4325"
+  "source_sha1": "4a56e11f7723614cc7cf3537e37dc288352f4325",
+  "tags": [
+   "battlefield",
+   "pine tree",
+   "rock formation"
+  ]
  },
  {
   "title": "Battles of Gettysburg, from Robert N. Dennis collection of stereoscopic views 2",
@@ -132527,7 +132611,12 @@
   "license_url": null,
   "source_page_id": 7481231,
   "source_revision_id": null,
-  "source_sha1": "309e3f3fede3f4c854e2665b58e76a88d1c483a8"
+  "source_sha1": "309e3f3fede3f4c854e2665b58e76a88d1c483a8",
+  "tags": [
+   "battlefield",
+   "soldiers",
+   "forest"
+  ]
  },
  {
   "title": "General Harrow at Gettysburg",
@@ -132596,7 +132685,13 @@
   "license_url": null,
   "source_page_id": 7480883,
   "source_revision_id": null,
-  "source_sha1": "3dbc01a06583a488b144c106c1727b517cf03096"
+  "source_sha1": "3dbc01a06583a488b144c106c1727b517cf03096",
+  "tags": [
+   "battlefield",
+   "soldiers",
+   "horse",
+   "cannon"
+  ]
  },
  {
   "title": "Spangler's Spring, Gettysburg, Pa",
@@ -132665,7 +132760,11 @@
   "license_url": null,
   "source_page_id": 7480945,
   "source_revision_id": null,
-  "source_sha1": "324447b6c38636eb1b05d0f26ae8f0daecaf115f"
+  "source_sha1": "324447b6c38636eb1b05d0f26ae8f0daecaf115f",
+  "tags": [
+   "forest",
+   "trees"
+  ]
  },
  {
   "title": "Breastworks on left wing, Gettysburg",
@@ -132734,7 +132833,12 @@
   "license_url": null,
   "source_page_id": 7480833,
   "source_revision_id": null,
-  "source_sha1": "4c32067ebd383e404a01b8896704b1499fff42d2"
+  "source_sha1": "4c32067ebd383e404a01b8896704b1499fff42d2",
+  "tags": [
+   "battlefield",
+   "forest",
+   "trees"
+  ]
  },
  {
   "title": "Battery B, East Cemetery Hill, Gettysburg, Pa",
@@ -132803,7 +132907,11 @@
   "license_url": null,
   "source_page_id": 7480923,
   "source_revision_id": null,
-  "source_sha1": "78c5ae98e4b548fdba29b949865863118f73468e"
+  "source_sha1": "78c5ae98e4b548fdba29b949865863118f73468e",
+  "tags": [
+   "cannon",
+   "battlefield"
+  ]
  },
  {
   "title": "Battle of Gettysburg July 2 1863",
@@ -132872,7 +132980,12 @@
   "license_url": null,
   "source_page_id": 7480905,
   "source_revision_id": null,
-  "source_sha1": "14004c94edc14a6e6686dc254b13b999dcaeb44c"
+  "source_sha1": "14004c94edc14a6e6686dc254b13b999dcaeb44c",
+  "tags": [
+   "battlefield",
+   "soldiers",
+   "horse"
+  ]
  },
  {
   "title": "Charge of the 19th Regiment, battle of Gettysburg",
@@ -132941,7 +133054,13 @@
   "license_url": null,
   "source_page_id": 7481067,
   "source_revision_id": null,
-  "source_sha1": "ed6ae93cd83656a205c701bfc92304160169321d"
+  "source_sha1": "ed6ae93cd83656a205c701bfc92304160169321d",
+  "tags": [
+   "battlefield",
+   "soldiers",
+   "cannon",
+   "wagon"
+  ]
  },
  {
   "title": "North from Little Round Top, Gettysburg",
@@ -133010,7 +133129,12 @@
   "license_url": null,
   "source_page_id": 7480918,
   "source_revision_id": null,
-  "source_sha1": "8fa783147d77709f6ee101ab1500cf335c978d25"
+  "source_sha1": "8fa783147d77709f6ee101ab1500cf335c978d25",
+  "tags": [
+   "battlefield",
+   "rock formation",
+   "monument"
+  ]
  },
  {
   "title": "Pickett's Charge, Battle of Gettysburg, Pa., U.S.A",
@@ -133079,7 +133203,13 @@
   "license_url": null,
   "source_page_id": 7480846,
   "source_revision_id": null,
-  "source_sha1": "42197c1fe34edce84f1956ef49b13ff2ef5043a3"
+  "source_sha1": "42197c1fe34edce84f1956ef49b13ff2ef5043a3",
+  "tags": [
+   "battlefield",
+   "soldiers",
+   "cannon",
+   "wagon"
+  ]
  },
  {
   "title": "The valley of death, from Little Round Top, Gettysburg",
@@ -133150,7 +133280,11 @@
   "license_url": null,
   "source_page_id": 7480941,
   "source_revision_id": null,
-  "source_sha1": "f18c2a74258216ef1b7594ce2a50ac3772aa9a65"
+  "source_sha1": "f18c2a74258216ef1b7594ce2a50ac3772aa9a65",
+  "tags": [
+   "monument",
+   "portrait group"
+  ]
  },
  {
   "title": "Head Sanitary Commission at Gen. Hospital Gettysburg",
@@ -133219,7 +133353,13 @@
   "license_url": null,
   "source_page_id": 7481117,
   "source_revision_id": null,
-  "source_sha1": "b8c5fcb1f3074ecc3446944003abc76911752464"
+  "source_sha1": "b8c5fcb1f3074ecc3446944003abc76911752464",
+  "tags": [
+   "encampment",
+   "tents",
+   "portrait group",
+   "forest"
+  ]
  },
  {
   "title": "Forget not the fallen. 3,590 of the great battle's dead, New York State Monument, Gettysburg",
@@ -133228,7 +133368,6 @@
   "sy": 1865,
   "era": "early",
   "cats": [
-   "water",
    "war"
   ],
   "blurb": "",
@@ -133278,7 +133417,6 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "water",
    "war"
   ],
   "publisher_series": null,
@@ -133290,7 +133428,13 @@
   "license_url": null,
   "source_page_id": 7481083,
   "source_revision_id": null,
-  "source_sha1": "13078937620f3606f70d73a6844f9f3a6693e26a"
+  "source_sha1": "13078937620f3606f70d73a6844f9f3a6693e26a",
+  "tags": [
+   "memorial",
+   "cemetery",
+   "family",
+   "trees"
+  ]
  },
  {
   "title": "From Seminary Ridge S.E. to Penn. College, Gettysburg, used as a hospital during battle",
@@ -133359,7 +133503,12 @@
   "license_url": null,
   "source_page_id": 7481079,
   "source_revision_id": null,
-  "source_sha1": "9513b245567498d86c8500f1ee8879cc61003a97"
+  "source_sha1": "9513b245567498d86c8500f1ee8879cc61003a97",
+  "tags": [
+   "monument",
+   "portrait group",
+   "meadow"
+  ]
  },
  {
   "title": "Monument where Lincoln's famous address was made, 979 of the great battle's unknown dead, Gettysburg",
@@ -133428,11 +133577,17 @@
   "license_url": null,
   "source_page_id": 7481081,
   "source_revision_id": null,
-  "source_sha1": "39b73c001771419da7e68beee161df0b3f4a5c47"
+  "source_sha1": "39b73c001771419da7e68beee161df0b3f4a5c47",
+  "tags": [
+   "cemetery",
+   "gravestone",
+   "monument",
+   "trees"
+  ]
  },
  {
   "title": "Nashville University Building, Nashville, Tenn, by Continent Stereoscopic Company",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "c. 1885",
   "sy": 1885,
   "era": "mid",
@@ -133497,11 +133652,15 @@
   "license_url": null,
   "source_page_id": 10082815,
   "source_revision_id": null,
-  "source_sha1": "cddf028a7ff7d808598f019f3fb08199743f2f4c"
+  "source_sha1": "cddf028a7ff7d808598f019f3fb08199743f2f4c",
+  "tags": [
+   "university",
+   "trees"
+  ]
  },
  {
   "title": "The Capitol Building, Nashville, Tenn, by Continent Stereoscopic Company",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "c. 1885",
   "sy": 1885,
   "era": "mid",
@@ -133570,12 +133729,12 @@
  },
  {
   "title": "Custom House and Post Office, Nashville, Tenn, by Continent Stereoscopic Company",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "c. 1885",
   "sy": 1885,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Custom_House_and_Post_Office%2C_Nashville%2C_Tenn%2C_by_Continent_Stereoscopic_Company.png/1920px-Custom_House_and_Post_Office%2C_Nashville%2C_Tenn%2C_by_Continent_Stereoscopic_Company.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -133624,7 +133783,7 @@
   "creator": "Continent Stereoscopic Company",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1885~",
@@ -133639,12 +133798,12 @@
  },
  {
   "title": "National Military Cemetery, Nashville, Tenn",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "c. 1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/National_Military_Cemetery%2C_Nashville%2C_Tenn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-National_Military_Cemetery%2C_Nashville%2C_Tenn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -133693,7 +133852,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1870~",
@@ -133704,16 +133863,21 @@
   "license_url": null,
   "source_page_id": 10082722,
   "source_revision_id": null,
-  "source_sha1": "f39f132df518bcd3bd3d3c0fc49d454fefd89305"
+  "source_sha1": "f39f132df518bcd3bd3d3c0fc49d454fefd89305",
+  "tags": [
+   "memorial",
+   "cemetery",
+   "trees"
+  ]
  },
  {
   "title": "National Military Cemetery, Graves, Nashville, Tenn, by Continent Stereoscopic Company",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "c. 1885",
   "sy": 1885,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/National_Military_Cemetery%2C_Graves%2C_Nashville%2C_Tenn%2C_by_Continent_Stereoscopic_Company.jpg/1920px-National_Military_Cemetery%2C_Graves%2C_Nashville%2C_Tenn%2C_by_Continent_Stereoscopic_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -133762,7 +133926,7 @@
   "creator": "Continent Stereoscopic Company",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1885~",
@@ -133773,16 +133937,21 @@
   "license_url": null,
   "source_page_id": 10082820,
   "source_revision_id": null,
-  "source_sha1": "d6f375ddf3685e2d53f044a18c6d88e82b9ad8b0"
+  "source_sha1": "d6f375ddf3685e2d53f044a18c6d88e82b9ad8b0",
+  "tags": [
+   "cemetery",
+   "gravestone",
+   "trees"
+  ]
  },
  {
   "title": "The Hermitage, Nashville, Tenn",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "c. 1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/The_Hermitage%2C_Nashville%2C_Tenn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Hermitage%2C_Nashville%2C_Tenn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -133831,7 +134000,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1870~",
@@ -133842,11 +134011,15 @@
   "license_url": null,
   "source_page_id": 10082740,
   "source_revision_id": null,
-  "source_sha1": "4e0c4ae025f63f2fcae5c4e7630b73bdcaed03bc"
+  "source_sha1": "4e0c4ae025f63f2fcae5c4e7630b73bdcaed03bc",
+  "tags": [
+   "mansion",
+   "trees"
+  ]
  },
  {
   "title": "The Capitol Building, Nashville, Tenn, by Continent Stereoscopic Company 2",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "c. 1885",
   "sy": 1885,
   "era": "mid",
@@ -133915,12 +134088,12 @@
  },
  {
   "title": "National Military Cemetery, Graves, Nashville, Tenn",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "c. 1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/National_Military_Cemetery%2C_Graves%2C_Nashville%2C_Tenn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-National_Military_Cemetery%2C_Graves%2C_Nashville%2C_Tenn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -133969,7 +134142,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1870~",
@@ -133980,16 +134153,21 @@
   "license_url": null,
   "source_page_id": 10082726,
   "source_revision_id": null,
-  "source_sha1": "f5ace60244df56bfa1dcd6cd3cd036360f00682c"
+  "source_sha1": "f5ace60244df56bfa1dcd6cd3cd036360f00682c",
+  "tags": [
+   "cemetery",
+   "gravestone",
+   "trees"
+  ]
  },
  {
   "title": "Capital Hill, from West, Nashville, Tenn",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "c. 1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Capital_Hill%2C_from_West%2C_Nashville%2C_Tenn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Capital_Hill%2C_from_West%2C_Nashville%2C_Tenn%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -134038,7 +134216,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1870~",
@@ -134049,11 +134227,16 @@
   "license_url": null,
   "source_page_id": 10082732,
   "source_revision_id": null,
-  "source_sha1": "75dd954d5ae9a1c4d701affbfe23058e70453079"
+  "source_sha1": "75dd954d5ae9a1c4d701affbfe23058e70453079",
+  "tags": [
+   "trestle bridge",
+   "meadow",
+   "trees"
+  ]
  },
  {
   "title": "The Suspension Bridge, Nashville, Tenn, by Union View Co.",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
@@ -134118,11 +134301,15 @@
   "license_url": null,
   "source_page_id": 10082824,
   "source_revision_id": null,
-  "source_sha1": "2fbbbdc242e49bfdb252b81c22e16474b6423396"
+  "source_sha1": "2fbbbdc242e49bfdb252b81c22e16474b6423396",
+  "tags": [
+   "suspension bridge",
+   "trees"
+  ]
  },
  {
   "title": "Cumberland River, Nashville, Tenn, by Union View Co.",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "1880–1885",
   "sy": 1880,
   "era": "mid",
@@ -134187,16 +134374,20 @@
   "license_url": null,
   "source_page_id": 10082837,
   "source_revision_id": null,
-  "source_sha1": "bde42fb1483dd3108516254ced2e2317dae65874"
+  "source_sha1": "bde42fb1483dd3108516254ced2e2317dae65874",
+  "tags": [
+   "river",
+   "trestle bridge"
+  ]
  },
  {
   "title": "The Hermitage entrance, Nashville, Tenn, by Union View Co.",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/The_Hermitage_entrance%2C_Nashville%2C_Tenn%2C_by_Union_View_Co..jpg/1920px-The_Hermitage_entrance%2C_Nashville%2C_Tenn%2C_by_Union_View_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -134245,7 +134436,7 @@
   "creator": "Union View Co.",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1870",
@@ -134260,12 +134451,12 @@
  },
  {
   "title": "National Military Cemetery, Graves, Nashville, Tenn, by Union View Co.",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Military_Cemetery%2C_Graves%2C_Nashville%2C_Tenn%2C_by_Union_View_Co..jpg/1920px-National_Military_Cemetery%2C_Graves%2C_Nashville%2C_Tenn%2C_by_Union_View_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -134314,7 +134505,7 @@
   "creator": "Union View Co.",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1870",
@@ -134325,11 +134516,16 @@
   "license_url": null,
   "source_page_id": 10082842,
   "source_revision_id": null,
-  "source_sha1": "38cb8d2f502f4cb9e933ba2179b833bf06ceb2b4"
+  "source_sha1": "38cb8d2f502f4cb9e933ba2179b833bf06ceb2b4",
+  "tags": [
+   "cemetery",
+   "gravestone",
+   "trees"
+  ]
  },
  {
   "title": "The Suspension Bridge, Nashville, Tenn, by Webster & Albee",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "c. 1890",
   "sy": 1890,
   "era": "mid",
@@ -134398,12 +134594,12 @@
  },
  {
   "title": "State Normal School, Nashville, Tenn, by Webster & Albee",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "c. 1890",
   "sy": 1890,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/State_Normal_School%2C_Nashville%2C_Tenn%2C_by_Webster_%26_Albee.jpg/1920px-State_Normal_School%2C_Nashville%2C_Tenn%2C_by_Webster_%26_Albee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -134452,7 +134648,7 @@
   "creator": "Webster & Albee",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1890~",
@@ -134463,11 +134659,15 @@
   "license_url": null,
   "source_page_id": 10082771,
   "source_revision_id": null,
-  "source_sha1": "cd22d1819d65d99e4c1a7e86c7773be141056253"
+  "source_sha1": "cd22d1819d65d99e4c1a7e86c7773be141056253",
+  "tags": [
+   "schoolhouse",
+   "trees"
+  ]
  },
  {
   "title": "National Military Cemetery, Graves, Nashville, Tenn, by Webster & Albee",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "c. 1890",
   "sy": 1890,
   "era": "mid",
@@ -134532,11 +134732,15 @@
   "license_url": null,
   "source_page_id": 10082783,
   "source_revision_id": null,
-  "source_sha1": "bc840e7a0d0871575d2218c55156a2fbdc330f92"
+  "source_sha1": "bc840e7a0d0871575d2218c55156a2fbdc330f92",
+  "tags": [
+   "cemetery",
+   "gravestone"
+  ]
  },
  {
   "title": "Looking East from Fort Negley, Nashville, Tenn, by Webster & Albee",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "c. 1890",
   "sy": 1890,
   "era": "mid",
@@ -134601,11 +134805,15 @@
   "license_url": null,
   "source_page_id": 10082788,
   "source_revision_id": null,
-  "source_sha1": "7a06d6ed4734c826fa47f6f479784146a1523ebf"
+  "source_sha1": "7a06d6ed4734c826fa47f6f479784146a1523ebf",
+  "tags": [
+   "fort",
+   "children"
+  ]
  },
  {
   "title": "Entrance, Suspension Bridge, Nashville, Tenn, by Poole, R. (Rodney), 1837-",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "Undated",
   "sy": 1900,
   "era": "undated",
@@ -134670,16 +134878,20 @@
   "license_url": null,
   "source_page_id": 10082765,
   "source_revision_id": null,
-  "source_sha1": "11af96b501be0f1deabe700268e9dea12bbe22f1"
+  "source_sha1": "11af96b501be0f1deabe700268e9dea12bbe22f1",
+  "tags": [
+   "suspension bridge",
+   "horse-drawn carriage"
+  ]
  },
  {
   "title": "Southern Military College, Nashville, Tennessee, by E. & H.T. Anthony (Firm)",
-  "place": "Place unrecorded",
+  "place": "Nashville, Tennessee",
   "year": "c. 1865",
   "sy": 1865,
   "era": "early",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Southern_Military_College%2C_Nashville%2C_Tennessee%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg/1920px-Southern_Military_College%2C_Nashville%2C_Tennessee%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -134728,7 +134940,7 @@
   "creator": "E. & H.T. Anthony (Firm)",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1865~",
@@ -134739,16 +134951,20 @@
   "license_url": null,
   "source_page_id": 10082715,
   "source_revision_id": null,
-  "source_sha1": "f06753d49840897ad767f480bab3903fdfc14333"
+  "source_sha1": "f06753d49840897ad767f480bab3903fdfc14333",
+  "tags": [
+   "university",
+   "horse-drawn carriage"
+  ]
  },
  {
   "title": "Bar Harbor, Mt. Desert, Me",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Bar_Harbor%2C_Mt._Desert%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bar_Harbor%2C_Mt._Desert%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -134797,7 +135013,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1870",
@@ -134808,16 +135024,20 @@
   "license_url": null,
   "source_page_id": 7170716,
   "source_revision_id": null,
-  "source_sha1": "8634a3b02b9d86a8a391b08192d4874213fdd5cd"
+  "source_sha1": "8634a3b02b9d86a8a391b08192d4874213fdd5cd",
+  "tags": [
+   "house",
+   "trees"
+  ]
  },
  {
   "title": "Bar Harbor, Mt. Desert, Me, from Robert N. Dennis collection of stereoscopic views 2",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Bar_Harbor%2C_Mt._Desert%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Bar_Harbor%2C_Mt._Desert%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -134866,7 +135086,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1870",
@@ -134877,16 +135097,21 @@
   "license_url": null,
   "source_page_id": 7170727,
   "source_revision_id": null,
-  "source_sha1": "adbd9dfdee36721ebb8634a4457b05857e5c8f34"
+  "source_sha1": "adbd9dfdee36721ebb8634a4457b05857e5c8f34",
+  "tags": [
+   "house",
+   "trees",
+   "harbor"
+  ]
  },
  {
   "title": "Bar Harbor & yachts, Mt. Desert, Me",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "water"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Bar_Harbor_%26_yachts%2C_Mt._Desert%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Bar_Harbor_%26_yachts%2C_Mt._Desert%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -134935,7 +135160,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "water"
   ],
   "publisher_series": null,
   "date_edtf": "1870",
@@ -134946,16 +135171,21 @@
   "license_url": null,
   "source_page_id": 7170736,
   "source_revision_id": null,
-  "source_sha1": "d48c0b1a82643d9dc4c8b124f3c7d4e79e9668c1"
+  "source_sha1": "d48c0b1a82643d9dc4c8b124f3c7d4e79e9668c1",
+  "tags": [
+   "pier",
+   "sailboat",
+   "harbor"
+  ]
  },
  {
   "title": "Yachts at Bar Harbor, Mt. Desert",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "water"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Yachts_at_Bar_Harbor%2C_Mt._Desert%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Yachts_at_Bar_Harbor%2C_Mt._Desert%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -135004,7 +135234,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "water"
   ],
   "publisher_series": null,
   "date_edtf": "1870",
@@ -135015,16 +135245,21 @@
   "license_url": null,
   "source_page_id": 7170615,
   "source_revision_id": null,
-  "source_sha1": "d2cbb483677b599fc23eaab8ce4c4b77ee2571c2"
+  "source_sha1": "d2cbb483677b599fc23eaab8ce4c4b77ee2571c2",
+  "tags": [
+   "sailboat",
+   "harbor",
+   "trees"
+  ]
  },
  {
   "title": "View of Bar Harbor, by B. Bradley",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "water"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/View_of_Bar_Harbor%2C_by_B._Bradley.jpg/1920px-View_of_Bar_Harbor%2C_by_B._Bradley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -135073,7 +135308,7 @@
   "creator": "B. Bradley",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "water"
   ],
   "publisher_series": null,
   "date_edtf": "1870",
@@ -135084,16 +135319,20 @@
   "license_url": null,
   "source_page_id": 7170578,
   "source_revision_id": null,
-  "source_sha1": "0d45acca7c7b50736d3f36ed3d94404dcf325b9f"
+  "source_sha1": "0d45acca7c7b50736d3f36ed3d94404dcf325b9f",
+  "tags": [
+   "rock formation",
+   "ocean"
+  ]
  },
  {
   "title": "Bar Harbor, by B. Bradley",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "water"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Bar_Harbor%2C_by_B._Bradley.jpg/1920px-Bar_Harbor%2C_by_B._Bradley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -135142,7 +135381,7 @@
   "creator": "B. Bradley",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "water"
   ],
   "publisher_series": null,
   "date_edtf": "1870",
@@ -135153,11 +135392,17 @@
   "license_url": null,
   "source_page_id": 7170607,
   "source_revision_id": null,
-  "source_sha1": "4aa8379b57eae7f4fb6c0ed854a319d552e5c717"
+  "source_sha1": "4aa8379b57eae7f4fb6c0ed854a319d552e5c717",
+  "tags": [
+   "harbor",
+   "bay",
+   "mountain",
+   "sailboat"
+  ]
  },
  {
   "title": "Bar Harbor, by A. D. Bonney",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
@@ -135222,16 +135467,21 @@
   "license_url": null,
   "source_page_id": 7170625,
   "source_revision_id": null,
-  "source_sha1": "827a7f53c9d1f42100b62fedb61f0cf8fc0c8e6a"
+  "source_sha1": "827a7f53c9d1f42100b62fedb61f0cf8fc0c8e6a",
+  "tags": [
+   "hotel",
+   "portrait group",
+   "horse-drawn carriage"
+  ]
  },
  {
   "title": "Bar Harbor. Bird's-eye view of Mt. Desert Island, by B. Bradley",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Bar_Harbor._Bird%27s-eye_view_of_Mt._Desert_Island%2C_by_B._Bradley.jpg/1920px-Bar_Harbor._Bird%27s-eye_view_of_Mt._Desert_Island%2C_by_B._Bradley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -135280,7 +135530,7 @@
   "creator": "B. Bradley",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1870",
@@ -135291,16 +135541,21 @@
   "license_url": null,
   "source_page_id": 7170683,
   "source_revision_id": null,
-  "source_sha1": "2054ea0fb0db358c1673fc7cf530d066beacd174"
+  "source_sha1": "2054ea0fb0db358c1673fc7cf530d066beacd174",
+  "tags": [
+   "hotel",
+   "harbor",
+   "mountain"
+  ]
  },
  {
   "title": "Bar Harbor, Mt. Desert, Me, by B. Bradley",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Bar_Harbor%2C_Mt._Desert%2C_Me%2C_by_B._Bradley.jpg/1920px-Bar_Harbor%2C_Mt._Desert%2C_Me%2C_by_B._Bradley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -135349,7 +135604,7 @@
   "creator": "B. Bradley",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1870",
@@ -135360,16 +135615,22 @@
   "license_url": null,
   "source_page_id": 7170698,
   "source_revision_id": null,
-  "source_sha1": "cdd5e68d518368462edd005899b4f5b1087779ca"
+  "source_sha1": "cdd5e68d518368462edd005899b4f5b1087779ca",
+  "tags": [
+   "house",
+   "pine tree",
+   "island",
+   "bay"
+  ]
  },
  {
   "title": "View of Bar Harbor (NYPL b11707212-G89F151 001F)",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "Undated",
   "sy": 1900,
   "era": "undated",
   "cats": [
-   "oddities"
+   "water"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/View_of_Bar_Harbor_%28NYPL_b11707212-G89F151_001F%29.tiff/lossy-page1-1920px-View_of_Bar_Harbor_%28NYPL_b11707212-G89F151_001F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -135418,7 +135679,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "water"
   ],
   "publisher_series": null,
   "date_edtf": null,
@@ -135429,16 +135690,20 @@
   "license_url": null,
   "source_page_id": 49443759,
   "source_revision_id": null,
-  "source_sha1": "148c78f209aa55a066569850594fcb3c282917d6"
+  "source_sha1": "148c78f209aa55a066569850594fcb3c282917d6",
+  "tags": [
+   "rock formation",
+   "ocean"
+  ]
  },
  {
   "title": "Bar Harbor, Mt. Desert, Me, by B. Bradley 2",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Bar_Harbor%2C_Mt._Desert%2C_Me%2C_by_B._Bradley_2.jpg/1920px-Bar_Harbor%2C_Mt._Desert%2C_Me%2C_by_B._Bradley_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -135487,7 +135752,7 @@
   "creator": "B. Bradley",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1870",
@@ -135498,16 +135763,21 @@
   "license_url": null,
   "source_page_id": 7170706,
   "source_revision_id": null,
-  "source_sha1": "a8763e5aed20b6b3d1d3606d4bd1e5b264a4443e"
+  "source_sha1": "a8763e5aed20b6b3d1d3606d4bd1e5b264a4443e",
+  "tags": [
+   "house",
+   "pine tree",
+   "trees"
+  ]
  },
  {
   "title": "Bar Harbor (Mt. Desert), by J. P. Armbrust",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "water"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Bar_Harbor_%28Mt._Desert%29%2C_by_J._P._Armbrust.jpg/1920px-Bar_Harbor_%28Mt._Desert%29%2C_by_J._P._Armbrust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -135556,7 +135826,7 @@
   "creator": "J. P. Armbrust",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "water"
   ],
   "publisher_series": null,
   "date_edtf": "1870",
@@ -135567,16 +135837,22 @@
   "license_url": null,
   "source_page_id": 7170661,
   "source_revision_id": null,
-  "source_sha1": "5a70adef828e97ed69e9c6839b32490a8860d534"
+  "source_sha1": "5a70adef828e97ed69e9c6839b32490a8860d534",
+  "tags": [
+   "pier",
+   "sailboat",
+   "harbor",
+   "rowboat"
+  ]
  },
  {
   "title": "The buckboard, Bar Harbor, Mt. Desert, Me, by B. Bradley",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/The_buckboard%2C_Bar_Harbor%2C_Mt._Desert%2C_Me%2C_by_B._Bradley.jpg/1920px-The_buckboard%2C_Bar_Harbor%2C_Mt._Desert%2C_Me%2C_by_B._Bradley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -135625,7 +135901,7 @@
   "creator": "B. Bradley",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1870",
@@ -135636,16 +135912,22 @@
   "license_url": null,
   "source_page_id": 7170770,
   "source_revision_id": null,
-  "source_sha1": "1d8571651387798a9eadc54e6d9c810f3a232992"
+  "source_sha1": "1d8571651387798a9eadc54e6d9c810f3a232992",
+  "tags": [
+   "horse-drawn carriage",
+   "horse",
+   "house",
+   "meadow"
+  ]
  },
  {
   "title": "Bar Harbor from Scott's Hill, Mt. Desert, Me, by Kilburn Brothers",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Bar_Harbor_from_Scott%27s_Hill%2C_Mt._Desert%2C_Me%2C_by_Kilburn_Brothers.jpg/1920px-Bar_Harbor_from_Scott%27s_Hill%2C_Mt._Desert%2C_Me%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -135694,7 +135976,7 @@
   "creator": "Kilburn Brothers",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1870",
@@ -135705,16 +135987,22 @@
   "license_url": null,
   "source_page_id": 7170594,
   "source_revision_id": null,
-  "source_sha1": "85973524a5fc8d1148099283c81023cf2c6400bd"
+  "source_sha1": "85973524a5fc8d1148099283c81023cf2c6400bd",
+  "tags": [
+   "house",
+   "pine tree",
+   "harbor",
+   "island"
+  ]
  },
  {
   "title": "Buckboard Brigade, Bar Harbor, Mt. Desert, Me, by B. Bradley",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Buckboard_Brigade%2C_Bar_Harbor%2C_Mt._Desert%2C_Me%2C_by_B._Bradley.jpg/1920px-Buckboard_Brigade%2C_Bar_Harbor%2C_Mt._Desert%2C_Me%2C_by_B._Bradley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -135763,7 +136051,7 @@
   "creator": "B. Bradley",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1870",
@@ -135774,11 +136062,17 @@
   "license_url": null,
   "source_page_id": 7170764,
   "source_revision_id": null,
-  "source_sha1": "83bc27b72f0e6fae2187407d3883c81077ee760d"
+  "source_sha1": "83bc27b72f0e6fae2187407d3883c81077ee760d",
+  "tags": [
+   "horse-drawn carriage",
+   "horse",
+   "crowd",
+   "storefront"
+  ]
  },
  {
   "title": "Grand Central Hotel, Bar Harbor, Mt. Desert, Me, by B. Bradley",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
@@ -135843,16 +136137,21 @@
   "license_url": null,
   "source_page_id": 7170779,
   "source_revision_id": null,
-  "source_sha1": "f6e6cec28e87295b07852e7c90ab748e0345f8f3"
+  "source_sha1": "f6e6cec28e87295b07852e7c90ab748e0345f8f3",
+  "tags": [
+   "hotel",
+   "portrait group",
+   "horse-drawn carriage"
+  ]
  },
  {
   "title": "Steamboat landing, Bar Harbor, Mt. Desert, Me, by Kilburn Brothers",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
   "cats": [
-   "oddities"
+   "water"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Steamboat_landing%2C_Bar_Harbor%2C_Mt._Desert%2C_Me%2C_by_Kilburn_Brothers.png/1920px-Steamboat_landing%2C_Bar_Harbor%2C_Mt._Desert%2C_Me%2C_by_Kilburn_Brothers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -135901,7 +136200,7 @@
   "creator": "Kilburn Brothers",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "water"
   ],
   "publisher_series": null,
   "date_edtf": "1870",
@@ -135912,11 +136211,18 @@
   "license_url": null,
   "source_page_id": 7170636,
   "source_revision_id": null,
-  "source_sha1": "427315ef6c73dedb8e954d68f90a8cd8e9270384"
+  "source_sha1": "427315ef6c73dedb8e954d68f90a8cd8e9270384",
+  "tags": [
+   "paddle steamer",
+   "pier",
+   "harbor",
+   "sailboat",
+   "crowd"
+  ]
  },
  {
   "title": "West End Hotel, Bar Harbor, Mt. Desert, Me, by B. Bradley",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
@@ -135981,16 +136287,20 @@
   "license_url": null,
   "source_page_id": 7170815,
   "source_revision_id": null,
-  "source_sha1": "28499d6587a549e1e68b7e254b5673a771938347"
+  "source_sha1": "28499d6587a549e1e68b7e254b5673a771938347",
+  "tags": [
+   "hotel",
+   "meadow"
+  ]
  },
  {
   "title": "Bar Harbor. Bird's-eye view of Mt. Desert Island (NYPL b11707212-G89F151 010ZF)",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "Undated",
   "sy": 1900,
   "era": "undated",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bar_Harbor._Bird%27s-eye_view_of_Mt._Desert_Island_%28NYPL_b11707212-G89F151_010ZF%29.tiff/lossy-page1-1920px-Bar_Harbor._Bird%27s-eye_view_of_Mt._Desert_Island_%28NYPL_b11707212-G89F151_010ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -136039,7 +136349,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": null,
@@ -136050,16 +136360,21 @@
   "license_url": null,
   "source_page_id": 49444143,
   "source_revision_id": null,
-  "source_sha1": "e0fc8138175a5cf4b5625422d7b818cde17fe7aa"
+  "source_sha1": "e0fc8138175a5cf4b5625422d7b818cde17fe7aa",
+  "tags": [
+   "hotel",
+   "harbor",
+   "mountain"
+  ]
  },
  {
   "title": "Bar Harbor (NYPL b11707212-G89F151 003F)",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "Undated",
   "sy": 1900,
   "era": "undated",
   "cats": [
-   "oddities"
+   "water"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bar_Harbor_%28NYPL_b11707212-G89F151_003F%29.tiff/lossy-page1-1920px-Bar_Harbor_%28NYPL_b11707212-G89F151_003F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -136108,7 +136423,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "water"
   ],
   "publisher_series": null,
   "date_edtf": null,
@@ -136119,16 +136434,23 @@
   "license_url": null,
   "source_page_id": 49443861,
   "source_revision_id": null,
-  "source_sha1": "5aa1f44d6593acd7d02ed60c167877296dee4317"
+  "source_sha1": "5aa1f44d6593acd7d02ed60c167877296dee4317",
+  "tags": [
+   "harbor",
+   "bay",
+   "mountain",
+   "sailing ship",
+   "pine tree"
+  ]
  },
  {
   "title": "Bar Harbor, from Scott's Hill, Mount Desert, Me, by Kilburn, B. W. (Benjamin West), 1827-1909",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "Undated",
   "sy": 1900,
   "era": "undated",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Bar_Harbor%2C_from_Scott%27s_Hill%2C_Mount_Desert%2C_Me%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg/1920px-Bar_Harbor%2C_from_Scott%27s_Hill%2C_Mount_Desert%2C_Me%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -136177,7 +136499,7 @@
   "creator": "Kilburn, B. W. (Benjamin West)",
   "creator_dates": "1827-1909",
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": null,
@@ -136188,16 +136510,22 @@
   "license_url": null,
   "source_page_id": 7170829,
   "source_revision_id": null,
-  "source_sha1": "c6c04ce58fdd77d4fcfe490f750332700af454e8"
+  "source_sha1": "c6c04ce58fdd77d4fcfe490f750332700af454e8",
+  "tags": [
+   "house",
+   "pine tree",
+   "harbor",
+   "island"
+  ]
  },
  {
   "title": "Bar Harbor (Mt. Desert) (NYPL b11707212-G89F151 008ZF)",
-  "place": "Place unrecorded",
+  "place": "Bar Harbor, Maine",
   "year": "Undated",
   "sy": 1900,
   "era": "undated",
   "cats": [
-   "oddities"
+   "water"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Bar_Harbor_%28Mt._Desert%29_%28NYPL_b11707212-G89F151_008ZF%29.tiff/lossy-page1-1920px-Bar_Harbor_%28Mt._Desert%29_%28NYPL_b11707212-G89F151_008ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -136246,7 +136574,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "water"
   ],
   "publisher_series": null,
   "date_edtf": null,
@@ -136257,11 +136585,17 @@
   "license_url": null,
   "source_page_id": 49444040,
   "source_revision_id": null,
-  "source_sha1": "ef836d0fe185997f8cda978dec2663a6370bcaa8"
+  "source_sha1": "ef836d0fe185997f8cda978dec2663a6370bcaa8",
+  "tags": [
+   "pier",
+   "sailboat",
+   "harbor",
+   "rowboat"
+  ]
  },
  {
   "title": "View of a building with a clocktower. Atlanta, Ga",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "1870",
   "sy": 1870,
   "era": "mid",
@@ -136326,16 +136660,20 @@
   "license_url": null,
   "source_page_id": 7268556,
   "source_revision_id": null,
-  "source_sha1": "c2fafd42a742c39a0e9f3c751c30a53f948dd2c9"
+  "source_sha1": "c2fafd42a742c39a0e9f3c751c30a53f948dd2c9",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "View of African American workers in a cotton field near Atlanta",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "c. 1890",
   "sy": 1890,
   "era": "mid",
   "cats": [
-   "oddities"
+   "people"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/View_of_African_American_workers_in_a_cotton_field_near_Atlanta%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_African_American_workers_in_a_cotton_field_near_Atlanta%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -136384,7 +136722,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "people"
   ],
   "publisher_series": null,
   "date_edtf": "1890~",
@@ -136395,16 +136733,22 @@
   "license_url": null,
   "source_page_id": 7268608,
   "source_revision_id": null,
-  "source_sha1": "6f3f6a4b39037d18752a64754e91e06974a3475d"
+  "source_sha1": "6f3f6a4b39037d18752a64754e91e06974a3475d",
+  "tags": [
+   "cotton field",
+   "workers",
+   "wagon",
+   "trees"
+  ]
  },
  {
   "title": "View in Oakland Cemetery, Atlanta, by J. L. Schaub",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "c. 1880",
   "sy": 1880,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/View_in_Oakland_Cemetery%2C_Atlanta%2C_by_J._L._Schaub.png/1920px-View_in_Oakland_Cemetery%2C_Atlanta%2C_by_J._L._Schaub.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -136453,7 +136797,7 @@
   "creator": "J. L. Schaub",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1880~",
@@ -136464,16 +136808,21 @@
   "license_url": null,
   "source_page_id": 7268721,
   "source_revision_id": null,
-  "source_sha1": "759bc0120610245569c8f5a3e3ab381c2e27ca5f"
+  "source_sha1": "759bc0120610245569c8f5a3e3ab381c2e27ca5f",
+  "tags": [
+   "cemetery",
+   "monument",
+   "trees"
+  ]
  },
  {
   "title": "View of African American workers in a cotton field near Atlanta, by Roberts & Fellows",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "c. 1890",
   "sy": 1890,
   "era": "mid",
   "cats": [
-   "oddities"
+   "people"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/View_of_African_American_workers_in_a_cotton_field_near_Atlanta%2C_by_Roberts_%26_Fellows.jpg/1920px-View_of_African_American_workers_in_a_cotton_field_near_Atlanta%2C_by_Roberts_%26_Fellows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -136522,7 +136871,7 @@
   "creator": "Roberts & Fellows",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "people"
   ],
   "publisher_series": null,
   "date_edtf": "1890~",
@@ -136533,11 +136882,17 @@
   "license_url": null,
   "source_page_id": 7268615,
   "source_revision_id": null,
-  "source_sha1": "fcbcc3d972c121a81afda3a80d8d96564214c4fa"
+  "source_sha1": "fcbcc3d972c121a81afda3a80d8d96564214c4fa",
+  "tags": [
+   "cotton field",
+   "workers",
+   "wagon",
+   "trees"
+  ]
  },
  {
   "title": "Railroad depot from the bridge, Atlanta, Ga",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "1861–1865",
   "sy": 1861,
   "era": "early",
@@ -136602,16 +136957,20 @@
   "license_url": null,
   "source_page_id": 12019666,
   "source_revision_id": null,
-  "source_sha1": "cd171a841cf539e825ac2d29b22e340bd2c78eb9"
+  "source_sha1": "cd171a841cf539e825ac2d29b22e340bd2c78eb9",
+  "tags": [
+   "railroad tracks",
+   "depot"
+  ]
  },
  {
   "title": "View of African American workers in a cotton field near Atlanta, by Roberts & Fellows 2",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "c. 1890",
   "sy": 1890,
   "era": "mid",
   "cats": [
-   "oddities"
+   "people"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/View_of_African_American_workers_in_a_cotton_field_near_Atlanta%2C_by_Roberts_%26_Fellows_2.png/1920px-View_of_African_American_workers_in_a_cotton_field_near_Atlanta%2C_by_Roberts_%26_Fellows_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -136660,7 +137019,7 @@
   "creator": "Roberts & Fellows",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "people"
   ],
   "publisher_series": null,
   "date_edtf": "1890~",
@@ -136671,17 +137030,22 @@
   "license_url": null,
   "source_page_id": 7268617,
   "source_revision_id": null,
-  "source_sha1": "131c459c637ae261723908e602ab6939af3aa1ed"
+  "source_sha1": "131c459c637ae261723908e602ab6939af3aa1ed",
+  "tags": [
+   "cotton field",
+   "workers",
+   "wagon",
+   "trees"
+  ]
  },
  {
   "title": "Destruction of Atlanta, Ga., by Sherman's army, November 1864",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "1861–1865",
   "sy": 1861,
   "era": "early",
   "cats": [
-   "war",
-   "people"
+   "war"
   ],
   "blurb": "",
   "img": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Destruction_of_Atlanta%2C_Ga.%2C_by_Sherman%27s_army%2C_November_1864%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -136730,8 +137094,7 @@
   "creator": "Sherman's army, November 1864",
   "creator_dates": null,
   "facets": [
-   "war",
-   "people"
+   "war"
   ],
   "publisher_series": null,
   "date_edtf": "1861/1865",
@@ -136742,16 +137105,20 @@
   "license_url": null,
   "source_page_id": 12019545,
   "source_revision_id": null,
-  "source_sha1": "af7f24bc98c4d4224497c36fea326df478ec9e8f"
+  "source_sha1": "af7f24bc98c4d4224497c36fea326df478ec9e8f",
+  "tags": [
+   "ruins",
+   "fire damage"
+  ]
  },
  {
   "title": "View in Oakland Cemetery, Atlanta (NYPL b11707424-G90F147 028ZF)",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "1880",
   "sy": 1880,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/View_in_Oakland_Cemetery%2C_Atlanta_%28NYPL_b11707424-G90F147_028ZF%29.tiff/lossy-page1-1920px-View_in_Oakland_Cemetery%2C_Atlanta_%28NYPL_b11707424-G90F147_028ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -136800,7 +137167,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1880",
@@ -136811,11 +137178,16 @@
   "license_url": null,
   "source_page_id": 48853728,
   "source_revision_id": null,
-  "source_sha1": "9ef4cabea4ff227f4ad41363e075c74169b600ac"
+  "source_sha1": "9ef4cabea4ff227f4ad41363e075c74169b600ac",
+  "tags": [
+   "cemetery",
+   "monument",
+   "trees"
+  ]
  },
  {
   "title": "Pryor Street, Atlanta, by J. L. Schaub",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "c. 1880",
   "sy": 1880,
   "era": "mid",
@@ -136880,16 +137252,21 @@
   "license_url": null,
   "source_page_id": 7268693,
   "source_revision_id": null,
-  "source_sha1": "85ab7b52b6c7b4efa6ae805709afb547f03ee9b3"
+  "source_sha1": "85ab7b52b6c7b4efa6ae805709afb547f03ee9b3",
+  "tags": [
+   "main street",
+   "storefront",
+   "horse-drawn carriage"
+  ]
  },
  {
   "title": "Customs House, Atlanta, Ga, by M.M. & W.H. Gardner",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "c. 1887",
   "sy": 1887,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Customs_House%2C_Atlanta%2C_Ga%2C_by_M.M._%26_W.H._Gardner.jpg/1920px-Customs_House%2C_Atlanta%2C_Ga%2C_by_M.M._%26_W.H._Gardner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -136938,7 +137315,7 @@
   "creator": "M.M. & W.H. Gardner",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1887~",
@@ -136953,7 +137330,7 @@
  },
  {
   "title": "Passenger Depot, Atlanta, Ga, by J. L. Schaub",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "c. 1880",
   "sy": 1880,
   "era": "mid",
@@ -137018,11 +137395,15 @@
   "license_url": null,
   "source_page_id": 7268713,
   "source_revision_id": null,
-  "source_sha1": "e01bd24dfcfda023ab81ad947ecac6fdf349fa85"
+  "source_sha1": "e01bd24dfcfda023ab81ad947ecac6fdf349fa85",
+  "tags": [
+   "train station",
+   "room interior"
+  ]
  },
  {
   "title": "Whitehall Street, Atlanta, Georgia, by J. L. Schaub",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "c. 1880",
   "sy": 1880,
   "era": "mid",
@@ -137087,16 +137468,21 @@
   "license_url": null,
   "source_page_id": 7268699,
   "source_revision_id": null,
-  "source_sha1": "91859446a6388ea874e87b948b728a7508f0cc91"
+  "source_sha1": "91859446a6388ea874e87b948b728a7508f0cc91",
+  "tags": [
+   "main street",
+   "storefront",
+   "horse-drawn carriage"
+  ]
  },
  {
   "title": "Governor's Mansion, Atlanta, Georgia, by J. L. Schaub",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "c. 1880",
   "sy": 1880,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Governor%27s_Mansion%2C_Atlanta%2C_Georgia%2C_by_J._L._Schaub.jpg/1920px-Governor%27s_Mansion%2C_Atlanta%2C_Georgia%2C_by_J._L._Schaub.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -137145,7 +137531,7 @@
   "creator": "J. L. Schaub",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1880~",
@@ -137156,11 +137542,15 @@
   "license_url": null,
   "source_page_id": 7268706,
   "source_revision_id": null,
-  "source_sha1": "e572457d96a85c366a8a273aa00ff54709e07d68"
+  "source_sha1": "e572457d96a85c366a8a273aa00ff54709e07d68",
+  "tags": [
+   "mansion",
+   "trees"
+  ]
  },
  {
   "title": "State capitol building, Atlanta, by J. L. Schaub",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "c. 1875",
   "sy": 1875,
   "era": "mid",
@@ -137229,12 +137619,12 @@
  },
  {
   "title": "The place where Major-General McPherson was killed, near Atlanta, Ga",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "1861–1865",
   "sy": 1861,
   "era": "early",
   "cats": [
-   "oddities"
+   "war"
   ],
   "blurb": "",
   "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/The_place_where_Major-General_McPherson_was_killed%2C_near_Atlanta%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -137283,7 +137673,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "war"
   ],
   "publisher_series": null,
   "date_edtf": "1861/1865",
@@ -137294,11 +137684,16 @@
   "license_url": null,
   "source_page_id": 12019547,
   "source_revision_id": null,
-  "source_sha1": "1769061c0b1000baa85dfcee48d99146f616c6f1"
+  "source_sha1": "1769061c0b1000baa85dfcee48d99146f616c6f1",
+  "tags": [
+   "cannon",
+   "forest",
+   "trees"
+  ]
  },
  {
   "title": "View of rail road depot, Atlanta, Ga., taken two days before the destruction of this city, November, 1864",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "1861–1865",
   "sy": 1861,
   "era": "early",
@@ -137363,16 +137758,21 @@
   "license_url": null,
   "source_page_id": 12019546,
   "source_revision_id": null,
-  "source_sha1": "6480d3de4f38270ec887bf2fff05bde64a874f07"
+  "source_sha1": "6480d3de4f38270ec887bf2fff05bde64a874f07",
+  "tags": [
+   "depot",
+   "wagon",
+   "railroad tracks"
+  ]
  },
  {
   "title": "Confederate Monument, Oakland Cemetery, Atlanta, Ga, by E. & H.T. Anthony (Firm)",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "c. 1880",
   "sy": 1880,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Confederate_Monument%2C_Oakland_Cemetery%2C_Atlanta%2C_Ga%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg/1920px-Confederate_Monument%2C_Oakland_Cemetery%2C_Atlanta%2C_Ga%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -137421,7 +137821,7 @@
   "creator": "E. & H.T. Anthony (Firm)",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1880~",
@@ -137432,16 +137832,20 @@
   "license_url": null,
   "source_page_id": 7268567,
   "source_revision_id": null,
-  "source_sha1": "58599fff9d934d0d1bf40087559ca0f00c9e8061"
+  "source_sha1": "58599fff9d934d0d1bf40087559ca0f00c9e8061",
+  "tags": [
+   "monument",
+   "trees"
+  ]
  },
  {
   "title": "Confederate Monument, Oakland Cemetery, Atlanta, Georgia, by E. & H.T. Anthony (Firm)",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "c. 1880",
   "sy": 1880,
   "era": "mid",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Confederate_Monument%2C_Oakland_Cemetery%2C_Atlanta%2C_Georgia%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg/1920px-Confederate_Monument%2C_Oakland_Cemetery%2C_Atlanta%2C_Georgia%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -137490,7 +137894,7 @@
   "creator": "E. & H.T. Anthony (Firm)",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1880~",
@@ -137501,16 +137905,20 @@
   "license_url": null,
   "source_page_id": 7268564,
   "source_revision_id": null,
-  "source_sha1": "4b41eeabbb9588ae42ec0d6ec1663993ee526906"
+  "source_sha1": "4b41eeabbb9588ae42ec0d6ec1663993ee526906",
+  "tags": [
+   "monument",
+   "trees"
+  ]
  },
  {
   "title": "The Nursery, Atlanta Exposition, by Kilburn, B. W. (Benjamin West), 1827-1909",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "Undated",
   "sy": 1900,
   "era": "undated",
   "cats": [
-   "oddities"
+   "people"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/The_Nursery%2C_Atlanta_Exposition%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg/1920px-The_Nursery%2C_Atlanta_Exposition%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -137559,7 +137967,7 @@
   "creator": "Kilburn, B. W. (Benjamin West)",
   "creator_dates": "1827-1909",
   "facets": [
-   "oddities"
+   "people"
   ],
   "publisher_series": null,
   "date_edtf": null,
@@ -137570,16 +137978,21 @@
   "license_url": null,
   "source_page_id": 7268594,
   "source_revision_id": null,
-  "source_sha1": "8ed38460c5caa61f27e4e9e29bf2252b92d203ec"
+  "source_sha1": "8ed38460c5caa61f27e4e9e29bf2252b92d203ec",
+  "tags": [
+   "portrait group",
+   "children",
+   "exposition"
+  ]
  },
  {
   "title": "The place where Maj. Gen. J. B. McPherson was killed, Atlanta, Ga",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "1861–1865",
   "sy": 1861,
   "era": "early",
   "cats": [
-   "oddities"
+   "war"
   ],
   "blurb": "",
   "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/The_place_where_Maj._Gen._J._B._McPherson_was_killed%2C_Atlanta%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -137628,7 +138041,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "war"
   ],
   "publisher_series": null,
   "date_edtf": "1861/1865",
@@ -137639,16 +138052,21 @@
   "license_url": null,
   "source_page_id": 12019822,
   "source_revision_id": null,
-  "source_sha1": "0b1dff1caa6060a0fef5cae4fe867901506fe0c4"
+  "source_sha1": "0b1dff1caa6060a0fef5cae4fe867901506fe0c4",
+  "tags": [
+   "cannon",
+   "forest",
+   "trees"
+  ]
  },
  {
   "title": "Barbecue, Atlanta Exposition, by Kilburn, B. W. (Benjamin West), 1827-1909",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "Undated",
   "sy": 1900,
   "era": "undated",
   "cats": [
-   "oddities"
+   "people"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Barbecue%2C_Atlanta_Exposition%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg/1920px-Barbecue%2C_Atlanta_Exposition%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -137697,7 +138115,7 @@
   "creator": "Kilburn, B. W. (Benjamin West)",
   "creator_dates": "1827-1909",
   "facets": [
-   "oddities"
+   "people"
   ],
   "publisher_series": null,
   "date_edtf": null,
@@ -137708,11 +138126,16 @@
   "license_url": null,
   "source_page_id": 7268549,
   "source_revision_id": null,
-  "source_sha1": "6c79b6631e3963f2ef936812bdf1957bfcfd9a41"
+  "source_sha1": "6c79b6631e3963f2ef936812bdf1957bfcfd9a41",
+  "tags": [
+   "workers",
+   "exposition",
+   "pig"
+  ]
  },
  {
   "title": "The Coming woman, Atlanta Exposition, by Kilburn, B. W. (Benjamin West), 1827-1909",
-  "place": "Place unrecorded",
+  "place": "Atlanta, Georgia",
   "year": "Undated",
   "sy": 1900,
   "era": "undated",
@@ -137777,16 +138200,20 @@
   "license_url": null,
   "source_page_id": 7268602,
   "source_revision_id": null,
-  "source_sha1": "41e1d377b1c2af4bffc4b9625b7c2f5590c92a4a"
+  "source_sha1": "41e1d377b1c2af4bffc4b9625b7c2f5590c92a4a",
+  "tags": [
+   "portrait group",
+   "exposition"
+  ]
  },
  {
   "title": "Garfield memorial, Lake View cemetery, Cleveland, O",
-  "place": "Place unrecorded",
+  "place": "Cleveland, Ohio",
   "year": "1865",
   "sy": 1865,
   "era": "early",
   "cats": [
-   "water"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Garfield_memorial%2C_Lake_View_cemetery%2C_Cleveland%2C_O%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Garfield_memorial%2C_Lake_View_cemetery%2C_Cleveland%2C_O%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -137835,7 +138262,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "water"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1865",
@@ -137846,16 +138273,20 @@
   "license_url": null,
   "source_page_id": 7474930,
   "source_revision_id": null,
-  "source_sha1": "cf68c4fc25a6cb4d47e313a1452e60384b6feb6e"
+  "source_sha1": "cf68c4fc25a6cb4d47e313a1452e60384b6feb6e",
+  "tags": [
+   "memorial",
+   "trees"
+  ]
  },
  {
   "title": "Cleveland (O.) medical college, by Woodward Stereoscopic Co.",
-  "place": "Place unrecorded",
+  "place": "Cleveland, Ohio",
   "year": "1865",
   "sy": 1865,
   "era": "early",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Cleveland_%28O.%29_medical_college%2C_by_Woodward_Stereoscopic_Co..jpg/1920px-Cleveland_%28O.%29_medical_college%2C_by_Woodward_Stereoscopic_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -137904,7 +138335,7 @@
   "creator": "Woodward Stereoscopic Co.",
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1865",
@@ -137915,16 +138346,20 @@
   "license_url": null,
   "source_page_id": 7475463,
   "source_revision_id": null,
-  "source_sha1": "1fb61888901fda66d5b25eb727f517535c5230c8"
+  "source_sha1": "1fb61888901fda66d5b25eb727f517535c5230c8",
+  "tags": [
+   "university",
+   "trees"
+  ]
  },
  {
   "title": "View in the flats, Cleveland, O",
-  "place": "Place unrecorded",
+  "place": "Cleveland, Ohio",
   "year": "1865",
   "sy": 1865,
   "era": "early",
   "cats": [
-   "oddities"
+   "water"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/View_in_the_flats%2C_Cleveland%2C_O%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_in_the_flats%2C_Cleveland%2C_O%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -137973,7 +138408,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "water"
   ],
   "publisher_series": null,
   "date_edtf": "1865",
@@ -137984,16 +138419,21 @@
   "license_url": null,
   "source_page_id": 7474948,
   "source_revision_id": null,
-  "source_sha1": "948b4330d48206881debf2ddc9d25c5f13b74d4a"
+  "source_sha1": "948b4330d48206881debf2ddc9d25c5f13b74d4a",
+  "tags": [
+   "river",
+   "ship",
+   "warehouse"
+  ]
  },
  {
   "title": "Public square, Cleveland",
-  "place": "Place unrecorded",
+  "place": "Cleveland, Ohio",
   "year": "1865",
   "sy": 1865,
   "era": "early",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Public_square%2C_Cleveland%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Public_square%2C_Cleveland%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -138042,7 +138482,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1865",
@@ -138053,16 +138493,21 @@
   "license_url": null,
   "source_page_id": 7474940,
   "source_revision_id": null,
-  "source_sha1": "8e95d437de4f77e799865d5146eb1c415cc4b3ea"
+  "source_sha1": "8e95d437de4f77e799865d5146eb1c415cc4b3ea",
+  "tags": [
+   "cannon",
+   "main street",
+   "trees"
+  ]
  },
  {
   "title": "Post office, Cleveland, Ohio",
-  "place": "Place unrecorded",
+  "place": "Cleveland, Ohio",
   "year": "1865",
   "sy": 1865,
   "era": "early",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Post_office%2C_Cleveland%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Post_office%2C_Cleveland%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -138111,7 +138556,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1865",
@@ -138122,16 +138567,21 @@
   "license_url": null,
   "source_page_id": 7475263,
   "source_revision_id": null,
-  "source_sha1": "a50f4291a1465d01e369526c06ea6e62e14ee77b"
+  "source_sha1": "a50f4291a1465d01e369526c06ea6e62e14ee77b",
+  "tags": [
+   "horse-drawn carriage",
+   "horse",
+   "trees"
+  ]
  },
  {
   "title": "Public square, Cleveland, from Robert N. Dennis collection of stereoscopic views 2",
-  "place": "Place unrecorded",
+  "place": "Cleveland, Ohio",
   "year": "1865",
   "sy": 1865,
   "era": "early",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Public_square%2C_Cleveland%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Public_square%2C_Cleveland%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -138180,7 +138630,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1865",
@@ -138191,16 +138641,21 @@
   "license_url": null,
   "source_page_id": 7474980,
   "source_revision_id": null,
-  "source_sha1": "ac2cbf45b71430befac524b59a3c59ab92c8289f"
+  "source_sha1": "ac2cbf45b71430befac524b59a3c59ab92c8289f",
+  "tags": [
+   "bridge",
+   "creek",
+   "trees"
+  ]
  },
  {
   "title": "Post office, Cleveland, Ohio, from Robert N. Dennis collection of stereoscopic views 2",
-  "place": "Place unrecorded",
+  "place": "Cleveland, Ohio",
   "year": "1865",
   "sy": 1865,
   "era": "early",
   "cats": [
-   "oddities"
+   "cities"
   ],
   "blurb": "",
   "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Post_office%2C_Cleveland%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-Post_office%2C_Cleveland%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -138249,7 +138704,7 @@
   "creator": null,
   "creator_dates": null,
   "facets": [
-   "oddities"
+   "cities"
   ],
   "publisher_series": null,
   "date_edtf": "1865",
@@ -138260,6 +138715,11 @@
   "license_url": null,
   "source_page_id": 7475266,
   "source_revision_id": null,
-  "source_sha1": "03cdca57ba9d5f7574fadc1105df8df58988d6a0"
+  "source_sha1": "03cdca57ba9d5f7574fadc1105df8df58988d6a0",
+  "tags": [
+   "horse-drawn carriage",
+   "horse",
+   "trees"
+  ]
  }
 ]

@@ -1,11 +1,11 @@
 {
  "title": "The place where Maj. Gen. J. B. McPherson was killed, Atlanta, Ga",
- "place": "Place unrecorded",
+ "place": "Atlanta, Georgia",
  "year": "1861–1865",
  "sy": 1861,
  "era": "early",
  "cats": [
-  "oddities"
+  "war"
  ],
  "blurb": "",
  "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/The_place_where_Maj._Gen._J._B._McPherson_was_killed%2C_Atlanta%2C_Ga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "war"
  ],
  "publisher_series": null,
  "date_edtf": "1861/1865",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 12019822,
  "source_revision_id": null,
- "source_sha1": "0b1dff1caa6060a0fef5cae4fe867901506fe0c4"
+ "source_sha1": "0b1dff1caa6060a0fef5cae4fe867901506fe0c4",
+ "tags": [
+  "cannon",
+  "forest",
+  "trees"
+ ]
 }

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1853.json",
+ "name": "View in Oakland Cemetery, Atlanta, by J. L. Schaub",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1852.jpg",
+ "identifier": "STA-1853",
+ "creator": {
+  "@type": "Person",
+  "name": "J. L. Schaub"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Atlanta, Georgia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_in_Oakland_Cemetery,_Atlanta,_by_J._L._Schaub.png"
+}

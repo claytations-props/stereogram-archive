@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>1775</quantity>
+    <quantity>1879</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -2436,6 +2436,126 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1772.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-1779">
+     <did>
+      <unitid>STA-1779</unitid>
+      <unittitle>Buffalo harbor, boat and ice in water</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1778.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1780">
+     <did>
+      <unitid>STA-1780</unitid>
+      <unittitle>Buffalo harbor. (Boat and ice in water.)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1779.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1783">
+     <did>
+      <unitid>STA-1783</unitid>
+      <unittitle>Vessel in lock, Erie Canal, Buffalo, N.Y</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1782.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1787">
+     <did>
+      <unitid>STA-1787</unitid>
+      <unittitle>Light house near Buffalo, N.Y. (Ice and ship)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1786.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1820">
+     <did>
+      <unitid>STA-1820</unitid>
+      <unittitle>Cumberland River, Nashville, Tenn, by Union View Co.</unittitle>
+      <unitdate normal="1880/1885">1880–1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1819.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1831">
+     <did>
+      <unitid>STA-1831</unitid>
+      <unittitle>Bar Harbor &amp; yachts, Mt. Desert, Me</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1830.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1832">
+     <did>
+      <unitid>STA-1832</unitid>
+      <unittitle>Yachts at Bar Harbor, Mt. Desert</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1831.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1833">
+     <did>
+      <unitid>STA-1833</unitid>
+      <unittitle>View of Bar Harbor, by B. Bradley</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1832.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1834">
+     <did>
+      <unitid>STA-1834</unitid>
+      <unittitle>Bar Harbor, by B. Bradley</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1833.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1838">
+     <did>
+      <unitid>STA-1838</unitid>
+      <unittitle>View of Bar Harbor (NYPL b11707212-G89F151 001F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1837.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1840">
+     <did>
+      <unitid>STA-1840</unitid>
+      <unittitle>Bar Harbor (Mt. Desert), by J. P. Armbrust</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1839.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1845">
+     <did>
+      <unitid>STA-1845</unitid>
+      <unittitle>Steamboat landing, Bar Harbor, Mt. Desert, Me, by Kilburn Brothers</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1844.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1848">
+     <did>
+      <unitid>STA-1848</unitid>
+      <unittitle>Bar Harbor (NYPL b11707212-G89F151 003F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1847.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1850">
+     <did>
+      <unitid>STA-1850</unitid>
+      <unittitle>Bar Harbor (Mt. Desert) (NYPL b11707212-G89F151 008ZF)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1849.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1875">
+     <did>
+      <unitid>STA-1875</unitid>
+      <unittitle>View in the flats, Cleveland, O</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1874.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -4391,6 +4511,14 @@
       <unittitle>Park-side and Mountain, Rochester</unittitle>
       <unitdate normal="1888">1888</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1774.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1805">
+     <did>
+      <unitid>STA-1805</unitid>
+      <unittitle>The valley of death, from Little Round Top, Gettysburg</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1804.jpg"/>
      </did>
     </c>
    </c>
@@ -9854,6 +9982,462 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1773.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-1777">
+     <did>
+      <unitid>STA-1777</unitid>
+      <unittitle>City Hall, Buffalo, N.Y</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1776.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1778">
+     <did>
+      <unitid>STA-1778</unitid>
+      <unittitle>Buffalo, N.Y. Central Presbyterian Church</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1777.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1781">
+     <did>
+      <unitid>STA-1781</unitid>
+      <unittitle>State Normal School building, Buffalo, N.Y</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1780.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1782">
+     <did>
+      <unitid>STA-1782</unitid>
+      <unittitle>St. Joseph's Cathedral, Buffalo, N.Y</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1781.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1784">
+     <did>
+      <unitid>STA-1784</unitid>
+      <unittitle>Young Men's Association building, Buffalo, New York</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1783.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1785">
+     <did>
+      <unitid>STA-1785</unitid>
+      <unittitle>Lake Side Park House, Buffalo, N.Y</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1784.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1788">
+     <did>
+      <unitid>STA-1788</unitid>
+      <unittitle>Invalids' and Tourists' Hotel, Buffalo, N.Y</unittitle>
+      <unitdate normal="1878">1878</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1787.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1789">
+     <did>
+      <unitid>STA-1789</unitid>
+      <unittitle>Looking E., from Tourists' Hotel, Buffalo, N.Y</unittitle>
+      <unitdate normal="1878">1878</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1788.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1790">
+     <did>
+      <unitid>STA-1790</unitid>
+      <unittitle>Base ball grounds, from Tourists' Hotel, Buffalo</unittitle>
+      <unitdate normal="1878">1878</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1789.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1792">
+     <did>
+      <unitid>STA-1792</unitid>
+      <unittitle>Wilcox House, where President Roosevelt took oath of office, Buffalo, N.Y</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1791.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1810">
+     <did>
+      <unitid>STA-1810</unitid>
+      <unittitle>Nashville University Building, Nashville, Tenn, by Continent Stereoscopic Company</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1809.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1811">
+     <did>
+      <unitid>STA-1811</unitid>
+      <unittitle>The Capitol Building, Nashville, Tenn, by Continent Stereoscopic Company</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1810.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1812">
+     <did>
+      <unitid>STA-1812</unitid>
+      <unittitle>Custom House and Post Office, Nashville, Tenn, by Continent Stereoscopic Company</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1811.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1813">
+     <did>
+      <unitid>STA-1813</unitid>
+      <unittitle>National Military Cemetery, Nashville, Tenn</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1812.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1814">
+     <did>
+      <unitid>STA-1814</unitid>
+      <unittitle>National Military Cemetery, Graves, Nashville, Tenn, by Continent Stereoscopic Company</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1813.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1815">
+     <did>
+      <unitid>STA-1815</unitid>
+      <unittitle>The Hermitage, Nashville, Tenn</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1814.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1816">
+     <did>
+      <unitid>STA-1816</unitid>
+      <unittitle>The Capitol Building, Nashville, Tenn, by Continent Stereoscopic Company 2</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1815.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1817">
+     <did>
+      <unitid>STA-1817</unitid>
+      <unittitle>National Military Cemetery, Graves, Nashville, Tenn</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1816.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1818">
+     <did>
+      <unitid>STA-1818</unitid>
+      <unittitle>Capital Hill, from West, Nashville, Tenn</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1817.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1819">
+     <did>
+      <unitid>STA-1819</unitid>
+      <unittitle>The Suspension Bridge, Nashville, Tenn, by Union View Co.</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1818.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1821">
+     <did>
+      <unitid>STA-1821</unitid>
+      <unittitle>The Hermitage entrance, Nashville, Tenn, by Union View Co.</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1820.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1822">
+     <did>
+      <unitid>STA-1822</unitid>
+      <unittitle>National Military Cemetery, Graves, Nashville, Tenn, by Union View Co.</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1821.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1823">
+     <did>
+      <unitid>STA-1823</unitid>
+      <unittitle>The Suspension Bridge, Nashville, Tenn, by Webster &amp; Albee</unittitle>
+      <unitdate normal="1885/1895">c. 1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1822.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1824">
+     <did>
+      <unitid>STA-1824</unitid>
+      <unittitle>State Normal School, Nashville, Tenn, by Webster &amp; Albee</unittitle>
+      <unitdate normal="1885/1895">c. 1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1823.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1827">
+     <did>
+      <unitid>STA-1827</unitid>
+      <unittitle>Entrance, Suspension Bridge, Nashville, Tenn, by Poole, R. (Rodney), 1837-</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1826.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1828">
+     <did>
+      <unitid>STA-1828</unitid>
+      <unittitle>Southern Military College, Nashville, Tennessee, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1827.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1829">
+     <did>
+      <unitid>STA-1829</unitid>
+      <unittitle>Bar Harbor, Mt. Desert, Me</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1828.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1830">
+     <did>
+      <unitid>STA-1830</unitid>
+      <unittitle>Bar Harbor, Mt. Desert, Me, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1829.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1836">
+     <did>
+      <unitid>STA-1836</unitid>
+      <unittitle>Bar Harbor. Bird's-eye view of Mt. Desert Island, by B. Bradley</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1835.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1837">
+     <did>
+      <unitid>STA-1837</unitid>
+      <unittitle>Bar Harbor, Mt. Desert, Me, by B. Bradley</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1836.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1839">
+     <did>
+      <unitid>STA-1839</unitid>
+      <unittitle>Bar Harbor, Mt. Desert, Me, by B. Bradley 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1838.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1841">
+     <did>
+      <unitid>STA-1841</unitid>
+      <unittitle>The buckboard, Bar Harbor, Mt. Desert, Me, by B. Bradley</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1840.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1842">
+     <did>
+      <unitid>STA-1842</unitid>
+      <unittitle>Bar Harbor from Scott's Hill, Mt. Desert, Me, by Kilburn Brothers</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1841.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1843">
+     <did>
+      <unitid>STA-1843</unitid>
+      <unittitle>Buckboard Brigade, Bar Harbor, Mt. Desert, Me, by B. Bradley</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1842.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1844">
+     <did>
+      <unitid>STA-1844</unitid>
+      <unittitle>Grand Central Hotel, Bar Harbor, Mt. Desert, Me, by B. Bradley</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1843.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1846">
+     <did>
+      <unitid>STA-1846</unitid>
+      <unittitle>West End Hotel, Bar Harbor, Mt. Desert, Me, by B. Bradley</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1845.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1847">
+     <did>
+      <unitid>STA-1847</unitid>
+      <unittitle>Bar Harbor. Bird's-eye view of Mt. Desert Island (NYPL b11707212-G89F151 010ZF)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1846.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1849">
+     <did>
+      <unitid>STA-1849</unitid>
+      <unittitle>Bar Harbor, from Scott's Hill, Mount Desert, Me, by Kilburn, B. W. (Benjamin West), 1827-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1848.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1851">
+     <did>
+      <unitid>STA-1851</unitid>
+      <unittitle>View of a building with a clocktower. Atlanta, Ga</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1850.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1853">
+     <did>
+      <unitid>STA-1853</unitid>
+      <unittitle>View in Oakland Cemetery, Atlanta, by J. L. Schaub</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1852.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1855">
+     <did>
+      <unitid>STA-1855</unitid>
+      <unittitle>Railroad depot from the bridge, Atlanta, Ga</unittitle>
+      <unitdate normal="1861/1865">1861–1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1854.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1858">
+     <did>
+      <unitid>STA-1858</unitid>
+      <unittitle>View in Oakland Cemetery, Atlanta (NYPL b11707424-G90F147 028ZF)</unittitle>
+      <unitdate normal="1880">1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1857.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1859">
+     <did>
+      <unitid>STA-1859</unitid>
+      <unittitle>Pryor Street, Atlanta, by J. L. Schaub</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1858.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1860">
+     <did>
+      <unitid>STA-1860</unitid>
+      <unittitle>Customs House, Atlanta, Ga, by M.M. &amp; W.H. Gardner</unittitle>
+      <unitdate normal="1882/1892">c. 1887</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1859.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1861">
+     <did>
+      <unitid>STA-1861</unitid>
+      <unittitle>Passenger Depot, Atlanta, Ga, by J. L. Schaub</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1860.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1862">
+     <did>
+      <unitid>STA-1862</unitid>
+      <unittitle>Whitehall Street, Atlanta, Georgia, by J. L. Schaub</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1861.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1863">
+     <did>
+      <unitid>STA-1863</unitid>
+      <unittitle>Governor's Mansion, Atlanta, Georgia, by J. L. Schaub</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1862.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1864">
+     <did>
+      <unitid>STA-1864</unitid>
+      <unittitle>State capitol building, Atlanta, by J. L. Schaub</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1863.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1866">
+     <did>
+      <unitid>STA-1866</unitid>
+      <unittitle>View of rail road depot, Atlanta, Ga., taken two days before the destruction of this city, November, 1864</unittitle>
+      <unitdate normal="1861/1865">1861–1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1865.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1867">
+     <did>
+      <unitid>STA-1867</unitid>
+      <unittitle>Confederate Monument, Oakland Cemetery, Atlanta, Ga, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1866.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1868">
+     <did>
+      <unitid>STA-1868</unitid>
+      <unittitle>Confederate Monument, Oakland Cemetery, Atlanta, Georgia, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1867.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1873">
+     <did>
+      <unitid>STA-1873</unitid>
+      <unittitle>Garfield memorial, Lake View cemetery, Cleveland, O</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1872.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1874">
+     <did>
+      <unitid>STA-1874</unitid>
+      <unittitle>Cleveland (O.) medical college, by Woodward Stereoscopic Co.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1873.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1876">
+     <did>
+      <unitid>STA-1876</unitid>
+      <unittitle>Public square, Cleveland</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1875.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1877">
+     <did>
+      <unitid>STA-1877</unitid>
+      <unittitle>Post office, Cleveland, Ohio</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1876.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1878">
+     <did>
+      <unitid>STA-1878</unitid>
+      <unittitle>Public square, Cleveland, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1877.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1879">
+     <did>
+      <unitid>STA-1879</unitid>
+      <unittitle>Post office, Cleveland, Ohio, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1878.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -10273,6 +10857,174 @@
       <unittitle>Stereoscopic views of Annapolis, Maryland, and the Chesapeake Bay (NYPL b11707486-G90F209 027F)</unittitle>
       <unitdate>Undated</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1630.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1776">
+     <did>
+      <unitid>STA-1776</unitid>
+      <unittitle>Buffalo, N.Y., 1897. Birdseye view of Camp Jewett, G.A.R</unittitle>
+      <unitdate normal="1897">1897</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1775.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1793">
+     <did>
+      <unitid>STA-1793</unitid>
+      <unittitle>Under the Grand Old Flag again, Grand Army Reunion, Buffalo, N.Y., U.S.A., Aug. 25, 1897. (Parade.)</unittitle>
+      <unitdate normal="1897">1897</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1792.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1794">
+     <did>
+      <unitid>STA-1794</unitid>
+      <unittitle>Battles of Gettysburg</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1793.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1795">
+     <did>
+      <unitid>STA-1795</unitid>
+      <unittitle>Round Top Gettysburg</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1794.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1796">
+     <did>
+      <unitid>STA-1796</unitid>
+      <unittitle>Battles of Gettysburg, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1795.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1797">
+     <did>
+      <unitid>STA-1797</unitid>
+      <unittitle>General Harrow at Gettysburg</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1796.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1798">
+     <did>
+      <unitid>STA-1798</unitid>
+      <unittitle>Spangler's Spring, Gettysburg, Pa</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1797.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1799">
+     <did>
+      <unitid>STA-1799</unitid>
+      <unittitle>Breastworks on left wing, Gettysburg</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1798.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1800">
+     <did>
+      <unitid>STA-1800</unitid>
+      <unittitle>Battery B, East Cemetery Hill, Gettysburg, Pa</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1799.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1801">
+     <did>
+      <unitid>STA-1801</unitid>
+      <unittitle>Battle of Gettysburg July 2 1863</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1800.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1802">
+     <did>
+      <unitid>STA-1802</unitid>
+      <unittitle>Charge of the 19th Regiment, battle of Gettysburg</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1801.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1803">
+     <did>
+      <unitid>STA-1803</unitid>
+      <unittitle>North from Little Round Top, Gettysburg</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1802.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1804">
+     <did>
+      <unitid>STA-1804</unitid>
+      <unittitle>Pickett's Charge, Battle of Gettysburg, Pa., U.S.A</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1803.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1806">
+     <did>
+      <unitid>STA-1806</unitid>
+      <unittitle>Head Sanitary Commission at Gen. Hospital Gettysburg</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1805.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1807">
+     <did>
+      <unitid>STA-1807</unitid>
+      <unittitle>Forget not the fallen. 3,590 of the great battle's dead, New York State Monument, Gettysburg</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1806.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1808">
+     <did>
+      <unitid>STA-1808</unitid>
+      <unittitle>From Seminary Ridge S.E. to Penn. College, Gettysburg, used as a hospital during battle</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1807.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1809">
+     <did>
+      <unitid>STA-1809</unitid>
+      <unittitle>Monument where Lincoln's famous address was made, 979 of the great battle's unknown dead, Gettysburg</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1808.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1826">
+     <did>
+      <unitid>STA-1826</unitid>
+      <unittitle>Looking East from Fort Negley, Nashville, Tenn, by Webster &amp; Albee</unittitle>
+      <unitdate normal="1885/1895">c. 1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1825.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1857">
+     <did>
+      <unitid>STA-1857</unitid>
+      <unittitle>Destruction of Atlanta, Ga., by Sherman's army, November 1864</unittitle>
+      <unitdate normal="1861/1865">1861–1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1856.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1865">
+     <did>
+      <unitid>STA-1865</unitid>
+      <unittitle>The place where Major-General McPherson was killed, near Atlanta, Ga</unittitle>
+      <unitdate normal="1861/1865">1861–1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1864.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1870">
+     <did>
+      <unitid>STA-1870</unitid>
+      <unittitle>The place where Maj. Gen. J. B. McPherson was killed, Atlanta, Ga</unittitle>
+      <unitdate normal="1861/1865">1861–1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1869.jpg"/>
      </did>
     </c>
    </c>
@@ -11627,6 +12379,62 @@
       <unittitle>Club Girls of Friend's School, Providence, R.I</unittitle>
       <unitdate normal="1874">1874</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1758.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1791">
+     <did>
+      <unitid>STA-1791</unitid>
+      <unittitle>Harvesting onions, truck farming, near Buffalo, N.Y., U.S.A</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1790.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1852">
+     <did>
+      <unitid>STA-1852</unitid>
+      <unittitle>View of African American workers in a cotton field near Atlanta</unittitle>
+      <unitdate normal="1885/1895">c. 1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1851.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1854">
+     <did>
+      <unitid>STA-1854</unitid>
+      <unittitle>View of African American workers in a cotton field near Atlanta, by Roberts &amp; Fellows</unittitle>
+      <unitdate normal="1885/1895">c. 1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1853.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1856">
+     <did>
+      <unitid>STA-1856</unitid>
+      <unittitle>View of African American workers in a cotton field near Atlanta, by Roberts &amp; Fellows 2</unittitle>
+      <unitdate normal="1885/1895">c. 1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1855.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1869">
+     <did>
+      <unitid>STA-1869</unitid>
+      <unittitle>The Nursery, Atlanta Exposition, by Kilburn, B. W. (Benjamin West), 1827-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1868.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1871">
+     <did>
+      <unitid>STA-1871</unitid>
+      <unittitle>Barbecue, Atlanta Exposition, by Kilburn, B. W. (Benjamin West), 1827-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1870.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1872">
+     <did>
+      <unitid>STA-1872</unitid>
+      <unittitle>The Coming woman, Atlanta Exposition, by Kilburn, B. W. (Benjamin West), 1827-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1871.jpg"/>
      </did>
     </c>
    </c>
@@ -14256,6 +15064,30 @@
       <unittitle>Wreck on the MCRR. High tread. Bangor, by A. K. Dole</unittitle>
       <unitdate normal="1871">1871</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1675.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1786">
+     <did>
+      <unitid>STA-1786</unitid>
+      <unittitle>Head of a buffalo</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1785.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1825">
+     <did>
+      <unitid>STA-1825</unitid>
+      <unittitle>National Military Cemetery, Graves, Nashville, Tenn, by Webster &amp; Albee</unittitle>
+      <unitdate normal="1885/1895">c. 1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1824.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1835">
+     <did>
+      <unitid>STA-1835</unitid>
+      <unittitle>Bar Harbor, by A. D. Bonney</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1834.jpg"/>
      </did>
     </c>
    </c>

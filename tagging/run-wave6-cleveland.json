@@ -1,0 +1,58 @@
+{
+ "assignments": {
+  "STA-1873": {
+   "tags": [
+    "memorial",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1874": {
+   "tags": [
+    "university",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1875": {
+   "tags": [
+    "river",
+    "ship",
+    "warehouse"
+   ],
+   "conf": "high"
+  },
+  "STA-1876": {
+   "tags": [
+    "cannon",
+    "main street",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1877": {
+   "tags": [
+    "horse-drawn carriage",
+    "horse",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1878": {
+   "tags": [
+    "bridge",
+    "creek",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1879": {
+   "tags": [
+    "horse-drawn carriage",
+    "horse",
+    "trees"
+   ],
+   "conf": "high"
+  }
+ }
+}

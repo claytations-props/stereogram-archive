@@ -1,6 +1,6 @@
 {
  "title": "Bar Harbor, by A. D. Bonney",
- "place": "Place unrecorded",
+ "place": "Bar Harbor, Maine",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 7170625,
  "source_revision_id": null,
- "source_sha1": "827a7f53c9d1f42100b62fedb61f0cf8fc0c8e6a"
+ "source_sha1": "827a7f53c9d1f42100b62fedb61f0cf8fc0c8e6a",
+ "tags": [
+  "hotel",
+  "portrait group",
+  "horse-drawn carriage"
+ ]
 }

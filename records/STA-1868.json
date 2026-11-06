@@ -1,11 +1,11 @@
 {
  "title": "Confederate Monument, Oakland Cemetery, Atlanta, Georgia, by E. & H.T. Anthony (Firm)",
- "place": "Place unrecorded",
+ "place": "Atlanta, Georgia",
  "year": "c. 1880",
  "sy": 1880,
  "era": "mid",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Confederate_Monument%2C_Oakland_Cemetery%2C_Atlanta%2C_Georgia%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg/1920px-Confederate_Monument%2C_Oakland_Cemetery%2C_Atlanta%2C_Georgia%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "E. & H.T. Anthony (Firm)",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1880~",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7268564,
  "source_revision_id": null,
- "source_sha1": "4b41eeabbb9588ae42ec0d6ec1663993ee526906"
+ "source_sha1": "4b41eeabbb9588ae42ec0d6ec1663993ee526906",
+ "tags": [
+  "monument",
+  "trees"
+ ]
 }

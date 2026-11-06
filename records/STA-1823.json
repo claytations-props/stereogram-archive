@@ -1,69 +1,69 @@
 {
- "title": "The Suspension Bridge, Nashville, Tenn, by Webster & Albee",
- "place": "Place unrecorded",
- "year": "c. 1890",
- "sy": 1890,
- "era": "mid",
- "cats": [
-  "cities"
- ],
- "blurb": "",
- "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/The_Suspension_Bridge%2C_Nashville%2C_Tenn%2C_by_Webster_%26_Albee.jpg/1920px-The_Suspension_Bridge%2C_Nashville%2C_Tenn%2C_by_Webster_%26_Albee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
- "full": "https://upload.wikimedia.org/wikipedia/commons/6/68/The_Suspension_Bridge%2C_Nashville%2C_Tenn%2C_by_Webster_%26_Albee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
- "source": "https://commons.wikimedia.org/wiki/File:The_Suspension_Bridge,_Nashville,_Tenn,_by_Webster_%26_Albee.jpg",
- "license": "Public domain",
- "w": 2716,
- "h": 1427,
- "id": "STA-1823",
- "rect": "rect/1822.jpg",
- "coll": "Source unrecorded",
- "vert": 0.32,
- "rot": 0.02,
- "range": 3.29,
- "f": 0.4,
- "depth": "Deep",
- "va": 2.8833,
- "px": {
-  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/The_Suspension_Bridge%2C_Nashville%2C_Tenn%2C_by_Webster_%26_Albee.jpg/1920px-The_Suspension_Bridge%2C_Nashville%2C_Tenn%2C_by_Webster_%26_Albee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "ar": 2.8833,
-  "L": [
-   0.385937,
-   0.0,
-   0.090365,
-   0.0,
-   0.254708,
-   0.520813
+  "title": "The Suspension Bridge, Nashville, Tenn, by Webster & Albee",
+  "place": "Nashville, Tennessee",
+  "year": "c. 1890",
+  "sy": 1890,
+  "era": "mid",
+  "cats": [
+    "cities"
   ],
-  "R": [
-   0.391349,
-   0.001871,
-   0.506335,
-   -0.003468,
-   0.253057,
-   0.524532
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/The_Suspension_Bridge%2C_Nashville%2C_Tenn%2C_by_Webster_%26_Albee.jpg/1920px-The_Suspension_Bridge%2C_Nashville%2C_Tenn%2C_by_Webster_%26_Albee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/68/The_Suspension_Bridge%2C_Nashville%2C_Tenn%2C_by_Webster_%26_Albee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Suspension_Bridge,_Nashville,_Tenn,_by_Webster_%26_Albee.jpg",
+  "license": "Public domain",
+  "w": 2716,
+  "h": 1427,
+  "id": "STA-1823",
+  "rect": "rect/1822.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.32,
+  "rot": 0.02,
+  "range": 3.29,
+  "f": 0.4,
+  "depth": "Deep",
+  "va": 2.8833,
+  "px": {
+    "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/The_Suspension_Bridge%2C_Nashville%2C_Tenn%2C_by_Webster_%26_Albee.jpg/1920px-The_Suspension_Bridge%2C_Nashville%2C_Tenn%2C_by_Webster_%26_Albee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "ar": 2.8833,
+    "L": [
+      0.385937,
+      0.0,
+      0.090365,
+      0.0,
+      0.254708,
+      0.520813
+    ],
+    "R": [
+      0.391349,
+      0.001871,
+      0.506335,
+      -0.003468,
+      0.253057,
+      0.524532
+    ],
+    "g": [
+      1.0,
+      0.8755
+    ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.32% vertical error and 0.02° of rotation. Depth measured deep (3.29% of frame width); hung in the VR Parlor at 40% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Webster & Albee",
+  "creator_dates": null,
+  "facets": [
+    "cities"
   ],
-  "g": [
-   1.0,
-   0.8755
-  ]
- },
- "cond": "Rectified 2026. Halves registered to 0.32% vertical error and 0.02° of rotation. Depth measured deep (3.29% of frame width); hung in the VR Parlor at 40% size.",
- "repository": null,
- "collection_name": null,
- "publisher": null,
- "creator": "Webster & Albee",
- "creator_dates": null,
- "facets": [
-  "cities"
- ],
- "publisher_series": null,
- "date_edtf": "1890~",
- "date_start": 1885,
- "date_end": 1895,
- "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
- "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
- "license_url": null,
- "source_page_id": 10082779,
- "source_revision_id": null,
- "source_sha1": "968a783438d7c9f6fb9c2443715eb1305c4b6012"
+  "publisher_series": null,
+  "date_edtf": "1890~",
+  "date_start": 1885,
+  "date_end": 1895,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10082779,
+  "source_revision_id": null,
+  "source_sha1": "968a783438d7c9f6fb9c2443715eb1305c4b6012"
 }

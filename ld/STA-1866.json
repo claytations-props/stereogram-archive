@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1866.json",
+ "name": "View of rail road depot, Atlanta, Ga., taken two days before the destruction of this city, November, 1864",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1865.jpg",
+ "identifier": "STA-1866",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Atlanta, Georgia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_rail_road_depot,_Atlanta,_Ga.,_taken_two_days_before_the_destruction_of_this_city,_November,_1864,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

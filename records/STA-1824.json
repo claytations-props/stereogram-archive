@@ -1,11 +1,11 @@
 {
  "title": "State Normal School, Nashville, Tenn, by Webster & Albee",
- "place": "Place unrecorded",
+ "place": "Nashville, Tennessee",
  "year": "c. 1890",
  "sy": 1890,
  "era": "mid",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/State_Normal_School%2C_Nashville%2C_Tenn%2C_by_Webster_%26_Albee.jpg/1920px-State_Normal_School%2C_Nashville%2C_Tenn%2C_by_Webster_%26_Albee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "Webster & Albee",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1890~",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10082771,
  "source_revision_id": null,
- "source_sha1": "cd22d1819d65d99e4c1a7e86c7773be141056253"
+ "source_sha1": "cd22d1819d65d99e4c1a7e86c7773be141056253",
+ "tags": [
+  "schoolhouse",
+  "trees"
+ ]
 }

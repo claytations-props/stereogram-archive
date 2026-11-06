@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1823.json",
+ "name": "The Suspension Bridge, Nashville, Tenn, by Webster & Albee",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1822.jpg",
+ "identifier": "STA-1823",
+ "creator": {
+  "@type": "Person",
+  "name": "Webster & Albee"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Nashville, Tennessee"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Suspension_Bridge,_Nashville,_Tenn,_by_Webster_%26_Albee.jpg"
+}

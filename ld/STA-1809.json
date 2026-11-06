@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1809.json",
+ "name": "Monument where Lincoln's famous address was made, 979 of the great battle's unknown dead, Gettysburg",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1808.jpg",
+ "identifier": "STA-1809",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gettysburg, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Monument_where_Lincoln%27s_famous_address_was_made,_979_of_the_great_battle%27s_unknown_dead,_Gettysburg,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

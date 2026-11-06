@@ -1,6 +1,6 @@
 {
  "title": "Buffalo, N.Y. Central Presbyterian Church",
- "place": "Place unrecorded",
+ "place": "Buffalo, New York",
  "year": "1865",
  "sy": 1865,
  "era": "early",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10052379,
  "source_revision_id": null,
- "source_sha1": "ed3cc1de6788eaf03cfcec8e46e37cde21df2b39"
+ "source_sha1": "ed3cc1de6788eaf03cfcec8e46e37cde21df2b39",
+ "tags": [
+  "church",
+  "trees"
+ ]
 }

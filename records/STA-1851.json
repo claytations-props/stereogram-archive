@@ -1,6 +1,6 @@
 {
  "title": "View of a building with a clocktower. Atlanta, Ga",
- "place": "Place unrecorded",
+ "place": "Atlanta, Georgia",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7268556,
  "source_revision_id": null,
- "source_sha1": "c2fafd42a742c39a0e9f3c751c30a53f948dd2c9"
+ "source_sha1": "c2fafd42a742c39a0e9f3c751c30a53f948dd2c9",
+ "tags": [
+  "church",
+  "trees"
+ ]
 }

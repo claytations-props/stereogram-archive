@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1790.json",
+ "name": "Base ball grounds, from Tourists' Hotel, Buffalo",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1789.jpg",
+ "identifier": "STA-1790",
+ "dateCreated": "1878",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Buffalo, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Base_ball_grounds,_from_Tourists%27_Hotel,_Buffalo,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

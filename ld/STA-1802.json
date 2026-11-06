@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1802.json",
+ "name": "Charge of the 19th Regiment, battle of Gettysburg",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1801.jpg",
+ "identifier": "STA-1802",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gettysburg, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Charge_of_the_19th_Regiment,_battle_of_Gettysburg,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

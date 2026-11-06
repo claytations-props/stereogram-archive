@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1846.json",
+ "name": "West End Hotel, Bar Harbor, Mt. Desert, Me, by B. Bradley",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1845.jpg",
+ "identifier": "STA-1846",
+ "creator": {
+  "@type": "Person",
+  "name": "B. Bradley"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bar Harbor, Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:West_End_Hotel,_Bar_Harbor,_Mt._Desert,_Me,_by_B._Bradley.jpg"
+}

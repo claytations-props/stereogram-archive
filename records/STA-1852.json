@@ -1,11 +1,11 @@
 {
  "title": "View of African American workers in a cotton field near Atlanta",
- "place": "Place unrecorded",
+ "place": "Atlanta, Georgia",
  "year": "c. 1890",
  "sy": 1890,
  "era": "mid",
  "cats": [
-  "oddities"
+  "people"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/View_of_African_American_workers_in_a_cotton_field_near_Atlanta%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_African_American_workers_in_a_cotton_field_near_Atlanta%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "people"
  ],
  "publisher_series": null,
  "date_edtf": "1890~",
@@ -65,5 +65,11 @@
  "license_url": null,
  "source_page_id": 7268608,
  "source_revision_id": null,
- "source_sha1": "6f3f6a4b39037d18752a64754e91e06974a3475d"
+ "source_sha1": "6f3f6a4b39037d18752a64754e91e06974a3475d",
+ "tags": [
+  "cotton field",
+  "workers",
+  "wagon",
+  "trees"
+ ]
 }

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1828.json",
+ "name": "Southern Military College, Nashville, Tennessee, by E. & H.T. Anthony (Firm)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1827.jpg",
+ "identifier": "STA-1828",
+ "creator": {
+  "@type": "Person",
+  "name": "E. & H.T. Anthony (Firm)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Nashville, Tennessee"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Southern_Military_College,_Nashville,_Tennessee,_by_E._%26_H.T._Anthony_(Firm).jpg"
+}

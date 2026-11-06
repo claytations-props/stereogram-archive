@@ -1,11 +1,11 @@
 {
  "title": "Bar Harbor, Mt. Desert, Me",
- "place": "Place unrecorded",
+ "place": "Bar Harbor, Maine",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Bar_Harbor%2C_Mt._Desert%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bar_Harbor%2C_Mt._Desert%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1870",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7170716,
  "source_revision_id": null,
- "source_sha1": "8634a3b02b9d86a8a391b08192d4874213fdd5cd"
+ "source_sha1": "8634a3b02b9d86a8a391b08192d4874213fdd5cd",
+ "tags": [
+  "house",
+  "trees"
+ ]
 }

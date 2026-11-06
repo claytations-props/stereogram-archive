@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1807.json",
+ "name": "Forget not the fallen. 3,590 of the great battle's dead, New York State Monument, Gettysburg",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1806.jpg",
+ "identifier": "STA-1807",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gettysburg, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Forget_not_the_fallen._3,590_of_the_great_battle%27s_dead,_New_York_State_Monument,_Gettysburg,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

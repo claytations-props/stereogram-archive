@@ -1,11 +1,11 @@
 {
  "title": "Bar Harbor, by B. Bradley",
- "place": "Place unrecorded",
+ "place": "Bar Harbor, Maine",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Bar_Harbor%2C_by_B._Bradley.jpg/1920px-Bar_Harbor%2C_by_B._Bradley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "B. Bradley",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1870",
@@ -65,5 +65,11 @@
  "license_url": null,
  "source_page_id": 7170607,
  "source_revision_id": null,
- "source_sha1": "4aa8379b57eae7f4fb6c0ed854a319d552e5c717"
+ "source_sha1": "4aa8379b57eae7f4fb6c0ed854a319d552e5c717",
+ "tags": [
+  "harbor",
+  "bay",
+  "mountain",
+  "sailboat"
+ ]
 }

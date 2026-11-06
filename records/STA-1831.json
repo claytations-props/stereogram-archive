@@ -1,11 +1,11 @@
 {
  "title": "Bar Harbor & yachts, Mt. Desert, Me",
- "place": "Place unrecorded",
+ "place": "Bar Harbor, Maine",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Bar_Harbor_%26_yachts%2C_Mt._Desert%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Bar_Harbor_%26_yachts%2C_Mt._Desert%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1870",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 7170736,
  "source_revision_id": null,
- "source_sha1": "d48c0b1a82643d9dc4c8b124f3c7d4e79e9668c1"
+ "source_sha1": "d48c0b1a82643d9dc4c8b124f3c7d4e79e9668c1",
+ "tags": [
+  "pier",
+  "sailboat",
+  "harbor"
+ ]
 }

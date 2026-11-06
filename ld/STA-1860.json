@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1860.json",
+ "name": "Customs House, Atlanta, Ga, by M.M. & W.H. Gardner",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1859.jpg",
+ "identifier": "STA-1860",
+ "creator": {
+  "@type": "Person",
+  "name": "M.M. & W.H. Gardner"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Atlanta, Georgia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Customs_House,_Atlanta,_Ga,_by_M.M._%26_W.H._Gardner.jpg"
+}

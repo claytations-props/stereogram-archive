@@ -1,11 +1,11 @@
 {
  "title": "Post office, Cleveland, Ohio",
- "place": "Place unrecorded",
+ "place": "Cleveland, Ohio",
  "year": "1865",
  "sy": 1865,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Post_office%2C_Cleveland%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Post_office%2C_Cleveland%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1865",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 7475263,
  "source_revision_id": null,
- "source_sha1": "a50f4291a1465d01e369526c06ea6e62e14ee77b"
+ "source_sha1": "a50f4291a1465d01e369526c06ea6e62e14ee77b",
+ "tags": [
+  "horse-drawn carriage",
+  "horse",
+  "trees"
+ ]
 }

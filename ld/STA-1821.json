@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1821.json",
+ "name": "The Hermitage entrance, Nashville, Tenn, by Union View Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1820.jpg",
+ "identifier": "STA-1821",
+ "creator": {
+  "@type": "Person",
+  "name": "Union View Co."
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Nashville, Tennessee"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Hermitage_entrance,_Nashville,_Tenn,_by_Union_View_Co..jpg"
+}

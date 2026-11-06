@@ -1,11 +1,11 @@
 {
  "title": "Steamboat landing, Bar Harbor, Mt. Desert, Me, by Kilburn Brothers",
- "place": "Place unrecorded",
+ "place": "Bar Harbor, Maine",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Steamboat_landing%2C_Bar_Harbor%2C_Mt._Desert%2C_Me%2C_by_Kilburn_Brothers.png/1920px-Steamboat_landing%2C_Bar_Harbor%2C_Mt._Desert%2C_Me%2C_by_Kilburn_Brothers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "Kilburn Brothers",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1870",
@@ -65,5 +65,12 @@
  "license_url": null,
  "source_page_id": 7170636,
  "source_revision_id": null,
- "source_sha1": "427315ef6c73dedb8e954d68f90a8cd8e9270384"
+ "source_sha1": "427315ef6c73dedb8e954d68f90a8cd8e9270384",
+ "tags": [
+  "paddle steamer",
+  "pier",
+  "harbor",
+  "sailboat",
+  "crowd"
+ ]
 }

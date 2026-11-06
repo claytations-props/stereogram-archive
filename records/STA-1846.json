@@ -1,6 +1,6 @@
 {
  "title": "West End Hotel, Bar Harbor, Mt. Desert, Me, by B. Bradley",
- "place": "Place unrecorded",
+ "place": "Bar Harbor, Maine",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7170815,
  "source_revision_id": null,
- "source_sha1": "28499d6587a549e1e68b7e254b5673a771938347"
+ "source_sha1": "28499d6587a549e1e68b7e254b5673a771938347",
+ "tags": [
+  "hotel",
+  "meadow"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "title": "Invalids' and Tourists' Hotel, Buffalo, N.Y",
- "place": "Place unrecorded",
+ "place": "Buffalo, New York",
  "year": "1878",
  "sy": 1878,
  "era": "mid",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10054470,
  "source_revision_id": null,
- "source_sha1": "734cccb8041b4723c7933aeb1cbea60863155d37"
+ "source_sha1": "734cccb8041b4723c7933aeb1cbea60863155d37",
+ "tags": [
+  "hotel",
+  "trees"
+ ]
 }

@@ -1,0 +1,136 @@
+{
+ "assignments": {
+  "STA-1794": {
+   "tags": [
+    "battlefield",
+    "soldiers",
+    "horse",
+    "cannon"
+   ],
+   "conf": "high"
+  },
+  "STA-1795": {
+   "tags": [
+    "battlefield",
+    "pine tree",
+    "rock formation"
+   ],
+   "conf": "high"
+  },
+  "STA-1796": {
+   "tags": [
+    "battlefield",
+    "soldiers",
+    "forest"
+   ],
+   "conf": "high"
+  },
+  "STA-1797": {
+   "tags": [
+    "battlefield",
+    "soldiers",
+    "horse",
+    "cannon"
+   ],
+   "conf": "high"
+  },
+  "STA-1798": {
+   "tags": [
+    "forest",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1799": {
+   "tags": [
+    "battlefield",
+    "forest",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1800": {
+   "tags": [
+    "cannon",
+    "battlefield"
+   ],
+   "conf": "high"
+  },
+  "STA-1801": {
+   "tags": [
+    "battlefield",
+    "soldiers",
+    "horse"
+   ],
+   "conf": "high"
+  },
+  "STA-1802": {
+   "tags": [
+    "battlefield",
+    "soldiers",
+    "cannon",
+    "wagon"
+   ],
+   "conf": "high"
+  },
+  "STA-1803": {
+   "tags": [
+    "battlefield",
+    "rock formation",
+    "monument"
+   ],
+   "conf": "high"
+  },
+  "STA-1804": {
+   "tags": [
+    "battlefield",
+    "soldiers",
+    "cannon",
+    "wagon"
+   ],
+   "conf": "high"
+  },
+  "STA-1805": {
+   "tags": [
+    "monument",
+    "portrait group"
+   ],
+   "conf": "high"
+  },
+  "STA-1806": {
+   "tags": [
+    "encampment",
+    "tents",
+    "portrait group",
+    "forest"
+   ],
+   "conf": "high"
+  },
+  "STA-1807": {
+   "tags": [
+    "memorial",
+    "cemetery",
+    "family",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1808": {
+   "tags": [
+    "monument",
+    "portrait group",
+    "meadow"
+   ],
+   "conf": "high"
+  },
+  "STA-1809": {
+   "tags": [
+    "cemetery",
+    "gravestone",
+    "monument",
+    "trees"
+   ],
+   "conf": "high"
+  }
+ }
+}

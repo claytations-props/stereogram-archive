@@ -1,0 +1,107 @@
+{
+ "assignments": {
+  "STA-1810": {
+   "tags": [
+    "university",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1813": {
+   "tags": [
+    "memorial",
+    "cemetery",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1814": {
+   "tags": [
+    "cemetery",
+    "gravestone",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1815": {
+   "tags": [
+    "mansion",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1817": {
+   "tags": [
+    "cemetery",
+    "gravestone",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1818": {
+   "tags": [
+    "trestle bridge",
+    "meadow",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1819": {
+   "tags": [
+    "suspension bridge",
+    "trees"
+   ],
+   "conf": "medium"
+  },
+  "STA-1820": {
+   "tags": [
+    "river",
+    "trestle bridge"
+   ],
+   "conf": "high"
+  },
+  "STA-1822": {
+   "tags": [
+    "cemetery",
+    "gravestone",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1824": {
+   "tags": [
+    "schoolhouse",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-1825": {
+   "tags": [
+    "cemetery",
+    "gravestone"
+   ],
+   "conf": "high"
+  },
+  "STA-1826": {
+   "tags": [
+    "fort",
+    "children"
+   ],
+   "conf": "high"
+  },
+  "STA-1827": {
+   "tags": [
+    "suspension bridge",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-1828": {
+   "tags": [
+    "university",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  }
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1864.json",
+ "name": "State capitol building, Atlanta, by J. L. Schaub",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1863.jpg",
+ "identifier": "STA-1864",
+ "creator": {
+  "@type": "Person",
+  "name": "J. L. Schaub"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Atlanta, Georgia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:State_capitol_building,_Atlanta,_by_J._L._Schaub.png"
+}

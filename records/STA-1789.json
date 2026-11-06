@@ -1,6 +1,6 @@
 {
  "title": "Looking E., from Tourists' Hotel, Buffalo, N.Y",
- "place": "Place unrecorded",
+ "place": "Buffalo, New York",
  "year": "1878",
  "sy": 1878,
  "era": "mid",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10054193,
  "source_revision_id": null,
- "source_sha1": "717ff074c5548c2e8d9d8fd83fed6fa74a22d970"
+ "source_sha1": "717ff074c5548c2e8d9d8fd83fed6fa74a22d970",
+ "tags": [
+  "house",
+  "church",
+  "trees"
+ ]
 }

@@ -1,11 +1,11 @@
 {
  "title": "View in Oakland Cemetery, Atlanta, by J. L. Schaub",
- "place": "Place unrecorded",
+ "place": "Atlanta, Georgia",
  "year": "c. 1880",
  "sy": 1880,
  "era": "mid",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/View_in_Oakland_Cemetery%2C_Atlanta%2C_by_J._L._Schaub.png/1920px-View_in_Oakland_Cemetery%2C_Atlanta%2C_by_J._L._Schaub.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "J. L. Schaub",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1880~",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 7268721,
  "source_revision_id": null,
- "source_sha1": "759bc0120610245569c8f5a3e3ab381c2e27ca5f"
+ "source_sha1": "759bc0120610245569c8f5a3e3ab381c2e27ca5f",
+ "tags": [
+  "cemetery",
+  "monument",
+  "trees"
+ ]
 }

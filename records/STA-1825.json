@@ -1,6 +1,6 @@
 {
  "title": "National Military Cemetery, Graves, Nashville, Tenn, by Webster & Albee",
- "place": "Place unrecorded",
+ "place": "Nashville, Tennessee",
  "year": "c. 1890",
  "sy": 1890,
  "era": "mid",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10082783,
  "source_revision_id": null,
- "source_sha1": "bc840e7a0d0871575d2218c55156a2fbdc330f92"
+ "source_sha1": "bc840e7a0d0871575d2218c55156a2fbdc330f92",
+ "tags": [
+  "cemetery",
+  "gravestone"
+ ]
 }

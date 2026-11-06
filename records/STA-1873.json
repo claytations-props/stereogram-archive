@@ -1,11 +1,11 @@
 {
  "title": "Garfield memorial, Lake View cemetery, Cleveland, O",
- "place": "Place unrecorded",
+ "place": "Cleveland, Ohio",
  "year": "1865",
  "sy": 1865,
  "era": "early",
  "cats": [
-  "water"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Garfield_memorial%2C_Lake_View_cemetery%2C_Cleveland%2C_O%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Garfield_memorial%2C_Lake_View_cemetery%2C_Cleveland%2C_O%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "water"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1865",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7474930,
  "source_revision_id": null,
- "source_sha1": "cf68c4fc25a6cb4d47e313a1452e60384b6feb6e"
+ "source_sha1": "cf68c4fc25a6cb4d47e313a1452e60384b6feb6e",
+ "tags": [
+  "memorial",
+  "trees"
+ ]
 }

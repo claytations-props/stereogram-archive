@@ -1,6 +1,6 @@
 {
  "title": "The Suspension Bridge, Nashville, Tenn, by Union View Co.",
- "place": "Place unrecorded",
+ "place": "Nashville, Tennessee",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10082824,
  "source_revision_id": null,
- "source_sha1": "2fbbbdc242e49bfdb252b81c22e16474b6423396"
+ "source_sha1": "2fbbbdc242e49bfdb252b81c22e16474b6423396",
+ "tags": [
+  "suspension bridge",
+  "trees"
+ ]
 }

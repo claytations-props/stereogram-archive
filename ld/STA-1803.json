@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1803.json",
+ "name": "North from Little Round Top, Gettysburg",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1802.jpg",
+ "identifier": "STA-1803",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Gettysburg, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:North_from_Little_Round_Top,_Gettysburg,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}
