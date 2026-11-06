@@ -110707,5 +110707,418 @@
   "date_start": null,
   "date_end": null,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Garfield memorial, Lake View cemetery, Cleveland, O",
+  "place": "Place unrecorded",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Garfield_memorial%2C_Lake_View_cemetery%2C_Cleveland%2C_O%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Garfield_memorial%2C_Lake_View_cemetery%2C_Cleveland%2C_O%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Garfield_memorial%2C_Lake_View_cemetery%2C_Cleveland%2C_O%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Garfield_memorial,_Lake_View_cemetery,_Cleveland,_O,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1440,
+  "id": "STA-1873",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1872.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.01,
+  "range": 1.27,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.874,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Garfield_memorial%2C_Lake_View_cemetery%2C_Cleveland%2C_O%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Garfield_memorial%2C_Lake_View_cemetery%2C_Cleveland%2C_O%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.874,
+   "L": [
+    0.350521,
+    0.0,
+    0.124219,
+    0.0,
+    0.762376,
+    0.058911
+   ],
+   "R": [
+    0.349775,
+    -0.001072,
+    0.529279,
+    0.003375,
+    0.762214,
+    0.047744
+   ],
+   "g": [
+    0.9728,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.01° of rotation. Depth measured gentle (1.27% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Cleveland (O.) medical college, by Woodward Stereoscopic Co.",
+  "place": "Place unrecorded",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Cleveland_%28O.%29_medical_college%2C_by_Woodward_Stereoscopic_Co..jpg/1920px-Cleveland_%28O.%29_medical_college%2C_by_Woodward_Stereoscopic_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Cleveland_%28O.%29_medical_college%2C_by_Woodward_Stereoscopic_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cleveland_(O.)_medical_college,_by_Woodward_Stereoscopic_Co..jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1727,
+  "id": "STA-1874",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1873.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.16,
+  "rot": 0.04,
+  "range": 10.74,
+  "f": 0.36,
+  "depth": "Deep",
+  "va": 0.8081,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Cleveland_%28O.%29_medical_college%2C_by_Woodward_Stereoscopic_Co..jpg/1920px-Cleveland_%28O.%29_medical_college%2C_by_Woodward_Stereoscopic_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8081,
+   "L": [
+    0.364063,
+    0.0,
+    0.110677,
+    0.0,
+    0.714286,
+    0.115194
+   ],
+   "R": [
+    0.364174,
+    0.001028,
+    0.542213,
+    -0.001662,
+    0.714227,
+    0.111752
+   ],
+   "g": [
+    0.9984,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.04° of rotation. Depth measured deep (10.74% of frame width); hung in the VR Parlor at 36% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Woodward Stereoscopic Co.",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View in the flats, Cleveland, O",
+  "place": "Place unrecorded",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/View_in_the_flats%2C_Cleveland%2C_O%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_in_the_flats%2C_Cleveland%2C_O%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/9c/View_in_the_flats%2C_Cleveland%2C_O%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_in_the_flats,_Cleveland,_O,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1450,
+  "id": "STA-1875",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1874.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.02,
+  "range": 1.36,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.297,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/View_in_the_flats%2C_Cleveland%2C_O%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_in_the_flats%2C_Cleveland%2C_O%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.297,
+   "L": [
+    0.402604,
+    0.0,
+    0.080469,
+    0.0,
+    0.586037,
+    0.352507
+   ],
+   "R": [
+    0.403605,
+    -0.000727,
+    0.515624,
+    -0.006008,
+    0.588945,
+    0.360728
+   ],
+   "g": [
+    1.0,
+    0.9931
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.02° of rotation. Depth measured gentle (1.36% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Public square, Cleveland",
+  "place": "Place unrecorded",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Public_square%2C_Cleveland%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Public_square%2C_Cleveland%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Public_square%2C_Cleveland%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Public_square,_Cleveland,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1447,
+  "id": "STA-1876",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1875.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.24,
+  "rot": 0.05,
+  "range": 2.28,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 1.3624,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Public_square%2C_Cleveland%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Public_square%2C_Cleveland%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3624,
+   "L": [
+    0.309375,
+    0.0,
+    0.14974,
+    0.0,
+    0.429557,
+    0.297044
+   ],
+   "R": [
+    0.306879,
+    -0.010607,
+    0.524126,
+    0.002147,
+    0.427286,
+    0.289827
+   ],
+   "g": [
+    0.9862,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.05° of rotation. Depth measured deep (2.28% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Post office, Cleveland, Ohio",
+  "place": "Place unrecorded",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Post_office%2C_Cleveland%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Post_office%2C_Cleveland%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/96/Post_office%2C_Cleveland%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Post_office,_Cleveland,_Ohio,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1725,
+  "id": "STA-1877",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1876.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.03,
+  "range": 0.91,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9199,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Post_office%2C_Cleveland%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Post_office%2C_Cleveland%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9199,
+   "L": [
+    0.370833,
+    0.0,
+    0.11276,
+    0.0,
+    0.639669,
+    0.12438
+   ],
+   "R": [
+    0.37646,
+    -0.002119,
+    0.510535,
+    0.0007,
+    0.651737,
+    0.125538
+   ],
+   "g": [
+    0.9453,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.03° of rotation. Depth measured gentle (0.91% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Public square, Cleveland, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Place unrecorded",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Public_square%2C_Cleveland%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Public_square%2C_Cleveland%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/83/Public_square%2C_Cleveland%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Public_square,_Cleveland,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1411,
+  "id": "STA-1878",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1877.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.22,
+  "rot": 0.03,
+  "range": 1.17,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.7411,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Public_square%2C_Cleveland%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Public_square%2C_Cleveland%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.7411,
+   "L": [
+    0.280208,
+    0.0,
+    0.145052,
+    0.0,
+    0.312121,
+    0.341919
+   ],
+   "R": [
+    0.28361,
+    0.000806,
+    0.557116,
+    0.003989,
+    0.311612,
+    0.360759
+   ],
+   "g": [
+    0.9915,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.03° of rotation. Depth measured gentle (1.17% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Post office, Cleveland, Ohio, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Place unrecorded",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Post_office%2C_Cleveland%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-Post_office%2C_Cleveland%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Post_office%2C_Cleveland%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Post_office,_Cleveland,_Ohio,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1752,
+  "id": "STA-1879",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1878.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.0,
+  "range": 0.61,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8966,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Post_office%2C_Cleveland%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-Post_office%2C_Cleveland%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8966,
+   "L": [
+    0.365625,
+    0.0,
+    0.110677,
+    0.0,
+    0.637103,
+    0.135476
+   ],
+   "R": [
+    0.370816,
+    0.000712,
+    0.509161,
+    -7.4e-05,
+    0.647931,
+    0.124888
+   ],
+   "g": [
+    0.9992,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.0° of rotation. Depth measured gentle (0.61% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]
