@@ -1,0 +1,71 @@
+{
+ "title": "The valley of death, from Little Round Top, Gettysburg",
+ "place": "Gettysburg, Pennsylvania",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "mountains",
+  "war"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/The_valley_of_death%2C_from_Little_Round_Top%2C_Gettysburg%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-The_valley_of_death%2C_from_Little_Round_Top%2C_Gettysburg%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/e4/The_valley_of_death%2C_from_Little_Round_Top%2C_Gettysburg%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_valley_of_death,_from_Little_Round_Top,_Gettysburg,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1449,
+ "id": "STA-1805",
+ "rect": "rect/1804.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.22,
+ "rot": 0.01,
+ "range": 1.22,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.8159,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/The_valley_of_death%2C_from_Little_Round_Top%2C_Gettysburg%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-The_valley_of_death%2C_from_Little_Round_Top%2C_Gettysburg%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.8159,
+  "L": [
+   0.369792,
+   0.0,
+   0.11901,
+   0.0,
+   0.384843,
+   0.473917
+  ],
+  "R": [
+   0.372725,
+   -0.007964,
+   0.51277,
+   -0.005814,
+   0.384994,
+   0.474311
+  ],
+  "g": [
+   0.9619,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.01° of rotation. Depth measured gentle (1.22% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains",
+  "war"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7480941,
+ "source_revision_id": null,
+ "source_sha1": "f18c2a74258216ef1b7594ce2a50ac3772aa9a65"
+}
