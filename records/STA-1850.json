@@ -1,0 +1,69 @@
+{
+ "title": "Bar Harbor (Mt. Desert) (NYPL b11707212-G89F151 008ZF)",
+ "place": "Place unrecorded",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Bar_Harbor_%28Mt._Desert%29_%28NYPL_b11707212-G89F151_008ZF%29.tiff/lossy-page1-1920px-Bar_Harbor_%28Mt._Desert%29_%28NYPL_b11707212-G89F151_008ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bar_Harbor_%28Mt._Desert%29_%28NYPL_b11707212-G89F151_008ZF%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Bar_Harbor_(Mt._Desert)_(NYPL_b11707212-G89F151_008ZF).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 1898,
+ "id": "STA-1850",
+ "rect": "rect/1849.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.14,
+ "rot": 0.0,
+ "range": 1.62,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.4145,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Bar_Harbor_%28Mt._Desert%29_%28NYPL_b11707212-G89F151_008ZF%29.tiff/lossy-page1-1920px-Bar_Harbor_%28Mt._Desert%29_%28NYPL_b11707212-G89F151_008ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.4145,
+  "L": [
+   0.335938,
+   0.0,
+   0.139323,
+   0.0,
+   0.384486,
+   0.580523
+  ],
+  "R": [
+   0.335477,
+   -0.012595,
+   0.519278,
+   -0.003498,
+   0.382862,
+   0.580937
+  ],
+  "g": [
+   1.0,
+   0.9777
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.0° of rotation. Depth measured moderate (1.62% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 49444040,
+ "source_revision_id": null,
+ "source_sha1": "ef836d0fe185997f8cda978dec2663a6370bcaa8"
+}
