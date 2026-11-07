@@ -216,23 +216,47 @@ which supersedes the round-10 Parlor harness):
   at start). Both vr.html script blocks also pass node --check with
   no syntax errors.
 
-Live verification: NOT YET COMPLETE — the deploy failed, not the
-code. The push of the five change commits (be00574) triggered a
-Pages build that ran 11m18s and failed: the build itself succeeded,
-but the deploy step sat in `syncing_files` for about ten minutes and
-then timed out ("Timeout reached, aborting!"), so the deployment was
-cancelled and the live site kept serving the pre-round files
-(verified by curl at 09:21 and 09:27 UTC: "Request an item" still
-served, no Find box, Last-Modified 09:00:04Z). A live browser walk
-at 03:12–03:19 CST confirmed the same: 1976-item count live (from
-the earlier import deploy), stepping picture matching its title, but
-"Surprise me", the rectified modes and the Find box all still absent
-— consistent with the old files being served, not with the new code
-failing. A `--failed` re-run of the deploy was queued at 09:27:35Z
-and had still not started after five minutes. The doc push below
-triggers a fresh Pages build; live verification is owed once a
-deploy succeeds, and this section must be updated then — do not
-treat the harness passes above as live verification.
+Live verification: the first deploy failed, not the code. The push
+of the five change commits (be00574) triggered a Pages build that
+ran 11m18s and failed: the build itself succeeded, but the deploy
+step sat in `syncing_files` for about ten minutes and then timed out
+("Timeout reached, aborting!"), so the deployment was cancelled and
+the live site kept serving the pre-round files (verified by curl at
+09:21 and 09:27 UTC: "Request an item" still served, no Find box,
+Last-Modified 09:00:04Z). A live browser walk at 03:12–03:19 CST
+confirmed the same: 1976-item count live (from the earlier import
+deploy), but "Surprise me", the rectified modes and the Find box all
+still absent — consistent with the old files being served, not with
+the new code failing. A `--failed` re-run of that deploy was queued
+at 09:27:35Z and never started (still queued with no jobs at 09:37
+UTC; it has no jobs, so it cannot deploy anything). The doc push
+(dd94610) triggered a fresh Pages build (42360250653) that completed
+successfully in 1m01s, and the served pages then carried the new code
+(curl at 09:37 UTC: "Surprise me", loadRect, parlorSearch present;
+Last-Modified 09:34:36Z).
+
+Live-verified on vrparlor.com after that deploy, by browser walk
+03:38–03:41 CST: index.html and vr.html both 200, live catalog
+1,976. The toolbar button reads "Surprise me" and the holdings line
+reads "Holdings · 1976 items · 9 collections". In the viewer on
+STA-0001, Parallel shows the rectified pair as two clear side-by-side
+halves, Cross-Eye shows the swapped halves, Wiggle alternates the
+halves (pixel sampling oscillated cleanly between the two frames),
+and Anaglyph shows a single red/cyan image — no error in any mode.
+Stepping to STA-0002 changes the picture to match the new title
+("Table Rock, Niagara Falls") and the anaglyph of STA-0002 renders
+too. In the flat Parlor the Find box is present; searching "niagara"
+opens STA-0001, the set selector reads Search: "niagara" · 23, the
+wall shows the 23 Niagara cards on one page, the crumb reads
+"Current set · Search: "niagara" · Card 1 of 23", and Next/Prev step
+through the matches (STA-0002, back to STA-0001). In card view the
+flat control bar is fully visible with no overlapping in-scene
+buttons. No error text appeared at any step.
+
+What only a headset can judge: whether the in-room control row still
+reads clearly in VR now that it shows only inside a session, and
+whether the eight-pill reading row still feels uncrowded at arm's
+length (held from round 10). Those are Clay's call in the headset.
 
 ## Commits (one per change, each revertible on its own)
 
