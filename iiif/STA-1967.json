@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1967.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "G.R.A. (Grand Army of the Republic) Comrades at Utica, N.Y., Jan. 22, 1874"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "none": [
+     "New York Public Library"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Collection"
+    ]
+   },
+   "value": {
+    "none": [
+     "Robert N. Dennis Collection of Stereoscopic Views"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1874"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Utica, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1967.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1967/canvas/1",
+   "type": "Canvas",
+   "width": 1616,
+   "height": 733,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1967/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1967/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1966.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1616,
+        "height": 733,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/G.R.A._%28Grand_Army_of_the_Republic%29_Comrades_at_Utica%2C_N.Y.%2C_Jan._22%2C_1874%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-G.R.A._%28Grand_Army_of_the_Republic%29_Comrades_at_Utica%2C_N.Y.%2C_Jan._22%2C_1874%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1967/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

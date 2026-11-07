@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1954.json",
+ "name": "The law library, Cambridge, Mass",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1953.jpg",
+ "identifier": "STA-1954",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cambridge, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_law_library,_Cambridge,_Mass,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

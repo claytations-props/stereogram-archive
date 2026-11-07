@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1968.json",
+ "name": "Parade on the streets of Utica, by J.L. & H.A. Jordan",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1967.jpg",
+ "identifier": "STA-1968",
+ "creator": {
+  "@type": "Person",
+  "name": "J.L. & H.A. Jordan"
+ },
+ "dateCreated": "1866",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Utica, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Parade_on_the_streets_of_Utica,_by_J.L._%26_H.A._Jordan.jpg"
+}

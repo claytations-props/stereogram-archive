@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>1879</quantity>
+    <quantity>1976</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -2554,6 +2554,174 @@
       <unittitle>View in the flats, Cleveland, O</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1874.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1881">
+     <did>
+      <unitid>STA-1881</unitid>
+      <unittitle>View of Lake George from the south</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1880.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1882">
+     <did>
+      <unitid>STA-1882</unitid>
+      <unittitle>Lake George</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1881.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1883">
+     <did>
+      <unitid>STA-1883</unitid>
+      <unittitle>View at Bolton, Lake George</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1882.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1884">
+     <did>
+      <unitid>STA-1884</unitid>
+      <unittitle>Lake George - Caldwell</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1883.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1885">
+     <did>
+      <unitid>STA-1885</unitid>
+      <unittitle>View of an old house and canoe, Lake George</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1884.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1886">
+     <did>
+      <unitid>STA-1886</unitid>
+      <unittitle>Life at Lake George</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1885.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1887">
+     <did>
+      <unitid>STA-1887</unitid>
+      <unittitle>Bolton Landing, Lake George</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1886.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1889">
+     <did>
+      <unitid>STA-1889</unitid>
+      <unittitle>Lake George, N.Y, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1888.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1890">
+     <did>
+      <unitid>STA-1890</unitid>
+      <unittitle>Fish Bay, Lake George</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1889.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1891">
+     <did>
+      <unitid>STA-1891</unitid>
+      <unittitle>Camp life at Lake George</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1890.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1892">
+     <did>
+      <unitid>STA-1892</unitid>
+      <unittitle>Boating and fishing on Lake George</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1891.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1894">
+     <did>
+      <unitid>STA-1894</unitid>
+      <unittitle>Scene on Lake George, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1893.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1895">
+     <did>
+      <unitid>STA-1895</unitid>
+      <unittitle>Scene on Lake George, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1894.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1897">
+     <did>
+      <unitid>STA-1897</unitid>
+      <unittitle>Bloody Pond, Lake George, N.Y</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1896.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1898">
+     <did>
+      <unitid>STA-1898</unitid>
+      <unittitle>Scene on Lake George, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1897.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1899">
+     <did>
+      <unitid>STA-1899</unitid>
+      <unittitle>Scene on Lake George</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1898.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1900">
+     <did>
+      <unitid>STA-1900</unitid>
+      <unittitle>Little Chicken Island, Lake George</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1899.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1908">
+     <did>
+      <unitid>STA-1908</unitid>
+      <unittitle>C &amp; C suspension bridge, Cincinnati</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1907.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1916">
+     <did>
+      <unitid>STA-1916</unitid>
+      <unittitle>Levee, Cincinnati, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1915.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1917">
+     <did>
+      <unitid>STA-1917</unitid>
+      <unittitle>View on the Connecticut--Springfield</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1916.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1918">
+     <did>
+      <unitid>STA-1918</unitid>
+      <unittitle>View of Springfield of the pistol factory</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1917.jpg"/>
      </did>
     </c>
    </c>
@@ -10438,6 +10606,542 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1878.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-1893">
+     <did>
+      <unitid>STA-1893</unitid>
+      <unittitle>Catskill House, Lake George</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1892.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1896">
+     <did>
+      <unitid>STA-1896</unitid>
+      <unittitle>Stage coach, Lake George</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1895.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1901">
+     <did>
+      <unitid>STA-1901</unitid>
+      <unittitle>Suspension bridge, Cincinnati</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1900.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1902">
+     <did>
+      <unitid>STA-1902</unitid>
+      <unittitle>Cincinnati fountain, Cincinnati, Ohio</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1901.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1903">
+     <did>
+      <unitid>STA-1903</unitid>
+      <unittitle>Cincinnati bridge</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1902.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1904">
+     <did>
+      <unitid>STA-1904</unitid>
+      <unittitle>Suspension bridge, Cincinnati, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1903.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1905">
+     <did>
+      <unitid>STA-1905</unitid>
+      <unittitle>Cincinnati &amp; Covington suspension bridge</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1904.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1906">
+     <did>
+      <unitid>STA-1906</unitid>
+      <unittitle>Lincoln park, Cincinnati</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1905.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1907">
+     <did>
+      <unitid>STA-1907</unitid>
+      <unittitle>Street view of Cincinnati with buildings</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1906.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1909">
+     <did>
+      <unitid>STA-1909</unitid>
+      <unittitle>Cincinnati and Louisville R. R. bridge, Cincinnati</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1908.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1910">
+     <did>
+      <unitid>STA-1910</unitid>
+      <unittitle>Fountain, Cincinnati</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1909.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1911">
+     <did>
+      <unitid>STA-1911</unitid>
+      <unittitle>Grand hotel, Cincinnati</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1910.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1912">
+     <did>
+      <unitid>STA-1912</unitid>
+      <unittitle>Lookout house, Cincinnati</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1911.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1913">
+     <did>
+      <unitid>STA-1913</unitid>
+      <unittitle>Spring grove cemetery, Cincinnati</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1912.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1914">
+     <did>
+      <unitid>STA-1914</unitid>
+      <unittitle>Newport &amp; Cincinnati bridge</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1913.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1915">
+     <did>
+      <unitid>STA-1915</unitid>
+      <unittitle>Cincinnati court house after the riot of 1884</unittitle>
+      <unitdate normal="1884">1884</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1914.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1919">
+     <did>
+      <unitid>STA-1919</unitid>
+      <unittitle>View from the arsenal, Springfield, Mass</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1918.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1920">
+     <did>
+      <unitid>STA-1920</unitid>
+      <unittitle>Cemetery--Springfield</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1919.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1921">
+     <did>
+      <unitid>STA-1921</unitid>
+      <unittitle>Entrance to cemetery--Springfield</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1920.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1922">
+     <did>
+      <unitid>STA-1922</unitid>
+      <unittitle>U.S. arsenal, Springfield</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1921.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1923">
+     <did>
+      <unitid>STA-1923</unitid>
+      <unittitle>Court House--Springfield</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1922.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1924">
+     <did>
+      <unitid>STA-1924</unitid>
+      <unittitle>City Hall, Springfield, Mass</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1923.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1925">
+     <did>
+      <unitid>STA-1925</unitid>
+      <unittitle>United States arsenal, Springfield, Mass</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1924.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1926">
+     <did>
+      <unitid>STA-1926</unitid>
+      <unittitle>Back view of J. C. Buxton's home in Springfield</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1925.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1927">
+     <did>
+      <unitid>STA-1927</unitid>
+      <unittitle>Front view of J. C. Buxton's home in Springfield</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1926.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1930">
+     <did>
+      <unitid>STA-1930</unitid>
+      <unittitle>National Lincoln Monument, Springfield, Illinois</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1929.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1931">
+     <did>
+      <unitid>STA-1931</unitid>
+      <unittitle>U.S. arsenal</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1930.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1933">
+     <did>
+      <unitid>STA-1933</unitid>
+      <unittitle>National Lincoln Monument, Springfield, Illinois. Naval group of statuary</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1932.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1934">
+     <did>
+      <unitid>STA-1934</unitid>
+      <unittitle>City library interior</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1933.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1935">
+     <did>
+      <unitid>STA-1935</unitid>
+      <unittitle>National Lincoln Monument, Springfield, Illinois. Interior of Memorial Hall</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1934.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1936">
+     <did>
+      <unitid>STA-1936</unitid>
+      <unittitle>United States arsenal water shop</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1935.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1937">
+     <did>
+      <unitid>STA-1937</unitid>
+      <unittitle>National Lincoln Monument, Springfield, Illinois, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1936.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1938">
+     <did>
+      <unitid>STA-1938</unitid>
+      <unittitle>Stereoscopic views of Cambridge, Massachusetts</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1937.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1939">
+     <did>
+      <unitid>STA-1939</unitid>
+      <unittitle>Washington elm, Cambridge, Mass, by U.S. Stereoscopic Co.</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1938.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1940">
+     <did>
+      <unitid>STA-1940</unitid>
+      <unittitle>Harvard College, Cambridge, Mass, by U.S. Stereoscopic Co.</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1939.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1941">
+     <did>
+      <unitid>STA-1941</unitid>
+      <unittitle>Washington elm, Cambridge</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1940.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1942">
+     <did>
+      <unitid>STA-1942</unitid>
+      <unittitle>Washington's headquarters in Cambridge</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1941.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1943">
+     <did>
+      <unitid>STA-1943</unitid>
+      <unittitle>Washington elm, Cambridge, Mass</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1942.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1944">
+     <did>
+      <unitid>STA-1944</unitid>
+      <unittitle>Washington elm, Cambridge, Mass, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1943.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1945">
+     <did>
+      <unitid>STA-1945</unitid>
+      <unittitle>Washington's headquarters, in Cambridge</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1944.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1946">
+     <did>
+      <unitid>STA-1946</unitid>
+      <unittitle>Washington's headquarters in Cambridge, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1945.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1947">
+     <did>
+      <unitid>STA-1947</unitid>
+      <unittitle>Washington elm, Cambridge, Mass, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1946.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1948">
+     <did>
+      <unitid>STA-1948</unitid>
+      <unittitle>Washington's headquarters in Cambridge, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1947.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1949">
+     <did>
+      <unitid>STA-1949</unitid>
+      <unittitle>Washington's headquarters, in Cambridge, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1948.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1950">
+     <did>
+      <unitid>STA-1950</unitid>
+      <unittitle>Washington's head quarters Cambridge, Mass</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1949.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1951">
+     <did>
+      <unitid>STA-1951</unitid>
+      <unittitle>Washington elm, Cambridge, Mass, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1950.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1954">
+     <did>
+      <unitid>STA-1954</unitid>
+      <unittitle>The law library, Cambridge, Mass</unittitle>
+      <unitdate normal="1859/1910">1859–1910</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1953.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1955">
+     <did>
+      <unitid>STA-1955</unitid>
+      <unittitle>The astronomical observatory, Cambridge, Mass</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1954.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1956">
+     <did>
+      <unitid>STA-1956</unitid>
+      <unittitle>Utica Academy</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1955.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1957">
+     <did>
+      <unitid>STA-1957</unitid>
+      <unittitle>Utica Academy, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1956.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1958">
+     <did>
+      <unitid>STA-1958</unitid>
+      <unittitle>Steuben Park, Utica, N.Y</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1957.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1959">
+     <did>
+      <unitid>STA-1959</unitid>
+      <unittitle>Utica Academy, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1958.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1960">
+     <did>
+      <unitid>STA-1960</unitid>
+      <unittitle>Steuben Park, Utica, N.Y, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1959.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1961">
+     <did>
+      <unitid>STA-1961</unitid>
+      <unittitle>View of Barnard &amp; Sons, and other stores in Utica</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1960.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1962">
+     <did>
+      <unitid>STA-1962</unitid>
+      <unittitle>Grace Church, Utica</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1961.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1963">
+     <did>
+      <unitid>STA-1963</unitid>
+      <unittitle>1st M. Church, Utica</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1962.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1964">
+     <did>
+      <unitid>STA-1964</unitid>
+      <unittitle>Masonic Home, Utica, N.Y</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1963.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1966">
+     <did>
+      <unitid>STA-1966</unitid>
+      <unittitle>Genesee Street from Fayette Street, Utica, N.Y</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1965.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1968">
+     <did>
+      <unitid>STA-1968</unitid>
+      <unittitle>Parade on the streets of Utica, by J.L. &amp; H.A. Jordan</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1967.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1969">
+     <did>
+      <unitid>STA-1969</unitid>
+      <unittitle>Utica Academy, Scholars leaving, by William E. James</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1968.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1970">
+     <did>
+      <unitid>STA-1970</unitid>
+      <unittitle>Utica Academy, Scholars leaving, by William E. James 2</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1969.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1971">
+     <did>
+      <unitid>STA-1971</unitid>
+      <unittitle>Trinity Church (interior), Utica, 1868, by Mundy &amp; Williams</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1970.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1972">
+     <did>
+      <unitid>STA-1972</unitid>
+      <unittitle>Conservatory Chapel, Forest Hill Cemetery, Utica, N.Y. (interior),, by Williams, L. B., 1833-1907</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1971.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1973">
+     <did>
+      <unitid>STA-1973</unitid>
+      <unittitle>Conservatory Chapel, Forest Hill Cemetery, Utica, N.Y, by Williams, L. B., 1833-1907</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1972.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1974">
+     <did>
+      <unitid>STA-1974</unitid>
+      <unittitle>(Trinity Church, Utica.) Taken "Easter Monday," 1868, by Mundy &amp; Williams</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1973.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1975">
+     <did>
+      <unitid>STA-1975</unitid>
+      <unittitle>Bird's-eye view, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1974.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1976">
+     <did>
+      <unitid>STA-1976</unitid>
+      <unittitle>Conservatory Chapel, Forest Hill Cemetery, Utica, N.Y, by Williams, L. B., 1833-1907 2</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1975.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -11025,6 +11729,22 @@
       <unittitle>The place where Maj. Gen. J. B. McPherson was killed, Atlanta, Ga</unittitle>
       <unitdate normal="1861/1865">1861–1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1869.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1965">
+     <did>
+      <unitid>STA-1965</unitid>
+      <unittitle>Reception of the Regiment, Utica</unittitle>
+      <unitdate normal="1866">1866</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1964.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1967">
+     <did>
+      <unitid>STA-1967</unitid>
+      <unittitle>G.R.A. (Grand Army of the Republic) Comrades at Utica, N.Y., Jan. 22, 1874</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1966.jpg"/>
      </did>
     </c>
    </c>
@@ -12435,6 +13155,38 @@
       <unittitle>The Coming woman, Atlanta Exposition, by Kilburn, B. W. (Benjamin West), 1827-1909</unittitle>
       <unitdate>Undated</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1871.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1888">
+     <did>
+      <unitid>STA-1888</unitid>
+      <unittitle>The Narrows, Lake George, N.Y</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1887.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1932">
+     <did>
+      <unitid>STA-1932</unitid>
+      <unittitle>View of a fairgrounds(?), showing people and large tents</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1931.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1952">
+     <did>
+      <unitid>STA-1952</unitid>
+      <unittitle>Prof. Agassiz, Cambridge, Mass</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1951.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1953">
+     <did>
+      <unitid>STA-1953</unitid>
+      <unittitle>Prof. Longfellow, Cambridge, Mass</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1952.jpg"/>
      </did>
     </c>
    </c>
@@ -15088,6 +15840,30 @@
       <unittitle>Bar Harbor, by A. D. Bonney</unittitle>
       <unitdate normal="1870">1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1834.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1880">
+     <did>
+      <unitid>STA-1880</unitid>
+      <unittitle>Lake George. (View of forest.)</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1879.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1928">
+     <did>
+      <unitid>STA-1928</unitid>
+      <unittitle>View looking north from the porch of J. C. Buxton's home in Springfield</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1927.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1929">
+     <did>
+      <unitid>STA-1929</unitid>
+      <unittitle>View of a fairgrounds(?), showing large tents</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1928.jpg"/>
      </did>
     </c>
    </c>

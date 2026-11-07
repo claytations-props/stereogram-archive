@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1902.json",
+ "name": "Cincinnati fountain, Cincinnati, Ohio",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1901.jpg",
+ "identifier": "STA-1902",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cincinnati, Ohio"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cincinnati_fountain,_Cincinnati,_Ohio,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

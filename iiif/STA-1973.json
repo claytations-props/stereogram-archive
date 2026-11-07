@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-1973.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Conservatory Chapel, Forest Hill Cemetery, Utica, N.Y, by Williams, L. B., 1833-1907"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Williams, L. B."
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "1833-1907"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Utica, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-1973.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-1973/canvas/1",
+   "type": "Canvas",
+   "width": 1770,
+   "height": 1034,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-1973/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-1973/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/1972.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1770,
+        "height": 1034,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Conservatory_Chapel%2C_Forest_Hill_Cemetery%2C_Utica%2C_N.Y%2C_by_Williams%2C_L._B.%2C_1833-1907.jpg/1920px-Conservatory_Chapel%2C_Forest_Hill_Cemetery%2C_Utica%2C_N.Y%2C_by_Williams%2C_L._B.%2C_1833-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-1973/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

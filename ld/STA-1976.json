@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1976.json",
+ "name": "Conservatory Chapel, Forest Hill Cemetery, Utica, N.Y, by Williams, L. B., 1833-1907 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1975.jpg",
+ "identifier": "STA-1976",
+ "creator": {
+  "@type": "Person",
+  "name": "Williams, L. B."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Utica, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Conservatory_Chapel,_Forest_Hill_Cemetery,_Utica,_N.Y,_by_Williams,_L._B.,_1833-1907_2.jpg"
+}

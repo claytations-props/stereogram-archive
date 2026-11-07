@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1939.json",
+ "name": "Washington elm, Cambridge, Mass, by U.S. Stereoscopic Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1938.jpg",
+ "identifier": "STA-1939",
+ "creator": {
+  "@type": "Person",
+  "name": "U.S. Stereoscopic Co."
+ },
+ "dateCreated": "1859",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cambridge, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Washington_elm,_Cambridge,_Mass,_by_U.S._Stereoscopic_Co..jpg"
+}

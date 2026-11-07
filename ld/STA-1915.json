@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1915.json",
+ "name": "Cincinnati court house after the riot of 1884",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1914.jpg",
+ "identifier": "STA-1915",
+ "dateCreated": "1884",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cincinnati, Ohio"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cincinnati_court_house_after_the_riot_of_1884,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}
