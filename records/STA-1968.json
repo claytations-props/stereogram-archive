@@ -1,0 +1,71 @@
+{
+ "title": "Parade on the streets of Utica, by J.L. & H.A. Jordan",
+ "place": "Utica, New York",
+ "year": "1866",
+ "sy": 1866,
+ "era": "early",
+ "cats": [
+  "cities",
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Parade_on_the_streets_of_Utica%2C_by_J.L._%26_H.A._Jordan.jpg/1920px-Parade_on_the_streets_of_Utica%2C_by_J.L._%26_H.A._Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/35/Parade_on_the_streets_of_Utica%2C_by_J.L._%26_H.A._Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Parade_on_the_streets_of_Utica,_by_J.L._%26_H.A._Jordan.jpg",
+ "license": "Public domain",
+ "w": 2625,
+ "h": 1320,
+ "id": "STA-1968",
+ "rect": "rect/1967.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 0.27,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0884,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Parade_on_the_streets_of_Utica%2C_by_J.L._%26_H.A._Jordan.jpg/1920px-Parade_on_the_streets_of_Utica%2C_by_J.L._%26_H.A._Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0884,
+  "L": [
+   0.384896,
+   0.0,
+   0.076302,
+   0.0,
+   0.703627,
+   0.248187
+  ],
+  "R": [
+   0.392375,
+   0.007645,
+   0.522405,
+   -0.018664,
+   0.692581,
+   0.278722
+  ],
+  "g": [
+   1.0,
+   0.9175
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.27% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "J.L. & H.A. Jordan",
+ "creator_dates": null,
+ "facets": [
+  "cities",
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1866",
+ "date_start": 1866,
+ "date_end": 1866,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10250096,
+ "source_revision_id": null,
+ "source_sha1": "9025e5a8427dbfbd5fe1ca049d1493f48739a11e"
+}
