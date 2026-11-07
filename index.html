@@ -156,7 +156,7 @@ footer a{color:var(--brass)}
 .mode.on{background:var(--brass);color:var(--inkbtn);border-color:var(--brass)}
 .stage{display:flex;align-items:center;justify-content:center;padding:18px;min-height:56vh;position:relative}
 .slidebox{display:flex;align-items:center;justify-content:center;width:100%}
-.stage img.pair{max-width:min(1100px,96vw);max-height:74vh;border-radius:3px;box-shadow:0 20px 60px rgba(0,0,0,.7)}
+.stage img.pair{max-width:min(1100px,96vw);max-height:74vh;border-radius:3px;box-shadow:0 20px 60px rgba(0,0,0,.7);transition:opacity .25s}
 .split{display:none;gap:14px;align-items:center;justify-content:center;width:100%}
 .split.show{display:flex}
 .eye{background-repeat:no-repeat;background-size:200% 100%;border-radius:3px;box-shadow:0 20px 60px rgba(0,0,0,.7);width:min(520px,46vw);aspect-ratio:1/.98;max-height:72vh}
@@ -608,7 +608,13 @@ function showCurrent(keepMode){
  $("#vContext").textContent="Result "+(vi+1)+" of "+currentList.length+" · "+viewerContext;
  $("#vBlurb").textContent=b.blurb;
  $("#vSource").removeAttribute("href");$("#vFull").removeAttribute("href");$("#vLic").textContent="";
- $("#vImg").src=b.img;$("#vImg").alt=b.title+" stereograph pair";
+ /* Round 11: the title swaps instantly but the picture does not, so the
+    old card's image lingered under the new card's title. The pair fades
+    in on load instead, and the rectified panels are blanked so they
+    cannot show the old card either. */
+ const vImg=$("#vImg");vImg.style.opacity=0;vImg.onload=()=>{vImg.style.opacity=1};vImg.onerror=()=>{vImg.style.opacity=1};
+ vImg.src=b.img;vImg.alt=b.title+" stereograph pair";
+ ["eyeL","eyeR","wigEl"].forEach(id=>{document.getElementById(id).style.backgroundImage="none"});
  $("#vRecord").innerHTML='<p style="font-size:13.5px;color:#6d5c39">Loading the full record\u2026</p>';
  syncFavBtn();
  setMode(keepMode?mode:"pair");
