@@ -112361,5 +112361,949 @@
   "date_start": 1860,
   "date_end": 1860,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Suspension bridge, Cincinnati",
+  "place": "Cincinnati, Ohio",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Suspension_bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Suspension_bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/42/Suspension_bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Suspension_bridge,_Cincinnati,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1411,
+  "id": "STA-1901",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1900.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.1,
+  "range": 1.55,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8098,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Suspension_bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Suspension_bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8098,
+   "L": [
+    0.345833,
+    0.0,
+    0.127344,
+    0.0,
+    0.828283,
+    0.103535
+   ],
+   "R": [
+    0.347609,
+    0.007942,
+    0.518119,
+    -0.011593,
+    0.83341,
+    0.08933
+   ],
+   "g": [
+    1.0,
+    0.9642
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.1° of rotation. Depth measured moderate (1.55% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Cincinnati fountain, Cincinnati, Ohio",
+  "place": "Cincinnati, Ohio",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cincinnati_fountain%2C_Cincinnati%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cincinnati_fountain%2C_Cincinnati%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Cincinnati_fountain%2C_Cincinnati%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cincinnati_fountain,_Cincinnati,_Ohio,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1628,
+  "id": "STA-1902",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1901.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.02,
+  "range": 1.24,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8385,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cincinnati_fountain%2C_Cincinnati%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cincinnati_fountain%2C_Cincinnati%2C_Ohio%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8385,
+   "L": [
+    0.394792,
+    0.0,
+    0.098698,
+    0.0,
+    0.791594,
+    0.104641
+   ],
+   "R": [
+    0.398524,
+    -0.00174,
+    0.506506,
+    0.001528,
+    0.795001,
+    0.102134
+   ],
+   "g": [
+    0.9881,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.02° of rotation. Depth measured gentle (1.24% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Cincinnati bridge",
+  "place": "Cincinnati, Ohio",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Cincinnati_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Cincinnati_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/38/Cincinnati_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cincinnati_bridge,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1446,
+  "id": "STA-1903",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1902.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.16,
+  "rot": 0.0,
+  "range": 0.5,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.042,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Cincinnati_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Cincinnati_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.042,
+   "L": [
+    0.296875,
+    0.0,
+    0.172135,
+    0.0,
+    0.539448,
+    0.263807
+   ],
+   "R": [
+    0.29966,
+    0.000818,
+    0.575192,
+    -0.001569,
+    0.543088,
+    0.230409
+   ],
+   "g": [
+    0.9986,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.0° of rotation. Depth measured gentle (0.5% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Suspension bridge, Cincinnati, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Cincinnati, Ohio",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Suspension_bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Suspension_bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/98/Suspension_bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Suspension_bridge,_Cincinnati,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1423,
+  "id": "STA-1904",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1903.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 2.47,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.8494,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Suspension_bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Suspension_bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8494,
+   "L": [
+    0.352604,
+    0.0,
+    0.095052,
+    0.0,
+    0.798597,
+    0.062625
+   ],
+   "R": [
+    0.35204,
+    0.007424,
+    0.505936,
+    -0.012,
+    0.797478,
+    0.085558
+   ],
+   "g": [
+    0.9966,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured deep (2.47% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Cincinnati & Covington suspension bridge",
+  "place": "Cincinnati, Ohio",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Cincinnati_%26_Covington_suspension_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Cincinnati_%26_Covington_suspension_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Cincinnati_%26_Covington_suspension_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cincinnati_%26_Covington_suspension_bridge,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1424,
+  "id": "STA-1905",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1904.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.0,
+  "range": 1.34,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9624,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Cincinnati_%26_Covington_suspension_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Cincinnati_%26_Covington_suspension_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9624,
+   "L": [
+    0.320312,
+    0.0,
+    0.157552,
+    0.0,
+    0.63964,
+    0.17968
+   ],
+   "R": [
+    0.32916,
+    -0.003827,
+    0.530123,
+    0.00521,
+    0.643891,
+    0.162314
+   ],
+   "g": [
+    1.0,
+    0.9515
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.0° of rotation. Depth measured gentle (1.34% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Lincoln park, Cincinnati",
+  "place": "Cincinnati, Ohio",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Lincoln_park%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Lincoln_park%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Lincoln_park%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Lincoln_park,_Cincinnati,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1450,
+  "id": "STA-1906",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1905.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 0.66,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0625,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Lincoln_park%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Lincoln_park%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0625,
+   "L": [
+    0.380729,
+    0.0,
+    0.09349,
+    0.0,
+    0.6765,
+    0.122419
+   ],
+   "R": [
+    0.380844,
+    -0.000853,
+    0.510182,
+    -0.001866,
+    0.676782,
+    0.103031
+   ],
+   "g": [
+    0.9841,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (0.66% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Street view of Cincinnati with buildings",
+  "place": "Cincinnati, Ohio",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Street_view_of_Cincinnati_with_buildings%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Street_view_of_Cincinnati_with_buildings%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/61/Street_view_of_Cincinnati_with_buildings%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Street_view_of_Cincinnati_with_buildings,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1447,
+  "id": "STA-1907",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1906.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 2.21,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.8494,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Street_view_of_Cincinnati_with_buildings%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Street_view_of_Cincinnati_with_buildings%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8494,
+   "L": [
+    0.390625,
+    0.0,
+    0.101823,
+    0.0,
+    0.869951,
+    0.064532
+   ],
+   "R": [
+    0.390696,
+    0.001411,
+    0.511543,
+    -0.001487,
+    0.868372,
+    0.070362
+   ],
+   "g": [
+    1.0,
+    0.9827
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured deep (2.21% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "C & C suspension bridge, Cincinnati",
+  "place": "Cincinnati, Ohio",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/C_%26_C_suspension_bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-C_%26_C_suspension_bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/1b/C_%26_C_suspension_bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:C_%26_C_suspension_bridge,_Cincinnati,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1419,
+  "id": "STA-1908",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1907.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.17,
+  "rot": 0.02,
+  "range": 3.83,
+  "f": 0.54,
+  "depth": "Deep",
+  "va": 1.6329,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/C_%26_C_suspension_bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-C_%26_C_suspension_bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.6329,
+   "L": [
+    0.352083,
+    0.0,
+    0.139323,
+    0.0,
+    0.41608,
+    0.51809
+   ],
+   "R": [
+    0.351041,
+    -0.011489,
+    0.524353,
+    -0.002893,
+    0.418479,
+    0.502611
+   ],
+   "g": [
+    1.0,
+    0.9688
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.02° of rotation. Depth measured deep (3.83% of frame width); hung in the VR Parlor at 54% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Cincinnati and Louisville R. R. bridge, Cincinnati",
+  "place": "Cincinnati, Ohio",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Cincinnati_and_Louisville_R._R._bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Cincinnati_and_Louisville_R._R._bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cincinnati_and_Louisville_R._R._bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cincinnati_and_Louisville_R._R._bridge,_Cincinnati,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1407,
+  "id": "STA-1909",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1908.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.17,
+  "rot": 0.02,
+  "range": 0.9,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8543,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Cincinnati_and_Louisville_R._R._bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Cincinnati_and_Louisville_R._R._bridge%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8543,
+   "L": [
+    0.308333,
+    0.0,
+    0.133073,
+    0.0,
+    0.702128,
+    0.172746
+   ],
+   "R": [
+    0.310155,
+    -0.001316,
+    0.583741,
+    -0.001215,
+    0.704889,
+    0.164255
+   ],
+   "g": [
+    1.0,
+    0.9526
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.02° of rotation. Depth measured gentle (0.9% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Fountain, Cincinnati",
+  "place": "Cincinnati, Ohio",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Fountain%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Fountain%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/17/Fountain%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Fountain,_Cincinnati,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1444,
+  "id": "STA-1910",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1909.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.19,
+  "rot": 0.05,
+  "range": 0.63,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0724,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Fountain%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Fountain%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0724,
+   "L": [
+    0.370312,
+    0.0,
+    0.113802,
+    0.0,
+    0.654492,
+    0.289733
+   ],
+   "R": [
+    0.370063,
+    0.002989,
+    0.523322,
+    0.005582,
+    0.651613,
+    0.282382
+   ],
+   "g": [
+    1.0,
+    0.9763
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.05° of rotation. Depth measured gentle (0.63% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Grand hotel, Cincinnati",
+  "place": "Cincinnati, Ohio",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Grand_hotel%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Grand_hotel%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/33/Grand_hotel%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Grand_hotel,_Cincinnati,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1459,
+  "id": "STA-1911",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1910.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.19,
+  "rot": 0.04,
+  "range": 0.77,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2158,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Grand_hotel%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Grand_hotel%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2158,
+   "L": [
+    0.352083,
+    0.0,
+    0.139844,
+    0.0,
+    0.5435,
+    0.360215
+   ],
+   "R": [
+    0.359612,
+    -0.000607,
+    0.526573,
+    0.003239,
+    0.548422,
+    0.347703
+   ],
+   "g": [
+    1.0,
+    0.982
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.04° of rotation. Depth measured gentle (0.77% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Lookout house, Cincinnati",
+  "place": "Cincinnati, Ohio",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Lookout_house%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Lookout_house%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/df/Lookout_house%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Lookout_house,_Cincinnati,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1415,
+  "id": "STA-1912",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1911.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.31,
+  "rot": 0.02,
+  "range": 0.54,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.875,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Lookout_house%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Lookout_house%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.875,
+   "L": [
+    0.335417,
+    0.0,
+    0.111198,
+    0.0,
+    0.225579,
+    0.48288
+   ],
+   "R": [
+    0.336461,
+    0.000345,
+    0.509894,
+    -0.003727,
+    0.225597,
+    0.467766
+   ],
+   "g": [
+    0.9489,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.31% vertical error and 0.02° of rotation. Depth measured gentle (0.54% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Spring grove cemetery, Cincinnati",
+  "place": "Cincinnati, Ohio",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Spring_grove_cemetery%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Spring_grove_cemetery%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Spring_grove_cemetery%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Spring_grove_cemetery,_Cincinnati,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1445,
+  "id": "STA-1913",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1912.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.01,
+  "range": 7.85,
+  "f": 0.52,
+  "depth": "Deep",
+  "va": 0.7717,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Spring_grove_cemetery%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Spring_grove_cemetery%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7717,
+   "L": [
+    0.338021,
+    0.0,
+    0.144531,
+    0.0,
+    0.829389,
+    0.101085
+   ],
+   "R": [
+    0.343107,
+    -0.002399,
+    0.513443,
+    0.003524,
+    0.840649,
+    0.069215
+   ],
+   "g": [
+    0.9701,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured deep (7.85% of frame width); hung in the VR Parlor at 52% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Newport & Cincinnati bridge",
+  "place": "Cincinnati, Ohio",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Newport_%26_Cincinnati_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Newport_%26_Cincinnati_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/25/Newport_%26_Cincinnati_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Newport_%26_Cincinnati_bridge,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1464,
+  "id": "STA-1914",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1913.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.04,
+  "range": 1.84,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.5814,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Newport_%26_Cincinnati_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Newport_%26_Cincinnati_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.5814,
+   "L": [
+    0.195312,
+    0.0,
+    0.15026,
+    0.0,
+    0.628043,
+    0.175755
+   ],
+   "R": [
+    0.204292,
+    0.003832,
+    0.519308,
+    0.001792,
+    0.635813,
+    0.164803
+   ],
+   "g": [
+    1.0,
+    0.9308
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.04° of rotation. Depth measured moderate (1.84% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Cincinnati court house after the riot of 1884",
+  "place": "Cincinnati, Ohio",
+  "year": "1884",
+  "sy": 1884,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Cincinnati_court_house_after_the_riot_of_1884%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Cincinnati_court_house_after_the_riot_of_1884%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/18/Cincinnati_court_house_after_the_riot_of_1884%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cincinnati_court_house_after_the_riot_of_1884,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1442,
+  "id": "STA-1915",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1914.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.03,
+  "range": 0.59,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9482,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Cincinnati_court_house_after_the_riot_of_1884%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Cincinnati_court_house_after_the_riot_of_1884%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9482,
+   "L": [
+    0.409896,
+    0.0,
+    0.083594,
+    0.0,
+    0.820158,
+    0.11413
+   ],
+   "R": [
+    0.408047,
+    -0.000847,
+    0.505778,
+    -0.000361,
+    0.826089,
+    0.098341
+   ],
+   "g": [
+    0.9871,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.03° of rotation. Depth measured gentle (0.59% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1884",
+  "date_start": 1884,
+  "date_end": 1884,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Levee, Cincinnati, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Cincinnati, Ohio",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Levee%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-Levee%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/62/Levee%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Levee,_Cincinnati,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1431,
+  "id": "STA-1916",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1915.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.25,
+  "rot": 0.01,
+  "range": 0.48,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.274,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Levee%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-Levee%2C_Cincinnati%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.274,
+   "L": [
+    0.332813,
+    0.0,
+    0.148698,
+    0.0,
+    0.27988,
+    0.446713
+   ],
+   "R": [
+    0.332879,
+    0.001095,
+    0.520876,
+    -0.002665,
+    0.281039,
+    0.437634
+   ],
+   "g": [
+    1.0,
+    0.9774
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.25% vertical error and 0.01° of rotation. Depth measured gentle (0.48% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]
