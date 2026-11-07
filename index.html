@@ -236,7 +236,7 @@ canvas#ana.show{display:block}
     <select id="sort" aria-label="Sort items"><option value="featured">Sort: Accession order</option><option value="old">Oldest first</option><option value="new">Newest first</option><option value="az">Title A–Z</option><option value="shuffle">Shuffle</option></select>
     <button class="btn" id="clearFilters" hidden>Clear search &amp; filters</button>
     <span class="viewtog"><button class="btn on" id="vShelves" aria-pressed="true">Shelves</button><button class="btn" id="vRegister" aria-pressed="false">Register</button><button class="btn" id="vTimeline" aria-pressed="false">Timeline</button></span>
-    <button class="btn" id="surprise">Request an item</button>
+    <button class="btn" id="surprise">Surprise me</button>
     <a class="btn gold" href="vr.html">Enter the VR Parlor</a>
     <button class="btn" id="howBtn">How to view</button>
   </div>
@@ -270,7 +270,7 @@ canvas#ana.show{display:block}
 
 <section class="about">
  <div class="acol"><h2>The Collection</h2><p>The Stereograph Archive gathers public domain stereoscopic photographs, the 3D postcards of the nineteenth century, from the great open collections: the Robert N. Dennis Collection at NYPL, the Library of Congress, the Met, the Getty, and the National Archives. Every item is catalogued with its provenance and license, and every record links back to its source.</p></div>
- <div class="acol"><h2>The Views</h2><p>Before cinema, the stereoscope was the window on the world: Niagara in flood, Yosemite before the hotels, a war photographed as it happened, the Moon itself in stereo. Browse by collection or series, work the register, or ask the desk to request an item for you.</p></div>
+ <div class="acol"><h2>The Views</h2><p>Before cinema, the stereoscope was the window on the world: Niagara in flood, Yosemite before the hotels, a war photographed as it happened, the Moon itself in stereo. Browse by collection or series, work the register, or let the desk surprise you with a random item.</p></div>
  <div class="acol"><h2>Measured for Comfort</h2><p>Old stereo pairs were never perfectly aligned, and misalignment strains the eyes. Every pair here is measured by our rectification process: the halves are registered to a fraction of a percent, and the depth is budgeted against a fixed standard. Views that cannot meet the standard are held back, not shipped.</p></div>
 </section>
 
@@ -521,9 +521,9 @@ function render(){
  $("#sort").disabled=state.view==="timeline";
  $("#count").textContent="Showing "+currentList.length+" of "+DATA.length+" items"+(ctx!=="All items"?" · "+ctx:"")+sortTxt;
  $("#clearFilters").hidden=!isFiltered();
- /* Round 6: "Request an item" on an empty result list silently did
-    nothing, a dead tap. It is disabled while there is nothing to
-    request from, and re-enabled as soon as results exist. */
+ /* Round 6: "Surprise me" on an empty result list silently did nothing,
+    a dead tap. It is disabled while there is nothing to pick from, and
+    re-enabled as soon as results exist. */
  $("#surprise").disabled=!currentList.length;
  const em=$("#empty");em.style.display=currentList.length?"none":"block";
  /* Round 5: the empty message tells the visitor to clear, so the clear
