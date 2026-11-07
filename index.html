@@ -634,7 +634,32 @@ addEventListener("hashchange",()=>{
 function syncFavBtn(){const d=cur();if(!d)return;const b=$("#vFav");const on=favs.has(d.id);b.textContent=on?"♥ Saved":"♡ Save";b.setAttribute("aria-pressed",on?"true":"false");b.setAttribute("aria-label",(on?"Remove ":"Save ")+d.title+(on?" from":" to")+" the reading list")}
 $("#vFav").onclick=()=>{toggleFav(cur().id);render()};
 function stopWig(){if(wigTimer){clearInterval(wigTimer);wigTimer=null}}
-const rectUrl=d=>d.rect||('rect/'+String(parseInt(d.id.slice(4),10)-1).padStart(2,'0')+'.jpg');
+/* Round 11: the rectified pair lives on two hosts and neither covers
+   the whole catalog — the Internet Archive hosts rect/00.jpg onward
+   (the Parlor's source, and the only copy of the first 1026 pairs),
+   while this site hosts rect/1026.jpg onward. The viewer tries the
+   Archive first, then this site, so every card's 3D modes load; if
+   both fail it says so instead of leaving a blank black frame. */
+const IA_RECT='https://archive.org/download/stereogram-archive-images/';
+function rectUrls(d){
+ const rel=d.rect||('rect/'+String(parseInt(d.id.slice(4),10)-1).padStart(2,'0')+'.jpg');
+ if(rel.startsWith('http'))return [rel];
+ return rel.startsWith('rect/')?[IA_RECT+rel,rel]:[rel];
+}
+/* Preload the rectified pair, trying each host in turn. A plain load
+   is enough here: the pair is painted as a background, or drawn by
+   buildAnaglyph's own CORS image, and a failed host must fall through
+   to the next instead of failing the mode. */
+function loadRect(d,ok,bad){
+ const urls=rectUrls(d);let i=0;
+ const tryNext=()=>{
+  if(i>=urls.length){bad();return;}
+  const img=new Image();img.src=urls[i++];
+  img.onload=()=>ok(img.src);
+  img.onerror=tryNext;
+ };
+ tryNext();
+}
 const MODE_HINTS={pair:"The original scanned pair, exactly as it was catalogued.",parallel:"The rectified pair side by side for relaxed parallel viewing.",cross:"The rectified pair swapped for cross-eyed viewing.",wiggle:"The rectified halves alternate, so the depth reads without an eye trick.",anaglyph:"The rectified pair combined for red and cyan glasses, red on the left."};
 function setMode(m){
  mode=m;stopWig();
@@ -647,15 +672,35 @@ function setMode(m){
  $("#ana").classList.remove("show");$("#vLoad").style.display="none";
  if(m!=="pair"&&!d){const l=$("#vLoad");l.textContent="Loading the full record…";l.style.display="block";return;}
  if(m==="parallel"||m==="cross"){
-   const L=m==="parallel"?"0% 0":"100% 0",R=m==="parallel"?"100% 0":"0% 0";
-   const el=$("#eyeL"),er=$("#eyeR");
-   el.style.backgroundImage=`url("${rectUrl(d)}")`;el.style.backgroundPosition=L;el.style.aspectRatio=(d.va||1)+"/1";
-   er.style.backgroundImage=`url("${rectUrl(d)}")`;er.style.backgroundPosition=R;er.style.aspectRatio=(d.va||1)+"/1";
+   const want=d.id,mm=m;
+   const l=$("#vLoad");l.textContent="Loading the rectified pair…";l.style.display="block";
+   loadRect(d,url=>{
+     if(mode!==mm||!cur()||cur().id!==want)return;
+     l.style.display="none";
+     const L=mm==="parallel"?"0% 0":"100% 0",R=mm==="parallel"?"100% 0":"0% 0";
+     const el=$("#eyeL"),er=$("#eyeR");
+     el.style.backgroundImage=`url("${url}")`;el.style.backgroundPosition=L;el.style.aspectRatio=(d.va||1)+"/1";
+     er.style.backgroundImage=`url("${url}")`;er.style.backgroundPosition=R;er.style.aspectRatio=(d.va||1)+"/1";
+   },()=>{
+     if(mode!==mm||!cur()||cur().id!==want)return;
+     l.textContent="The rectified pair could not be loaded for this card, try Original Pair instead.";
+   });
+   return;
  }
  if(m==="wiggle"){
-   const w=$("#wigEl");w.style.backgroundImage=`url("${rectUrl(d)}")`;w.style.aspectRatio=(d.va||1)+"/1";
-   const spd=()=>{stopWig();wigTimer=setInterval(()=>{wigSide=!wigSide;w.style.backgroundPosition=wigSide?"100% 0":"0% 0"},+$("#wigSpeed").value)};
-   $("#wigSpeed").oninput=spd;w.style.backgroundPosition="0% 0";spd();
+   const want=d.id;
+   const l=$("#vLoad");l.textContent="Loading the rectified pair…";l.style.display="block";
+   loadRect(d,url=>{
+     if(mode!=="wiggle"||!cur()||cur().id!==want)return;
+     l.style.display="none";
+     const w=$("#wigEl");w.style.backgroundImage=`url("${url}")`;w.style.aspectRatio=(d.va||1)+"/1";
+     const spd=()=>{stopWig();wigTimer=setInterval(()=>{wigSide=!wigSide;w.style.backgroundPosition=wigSide?"100% 0":"0% 0"},+$("#wigSpeed").value)};
+     $("#wigSpeed").oninput=spd;w.style.backgroundPosition="0% 0";spd();
+   },()=>{
+     if(mode!=="wiggle"||!cur()||cur().id!==want)return;
+     l.textContent="The rectified pair could not be loaded for this card, try Original Pair instead.";
+   });
+   return;
  }
  if(m==="anaglyph")buildAnaglyph(d);
 }
@@ -663,7 +708,8 @@ function buildAnaglyph(d){
  const load=$("#vLoad");load.textContent="Building the 3D view…";load.style.display="block";
  const want=d.id;
  const stale=()=>mode!=="anaglyph"||!cur()||cur().id!==want;
- const img=new Image();img.crossOrigin="anonymous";img.src=rectUrl(d);
+ loadRect(d,url=>{
+ const img=new Image();img.crossOrigin="anonymous";img.src=url;
  img.onload=()=>{
   if(stale())return;
   try{
@@ -682,6 +728,7 @@ function buildAnaglyph(d){
   }catch(e){load.textContent="Anaglyph blocked for this image, try Wiggle instead."}
  };
  img.onerror=()=>{if(stale())return;load.textContent="Could not load this image for anaglyph, try Wiggle instead."};
+ },()=>{if(stale())return;load.textContent="Could not load this image for anaglyph, try Wiggle instead.";});
 }
 document.querySelectorAll(".mode[data-m]").forEach(b=>b.onclick=()=>setMode(b.dataset.m));
 function applyStep(n){const L=currentList.length;if(!L)return;vi=((vi+n)%L+L)%L;showCurrent(true)}
