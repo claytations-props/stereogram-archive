@@ -1,0 +1,69 @@
+{
+ "title": "City Hall, Springfield, Mass",
+ "place": "Springfield, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/City_Hall%2C_Springfield%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-City_Hall%2C_Springfield%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/aa/City_Hall%2C_Springfield%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:City_Hall,_Springfield,_Mass,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1439,
+ "id": "STA-1924",
+ "rect": "rect/1923.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.16,
+ "rot": 0.0,
+ "range": 0.81,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.1932,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/City_Hall%2C_Springfield%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-City_Hall%2C_Springfield%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.1932,
+  "L": [
+   0.385937,
+   0.0,
+   0.078906,
+   0.0,
+   0.615461,
+   0.064916
+  ],
+  "R": [
+   0.384071,
+   -0.003,
+   0.511901,
+   0.009426,
+   0.615192,
+   0.047185
+  ],
+  "g": [
+   0.993,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.0° of rotation. Depth measured gentle (0.81% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7447575,
+ "source_revision_id": null,
+ "source_sha1": "ed7db0eb5886bab56a63a2fec0ce203c2ac3a49d"
+}
