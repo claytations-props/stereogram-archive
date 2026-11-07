@@ -1,0 +1,71 @@
+{
+ "title": "Camp life at Lake George",
+ "place": "Lake George, New York",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "water",
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Camp_life_at_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Camp_life_at_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/38/Camp_life_at_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Camp_life_at_Lake_George,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2598,
+ "h": 1302,
+ "id": "STA-1891",
+ "rect": "rect/1890.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.14,
+ "rot": 0.02,
+ "range": 3.12,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.7606,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Camp_life_at_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Camp_life_at_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7606,
+  "L": [
+   0.3375,
+   0.0,
+   0.083073,
+   0.0,
+   0.885655,
+   0.025468
+  ],
+  "R": [
+   0.338262,
+   -0.003107,
+   0.571812,
+   0.005328,
+   0.887693,
+   0.021094
+  ],
+  "g": [
+   0.8638,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.02° of rotation. Depth measured deep (3.12% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10065826,
+ "source_revision_id": null,
+ "source_sha1": "1c5bffa6a86cd5f71e4e8d411fd0c5dff7bd118d"
+}

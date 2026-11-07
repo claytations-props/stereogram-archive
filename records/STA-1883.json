@@ -1,0 +1,69 @@
+{
+ "title": "View at Bolton, Lake George",
+ "place": "Lake George, New York",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/View_at_Bolton%2C_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_at_Bolton%2C_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/f2/View_at_Bolton%2C_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_at_Bolton,_Lake_George,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2601,
+ "h": 1320,
+ "id": "STA-1883",
+ "rect": "rect/1882.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.33,
+ "rot": 0.0,
+ "range": 0.27,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 3.5918,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/View_at_Bolton%2C_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_at_Bolton%2C_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 3.5918,
+  "L": [
+   0.366667,
+   0.0,
+   0.098698,
+   0.0,
+   0.201232,
+   0.37115
+  ],
+  "R": [
+   0.365413,
+   0.001972,
+   0.542966,
+   -0.012763,
+   0.200033,
+   0.403549
+  ],
+  "g": [
+   1.0,
+   0.9592
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.33% vertical error and 0.0° of rotation. Depth measured gentle (0.27% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10065811,
+ "source_revision_id": null,
+ "source_sha1": "99ed5a01aa36f95c0271ff93b5fc8a5b0ebd5a01"
+}

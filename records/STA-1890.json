@@ -1,0 +1,69 @@
+{
+ "title": "Fish Bay, Lake George",
+ "place": "Lake George, New York",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Fish_Bay%2C_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Fish_Bay%2C_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/56/Fish_Bay%2C_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Fish_Bay,_Lake_George,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2607,
+ "h": 1329,
+ "id": "STA-1890",
+ "rect": "rect/1889.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.17,
+ "rot": 0.06,
+ "range": 1.66,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.7644,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Fish_Bay%2C_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Fish_Bay%2C_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7644,
+  "L": [
+   0.332813,
+   0.0,
+   0.134635,
+   0.0,
+   0.853933,
+   0.02809
+  ],
+  "R": [
+   0.333137,
+   0.013842,
+   0.540155,
+   0.006205,
+   0.851223,
+   0.041397
+  ],
+  "g": [
+   1.0,
+   0.9699
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.06° of rotation. Depth measured moderate (1.66% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10065338,
+ "source_revision_id": null,
+ "source_sha1": "fdaf013d8e316b8b071ab686559bbc99e4013bdf"
+}
