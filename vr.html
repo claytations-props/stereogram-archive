@@ -1244,6 +1244,12 @@ function applyVis(){
   // showing: under the caption in the reading state, under the wall
   // in the browse state. The record toggle has no work in browse.
   rowGroup.position.y=browsing?0.68:0.14;
+  /* Round 11: on the flat page the in-room row sits in the same bottom
+     strip as the DOM control bar and the two overlap, half-legible.
+     The DOM bar carries every control the flat visitor needs, so the
+     in-room row shows only inside a VR session, where it is the only
+     control row there is. */
+  rowGroup.visible=!browsing&&renderer.xr.isPresenting;
   recordBtn3d.visible=!browsing;
   recordGroup.visible=!browsing&&recordOn;
   const presenting=renderer.xr.isPresenting;
