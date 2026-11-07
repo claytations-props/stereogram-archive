@@ -35,6 +35,9 @@ h1{font-family:"Playfair Display",Georgia,serif;font-size:20px;font-weight:700;m
 .setpick{display:flex;align-items:center;gap:7px;color:var(--dim);font-size:11px;font-weight:700;letter-spacing:.09em;text-transform:uppercase}
 .setpick select{background:var(--panel2);border:1px solid var(--line);color:var(--text);border-radius:3px;padding:9px 10px;font-size:12px;max-width:270px;outline:none}
 .setpick select:focus{border-color:var(--brass)}
+.setpick input[type=search]{background:var(--panel2);border:1px solid var(--line);color:var(--text);border-radius:3px;padding:9px 10px;font-size:12px;max-width:190px;outline:none;text-transform:none;letter-spacing:0;font-weight:400}
+.setpick input[type=search]:focus{border-color:var(--brass)}
+button[hidden]{display:none}
 button{background:var(--panel2);border:1px solid var(--line);color:var(--text);border-radius:3px;padding:9px 13px;font-size:11.5px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;cursor:pointer}
 button:hover{border-color:var(--brass);color:var(--brass2)}
 button:disabled{opacity:.45;cursor:default}
@@ -81,6 +84,9 @@ a{color:var(--brass)}
     <div class="cardinfo"><div class="setcrumb" id="setCrumb"></div><h2 id="ciTitle"></h2><div id="ciMeta"></div><div><a id="backLink" href="index.html">← Back to the flat gallery</a></div></div>
     <div class="controls">
       <label class="setpick">Set <select id="setSelect" aria-label="Choose a set"></select></label>
+      <label class="setpick">Find <input type="search" id="parlorSearch" aria-label="Search the parlor by title, place or year" placeholder="Title, place, year…"></label>
+      <button id="parlorSearchBtn">Find</button>
+      <button id="parlorSearchClear" hidden aria-label="Clear the search" title="Clear the search">✕</button>
       <button id="prev10Btn" aria-label="Jump back">«</button>
       <button id="prevBtn">‹ Prev</button>
       <button id="randBtn">Random</button>
@@ -701,6 +707,7 @@ function setPanelEntries(){
   const entries=[];
   const all=SETS.find(s=>s.key==='all');if(all)entries.push({type:'head',label:'Start'},{type:'set',set:all});
   const fav=SETS.find(s=>s.key==='favs');if(fav)entries.push({type:'set',set:fav});
+  const srch=SETS.find(s=>s.key.startsWith('search:'));if(srch)entries.push({type:'set',set:srch});
   const colls=SETS.filter(s=>s.key.startsWith('coll:'));
   if(colls.length){entries.push({type:'head',label:'Collections'});colls.forEach(set=>entries.push({type:'set',set}));}
   const series=SETS.filter(s=>s.key.startsWith('series:'));
@@ -935,9 +942,58 @@ function toggleSaveCurrent(){
   refreshSetsAfterFav();
   syncSaveUI();
 }
+/* Round 11: the Parlor had no way to find a card by name — the only
+   routes were paging a set or leaving for the gallery. The flat search
+   builds a transient Search set from the catalog already loaded here
+   (title, place, year, STA id, collection, series), so the first match
+   opens and Prev/Next step through the matches like any other set.
+   The set is listed in the flat selector and the finding-aid cabinet
+   with its count, and clearing it returns to All cards on the same
+   card. It is not persisted: a reload falls back to All cards. */
+let searchSet=null;
+function rebuildSets(){
+  SETS=deriveSets(DATA,readFavs());
+  if(searchSet)SETS.splice(1,0,searchSet);
+}
+function parlorHay(d){return (d.t+' '+d.p+' '+d.y+' '+d.id+' '+d.coll+' '+(d.cn||'')+' '+d.cats.map(k=>CATLABEL[k]||k).join(' ')).toLowerCase();}
+function runParlorSearch(q){
+  q=(q||'').trim().toLowerCase();
+  if(!q){clearParlorSearch();return;}
+  const idx=DATA.map((d,i)=>i).filter(i=>parlorHay(DATA[i]).includes(q));
+  if(!idx.length){
+    statusEl.textContent='No cards match "'+q+'". Try another word, or browse a set.';
+    return;
+  }
+  searchSet={key:'search:'+q,label:'Search: "'+q+'"',indices:idx};
+  rebuildSets();
+  buildSetOptions();
+  curSet=searchSet;curPos=0;wallPage=0;
+  setPanelPage=panelPageForSet(searchSet.key);
+  drawSetPanel();renderWall();
+  showPos(0);
+  document.getElementById('parlorSearchClear').hidden=false;
+  updateStatus();
+}
+function clearParlorSearch(){
+  if(!searchSet)return;
+  const wasCurrent=curSet&&curSet.key===searchSet.key;
+  searchSet=null;
+  rebuildSets();
+  buildSetOptions();drawSetPanel();
+  const input=document.getElementById('parlorSearch');if(input)input.value='';
+  document.getElementById('parlorSearchClear').hidden=true;
+  if(wasCurrent){
+    curSet=SETS[0];
+    const p=cur>=0?SETS[0].indices.indexOf(cur):-1;
+    curPos=p>=0?p:0;
+    wallPage=Math.floor(curPos/PAGE);
+    renderWall();
+    showPos(curPos);
+  }
+}
 function refreshSetsAfterFav(){
   const wasFavs=curSet&&curSet.key==='favs';
-  SETS=deriveSets(DATA,readFavs());
+  rebuildSets();
   const favsSet=SETS.find(s=>s.key==='favs');
   let wallChanged=false;
   if(wasFavs){
@@ -1162,7 +1218,15 @@ document.getElementById('browseBtn').onclick=()=>setState(uiState==='browse'?'re
 document.getElementById('setSelect').addEventListener('change',e=>selectSet(e.target.value));
 document.getElementById('recBtn').onclick=()=>toggleRecord();
 document.getElementById('saveBtn').onclick=()=>toggleSaveCurrent();
+/* Round 11: the flat search box. Enter in the box runs the search;
+   Find does the same for a tap. */
+document.getElementById('parlorSearchBtn').onclick=()=>runParlorSearch(document.getElementById('parlorSearch').value);
+document.getElementById('parlorSearch').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();runParlorSearch(e.target.value);}});
+document.getElementById('parlorSearchClear').onclick=()=>clearParlorSearch();
 addEventListener('keydown',e=>{
+  /* Round 11: typing in the search box must not step cards or page the
+     wall — the gallery's viewer guard does the same for its inputs. */
+  if(e.target.closest&&e.target.closest("input,select,textarea"))return;
   if(uiState==='browse'){if(e.key==='ArrowRight')wallGo(1);if(e.key==='ArrowLeft')wallGo(-1);if(e.key==='Escape')setState('reading');}
   else{if(e.key==='ArrowRight')next();if(e.key==='ArrowLeft')prev();}
 });
@@ -1319,11 +1383,11 @@ const ctrls=[];
 
 // flat-screen look around: drag to orbit camera slightly
 let yaw=0,pitch=0,drag=false,lx=0,ly=0;
-addEventListener('pointerdown',e=>{if(e.target.closest('button,a,.top,.cardinfo'))return;drag=true;lx=e.clientX;ly=e.clientY});
+addEventListener('pointerdown',e=>{if(e.target.closest('button,a,input,select,textarea,.top,.cardinfo'))return;drag=true;lx=e.clientX;ly=e.clientY});
 addEventListener('pointermove',e=>{if(!drag)return;yaw-=(e.clientX-lx)*0.0022;pitch-=(e.clientY-ly)*0.0016;pitch=Math.max(-0.5,Math.min(0.5,pitch));lx=e.clientX;ly=e.clientY});
 addEventListener('pointerup',()=>drag=false);
 addEventListener('click',e=>{ /* flat click: pick wall tiles and room buttons */
-  if(renderer.xr.isPresenting||e.target.closest('button,a,.top,.cardinfo'))return;
+  if(renderer.xr.isPresenting||e.target.closest('button,a,input,select,textarea,.top,.cardinfo'))return;
   if(Math.hypot(e.clientX-lx,e.clientY-ly)>6)return; // it was a drag, not a click
   ray.setFromCamera(new THREE.Vector2((e.clientX/innerWidth)*2-1,-(e.clientY/innerHeight)*2+1),camera);
   const hits=ray.intersectObjects(currentHits(),false).filter(h=>isShown(h.object));
