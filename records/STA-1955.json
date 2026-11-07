@@ -1,0 +1,69 @@
+{
+ "title": "The astronomical observatory, Cambridge, Mass",
+ "place": "Cambridge, Massachusetts",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/The_astronomical_observatory%2C_Cambridge%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_astronomical_observatory%2C_Cambridge%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/00/The_astronomical_observatory%2C_Cambridge%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_astronomical_observatory,_Cambridge,_Mass,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1435,
+ "id": "STA-1955",
+ "rect": "rect/1954.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.02,
+ "range": 5.03,
+ "f": 0.52,
+ "depth": "Deep",
+ "va": 1.2296,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/The_astronomical_observatory%2C_Cambridge%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_astronomical_observatory%2C_Cambridge%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.2296,
+  "L": [
+   0.306771,
+   0.0,
+   0.147656,
+   0.0,
+   0.47567,
+   0.393744
+  ],
+  "R": [
+   0.302193,
+   -0.00383,
+   0.509197,
+   0.00377,
+   0.476496,
+   0.395628
+  ],
+  "g": [
+   1.0,
+   0.9703
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured deep (5.03% of frame width); hung in the VR Parlor at 52% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7441222,
+ "source_revision_id": null,
+ "source_sha1": "9e02b4cc4c1a1deb0133ac663e98a086b289b21c"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Washington's headquarters, in Cambridge, from Robert N. Dennis collection of stereoscopic views 2",
+ "place": "Cambridge, Massachusetts",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/4/46/Washington%27s_headquarters%2C_in_Cambridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/46/Washington%27s_headquarters%2C_in_Cambridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Washington%27s_headquarters,_in_Cambridge,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 398,
+ "id": "STA-1949",
+ "rect": "rect/1948.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.21,
+ "rot": 0.02,
+ "range": 3.91,
+ "f": 0.77,
+ "depth": "Deep",
+ "va": 1.0547,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/4/46/Washington%27s_headquarters%2C_in_Cambridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.0547,
+  "L": [
+   0.380263,
+   0.0,
+   0.088816,
+   0.0,
+   0.688442,
+   0.23995
+  ],
+  "R": [
+   0.380065,
+   -0.013163,
+   0.516527,
+   -0.006472,
+   0.683081,
+   0.252016
+  ],
+  "g": [
+   0.9698,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.02° of rotation. Depth measured deep (3.91% of frame width); hung in the VR Parlor at 77% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7441313,
+ "source_revision_id": null,
+ "source_sha1": "ca5b4c4f5d59fb8f9e0ee95d7bf04cc5741761bc"
+}
