@@ -152987,7 +152987,11 @@
   "license_url": null,
   "source_page_id": 10091969,
   "source_revision_id": null,
-  "source_sha1": "64565b86c0d72de506bbe112c783c4b071194c02"
+  "source_sha1": "64565b86c0d72de506bbe112c783c4b071194c02",
+  "tags": [
+   "family",
+   "house"
+  ]
  },
  {
   "title": "Easter 1880. Burlington, Vt",
@@ -153056,7 +153060,11 @@
   "license_url": null,
   "source_page_id": 10092115,
   "source_revision_id": null,
-  "source_sha1": "d57f14c2afc51297696d5f69495868359df3c54d"
+  "source_sha1": "d57f14c2afc51297696d5f69495868359df3c54d",
+  "tags": [
+   "church interior",
+   "flowers"
+  ]
  },
  {
   "title": "Burlington, Vt. (general view), by Kilburn Brothers",
@@ -153125,7 +153133,11 @@
   "license_url": null,
   "source_page_id": 10092072,
   "source_revision_id": null,
-  "source_sha1": "27f7c640ff16b75c6f9ecf0e052fedfecdb2216e"
+  "source_sha1": "27f7c640ff16b75c6f9ecf0e052fedfecdb2216e",
+  "tags": [
+   "house",
+   "trees"
+  ]
  },
  {
   "title": "Burlington, Vt. (general view), by Kilburn Brothers 2",
@@ -153194,7 +153206,11 @@
   "license_url": null,
   "source_page_id": 10092079,
   "source_revision_id": null,
-  "source_sha1": "e4e1b6f6e44a19171cb002484c9ebf18885f5095"
+  "source_sha1": "e4e1b6f6e44a19171cb002484c9ebf18885f5095",
+  "tags": [
+   "house",
+   "trees"
+  ]
  },
  {
   "title": "Bird's-eye view (of) Alburgh hotel",
@@ -153263,7 +153279,12 @@
   "license_url": null,
   "source_page_id": 10092034,
   "source_revision_id": null,
-  "source_sha1": "a9739d801808970269beb036332c4c64f0505b4b"
+  "source_sha1": "a9739d801808970269beb036332c4c64f0505b4b",
+  "tags": [
+   "house",
+   "trees",
+   "meadow"
+  ]
  },
  {
   "title": "High Bridge, Burlington, Vt, by G. B. Davis",
@@ -153332,7 +153353,13 @@
   "license_url": null,
   "source_page_id": 10092000,
   "source_revision_id": null,
-  "source_sha1": "bd4a6579dfd0ddfa505a083dc297a3e60fa5ea95"
+  "source_sha1": "bd4a6579dfd0ddfa505a083dc297a3e60fa5ea95",
+  "tags": [
+   "covered bridge",
+   "river",
+   "gorge",
+   "trees"
+  ]
  },
  {
   "title": "Ethan Allen monument, Burlington, Vt, by M. J. Bixby",
@@ -153401,7 +153428,11 @@
   "license_url": null,
   "source_page_id": 10091986,
   "source_revision_id": null,
-  "source_sha1": "7dcd25c5f5e3f02ebafe1ef71d82f1ce6cd2d55b"
+  "source_sha1": "7dcd25c5f5e3f02ebafe1ef71d82f1ce6cd2d55b",
+  "tags": [
+   "memorial",
+   "trees"
+  ]
  },
  {
   "title": "Ethan Allen monument, Burlington, Vt, by M. J. Bixby 2",
@@ -153470,6 +153501,10 @@
   "license_url": null,
   "source_page_id": 10091991,
   "source_revision_id": null,
-  "source_sha1": "fa11b6c44bb0e2e8bad8b6f7bb80699ee98b88b5"
+  "source_sha1": "fa11b6c44bb0e2e8bad8b6f7bb80699ee98b88b5",
+  "tags": [
+   "memorial",
+   "trees"
+  ]
  }
 ]
