@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1993.json",
+ "name": "Men in boats, Poughkeepsie, N.Y, by Slee Bros.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1992.jpg",
+ "identifier": "STA-1993",
+ "creator": {
+  "@type": "Person",
+  "name": "Slee Bros."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Poughkeepsie, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Men_in_boats,_Poughkeepsie,_N.Y,_by_Slee_Bros..jpg"
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2003.json",
+ "name": "View of a store, Troy, N.Y, by James G. Lock",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2002.jpg",
+ "identifier": "STA-2003",
+ "creator": {
+  "@type": "Person",
+  "name": "James G. Lock"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Troy, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_store,_Troy,_N.Y,_by_James_G._Lock.jpg"
+}

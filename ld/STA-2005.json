@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2005.json",
+ "name": "Trojan hooks. (Showing a fire ladder in front of Curley's hotel and restaurant.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2004.jpg",
+ "identifier": "STA-2005",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Troy, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Trojan_hooks._(Showing_a_fire_ladder_in_front_of_Curley%27s_hotel_and_restaurant.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

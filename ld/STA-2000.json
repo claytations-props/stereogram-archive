@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2000.json",
+ "name": "View of Troy, including view of steamboats and bridge, by J. M. Capper",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1999.jpg",
+ "identifier": "STA-2000",
+ "creator": {
+  "@type": "Person",
+  "name": "J. M. Capper"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Troy, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_Troy,_including_view_of_steamboats_and_bridge,_by_J._M._Capper.jpg"
+}

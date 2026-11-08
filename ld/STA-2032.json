@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2032.json",
+ "name": "Onondaga Creek from Fayette St., South Syracuse, N.Y, by L.D. & Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2031.jpg",
+ "identifier": "STA-2032",
+ "creator": {
+  "@type": "Person",
+  "name": "L.D. & Co."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Syracuse, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Onondaga_Creek_from_Fayette_St.,_South_Syracuse,_N.Y,_by_L.D._%26_Co..png"
+}

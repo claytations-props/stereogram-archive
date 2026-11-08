@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-2024.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Solar Method of Evaporating Salt Brine -- Collecting, Draining, Hauling Sault, Syracuse, N.Y, by Keystone View Company"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Publisher"
+    ]
+   },
+   "value": {
+    "none": [
+     "Keystone View Company"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Keystone View Company"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1895"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Syracuse, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-2024.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-2024/canvas/1",
+   "type": "Canvas",
+   "width": 1488,
+   "height": 599,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-2024/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-2024/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/2023.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1488,
+        "height": 599,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Solar_Method_of_Evaporating_Salt_Brine_--_Collecting%2C_Draining%2C_Hauling_Sault%2C_Syracuse%2C_N.Y%2C_by_Keystone_View_Company.jpg/1920px-Solar_Method_of_Evaporating_Salt_Brine_--_Collecting%2C_Draining%2C_Hauling_Sault%2C_Syracuse%2C_N.Y%2C_by_Keystone_View_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-2024/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

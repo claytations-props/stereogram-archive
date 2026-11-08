@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2029.json",
+ "name": "Weigh Lock, Junction Oswego and Erie Canal, Syracuse, N.Y, by L.D. & Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2028.jpg",
+ "identifier": "STA-2029",
+ "creator": {
+  "@type": "Person",
+  "name": "L.D. & Co."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Syracuse, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Weigh_Lock,_Junction_Oswego_and_Erie_Canal,_Syracuse,_N.Y,_by_L.D._%26_Co..jpg"
+}

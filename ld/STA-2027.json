@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2027.json",
+ "name": "Shakespeare Hall & Post Office, Syracuse, N.Y, by L.D. & Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2026.jpg",
+ "identifier": "STA-2027",
+ "creator": {
+  "@type": "Person",
+  "name": "L.D. & Co."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Syracuse, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Shakespeare_Hall_%26_Post_Office,_Syracuse,_N.Y,_by_L.D._%26_Co..jpg"
+}

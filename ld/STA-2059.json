@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2059.json",
+ "name": "Observatory. (Elmira Female College?), by Tomlinson, C., fl. 1874-1890",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2058.jpg",
+ "identifier": "STA-2059",
+ "creator": {
+  "@type": "Person",
+  "name": "Tomlinson, C., fl. 1874-1890"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Elmira, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Observatory._(Elmira_Female_College%3F),_by_Tomlinson,_C.,_fl._1874-1890.jpg"
+}

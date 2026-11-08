@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2031.json",
+ "name": "South Salina Street Syracuse, N.Y. Deep snow in February 1867, by Collins, E. M. (Edwin M.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2030.jpg",
+ "identifier": "STA-2031",
+ "creator": {
+  "@type": "Person",
+  "name": "Collins, E. M. (Edwin M.)"
+ },
+ "dateCreated": "1867",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Syracuse, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:South_Salina_Street_Syracuse,_N.Y._Deep_snow_in_February_1867,_by_Collins,_E._M._(Edwin_M.).jpg"
+}

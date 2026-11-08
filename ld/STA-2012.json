@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2012.json",
+ "name": "General view (Clinton Square), Syracuse, New York",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2011.jpg",
+ "identifier": "STA-2012",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Syracuse, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:General_view_(Clinton_Square),_Syracuse,_New_York,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-2029.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Weigh Lock, Junction Oswego and Erie Canal, Syracuse, N.Y, by L.D. & Co."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "L.D. & Co."
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1885"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Syracuse, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-2029.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-2029/canvas/1",
+   "type": "Canvas",
+   "width": 1558,
+   "height": 823,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-2029/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-2029/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/2028.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1558,
+        "height": 823,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Weigh_Lock%2C_Junction_Oswego_and_Erie_Canal%2C_Syracuse%2C_N.Y%2C_by_L.D._%26_Co..jpg/1920px-Weigh_Lock%2C_Junction_Oswego_and_Erie_Canal%2C_Syracuse%2C_N.Y%2C_by_L.D._%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-2029/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

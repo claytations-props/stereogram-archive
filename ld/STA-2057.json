@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2057.json",
+ "name": "Elmira Water Cure, by Tomlinson, C., fl. 1874-1890",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2056.jpg",
+ "identifier": "STA-2057",
+ "creator": {
+  "@type": "Person",
+  "name": "Tomlinson, C., fl. 1874-1890"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Elmira, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Elmira_Water_Cure,_by_Tomlinson,_C.,_fl._1874-1890.jpg"
+}

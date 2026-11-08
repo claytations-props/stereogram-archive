@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2007.json",
+ "name": "View of a man at a crossroads, by Irving, James E., 1818-1901",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2006.jpg",
+ "identifier": "STA-2007",
+ "creator": {
+  "@type": "Person",
+  "name": "Irving, James E."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Troy, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_man_at_a_crossroads,_by_Irving,_James_E.,_1818-1901.jpg"
+}

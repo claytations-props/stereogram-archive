@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2050.json",
+ "name": "Porch, Washington Headquarters, Newburgh",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2049.jpg",
+ "identifier": "STA-2050",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Newburgh, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Porch,_Washington_Headquarters,_Newburgh,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

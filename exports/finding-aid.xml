@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>1976</quantity>
+    <quantity>2080</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -2722,6 +2722,102 @@
       <unittitle>View of Springfield of the pistol factory</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1917.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1982">
+     <did>
+      <unitid>STA-1982</unitid>
+      <unittitle>R.R. Bridge, Poughkeepsie, N.Y. - Hudson River</unittitle>
+      <unitdate normal="1885/1895">c. 1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1981.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1983">
+     <did>
+      <unitid>STA-1983</unitid>
+      <unittitle>Main Street Dock, looking up the river Poughkeepsie</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1982.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1985">
+     <did>
+      <unitid>STA-1985</unitid>
+      <unittitle>Eastman Park and River View, Poughkeepsie, by Slee Bros.</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1984.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2001">
+     <did>
+      <unitid>STA-2001</unitid>
+      <unittitle>View of cascades</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2000.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2004">
+     <did>
+      <unitid>STA-2004</unitid>
+      <unittitle>Steamboat "W. M. Whitney"</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2003.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2029">
+     <did>
+      <unitid>STA-2029</unitid>
+      <unittitle>Weigh Lock, Junction Oswego and Erie Canal, Syracuse, N.Y, by L.D. &amp; Co.</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2028.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2032">
+     <did>
+      <unitid>STA-2032</unitid>
+      <unittitle>Onondaga Creek from Fayette St., South Syracuse, N.Y, by L.D. &amp; Co.</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2031.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2034">
+     <did>
+      <unitid>STA-2034</unitid>
+      <unittitle>View on the Hudson, from Newburgh, N.Y</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2033.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2066">
+     <did>
+      <unitid>STA-2066</unitid>
+      <unittitle>Pond, Eldridge Park, Elmira, N.Y, by J. H. Whitley</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2065.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2069">
+     <did>
+      <unitid>STA-2069</unitid>
+      <unittitle>View on the Chemung, looking up the River, at Elmira, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2068.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2071">
+     <did>
+      <unitid>STA-2071</unitid>
+      <unittitle>View on the Chemung, looking up the River, at Elmira (NYPL b11708205-G91F078 001F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2070.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2078">
+     <did>
+      <unitid>STA-2078</unitid>
+      <unittitle>High Bridge, Burlington, Vt, by G. B. Davis</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2077.jpg"/>
      </did>
     </c>
    </c>
@@ -11142,6 +11238,670 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1975.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-1977">
+     <did>
+      <unitid>STA-1977</unitid>
+      <unittitle>View of a two-story house, Poughkeepsie</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1976.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1978">
+     <did>
+      <unitid>STA-1978</unitid>
+      <unittitle>Main St., Poughkeepsie</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1977.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1979">
+     <did>
+      <unitid>STA-1979</unitid>
+      <unittitle>Water Works, Poughkeepsie</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1978.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1980">
+     <did>
+      <unitid>STA-1980</unitid>
+      <unittitle>Vassar College, Poughkeepsie, N.Y</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1979.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1981">
+     <did>
+      <unitid>STA-1981</unitid>
+      <unittitle>Vassar College grounds, Poughkeepsie, N.Y</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1980.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1984">
+     <did>
+      <unitid>STA-1984</unitid>
+      <unittitle>Birds-eye view of Poughkeepsie, by Slee Bros.</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1983.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1986">
+     <did>
+      <unitid>STA-1986</unitid>
+      <unittitle>View of a cemetery. Poughkeepsie, N.Y, by Slee Bros.</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1985.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1987">
+     <did>
+      <unitid>STA-1987</unitid>
+      <unittitle>Vassar College grounds, Poughkeepsie, N.Y, by Littleton View Co.</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1986.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1988">
+     <did>
+      <unitid>STA-1988</unitid>
+      <unittitle>Vassar College Museum, Poughkeepsie, N.Y, by Littleton View Co.</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1987.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1989">
+     <did>
+      <unitid>STA-1989</unitid>
+      <unittitle>Vassar College Observatory, Poughkeepsie, N.Y, by Littleton View Co.</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1988.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1990">
+     <did>
+      <unitid>STA-1990</unitid>
+      <unittitle>Vassar College grounds, Poughkeepsie, N.Y, by Littleton View Co. 2</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1989.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1991">
+     <did>
+      <unitid>STA-1991</unitid>
+      <unittitle>Vassar College grounds, Poughkeepsie, N.Y, by Littleton View Co. 3</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1990.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1992">
+     <did>
+      <unitid>STA-1992</unitid>
+      <unittitle>College Hill, Poughkeepsie, N.Y, by Slee Bros.</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1991.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1994">
+     <did>
+      <unitid>STA-1994</unitid>
+      <unittitle>Poughkeepsie, from College Hill, by Slee Bros.</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1993.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1995">
+     <did>
+      <unitid>STA-1995</unitid>
+      <unittitle>Poughkeepsie, N.Y., from College Hill, by Slee Bros.</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1994.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1996">
+     <did>
+      <unitid>STA-1996</unitid>
+      <unittitle>View of a cemetery. Poughkeepsie, N.Y (NYPL b13395597-G91F133 039ZF)</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1995.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1997">
+     <did>
+      <unitid>STA-1997</unitid>
+      <unittitle>Corner of North Second and Federal Streets, Troy, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1996.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1999">
+     <did>
+      <unitid>STA-1999</unitid>
+      <unittitle>Store of Edw'd Carter, no.179 River St., Troy, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1998.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2000">
+     <did>
+      <unitid>STA-2000</unitid>
+      <unittitle>View of Troy, including view of steamboats and bridge, by J. M. Capper</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1999.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2002">
+     <did>
+      <unitid>STA-2002</unitid>
+      <unittitle>View of fire engines and ladders</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2001.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2003">
+     <did>
+      <unitid>STA-2003</unitid>
+      <unittitle>View of a store, Troy, N.Y, by James G. Lock</unittitle>
+      <unitdate normal="1891/1896">1891–1896</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2002.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2005">
+     <did>
+      <unitid>STA-2005</unitid>
+      <unittitle>Trojan hooks. (Showing a fire ladder in front of Curley's hotel and restaurant.)</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2004.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2006">
+     <did>
+      <unitid>STA-2006</unitid>
+      <unittitle>View of a store, Troy, N.Y (NYPL b11708208-G91F083 070F)</unittitle>
+      <unitdate normal="1891">1891</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2005.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2008">
+     <did>
+      <unitid>STA-2008</unitid>
+      <unittitle>North Second Street M. E. Church, by W. J. Woods</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2007.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2009">
+     <did>
+      <unitid>STA-2009</unitid>
+      <unittitle>St. Paul's Church, by W. J. Woods</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2008.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2010">
+     <did>
+      <unitid>STA-2010</unitid>
+      <unittitle>Church, by Leo Daft</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2009.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2011">
+     <did>
+      <unitid>STA-2011</unitid>
+      <unittitle>View in Fayette Park, Syracuse</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2010.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2012">
+     <did>
+      <unitid>STA-2012</unitid>
+      <unittitle>General view (Clinton Square), Syracuse, New York</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2011.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2013">
+     <did>
+      <unitid>STA-2013</unitid>
+      <unittitle>View of a residence, Syracuse, New York</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2012.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2014">
+     <did>
+      <unitid>STA-2014</unitid>
+      <unittitle>Grand View, City and Canal, Syracuse, N.Y</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2013.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2015">
+     <did>
+      <unitid>STA-2015</unitid>
+      <unittitle>Yate's Castle -- Green House, Syracuse, N.Y</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2014.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2016">
+     <did>
+      <unitid>STA-2016</unitid>
+      <unittitle>West Genesee St., Syracuse, N.Y</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2015.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2017">
+     <did>
+      <unitid>STA-2017</unitid>
+      <unittitle>West Genesee St., Syracuse, N.Y, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2016.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2018">
+     <did>
+      <unitid>STA-2018</unitid>
+      <unittitle>Vanderbuilt Square, Syracuse, N.Y</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2017.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2021">
+     <did>
+      <unitid>STA-2021</unitid>
+      <unittitle>Fayette Park -- Fountain looking W. Syracuse, N.Y</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2020.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2025">
+     <did>
+      <unitid>STA-2025</unitid>
+      <unittitle>Train station, Syracuse, New York, by Judd, M. E. (Myron E.)</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2024.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2026">
+     <did>
+      <unitid>STA-2026</unitid>
+      <unittitle>Clinton Square</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2025.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2027">
+     <did>
+      <unitid>STA-2027</unitid>
+      <unittitle>Shakespeare Hall &amp; Post Office, Syracuse, N.Y, by L.D. &amp; Co.</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2026.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2028">
+     <did>
+      <unitid>STA-2028</unitid>
+      <unittitle>New Fayette St., from Franklin, Syracuse, N.Y, by D. J. Maxson</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2027.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2030">
+     <did>
+      <unitid>STA-2030</unitid>
+      <unittitle>Salina St., south from Fayette St</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2029.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2031">
+     <did>
+      <unitid>STA-2031</unitid>
+      <unittitle>South Salina Street Syracuse, N.Y. Deep snow in February 1867, by Collins, E. M. (Edwin M.)</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2030.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2033">
+     <did>
+      <unitid>STA-2033</unitid>
+      <unittitle>Washington Headquarters at Newburgh, N.Y. (Side view.)</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2032.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2035">
+     <did>
+      <unitid>STA-2035</unitid>
+      <unittitle>Washington Headquarters at Newburgh (Rear view with cannon.)</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2034.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2036">
+     <did>
+      <unitid>STA-2036</unitid>
+      <unittitle>Washington's Headquarters, Newburgh</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2035.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2037">
+     <did>
+      <unitid>STA-2037</unitid>
+      <unittitle>Washington Headquarters, Newburgh, N.Y</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2036.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2038">
+     <did>
+      <unitid>STA-2038</unitid>
+      <unittitle>Washington's Headquarters, Newburgh, N.Y. Rear view, from Robert N. Dennis collection of stereoscopic views 9</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2037.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2039">
+     <did>
+      <unitid>STA-2039</unitid>
+      <unittitle>Washington's Headquarters, Newburgh, N.Y. Rear view, from Robert N. Dennis collection of stereoscopic views 5</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2038.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2040">
+     <did>
+      <unitid>STA-2040</unitid>
+      <unittitle>Washington's Headquarters, Newburgh, N.Y. Rear view</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2039.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2041">
+     <did>
+      <unitid>STA-2041</unitid>
+      <unittitle>View of grounds, Newburgh, N.Y. (Washington's Headquarters.)</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2040.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2042">
+     <did>
+      <unitid>STA-2042</unitid>
+      <unittitle>Washington Headquarters, Newburgh</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2041.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2043">
+     <did>
+      <unitid>STA-2043</unitid>
+      <unittitle>Washington Headquarters, Newburgh, N.Y, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2042.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2044">
+     <did>
+      <unitid>STA-2044</unitid>
+      <unittitle>Newburg (Newburgh) July 31, '82. (Interior view.)</unittitle>
+      <unitdate normal="1882">1882</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2043.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2045">
+     <did>
+      <unitid>STA-2045</unitid>
+      <unittitle>Washington's Headquarters, Newburgh, N.Y. Rear view, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2044.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2046">
+     <did>
+      <unitid>STA-2046</unitid>
+      <unittitle>Washington's Headquarters, Newburgh, N.Y. Rear view, from Robert N. Dennis collection of stereoscopic views 6</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2045.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2047">
+     <did>
+      <unitid>STA-2047</unitid>
+      <unittitle>Washington's Headquarters, Newburgh on the Hudson. (Rear view.)</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2046.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2048">
+     <did>
+      <unitid>STA-2048</unitid>
+      <unittitle>Washington's Headquarters, Newburgh, N.Y. Rear view, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2047.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2049">
+     <did>
+      <unitid>STA-2049</unitid>
+      <unittitle>Washington Headquarters, Newburgh, N.Y. (Color)</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2048.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2050">
+     <did>
+      <unitid>STA-2050</unitid>
+      <unittitle>Porch, Washington Headquarters, Newburgh</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2049.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2051">
+     <did>
+      <unitid>STA-2051</unitid>
+      <unittitle>Washington's Headquarters, Newburgh, N.Y. Side view with cannon</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2050.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2052">
+     <did>
+      <unitid>STA-2052</unitid>
+      <unittitle>Washington's Headquarters, Newburgh, N.Y. Rear view, from Robert N. Dennis collection of stereoscopic views 7</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2051.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2053">
+     <did>
+      <unitid>STA-2053</unitid>
+      <unittitle>View of Presbyterian Church, Elmira, New York</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2052.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2054">
+     <did>
+      <unitid>STA-2054</unitid>
+      <unittitle>Eldridge Park, Philadelphia (i.e., Elmira)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2053.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2055">
+     <did>
+      <unitid>STA-2055</unitid>
+      <unittitle>View in the Eldridge Park, Elmira, N.Y, by J. H. Whitley</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2054.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2056">
+     <did>
+      <unitid>STA-2056</unitid>
+      <unittitle>Elmira Female College, by Tomlinson, C., fl. 1874-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2055.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2057">
+     <did>
+      <unitid>STA-2057</unitid>
+      <unittitle>Elmira Water Cure, by Tomlinson, C., fl. 1874-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2056.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2058">
+     <did>
+      <unitid>STA-2058</unitid>
+      <unittitle>View of a fountain and statuary, Eldridge Park, Elmira, N.Y, by J. H. Whitley</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2057.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2059">
+     <did>
+      <unitid>STA-2059</unitid>
+      <unittitle>Observatory. (Elmira Female College?), by Tomlinson, C., fl. 1874-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2058.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2060">
+     <did>
+      <unitid>STA-2060</unitid>
+      <unittitle>Elmira Water Cure (interior), by Tomlinson, C., fl. 1874-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2059.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2061">
+     <did>
+      <unitid>STA-2061</unitid>
+      <unittitle>View of a preaching stand and benches, Eldridge Park, Elmira, N.Y, by J. H. Whitley</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2060.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2062">
+     <did>
+      <unitid>STA-2062</unitid>
+      <unittitle>Gazebo, Eldridge Park, Elmira, N.Y, by J. H. Whitley</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2061.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2063">
+     <did>
+      <unitid>STA-2063</unitid>
+      <unittitle>Elmira, Cortland &amp; Northern (Railroad station), by F. T. Martin</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2062.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2064">
+     <did>
+      <unitid>STA-2064</unitid>
+      <unittitle>Elmira from East Hill, by Tomlinson, C., fl. 1874-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2063.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2065">
+     <did>
+      <unitid>STA-2065</unitid>
+      <unittitle>Female College, Elmira, N.Y, by Walker, L. E., 1826-1916</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2064.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2067">
+     <did>
+      <unitid>STA-2067</unitid>
+      <unittitle>The Park Church, Elmira, N.Y, by Van Aken, E. M. (Elisha M.)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2066.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2068">
+     <did>
+      <unitid>STA-2068</unitid>
+      <unittitle>Bronze figure of an Indian and his dog, Eldridge Park, Elmira, N.Y, by J. H. Whitley</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2067.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2070">
+     <did>
+      <unitid>STA-2070</unitid>
+      <unittitle>Eve and the Serpent, in Eldridge Park, Elmira, New York, by Walker, L. E., 1826-1916</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2069.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2072">
+     <did>
+      <unitid>STA-2072</unitid>
+      <unittitle>From Park Church tower. Looking south-east</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2071.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2074">
+     <did>
+      <unitid>STA-2074</unitid>
+      <unittitle>Easter 1880. Burlington, Vt</unittitle>
+      <unitdate normal="1880">1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2073.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2075">
+     <did>
+      <unitid>STA-2075</unitid>
+      <unittitle>Burlington, Vt. (general view), by Kilburn Brothers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2074.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2076">
+     <did>
+      <unitid>STA-2076</unitid>
+      <unittitle>Burlington, Vt. (general view), by Kilburn Brothers 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2075.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2077">
+     <did>
+      <unitid>STA-2077</unitid>
+      <unittitle>Bird's-eye view (of) Alburgh hotel</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2076.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2079">
+     <did>
+      <unitid>STA-2079</unitid>
+      <unittitle>Ethan Allen monument, Burlington, Vt, by M. J. Bixby</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2078.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2080">
+     <did>
+      <unitid>STA-2080</unitid>
+      <unittitle>Ethan Allen monument, Burlington, Vt, by M. J. Bixby 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2079.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -13187,6 +13947,78 @@
       <unittitle>Prof. Longfellow, Cambridge, Mass</unittitle>
       <unitdate normal="1859">1859</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1952.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1993">
+     <did>
+      <unitid>STA-1993</unitid>
+      <unittitle>Men in boats, Poughkeepsie, N.Y, by Slee Bros.</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1992.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-1998">
+     <did>
+      <unitid>STA-1998</unitid>
+      <unittitle>Folding and ironing linen collars, Troy, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/1997.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2007">
+     <did>
+      <unitid>STA-2007</unitid>
+      <unittitle>View of a man at a crossroads, by Irving, James E., 1818-1901</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2006.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2019">
+     <did>
+      <unitid>STA-2019</unitid>
+      <unittitle>Annual Class of Syracuse University, July 1876, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1876">1876</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2018.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2020">
+     <did>
+      <unitid>STA-2020</unitid>
+      <unittitle>Annual Class of Syracuse University, July 1876</unittitle>
+      <unitdate normal="1876">1876</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2019.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2022">
+     <did>
+      <unitid>STA-2022</unitid>
+      <unittitle>View of a home in Syracuse, New York, by Knapp &amp; Marble's Photograph &amp; Portrait Gallery</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2021.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2023">
+     <did>
+      <unitid>STA-2023</unitid>
+      <unittitle>General View Sewing Room -- Large Shoe Factory, Syracuse, N.Y, by Keystone View Company</unittitle>
+      <unitdate normal="1890/1900">c. 1895</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2022.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2024">
+     <did>
+      <unitid>STA-2024</unitid>
+      <unittitle>Solar Method of Evaporating Salt Brine -- Collecting, Draining, Hauling Sault, Syracuse, N.Y, by Keystone View Company</unittitle>
+      <unitdate normal="1890/1900">c. 1895</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2023.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2073">
+     <did>
+      <unitid>STA-2073</unitid>
+      <unittitle>At Burlington, Vt</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2072.jpg"/>
      </did>
     </c>
    </c>

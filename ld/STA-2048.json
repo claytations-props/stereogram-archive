@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2048.json",
+ "name": "Washington's Headquarters, Newburgh, N.Y. Rear view, from Robert N. Dennis collection of stereoscopic views 3",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2047.jpg",
+ "identifier": "STA-2048",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Newburgh, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Washington%27s_Headquarters,_Newburgh,_N.Y._Rear_view,_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg"
+}

@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-2022.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "View of a home in Syracuse, New York, by Knapp & Marble's Photograph & Portrait Gallery"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Knapp & Marble's Photograph & Portrait Gallery"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1865"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Syracuse, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-2022.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-2022/canvas/1",
+   "type": "Canvas",
+   "width": 1390,
+   "height": 470,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-2022/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-2022/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/2021.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1390,
+        "height": 470,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/View_of_a_home_in_Syracuse%2C_New_York%2C_by_Knapp_%26_Marble%27s_Photograph_%26_Portrait_Gallery.jpg/1920px-View_of_a_home_in_Syracuse%2C_New_York%2C_by_Knapp_%26_Marble%27s_Photograph_%26_Portrait_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-2022/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

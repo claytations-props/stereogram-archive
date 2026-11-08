@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-2067.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "The Park Church, Elmira, N.Y, by Van Aken, E. M. (Elisha M.)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Van Aken, E. M. (Elisha M.)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1865"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Elmira, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-2067.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-2067/canvas/1",
+   "type": "Canvas",
+   "width": 1608,
+   "height": 748,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-2067/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-2067/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/2066.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1608,
+        "height": 748,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Park_Church%2C_Elmira%2C_N.Y%2C_by_Van_Aken%2C_E._M._%28Elisha_M.%29.jpg/1920px-The_Park_Church%2C_Elmira%2C_N.Y%2C_by_Van_Aken%2C_E._M._%28Elisha_M.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-2067/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2049.json",
+ "name": "Washington Headquarters, Newburgh, N.Y. (Color)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2048.jpg",
+ "identifier": "STA-2049",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Newburgh, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Washington_Headquarters,_Newburgh,_N.Y._(Color),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

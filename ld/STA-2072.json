@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2072.json",
+ "name": "From Park Church tower. Looking south-east",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2071.jpg",
+ "identifier": "STA-2072",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Elmira, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:From_Park_Church_tower._Looking_south-east,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

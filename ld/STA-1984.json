@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1984.json",
+ "name": "Birds-eye view of Poughkeepsie, by Slee Bros.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1983.jpg",
+ "identifier": "STA-1984",
+ "creator": {
+  "@type": "Person",
+  "name": "Slee Bros."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Poughkeepsie, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Birds-eye_view_of_Poughkeepsie,_by_Slee_Bros..jpg"
+}

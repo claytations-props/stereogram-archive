@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2008.json",
+ "name": "North Second Street M. E. Church, by W. J. Woods",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2007.jpg",
+ "identifier": "STA-2008",
+ "creator": {
+  "@type": "Person",
+  "name": "W. J. Woods"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Troy, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:North_Second_Street_M._E._Church,_by_W._J._Woods.jpg"
+}

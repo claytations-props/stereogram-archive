@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2062.json",
+ "name": "Gazebo, Eldridge Park, Elmira, N.Y, by J. H. Whitley",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2061.jpg",
+ "identifier": "STA-2062",
+ "creator": {
+  "@type": "Person",
+  "name": "J. H. Whitley"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Elmira, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Gazebo,_Eldridge_Park,_Elmira,_N.Y,_by_J._H._Whitley.jpg"
+}

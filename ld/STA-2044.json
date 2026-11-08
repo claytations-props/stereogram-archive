@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2044.json",
+ "name": "Newburg (Newburgh) July 31, '82. (Interior view.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2043.jpg",
+ "identifier": "STA-2044",
+ "dateCreated": "1882",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Newburgh, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Newburg_(Newburgh)_July_31,_%2782._(Interior_view.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

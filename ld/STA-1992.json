@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1992.json",
+ "name": "College Hill, Poughkeepsie, N.Y, by Slee Bros.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1991.jpg",
+ "identifier": "STA-1992",
+ "creator": {
+  "@type": "Person",
+  "name": "Slee Bros."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Poughkeepsie, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:College_Hill,_Poughkeepsie,_N.Y,_by_Slee_Bros..jpg"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2020.json",
+ "name": "Annual Class of Syracuse University, July 1876",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2019.jpg",
+ "identifier": "STA-2020",
+ "dateCreated": "1876",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Syracuse, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Annual_Class_of_Syracuse_University,_July_1876,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

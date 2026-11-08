@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1985.json",
+ "name": "Eastman Park and River View, Poughkeepsie, by Slee Bros.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1984.jpg",
+ "identifier": "STA-1985",
+ "creator": {
+  "@type": "Person",
+  "name": "Slee Bros."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Poughkeepsie, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Eastman_Park_and_River_View,_Poughkeepsie,_by_Slee_Bros..jpg"
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-1986.json",
+ "name": "View of a cemetery. Poughkeepsie, N.Y, by Slee Bros.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/1985.jpg",
+ "identifier": "STA-1986",
+ "creator": {
+  "@type": "Person",
+  "name": "Slee Bros."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Poughkeepsie, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_cemetery._Poughkeepsie,_N.Y,_by_Slee_Bros..png"
+}

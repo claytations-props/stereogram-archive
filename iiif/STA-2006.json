@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-2006.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "View of a store, Troy, N.Y (NYPL b11708208-G91F083 070F)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1891"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Troy, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-2006.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-2006/canvas/1",
+   "type": "Canvas",
+   "width": 1232,
+   "height": 259,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-2006/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-2006/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/2005.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1232,
+        "height": 259,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/View_of_a_store%2C_Troy%2C_N.Y_%28NYPL_b11708208-G91F083_070F%29.tiff/lossy-page1-1920px-View_of_a_store%2C_Troy%2C_N.Y_%28NYPL_b11708208-G91F083_070F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-2006/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2010.json",
+ "name": "Church, by Leo Daft",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2009.jpg",
+ "identifier": "STA-2010",
+ "creator": {
+  "@type": "Person",
+  "name": "Leo Daft"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Troy, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Church,_by_Leo_Daft.jpg"
+}
