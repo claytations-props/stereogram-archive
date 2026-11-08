@@ -1,0 +1,69 @@
+{
+ "title": "Porch, Washington Headquarters, Newburgh",
+ "place": "Newburgh, New York",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Porch%2C_Washington_Headquarters%2C_Newburgh%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Porch%2C_Washington_Headquarters%2C_Newburgh%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Porch%2C_Washington_Headquarters%2C_Newburgh%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Porch,_Washington_Headquarters,_Newburgh,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2661,
+ "h": 1358,
+ "id": "STA-2050",
+ "rect": "rect/2049.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.0,
+ "range": 2.24,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.9614,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Porch%2C_Washington_Headquarters%2C_Newburgh%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Porch%2C_Washington_Headquarters%2C_Newburgh%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9614,
+  "L": [
+   0.3375,
+   0.0,
+   0.126302,
+   0.0,
+   0.687755,
+   0.042347
+  ],
+  "R": [
+   0.350566,
+   -0.003151,
+   0.545882,
+   0.00162,
+   0.688822,
+   0.03127
+  ],
+  "g": [
+   0.8593,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured deep (2.24% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10067930,
+ "source_revision_id": null,
+ "source_sha1": "fc0bbb15284bc9bc6233b2a38fc1e0d56f6f61ed"
+}
