@@ -152919,5 +152919,557 @@
    "house",
    "trees"
   ]
+ },
+ {
+  "title": "At Burlington, Vt",
+  "place": "Burlington, Vermont",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/At_Burlington%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-At_Burlington%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a6/At_Burlington%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:At_Burlington,_Vt,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1425,
+  "id": "STA-2073",
+  "rect": "rect/2072.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 0.49,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.864,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/At_Burlington%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-At_Burlington%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.864,
+   "L": [
+    0.383854,
+    0.0,
+    0.089323,
+    0.0,
+    0.853,
+    0.0785
+   ],
+   "R": [
+    0.387261,
+    0.006449,
+    0.510028,
+    -0.013447,
+    0.862706,
+    0.075344
+   ],
+   "g": [
+    1.0,
+    0.9747
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (0.49% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "people"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091969,
+  "source_revision_id": null,
+  "source_sha1": "64565b86c0d72de506bbe112c783c4b071194c02"
+ },
+ {
+  "title": "Easter 1880. Burlington, Vt",
+  "place": "Burlington, Vermont",
+  "year": "1880",
+  "sy": 1880,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Easter_1880._Burlington%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Easter_1880._Burlington%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/45/Easter_1880._Burlington%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Easter_1880._Burlington,_Vt,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2690,
+  "h": 1553,
+  "id": "STA-2074",
+  "rect": "rect/2073.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.03,
+  "range": 0.48,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9393,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Easter_1880._Burlington%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Easter_1880._Burlington%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9393,
+   "L": [
+    0.370833,
+    0.0,
+    0.098698,
+    0.0,
+    0.684116,
+    0.251354
+   ],
+   "R": [
+    0.372567,
+    -0.002337,
+    0.5084,
+    -0.006572,
+    0.688844,
+    0.254351
+   ],
+   "g": [
+    0.9951,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.03° of rotation. Depth measured gentle (0.48% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1880",
+  "date_start": 1880,
+  "date_end": 1880,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10092115,
+  "source_revision_id": null,
+  "source_sha1": "d57f14c2afc51297696d5f69495868359df3c54d"
+ },
+ {
+  "title": "Burlington, Vt. (general view), by Kilburn Brothers",
+  "place": "Burlington, Vermont",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Burlington%2C_Vt._%28general_view%29%2C_by_Kilburn_Brothers.jpg/1920px-Burlington%2C_Vt._%28general_view%29%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Burlington%2C_Vt._%28general_view%29%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Burlington,_Vt._(general_view),_by_Kilburn_Brothers.jpg",
+  "license": "Public domain",
+  "w": 2610,
+  "h": 1303,
+  "id": "STA-2075",
+  "rect": "rect/2074.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 0.47,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.161,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Burlington%2C_Vt._%28general_view%29%2C_by_Kilburn_Brothers.jpg/1920px-Burlington%2C_Vt._%28general_view%29%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.161,
+   "L": [
+    0.409375,
+    0.0,
+    0.079427,
+    0.0,
+    0.705944,
+    0.238269
+   ],
+   "R": [
+    0.414708,
+    -0.006896,
+    0.514915,
+    0.0076,
+    0.714715,
+    0.233014
+   ],
+   "g": [
+    0.9779,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (0.47% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10092072,
+  "source_revision_id": null,
+  "source_sha1": "27f7c640ff16b75c6f9ecf0e052fedfecdb2216e"
+ },
+ {
+  "title": "Burlington, Vt. (general view), by Kilburn Brothers 2",
+  "place": "Burlington, Vermont",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Burlington%2C_Vt._%28general_view%29%2C_by_Kilburn_Brothers_2.jpg/1920px-Burlington%2C_Vt._%28general_view%29%2C_by_Kilburn_Brothers_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Burlington%2C_Vt._%28general_view%29%2C_by_Kilburn_Brothers_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Burlington,_Vt._(general_view),_by_Kilburn_Brothers_2.jpg",
+  "license": "Public domain",
+  "w": 2682,
+  "h": 1372,
+  "id": "STA-2076",
+  "rect": "rect/2075.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.01,
+  "range": 0.46,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9973,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Burlington%2C_Vt._%28general_view%29%2C_by_Kilburn_Brothers_2.jpg/1920px-Burlington%2C_Vt._%28general_view%29%2C_by_Kilburn_Brothers_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9973,
+   "L": [
+    0.383333,
+    0.0,
+    0.080469,
+    0.0,
+    0.751527,
+    0.187882
+   ],
+   "R": [
+    0.387629,
+    0.009272,
+    0.506565,
+    -0.026549,
+    0.76035,
+    0.198613
+   ],
+   "g": [
+    0.9605,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured gentle (0.46% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10092079,
+  "source_revision_id": null,
+  "source_sha1": "e4e1b6f6e44a19171cb002484c9ebf18885f5095"
+ },
+ {
+  "title": "Bird's-eye view (of) Alburgh hotel",
+  "place": "Alburgh, Vermont",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Bird%27s-eye_view_%28of%29_Alburgh_hotel%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s-eye_view_%28of%29_Alburgh_hotel%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bird%27s-eye_view_%28of%29_Alburgh_hotel%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bird%27s-eye_view_(of)_Alburgh_hotel,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2668,
+  "h": 1367,
+  "id": "STA-2077",
+  "rect": "rect/2076.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.0,
+  "range": 1.31,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9167,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Bird%27s-eye_view_%28of%29_Alburgh_hotel%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s-eye_view_%28of%29_Alburgh_hotel%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9167,
+   "L": [
+    0.315104,
+    0.0,
+    0.17526,
+    0.0,
+    0.670732,
+    0.264736
+   ],
+   "R": [
+    0.314633,
+    0.002928,
+    0.508702,
+    -0.004955,
+    0.669744,
+    0.289502
+   ],
+   "g": [
+    1.0,
+    0.9167
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.0° of rotation. Depth measured gentle (1.31% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10092034,
+  "source_revision_id": null,
+  "source_sha1": "a9739d801808970269beb036332c4c64f0505b4b"
+ },
+ {
+  "title": "High Bridge, Burlington, Vt, by G. B. Davis",
+  "place": "Burlington, Vermont",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/High_Bridge%2C_Burlington%2C_Vt%2C_by_G._B._Davis.png/1920px-High_Bridge%2C_Burlington%2C_Vt%2C_by_G._B._Davis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/6d/High_Bridge%2C_Burlington%2C_Vt%2C_by_G._B._Davis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:High_Bridge,_Burlington,_Vt,_by_G._B._Davis.png",
+  "license": "Public domain",
+  "w": 2655,
+  "h": 1366,
+  "id": "STA-2078",
+  "rect": "rect/2077.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 0.69,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9091,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/High_Bridge%2C_Burlington%2C_Vt%2C_by_G._B._Davis.png/1920px-High_Bridge%2C_Burlington%2C_Vt%2C_by_G._B._Davis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9091,
+   "L": [
+    0.40625,
+    0.0,
+    0.079948,
+    0.0,
+    0.868421,
+    0.055162
+   ],
+   "R": [
+    0.406132,
+    -0.005466,
+    0.51037,
+    0.005523,
+    0.868378,
+    0.048867
+   ],
+   "g": [
+    0.9952,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured gentle (0.69% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "G. B. Davis",
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10092000,
+  "source_revision_id": null,
+  "source_sha1": "bd4a6579dfd0ddfa505a083dc297a3e60fa5ea95"
+ },
+ {
+  "title": "Ethan Allen monument, Burlington, Vt, by M. J. Bixby",
+  "place": "Burlington, Vermont",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Ethan_Allen_monument%2C_Burlington%2C_Vt%2C_by_M._J._Bixby.jpg/1920px-Ethan_Allen_monument%2C_Burlington%2C_Vt%2C_by_M._J._Bixby.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ethan_Allen_monument%2C_Burlington%2C_Vt%2C_by_M._J._Bixby.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Ethan_Allen_monument,_Burlington,_Vt,_by_M._J._Bixby.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1401,
+  "id": "STA-2079",
+  "rect": "rect/2078.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.01,
+  "range": 0.99,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8709,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Ethan_Allen_monument%2C_Burlington%2C_Vt%2C_by_M._J._Bixby.jpg/1920px-Ethan_Allen_monument%2C_Burlington%2C_Vt%2C_by_M._J._Bixby.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8709,
+   "L": [
+    0.396875,
+    0.0,
+    0.09349,
+    0.0,
+    0.890132,
+    0.061546
+   ],
+   "R": [
+    0.399743,
+    0.014701,
+    0.526272,
+    -0.020247,
+    0.887235,
+    0.067401
+   ],
+   "g": [
+    0.986,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured gentle (0.99% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "M. J. Bixby",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091986,
+  "source_revision_id": null,
+  "source_sha1": "7dcd25c5f5e3f02ebafe1ef71d82f1ce6cd2d55b"
+ },
+ {
+  "title": "Ethan Allen monument, Burlington, Vt, by M. J. Bixby 2",
+  "place": "Burlington, Vermont",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Ethan_Allen_monument%2C_Burlington%2C_Vt%2C_by_M._J._Bixby_2.jpg/1920px-Ethan_Allen_monument%2C_Burlington%2C_Vt%2C_by_M._J._Bixby_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Ethan_Allen_monument%2C_Burlington%2C_Vt%2C_by_M._J._Bixby_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Ethan_Allen_monument,_Burlington,_Vt,_by_M._J._Bixby_2.jpg",
+  "license": "Public domain",
+  "w": 2724,
+  "h": 1408,
+  "id": "STA-2080",
+  "rect": "rect/2079.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.02,
+  "range": 0.85,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9406,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Ethan_Allen_monument%2C_Burlington%2C_Vt%2C_by_M._J._Bixby_2.jpg/1920px-Ethan_Allen_monument%2C_Burlington%2C_Vt%2C_by_M._J._Bixby_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9406,
+   "L": [
+    0.420312,
+    0.0,
+    0.070573,
+    0.0,
+    0.864919,
+    0.06502
+   ],
+   "R": [
+    0.423862,
+    -0.018518,
+    0.53684,
+    0.037159,
+    0.863122,
+    0.042909
+   ],
+   "g": [
+    1.0,
+    0.9615
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.02° of rotation. Depth measured gentle (0.85% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "M. J. Bixby",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091991,
+  "source_revision_id": null,
+  "source_sha1": "fa11b6c44bb0e2e8bad8b6f7bb80699ee98b88b5"
  }
 ]
