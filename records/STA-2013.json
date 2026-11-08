@@ -1,0 +1,69 @@
+{
+ "title": "View of a residence, Syracuse, New York",
+ "place": "Syracuse, New York",
+ "year": "c. 1875",
+ "sy": 1875,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/View_of_a_residence%2C_Syracuse%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_residence%2C_Syracuse%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/fb/View_of_a_residence%2C_Syracuse%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_residence,_Syracuse,_New_York,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2583,
+ "h": 1555,
+ "id": "STA-2013",
+ "rect": "rect/2012.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.12,
+ "rot": 0.02,
+ "range": 0.96,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.857,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/View_of_a_residence%2C_Syracuse%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_residence%2C_Syracuse%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.857,
+  "L": [
+   0.383854,
+   0.0,
+   0.085677,
+   0.0,
+   0.743945,
+   0.21064
+  ],
+  "R": [
+   0.379767,
+   -0.005922,
+   0.519462,
+   -0.00224,
+   0.73697,
+   0.218882
+  ],
+  "g": [
+   0.9958,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.02° of rotation. Depth measured gentle (0.96% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1875~",
+ "date_start": 1870,
+ "date_end": 1880,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10081737,
+ "source_revision_id": null,
+ "source_sha1": "12b946f9886d137cba9aceeb5523c7334d6e825f"
+}

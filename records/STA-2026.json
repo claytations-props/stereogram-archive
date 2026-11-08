@@ -1,0 +1,69 @@
+{
+ "title": "Clinton Square",
+ "place": "Syracuse, New York",
+ "year": "c. 1875",
+ "sy": 1875,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Clinton_Square%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Clinton_Square%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Clinton_Square%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Clinton_Square,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2651,
+ "h": 1739,
+ "id": "STA-2026",
+ "rect": "rect/2025.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.03,
+ "range": 0.53,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8812,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Clinton_Square%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Clinton_Square%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8812,
+  "L": [
+   0.417187,
+   0.0,
+   0.06849,
+   0.0,
+   0.722002,
+   0.089357
+  ],
+  "R": [
+   0.414865,
+   0.002395,
+   0.504993,
+   0.003635,
+   0.708981,
+   0.099766
+  ],
+  "g": [
+   1.0,
+   0.9923
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.03° of rotation. Depth measured gentle (0.53% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1875~",
+ "date_start": 1870,
+ "date_end": 1880,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10081750,
+ "source_revision_id": null,
+ "source_sha1": "6ba2edc0d442aed04496dc787427623b77aac08c"
+}
