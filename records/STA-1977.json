@@ -1,0 +1,69 @@
+{
+ "title": "View of a two-story house, Poughkeepsie",
+ "place": "Poughkeepsie, New York",
+ "year": "1867",
+ "sy": 1867,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/View_of_a_two-story_house%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_two-story_house%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/5e/View_of_a_two-story_house%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_two-story_house,_Poughkeepsie,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2669,
+ "h": 1360,
+ "id": "STA-1977",
+ "rect": "rect/1976.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.13,
+ "rot": 0.01,
+ "range": 0.99,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0969,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/View_of_a_two-story_house%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_two-story_house%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0969,
+  "L": [
+   0.41875,
+   0.0,
+   0.065885,
+   0.0,
+   0.749489,
+   0.055726
+  ],
+  "R": [
+   0.427473,
+   -0.002195,
+   0.508594,
+   0.005115,
+   0.76225,
+   0.043427
+  ],
+  "g": [
+   0.9432,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured gentle (0.99% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1867",
+ "date_start": 1867,
+ "date_end": 1867,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10068975,
+ "source_revision_id": null,
+ "source_sha1": "f394c43ec03080618201c5d1395e02d9964d46ce"
+}

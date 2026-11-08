@@ -116849,5 +116849,1188 @@
   "date_start": null,
   "date_end": null,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of a two-story house, Poughkeepsie",
+  "place": "Poughkeepsie, New York",
+  "year": "1867",
+  "sy": 1867,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/View_of_a_two-story_house%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_two-story_house%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5e/View_of_a_two-story_house%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_two-story_house,_Poughkeepsie,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2669,
+  "h": 1360,
+  "id": "STA-1977",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1976.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.01,
+  "range": 0.99,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0969,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/View_of_a_two-story_house%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_two-story_house%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0969,
+   "L": [
+    0.41875,
+    0.0,
+    0.065885,
+    0.0,
+    0.749489,
+    0.055726
+   ],
+   "R": [
+    0.427473,
+    -0.002195,
+    0.508594,
+    0.005115,
+    0.76225,
+    0.043427
+   ],
+   "g": [
+    0.9432,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured gentle (0.99% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1867",
+  "date_start": 1867,
+  "date_end": 1867,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Main St., Poughkeepsie",
+  "place": "Poughkeepsie, New York",
+  "year": "1867",
+  "sy": 1867,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Main_St.%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Main_St.%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/32/Main_St.%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Main_St.,_Poughkeepsie,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1354,
+  "id": "STA-1978",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1977.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.05,
+  "range": 2.07,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.3789,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Main_St.%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Main_St.%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3789,
+   "L": [
+    0.441667,
+    0.0,
+    0.04974,
+    0.0,
+    0.630123,
+    0.323258
+   ],
+   "R": [
+    0.444738,
+    0.000253,
+    0.506749,
+    -0.004361,
+    0.63061,
+    0.331217
+   ],
+   "g": [
+    0.9325,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.05° of rotation. Depth measured moderate (2.07% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1867",
+  "date_start": 1867,
+  "date_end": 1867,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Water Works, Poughkeepsie",
+  "place": "Poughkeepsie, New York",
+  "year": "1867",
+  "sy": 1867,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Water_Works%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Water_Works%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Water_Works%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Water_Works,_Poughkeepsie,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1360,
+  "id": "STA-1979",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1978.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.0,
+  "range": 0.31,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.439,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Water_Works%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Water_Works%2C_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.439,
+   "L": [
+    0.411458,
+    0.0,
+    0.072656,
+    0.0,
+    0.559633,
+    0.399083
+   ],
+   "R": [
+    0.413215,
+    0.002465,
+    0.524037,
+    -0.011081,
+    0.563747,
+    0.368662
+   ],
+   "g": [
+    0.9325,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured gentle (0.31% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1867",
+  "date_start": 1867,
+  "date_end": 1867,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Vassar College, Poughkeepsie, N.Y",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Vassar_College%2C_Poughkeepsie%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Vassar_College%2C_Poughkeepsie%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Vassar_College%2C_Poughkeepsie%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Vassar_College,_Poughkeepsie,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2693,
+  "h": 1366,
+  "id": "STA-1980",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1979.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.05,
+  "range": 0.74,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.4725,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Vassar_College%2C_Poughkeepsie%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Vassar_College%2C_Poughkeepsie%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.4725,
+   "L": [
+    0.306771,
+    0.0,
+    0.136719,
+    0.0,
+    0.410678,
+    0.509754
+   ],
+   "R": [
+    0.306801,
+    -0.004723,
+    0.52449,
+    0.000955,
+    0.408053,
+    0.51801
+   ],
+   "g": [
+    0.8911,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.05° of rotation. Depth measured gentle (0.74% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Vassar College grounds, Poughkeepsie, N.Y",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1880",
+  "sy": 1880,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/54/Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Vassar_College_grounds,_Poughkeepsie,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2675,
+  "h": 1372,
+  "id": "STA-1981",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1980.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 1.7,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.9986,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9986,
+   "L": [
+    0.369271,
+    0.0,
+    0.111719,
+    0.0,
+    0.720812,
+    0.239086
+   ],
+   "R": [
+    0.372726,
+    -0.02694,
+    0.534269,
+    0.012386,
+    0.721513,
+    0.219886
+   ],
+   "g": [
+    0.9555,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured moderate (1.7% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1880~",
+  "date_start": 1875,
+  "date_end": 1885,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "R.R. Bridge, Poughkeepsie, N.Y. - Hudson River",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1890",
+  "sy": 1890,
+  "era": "mid",
+  "cats": [
+   "water",
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/R.R._Bridge%2C_Poughkeepsie%2C_N.Y._-_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-R.R._Bridge%2C_Poughkeepsie%2C_N.Y._-_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/2a/R.R._Bridge%2C_Poughkeepsie%2C_N.Y._-_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:R.R._Bridge,_Poughkeepsie,_N.Y._-_Hudson_River,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2681,
+  "h": 1366,
+  "id": "STA-1982",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1981.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 1.98,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.372,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/R.R._Bridge%2C_Poughkeepsie%2C_N.Y._-_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-R.R._Bridge%2C_Poughkeepsie%2C_N.Y._-_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.372,
+   "L": [
+    0.388021,
+    0.0,
+    0.088281,
+    0.0,
+    0.555215,
+    0.352249
+   ],
+   "R": [
+    0.387469,
+    -0.004409,
+    0.513031,
+    0.00071,
+    0.556507,
+    0.354742
+   ],
+   "g": [
+    0.8297,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured moderate (1.98% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1890~",
+  "date_start": 1885,
+  "date_end": 1895,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Main Street Dock, looking up the river Poughkeepsie",
+  "place": "Poughkeepsie, New York",
+  "year": "1867",
+  "sy": 1867,
+  "era": "early",
+  "cats": [
+   "water",
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Main_Street_Dock%2C_looking_up_the_river_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Main_Street_Dock%2C_looking_up_the_river_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Main_Street_Dock%2C_looking_up_the_river_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Main_Street_Dock,_looking_up_the_river_Poughkeepsie,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2669,
+  "h": 1348,
+  "id": "STA-1983",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1982.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.02,
+  "range": 1.08,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8218,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Main_Street_Dock%2C_looking_up_the_river_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Main_Street_Dock%2C_looking_up_the_river_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8218,
+   "L": [
+    0.223438,
+    0.0,
+    0.250781,
+    0.0,
+    0.538144,
+    0.424227
+   ],
+   "R": [
+    0.225211,
+    -0.00352,
+    0.720008,
+    0.00064,
+    0.547267,
+    0.414884
+   ],
+   "g": [
+    1.0,
+    0.9526
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.02° of rotation. Depth measured gentle (1.08% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1867",
+  "date_start": 1867,
+  "date_end": 1867,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Birds-eye view of Poughkeepsie, by Slee Bros.",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Birds-eye_view_of_Poughkeepsie%2C_by_Slee_Bros..jpg/1920px-Birds-eye_view_of_Poughkeepsie%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Birds-eye_view_of_Poughkeepsie%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Birds-eye_view_of_Poughkeepsie,_by_Slee_Bros..jpg",
+  "license": "Public domain",
+  "w": 2657,
+  "h": 1354,
+  "id": "STA-1984",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1983.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.2,
+  "rot": 0.01,
+  "range": 0.76,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.588,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Birds-eye_view_of_Poughkeepsie%2C_by_Slee_Bros..jpg/1920px-Birds-eye_view_of_Poughkeepsie%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.588,
+   "L": [
+    0.343229,
+    0.0,
+    0.11276,
+    0.0,
+    0.424335,
+    0.288855
+   ],
+   "R": [
+    0.343865,
+    0.00222,
+    0.506872,
+    -0.013251,
+    0.424619,
+    0.296578
+   ],
+   "g": [
+    0.9518,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.2% vertical error and 0.01° of rotation. Depth measured gentle (0.76% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Slee Bros.",
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Eastman Park and River View, Poughkeepsie, by Slee Bros.",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Eastman_Park_and_River_View%2C_Poughkeepsie%2C_by_Slee_Bros..jpg/1920px-Eastman_Park_and_River_View%2C_Poughkeepsie%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Eastman_Park_and_River_View%2C_Poughkeepsie%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Eastman_Park_and_River_View,_Poughkeepsie,_by_Slee_Bros..jpg",
+  "license": "Public domain",
+  "w": 2669,
+  "h": 1336,
+  "id": "STA-1985",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1984.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 1.46,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.419,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Eastman_Park_and_River_View%2C_Poughkeepsie%2C_by_Slee_Bros..jpg/1920px-Eastman_Park_and_River_View%2C_Poughkeepsie%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.419,
+   "L": [
+    0.442708,
+    0.0,
+    0.047656,
+    0.0,
+    0.623309,
+    0.341831
+   ],
+   "R": [
+    0.437957,
+    -0.000754,
+    0.526611,
+    -0.006143,
+    0.614702,
+    0.350263
+   ],
+   "g": [
+    1.0,
+    0.9713
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (1.46% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Slee Bros.",
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of a cemetery. Poughkeepsie, N.Y, by Slee Bros.",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/View_of_a_cemetery._Poughkeepsie%2C_N.Y%2C_by_Slee_Bros..png/1920px-View_of_a_cemetery._Poughkeepsie%2C_N.Y%2C_by_Slee_Bros..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/91/View_of_a_cemetery._Poughkeepsie%2C_N.Y%2C_by_Slee_Bros..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_cemetery._Poughkeepsie,_N.Y,_by_Slee_Bros..png",
+  "license": "Public domain",
+  "w": 2651,
+  "h": 1532,
+  "id": "STA-1986",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1985.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.18,
+  "rot": 0.02,
+  "range": 0.59,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.9533,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/View_of_a_cemetery._Poughkeepsie%2C_N.Y%2C_by_Slee_Bros..png/1920px-View_of_a_cemetery._Poughkeepsie%2C_N.Y%2C_by_Slee_Bros..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.9533,
+   "L": [
+    0.457813,
+    0.0,
+    0.035156,
+    0.0,
+    0.405405,
+    0.235586
+   ],
+   "R": [
+    0.459157,
+    0.004559,
+    0.505429,
+    -0.006587,
+    0.406601,
+    0.246091
+   ],
+   "g": [
+    1.0,
+    0.9041
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.02° of rotation. Depth measured gentle (0.59% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Slee Bros.",
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Vassar College grounds, Poughkeepsie, N.Y, by Littleton View Co.",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1880",
+  "sy": 1880,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co..jpg/1920px-Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Vassar_College_grounds,_Poughkeepsie,_N.Y,_by_Littleton_View_Co..jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1372,
+  "id": "STA-1987",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1986.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.02,
+  "range": 1.65,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.0405,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co..jpg/1920px-Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0405,
+   "L": [
+    0.374479,
+    0.0,
+    0.113281,
+    0.0,
+    0.698686,
+    0.258342
+   ],
+   "R": [
+    0.377302,
+    -0.02508,
+    0.530971,
+    0.006438,
+    0.699166,
+    0.256557
+   ],
+   "g": [
+    0.9255,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.02° of rotation. Depth measured moderate (1.65% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Littleton View Co.",
+  "date_edtf": "1880~",
+  "date_start": 1875,
+  "date_end": 1885,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Vassar College Museum, Poughkeepsie, N.Y, by Littleton View Co.",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Vassar_College_Museum%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co..jpg/1920px-Vassar_College_Museum%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/60/Vassar_College_Museum%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Vassar_College_Museum,_Poughkeepsie,_N.Y,_by_Littleton_View_Co..jpg",
+  "license": "Public domain",
+  "w": 2669,
+  "h": 1378,
+  "id": "STA-1988",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1987.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.18,
+  "rot": 0.03,
+  "range": 0.89,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1826,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Vassar_College_Museum%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co..jpg/1920px-Vassar_College_Museum%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1826,
+   "L": [
+    0.38125,
+    0.0,
+    0.109635,
+    0.0,
+    0.624622,
+    0.334511
+   ],
+   "R": [
+    0.381338,
+    -0.017485,
+    0.527121,
+    0.002171,
+    0.622546,
+    0.328156
+   ],
+   "g": [
+    0.9067,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.03° of rotation. Depth measured gentle (0.89% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Littleton View Co.",
+  "date_edtf": "1875~",
+  "date_start": 1870,
+  "date_end": 1880,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Vassar College Observatory, Poughkeepsie, N.Y, by Littleton View Co.",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1880",
+  "sy": 1880,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Vassar_College_Observatory%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co..png/1920px-Vassar_College_Observatory%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/da/Vassar_College_Observatory%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Vassar_College_Observatory,_Poughkeepsie,_N.Y,_by_Littleton_View_Co..png",
+  "license": "Public domain",
+  "w": 2693,
+  "h": 1396,
+  "id": "STA-1989",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1988.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.24,
+  "rot": 0.03,
+  "range": 0.28,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.8953,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Vassar_College_Observatory%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co..png/1920px-Vassar_College_Observatory%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.8953,
+   "L": [
+    0.389062,
+    0.0,
+    0.103385,
+    0.0,
+    0.259296,
+    0.29598
+   ],
+   "R": [
+    0.390525,
+    -0.000835,
+    0.516871,
+    5.8e-05,
+    0.260293,
+    0.306091
+   ],
+   "g": [
+    0.9865,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.03° of rotation. Depth measured gentle (0.28% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Littleton View Co.",
+  "date_edtf": "1880~",
+  "date_start": 1875,
+  "date_end": 1885,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Vassar College grounds, Poughkeepsie, N.Y, by Littleton View Co. 2",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1880",
+  "sy": 1880,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co._2.jpg/1920px-Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co._2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co._2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Vassar_College_grounds,_Poughkeepsie,_N.Y,_by_Littleton_View_Co._2.jpg",
+  "license": "Public domain",
+  "w": 2681,
+  "h": 1354,
+  "id": "STA-1990",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1989.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.08,
+  "range": 1.53,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.2868,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co._2.jpg/1920px-Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co._2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2868,
+   "L": [
+    0.359896,
+    0.0,
+    0.111719,
+    0.0,
+    0.553608,
+    0.292268
+   ],
+   "R": [
+    0.361922,
+    -0.015921,
+    0.527285,
+    -0.01109,
+    0.551515,
+    0.326973
+   ],
+   "g": [
+    0.8903,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.08° of rotation. Depth measured moderate (1.53% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Littleton View Co.",
+  "date_edtf": "1880~",
+  "date_start": 1875,
+  "date_end": 1885,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Vassar College grounds, Poughkeepsie, N.Y, by Littleton View Co. 3",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1880",
+  "sy": 1880,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co._3.png/1920px-Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co._3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co._3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Vassar_College_grounds,_Poughkeepsie,_N.Y,_by_Littleton_View_Co._3.png",
+  "license": "Public domain",
+  "w": 2687,
+  "h": 1378,
+  "id": "STA-1991",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1990.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.05,
+  "range": 1.42,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.069,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co._3.png/1920px-Vassar_College_grounds%2C_Poughkeepsie%2C_N.Y%2C_by_Littleton_View_Co._3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.069,
+   "L": [
+    0.379167,
+    0.0,
+    0.110677,
+    0.0,
+    0.691371,
+    0.263452
+   ],
+   "R": [
+    0.381047,
+    -0.031342,
+    0.535952,
+    0.017247,
+    0.693783,
+    0.245925
+   ],
+   "g": [
+    0.9546,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.05° of rotation. Depth measured gentle (1.42% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Littleton View Co.",
+  "date_edtf": "1880~",
+  "date_start": 1875,
+  "date_end": 1885,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "College Hill, Poughkeepsie, N.Y, by Slee Bros.",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/College_Hill%2C_Poughkeepsie%2C_N.Y%2C_by_Slee_Bros..jpg/1920px-College_Hill%2C_Poughkeepsie%2C_N.Y%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/4e/College_Hill%2C_Poughkeepsie%2C_N.Y%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:College_Hill,_Poughkeepsie,_N.Y,_by_Slee_Bros..jpg",
+  "license": "Public domain",
+  "w": 2645,
+  "h": 1318,
+  "id": "STA-1992",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1991.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.16,
+  "rot": 0.01,
+  "range": 1.81,
+  "f": 0.91,
+  "depth": "Moderate",
+  "va": 2.149,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/College_Hill%2C_Poughkeepsie%2C_N.Y%2C_by_Slee_Bros..jpg/1920px-College_Hill%2C_Poughkeepsie%2C_N.Y%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.149,
+   "L": [
+    0.390625,
+    0.0,
+    0.08099,
+    0.0,
+    0.364681,
+    0.503135
+   ],
+   "R": [
+    0.397495,
+    -0.005655,
+    0.521601,
+    0.013942,
+    0.369792,
+    0.500492
+   ],
+   "g": [
+    1.0,
+    0.9058
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.01° of rotation. Depth measured moderate (1.81% of frame width); hung in the VR Parlor at 91% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Slee Bros.",
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Men in boats, Poughkeepsie, N.Y, by Slee Bros.",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Men_in_boats%2C_Poughkeepsie%2C_N.Y%2C_by_Slee_Bros..jpg/1920px-Men_in_boats%2C_Poughkeepsie%2C_N.Y%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Men_in_boats%2C_Poughkeepsie%2C_N.Y%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Men_in_boats,_Poughkeepsie,_N.Y,_by_Slee_Bros..jpg",
+  "license": "Public domain",
+  "w": 2591,
+  "h": 1294,
+  "id": "STA-1993",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1992.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.17,
+  "rot": 0.0,
+  "range": 1.95,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.619,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Men_in_boats%2C_Poughkeepsie%2C_N.Y%2C_by_Slee_Bros..jpg/1920px-Men_in_boats%2C_Poughkeepsie%2C_N.Y%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.619,
+   "L": [
+    0.407292,
+    0.0,
+    0.084635,
+    0.0,
+    0.50365,
+    0.457247
+   ],
+   "R": [
+    0.405527,
+    -0.01472,
+    0.53993,
+    0.012598,
+    0.503441,
+    0.443978
+   ],
+   "g": [
+    0.9968,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.0° of rotation. Depth measured moderate (1.95% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Slee Bros.",
+  "date_edtf": "1865~",
+  "date_start": 1860,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Poughkeepsie, from College Hill, by Slee Bros.",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Poughkeepsie%2C_from_College_Hill%2C_by_Slee_Bros..png/1920px-Poughkeepsie%2C_from_College_Hill%2C_by_Slee_Bros..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/99/Poughkeepsie%2C_from_College_Hill%2C_by_Slee_Bros..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Poughkeepsie,_from_College_Hill,_by_Slee_Bros..png",
+  "license": "Public domain",
+  "w": 2657,
+  "h": 1336,
+  "id": "STA-1994",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1993.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.17,
+  "rot": 0.01,
+  "range": 0.4,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.4826,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Poughkeepsie%2C_from_College_Hill%2C_by_Slee_Bros..png/1920px-Poughkeepsie%2C_from_College_Hill%2C_by_Slee_Bros..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.4826,
+   "L": [
+    0.444792,
+    0.0,
+    0.039323,
+    0.0,
+    0.356477,
+    0.441969
+   ],
+   "R": [
+    0.441714,
+    0.002355,
+    0.508374,
+    -0.012573,
+    0.354448,
+    0.44427
+   ],
+   "g": [
+    0.9363,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.01° of rotation. Depth measured gentle (0.4% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Slee Bros.",
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Poughkeepsie, N.Y., from College Hill, by Slee Bros.",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Poughkeepsie%2C_N.Y.%2C_from_College_Hill%2C_by_Slee_Bros..png/1920px-Poughkeepsie%2C_N.Y.%2C_from_College_Hill%2C_by_Slee_Bros..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/98/Poughkeepsie%2C_N.Y.%2C_from_College_Hill%2C_by_Slee_Bros..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Poughkeepsie,_N.Y.,_from_College_Hill,_by_Slee_Bros..png",
+  "license": "Public domain",
+  "w": 2645,
+  "h": 1342,
+  "id": "STA-1995",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1994.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.16,
+  "rot": 0.0,
+  "range": 0.56,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.9213,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Poughkeepsie%2C_N.Y.%2C_from_College_Hill%2C_by_Slee_Bros..png/1920px-Poughkeepsie%2C_N.Y.%2C_from_College_Hill%2C_by_Slee_Bros..png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.9213,
+   "L": [
+    0.432292,
+    0.0,
+    0.059635,
+    0.0,
+    0.443532,
+    0.524127
+   ],
+   "R": [
+    0.426764,
+    -0.003943,
+    0.521084,
+    -0.011162,
+    0.436122,
+    0.526218
+   ],
+   "g": [
+    0.9363,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.0° of rotation. Depth measured gentle (0.56% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Slee Bros.",
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of a cemetery. Poughkeepsie, N.Y (NYPL b13395597-G91F133 039ZF)",
+  "place": "Poughkeepsie, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "* Includes one hand-colored view. Includes views by Slee Brothers, Vail, G. W. Pach and other photographers and publishers. Robert Dennis Collection of Stereoscopic Views. Title devised by cataloger. Views of Poughkeepsie including general and street views; views of the Eastman Business College, including students in various Departments; the water works; the river with steamboats and railroad bridge; a cemetery; Vassar College including buildings, grounds, students in boats, the museum, including interiors and exhibits; portraits.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/View_of_a_cemetery._Poughkeepsie%2C_N.Y_%28NYPL_b13395597-G91F133_039ZF%29.tiff/lossy-page1-1920px-View_of_a_cemetery._Poughkeepsie%2C_N.Y_%28NYPL_b13395597-G91F133_039ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/63/View_of_a_cemetery._Poughkeepsie%2C_N.Y_%28NYPL_b13395597-G91F133_039ZF%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_cemetery._Poughkeepsie,_N.Y_(NYPL_b13395597-G91F133_039ZF).tiff",
+  "license": "Public domain",
+  "w": 2964,
+  "h": 2019,
+  "id": "STA-1996",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/1995.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.04,
+  "range": 0.59,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.3169,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/View_of_a_cemetery._Poughkeepsie%2C_N.Y_%28NYPL_b13395597-G91F133_039ZF%29.tiff/lossy-page1-1920px-View_of_a_cemetery._Poughkeepsie%2C_N.Y_%28NYPL_b13395597-G91F133_039ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3169,
+   "L": [
+    0.402604,
+    0.0,
+    0.090365,
+    0.0,
+    0.448777,
+    0.115061
+   ],
+   "R": [
+    0.4037,
+    0.00424,
+    0.510147,
+    -0.00512,
+    0.450535,
+    0.122241
+   ],
+   "g": [
+    1.0,
+    0.9205
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.04° of rotation. Depth measured gentle (0.59% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]

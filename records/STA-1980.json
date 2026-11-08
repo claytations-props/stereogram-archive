@@ -1,0 +1,69 @@
+{
+ "title": "Vassar College, Poughkeepsie, N.Y",
+ "place": "Poughkeepsie, New York",
+ "year": "c. 1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Vassar_College%2C_Poughkeepsie%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Vassar_College%2C_Poughkeepsie%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Vassar_College%2C_Poughkeepsie%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Vassar_College,_Poughkeepsie,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2693,
+ "h": 1366,
+ "id": "STA-1980",
+ "rect": "rect/1979.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.15,
+ "rot": 0.05,
+ "range": 0.74,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.4725,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Vassar_College%2C_Poughkeepsie%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Vassar_College%2C_Poughkeepsie%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.4725,
+  "L": [
+   0.306771,
+   0.0,
+   0.136719,
+   0.0,
+   0.410678,
+   0.509754
+  ],
+  "R": [
+   0.306801,
+   -0.004723,
+   0.52449,
+   0.000955,
+   0.408053,
+   0.51801
+  ],
+  "g": [
+   0.8911,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.05° of rotation. Depth measured gentle (0.74% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870~",
+ "date_start": 1865,
+ "date_end": 1875,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10069146,
+ "source_revision_id": null,
+ "source_sha1": "d141d7d4454fec2c0ef72f4fdd4d15fac92a8c10"
+}

@@ -1,0 +1,71 @@
+{
+ "title": "Main Street Dock, looking up the river Poughkeepsie",
+ "place": "Poughkeepsie, New York",
+ "year": "1867",
+ "sy": 1867,
+ "era": "early",
+ "cats": [
+  "water",
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Main_Street_Dock%2C_looking_up_the_river_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Main_Street_Dock%2C_looking_up_the_river_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Main_Street_Dock%2C_looking_up_the_river_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Main_Street_Dock,_looking_up_the_river_Poughkeepsie,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2669,
+ "h": 1348,
+ "id": "STA-1983",
+ "rect": "rect/1982.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.14,
+ "rot": 0.02,
+ "range": 1.08,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8218,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Main_Street_Dock%2C_looking_up_the_river_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Main_Street_Dock%2C_looking_up_the_river_Poughkeepsie%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8218,
+  "L": [
+   0.223438,
+   0.0,
+   0.250781,
+   0.0,
+   0.538144,
+   0.424227
+  ],
+  "R": [
+   0.225211,
+   -0.00352,
+   0.720008,
+   0.00064,
+   0.547267,
+   0.414884
+  ],
+  "g": [
+   1.0,
+   0.9526
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.02° of rotation. Depth measured gentle (1.08% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1867",
+ "date_start": 1867,
+ "date_end": 1867,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10068978,
+ "source_revision_id": null,
+ "source_sha1": "e006a57b95fff9328ffed182fbc19f868baf8dc3"
+}
