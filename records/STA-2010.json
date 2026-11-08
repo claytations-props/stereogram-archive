@@ -1,0 +1,69 @@
+{
+ "title": "Church, by Leo Daft",
+ "place": "Troy, New York",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Church%2C_by_Leo_Daft.jpg/1920px-Church%2C_by_Leo_Daft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Church%2C_by_Leo_Daft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Church,_by_Leo_Daft.jpg",
+ "license": "Public domain",
+ "w": 2683,
+ "h": 1559,
+ "id": "STA-2010",
+ "rect": "rect/2009.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.13,
+ "rot": 0.01,
+ "range": 0.48,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0117,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Church%2C_by_Leo_Daft.jpg/1920px-Church%2C_by_Leo_Daft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0117,
+  "L": [
+   0.404687,
+   0.0,
+   0.079427,
+   0.0,
+   0.688172,
+   0.263889
+  ],
+  "R": [
+   0.414935,
+   -0.000528,
+   0.510735,
+   0.000245,
+   0.703238,
+   0.256696
+  ],
+  "g": [
+   1.0,
+   0.9824
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured gentle (0.48% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Leo Daft",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10249966,
+ "source_revision_id": null,
+ "source_sha1": "1cd6f0c43fcf132abc914d9a569c17dd0eded034"
+}
