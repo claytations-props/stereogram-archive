@@ -1,0 +1,69 @@
+{
+ "title": "Cathedral (interior view), Albany, N.Y",
+ "place": "Albany, New York",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Cathedral_%28interior_view%29%2C_Albany%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Cathedral_%28interior_view%29%2C_Albany%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cathedral_%28interior_view%29%2C_Albany%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Cathedral_(interior_view),_Albany,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2535,
+ "h": 1266,
+ "id": "STA-2144",
+ "rect": "rect/2143.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.12,
+ "rot": 0.04,
+ "range": 1.27,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8375,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Cathedral_%28interior_view%29%2C_Albany%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Cathedral_%28interior_view%29%2C_Albany%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8375,
+  "L": [
+   0.38125,
+   0.0,
+   0.086719,
+   0.0,
+   0.911366,
+   0.043274
+  ],
+  "R": [
+   0.383871,
+   -0.002634,
+   0.522766,
+   -0.004596,
+   0.925703,
+   0.035396
+  ],
+  "g": [
+   0.9904,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.04° of rotation. Depth measured gentle (1.27% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10077372,
+ "source_revision_id": null,
+ "source_sha1": "09bb9b5bfff5ba6763c1dc71850ba9c4784b61dd"
+}
