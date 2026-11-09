@@ -1,0 +1,69 @@
+{
+ "title": "Market St., looking west, Harrisburg, Pa",
+ "place": "Harrisburg, Pennsylvania",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/4/40/Market_St.%2C_looking_west%2C_Harrisburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/40/Market_St.%2C_looking_west%2C_Harrisburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Market_St.,_looking_west,_Harrisburg,_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 400,
+ "id": "STA-2129",
+ "rect": "rect/2128.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.27,
+ "rot": 0.05,
+ "range": 0.97,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.3527,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/4/40/Market_St.%2C_looking_west%2C_Harrisburg%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.3527,
+  "L": [
+   0.368421,
+   0.0,
+   0.100658,
+   0.0,
+   0.5175,
+   0.36875
+  ],
+  "R": [
+   0.369122,
+   -0.003716,
+   0.531758,
+   0.001179,
+   0.518599,
+   0.36989
+  ],
+  "g": [
+   0.9513,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.27% vertical error and 0.05° of rotation. Depth measured gentle (0.97% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7481250,
+ "source_revision_id": null,
+ "source_sha1": "f9243d0b1b24c29b3a9ac53db55dd4381a442742"
+}

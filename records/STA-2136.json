@@ -1,0 +1,69 @@
+{
+ "title": "The Capital from the east side",
+ "place": "Harrisburg, Pennsylvania",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/The_Capital_from_the_east_side%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/87/The_Capital_from_the_east_side%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_Capital_from_the_east_side,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 387,
+ "id": "STA-2136",
+ "rect": "rect/2135.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.24,
+ "rot": 0.02,
+ "range": 1.09,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.3088,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/8/87/The_Capital_from_the_east_side%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.3088,
+  "L": [
+   0.373684,
+   0.0,
+   0.111184,
+   0.0,
+   0.560724,
+   0.388889
+  ],
+  "R": [
+   0.372888,
+   -0.011326,
+   0.537956,
+   0.004487,
+   0.563322,
+   0.378245
+  ],
+  "g": [
+   0.968,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.02° of rotation. Depth measured gentle (1.09% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7481260,
+ "source_revision_id": null,
+ "source_sha1": "22046bba433f6156b97fc7331b90ceb440881cdb"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Jno. C. Kunkle's monument",
+ "place": "Harrisburg, Pennsylvania",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/Jno._C._Kunkle%27s_monument%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/19/Jno._C._Kunkle%27s_monument%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Jno._C._Kunkle%27s_monument,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 396,
+ "id": "STA-2139",
+ "rect": "rect/2138.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.21,
+ "rot": 0.25,
+ "range": 3.22,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.75,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/1/19/Jno._C._Kunkle%27s_monument%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.75,
+  "L": [
+   0.343421,
+   0.0,
+   0.132237,
+   0.0,
+   0.878788,
+   0.059343
+  ],
+  "R": [
+   0.341975,
+   0.012787,
+   0.574042,
+   -0.005087,
+   0.880263,
+   0.057638
+  ],
+  "g": [
+   1.0,
+   0.9364
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.25° of rotation. Depth measured deep (3.22% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7481261,
+ "source_revision_id": null,
+ "source_sha1": "7f453bf1cde452664c07aadf703db9b5ba992239"
+}
