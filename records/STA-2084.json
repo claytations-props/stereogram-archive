@@ -1,0 +1,69 @@
+{
+ "title": "Bird's eye view of Lowell, Mass, from Robert N. Dennis collection of stereoscopic views 2",
+ "place": "Lowell, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bird%27s_eye_view_of_Lowell%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bird%27s_eye_view_of_Lowell%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Bird%27s_eye_view_of_Lowell,_Mass,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 401,
+ "id": "STA-2084",
+ "rect": "rect/2083.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.26,
+ "rot": 0.02,
+ "range": 0.57,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.489,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bird%27s_eye_view_of_Lowell%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.489,
+  "L": [
+   0.356579,
+   0.0,
+   0.134868,
+   0.0,
+   0.453865,
+   0.390274
+  ],
+  "R": [
+   0.35582,
+   -0.004363,
+   0.560104,
+   0.008231,
+   0.452771,
+   0.396993
+  ],
+  "g": [
+   1.0,
+   0.9745
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.26% vertical error and 0.02° of rotation. Depth measured gentle (0.57% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442862,
+ "source_revision_id": null,
+ "source_sha1": "d7379f3b43efe6b5fbeb34247a4dab7f836638d5"
+}

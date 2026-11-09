@@ -1,0 +1,69 @@
+{
+ "title": "Decorations of Ladd & Whitney Monument",
+ "place": "Lowell, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Decorations_of_Ladd_%26_Whitney_Monument%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Decorations_of_Ladd_%26_Whitney_Monument%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Decorations_of_Ladd_%26_Whitney_Monument,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 405,
+ "id": "STA-2109",
+ "rect": "rect/2108.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.19,
+ "rot": 0.0,
+ "range": 1.68,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.8886,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Decorations_of_Ladd_%26_Whitney_Monument%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8886,
+  "L": [
+   0.398684,
+   0.0,
+   0.074342,
+   0.0,
+   0.841975,
+   0.075309
+  ],
+  "R": [
+   0.393122,
+   0.001378,
+   0.509541,
+   -0.013873,
+   0.838713,
+   0.077298
+  ],
+  "g": [
+   0.9128,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.0° of rotation. Depth measured moderate (1.68% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442931,
+ "source_revision_id": null,
+ "source_sha1": "fb654b826decfa65a3143bb95c04c1ed2b881934"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Statue of Victory, Monument Square, Lowell, by Towle, S. (Simon)",
+ "place": "Lowell, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Statue_of_Victory%2C_Monument_Square%2C_Lowell%2C_by_Towle%2C_S._%28Simon%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Statue_of_Victory%2C_Monument_Square%2C_Lowell%2C_by_Towle%2C_S._%28Simon%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Victory,_Monument_Square,_Lowell,_by_Towle,_S._(Simon).jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 388,
+ "id": "STA-2101",
+ "rect": "rect/2100.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.22,
+ "rot": 0.0,
+ "range": 2.16,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.9172,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Statue_of_Victory%2C_Monument_Square%2C_Lowell%2C_by_Towle%2C_S._%28Simon%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.9172,
+  "L": [
+   0.407895,
+   0.0,
+   0.076974,
+   0.0,
+   0.871134,
+   0.060567
+  ],
+  "R": [
+   0.40561,
+   -0.00987,
+   0.512776,
+   0.000849,
+   0.867798,
+   0.064378
+  ],
+  "g": [
+   0.9667,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.0° of rotation. Depth measured moderate (2.16% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Towle, S. (Simon)",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442901,
+ "source_revision_id": null,
+ "source_sha1": "020ad2fbad072c0e5684c967d01eca54e0dfcffb"
+}

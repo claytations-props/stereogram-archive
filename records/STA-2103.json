@@ -1,0 +1,69 @@
+{
+ "title": "Lowell depot, by Leander Baker",
+ "place": "Lowell, Massachusetts",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Lowell_depot%2C_by_Leander_Baker.png/1920px-Lowell_depot%2C_by_Leander_Baker.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Lowell_depot%2C_by_Leander_Baker.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Lowell_depot,_by_Leander_Baker.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1393,
+ "id": "STA-2103",
+ "rect": "rect/2102.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.13,
+ "rot": 0.04,
+ "range": 0.97,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9625,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Lowell_depot%2C_by_Leander_Baker.png/1920px-Lowell_depot%2C_by_Leander_Baker.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9625,
+  "L": [
+   0.400521,
+   0.0,
+   0.08099,
+   0.0,
+   0.81781,
+   0.12436
+  ],
+  "R": [
+   0.404902,
+   -0.004367,
+   0.521754,
+   0.005079,
+   0.823014,
+   0.121191
+  ],
+  "g": [
+   0.9585,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.04° of rotation. Depth measured gentle (0.97% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Leander Baker",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7459298,
+ "source_revision_id": null,
+ "source_sha1": "286bfd17f640485af95638135d4e55ed779761a7"
+}

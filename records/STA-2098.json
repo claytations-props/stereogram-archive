@@ -1,0 +1,69 @@
+{
+ "title": "Barrister's Hall",
+ "place": "Lowell, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Barrister%27s_Hall%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Barrister%27s_Hall%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Barrister%27s_Hall,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 392,
+ "id": "STA-2098",
+ "rect": "rect/2097.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.22,
+ "rot": 0.01,
+ "range": 1.46,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9085,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Barrister%27s_Hall%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.9085,
+  "L": [
+   0.365789,
+   0.0,
+   0.124342,
+   0.0,
+   0.780612,
+   0.141582
+  ],
+  "R": [
+   0.366356,
+   -0.003847,
+   0.509829,
+   0.005039,
+   0.78179,
+   0.145169
+  ],
+  "g": [
+   0.9851,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.01° of rotation. Depth measured gentle (1.46% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442891,
+ "source_revision_id": null,
+ "source_sha1": "3282554eb4882c1be71c04b570fb32f07c48ecc5"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Lowell water works tunnel",
+ "place": "Lowell, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Lowell_water_works_tunnel%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Lowell_water_works_tunnel%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Lowell_water_works_tunnel,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 393,
+ "id": "STA-2085",
+ "rect": "rect/2084.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.21,
+ "rot": 0.01,
+ "range": 1.5,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.2231,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Lowell_water_works_tunnel%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.2231,
+  "L": [
+   0.403947,
+   0.0,
+   0.082237,
+   0.0,
+   0.638677,
+   0.301527
+  ],
+  "R": [
+   0.406474,
+   -0.005863,
+   0.509157,
+   0.002183,
+   0.634885,
+   0.290302
+  ],
+  "g": [
+   1.0,
+   0.9483
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.01° of rotation. Depth measured moderate (1.5% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442898,
+ "source_revision_id": null,
+ "source_sha1": "3f919c28e53f49be11070396bd9f408a8b7db7f6"
+}
