@@ -171,6 +171,7 @@ canvas#ana.show{display:block}
 .vbot a{color:var(--brass)}
 .navbtn{position:absolute;top:50%;transform:translateY(-50%);background:rgba(30,27,22,.9);border:1px solid var(--line);color:var(--text);width:46px;height:46px;border-radius:50%;font-size:20px;cursor:pointer;z-index:5}
 .navbtn:hover{border-color:var(--brass);color:var(--brass2)}
+.navbtn:disabled,.xbtn:disabled{opacity:.45;cursor:default}
 #prevB{left:14px}#nextB{right:14px}
 .xbtn{background:var(--panel2);border:1px solid var(--line);color:var(--text);border-radius:3px;padding:10px 14px;cursor:pointer;font-weight:600;font-size:11.5px;letter-spacing:.08em;text-transform:uppercase}
 .xbtn:hover{border-color:var(--brass)}
@@ -620,6 +621,12 @@ function showCurrent(keepMode){
  ["eyeL","eyeR","wigEl"].forEach(id=>{document.getElementById(id).style.backgroundImage="none"});
  $("#vRecord").innerHTML='<p style="font-size:13.5px;color:#6d5c39">Loading the full record\u2026</p>';
  syncFavBtn();
+ /* Round 12: in a one-item result list the step arrows are no-ops that
+    look live, so they read disabled there instead of silently doing
+    nothing. The keyboard arrows still wrap, with the position line
+    ("Result 1 of 1") saying where they landed. */
+ const oneItem=currentList.length<=1;
+ ["prevB","nextB","vPrev10","vNext10"].forEach(id=>{document.getElementById(id).disabled=oneItem;});
  setMode(keepMode?mode:"pair");
  getRecord(b.id).then(rec=>{
   if(tk!==viewToken||!rec)return;
