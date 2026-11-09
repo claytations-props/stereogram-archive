@@ -124876,5 +124876,772 @@
   "date_start": 1865,
   "date_end": 1865,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "River view, Kingston, N.Y., Hudson River",
+  "place": "Kingston, New York",
+  "year": "1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/River_view%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-River_view%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/37/River_view%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:River_view,_Kingston,_N.Y.,_Hudson_River,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2605,
+  "h": 1577,
+  "id": "STA-2113",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2112.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.24,
+  "rot": 0.0,
+  "range": 0.69,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 3.5183,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/River_view%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-River_view%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 3.5183,
+   "L": [
+    0.399479,
+    0.0,
+    0.083073,
+    0.0,
+    0.187608,
+    0.526248
+   ],
+   "R": [
+    0.398752,
+    -0.00163,
+    0.522143,
+    0.000632,
+    0.187723,
+    0.524933
+   ],
+   "g": [
+    0.9795,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.0° of rotation. Depth measured gentle (0.69% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1875",
+  "date_start": 1875,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View at dock, Kingston, N.Y., Hudson River",
+  "place": "Kingston, New York",
+  "year": "1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/View_at_dock%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_at_dock%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/49/View_at_dock%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_at_dock,_Kingston,_N.Y.,_Hudson_River,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2597,
+  "h": 1585,
+  "id": "STA-2114",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2113.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 0.37,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.4082,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/View_at_dock%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_at_dock%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.4082,
+   "L": [
+    0.395313,
+    0.0,
+    0.086198,
+    0.0,
+    0.459898,
+    0.471416
+   ],
+   "R": [
+    0.395623,
+    -0.002101,
+    0.52756,
+    -0.001962,
+    0.459175,
+    0.473787
+   ],
+   "g": [
+    0.9466,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured gentle (0.37% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1875",
+  "date_start": 1875,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "City Hall, Kingston, N.Y., Hudson River",
+  "place": "Kingston, New York",
+  "year": "1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/City_Hall%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-City_Hall%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/db/City_Hall%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:City_Hall,_Kingston,_N.Y.,_Hudson_River,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2625,
+  "h": 1577,
+  "id": "STA-2115",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2114.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.01,
+  "range": 1.31,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.6524,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/City_Hall%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-City_Hall%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.6524,
+   "L": [
+    0.365625,
+    0.0,
+    0.10651,
+    0.0,
+    0.933218,
+    0.038595
+   ],
+   "R": [
+    0.364645,
+    0.000971,
+    0.541017,
+    -0.003894,
+    0.935392,
+    0.029443
+   ],
+   "g": [
+    0.9673,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured gentle (1.31% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1875",
+  "date_start": 1875,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "N.Y. State Armory, Kingston, N.Y",
+  "place": "Kingston, New York",
+  "year": "1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/N.Y._State_Armory%2C_Kingston%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-N.Y._State_Armory%2C_Kingston%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Y._State_Armory%2C_Kingston%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:N.Y._State_Armory,_Kingston,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2621,
+  "h": 1581,
+  "id": "STA-2116",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2115.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.0,
+  "range": 1.65,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.4641,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/N.Y._State_Armory%2C_Kingston%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-N.Y._State_Armory%2C_Kingston%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.4641,
+   "L": [
+    0.392708,
+    0.0,
+    0.091406,
+    0.0,
+    0.444732,
+    0.27677
+   ],
+   "R": [
+    0.392883,
+    -0.001203,
+    0.52983,
+    0.002277,
+    0.445009,
+    0.268193
+   ],
+   "g": [
+    0.9926,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.0° of rotation. Depth measured moderate (1.65% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1875",
+  "date_start": 1875,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Court House, built 1818, Kingston, N.Y",
+  "place": "Kingston, New York",
+  "year": "Undated",
+  "sy": 1900,
+  "era": "undated",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Court_House%2C_built_1818%2C_Kingston%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Court_House%2C_built_1818%2C_Kingston%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/af/Court_House%2C_built_1818%2C_Kingston%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Court_House,_built_1818,_Kingston,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2601,
+  "h": 1569,
+  "id": "STA-2117",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2116.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.06,
+  "rot": 0.0,
+  "range": 0.96,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7337,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Court_House%2C_built_1818%2C_Kingston%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Court_House%2C_built_1818%2C_Kingston%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7337,
+   "L": [
+    0.397396,
+    0.0,
+    0.083594,
+    0.0,
+    0.8981,
+    0.039292
+   ],
+   "R": [
+    0.396048,
+    0.0007,
+    0.524288,
+    0.002488,
+    0.896657,
+    0.027509
+   ],
+   "g": [
+    0.9909,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.0° of rotation. Depth measured gentle (0.96% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": null,
+  "date_start": null,
+  "date_end": null,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Old red store, Kingston, N.Y., Hudson River",
+  "place": "Kingston, New York",
+  "year": "1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Old_red_store%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Old_red_store%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/af/Old_red_store%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Old_red_store,_Kingston,_N.Y.,_Hudson_River,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2617,
+  "h": 1581,
+  "id": "STA-2118",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2117.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.06,
+  "rot": 0.0,
+  "range": 1.62,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8171,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Old_red_store%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Old_red_store%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8171,
+   "L": [
+    0.397917,
+    0.0,
+    0.085156,
+    0.0,
+    0.806034,
+    0.076293
+   ],
+   "R": [
+    0.399623,
+    0.001204,
+    0.518675,
+    -0.000814,
+    0.807232,
+    0.073066
+   ],
+   "g": [
+    0.9603,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.0° of rotation. Depth measured moderate (1.62% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1875",
+  "date_start": 1875,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Savings Bank and Wall St., Kingston, N.Y",
+  "place": "Kingston, New York",
+  "year": "1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Savings_Bank_and_Wall_St.%2C_Kingston%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Savings_Bank_and_Wall_St.%2C_Kingston%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Savings_Bank_and_Wall_St.%2C_Kingston%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Savings_Bank_and_Wall_St.,_Kingston,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2641,
+  "h": 1581,
+  "id": "STA-2119",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2118.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.01,
+  "range": 4.67,
+  "f": 0.89,
+  "depth": "Deep",
+  "va": 0.7515,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Savings_Bank_and_Wall_St.%2C_Kingston%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Savings_Bank_and_Wall_St.%2C_Kingston%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7515,
+   "L": [
+    0.38125,
+    0.0,
+    0.088281,
+    0.0,
+    0.847694,
+    0.088338
+   ],
+   "R": [
+    0.37966,
+    -0.002094,
+    0.528007,
+    0.000303,
+    0.849413,
+    0.082993
+   ],
+   "g": [
+    0.9756,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured deep (4.67% of frame width); hung in the VR Parlor at 89% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1875",
+  "date_start": 1875,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Music Hall and John St., Kingston, N.Y., Hudson River",
+  "place": "Kingston, New York",
+  "year": "1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Music_Hall_and_John_St.%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Music_Hall_and_John_St.%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Music_Hall_and_John_St.%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Music_Hall_and_John_St.,_Kingston,_N.Y.,_Hudson_River,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2613,
+  "h": 1613,
+  "id": "STA-2120",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2119.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.03,
+  "range": 1.46,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8341,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Music_Hall_and_John_St.%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Music_Hall_and_John_St.%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8341,
+   "L": [
+    0.3875,
+    0.0,
+    0.084635,
+    0.0,
+    0.752743,
+    0.163291
+   ],
+   "R": [
+    0.390609,
+    -0.000488,
+    0.524169,
+    0.000222,
+    0.752686,
+    0.167772
+   ],
+   "g": [
+    0.9584,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.03° of rotation. Depth measured gentle (1.46% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1875",
+  "date_start": 1875,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Wall St., from N. front, Kingston, N.Y., Hudson River",
+  "place": "Kingston, New York",
+  "year": "1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Wall_St.%2C_from_N._front%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Wall_St.%2C_from_N._front%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/63/Wall_St.%2C_from_N._front%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Wall_St.,_from_N._front,_Kingston,_N.Y.,_Hudson_River,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2629,
+  "h": 1577,
+  "id": "STA-2121",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2120.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.17,
+  "rot": 0.0,
+  "range": 0.47,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.7427,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Wall_St.%2C_from_N._front%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Wall_St.%2C_from_N._front%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.7427,
+   "L": [
+    0.402083,
+    0.0,
+    0.083594,
+    0.0,
+    0.384549,
+    0.325955
+   ],
+   "R": [
+    0.40355,
+    -0.000385,
+    0.521505,
+    -3e-05,
+    0.3839,
+    0.344812
+   ],
+   "g": [
+    0.94,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.0° of rotation. Depth measured gentle (0.47% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1875",
+  "date_start": 1875,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Masonic Hall, Kingston, N.Y. View of the west",
+  "place": "Kingston, New York",
+  "year": "1859",
+  "sy": 1859,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Masonic_Hall%2C_Kingston%2C_N.Y._View_of_the_west%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Masonic_Hall%2C_Kingston%2C_N.Y._View_of_the_west%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Masonic_Hall%2C_Kingston%2C_N.Y._View_of_the_west%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Masonic_Hall,_Kingston,_N.Y._View_of_the_west,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2586,
+  "h": 1272,
+  "id": "STA-2122",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2121.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.02,
+  "range": 10.9,
+  "f": 0.32,
+  "depth": "Deep",
+  "va": 0.9036,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Masonic_Hall%2C_Kingston%2C_N.Y._View_of_the_west%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Masonic_Hall%2C_Kingston%2C_N.Y._View_of_the_west%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9036,
+   "L": [
+    0.370833,
+    0.0,
+    0.108594,
+    0.0,
+    0.834746,
+    0.027013
+   ],
+   "R": [
+    0.369893,
+    -0.00595,
+    0.535537,
+    0.008802,
+    0.833723,
+    0.041759
+   ],
+   "g": [
+    1.0,
+    0.9958
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured deep (10.9% of frame width); hung in the VR Parlor at 32% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1859",
+  "date_start": 1859,
+  "date_end": 1859,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Music Hall and John St., Kingston, N.Y., Hudson River, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Kingston, New York",
+  "year": "1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Music_Hall_and_John_St.%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-Music_Hall_and_John_St.%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Music_Hall_and_John_St.%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Music_Hall_and_John_St.,_Kingston,_N.Y.,_Hudson_River,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png",
+  "license": "Public domain",
+  "w": 2625,
+  "h": 1589,
+  "id": "STA-2123",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2122.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 0.92,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0744,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Music_Hall_and_John_St.%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-Music_Hall_and_John_St.%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0744,
+   "L": [
+    0.40625,
+    0.0,
+    0.083073,
+    0.0,
+    0.624785,
+    0.160499
+   ],
+   "R": [
+    0.408979,
+    0.000119,
+    0.517258,
+    -0.000856,
+    0.625156,
+    0.152842
+   ],
+   "g": [
+    0.9455,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (0.92% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1875",
+  "date_start": 1875,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Masonic Hall, Kingston, N.Y. View of the east",
+  "place": "Kingston, New York",
+  "year": "1859",
+  "sy": 1859,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Masonic_Hall%2C_Kingston%2C_N.Y._View_of_the_east%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Masonic_Hall%2C_Kingston%2C_N.Y._View_of_the_east%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Masonic_Hall%2C_Kingston%2C_N.Y._View_of_the_east%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Masonic_Hall,_Kingston,_N.Y._View_of_the_east,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2595,
+  "h": 1269,
+  "id": "STA-2124",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2123.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 1.39,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.012,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Masonic_Hall%2C_Kingston%2C_N.Y._View_of_the_east%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Masonic_Hall%2C_Kingston%2C_N.Y._View_of_the_east%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.012,
+   "L": [
+    0.352083,
+    0.0,
+    0.119531,
+    0.0,
+    0.711395,
+    0.260383
+   ],
+   "R": [
+    0.356122,
+    0.007517,
+    0.536188,
+    -0.014534,
+    0.710404,
+    0.254421
+   ],
+   "g": [
+    1.0,
+    0.9417
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured gentle (1.39% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1859",
+  "date_start": 1859,
+  "date_end": 1859,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Masonic Hall, Kingston, N.Y. View of the south",
+  "place": "Kingston, New York",
+  "year": "1859",
+  "sy": 1859,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Masonic_Hall%2C_Kingston%2C_N.Y._View_of_the_south%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Masonic_Hall%2C_Kingston%2C_N.Y._View_of_the_south%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Masonic_Hall%2C_Kingston%2C_N.Y._View_of_the_south%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Masonic_Hall,_Kingston,_N.Y._View_of_the_south,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2592,
+  "h": 1281,
+  "id": "STA-2125",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2124.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 2.84,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.8736,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Masonic_Hall%2C_Kingston%2C_N.Y._View_of_the_south%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Masonic_Hall%2C_Kingston%2C_N.Y._View_of_the_south%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8736,
+   "L": [
+    0.327604,
+    0.0,
+    0.165885,
+    0.0,
+    0.758693,
+    0.203899
+   ],
+   "R": [
+    0.322616,
+    -0.001741,
+    0.544377,
+    0.009712,
+    0.750688,
+    0.214183
+   ],
+   "g": [
+    1.0,
+    0.912
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured deep (2.84% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1859",
+  "date_start": 1859,
+  "date_end": 1859,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]

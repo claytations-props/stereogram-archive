@@ -1,0 +1,69 @@
+{
+ "title": "City Hall, Kingston, N.Y., Hudson River",
+ "place": "Kingston, New York",
+ "year": "1875",
+ "sy": 1875,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/City_Hall%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-City_Hall%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/db/City_Hall%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:City_Hall,_Kingston,_N.Y.,_Hudson_River,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2625,
+ "h": 1577,
+ "id": "STA-2115",
+ "rect": "rect/2114.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.07,
+ "rot": 0.01,
+ "range": 1.31,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.6524,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/City_Hall%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-City_Hall%2C_Kingston%2C_N.Y.%2C_Hudson_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.6524,
+  "L": [
+   0.365625,
+   0.0,
+   0.10651,
+   0.0,
+   0.933218,
+   0.038595
+  ],
+  "R": [
+   0.364645,
+   0.000971,
+   0.541017,
+   -0.003894,
+   0.935392,
+   0.029443
+  ],
+  "g": [
+   0.9673,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured gentle (1.31% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1875",
+ "date_start": 1875,
+ "date_end": 1875,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10065082,
+ "source_revision_id": null,
+ "source_sha1": "be28935c8a377172ff16e13473ca08c6dfa6abd2"
+}
