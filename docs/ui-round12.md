@@ -197,7 +197,26 @@ which supersedes the round-11 Parlor harness):
   sync, flat Save button, in-room SAVE pill dim at start). Both
   vr.html script blocks also pass node --check with no syntax errors.
 
-Live verification: [to be filled after push]
+Live verification: after push, curl confirmed the new code served
+(index.html carries the oneItem guard and the centred loading rule;
+vr.html carries "Recent Accessions"). A live browser walk
+(02:58–03:02 CST) then confirmed the behavior: searching "sta-0001"
+shows exactly 1 result, and the viewer on it reads "Result 1 of 1 ·
+Search: sta-0001" with all four step buttons disabled and dimmed;
+clearing the search and opening the first card of the full list shows
+"Result 1 of 2183 · All items" with all four buttons live again.
+In the flat Parlor the Set dropdown lists "Recent Accessions · 10"
+second after "All cards · 2183"; selecting it shows the wall banner
+"Recent Accessions · Cards 1–10 of 10", ten cards STA-2183 down to
+STA-2174 with STA-2183 first and highlighted, the status line
+"Current set · Recent Accessions · Card 1 of 10 · Wall page 1 of 1",
+and the finding-aid cabinet lists "Recent Accessions 10" under
+Start, directly below "All cards 2183". No errors or unexpected
+states at any step. The loading-line overlay was verified in the
+harness (stylesheet rule plus computed position) and by the served
+HTML; its centred appearance over a loading rectified pair was not
+re-walked live this round, since the live rectified modes were
+verified in round 11 and the change is positioning only.
 
 What only a headset can judge: whether the in-room control row still
 reads clearly in VR now that it shows only inside a session, and
