@@ -169,10 +169,11 @@ function thumbFrom(u0,w){
 /*SETS-BEGIN*/
 /* Browsing sets, derived from the catalog exactly as the flat gallery
    structures them: All cards in accession order; the Reading List (the
-   gallery's favorites, in catalog order); one set per Collection in
-   first-appearance order, as the finding aid lists them; one set per
-   Series shelf in the gallery's shelf order. A card belongs to a shelf
-   when its cats array includes the shelf key. */
+   gallery's favorites, in catalog order); Recent Accessions, the last
+   ten cards newest first, as the gallery shelf shows them; one set per
+   Collection in first-appearance order, as the finding aid lists them;
+   one set per Series shelf in the gallery's shelf order. A card belongs
+   to a shelf when its cats array includes the shelf key. */
 const CATLIST=[["water","Falls & Rivers"],["mountains","Mountains & Canyons"],["cities","Cities & Towns"],["war","Civil War"],["world","Around the World"],["people","People & Comedy"],["oddities","Oddities"]];
 const CATLABEL=Object.fromEntries(CATLIST);
 function deriveSets(DATA,favIds){
@@ -180,6 +181,12 @@ function deriveSets(DATA,favIds){
   const favSet=new Set(favIds||[]);
   const favIdx=DATA.map((d,i)=>i).filter(i=>favSet.has(DATA[i].id));
   if(favIdx.length)sets.push({key:'favs',label:'Reading List',indices:favIdx});
+  /* Round 12: the gallery's Recent Accessions shelf had no Parlor
+     equivalent — a VR visitor could only reach new cards by paging
+     91 wall pages. The set is the last ten cards, newest first, the
+     same order the gallery shelf shows them. */
+  const recentIdx=DATA.map((d,i)=>i).slice(-10).reverse();
+  if(recentIdx.length)sets.push({key:'recent',label:'Recent Accessions',indices:recentIdx});
   const colls=[];
   DATA.forEach(d=>{if(!colls.includes(d.coll))colls.push(d.coll);});
   colls.forEach(name=>{sets.push({key:'coll:'+name,label:name,indices:DATA.map((d,i)=>i).filter(i=>DATA[i].coll===name)});});
@@ -707,6 +714,7 @@ function setPanelEntries(){
   const entries=[];
   const all=SETS.find(s=>s.key==='all');if(all)entries.push({type:'head',label:'Start'},{type:'set',set:all});
   const fav=SETS.find(s=>s.key==='favs');if(fav)entries.push({type:'set',set:fav});
+  const rec=SETS.find(s=>s.key==='recent');if(rec)entries.push({type:'set',set:rec});
   const srch=SETS.find(s=>s.key.startsWith('search:'));if(srch)entries.push({type:'set',set:srch});
   const colls=SETS.filter(s=>s.key.startsWith('coll:'));
   if(colls.length){entries.push({type:'head',label:'Collections'});colls.forEach(set=>entries.push({type:'set',set}));}
