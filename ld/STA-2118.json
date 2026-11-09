@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2118.json",
+ "name": "Old red store, Kingston, N.Y., Hudson River",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2117.jpg",
+ "identifier": "STA-2118",
+ "dateCreated": "1875",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Kingston, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Old_red_store,_Kingston,_N.Y.,_Hudson_River,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

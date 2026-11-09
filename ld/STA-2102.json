@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2102.json",
+ "name": "Art gallery at the old ladies fair, Lowell, 1874, by Towle, S. (Simon)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2101.jpg",
+ "identifier": "STA-2102",
+ "creator": {
+  "@type": "Person",
+  "name": "Towle, S. (Simon)"
+ },
+ "dateCreated": "1874",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lowell, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Art_gallery_at_the_old_ladies_fair,_Lowell,_1874,_by_Towle,_S._(Simon).jpg"
+}

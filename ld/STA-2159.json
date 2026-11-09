@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2159.json",
+ "name": "Grand corridor, Capitol, Albany, N.Y",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2158.jpg",
+ "identifier": "STA-2159",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Albany, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Grand_corridor,_Capitol,_Albany,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

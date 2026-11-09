@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2171.json",
+ "name": "General store (by Fancher & Durkee, successors to C.S. Hall & Co.), 34 Court St., Binghamton, N.Y",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2170.jpg",
+ "identifier": "STA-2171",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Binghamton, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:General_store_(by_Fancher_%26_Durkee,_successors_to_C.S._Hall_%26_Co.),_34_Court_St.,_Binghamton,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

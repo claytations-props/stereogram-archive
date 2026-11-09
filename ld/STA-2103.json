@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2103.json",
+ "name": "Lowell depot, by Leander Baker",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2102.jpg",
+ "identifier": "STA-2103",
+ "creator": {
+  "@type": "Person",
+  "name": "Leander Baker"
+ },
+ "dateCreated": "1859",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lowell, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Lowell_depot,_by_Leander_Baker.png"
+}

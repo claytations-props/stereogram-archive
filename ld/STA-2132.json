@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2132.json",
+ "name": "Capitol. (Harrisburg, Pennsylvania.), by A. G. Keet",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2131.jpg",
+ "identifier": "STA-2132",
+ "creator": {
+  "@type": "Person",
+  "name": "A. G. Keet"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Harrisburg, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Capitol._(Harrisburg,_Pennsylvania.),_by_A._G._Keet.jpg"
+}

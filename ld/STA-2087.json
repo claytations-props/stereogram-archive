@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2087.json",
+ "name": "Bridge Street Canal, Lowell, Mass",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2086.jpg",
+ "identifier": "STA-2087",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lowell, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bridge_Street_Canal,_Lowell,_Mass,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

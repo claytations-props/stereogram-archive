@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2119.json",
+ "name": "Savings Bank and Wall St., Kingston, N.Y",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2118.jpg",
+ "identifier": "STA-2119",
+ "dateCreated": "1875",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Kingston, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Savings_Bank_and_Wall_St.,_Kingston,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

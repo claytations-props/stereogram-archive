@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2128.json",
+ "name": "Laura Furnace, on the Guniatha River, Harrisburg, Pa",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2127.jpg",
+ "identifier": "STA-2128",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Harrisburg, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Laura_Furnace,_on_the_Guniatha_River,_Harrisburg,_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

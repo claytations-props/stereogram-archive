@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2085.json",
+ "name": "Lowell water works tunnel",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2084.jpg",
+ "identifier": "STA-2085",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lowell, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Lowell_water_works_tunnel,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

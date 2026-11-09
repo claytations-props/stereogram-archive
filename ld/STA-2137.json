@@ -1,0 +1,12 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2137.json",
+ "name": "Near Newport on the P.R.R",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2136.jpg",
+ "identifier": "STA-2137",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Near_Newport_on_the_P.R.R,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

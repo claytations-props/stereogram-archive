@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2124.json",
+ "name": "Masonic Hall, Kingston, N.Y. View of the east",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2123.jpg",
+ "identifier": "STA-2124",
+ "dateCreated": "1859",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Kingston, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Masonic_Hall,_Kingston,_N.Y._View_of_the_east,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

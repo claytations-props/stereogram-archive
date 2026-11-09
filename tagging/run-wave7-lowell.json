@@ -1,0 +1,227 @@
+{
+ "assignments": {
+  "STA-2081": {
+   "conf": "high",
+   "tags": [
+    "cemetery",
+    "trees"
+   ]
+  },
+  "STA-2082": {
+   "conf": "high",
+   "tags": [
+    "river",
+    "factory",
+    "trees"
+   ]
+  },
+  "STA-2084": {
+   "conf": "high",
+   "tags": [
+    "river",
+    "factory",
+    "trees"
+   ]
+  },
+  "STA-2085": {
+   "conf": "high",
+   "tags": [
+    "construction",
+    "workers"
+   ]
+  },
+  "STA-2086": {
+   "conf": "high",
+   "tags": [
+    "suspension bridge",
+    "wagon"
+   ]
+  },
+  "STA-2087": {
+   "conf": "high",
+   "tags": [
+    "canal",
+    "trees"
+   ]
+  },
+  "STA-2088": {
+   "conf": "high",
+   "tags": [
+    "factory",
+    "river",
+    "trees"
+   ]
+  },
+  "STA-2089": {
+   "conf": "high",
+   "tags": [
+    "train station",
+    "trees"
+   ]
+  },
+  "STA-2090": {
+   "conf": "high",
+   "tags": [
+    "rapids",
+    "river",
+    "covered bridge"
+   ]
+  },
+  "STA-2091": {
+   "conf": "high",
+   "tags": [
+    "train station",
+    "railroad tracks"
+   ]
+  },
+  "STA-2092": {
+   "conf": "high",
+   "tags": [
+    "train station",
+    "wagon"
+   ]
+  },
+  "STA-2093": {
+   "conf": "high",
+   "tags": [
+    "courthouse",
+    "trees"
+   ]
+  },
+  "STA-2094": {
+   "conf": "high",
+   "tags": [
+    "house",
+    "garden",
+    "trees"
+   ]
+  },
+  "STA-2095": {
+   "conf": "high",
+   "tags": [
+    "main street",
+    "storefront",
+    "horse-drawn carriage"
+   ]
+  },
+  "STA-2096": {
+   "conf": "high",
+   "tags": [
+    "room interior",
+    "textile mill"
+   ]
+  },
+  "STA-2097": {
+   "conf": "high",
+   "tags": [
+    "canal",
+    "trees",
+    "factory"
+   ]
+  },
+  "STA-2098": {
+   "conf": "high",
+   "tags": [
+    "storefront",
+    "trees"
+   ]
+  },
+  "STA-2099": {
+   "conf": "high",
+   "tags": [
+    "main street",
+    "snow",
+    "horse-drawn carriage"
+   ]
+  },
+  "STA-2100": {
+   "conf": "high",
+   "tags": [
+    "bridge",
+    "river"
+   ]
+  },
+  "STA-2101": {
+   "conf": "high",
+   "tags": [
+    "statue",
+    "monument",
+    "trees"
+   ]
+  },
+  "STA-2102": {
+   "conf": "high",
+   "tags": [
+    "room interior",
+    "museum exhibit"
+   ]
+  },
+  "STA-2103": {
+   "conf": "high",
+   "tags": [
+    "train station",
+    "railroad tracks"
+   ]
+  },
+  "STA-2105": {
+   "conf": "high",
+   "tags": [
+    "mansion",
+    "trees"
+   ]
+  },
+  "STA-2106": {
+   "conf": "high",
+   "tags": [
+    "factory",
+    "river",
+    "trees"
+   ]
+  },
+  "STA-2107": {
+   "conf": "high",
+   "tags": [
+    "canal",
+    "trees",
+    "bridge"
+   ]
+  },
+  "STA-2109": {
+   "conf": "high",
+   "tags": [
+    "statue",
+    "monument",
+    "cannon",
+    "trees"
+   ]
+  },
+  "STA-2110": {
+   "conf": "high",
+   "tags": [
+    "monument",
+    "trees"
+   ]
+  },
+  "STA-2111": {
+   "conf": "high",
+   "tags": [
+    "monument",
+    "crowd",
+    "trees"
+   ]
+  },
+  "STA-2112": {
+   "conf": "high",
+   "tags": [
+    "crowd",
+    "horse-drawn carriage",
+    "monument"
+   ]
+  }
+ },
+ "held": {
+  "STA-2108": "Subject is a boathouse, which has no term in the controlled vocabulary; the building is not a house and no other subject is clearly identifiable, so no confident tag fits.",
+  "STA-2083": "mill building exterior; factory is the only fitting term",
+  "STA-2104": "studio group portrait; portrait group is the only fitting term"
+ }
+}

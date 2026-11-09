@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2091.json",
+ "name": "First Lowell Union Station south side, stereoscopic view",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2090.jpg",
+ "identifier": "STA-2091",
+ "dateCreated": "1848",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lowell, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:First_Lowell_Union_Station_south_side,_stereoscopic_view.jpg"
+}

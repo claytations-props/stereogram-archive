@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2104.json",
+ "name": "Studio view of a group of women holding brooms(?) and 1 woman with a drum",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2103.jpg",
+ "identifier": "STA-2104",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lowell, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Studio_view_of_a_group_of_women_holding_brooms(%3F)_and_1_woman_with_a_drum,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2142.json",
+ "name": "On the Susquehanna below Harrisburg, by Purviance, W. T. (William T.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2141.jpg",
+ "identifier": "STA-2142",
+ "creator": {
+  "@type": "Person",
+  "name": "Purviance, W. T. (William T.)"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Harrisburg, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:On_the_Susquehanna_below_Harrisburg,_by_Purviance,_W._T._(William_T.).jpg"
+}

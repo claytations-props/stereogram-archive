@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2176.json",
+ "name": "Binghamton, N.Y., from Prospect Point, looking south, by Walker, L. E., 1826-1916 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2175.jpg",
+ "identifier": "STA-2176",
+ "creator": {
+  "@type": "Person",
+  "name": "Walker, L. E."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Binghamton, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Binghamton,_N.Y.,_from_Prospect_Point,_looking_south,_by_Walker,_L._E.,_1826-1916_2.jpg"
+}

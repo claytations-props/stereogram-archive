@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>2080</quantity>
+    <quantity>2183</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -2818,6 +2818,110 @@
       <unittitle>High Bridge, Burlington, Vt, by G. B. Davis</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2077.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2085">
+     <did>
+      <unitid>STA-2085</unitid>
+      <unittitle>Lowell water works tunnel</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2084.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2090">
+     <did>
+      <unitid>STA-2090</unitid>
+      <unittitle>Scene at Pawtucket Falls, Lowell, Mass</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2089.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2108">
+     <did>
+      <unitid>STA-2108</unitid>
+      <unittitle>Vesper boat house</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2107.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2113">
+     <did>
+      <unitid>STA-2113</unitid>
+      <unittitle>River view, Kingston, N.Y., Hudson River</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2112.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2114">
+     <did>
+      <unitid>STA-2114</unitid>
+      <unittitle>View at dock, Kingston, N.Y., Hudson River</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2113.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2128">
+     <did>
+      <unitid>STA-2128</unitid>
+      <unittitle>Laura Furnace, on the Guniatha River, Harrisburg, Pa</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2127.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2131">
+     <did>
+      <unitid>STA-2131</unitid>
+      <unittitle>Water St., dam on the Guniatha, Harrisburg, Pa</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2130.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2142">
+     <did>
+      <unitid>STA-2142</unitid>
+      <unittitle>On the Susquehanna below Harrisburg, by Purviance, W. T. (William T.)</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2141.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2179">
+     <did>
+      <unitid>STA-2179</unitid>
+      <unittitle>View near Glens Falls, N.Y</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2178.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2180">
+     <did>
+      <unitid>STA-2180</unitid>
+      <unittitle>Glens Falls, N.Y</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2179.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2181">
+     <did>
+      <unitid>STA-2181</unitid>
+      <unittitle>Granite palisades near Glens Falls, N.Y</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2180.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2182">
+     <did>
+      <unitid>STA-2182</unitid>
+      <unittitle>The gulf, or view from under the stone arch, Glens Falls, N.Y</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2181.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2183">
+     <did>
+      <unitid>STA-2183</unitid>
+      <unittitle>View from Cave Rock, looking north, Glens Falls, N.Y</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2182.jpg"/>
      </did>
     </c>
    </c>
@@ -11902,6 +12006,718 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2079.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-2081">
+     <did>
+      <unitid>STA-2081</unitid>
+      <unittitle>Willow Pond Cemetery, Lowell, Mass</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2080.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2082">
+     <did>
+      <unitid>STA-2082</unitid>
+      <unittitle>Bird's eye view of Lowell, Mass</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2081.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2083">
+     <did>
+      <unitid>STA-2083</unitid>
+      <unittitle>Lowell machine shop</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2082.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2084">
+     <did>
+      <unitid>STA-2084</unitid>
+      <unittitle>Bird's eye view of Lowell, Mass, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2083.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2086">
+     <did>
+      <unitid>STA-2086</unitid>
+      <unittitle>Central Bridge, Lowell, Mass</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2085.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2087">
+     <did>
+      <unitid>STA-2087</unitid>
+      <unittitle>Bridge Street Canal, Lowell, Mass</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2086.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2088">
+     <did>
+      <unitid>STA-2088</unitid>
+      <unittitle>Middlesex wollen mill, Lowell, Mass</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2087.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2089">
+     <did>
+      <unitid>STA-2089</unitid>
+      <unittitle>Merrimac St. Depot, Lowell, Mass</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2088.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2091">
+     <did>
+      <unitid>STA-2091</unitid>
+      <unittitle>First Lowell Union Station south side, stereoscopic view</unittitle>
+      <unitdate normal="1848">1848</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2090.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2092">
+     <did>
+      <unitid>STA-2092</unitid>
+      <unittitle>Lowell and Eastern railroad station</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2091.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2093">
+     <did>
+      <unitid>STA-2093</unitid>
+      <unittitle>View of the Court House, Lowell, Mass, by Towle, S. (Simon)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2092.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2094">
+     <did>
+      <unitid>STA-2094</unitid>
+      <unittitle>Livingston's house, Lowell, Mass, by N. C. Sanborn</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2093.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2095">
+     <did>
+      <unitid>STA-2095</unitid>
+      <unittitle>Central St</unittitle>
+      <unitdate normal="1874/1876">1874–1876</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2094.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2096">
+     <did>
+      <unitid>STA-2096</unitid>
+      <unittitle>Spooling room, Lawrence Mill, Lowell, Mass., U.S.A, by Kilburn Brothers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2095.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2097">
+     <did>
+      <unitid>STA-2097</unitid>
+      <unittitle>Merrimac Canal and mills</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2096.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2098">
+     <did>
+      <unitid>STA-2098</unitid>
+      <unittitle>Barrister's Hall</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2097.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2099">
+     <did>
+      <unitid>STA-2099</unitid>
+      <unittitle>Central Street, (winter)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2098.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2100">
+     <did>
+      <unitid>STA-2100</unitid>
+      <unittitle>Pawtucket Bridge</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2099.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2101">
+     <did>
+      <unitid>STA-2101</unitid>
+      <unittitle>Statue of Victory, Monument Square, Lowell, by Towle, S. (Simon)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2100.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2102">
+     <did>
+      <unitid>STA-2102</unitid>
+      <unittitle>Art gallery at the old ladies fair, Lowell, 1874, by Towle, S. (Simon)</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2101.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2103">
+     <did>
+      <unitid>STA-2103</unitid>
+      <unittitle>Lowell depot, by Leander Baker</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2102.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2105">
+     <did>
+      <unitid>STA-2105</unitid>
+      <unittitle>Gen. Benj. F. Butler's residence at Lowell, Mass, by Towle, S. (Simon)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2104.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2106">
+     <did>
+      <unitid>STA-2106</unitid>
+      <unittitle>Hamilton Mills</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2105.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2107">
+     <did>
+      <unitid>STA-2107</unitid>
+      <unittitle>Bridge Street canal</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2106.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2109">
+     <did>
+      <unitid>STA-2109</unitid>
+      <unittitle>Decorations of Ladd &amp; Whitney Monument</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2108.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2110">
+     <did>
+      <unitid>STA-2110</unitid>
+      <unittitle>The Ladd &amp; Whitney Monument</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2109.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2111">
+     <did>
+      <unitid>STA-2111</unitid>
+      <unittitle>Decorations of Ladd &amp; Whitney Monument, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2110.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2112">
+     <did>
+      <unitid>STA-2112</unitid>
+      <unittitle>Decorations of Ladd &amp; Whitney Monument, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2111.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2115">
+     <did>
+      <unitid>STA-2115</unitid>
+      <unittitle>City Hall, Kingston, N.Y., Hudson River</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2114.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2116">
+     <did>
+      <unitid>STA-2116</unitid>
+      <unittitle>N.Y. State Armory, Kingston, N.Y</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2115.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2117">
+     <did>
+      <unitid>STA-2117</unitid>
+      <unittitle>Court House, built 1818, Kingston, N.Y</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2116.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2118">
+     <did>
+      <unitid>STA-2118</unitid>
+      <unittitle>Old red store, Kingston, N.Y., Hudson River</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2117.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2119">
+     <did>
+      <unitid>STA-2119</unitid>
+      <unittitle>Savings Bank and Wall St., Kingston, N.Y</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2118.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2120">
+     <did>
+      <unitid>STA-2120</unitid>
+      <unittitle>Music Hall and John St., Kingston, N.Y., Hudson River</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2119.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2121">
+     <did>
+      <unitid>STA-2121</unitid>
+      <unittitle>Wall St., from N. front, Kingston, N.Y., Hudson River</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2120.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2122">
+     <did>
+      <unitid>STA-2122</unitid>
+      <unittitle>Masonic Hall, Kingston, N.Y. View of the west</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2121.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2123">
+     <did>
+      <unitid>STA-2123</unitid>
+      <unittitle>Music Hall and John St., Kingston, N.Y., Hudson River, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2122.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2124">
+     <did>
+      <unitid>STA-2124</unitid>
+      <unittitle>Masonic Hall, Kingston, N.Y. View of the east</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2123.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2125">
+     <did>
+      <unitid>STA-2125</unitid>
+      <unittitle>Masonic Hall, Kingston, N.Y. View of the south</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2124.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2126">
+     <did>
+      <unitid>STA-2126</unitid>
+      <unittitle>State Street, Harrisburg</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2125.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2127">
+     <did>
+      <unitid>STA-2127</unitid>
+      <unittitle>Near Newport on the P.R.R., Harrisburg, Pa</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2126.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2129">
+     <did>
+      <unitid>STA-2129</unitid>
+      <unittitle>Market St., looking west, Harrisburg, Pa</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2128.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2130">
+     <did>
+      <unitid>STA-2130</unitid>
+      <unittitle>The Capitol from the east side, Harrisburg, Pa</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2129.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2132">
+     <did>
+      <unitid>STA-2132</unitid>
+      <unittitle>Capitol. (Harrisburg, Pennsylvania.), by A. G. Keet</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2131.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2133">
+     <did>
+      <unitid>STA-2133</unitid>
+      <unittitle>View of park and church</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2132.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2134">
+     <did>
+      <unitid>STA-2134</unitid>
+      <unittitle>Market Street, Harrisburg, by Purviance, W. T. (William T.)</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2133.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2135">
+     <did>
+      <unitid>STA-2135</unitid>
+      <unittitle>Interior of State Library, Harrisburg, by Purviance, W. T. (William T.)</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2134.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2136">
+     <did>
+      <unitid>STA-2136</unitid>
+      <unittitle>The Capital from the east side</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2135.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2137">
+     <did>
+      <unitid>STA-2137</unitid>
+      <unittitle>Near Newport on the P.R.R</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2136.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2138">
+     <did>
+      <unitid>STA-2138</unitid>
+      <unittitle>Residence of Simon Cameron</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2137.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2139">
+     <did>
+      <unitid>STA-2139</unitid>
+      <unittitle>Jno. C. Kunkle's monument</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2138.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2140">
+     <did>
+      <unitid>STA-2140</unitid>
+      <unittitle>The grave of John Harris, with the Susquehannah (sic) in the background</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2139.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2141">
+     <did>
+      <unitid>STA-2141</unitid>
+      <unittitle>Susquehanna Bridge, near Harrisburg, by Purviance, W. T. (William T.)</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2140.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2143">
+     <did>
+      <unitid>STA-2143</unitid>
+      <unittitle>Susquehanna Bridge, near Harrisburg, by Purviance, W. T. (William T.) 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2142.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2144">
+     <did>
+      <unitid>STA-2144</unitid>
+      <unittitle>Cathedral (interior view), Albany, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2143.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2145">
+     <did>
+      <unitid>STA-2145</unitid>
+      <unittitle>Church, Albany, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2144.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2146">
+     <did>
+      <unitid>STA-2146</unitid>
+      <unittitle>Broadway, Albany, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2145.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2147">
+     <did>
+      <unitid>STA-2147</unitid>
+      <unittitle>New 'State Capitol,' Albany, N.Y. North-east view</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2146.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2148">
+     <did>
+      <unitid>STA-2148</unitid>
+      <unittitle>New State Capitol, Albany, N.Y. North-east view</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2147.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2149">
+     <did>
+      <unitid>STA-2149</unitid>
+      <unittitle>Capitol building, Albany, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2148.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2150">
+     <did>
+      <unitid>STA-2150</unitid>
+      <unittitle>Capitol, Albany, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2149.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2151">
+     <did>
+      <unitid>STA-2151</unitid>
+      <unittitle>New State Capitol, Albany, N.Y. North-east view, from Robert N. Dennis collection of stereoscopic views 8</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2150.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2152">
+     <did>
+      <unitid>STA-2152</unitid>
+      <unittitle>New State Capitol, Albany, N.Y. North-east view, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2151.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2153">
+     <did>
+      <unitid>STA-2153</unitid>
+      <unittitle>New State Capitol, Albany, N.Y. North-east view, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2152.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2154">
+     <did>
+      <unitid>STA-2154</unitid>
+      <unittitle>New 'State Capitol,' Albany, N.Y. North-east view, from Robert N. Dennis collection of stereoscopic views 6</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2153.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2155">
+     <did>
+      <unitid>STA-2155</unitid>
+      <unittitle>State Capitol at Albany, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2154.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2156">
+     <did>
+      <unitid>STA-2156</unitid>
+      <unittitle>New State Capitol, Albany, N.Y. North-east view, from Robert N. Dennis collection of stereoscopic views 6</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2155.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2157">
+     <did>
+      <unitid>STA-2157</unitid>
+      <unittitle>State Capitol, Albany, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2156.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2158">
+     <did>
+      <unitid>STA-2158</unitid>
+      <unittitle>Grand Stair Case, Capitol, Albany, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2157.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2159">
+     <did>
+      <unitid>STA-2159</unitid>
+      <unittitle>Grand corridor, Capitol, Albany, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2158.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2160">
+     <did>
+      <unitid>STA-2160</unitid>
+      <unittitle>Capitol building, Albany, N.Y, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2159.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2161">
+     <did>
+      <unitid>STA-2161</unitid>
+      <unittitle>Geological and Agricultural Hall, Albany, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2160.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2162">
+     <did>
+      <unitid>STA-2162</unitid>
+      <unittitle>New 'State Capitol,' Albany, N.Y. North-east view, from Robert N. Dennis collection of stereoscopic views 5</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2161.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2163">
+     <did>
+      <unitid>STA-2163</unitid>
+      <unittitle>New 'State Capitol,' Albany, N.Y. North-east view, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2162.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2164">
+     <did>
+      <unitid>STA-2164</unitid>
+      <unittitle>New State Capitol, Albany, N.Y. North-east view, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2163.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2165">
+     <did>
+      <unitid>STA-2165</unitid>
+      <unittitle>New 'State Capitol,' Albany, N.Y. North-east view, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2164.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2166">
+     <did>
+      <unitid>STA-2166</unitid>
+      <unittitle>New State Capitol, Albany, N.Y. North-east view, from Robert N. Dennis collection of stereoscopic views 7</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2165.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2167">
+     <did>
+      <unitid>STA-2167</unitid>
+      <unittitle>New 'State Capitol,' Albany, N.Y. North-east view, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2166.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2168">
+     <did>
+      <unitid>STA-2168</unitid>
+      <unittitle>Dwellings, Binghamton, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2167.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2169">
+     <did>
+      <unitid>STA-2169</unitid>
+      <unittitle>Court Street, Binghamton, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2168.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2170">
+     <did>
+      <unitid>STA-2170</unitid>
+      <unittitle>View in Dwight Park, Binghamton, N.Y, by J. B. Patterson</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2169.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2171">
+     <did>
+      <unitid>STA-2171</unitid>
+      <unittitle>General store (by Fancher &amp; Durkee, successors to C.S. Hall &amp; Co.), 34 Court St., Binghamton, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2170.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2172">
+     <did>
+      <unitid>STA-2172</unitid>
+      <unittitle>Lewis House, Binghamton, N.Y, by Walker, L. E., 1826-1916</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2171.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2173">
+     <did>
+      <unitid>STA-2173</unitid>
+      <unittitle>Park, fountain and Dwight House, Binghamton, N.Y, by Walker, L. E., 1826-1916</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2172.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2174">
+     <did>
+      <unitid>STA-2174</unitid>
+      <unittitle>Binghamton, N.Y., from Prospect Point, near Sunset, by Walker, L. E., 1826-1916</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2173.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2175">
+     <did>
+      <unitid>STA-2175</unitid>
+      <unittitle>Binghamton, N.Y., from Prospect Point, looking south, by Walker, L. E., 1826-1916</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2174.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2176">
+     <did>
+      <unitid>STA-2176</unitid>
+      <unittitle>Binghamton, N.Y., from Prospect Point, looking south, by Walker, L. E., 1826-1916 2</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2175.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2177">
+     <did>
+      <unitid>STA-2177</unitid>
+      <unittitle>Looking south-west from Bell Tower, Binghamton, N.Y, by Walker, L. E., 1826-1916</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2176.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2178">
+     <did>
+      <unitid>STA-2178</unitid>
+      <unittitle>Looking south from suspension bridge, Binghamton, N.Y, by Walker, L. E., 1826-1916</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2177.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -14019,6 +14835,14 @@
       <unittitle>At Burlington, Vt</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2072.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2104">
+     <did>
+      <unitid>STA-2104</unitid>
+      <unittitle>Studio view of a group of women holding brooms(?) and 1 woman with a drum</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2103.jpg"/>
      </did>
     </c>
    </c>

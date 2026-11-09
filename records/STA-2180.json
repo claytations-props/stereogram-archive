@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10057104,
  "source_revision_id": null,
- "source_sha1": "72f94b17f830c06d6e90bd311da0491320496182"
+ "source_sha1": "72f94b17f830c06d6e90bd311da0491320496182",
+ "tags": [
+  "waterfall",
+  "rapids",
+  "river"
+ ]
 }

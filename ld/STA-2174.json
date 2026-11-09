@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2174.json",
+ "name": "Binghamton, N.Y., from Prospect Point, near Sunset, by Walker, L. E., 1826-1916",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2173.jpg",
+ "identifier": "STA-2174",
+ "creator": {
+  "@type": "Person",
+  "name": "Walker, L. E."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Binghamton, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Binghamton,_N.Y.,_from_Prospect_Point,_near_Sunset,_by_Walker,_L._E.,_1826-1916.jpg"
+}

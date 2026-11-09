@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2097.json",
+ "name": "Merrimac Canal and mills",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2096.jpg",
+ "identifier": "STA-2097",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lowell, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Merrimac_Canal_and_mills,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}
