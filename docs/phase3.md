@@ -51,7 +51,11 @@ collection, 1,053 JSON-LD files, 1 EAD with 1,053 item components.
   generation: 27 local + 1,026 via IA headers, 0 unmeasured. Items whose
   size cannot be measured get a Canvas in the pair's measured aspect
   (2 × the record's `va`) and an image body without width/height —
-  stated nowhere rather than stated wrong.
+  stated nowhere rather than stated wrong. Measured sizes are cached in
+  `tools/rect_dims.json` (Nov 2026: a full run fell from 5m07s to ~2s,
+  outputs byte-identical); only new or changed rects are measured, and
+  a cache entry applies only when its stored rect path matches the
+  record exactly.
 - **Multi-shelf items hang once in the finding aid**, under their first
   facet in the record's own order (229 of 1,053 items carry two facets).
   Manifests and JSON-LD are per-item and unaffected.

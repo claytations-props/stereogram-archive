@@ -32,6 +32,14 @@ aspect (2 x the record's `va`, the per-eye aspect measured on the
 shipped pixels) at a nominal width, and the image body omits
 width/height rather than stating numbers nobody measured.
 
+Measured dimensions are cached in tools/rect_dims.json, keyed by STA
+number with the rect path they were measured from, so a run only
+measures cards it has never seen (or whose rect path changed) instead
+of re-fetching every card from IA on every run. The cache is a pure
+performance record: it changes no output, and a stale entry can never
+apply because the stored rect path must match the record's rect field
+exactly. Delete the cache file to force a full re-measure.
+
 Generation is deterministic: fixed field order, records in STA order,
 and the run validates its own output (every record has a manifest and a
 JSON-LD file, all JSON parses, the XML is well-formed, every manifest
@@ -111,32 +119,78 @@ def fetch_rect_size(url):
     return None
 
 
+def load_dims_cache(repo):
+    """Measured rect dims from tools/rect_dims.json, or {} if absent."""
+    path = repo / 'tools' / 'rect_dims.json'
+    if not path.is_file():
+        return {}
+    try:
+        data = json.loads(path.read_text(encoding='utf-8'))
+    except Exception:
+        return {}
+    return data if isinstance(data, dict) else {}
+
+
+def save_dims_cache(repo, cache):
+    path = repo / 'tools' / 'rect_dims.json'
+    path.write_text(json.dumps(cache, indent=1, sort_keys=True) + '\n',
+                    encoding='utf-8')
+
+
 def measure_dims(records, repo):
-    """Resolve rect pixel dims for every record; returns (dims, stats)."""
+    """Resolve rect pixel dims for every record; returns (dims, stats).
+
+    Cached measurements are reused only when the stored rect path
+    matches the record's rect field exactly. New or changed rects are
+    measured (local file first, else an IA range fetch) and added to
+    the cache, which the caller saves back.
+    """
+    cache = load_dims_cache(repo)
     dims = {}
     todo = []
+    cached = 0
     for rec in records:
+        entry = cache.get(rec['id'])
+        if (isinstance(entry, dict) and entry.get('rect') == rec['rect']
+                and isinstance(entry.get('w'), int)
+                and isinstance(entry.get('h'), int)):
+            dims[rec['id']] = (entry['w'], entry['h'], 'cache')
+            cached += 1
+        else:
+            todo.append(rec)
+    measured = {}
+    for rec in todo:
         local = repo / rec['rect']
         size = None
         if local.is_file():
             size = jpeg_size(local.read_bytes()[:262144])
         if size:
-            dims[rec['id']] = size + ('local',)
+            measured[rec['id']] = size + ('local',)
         else:
-            todo.append(rec)
+            measured[rec['id']] = None
+    fetch_list = [r for r in todo if measured[r['id']] is None]
     fetched = failed = 0
-    if todo:
+    if fetch_list:
         with ThreadPoolExecutor(max_workers=6) as pool:
             results = list(pool.map(
-                lambda r: fetch_rect_size(ASSET_BASE + r['rect']), todo))
-        for rec, size in zip(todo, results):
+                lambda r: fetch_rect_size(ASSET_BASE + r['rect']),
+                fetch_list))
+        for rec, size in zip(fetch_list, results):
             if size:
-                dims[rec['id']] = size + ('ia',)
+                measured[rec['id']] = size + ('ia',)
                 fetched += 1
             else:
                 failed += 1
-    return dims, {'local': len(records) - len(todo), 'ia': fetched,
-                  'failed': failed}
+    for rec in todo:
+        size = measured[rec['id']]
+        if size:
+            dims[rec['id']] = size
+            cache[rec['id']] = {'rect': rec['rect'],
+                                 'w': size[0], 'h': size[1]}
+    stats = {'cache': cached,
+             'local': sum(1 for v in dims.values() if v[2] == 'local'),
+             'ia': fetched, 'failed': failed}
+    return dims, stats, cache
 
 
 def canvas_dims(rec, dims):
@@ -419,9 +473,14 @@ def main():
                for p in record_files]
     print(f'records: {len(records)}')
 
-    dims, stats = measure_dims(records, repo)
-    print(f"dims: {stats['local']} local, {stats['ia']} via IA headers, "
+    dims, stats, cache = measure_dims(records, repo)
+    print(f"dims: {stats['cache']} from cache, {stats['local']} local, "
+          f"{stats['ia']} via IA headers, "
           f"{stats['failed']} unmeasured (aspect fallback)")
+    before = load_dims_cache(repo)
+    if cache != before:
+        save_dims_cache(repo, cache)
+        print(f"dims cache: saved {len(cache)} entries")
 
     out = generate(records, dims)
     again = generate(records, dims)
