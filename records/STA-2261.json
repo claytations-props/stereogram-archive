@@ -1,0 +1,69 @@
+{
+ "title": "Main Street, Brattleboro, Vt",
+ "place": "Place unrecorded",
+ "year": "1869",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Main_Street%2C_Brattleboro%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Main_Street%2C_Brattleboro%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Main_Street%2C_Brattleboro%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Main_Street,_Brattleboro,_Vt,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2646,
+ "h": 1345,
+ "id": "STA-2261",
+ "rect": "rect/2260.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.15,
+ "rot": 0.0,
+ "range": 0.61,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.2037,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Main_Street%2C_Brattleboro%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Main_Street%2C_Brattleboro%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.2037,
+  "L": [
+   0.40625,
+   0.0,
+   0.084115,
+   0.0,
+   0.663934,
+   0.046619
+  ],
+  "R": [
+   0.401001,
+   0.003925,
+   0.528942,
+   -0.00383,
+   0.656242,
+   0.067743
+  ],
+  "g": [
+   0.9738,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured gentle (0.61% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869",
+ "date_start": 1869,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10091769,
+ "source_revision_id": null,
+ "source_sha1": "7818324821a84be03d39d2d77010bb044edc0f72"
+}
