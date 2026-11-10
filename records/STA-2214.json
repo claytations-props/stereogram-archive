@@ -1,0 +1,71 @@
+{
+ "title": "Street view, Montpelier, Vt, by C. H. Freeman 2",
+ "place": "Place unrecorded",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities",
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Street_view%2C_Montpelier%2C_Vt%2C_by_C._H._Freeman_2.jpg/1920px-Street_view%2C_Montpelier%2C_Vt%2C_by_C._H._Freeman_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/46/Street_view%2C_Montpelier%2C_Vt%2C_by_C._H._Freeman_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Street_view,_Montpelier,_Vt,_by_C._H._Freeman_2.jpg",
+ "license": "Public domain",
+ "w": 2719,
+ "h": 1405,
+ "id": "STA-2214",
+ "rect": "rect/2213.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.06,
+ "rot": 0.03,
+ "range": 1.26,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8097,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Street_view%2C_Montpelier%2C_Vt%2C_by_C._H._Freeman_2.jpg/1920px-Street_view%2C_Montpelier%2C_Vt%2C_by_C._H._Freeman_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8097,
+  "L": [
+   0.372396,
+   0.0,
+   0.117969,
+   0.0,
+   0.890121,
+   0.051915
+  ],
+  "R": [
+   0.372582,
+   0.002715,
+   0.504601,
+   -0.008779,
+   0.88577,
+   0.05775
+  ],
+  "g": [
+   0.9749,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.03° of rotation. Depth measured gentle (1.26% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "C. H. Freeman",
+ "creator_dates": null,
+ "facets": [
+  "cities",
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10092653,
+ "source_revision_id": null,
+ "source_sha1": "be7b176388597e2e3c6dcbe2c8196fb3ad82bbb9"
+}
