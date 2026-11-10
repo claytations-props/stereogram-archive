@@ -1,2 +1,7 @@
 staging/
 __pycache__/
+# Rectified pairs live on disk (local use, Phase 3 dims) and on the
+# Internet Archive (what the site serves). They are NOT committed:
+# committing them grew the published site toward the 1 GB Pages cap
+# (Nov 2026: 285 MB of rects, cap near ~5,000 cards).
+rect/

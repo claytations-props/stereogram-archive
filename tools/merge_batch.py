@@ -278,8 +278,11 @@ def main():
                   'vr.json', 'search/index.json']
                  + [f'search/{p.name}'
                     for p in sorted((BASE / 'search').glob('chunk-*.json'))]
-                 + [f"records/{e['id']}.json" for e, _, _, _ in plan]
-                 + [e['rect'] for e, _, _, _ in plan])
+                 + [f"records/{e['id']}.json" for e, _, _, _ in plan])
+    # NOTE: rect/ files are deliberately NOT committed. They live on disk
+    # for local use and on the Internet Archive for the site; committing
+    # them grew the published site toward the 1 GB Pages cap (Nov 2026:
+    # 285 MB of rects, cap near ~5,000 cards). rect/ is in .gitignore.
     git('add', '--', *add_paths)
     msg = f'Add {len(plan)} stereographs ({label}) — {first_sta}–{last_sta}'
     r = git('commit', '-m', msg, check=False)
