@@ -1,0 +1,69 @@
+{
+ "title": "Glen Ellis Falls",
+ "place": "Place unrecorded",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Glen_Ellis_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Glen_Ellis_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Glen_Ellis_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Glen_Ellis_Falls,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1410,
+ "id": "STA-2234",
+ "rect": "rect/2233.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.0,
+ "range": 0.41,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.116,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Glen_Ellis_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Glen_Ellis_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.116,
+  "L": [
+   0.370833,
+   0.0,
+   0.113802,
+   0.0,
+   0.645096,
+   0.061173
+  ],
+  "R": [
+   0.369167,
+   0.00041,
+   0.507247,
+   -5.1e-05,
+   0.645692,
+   0.051484
+  ],
+  "g": [
+   1.0,
+   0.985
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.0° of rotation. Depth measured gentle (0.41% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10463853,
+ "source_revision_id": null,
+ "source_sha1": "b6bdc84d6260a93dbb8b20edc8bc756b028ce5f0"
+}
