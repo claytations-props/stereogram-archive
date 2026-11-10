@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2184.json",
+ "name": "Bird's eye view of Manchester, from Rock Rimmon",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2183.jpg",
+ "identifier": "STA-2184",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Manchester, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bird%27s_eye_view_of_Manchester,_from_Rock_Rimmon,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

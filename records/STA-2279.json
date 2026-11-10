@@ -1,11 +1,11 @@
 {
  "title": "Whale ship hove down for repairs, New Bedford, Mass",
- "place": "Place unrecorded",
+ "place": "New Bedford, Massachusetts",
  "year": "1860",
  "sy": 1860,
  "era": "early",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Whale_ship_hove_down_for_repairs%2C_New_Bedford%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Whale_ship_hove_down_for_repairs%2C_New_Bedford%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1860",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7445473,
  "source_revision_id": null,
- "source_sha1": "76e82419e24df011c3eccf977f1421fcc76d671e"
+ "source_sha1": "76e82419e24df011c3eccf977f1421fcc76d671e",
+ "tags": [
+  "sailing ship",
+  "shipyard"
+ ]
 }

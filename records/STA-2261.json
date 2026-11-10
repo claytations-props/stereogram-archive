@@ -1,6 +1,6 @@
 {
  "title": "Main Street, Brattleboro, Vt",
- "place": "Place unrecorded",
+ "place": "Brattleboro, Vermont",
  "year": "1869",
  "sy": 1869,
  "era": "early",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10091769,
  "source_revision_id": null,
- "source_sha1": "7818324821a84be03d39d2d77010bb044edc0f72"
+ "source_sha1": "7818324821a84be03d39d2d77010bb044edc0f72",
+ "tags": [
+  "main street",
+  "trees"
+ ]
 }

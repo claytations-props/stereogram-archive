@@ -1,11 +1,11 @@
 {
  "title": "View in Montpelier, Vt, by Kilburn Brothers",
- "place": "Place unrecorded",
+ "place": "Montpelier, Vermont",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/View_in_Montpelier%2C_Vt%2C_by_Kilburn_Brothers.jpg/1920px-View_in_Montpelier%2C_Vt%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "Kilburn Brothers",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1870",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10092732,
  "source_revision_id": null,
- "source_sha1": "ea5786234b52450bea3cef30616ab4a69c2fc298"
+ "source_sha1": "ea5786234b52450bea3cef30616ab4a69c2fc298",
+ "tags": [
+  "house",
+  "trees"
+ ]
 }

@@ -1,0 +1,161 @@
+{
+ "assignments": {
+  "STA-2184": {
+   "tags": [
+    "trees",
+    "meadow"
+   ],
+   "conf": "high"
+  },
+  "STA-2185": {
+   "tags": [
+    "hotel",
+    "trees",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2186": {
+   "tags": [
+    "hotel",
+    "trees",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2187": {
+   "tags": [
+    "creek",
+    "bridge",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2188": {
+   "tags": [
+    "portrait group",
+    "house",
+    "mountain"
+   ],
+   "conf": "high"
+  },
+  "STA-2189": {
+   "tags": [
+    "house",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2190": {
+   "tags": [
+    "cave",
+    "trees",
+    "rock formation"
+   ],
+   "conf": "high"
+  },
+  "STA-2191": {
+   "tags": [
+    "house",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2192": {
+   "tags": [
+    "rock formation",
+    "trees",
+    "creek"
+   ],
+   "conf": "high"
+  },
+  "STA-2193": {
+   "tags": [
+    "workers",
+    "factory"
+   ],
+   "conf": "high"
+  },
+  "STA-2194": {
+   "tags": [
+    "factory",
+    "workers"
+   ],
+   "conf": "high"
+  },
+  "STA-2195": {
+   "tags": [
+    "workers",
+    "factory"
+   ],
+   "conf": "high"
+  },
+  "STA-2196": {
+   "tags": [
+    "hotel",
+    "snow",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2197": {
+   "tags": [
+    "workers",
+    "factory"
+   ],
+   "conf": "high"
+  },
+  "STA-2198": {
+   "tags": [
+    "workers",
+    "factory"
+   ],
+   "conf": "high"
+  },
+  "STA-2199": {
+   "tags": [
+    "factory",
+    "room interior"
+   ],
+   "conf": "high"
+  },
+  "STA-2200": {
+   "tags": [
+    "workers",
+    "factory"
+   ],
+   "conf": "high"
+  },
+  "STA-2201": {
+   "tags": [
+    "workers",
+    "factory"
+   ],
+   "conf": "high"
+  },
+  "STA-2203": {
+   "tags": [
+    "workers",
+    "factory"
+   ],
+   "conf": "high"
+  },
+  "STA-2204": {
+   "tags": [
+    "storefront",
+    "main street"
+   ],
+   "conf": "high"
+  },
+  "STA-2205": {
+   "tags": [
+    "workers",
+    "factory"
+   ],
+   "conf": "high"
+  }
+ },
+ "held": {
+  "STA-2202": "silk fibre rolls close-up only, no vocabulary term fits"
+ }
+}

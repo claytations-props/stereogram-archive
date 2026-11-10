@@ -1,6 +1,6 @@
 {
  "title": "Taconic Hotel, Manchester, Vt",
- "place": "Place unrecorded",
+ "place": "Manchester, Vermont",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10092258,
  "source_revision_id": null,
- "source_sha1": "abb1ee0cb89be67c9bf1ccea2bd6851b5dad8eca"
+ "source_sha1": "abb1ee0cb89be67c9bf1ccea2bd6851b5dad8eca",
+ "tags": [
+  "hotel",
+  "trees",
+  "horse-drawn carriage"
+ ]
 }

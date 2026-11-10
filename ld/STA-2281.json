@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2281.json",
+ "name": "General view of New Bedford, from above, by T. E. M. White",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2280.jpg",
+ "identifier": "STA-2281",
+ "creator": {
+  "@type": "Person",
+  "name": "T. E. M. White"
+ },
+ "dateCreated": "1860",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Bedford, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:General_view_of_New_Bedford,_from_above,_by_T._E._M._White.png"
+}

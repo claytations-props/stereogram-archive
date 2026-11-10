@@ -1,6 +1,6 @@
 {
  "title": "Crosby Block, Main Street, Brattleboro, Vt, by D. A. Henry",
- "place": "Place unrecorded",
+ "place": "Brattleboro, Vermont",
  "year": "1869",
  "sy": 1869,
  "era": "early",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10091876,
  "source_revision_id": null,
- "source_sha1": "7bb1adcf90c65c64158bc687440e97fd59d4a93b"
+ "source_sha1": "7bb1adcf90c65c64158bc687440e97fd59d4a93b",
+ "tags": [
+  "storefront",
+  "main street",
+  "horse-drawn carriage"
+ ]
 }

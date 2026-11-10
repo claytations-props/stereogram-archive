@@ -1,6 +1,6 @@
 {
  "title": "Summit house, Mt. Equinox, Manchester, Vermont",
- "place": "Place unrecorded",
+ "place": "Manchester, Vermont",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10092269,
  "source_revision_id": null,
- "source_sha1": "27d336e2af3208c937d16c0178e698ec73583c9d"
+ "source_sha1": "27d336e2af3208c937d16c0178e698ec73583c9d",
+ "tags": [
+  "portrait group",
+  "house",
+  "mountain"
+ ]
 }

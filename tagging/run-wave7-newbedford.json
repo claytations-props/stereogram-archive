@@ -1,0 +1,79 @@
+{
+ "assignments": {
+  "STA-2279": {
+   "tags": [
+    "sailing ship",
+    "shipyard"
+   ],
+   "conf": "high"
+  },
+  "STA-2280": {
+   "tags": [
+    "house",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2281": {
+   "tags": [
+    "house",
+    "church",
+    "harbor"
+   ],
+   "conf": "high"
+  },
+  "STA-2282": {
+   "tags": [
+    "library",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2283": {
+   "tags": [
+    "church",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2284": {
+   "tags": [
+    "main street",
+    "storefront",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2285": {
+   "tags": [
+    "main street",
+    "storefront",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2286": {
+   "tags": [
+    "main street",
+    "storefront",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2287": {
+   "tags": [
+    "main street",
+    "storefront"
+   ],
+   "conf": "high"
+  },
+  "STA-2288": {
+   "tags": [
+    "ruins",
+    "fire damage"
+   ],
+   "conf": "high"
+  }
+ },
+ "held": {}
+}

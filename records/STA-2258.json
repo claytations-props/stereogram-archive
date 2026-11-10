@@ -1,11 +1,11 @@
 {
  "title": "Vermont Asylum for the Insane, Brattleboro, Vt",
- "place": "Place unrecorded",
+ "place": "Brattleboro, Vermont",
  "year": "1869",
  "sy": 1869,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Vermont_Asylum_for_the_Insane%2C_Brattleboro%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Vermont_Asylum_for_the_Insane%2C_Brattleboro%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1869",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10091780,
  "source_revision_id": null,
- "source_sha1": "f19665b3f2db0fbd3a4b41c31876117eb1ea4f73"
+ "source_sha1": "f19665b3f2db0fbd3a4b41c31876117eb1ea4f73",
+ "tags": [
+  "hospital",
+  "trees"
+ ]
 }

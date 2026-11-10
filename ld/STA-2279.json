@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2279.json",
+ "name": "Whale ship hove down for repairs, New Bedford, Mass",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2278.jpg",
+ "identifier": "STA-2279",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Bedford, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Whale_ship_hove_down_for_repairs,_New_Bedford,_Mass,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

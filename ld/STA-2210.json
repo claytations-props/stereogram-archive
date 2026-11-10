@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2210.json",
+ "name": "Montpelier from dome of State House",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2209.jpg",
+ "identifier": "STA-2210",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Montpelier, Vermont"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Montpelier_from_dome_of_State_House,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

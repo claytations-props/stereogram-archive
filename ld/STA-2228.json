@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2228.json",
+ "name": "The bridge and portion of marble quarry, Glens Falls, N.Y",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2227.jpg",
+ "identifier": "STA-2228",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Glens Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_bridge_and_portion_of_marble_quarry,_Glens_Falls,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

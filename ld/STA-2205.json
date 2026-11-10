@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2205.json",
+ "name": "Inspecting combed silk. Silk industry (spun silk), South Manchester, Conn., U.S.A, by Keystone View Company",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2204.jpg",
+ "identifier": "STA-2205",
+ "creator": {
+  "@type": "Person",
+  "name": "Keystone View Company"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "South Manchester, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Inspecting_combed_silk._Silk_industry_(spun_silk),_South_Manchester,_Conn.,_U.S.A,_by_Keystone_View_Company.png"
+}

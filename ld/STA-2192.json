@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2192.json",
+ "name": "Downer Glen, Manchester, Vt. View A, by Allen, H. S. (Henry S.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2191.jpg",
+ "identifier": "STA-2192",
+ "creator": {
+  "@type": "Person",
+  "name": "Allen, H. S. (Henry S.)"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Manchester, Vermont"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Downer_Glen,_Manchester,_Vt._View_A,_by_Allen,_H._S._(Henry_S.).jpg"
+}

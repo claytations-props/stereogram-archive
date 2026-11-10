@@ -1,11 +1,11 @@
 {
  "title": "Purchase St., looking north, New Bedford, Mass, by Adams, S. F., 1844-1876",
- "place": "Place unrecorded",
+ "place": "New Bedford, Massachusetts",
  "year": "Undated",
  "sy": 1900,
  "era": "undated",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Purchase_St.%2C_looking_north%2C_New_Bedford%2C_Mass%2C_by_Adams%2C_S._F.%2C_1844-1876.jpg/1920px-Purchase_St.%2C_looking_north%2C_New_Bedford%2C_Mass%2C_by_Adams%2C_S._F.%2C_1844-1876.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "Adams, S. F.",
  "creator_dates": "1844-1876",
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": null,
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 7445087,
  "source_revision_id": null,
- "source_sha1": "509b1a63c84388ef63fc915938b4dd4900a2a341"
+ "source_sha1": "509b1a63c84388ef63fc915938b4dd4900a2a341",
+ "tags": [
+  "main street",
+  "storefront",
+  "horse-drawn carriage"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "title": "Interior of Bethany Church, Montpelier, Vt, by L. O. Churchill",
- "place": "Place unrecorded",
+ "place": "Montpelier, Vermont",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10092600,
  "source_revision_id": null,
- "source_sha1": "4aa3bd58830975ebe972a0a320a74e7eace391fe"
+ "source_sha1": "4aa3bd58830975ebe972a0a320a74e7eace391fe",
+ "tags": [
+  "church interior",
+  "pipe organ"
+ ]
 }

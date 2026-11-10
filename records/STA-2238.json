@@ -1,11 +1,10 @@
 {
  "title": "Soldier's monument, Glens Falls, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917",
- "place": "Place unrecorded",
+ "place": "Glens Falls, New York",
  "year": "Undated",
  "sy": 1900,
  "era": "undated",
  "cats": [
-  "water",
   "war"
  ],
  "blurb": "",
@@ -55,7 +54,6 @@
  "creator": "Stoddard, Seneca Ray",
  "creator_dates": "1844-1917",
  "facets": [
-  "water",
   "war"
  ],
  "publisher_series": null,
@@ -67,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10057727,
  "source_revision_id": null,
- "source_sha1": "f3709bb45a943298eed8249038f0d6b4d1e44431"
+ "source_sha1": "f3709bb45a943298eed8249038f0d6b4d1e44431",
+ "tags": [
+  "monument",
+  "trees"
+ ]
 }

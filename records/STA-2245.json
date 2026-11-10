@@ -1,11 +1,11 @@
 {
  "title": "Marble quarry, Rutland, Vt, by Bell & Rau",
- "place": "Place unrecorded",
+ "place": "Rutland, Vermont",
  "year": "1865",
  "sy": 1865,
  "era": "early",
  "cats": [
-  "oddities"
+  "mountains"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Marble_quarry%2C_Rutland%2C_Vt%2C_by_Bell_%26_Rau.jpg/1920px-Marble_quarry%2C_Rutland%2C_Vt%2C_by_Bell_%26_Rau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "Bell & Rau",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "mountains"
  ],
  "publisher_series": null,
  "date_edtf": "1865",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10092998,
  "source_revision_id": null,
- "source_sha1": "e370ecb11e4578d3c0c36898f721e82d2bf5549b"
+ "source_sha1": "e370ecb11e4578d3c0c36898f721e82d2bf5549b",
+ "tags": [
+  "quarry",
+  "rock formation"
+ ]
 }

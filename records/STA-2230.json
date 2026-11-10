@@ -1,12 +1,11 @@
 {
  "title": "Logs washed over the dam, west side of the bridge, Glens Falls, N.Y",
- "place": "Place unrecorded",
+ "place": "Glens Falls, New York",
  "year": "1860",
  "sy": 1860,
  "era": "early",
  "cats": [
-  "water",
-  "cities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Logs_washed_over_the_dam%2C_west_side_of_the_bridge%2C_Glens_Falls%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Logs_washed_over_the_dam%2C_west_side_of_the_bridge%2C_Glens_Falls%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -55,8 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "water",
-  "cities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1860",
@@ -67,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10057179,
  "source_revision_id": null,
- "source_sha1": "582551204a68e1c60d0d86b43fa6440283c694d1"
+ "source_sha1": "582551204a68e1c60d0d86b43fa6440283c694d1",
+ "tags": [
+  "dam",
+  "river",
+  "logging"
+ ]
 }

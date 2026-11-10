@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2287.json",
+ "name": "Purchase St., looking north, New Bedford, Mass, by Adams, S. F., 1844-1876 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2286.jpg",
+ "identifier": "STA-2287",
+ "creator": {
+  "@type": "Person",
+  "name": "Adams, S. F."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Bedford, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Purchase_St.,_looking_north,_New_Bedford,_Mass,_by_Adams,_S._F.,_1844-1876_2.jpg"
+}

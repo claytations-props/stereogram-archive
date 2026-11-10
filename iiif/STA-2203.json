@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-2203.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Jacquard loom at work weaving brocade. Silk industry, South Manchester, Conn., U.S.A, by Keystone View Company"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Publisher"
+    ]
+   },
+   "value": {
+    "none": [
+     "Keystone View Company"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Keystone View Company"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "South Manchester, Connecticut"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-2203.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-2203/canvas/1",
+   "type": "Canvas",
+   "width": 1346,
+   "height": 642,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-2203/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-2203/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/2202.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1346,
+        "height": 642,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Jacquard_loom_at_work_weaving_brocade._Silk_industry%2C_South_Manchester%2C_Conn.%2C_U.S.A%2C_by_Keystone_View_Company.png/1920px-Jacquard_loom_at_work_weaving_brocade._Silk_industry%2C_South_Manchester%2C_Conn.%2C_U.S.A%2C_by_Keystone_View_Company.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-2203/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

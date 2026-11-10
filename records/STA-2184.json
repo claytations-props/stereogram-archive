@@ -1,11 +1,11 @@
 {
  "title": "Bird's eye view of Manchester, from Rock Rimmon",
- "place": "Place unrecorded",
+ "place": "Manchester, New Hampshire",
  "year": "1865–1872",
  "sy": 1865,
  "era": "early",
  "cats": [
-  "mountains"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Bird%27s_eye_view_of_Manchester%2C_from_Rock_Rimmon%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Bird%27s_eye_view_of_Manchester%2C_from_Rock_Rimmon%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "mountains"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1865/1872",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10467400,
  "source_revision_id": null,
- "source_sha1": "6051779c38be658ba9efad2105c64a8e7d96b53d"
+ "source_sha1": "6051779c38be658ba9efad2105c64a8e7d96b53d",
+ "tags": [
+  "trees",
+  "meadow"
+ ]
 }

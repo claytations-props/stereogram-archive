@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2286.json",
+ "name": "Union St., looking east, New Bedford, Mass, by Adams, S. F., 1844-1876",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2285.jpg",
+ "identifier": "STA-2286",
+ "creator": {
+  "@type": "Person",
+  "name": "Adams, S. F."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Bedford, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Union_St.,_looking_east,_New_Bedford,_Mass,_by_Adams,_S._F.,_1844-1876.jpg"
+}

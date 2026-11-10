@@ -1,6 +1,6 @@
 {
  "title": "Old mill and dam at Glens Falls, built by the English",
- "place": "Place unrecorded",
+ "place": "Glens Falls, New York",
  "year": "1860",
  "sy": 1860,
  "era": "early",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10057485,
  "source_revision_id": null,
- "source_sha1": "704defb59755ed1e8078c0f47289af7e30433964"
+ "source_sha1": "704defb59755ed1e8078c0f47289af7e30433964",
+ "tags": [
+  "waterfall",
+  "dam",
+  "watermill"
+ ]
 }

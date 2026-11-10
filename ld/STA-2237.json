@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2237.json",
+ "name": "View from Cave Rock, looking north, Glens Falls, N.Y. (3990425711)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2236.jpg",
+ "identifier": "STA-2237",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Glens Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_from_Cave_Rock,_looking_north,_Glens_Falls,_N.Y._(3990425711).jpg"
+}

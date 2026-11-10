@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-2241.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Under the arch, Glens Falls, N.Y, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Stoddard, Seneca Ray"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "1844-1917"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Glens Falls, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-2241.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-2241/canvas/1",
+   "type": "Canvas",
+   "width": 1500,
+   "height": 869,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-2241/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-2241/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/2240.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1500,
+        "height": 869,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Under_the_arch%2C_Glens_Falls%2C_N.Y%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.png/1920px-Under_the_arch%2C_Glens_Falls%2C_N.Y%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-2241/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

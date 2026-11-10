@@ -1,11 +1,11 @@
 {
  "title": "General view of a weaving room. Silk industry, South Manchester, Conn., U.S.A, by Keystone View Company",
- "place": "Place unrecorded",
+ "place": "South Manchester, Connecticut",
  "year": "1914",
  "sy": 1914,
  "era": "late",
  "cats": [
-  "oddities"
+  "people"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/General_view_of_a_weaving_room._Silk_industry%2C_South_Manchester%2C_Conn.%2C_U.S.A%2C_by_Keystone_View_Company.jpg/1920px-General_view_of_a_weaving_room._Silk_industry%2C_South_Manchester%2C_Conn.%2C_U.S.A%2C_by_Keystone_View_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "Keystone View Company",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "people"
  ],
  "publisher_series": null,
  "date_edtf": "1914",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10237476,
  "source_revision_id": null,
- "source_sha1": "8299d78affe10529808fa18bb3a48b06ab20d867"
+ "source_sha1": "8299d78affe10529808fa18bb3a48b06ab20d867",
+ "tags": [
+  "factory",
+  "workers"
+ ]
 }

@@ -1,0 +1,164 @@
+{
+ "assignments": {
+  "STA-2258": {
+   "tags": [
+    "hospital",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2259": {
+   "tags": [
+    "house",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2260": {
+   "tags": [
+    "dam",
+    "construction",
+    "creek"
+   ],
+   "conf": "high"
+  },
+  "STA-2261": {
+   "tags": [
+    "main street",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2262": {
+   "tags": [
+    "river",
+    "bridge",
+    "railroad tracks"
+   ],
+   "conf": "high"
+  },
+  "STA-2263": {
+   "tags": [
+    "river",
+    "bridge",
+    "railroad tracks"
+   ],
+   "conf": "high"
+  },
+  "STA-2264": {
+   "tags": [
+    "workers",
+    "factory"
+   ],
+   "conf": "high"
+  },
+  "STA-2265": {
+   "tags": [
+    "portrait group",
+    "family",
+    "house"
+   ],
+   "conf": "high"
+  },
+  "STA-2266": {
+   "tags": [
+    "church",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2267": {
+   "tags": [
+    "factory",
+    "creek",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2268": {
+   "tags": [
+    "church",
+    "trees",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2269": {
+   "tags": [
+    "covered bridge",
+    "river",
+    "mountain"
+   ],
+   "conf": "high"
+  },
+  "STA-2270": {
+   "tags": [
+    "church",
+    "trees",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2271": {
+   "tags": [
+    "waterfall",
+    "river",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2272": {
+   "tags": [
+    "waterfall",
+    "river",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2273": {
+   "tags": [
+    "church",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2274": {
+   "tags": [
+    "waterfall",
+    "ice"
+   ],
+   "conf": "high"
+  },
+  "STA-2275": {
+   "tags": [
+    "church",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2276": {
+   "tags": [
+    "waterfall",
+    "ice",
+    "snow"
+   ],
+   "conf": "high"
+  },
+  "STA-2277": {
+   "tags": [
+    "storefront",
+    "main street",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2278": {
+   "tags": [
+    "waterfall",
+    "trees"
+   ],
+   "conf": "high"
+  }
+ },
+ "held": {}
+}

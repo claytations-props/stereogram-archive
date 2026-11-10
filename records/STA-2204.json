@@ -1,6 +1,6 @@
 {
  "title": "View of a commercial Building, by Manchester Bros.",
- "place": "Place unrecorded",
+ "place": "Providence, Rhode Island",
  "year": "c. 1865",
  "sy": 1865,
  "era": "early",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10080497,
  "source_revision_id": null,
- "source_sha1": "9010343f85bb328b19aa04fa5ee3afeb04329ff3"
+ "source_sha1": "9010343f85bb328b19aa04fa5ee3afeb04329ff3",
+ "tags": [
+  "storefront",
+  "main street"
+ ]
 }

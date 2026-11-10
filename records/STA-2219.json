@@ -1,12 +1,11 @@
 {
  "title": "Bethany Congregational Church, Montpelier, Vt, by C. H. Freeman",
- "place": "Place unrecorded",
+ "place": "Montpelier, Vermont",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
  "cats": [
-  "cities",
-  "people"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Bethany_Congregational_Church%2C_Montpelier%2C_Vt%2C_by_C._H._Freeman.jpg/1920px-Bethany_Congregational_Church%2C_Montpelier%2C_Vt%2C_by_C._H._Freeman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -55,8 +54,7 @@
  "creator": "C. H. Freeman",
  "creator_dates": null,
  "facets": [
-  "cities",
-  "people"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1870",
@@ -67,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10092699,
  "source_revision_id": null,
- "source_sha1": "5c61d96dabf9cb7bcac4765d90409991fdf67f19"
+ "source_sha1": "5c61d96dabf9cb7bcac4765d90409991fdf67f19",
+ "tags": [
+  "church",
+  "trees"
+ ]
 }

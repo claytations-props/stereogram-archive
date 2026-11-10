@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2277.json",
+ "name": "Crosby Block, Main Street, Brattleboro, Vt, by D. A. Henry",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2276.jpg",
+ "identifier": "STA-2277",
+ "creator": {
+  "@type": "Person",
+  "name": "D. A. Henry"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Brattleboro, Vermont"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Crosby_Block,_Main_Street,_Brattleboro,_Vt,_by_D._A._Henry.jpg"
+}

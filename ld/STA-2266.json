@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2266.json",
+ "name": "General view of Brattleboro, Vermont, by D. A. Henry",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2265.jpg",
+ "identifier": "STA-2266",
+ "creator": {
+  "@type": "Person",
+  "name": "D. A. Henry"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Brattleboro, Vermont"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:General_view_of_Brattleboro,_Vermont,_by_D._A._Henry.jpg"
+}

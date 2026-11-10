@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2235.json",
+ "name": "Glens Falls, N.Y. (3990425819)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2234.jpg",
+ "identifier": "STA-2235",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Glens Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Glens_Falls,_N.Y._(3990425819).jpg"
+}

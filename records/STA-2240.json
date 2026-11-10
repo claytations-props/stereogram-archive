@@ -1,6 +1,6 @@
 {
  "title": "The gulf, Glens Falls, N.Y, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917",
- "place": "Place unrecorded",
+ "place": "Glens Falls, New York",
  "year": "Undated",
  "sy": 1900,
  "era": "undated",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10057682,
  "source_revision_id": null,
- "source_sha1": "2d782fa7d187b5296ef4587d79612aa485dafdf5"
+ "source_sha1": "2d782fa7d187b5296ef4587d79612aa485dafdf5",
+ "tags": [
+  "waterfall",
+  "bridge"
+ ]
 }

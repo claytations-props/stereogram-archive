@@ -1,6 +1,6 @@
 {
  "title": "City Hall and Free Public Library, New Bedford, Mass, by Adams, S. F., 1844-1876",
- "place": "Place unrecorded",
+ "place": "New Bedford, Massachusetts",
  "year": "Undated",
  "sy": 1900,
  "era": "undated",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7445113,
  "source_revision_id": null,
- "source_sha1": "c43f23d7c275285eac8708c9f40644cb6542ed69"
+ "source_sha1": "c43f23d7c275285eac8708c9f40644cb6542ed69",
+ "tags": [
+  "library",
+  "trees"
+ ]
 }

@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-2244.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "M.E. church, Glens Falls, re-dedicated Feb. 15, 1874. Cost $45,000, by Conkey, G. W. (George W.), 1837-ca. 1900"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Conkey, G. W. (George W.), 1837-ca. 1900"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1874"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Glens Falls, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-2244.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-2244/canvas/1",
+   "type": "Canvas",
+   "width": 1536,
+   "height": 1004,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-2244/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-2244/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/2243.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1536,
+        "height": 1004,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/M.E._church%2C_Glens_Falls%2C_re-dedicated_Feb._15%2C_1874._Cost_%2445%2C000%2C_by_Conkey%2C_G._W._%28George_W.%29%2C_1837-ca._1900.jpg/1920px-M.E._church%2C_Glens_Falls%2C_re-dedicated_Feb._15%2C_1874._Cost_%2445%2C000%2C_by_Conkey%2C_G._W._%28George_W.%29%2C_1837-ca._1900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-2244/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

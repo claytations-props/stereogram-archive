@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2211.json",
+ "name": "View in Montpelier, Vt, by Kilburn Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2210.jpg",
+ "identifier": "STA-2211",
+ "creator": {
+  "@type": "Person",
+  "name": "Kilburn Brothers"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Montpelier, Vermont"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_in_Montpelier,_Vt,_by_Kilburn_Brothers.jpg"
+}

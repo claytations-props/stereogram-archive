@@ -1,12 +1,11 @@
 {
  "title": "Street view, Montpelier, Vt, by C. H. Freeman 2",
- "place": "Place unrecorded",
+ "place": "Montpelier, Vermont",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
  "cats": [
-  "cities",
-  "people"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Street_view%2C_Montpelier%2C_Vt%2C_by_C._H._Freeman_2.jpg/1920px-Street_view%2C_Montpelier%2C_Vt%2C_by_C._H._Freeman_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -55,8 +54,7 @@
  "creator": "C. H. Freeman",
  "creator_dates": null,
  "facets": [
-  "cities",
-  "people"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1870",
@@ -67,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10092653,
  "source_revision_id": null,
- "source_sha1": "be7b176388597e2e3c6dcbe2c8196fb3ad82bbb9"
+ "source_sha1": "be7b176388597e2e3c6dcbe2c8196fb3ad82bbb9",
+ "tags": [
+  "trees",
+  "horse-drawn carriage"
+ ]
 }

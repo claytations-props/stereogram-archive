@@ -1,11 +1,11 @@
 {
  "title": "General view of New Bedford, from above, by T. E. M. White",
- "place": "Place unrecorded",
+ "place": "New Bedford, Massachusetts",
  "year": "1860",
  "sy": 1860,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/General_view_of_New_Bedford%2C_from_above%2C_by_T._E._M._White.png/1920px-General_view_of_New_Bedford%2C_from_above%2C_by_T._E._M._White.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "T. E. M. White",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1860",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 7445334,
  "source_revision_id": null,
- "source_sha1": "d9872627a43bea87a4280bfe5074e4318386ae49"
+ "source_sha1": "d9872627a43bea87a4280bfe5074e4318386ae49",
+ "tags": [
+  "house",
+  "church",
+  "harbor"
+ ]
 }

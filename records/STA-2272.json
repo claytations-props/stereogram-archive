@@ -1,11 +1,11 @@
 {
  "title": "Brattleboro, Vt, by D. A. Henry 2",
- "place": "Place unrecorded",
+ "place": "Brattleboro, Vermont",
  "year": "1869",
  "sy": 1869,
  "era": "early",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Brattleboro%2C_Vt%2C_by_D._A._Henry_2.jpg/1920px-Brattleboro%2C_Vt%2C_by_D._A._Henry_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "D. A. Henry",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1869",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10091866,
  "source_revision_id": null,
- "source_sha1": "54f673ed14f7ed9e415d805498c1c35ca51952e5"
+ "source_sha1": "54f673ed14f7ed9e415d805498c1c35ca51952e5",
+ "tags": [
+  "waterfall",
+  "river",
+  "trees"
+ ]
 }

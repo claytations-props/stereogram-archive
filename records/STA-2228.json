@@ -1,12 +1,11 @@
 {
  "title": "The bridge and portion of marble quarry, Glens Falls, N.Y",
- "place": "Place unrecorded",
+ "place": "Glens Falls, New York",
  "year": "1860",
  "sy": 1860,
  "era": "early",
  "cats": [
-  "water",
-  "cities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/The_bridge_and_portion_of_marble_quarry%2C_Glens_Falls%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-The_bridge_and_portion_of_marble_quarry%2C_Glens_Falls%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -55,8 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "water",
-  "cities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1860",
@@ -67,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10057133,
  "source_revision_id": null,
- "source_sha1": "df4df63bba9ecd5572cafaca715b8b4ef653084b"
+ "source_sha1": "df4df63bba9ecd5572cafaca715b8b4ef653084b",
+ "tags": [
+  "rapids",
+  "bridge",
+  "rock formation"
+ ]
 }

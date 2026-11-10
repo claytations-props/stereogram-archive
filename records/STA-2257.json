@@ -5,7 +5,7 @@
  "sy": 1868,
  "era": "early",
  "cats": [
-  "oddities"
+  "mountains"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/View_of_a_marble_quarry%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_marble_quarry%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "mountains"
  ],
  "publisher_series": null,
  "date_edtf": "1868",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10091351,
  "source_revision_id": null,
- "source_sha1": "0df5abd94c9472a29c01f097e2eff09007f52919"
+ "source_sha1": "0df5abd94c9472a29c01f097e2eff09007f52919",
+ "tags": [
+  "quarry",
+  "rock formation"
+ ]
 }

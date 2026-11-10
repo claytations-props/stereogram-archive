@@ -1,0 +1,117 @@
+{
+ "assignments": {
+  "STA-2206": {
+   "tags": [
+    "river",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2210": {
+   "tags": [
+    "church",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2211": {
+   "tags": [
+    "house",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2212": {
+   "tags": [
+    "main street",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2213": {
+   "tags": [
+    "river",
+    "bridge",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2214": {
+   "tags": [
+    "trees",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2215": {
+   "tags": [
+    "river",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2216": {
+   "tags": [
+    "trees",
+    "church"
+   ],
+   "conf": "high"
+  },
+  "STA-2217": {
+   "tags": [
+    "trees",
+    "house"
+   ],
+   "conf": "high"
+  },
+  "STA-2219": {
+   "tags": [
+    "church",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2220": {
+   "tags": [
+    "church interior",
+    "pipe organ"
+   ],
+   "conf": "high"
+  },
+  "STA-2221": {
+   "tags": [
+    "main street",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2222": {
+   "tags": [
+    "trees",
+    "house"
+   ],
+   "conf": "high"
+  },
+  "STA-2223": {
+   "tags": [
+    "church",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2224": {
+   "tags": [
+    "library",
+    "staircase"
+   ],
+   "conf": "high"
+  }
+ },
+ "held": {
+  "STA-2207": "capitol hall interior, room interior only, no capitol term",
+  "STA-2208": "executive chamber interior, room interior only",
+  "STA-2209": "executive chamber interior, room interior only",
+  "STA-2218": "capitol interior, room interior only",
+  "STA-2225": "Vermont State House exterior, no capitol term"
+ }
+}

@@ -1,11 +1,11 @@
 {
  "title": "Cave at Glens Falls, N.Y, by Deloss Barnum",
- "place": "Place unrecorded",
+ "place": "Glens Falls, New York",
  "year": "1860",
  "sy": 1860,
  "era": "early",
  "cats": [
-  "water"
+  "mountains"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Cave_at_Glens_Falls%2C_N.Y%2C_by_Deloss_Barnum.jpg/1920px-Cave_at_Glens_Falls%2C_N.Y%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "Deloss Barnum",
  "creator_dates": null,
  "facets": [
-  "water"
+  "mountains"
  ],
  "publisher_series": null,
  "date_edtf": "1860",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10057540,
  "source_revision_id": null,
- "source_sha1": "91156354c380248a567b5650cbf006c2e0a2c7bc"
+ "source_sha1": "91156354c380248a567b5650cbf006c2e0a2c7bc",
+ "tags": [
+  "cave",
+  "rock formation"
+ ]
 }

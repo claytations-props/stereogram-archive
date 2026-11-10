@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2280.json",
+ "name": "General view of New Bedford, by Adams, S. F., 1844-1876",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2279.jpg",
+ "identifier": "STA-2280",
+ "creator": {
+  "@type": "Person",
+  "name": "Adams, S. F."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Bedford, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:General_view_of_New_Bedford,_by_Adams,_S._F.,_1844-1876.jpg"
+}

@@ -1,11 +1,11 @@
 {
  "title": "Brattleboro, from Cemetery Hill",
- "place": "Place unrecorded",
+ "place": "Brattleboro, Vermont",
  "year": "1869",
  "sy": 1869,
  "era": "early",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Brattleboro%2C_from_Cemetery_Hill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Brattleboro%2C_from_Cemetery_Hill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1869",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10091954,
  "source_revision_id": null,
- "source_sha1": "056dd7ca891d4f36f397583ca8ffcd18667160df"
+ "source_sha1": "056dd7ca891d4f36f397583ca8ffcd18667160df",
+ "tags": [
+  "river",
+  "bridge",
+  "railroad tracks"
+ ]
 }

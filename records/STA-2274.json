@@ -1,11 +1,11 @@
 {
  "title": "Whetstoke Brook, Brattleboro, Vt, by D. A. Henry",
- "place": "Place unrecorded",
+ "place": "Brattleboro, Vermont",
  "year": "1869",
  "sy": 1869,
  "era": "early",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Whetstoke_Brook%2C_Brattleboro%2C_Vt%2C_by_D._A._Henry.png/1920px-Whetstoke_Brook%2C_Brattleboro%2C_Vt%2C_by_D._A._Henry.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "D. A. Henry",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1869",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10091871,
  "source_revision_id": null,
- "source_sha1": "36588276aba89330f906569d17300148efffc3d7"
+ "source_sha1": "36588276aba89330f906569d17300148efffc3d7",
+ "tags": [
+  "waterfall",
+  "ice"
+ ]
 }

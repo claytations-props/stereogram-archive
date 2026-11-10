@@ -1,6 +1,6 @@
 {
  "title": "Middle St. Church, New Bedford, Mass, by Adams, S. F., 1844-1876",
- "place": "Place unrecorded",
+ "place": "New Bedford, Massachusetts",
  "year": "Undated",
  "sy": 1900,
  "era": "undated",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7445119,
  "source_revision_id": null,
- "source_sha1": "4813724a6f0b71338f8dee457d90f0c84f7b7bc3"
+ "source_sha1": "4813724a6f0b71338f8dee457d90f0c84f7b7bc3",
+ "tags": [
+  "church",
+  "trees"
+ ]
 }

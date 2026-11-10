@@ -1,0 +1,144 @@
+{
+ "assignments": {
+  "STA-2226": {
+   "tags": [
+    "waterfall",
+    "watermill"
+   ],
+   "conf": "high"
+  },
+  "STA-2227": {
+   "tags": [
+    "waterfall",
+    "bridge",
+    "rock formation"
+   ],
+   "conf": "high"
+  },
+  "STA-2228": {
+   "tags": [
+    "rapids",
+    "bridge",
+    "rock formation"
+   ],
+   "conf": "high"
+  },
+  "STA-2229": {
+   "tags": [
+    "waterfall",
+    "dam",
+    "watermill"
+   ],
+   "conf": "high"
+  },
+  "STA-2230": {
+   "tags": [
+    "dam",
+    "river",
+    "logging"
+   ],
+   "conf": "high"
+  },
+  "STA-2231": {
+   "tags": [
+    "main street",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2232": {
+   "tags": [
+    "waterfall",
+    "bridge",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2233": {
+   "tags": [
+    "cave",
+    "rock formation"
+   ],
+   "conf": "high"
+  },
+  "STA-2234": {
+   "tags": [
+    "waterfall",
+    "rock formation"
+   ],
+   "conf": "high"
+  },
+  "STA-2235": {
+   "tags": [
+    "waterfall",
+    "watermill"
+   ],
+   "conf": "high"
+  },
+  "STA-2236": {
+   "tags": [
+    "waterfall",
+    "rock formation"
+   ],
+   "conf": "high"
+  },
+  "STA-2237": {
+   "tags": [
+    "waterfall",
+    "watermill",
+    "rock formation"
+   ],
+   "conf": "high"
+  },
+  "STA-2238": {
+   "tags": [
+    "monument",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2239": {
+   "tags": [
+    "waterfall",
+    "cliff"
+   ],
+   "conf": "high"
+  },
+  "STA-2240": {
+   "tags": [
+    "waterfall",
+    "bridge"
+   ],
+   "conf": "high"
+  },
+  "STA-2241": {
+   "tags": [
+    "waterfall",
+    "rock formation"
+   ],
+   "conf": "high"
+  },
+  "STA-2242": {
+   "tags": [
+    "waterfall",
+    "cliff"
+   ],
+   "conf": "high"
+  },
+  "STA-2243": {
+   "tags": [
+    "rock formation",
+    "river"
+   ],
+   "conf": "high"
+  },
+  "STA-2244": {
+   "tags": [
+    "church",
+    "trees"
+   ],
+   "conf": "high"
+  }
+ },
+ "held": {}
+}

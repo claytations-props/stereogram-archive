@@ -1,11 +1,11 @@
 {
  "title": "A mechanical twister at work. Silk industry, South Manchester, Conn., U.S.A, by Keystone View Company",
- "place": "Place unrecorded",
+ "place": "South Manchester, Connecticut",
  "year": "Undated",
  "sy": 1900,
  "era": "undated",
  "cats": [
-  "oddities"
+  "people"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/A_mechanical_twister_at_work._Silk_industry%2C_South_Manchester%2C_Conn.%2C_U.S.A%2C_by_Keystone_View_Company.jpg/1920px-A_mechanical_twister_at_work._Silk_industry%2C_South_Manchester%2C_Conn.%2C_U.S.A%2C_by_Keystone_View_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "Keystone View Company",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "people"
  ],
  "publisher_series": null,
  "date_edtf": null,
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10237414,
  "source_revision_id": null,
- "source_sha1": "7db9fa1101b7513b7d32649f874a2df80ba8f7ef"
+ "source_sha1": "7db9fa1101b7513b7d32649f874a2df80ba8f7ef",
+ "tags": [
+  "workers",
+  "factory"
+ ]
 }

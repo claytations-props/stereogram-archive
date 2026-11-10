@@ -1,11 +1,11 @@
 {
  "title": "View of a home",
- "place": "Place unrecorded",
+ "place": "Manchester, New Hampshire",
  "year": "1865–1872",
  "sy": 1865,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/View_of_a_home%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_home%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1865/1872",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10467373,
  "source_revision_id": null,
- "source_sha1": "c406a628250771bcd2e3a1c56606e0761488e38f"
+ "source_sha1": "c406a628250771bcd2e3a1c56606e0761488e38f",
+ "tags": [
+  "house",
+  "trees"
+ ]
 }

@@ -1,11 +1,11 @@
 {
  "title": "Looking out from the cave, Glens Falls, N.Y, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917",
- "place": "Place unrecorded",
+ "place": "Glens Falls, New York",
  "year": "Undated",
  "sy": 1900,
  "era": "undated",
  "cats": [
-  "water"
+  "mountains"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Looking_out_from_the_cave%2C_Glens_Falls%2C_N.Y%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg/1920px-Looking_out_from_the_cave%2C_Glens_Falls%2C_N.Y%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "Stoddard, Seneca Ray",
  "creator_dates": "1844-1917",
  "facets": [
-  "water"
+  "mountains"
  ],
  "publisher_series": null,
  "date_edtf": null,
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10057660,
  "source_revision_id": null,
- "source_sha1": "406b633228b99bd788edcb1aa513cef75a135050"
+ "source_sha1": "406b633228b99bd788edcb1aa513cef75a135050",
+ "tags": [
+  "rock formation",
+  "river"
+ ]
 }

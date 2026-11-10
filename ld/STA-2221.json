@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2221.json",
+ "name": "School Street, Montpelier, Vt. (including view of the Union House), by C. H. Freeman",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2220.jpg",
+ "identifier": "STA-2221",
+ "creator": {
+  "@type": "Person",
+  "name": "C. H. Freeman"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Montpelier, Vermont"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:School_Street,_Montpelier,_Vt._(including_view_of_the_Union_House),_by_C._H._Freeman.jpg"
+}

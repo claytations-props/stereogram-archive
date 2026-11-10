@@ -1,12 +1,11 @@
 {
  "title": "Street view, Montpelier, Vt, by C. H. Freeman",
- "place": "Place unrecorded",
+ "place": "Montpelier, Vermont",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
  "cats": [
-  "cities",
-  "people"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Street_view%2C_Montpelier%2C_Vt%2C_by_C._H._Freeman.jpg/1920px-Street_view%2C_Montpelier%2C_Vt%2C_by_C._H._Freeman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -55,8 +54,7 @@
  "creator": "C. H. Freeman",
  "creator_dates": null,
  "facets": [
-  "cities",
-  "people"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1870",
@@ -67,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10092650,
  "source_revision_id": null,
- "source_sha1": "3b179f41a24d723aecceb1d45e088eab2deaa5cf"
+ "source_sha1": "3b179f41a24d723aecceb1d45e088eab2deaa5cf",
+ "tags": [
+  "trees",
+  "house"
+ ]
 }

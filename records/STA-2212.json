@@ -1,6 +1,6 @@
 {
  "title": "Street view, Montpelier, Vt, by H. E. Slayton",
- "place": "Place unrecorded",
+ "place": "Montpelier, Vermont",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10092737,
  "source_revision_id": null,
- "source_sha1": "c4fef1ee1dd60ff02b7e1d1498fe3661b60d41c7"
+ "source_sha1": "c4fef1ee1dd60ff02b7e1d1498fe3661b60d41c7",
+ "tags": [
+  "main street",
+  "horse-drawn carriage"
+ ]
 }

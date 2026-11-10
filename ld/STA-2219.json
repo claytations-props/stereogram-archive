@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2219.json",
+ "name": "Bethany Congregational Church, Montpelier, Vt, by C. H. Freeman",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2218.jpg",
+ "identifier": "STA-2219",
+ "creator": {
+  "@type": "Person",
+  "name": "C. H. Freeman"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Montpelier, Vermont"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bethany_Congregational_Church,_Montpelier,_Vt,_by_C._H._Freeman.jpg"
+}

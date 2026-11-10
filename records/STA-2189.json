@@ -1,11 +1,11 @@
 {
  "title": "Residence of Col. J.S. Cherrey's, Manchester, N.H",
- "place": "Place unrecorded",
+ "place": "Manchester, New Hampshire",
  "year": "1867",
  "sy": 1867,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Residence_of_Col._J.S._Cherrey%27s%2C_Manchester%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Residence_of_Col._J.S._Cherrey%27s%2C_Manchester%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1867",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10467535,
  "source_revision_id": null,
- "source_sha1": "1af1b9753ea289cd92d4d41bdbfa3ea8013b95a7"
+ "source_sha1": "1af1b9753ea289cd92d4d41bdbfa3ea8013b95a7",
+ "tags": [
+  "house",
+  "trees"
+ ]
 }

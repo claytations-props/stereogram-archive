@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-2192.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Downer Glen, Manchester, Vt. View A, by Allen, H. S. (Henry S.)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Allen, H. S. (Henry S.)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1870"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Manchester, Vermont"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-2192.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-2192/canvas/1",
+   "type": "Canvas",
+   "width": 1386,
+   "height": 748,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-2192/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-2192/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/2191.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1386,
+        "height": 748,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Downer_Glen%2C_Manchester%2C_Vt._View_A%2C_by_Allen%2C_H._S._%28Henry_S.%29.jpg/1920px-Downer_Glen%2C_Manchester%2C_Vt._View_A%2C_by_Allen%2C_H._S._%28Henry_S.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-2192/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

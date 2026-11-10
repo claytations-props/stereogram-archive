@@ -1,11 +1,10 @@
 {
  "title": "M.E. church, Glens Falls, re-dedicated Feb. 15, 1874. Cost $45,000, by Conkey, G. W. (George W.), 1837-ca. 1900",
- "place": "Place unrecorded",
+ "place": "Glens Falls, New York",
  "year": "1874",
  "sy": 1874,
  "era": "mid",
  "cats": [
-  "water",
   "cities"
  ],
  "blurb": "",
@@ -55,7 +54,6 @@
  "creator": "Conkey, G. W. (George W.), 1837-ca. 1900",
  "creator_dates": null,
  "facets": [
-  "water",
   "cities"
  ],
  "publisher_series": null,
@@ -67,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10057764,
  "source_revision_id": null,
- "source_sha1": "36438e7c8c0f89c9b18320161080db33298ead02"
+ "source_sha1": "36438e7c8c0f89c9b18320161080db33298ead02",
+ "tags": [
+  "church",
+  "trees"
+ ]
 }

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2215.json",
+ "name": "General view of Montpelier, Vermont, by C. H. Freeman",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2214.jpg",
+ "identifier": "STA-2215",
+ "creator": {
+  "@type": "Person",
+  "name": "C. H. Freeman"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Montpelier, Vermont"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:General_view_of_Montpelier,_Vermont,_by_C._H._Freeman.jpg"
+}

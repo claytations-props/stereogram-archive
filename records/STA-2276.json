@@ -1,11 +1,11 @@
 {
  "title": "Whetstone Brook in winter, Brattleboro, Vt, by D. A. Henry",
- "place": "Place unrecorded",
+ "place": "Brattleboro, Vermont",
  "year": "1869",
  "sy": 1869,
  "era": "early",
  "cats": [
-  "oddities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Whetstone_Brook_in_winter%2C_Brattleboro%2C_Vt%2C_by_D._A._Henry.jpg/1920px-Whetstone_Brook_in_winter%2C_Brattleboro%2C_Vt%2C_by_D._A._Henry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "D. A. Henry",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1869",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10091854,
  "source_revision_id": null,
- "source_sha1": "25b695455380b5e58055f66ef416585923d122d7"
+ "source_sha1": "25b695455380b5e58055f66ef416585923d122d7",
+ "tags": [
+  "waterfall",
+  "ice",
+  "snow"
+ ]
 }

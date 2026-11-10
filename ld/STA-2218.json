@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2218.json",
+ "name": "Capitol, interior view, Montpelier, Vt, by H. E. Slayton",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2217.jpg",
+ "identifier": "STA-2218",
+ "creator": {
+  "@type": "Person",
+  "name": "H. E. Slayton"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Montpelier, Vermont"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Capitol,_interior_view,_Montpelier,_Vt,_by_H._E._Slayton.jpg"
+}

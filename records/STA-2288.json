@@ -1,11 +1,11 @@
 {
  "title": "From Summer St. looking toward Bedford",
- "place": "Place unrecorded",
+ "place": "Boston, Massachusetts",
  "year": "1872",
  "sy": 1872,
  "era": "mid",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/From_Summer_St._looking_toward_Bedford%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-From_Summer_St._looking_toward_Bedford%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1872",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7449358,
  "source_revision_id": null,
- "source_sha1": "95763dd41db49d5040c53d5d192f2d87d93d1c38"
+ "source_sha1": "95763dd41db49d5040c53d5d192f2d87d93d1c38",
+ "tags": [
+  "ruins",
+  "fire damage"
+ ]
 }

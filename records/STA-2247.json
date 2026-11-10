@@ -1,11 +1,11 @@
 {
  "title": "Rutland dwelling, by S. Bullock",
- "place": "Place unrecorded",
+ "place": "Rutland, Vermont",
  "year": "1865",
  "sy": 1865,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Rutland_dwelling%2C_by_S._Bullock.jpg/1920px-Rutland_dwelling%2C_by_S._Bullock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "S. Bullock",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1865",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10092981,
  "source_revision_id": null,
- "source_sha1": "c74b0460c4bafb03800b9881175640725e07e9f8"
+ "source_sha1": "c74b0460c4bafb03800b9881175640725e07e9f8",
+ "tags": [
+  "house",
+  "trees"
+ ]
 }

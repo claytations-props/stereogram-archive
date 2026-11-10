@@ -1,11 +1,11 @@
 {
  "title": "View of a covered bridge, Brattleboro, Vt, by D. A. Henry",
- "place": "Place unrecorded",
+ "place": "Brattleboro, Vermont",
  "year": "1869",
  "sy": 1869,
  "era": "early",
  "cats": [
-  "cities"
+  "water"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/View_of_a_covered_bridge%2C_Brattleboro%2C_Vt%2C_by_D._A._Henry.jpg/1920px-View_of_a_covered_bridge%2C_Brattleboro%2C_Vt%2C_by_D._A._Henry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "D. A. Henry",
  "creator_dates": null,
  "facets": [
-  "cities"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1869",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10091810,
  "source_revision_id": null,
- "source_sha1": "1664dfe078baad6327853a1b4f39cc030a6dc0bf"
+ "source_sha1": "1664dfe078baad6327853a1b4f39cc030a6dc0bf",
+ "tags": [
+  "covered bridge",
+  "river",
+  "mountain"
+ ]
 }

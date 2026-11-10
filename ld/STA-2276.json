@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2276.json",
+ "name": "Whetstone Brook in winter, Brattleboro, Vt, by D. A. Henry",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2275.jpg",
+ "identifier": "STA-2276",
+ "creator": {
+  "@type": "Person",
+  "name": "D. A. Henry"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Brattleboro, Vermont"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Whetstone_Brook_in_winter,_Brattleboro,_Vt,_by_D._A._Henry.jpg"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2233.json",
+ "name": "Cave at Glens Falls, N.Y, by Deloss Barnum",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2232.jpg",
+ "identifier": "STA-2233",
+ "creator": {
+  "@type": "Person",
+  "name": "Deloss Barnum"
+ },
+ "dateCreated": "1860",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Glens Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cave_at_Glens_Falls,_N.Y,_by_Deloss_Barnum.jpg"
+}

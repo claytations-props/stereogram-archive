@@ -1,11 +1,11 @@
 {
  "title": "Vermont Marble Co.'s quarries, West Rutland, Vt, by Nichols, C. W. (Carlos W.)",
- "place": "Place unrecorded",
+ "place": "West Rutland, Vermont",
  "year": "1865",
  "sy": 1865,
  "era": "early",
  "cats": [
-  "oddities"
+  "mountains"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Vermont_Marble_Co.%27s_quarries%2C_West_Rutland%2C_Vt%2C_by_Nichols%2C_C._W._%28Carlos_W.%29.jpg/1920px-Vermont_Marble_Co.%27s_quarries%2C_West_Rutland%2C_Vt%2C_by_Nichols%2C_C._W._%28Carlos_W.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "Nichols, C. W. (Carlos W.)",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "mountains"
  ],
  "publisher_series": null,
  "date_edtf": "1865",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10093009,
  "source_revision_id": null,
- "source_sha1": "c1acce68d0c0d71202ce69d09eabe99599a32bd7"
+ "source_sha1": "c1acce68d0c0d71202ce69d09eabe99599a32bd7",
+ "tags": [
+  "quarry",
+  "workers"
+ ]
 }

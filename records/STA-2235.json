@@ -1,6 +1,6 @@
 {
  "title": "Glens Falls, N.Y. (3990425819)",
- "place": "Place unrecorded",
+ "place": "Glens Falls, New York",
  "year": "1860",
  "sy": 1860,
  "era": "early",
@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 53536778,
  "source_revision_id": null,
- "source_sha1": "1967c7144620772ca677b0c606a307fbc4e76402"
+ "source_sha1": "1967c7144620772ca677b0c606a307fbc4e76402",
+ "tags": [
+  "waterfall",
+  "watermill"
+ ]
 }

@@ -1,11 +1,11 @@
 {
  "title": "Downer Glen, Manchester, Vt. View A, by Allen, H. S. (Henry S.)",
- "place": "Place unrecorded",
+ "place": "Manchester, Vermont",
  "year": "1870",
  "sy": 1870,
  "era": "mid",
  "cats": [
-  "oddities"
+  "mountains"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Downer_Glen%2C_Manchester%2C_Vt._View_A%2C_by_Allen%2C_H._S._%28Henry_S.%29.jpg/1920px-Downer_Glen%2C_Manchester%2C_Vt._View_A%2C_by_Allen%2C_H._S._%28Henry_S.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": "Allen, H. S. (Henry S.)",
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "mountains"
  ],
  "publisher_series": null,
  "date_edtf": "1870",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10092366,
  "source_revision_id": null,
- "source_sha1": "c976acb118a2b2bb678ad5d7dab7cf0510cfa4fd"
+ "source_sha1": "c976acb118a2b2bb678ad5d7dab7cf0510cfa4fd",
+ "tags": [
+  "rock formation",
+  "trees",
+  "creek"
+ ]
 }

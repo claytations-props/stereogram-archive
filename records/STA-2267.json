@@ -1,11 +1,11 @@
 {
  "title": "Old peg factory on Whetstone Brook, carried away in 1869, Brattleboro, Vt",
- "place": "Place unrecorded",
+ "place": "Brattleboro, Vermont",
  "year": "1869",
  "sy": 1869,
  "era": "early",
  "cats": [
-  "oddities"
+  "cities"
  ],
  "blurb": "",
  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Old_peg_factory_on_Whetstone_Brook%2C_carried_away_in_1869%2C_Brattleboro%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Old_peg_factory_on_Whetstone_Brook%2C_carried_away_in_1869%2C_Brattleboro%2C_Vt%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -54,7 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "oddities"
+  "cities"
  ],
  "publisher_series": null,
  "date_edtf": "1869",
@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10091762,
  "source_revision_id": null,
- "source_sha1": "6231fc9a5db726988e94e9ff51ebeb7aa4d93092"
+ "source_sha1": "6231fc9a5db726988e94e9ff51ebeb7aa4d93092",
+ "tags": [
+  "factory",
+  "creek",
+  "trees"
+ ]
 }

@@ -1,11 +1,10 @@
 {
  "title": "A group in front of a wood frame home or hotel, Brattleboro, Vt",
- "place": "Place unrecorded",
+ "place": "Brattleboro, Vermont",
  "year": "1869",
  "sy": 1869,
  "era": "early",
  "cats": [
-  "cities",
   "people"
  ],
  "blurb": "",
@@ -55,7 +54,6 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "cities",
   "people"
  ],
  "publisher_series": null,
@@ -67,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10091755,
  "source_revision_id": null,
- "source_sha1": "95084d2ce9e7dbfe3c1919d3ca122d3392afb4f0"
+ "source_sha1": "95084d2ce9e7dbfe3c1919d3ca122d3392afb4f0",
+ "tags": [
+  "portrait group",
+  "family",
+  "house"
+ ]
 }

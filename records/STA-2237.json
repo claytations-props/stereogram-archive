@@ -1,12 +1,11 @@
 {
  "title": "View from Cave Rock, looking north, Glens Falls, N.Y. (3990425711)",
- "place": "Place unrecorded",
+ "place": "Glens Falls, New York",
  "year": "1860",
  "sy": 1860,
  "era": "early",
  "cats": [
-  "water",
-  "mountains"
+  "water"
  ],
  "blurb": "Digital ID: G91F112_005F. [1860?-1880?] Source: Robert N. Dennis collection of stereoscopic views. / United States. / States / New York / Stereoscopic views of Glens Falls, New York (http://digitalgallery.nypl.org/nypldigital/explore/?col_id=361) Repository: The New York Public Library. Photography Collection, Miriam and Ira D. Wallach Division of Art, Prints and Photographs. See more information about http://digitalgallery.nypl.org/nypldigital/id?G91F112_005F and others at http://digitalgallery.nypl.org. Persistent URL: http://digitalgallery.nypl.org/nypldigital/id?G91F112_005F Rights Info: No known copyright restrictions; may be subject to third party rights (for more information, http://www.nypl.org/legal/flickr.cfm)",
  "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/View_from_Cave_Rock%2C_looking_north%2C_Glens_Falls%2C_N.Y._%283990425711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -55,8 +54,7 @@
  "creator": null,
  "creator_dates": null,
  "facets": [
-  "water",
-  "mountains"
+  "water"
  ],
  "publisher_series": null,
  "date_edtf": "1860",
@@ -67,5 +65,10 @@
  "license_url": null,
  "source_page_id": 53536795,
  "source_revision_id": null,
- "source_sha1": "b9869a06a82906f8826d22ae991bff78b81828db"
+ "source_sha1": "b9869a06a82906f8826d22ae991bff78b81828db",
+ "tags": [
+  "waterfall",
+  "watermill",
+  "rock formation"
+ ]
 }

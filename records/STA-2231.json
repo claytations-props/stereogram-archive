@@ -1,11 +1,10 @@
 {
  "title": "Glen Street, Glens Falls, N.Y, by George S. Irish",
- "place": "Place unrecorded",
+ "place": "Glens Falls, New York",
  "year": "1860",
  "sy": 1860,
  "era": "early",
  "cats": [
-  "water",
   "cities"
  ],
  "blurb": "",
@@ -55,7 +54,6 @@
  "creator": "George S. Irish",
  "creator_dates": null,
  "facets": [
-  "water",
   "cities"
  ],
  "publisher_series": null,
@@ -67,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10057780,
  "source_revision_id": null,
- "source_sha1": "3d5107a0b79355d72865b0cba80183ae1ba143cb"
+ "source_sha1": "3d5107a0b79355d72865b0cba80183ae1ba143cb",
+ "tags": [
+  "main street",
+  "trees"
+ ]
 }
