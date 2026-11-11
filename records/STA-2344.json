@@ -1,0 +1,69 @@
+{
+ "title": "Interior of St. Lawrence Catholic Church",
+ "place": "New Bedford, Massachusetts",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Interior_of_St._Lawrence_Catholic_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Interior_of_St._Lawrence_Catholic_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Interior_of_St._Lawrence_Catholic_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Interior_of_St._Lawrence_Catholic_Church,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1353,
+ "id": "STA-2344",
+ "rect": "rect/2343.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.02,
+ "range": 2.19,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.7117,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Interior_of_St._Lawrence_Catholic_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Interior_of_St._Lawrence_Catholic_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7117,
+  "L": [
+   0.3125,
+   0.0,
+   0.170573,
+   0.0,
+   0.888303,
+   0.056375
+  ],
+  "R": [
+   0.311772,
+   -0.005167,
+   0.609537,
+   0.005178,
+   0.878953,
+   0.064674
+  ],
+  "g": [
+   1.0,
+   0.9816
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured moderate (2.19% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7445452,
+ "source_revision_id": null,
+ "source_sha1": "9f630433a0d57348d37c19140d6b9e6c92639fba"
+}

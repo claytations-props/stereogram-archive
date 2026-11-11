@@ -1,0 +1,69 @@
+{
+ "title": "View of a store front decorated with flags with goods displayed",
+ "place": "Lawrence, Massachusetts",
+ "year": "1869",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/View_of_a_store_front_decorated_with_flags_with_goods_displayed%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/19/View_of_a_store_front_decorated_with_flags_with_goods_displayed%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_store_front_decorated_with_flags_with_goods_displayed,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 439,
+ "id": "STA-2354",
+ "rect": "rect/2353.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.22,
+ "rot": 0.03,
+ "range": 0.9,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8308,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/1/19/View_of_a_store_front_decorated_with_flags_with_goods_displayed%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8308,
+  "L": [
+   0.432895,
+   0.0,
+   0.055921,
+   0.0,
+   0.90205,
+   0.044419
+  ],
+  "R": [
+   0.429378,
+   -0.005033,
+   0.510015,
+   8.8e-05,
+   0.898191,
+   0.048482
+  ],
+  "g": [
+   1.0,
+   0.9812
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.03° of rotation. Depth measured gentle (0.9% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869",
+ "date_start": 1869,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442824,
+ "source_revision_id": null,
+ "source_sha1": "a69ed882e697004ffa21c6d5aaa01e2a21b05d5e"
+}
