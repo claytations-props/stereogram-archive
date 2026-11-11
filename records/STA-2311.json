@@ -1,0 +1,69 @@
+{
+ "title": "View from Indian Fall, looking down the stream",
+ "place": "Place unrecorded",
+ "year": "c. 1855",
+ "sy": 1855,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/View_from_Indian_Fall%2C_looking_down_the_stream%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_from_Indian_Fall%2C_looking_down_the_stream%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/9a/View_from_Indian_Fall%2C_looking_down_the_stream%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_from_Indian_Fall,_looking_down_the_stream,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2523,
+ "h": 1234,
+ "id": "STA-2311",
+ "rect": "rect/2310.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.02,
+ "range": 2.3,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 1.0687,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/View_from_Indian_Fall%2C_looking_down_the_stream%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_from_Indian_Fall%2C_looking_down_the_stream%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0687,
+  "L": [
+   0.429167,
+   0.0,
+   0.063802,
+   0.0,
+   0.821086,
+   0.018637
+  ],
+  "R": [
+   0.418153,
+   -0.006744,
+   0.522915,
+   0.006837,
+   0.816465,
+   0.025903
+  ],
+  "g": [
+   1.0,
+   0.936
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.02° of rotation. Depth measured deep (2.3% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1855~",
+ "date_start": 1850,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10069171,
+ "source_revision_id": null,
+ "source_sha1": "eca9ea5fb58d60da25a9a668296441f63b0aae2b"
+}

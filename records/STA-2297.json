@@ -1,0 +1,69 @@
+{
+ "title": "General view of Fall River, showing industrial buildings, homes, and a church, by E. F. Gay",
+ "place": "Fall River, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/2/25/General_view_of_Fall_River%2C_showing_industrial_buildings%2C_homes%2C_and_a_church%2C_by_E._F._Gay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/25/General_view_of_Fall_River%2C_showing_industrial_buildings%2C_homes%2C_and_a_church%2C_by_E._F._Gay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:General_view_of_Fall_River,_showing_industrial_buildings,_homes,_and_a_church,_by_E._F._Gay.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 447,
+ "id": "STA-2297",
+ "rect": "rect/2296.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.18,
+ "rot": 0.01,
+ "range": 0.46,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9812,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/2/25/General_view_of_Fall_River%2C_showing_industrial_buildings%2C_homes%2C_and_a_church%2C_by_E._F._Gay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.9812,
+  "L": [
+   0.413158,
+   0.0,
+   0.076974,
+   0.0,
+   0.715884,
+   0.233781
+  ],
+  "R": [
+   0.411141,
+   0.001734,
+   0.506195,
+   -0.006594,
+   0.713047,
+   0.248223
+  ],
+  "g": [
+   1.0,
+   0.9469
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.01° of rotation. Depth measured gentle (0.46% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "E. F. Gay",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7441924,
+ "source_revision_id": null,
+ "source_sha1": "e6e9eb59669013f408bbd1072e9dd0ae9a2a5529"
+}

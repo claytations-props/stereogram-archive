@@ -1,0 +1,69 @@
+{
+ "title": "Fall River, Mass, by Kilburn Brothers 3",
+ "place": "Fall River, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Fall_River%2C_Mass%2C_by_Kilburn_Brothers_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Fall_River%2C_Mass%2C_by_Kilburn_Brothers_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Fall_River,_Mass,_by_Kilburn_Brothers_3.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 377,
+ "id": "STA-2299",
+ "rect": "rect/2298.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.29,
+ "rot": 0.01,
+ "range": 0.66,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.3455,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Fall_River%2C_Mass%2C_by_Kilburn_Brothers_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.3455,
+  "L": [
+   0.389474,
+   0.0,
+   0.079605,
+   0.0,
+   0.583554,
+   0.359416
+  ],
+  "R": [
+   0.392861,
+   0.006722,
+   0.502908,
+   -0.024827,
+   0.588114,
+   0.372365
+  ],
+  "g": [
+   1.0,
+   0.9398
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.29% vertical error and 0.01° of rotation. Depth measured gentle (0.66% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Kilburn Brothers",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7441880,
+ "source_revision_id": null,
+ "source_sha1": "0c1ce3e34ef76ffcb242925a215e1b97224a1b42"
+}

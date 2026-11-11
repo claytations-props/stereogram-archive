@@ -1,0 +1,69 @@
+{
+ "title": "American Print Works, Fall River, Mass",
+ "place": "Fall River, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/d/da/American_Print_Works%2C_Fall_River%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/da/American_Print_Works%2C_Fall_River%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:American_Print_Works,_Fall_River,_Mass,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 380,
+ "id": "STA-2289",
+ "rect": "rect/2288.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.19,
+ "rot": 0.0,
+ "range": 5.8,
+ "f": 0.54,
+ "depth": "Deep",
+ "va": 1.0279,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/d/da/American_Print_Works%2C_Fall_River%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.0279,
+  "L": [
+   0.388158,
+   0.0,
+   0.079605,
+   0.0,
+   0.755263,
+   0.130263
+  ],
+  "R": [
+   0.387257,
+   -0.00917,
+   0.535946,
+   0.011662,
+   0.758897,
+   0.116512
+  ],
+  "g": [
+   1.0,
+   0.9981
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.0° of rotation. Depth measured deep (5.8% of frame width); hung in the VR Parlor at 54% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7441870,
+ "source_revision_id": null,
+ "source_sha1": "405fd790a87494d08ed159b5117a278360c512c7"
+}
