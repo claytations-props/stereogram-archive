@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2338.json",
+ "name": "Lynn from high rock (NYPL b11707522-G90F247 008F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2337.jpg",
+ "identifier": "STA-2338",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lynn, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Lynn_from_high_rock_(NYPL_b11707522-G90F247_008F).tiff"
+}

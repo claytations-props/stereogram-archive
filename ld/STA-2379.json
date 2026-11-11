@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2379.json",
+ "name": "Grapery at Pittsfield, Mass, by American Stereoscopic Co., fl. 1896-1906",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2378.jpg",
+ "identifier": "STA-2379",
+ "creator": {
+  "@type": "Person",
+  "name": "American Stereoscopic Co., fl. 1896-1906"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pittsfield, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Grapery_at_Pittsfield,_Mass,_by_American_Stereoscopic_Co.,_fl._1896-1906.jpg"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2329.json",
+ "name": "View of a group camping, by C. B. Tuttle",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2328.jpg",
+ "identifier": "STA-2329",
+ "creator": {
+  "@type": "Person",
+  "name": "C. B. Tuttle"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lynn, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_group_camping,_by_C._B._Tuttle.jpg"
+}

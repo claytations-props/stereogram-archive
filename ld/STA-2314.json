@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2314.json",
+ "name": "View on Merced River, near the Bridal Veil Fall, Yo-Semite Valley, Mariposa county, by Lawrence & Houseworth",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2313.jpg",
+ "identifier": "STA-2314",
+ "creator": {
+  "@type": "Person",
+  "name": "Lawrence & Houseworth"
+ },
+ "dateCreated": "1864",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yosemite Valley, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_on_Merced_River,_near_the_Bridal_Veil_Fall,_Yo-Semite_Valley,_Mariposa_county,_by_Lawrence_%26_Houseworth.jpg"
+}

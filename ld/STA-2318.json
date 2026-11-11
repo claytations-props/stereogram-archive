@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2318.json",
+ "name": "Sliding rock, Lynn beach, by J. C. Brokaw",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2317.jpg",
+ "identifier": "STA-2318",
+ "creator": {
+  "@type": "Person",
+  "name": "J. C. Brokaw"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lynn, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sliding_rock,_Lynn_beach,_by_J._C._Brokaw.jpg"
+}

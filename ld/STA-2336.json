@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2336.json",
+ "name": "Lynn beach (NYPL b11707522-G90F247 010F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2335.jpg",
+ "identifier": "STA-2336",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lynn, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Lynn_beach_(NYPL_b11707522-G90F247_010F).tiff"
+}

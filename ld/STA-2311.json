@@ -1,0 +1,11 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2311.json",
+ "name": "View from Indian Fall, looking down the stream",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2310.jpg",
+ "identifier": "STA-2311",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_from_Indian_Fall,_looking_down_the_stream,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

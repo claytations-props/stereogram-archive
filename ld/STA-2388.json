@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2388.json",
+ "name": "Group of musicians, Pittsfield, N.H, by Henry W. Osgood",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2387.jpg",
+ "identifier": "STA-2388",
+ "creator": {
+  "@type": "Person",
+  "name": "Henry W. Osgood"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pittsfield, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Group_of_musicians,_Pittsfield,_N.H,_by_Henry_W._Osgood.jpg"
+}

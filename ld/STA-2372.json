@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2372.json",
+ "name": "General view of Holyoke (NYPL b11707517-G90F242 021ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2371.jpg",
+ "identifier": "STA-2372",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Holyoke, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:General_view_of_Holyoke_(NYPL_b11707517-G90F242_021ZF).tiff"
+}

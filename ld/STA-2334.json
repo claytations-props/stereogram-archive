@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2334.json",
+ "name": "Studio view of 50 children in Revolutionary era outfits, by W. M. Wires 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2333.jpg",
+ "identifier": "STA-2334",
+ "creator": {
+  "@type": "Person",
+  "name": "W. M. Wires"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lynn, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Studio_view_of_50_children_in_Revolutionary_era_outfits,_by_W._M._Wires_2.jpg"
+}

@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2315.json",
+ "name": "Spinning room, mechanics mill, Fall River, Mass (NYPL b11707509-G90F231 025F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2314.jpg",
+ "identifier": "STA-2315",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Fall River, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Spinning_room,_mechanics_mill,_Fall_River,_Mass_(NYPL_b11707509-G90F231_025F).tiff"
+}

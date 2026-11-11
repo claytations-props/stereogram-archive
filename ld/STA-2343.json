@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2343.json",
+ "name": "General view in large printing room of cotton mills, Lawrence, Mass, by Keystone View Company",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2342.jpg",
+ "identifier": "STA-2343",
+ "creator": {
+  "@type": "Person",
+  "name": "Keystone View Company"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lawrence, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:General_view_in_large_printing_room_of_cotton_mills,_Lawrence,_Mass,_by_Keystone_View_Company.jpg"
+}

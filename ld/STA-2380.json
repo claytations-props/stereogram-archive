@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2380.json",
+ "name": "Residence of C.P. Chapman in Pittsfield",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2379.jpg",
+ "identifier": "STA-2380",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pittsfield, Illinois"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Residence_of_C.P._Chapman_in_Pittsfield,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

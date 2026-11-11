@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2386.json",
+ "name": "Indian camp, Pittsfield, N.H, by J. Wilkins",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2385.jpg",
+ "identifier": "STA-2386",
+ "creator": {
+  "@type": "Person",
+  "name": "J. Wilkins"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pittsfield, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Indian_camp,_Pittsfield,_N.H,_by_J._Wilkins.png"
+}

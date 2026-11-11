@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2365.json",
+ "name": "From Union Street bridge, Lawrence, Mass, by I. A. Whitcomb",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2364.jpg",
+ "identifier": "STA-2365",
+ "creator": {
+  "@type": "Person",
+  "name": "I. A. Whitcomb"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lawrence, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:From_Union_Street_bridge,_Lawrence,_Mass,_by_I._A._Whitcomb.jpg"
+}

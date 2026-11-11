@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2297.json",
+ "name": "General view of Fall River, showing industrial buildings, homes, and a church, by E. F. Gay",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2296.jpg",
+ "identifier": "STA-2297",
+ "creator": {
+  "@type": "Person",
+  "name": "E. F. Gay"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Fall River, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:General_view_of_Fall_River,_showing_industrial_buildings,_homes,_and_a_church,_by_E._F._Gay.jpg"
+}

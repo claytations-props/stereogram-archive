@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2310.json",
+ "name": "The spindle of the twentieth century, Fall River, Mass, by Kilburn, B. W. (Benjamin West), 1827-1909",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2309.jpg",
+ "identifier": "STA-2310",
+ "creator": {
+  "@type": "Person",
+  "name": "Kilburn, B. W. (Benjamin West)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Fall River, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_spindle_of_the_twentieth_century,_Fall_River,_Mass,_by_Kilburn,_B._W._(Benjamin_West),_1827-1909.jpg"
+}

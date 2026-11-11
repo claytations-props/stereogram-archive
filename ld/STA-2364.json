@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2364.json",
+ "name": "Top of Vernal Fall, Yosemite, near view, by Lawrence & Houseworth",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2363.jpg",
+ "identifier": "STA-2364",
+ "creator": {
+  "@type": "Person",
+  "name": "Lawrence & Houseworth"
+ },
+ "dateCreated": "1864",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yosemite, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Top_of_Vernal_Fall,_Yosemite,_near_view,_by_Lawrence_%26_Houseworth.jpg"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2323.json",
+ "name": "Expert workman cutting leather, shoe factory, Lynn, Mass., U.S.A, by Underwood & Underwood",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2322.jpg",
+ "identifier": "STA-2323",
+ "creator": {
+  "@type": "Person",
+  "name": "Underwood & Underwood"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lynn, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Expert_workman_cutting_leather,_shoe_factory,_Lynn,_Mass.,_U.S.A,_by_Underwood_%26_Underwood.jpg"
+}

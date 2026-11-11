@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2307.json",
+ "name": "First Fall in Genesee River, and Portage R.R. Bridge",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2306.jpg",
+ "identifier": "STA-2307",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Portage, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:First_Fall_in_Genesee_River,_and_Portage_R.R._Bridge,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

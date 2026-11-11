@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2335.json",
+ "name": "Expert workmen, cutting leather for high quality shoes, Massachusetts, by Keystone View Company",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2334.jpg",
+ "identifier": "STA-2335",
+ "creator": {
+  "@type": "Person",
+  "name": "Keystone View Company"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lynn, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Expert_workmen,_cutting_leather_for_high_quality_shoes,_Massachusetts,_by_Keystone_View_Company.jpg"
+}

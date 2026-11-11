@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2319.json",
+ "name": "Lynn beach, by George C. Herbert",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2318.jpg",
+ "identifier": "STA-2319",
+ "creator": {
+  "@type": "Person",
+  "name": "George C. Herbert"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lynn, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Lynn_beach,_by_George_C._Herbert.jpg"
+}

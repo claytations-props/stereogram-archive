@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2389.json",
+ "name": "General view of Pittsfield showing homes and businesses (NYPL b11707541-G90F278 016F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2388.jpg",
+ "identifier": "STA-2389",
+ "dateCreated": "1880",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pittsfield, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:General_view_of_Pittsfield_showing_homes_and_businesses_(NYPL_b11707541-G90F278_016F).tiff"
+}

@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2339.json",
+ "name": "Sliding rock, Lynn beach (NYPL b11707522-G90F247 004F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2338.jpg",
+ "identifier": "STA-2339",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lynn, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sliding_rock,_Lynn_beach_(NYPL_b11707522-G90F247_004F).tiff"
+}

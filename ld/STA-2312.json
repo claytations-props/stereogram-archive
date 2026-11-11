@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2312.json",
+ "name": "General view of Fall River showing mills and the harbor in the distance (NYPL b11707509-G90F231 046ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2311.jpg",
+ "identifier": "STA-2312",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Fall River, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:General_view_of_Fall_River_showing_mills_and_the_harbor_in_the_distance_(NYPL_b11707509-G90F231_046ZF).tiff"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2344.json",
+ "name": "Interior of St. Lawrence Catholic Church",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2343.jpg",
+ "identifier": "STA-2344",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New Bedford, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Interior_of_St._Lawrence_Catholic_Church,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

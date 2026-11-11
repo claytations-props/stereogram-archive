@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2361.json",
+ "name": "Big Tree - Wm. Cullen Bryant, near view. Calaveras Group, by Lawrence & Houseworth",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2360.jpg",
+ "identifier": "STA-2361",
+ "creator": {
+  "@type": "Person",
+  "name": "Lawrence & Houseworth"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Calaveras County, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Big_Tree_-_Wm._Cullen_Bryant,_near_view._Calaveras_Group,_by_Lawrence_%26_Houseworth.jpg"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2383.json",
+ "name": "Large group of people in buggies and wagons at C.P. Chapman's flouring mill in Pittsfield",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2382.jpg",
+ "identifier": "STA-2383",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pittsfield, Illinois"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Large_group_of_people_in_buggies_and_wagons_at_C.P._Chapman%27s_flouring_mill_in_Pittsfield,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}
