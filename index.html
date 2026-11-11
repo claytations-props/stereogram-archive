@@ -659,7 +659,18 @@ addEventListener("hashchange",()=>{
 });
 
 function syncFavBtn(){const d=cur();if(!d)return;const b=$("#vFav");const on=favs.has(d.id);b.textContent=on?"♥ Saved":"♡ Save";b.setAttribute("aria-pressed",on?"true":"false");b.setAttribute("aria-label",(on?"Remove ":"Save ")+d.title+(on?" from":" to")+" the reading list")}
-$("#vFav").onclick=()=>{toggleFav(cur().id);render()};
+$("#vFav").onclick=()=>{
+ const id=cur().id;toggleFav(id);render();
+ /* Round 13: unsaving the card on display while browsing the Reading
+    List dropped it from the list under the viewer, which kept showing
+    the removed card with a count that no longer existed. The viewer
+    now moves to the card that slid into its place, as the Parlor has
+    done since round 10, and closes if the list is empty. */
+ if(!currentList.some(d=>d.id===id)){
+  if(!currentList.length){closeViewer();return;}
+  vi=Math.min(vi,currentList.length-1);showCurrent(true);
+ }
+};
 function stopWig(){if(wigTimer){clearInterval(wigTimer);wigTimer=null}}
 /* Round 11: the rectified pair lives on two hosts and neither covers
    the whole catalog — the Internet Archive hosts rect/00.jpg onward
