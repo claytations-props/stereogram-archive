@@ -1,0 +1,71 @@
+{
+ "title": "View of a man standing in a commercial street, by William T. Webster",
+ "place": "Lynn, Massachusetts",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities",
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/View_of_a_man_standing_in_a_commercial_street%2C_by_William_T._Webster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/2f/View_of_a_man_standing_in_a_commercial_street%2C_by_William_T._Webster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_man_standing_in_a_commercial_street,_by_William_T._Webster.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 449,
+ "id": "STA-2332",
+ "rect": "rect/2331.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.21,
+ "rot": 0.01,
+ "range": 2.24,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 1.0697,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/2/2f/View_of_a_man_standing_in_a_commercial_street%2C_by_William_T._Webster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.0697,
+  "L": [
+   0.343421,
+   0.0,
+   0.133553,
+   0.0,
+   0.54343,
+   0.341871
+  ],
+  "R": [
+   0.339384,
+   -0.001924,
+   0.507541,
+   0.000446,
+   0.537515,
+   0.346343
+  ],
+  "g": [
+   0.995,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.01° of rotation. Depth measured deep (2.24% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "William T. Webster",
+ "creator_dates": null,
+ "facets": [
+  "cities",
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7443029,
+ "source_revision_id": null,
+ "source_sha1": "2506616060059f8416792b6294d1c466d10421f2"
+}

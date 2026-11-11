@@ -1,0 +1,69 @@
+{
+ "title": "Sliding rock, Lynn beach, by J. C. Brokaw",
+ "place": "Lynn, Massachusetts",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sliding_rock%2C_Lynn_beach%2C_by_J._C._Brokaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sliding_rock%2C_Lynn_beach%2C_by_J._C._Brokaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Sliding_rock,_Lynn_beach,_by_J._C._Brokaw.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 399,
+ "id": "STA-2318",
+ "rect": "rect/2317.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.15,
+ "rot": 0.01,
+ "range": 1.4,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8344,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sliding_rock%2C_Lynn_beach%2C_by_J._C._Brokaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8344,
+  "L": [
+   0.357895,
+   0.0,
+   0.105921,
+   0.0,
+   0.817043,
+   0.04386
+  ],
+  "R": [
+   0.359882,
+   -0.000696,
+   0.516663,
+   -0.025448,
+   0.817961,
+   0.077604
+  ],
+  "g": [
+   0.9117,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.01° of rotation. Depth measured gentle (1.4% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "J. C. Brokaw",
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442968,
+ "source_revision_id": null,
+ "source_sha1": "54b642c3e1ebdd6d2aaa5d132d0a1263a93d98ff"
+}
