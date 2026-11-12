@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2443.json",
+ "name": "Soldiers' Monument (NYPL b11707552-G90F289 060ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2442.jpg",
+ "identifier": "STA-2443",
+ "dateCreated": "1874",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Soldiers%27_Monument_(NYPL_b11707552-G90F289_060ZF).tiff"
+}

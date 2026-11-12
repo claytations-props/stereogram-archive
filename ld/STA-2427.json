@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2427.json",
+ "name": "Altar and organ, Universalist Church (NYPL b11707552-G90F289 036F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2426.jpg",
+ "identifier": "STA-2427",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Altar_and_organ,_Universalist_Church_(NYPL_b11707552-G90F289_036F).tiff"
+}

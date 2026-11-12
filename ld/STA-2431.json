@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2431.json",
+ "name": "Brown freshman crew, by E. Berg",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2430.jpg",
+ "identifier": "STA-2431",
+ "creator": {
+  "@type": "Person",
+  "name": "E. Berg"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Brown_freshman_crew,_by_E._Berg.jpg"
+}

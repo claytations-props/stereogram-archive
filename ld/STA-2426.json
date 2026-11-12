@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2426.json",
+ "name": "Altar and organ, Universalist Church, by Frank Lawrence",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2425.jpg",
+ "identifier": "STA-2426",
+ "creator": {
+  "@type": "Person",
+  "name": "Frank Lawrence"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Altar_and_organ,_Universalist_Church,_by_Frank_Lawrence.jpg"
+}

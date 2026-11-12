@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2438.json",
+ "name": "Labor day parade, by L. G. Strand",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2437.jpg",
+ "identifier": "STA-2438",
+ "creator": {
+  "@type": "Person",
+  "name": "L. G. Strand"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Labor_day_parade,_by_L._G._Strand.jpg"
+}

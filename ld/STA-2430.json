@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2430.json",
+ "name": "Ashworth and Jones' mill, by H. J. Reed",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2429.jpg",
+ "identifier": "STA-2430",
+ "creator": {
+  "@type": "Person",
+  "name": "H. J. Reed"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Ashworth_and_Jones%27_mill,_by_H._J._Reed.jpg"
+}

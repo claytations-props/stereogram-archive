@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2432.json",
+ "name": "Civil War Soldiers' Monument, by Frank Lawrence",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2431.jpg",
+ "identifier": "STA-2432",
+ "creator": {
+  "@type": "Person",
+  "name": "Frank Lawrence"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Civil_War_Soldiers%27_Monument,_by_Frank_Lawrence.jpg"
+}

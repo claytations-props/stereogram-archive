@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2435.json",
+ "name": "Harvard University Crew, by E. Berg",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2434.jpg",
+ "identifier": "STA-2435",
+ "creator": {
+  "@type": "Person",
+  "name": "E. Berg"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Harvard_University_Crew,_by_E._Berg.jpg"
+}

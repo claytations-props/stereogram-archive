@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2428.json",
+ "name": "Arch bridge, Boston & Albany railroad, by Geo. Hinman & Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2427.jpg",
+ "identifier": "STA-2428",
+ "creator": {
+  "@type": "Person",
+  "name": "Geo. Hinman & Co."
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Arch_bridge,_Boston_%26_Albany_railroad,_by_Geo._Hinman_%26_Co..jpg"
+}

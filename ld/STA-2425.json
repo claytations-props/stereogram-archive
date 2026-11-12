@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2425.json",
+ "name": "Mechanics Hall and Union Block",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2424.jpg",
+ "identifier": "STA-2425",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Mechanics_Hall_and_Union_Block,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>2422</quantity>
+    <quantity>2443</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -3298,6 +3298,30 @@
       <unittitle>Conestoga at 2nd lock</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2407.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2433">
+     <did>
+      <unitid>STA-2433</unitid>
+      <unittitle>Damage to the Arch bridge caused during the flood at Worcester, March 30, 1876, by Frank Lawrence</unittitle>
+      <unitdate normal="1876">1876</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2432.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2435">
+     <did>
+      <unitid>STA-2435</unitid>
+      <unittitle>Harvard University Crew, by E. Berg</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2434.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2437">
+     <did>
+      <unitid>STA-2437</unitid>
+      <unittitle>J.A. Smith's mill--Cherry Valley, by H. J. Reed</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2436.jpg"/>
      </did>
     </c>
    </c>
@@ -14334,6 +14358,110 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2420.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-2423">
+     <did>
+      <unitid>STA-2423</unitid>
+      <unittitle>Park and bandstand in Warren</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2422.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2424">
+     <did>
+      <unitid>STA-2424</unitid>
+      <unittitle>Main Street, opposite City Hall</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2423.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2425">
+     <did>
+      <unitid>STA-2425</unitid>
+      <unittitle>Mechanics Hall and Union Block</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2424.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2426">
+     <did>
+      <unitid>STA-2426</unitid>
+      <unittitle>Altar and organ, Universalist Church, by Frank Lawrence</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2425.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2427">
+     <did>
+      <unitid>STA-2427</unitid>
+      <unittitle>Altar and organ, Universalist Church (NYPL b11707552-G90F289 036F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2426.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2428">
+     <did>
+      <unitid>STA-2428</unitid>
+      <unittitle>Arch bridge, Boston &amp; Albany railroad, by Geo. Hinman &amp; Co.</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2427.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2429">
+     <did>
+      <unitid>STA-2429</unitid>
+      <unittitle>Arch bridge, Boston &amp; Albany railroad, by J.W. &amp; J.S. Moulton</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2428.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2430">
+     <did>
+      <unitid>STA-2430</unitid>
+      <unittitle>Ashworth and Jones' mill, by H. J. Reed</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2429.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2434">
+     <did>
+      <unitid>STA-2434</unitid>
+      <unittitle>General street view, by French &amp; Sawyer</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2433.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2436">
+     <did>
+      <unitid>STA-2436</unitid>
+      <unittitle>High school, by H. D. Warner</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2435.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2439">
+     <did>
+      <unitid>STA-2439</unitid>
+      <unittitle>Lincoln House block, by H. D. Warner</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2438.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2440">
+     <did>
+      <unitid>STA-2440</unitid>
+      <unittitle>Main Street, north from Bay State House</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2439.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2441">
+     <did>
+      <unitid>STA-2441</unitid>
+      <unittitle>Mechanics Hall, by H. D. Warner</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2440.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -14945,6 +15073,30 @@
       <unittitle>Soldier's monument, Glens Falls, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917</unittitle>
       <unitdate>Undated</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2237.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2432">
+     <did>
+      <unitid>STA-2432</unitid>
+      <unittitle>Civil War Soldiers' Monument, by Frank Lawrence</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2431.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2442">
+     <did>
+      <unitid>STA-2442</unitid>
+      <unittitle>Soldiers' Monument (NYPL b11707552-G90F289 059ZF)</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2441.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2443">
+     <did>
+      <unitid>STA-2443</unitid>
+      <unittitle>Soldiers' Monument (NYPL b11707552-G90F289 060ZF)</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2442.jpg"/>
      </did>
     </c>
    </c>
@@ -16699,6 +16851,22 @@
       <unittitle>Great National Union Camp Meeting. Manheim, Pa, by Gill, W. L. (William L.), 1827-1893</unittitle>
       <unitdate normal="1868">1868</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2421.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2431">
+     <did>
+      <unitid>STA-2431</unitid>
+      <unittitle>Brown freshman crew, by E. Berg</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2430.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2438">
+     <did>
+      <unitid>STA-2438</unitid>
+      <unittitle>Labor day parade, by L. G. Strand</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2437.jpg"/>
      </did>
     </c>
    </c>

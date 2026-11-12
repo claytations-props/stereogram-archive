@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2434.json",
+ "name": "General street view, by French & Sawyer",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2433.jpg",
+ "identifier": "STA-2434",
+ "creator": {
+  "@type": "Person",
+  "name": "French & Sawyer"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:General_street_view,_by_French_%26_Sawyer.jpg"
+}

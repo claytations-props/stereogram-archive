@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2429.json",
+ "name": "Arch bridge, Boston & Albany railroad, by J.W. & J.S. Moulton",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2428.jpg",
+ "identifier": "STA-2429",
+ "creator": {
+  "@type": "Person",
+  "name": "J.W. & J.S. Moulton"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Arch_bridge,_Boston_%26_Albany_railroad,_by_J.W._%26_J.S._Moulton.jpg"
+}
