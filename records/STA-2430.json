@@ -1,0 +1,69 @@
+{
+ "title": "Ashworth and Jones' mill, by H. J. Reed",
+ "place": "Worcester, Massachusetts",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Ashworth_and_Jones%27_mill%2C_by_H._J._Reed.jpg/1920px-Ashworth_and_Jones%27_mill%2C_by_H._J._Reed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ashworth_and_Jones%27_mill%2C_by_H._J._Reed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Ashworth_and_Jones%27_mill,_by_H._J._Reed.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1614,
+ "id": "STA-2430",
+ "rect": "rect/2429.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.14,
+ "rot": 0.0,
+ "range": 0.46,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.6627,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Ashworth_and_Jones%27_mill%2C_by_H._J._Reed.jpg/1920px-Ashworth_and_Jones%27_mill%2C_by_H._J._Reed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.6627,
+  "L": [
+   0.43125,
+   0.0,
+   0.058594,
+   0.0,
+   0.439929,
+   0.498675
+  ],
+  "R": [
+   0.427108,
+   -0.002468,
+   0.514561,
+   0.005641,
+   0.436133,
+   0.497791
+  ],
+  "g": [
+   0.9651,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.0° of rotation. Depth measured gentle (0.46% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "H. J. Reed",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7448343,
+ "source_revision_id": null,
+ "source_sha1": "2af32897159007031ee9467ee72b7bc5e008ccc1"
+}

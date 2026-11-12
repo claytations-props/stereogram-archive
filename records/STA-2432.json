@@ -1,0 +1,69 @@
+{
+ "title": "Civil War Soldiers' Monument, by Frank Lawrence",
+ "place": "Worcester, Massachusetts",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "war"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Civil_War_Soldiers%27_Monument%2C_by_Frank_Lawrence.jpg/1920px-Civil_War_Soldiers%27_Monument%2C_by_Frank_Lawrence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Civil_War_Soldiers%27_Monument%2C_by_Frank_Lawrence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Civil_War_Soldiers%27_Monument,_by_Frank_Lawrence.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1401,
+ "id": "STA-2432",
+ "rect": "rect/2431.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.11,
+ "rot": 0.02,
+ "range": 0.76,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8287,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Civil_War_Soldiers%27_Monument%2C_by_Frank_Lawrence.jpg/1920px-Civil_War_Soldiers%27_Monument%2C_by_Frank_Lawrence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8287,
+  "L": [
+   0.372917,
+   0.0,
+   0.10026,
+   0.0,
+   0.878942,
+   0.046287
+  ],
+  "R": [
+   0.37543,
+   0.000756,
+   0.505891,
+   -0.001987,
+   0.883281,
+   0.050616
+  ],
+  "g": [
+   0.9923,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured gentle (0.76% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Frank Lawrence",
+ "creator_dates": null,
+ "facets": [
+  "war"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7448273,
+ "source_revision_id": null,
+ "source_sha1": "aba6917f0ce434c9e8c26d0f8e12ff2982d8dad4"
+}
