@@ -1,0 +1,71 @@
+{
+ "title": "View of a bridge over a rushing stream, by Knowlton Bros.",
+ "place": "Northampton, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water",
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/d/de/View_of_a_bridge_over_a_rushing_stream%2C_by_Knowlton_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/de/View_of_a_bridge_over_a_rushing_stream%2C_by_Knowlton_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_bridge_over_a_rushing_stream,_by_Knowlton_Bros..jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 386,
+ "id": "STA-2404",
+ "rect": "rect/2403.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.16,
+ "rot": 0.04,
+ "range": 2.63,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.741,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/d/de/View_of_a_bridge_over_a_rushing_stream%2C_by_Knowlton_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.741,
+  "L": [
+   0.323684,
+   0.0,
+   0.094079,
+   0.0,
+   0.860104,
+   0.063472
+  ],
+  "R": [
+   0.326882,
+   -0.000775,
+   0.536046,
+   -0.006086,
+   0.86199,
+   0.077075
+  ],
+  "g": [
+   1.0,
+   0.952
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.04° of rotation. Depth measured deep (2.63% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Knowlton Bros.",
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7446703,
+ "source_revision_id": null,
+ "source_sha1": "fabac9e3e3c5df27aa3c2380f9a9252c185e520c"
+}

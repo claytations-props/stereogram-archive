@@ -1,0 +1,69 @@
+{
+ "title": "Smith College President's house",
+ "place": "Northampton, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Smith_College_President%27s_house%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Smith_College_President%27s_house%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Smith_College_President%27s_house,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 447,
+ "id": "STA-2398",
+ "rect": "rect/2397.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.15,
+ "rot": 0.03,
+ "range": 0.7,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8324,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Smith_College_President%27s_house%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8324,
+  "L": [
+   0.405263,
+   0.0,
+   0.082237,
+   0.0,
+   0.82774,
+   0.036913
+  ],
+  "R": [
+   0.406548,
+   -0.002917,
+   0.50945,
+   0.003841,
+   0.827061,
+   0.04387
+  ],
+  "g": [
+   1.0,
+   0.9368
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.03° of rotation. Depth measured gentle (0.7% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7446715,
+ "source_revision_id": null,
+ "source_sha1": "a795477f456354f80c4e1ec734de703c09576d5c"
+}

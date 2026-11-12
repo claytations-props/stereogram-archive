@@ -1,0 +1,69 @@
+{
+ "title": "Fitch's Hotel, Northampton, by Knowlton Bros.",
+ "place": "Northampton, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Fitch%27s_Hotel%2C_Northampton%2C_by_Knowlton_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Fitch%27s_Hotel%2C_Northampton%2C_by_Knowlton_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Fitch%27s_Hotel,_Northampton,_by_Knowlton_Bros..jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 397,
+ "id": "STA-2394",
+ "rect": "rect/2393.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.2,
+ "rot": 0.0,
+ "range": 1.44,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.1089,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Fitch%27s_Hotel%2C_Northampton%2C_by_Knowlton_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.1089,
+  "L": [
+   0.375,
+   0.0,
+   0.098026,
+   0.0,
+   0.647355,
+   0.285894
+  ],
+  "R": [
+   0.373637,
+   -0.00334,
+   0.525334,
+   0.005938,
+   0.64734,
+   0.289734
+  ],
+  "g": [
+   0.9749,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.2% vertical error and 0.0° of rotation. Depth measured gentle (1.44% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Knowlton Bros.",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7446704,
+ "source_revision_id": null,
+ "source_sha1": "f801741b772dc5d8032c4a506eb8d1fce7c23bd3"
+}
