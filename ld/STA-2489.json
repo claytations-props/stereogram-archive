@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2489.json",
+ "name": "An allegorical painting, by Conkey, G. W. (George W.), 1837-ca. 1900",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2488.jpg",
+ "identifier": "STA-2489",
+ "creator": {
+  "@type": "Person",
+  "name": "Conkey, G. W. (George W.), 1837-ca. 1900"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:An_allegorical_painting,_by_Conkey,_G._W._(George_W.),_1837-ca._1900.jpg"
+}

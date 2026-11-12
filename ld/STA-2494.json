@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2494.json",
+ "name": "The Saratoga Monument. (3990402201)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2493.jpg",
+ "identifier": "STA-2494",
+ "creditText": "New York Public Library",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Saratoga_Monument._(3990402201).jpg"
+}
