@@ -67,5 +67,10 @@
  "license_url": null,
  "source_page_id": 7446703,
  "source_revision_id": null,
- "source_sha1": "fabac9e3e3c5df27aa3c2380f9a9252c185e520c"
+ "source_sha1": "fabac9e3e3c5df27aa3c2380f9a9252c185e520c",
+ "tags": [
+  "bridge",
+  "rapids",
+  "river"
+ ]
 }
