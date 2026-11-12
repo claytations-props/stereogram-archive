@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2444.json",
+ "name": "Grace Church, Essex St., Salem",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2443.jpg",
+ "identifier": "STA-2444",
+ "dateCreated": "1859",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salem, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Grace_Church,_Essex_St.,_Salem,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

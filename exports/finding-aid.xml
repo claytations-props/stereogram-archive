@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>2443</quantity>
+    <quantity>2460</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -3322,6 +3322,22 @@
       <unittitle>J.A. Smith's mill--Cherry Valley, by H. J. Reed</unittitle>
       <unitdate normal="1870">1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2436.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2451">
+     <did>
+      <unitid>STA-2451</unitid>
+      <unittitle>Shore view, Salem Neck, by J.W. &amp; J.S. Moulton</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2450.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2460">
+     <did>
+      <unitid>STA-2460</unitid>
+      <unittitle>Juniper Point, White Island</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2459.jpg"/>
      </did>
     </c>
    </c>
@@ -14462,6 +14478,118 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2440.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-2444">
+     <did>
+      <unitid>STA-2444</unitid>
+      <unittitle>Grace Church, Essex St., Salem</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2443.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2445">
+     <did>
+      <unitid>STA-2445</unitid>
+      <unittitle>The old witch house, Salem Mass</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2444.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2446">
+     <did>
+      <unitid>STA-2446</unitid>
+      <unittitle>Toll house, Salem Turnpike</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2445.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2447">
+     <did>
+      <unitid>STA-2447</unitid>
+      <unittitle>View of an unidentified fountain</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2446.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2448">
+     <did>
+      <unitid>STA-2448</unitid>
+      <unittitle>Christ Church, Salem Street</unittitle>
+      <unitdate normal="1864">1864</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2447.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2449">
+     <did>
+      <unitid>STA-2449</unitid>
+      <unittitle>City Hall, from Robert N. Dennis collection of stereoscopic views 18</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2448.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2450">
+     <did>
+      <unitid>STA-2450</unitid>
+      <unittitle>View in Kernwood, Salem, Mass, by J.W. &amp; J.S. Moulton</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2449.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2452">
+     <did>
+      <unitid>STA-2452</unitid>
+      <unittitle>Grace Church</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2451.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2454">
+     <did>
+      <unitid>STA-2454</unitid>
+      <unittitle>Salem Common, by John P. Tilton</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2453.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2455">
+     <did>
+      <unitid>STA-2455</unitid>
+      <unittitle>Plummer Hall</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2454.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2456">
+     <did>
+      <unitid>STA-2456</unitid>
+      <unittitle>Drawing of Deliverance Parkman's house</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2455.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2457">
+     <did>
+      <unitid>STA-2457</unitid>
+      <unittitle>Salem Common, by Cousins, Frank, b. 1851 2</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2456.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2458">
+     <did>
+      <unitid>STA-2458</unitid>
+      <unittitle>Back porch of the Witch House</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2457.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2459">
+     <did>
+      <unitid>STA-2459</unitid>
+      <unittitle>Essex Street, Salem, by G. K. Proctor</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2458.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -19600,6 +19728,14 @@
       <unittitle>Railroad tunnel, by Gill, W. L. (William L.), 1827-1893</unittitle>
       <unitdate>Undated</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2412.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2453">
+     <did>
+      <unitid>STA-2453</unitid>
+      <unittitle>Big tree, Boston St</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2452.jpg"/>
      </did>
     </c>
    </c>
