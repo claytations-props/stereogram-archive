@@ -178522,7 +178522,12 @@
   "license_url": null,
   "source_page_id": 7440782,
   "source_revision_id": null,
-  "source_sha1": "0e3d21c21c608ef5c529d2873f3c0b97d7a102d7"
+  "source_sha1": "0e3d21c21c608ef5c529d2873f3c0b97d7a102d7",
+  "tags": [
+   "bandstand",
+   "trees",
+   "church"
+  ]
  },
  {
   "title": "Main Street, opposite City Hall",
@@ -178591,7 +178596,12 @@
   "license_url": null,
   "source_page_id": 7448226,
   "source_revision_id": null,
-  "source_sha1": "4518f6449f15017d07278af09cf013a389bb8e80"
+  "source_sha1": "4518f6449f15017d07278af09cf013a389bb8e80",
+  "tags": [
+   "main street",
+   "horse-drawn carriage",
+   "trees"
+  ]
  },
  {
   "title": "Mechanics Hall and Union Block",
@@ -178660,7 +178670,12 @@
   "license_url": null,
   "source_page_id": 7448196,
   "source_revision_id": null,
-  "source_sha1": "7984504d9ddec5bc86be68032a1cb92c167faaac"
+  "source_sha1": "7984504d9ddec5bc86be68032a1cb92c167faaac",
+  "tags": [
+   "main street",
+   "storefront",
+   "streetcar"
+  ]
  },
  {
   "title": "Altar and organ, Universalist Church, by Frank Lawrence",
@@ -178729,7 +178744,12 @@
   "license_url": null,
   "source_page_id": 7448282,
   "source_revision_id": null,
-  "source_sha1": "baa49bb5d90be5e93cccaf3b8ce169c52b056501"
+  "source_sha1": "baa49bb5d90be5e93cccaf3b8ce169c52b056501",
+  "tags": [
+   "church interior",
+   "pipe organ",
+   "flowers"
+  ]
  },
  {
   "title": "Altar and organ, Universalist Church (NYPL b11707552-G90F289 036F)",
@@ -178798,7 +178818,12 @@
   "license_url": null,
   "source_page_id": 49641029,
   "source_revision_id": null,
-  "source_sha1": "84c8b5e9436969297afa50759f01fd12f1d103ed"
+  "source_sha1": "84c8b5e9436969297afa50759f01fd12f1d103ed",
+  "tags": [
+   "church interior",
+   "pipe organ",
+   "flowers"
+  ]
  },
  {
   "title": "Arch bridge, Boston & Albany railroad, by Geo. Hinman & Co.",
@@ -178869,7 +178894,12 @@
   "license_url": null,
   "source_page_id": 7448265,
   "source_revision_id": null,
-  "source_sha1": "3f790edec1553f35b39aecdc7f7b7a81a9fe616c"
+  "source_sha1": "3f790edec1553f35b39aecdc7f7b7a81a9fe616c",
+  "tags": [
+   "trestle bridge",
+   "railroad tracks",
+   "snow"
+  ]
  },
  {
   "title": "Arch bridge, Boston & Albany railroad, by J.W. & J.S. Moulton",
@@ -178938,7 +178968,12 @@
   "license_url": null,
   "source_page_id": 7448269,
   "source_revision_id": null,
-  "source_sha1": "f35ca7d6e61495805c7929fd14b63428025a0448"
+  "source_sha1": "f35ca7d6e61495805c7929fd14b63428025a0448",
+  "tags": [
+   "bridge",
+   "creek",
+   "snow"
+  ]
  },
  {
   "title": "Ashworth and Jones' mill, by H. J. Reed",
@@ -179007,7 +179042,11 @@
   "license_url": null,
   "source_page_id": 7448343,
   "source_revision_id": null,
-  "source_sha1": "2af32897159007031ee9467ee72b7bc5e008ccc1"
+  "source_sha1": "2af32897159007031ee9467ee72b7bc5e008ccc1",
+  "tags": [
+   "factory",
+   "river"
+  ]
  },
  {
   "title": "Brown freshman crew, by E. Berg",
@@ -179076,7 +179115,12 @@
   "license_url": null,
   "source_page_id": 7448244,
   "source_revision_id": null,
-  "source_sha1": "7212ffe10bfdbbe85f4e134b1269ef50a71dbcf2"
+  "source_sha1": "7212ffe10bfdbbe85f4e134b1269ef50a71dbcf2",
+  "tags": [
+   "rowboat",
+   "bridge",
+   "lake"
+  ]
  },
  {
   "title": "Civil War Soldiers' Monument, by Frank Lawrence",
@@ -179145,7 +179189,13 @@
   "license_url": null,
   "source_page_id": 7448273,
   "source_revision_id": null,
-  "source_sha1": "aba6917f0ce434c9e8c26d0f8e12ff2982d8dad4"
+  "source_sha1": "aba6917f0ce434c9e8c26d0f8e12ff2982d8dad4",
+  "tags": [
+   "monument",
+   "statue",
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "Damage to the Arch bridge caused during the flood at Worcester, March 30, 1876, by Frank Lawrence",
@@ -179214,7 +179264,12 @@
   "license_url": null,
   "source_page_id": 7448319,
   "source_revision_id": null,
-  "source_sha1": "9e8ad8e4e75f64bc9ee8262956b808e49ff51133"
+  "source_sha1": "9e8ad8e4e75f64bc9ee8262956b808e49ff51133",
+  "tags": [
+   "flood damage",
+   "ruins",
+   "river"
+  ]
  },
  {
   "title": "General street view, by French & Sawyer",
@@ -179283,7 +179338,12 @@
   "license_url": null,
   "source_page_id": 7448252,
   "source_revision_id": null,
-  "source_sha1": "2ad2e533094bda51d5d260baf722f88f4bd10c05"
+  "source_sha1": "2ad2e533094bda51d5d260baf722f88f4bd10c05",
+  "tags": [
+   "main street",
+   "storefront",
+   "trees"
+  ]
  },
  {
   "title": "Harvard University Crew, by E. Berg",
@@ -179352,7 +179412,12 @@
   "license_url": null,
   "source_page_id": 7448239,
   "source_revision_id": null,
-  "source_sha1": "147f4cfce25bfe7b5eaee52d4f45a817290ee08d"
+  "source_sha1": "147f4cfce25bfe7b5eaee52d4f45a817290ee08d",
+  "tags": [
+   "lake",
+   "rowboat",
+   "steamboat"
+  ]
  },
  {
   "title": "High school, by H. D. Warner",
@@ -179421,7 +179486,11 @@
   "license_url": null,
   "source_page_id": 7448388,
   "source_revision_id": null,
-  "source_sha1": "a0899ccd73d739d324a1b846535b97331dfc7b94"
+  "source_sha1": "a0899ccd73d739d324a1b846535b97331dfc7b94",
+  "tags": [
+   "schoolhouse",
+   "house"
+  ]
  },
  {
   "title": "J.A. Smith's mill--Cherry Valley, by H. J. Reed",
@@ -179490,7 +179559,11 @@
   "license_url": null,
   "source_page_id": 7448352,
   "source_revision_id": null,
-  "source_sha1": "d510f9a51203268ccec67fefb656fb82dd476f99"
+  "source_sha1": "d510f9a51203268ccec67fefb656fb82dd476f99",
+  "tags": [
+   "river",
+   "rock formation"
+  ]
  },
  {
   "title": "Labor day parade, by L. G. Strand",
@@ -179559,7 +179632,12 @@
   "license_url": null,
   "source_page_id": 7448306,
   "source_revision_id": null,
-  "source_sha1": "61309aabb4f2ad8f74e520e9e0cf4217b916cee7"
+  "source_sha1": "61309aabb4f2ad8f74e520e9e0cf4217b916cee7",
+  "tags": [
+   "parade",
+   "marching band",
+   "crowd"
+  ]
  },
  {
   "title": "Lincoln House block, by H. D. Warner",
@@ -179628,7 +179706,12 @@
   "license_url": null,
   "source_page_id": 7448376,
   "source_revision_id": null,
-  "source_sha1": "cd805b37567dd5c0ab3f8655c456db72d894c408"
+  "source_sha1": "cd805b37567dd5c0ab3f8655c456db72d894c408",
+  "tags": [
+   "main street",
+   "storefront",
+   "horse-drawn carriage"
+  ]
  },
  {
   "title": "Main Street, north from Bay State House",
@@ -179697,7 +179780,12 @@
   "license_url": null,
   "source_page_id": 7448229,
   "source_revision_id": null,
-  "source_sha1": "ba1d14d5e9437b444d8bbc2f3cdb7c9f2b6eec35"
+  "source_sha1": "ba1d14d5e9437b444d8bbc2f3cdb7c9f2b6eec35",
+  "tags": [
+   "main street",
+   "storefront",
+   "trees"
+  ]
  },
  {
   "title": "Mechanics Hall, by H. D. Warner",
@@ -179766,7 +179854,12 @@
   "license_url": null,
   "source_page_id": 7448379,
   "source_revision_id": null,
-  "source_sha1": "6b51a9c908d43c04687079ffdc8085178fabcb93"
+  "source_sha1": "6b51a9c908d43c04687079ffdc8085178fabcb93",
+  "tags": [
+   "main street",
+   "horse-drawn carriage",
+   "storefront"
+  ]
  },
  {
   "title": "Soldiers' Monument (NYPL b11707552-G90F289 059ZF)",
@@ -179835,7 +179928,12 @@
   "license_url": null,
   "source_page_id": 49641540,
   "source_revision_id": null,
-  "source_sha1": "d2ebcd97af54a7377f8e7afe9ea0fc5396150627"
+  "source_sha1": "d2ebcd97af54a7377f8e7afe9ea0fc5396150627",
+  "tags": [
+   "monument",
+   "statue",
+   "trees"
+  ]
  },
  {
   "title": "Soldiers' Monument (NYPL b11707552-G90F289 060ZF)",
@@ -179904,6 +180002,12 @@
   "license_url": null,
   "source_page_id": 49641553,
   "source_revision_id": null,
-  "source_sha1": "1131c798e92940e7ba0f3213975686e0119bb6dc"
+  "source_sha1": "1131c798e92940e7ba0f3213975686e0119bb6dc",
+  "tags": [
+   "monument",
+   "statue",
+   "church",
+   "trees"
+  ]
  }
 ]
