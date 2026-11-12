@@ -1,0 +1,69 @@
+{
+ "title": "Grace Church, Essex St., Salem",
+ "place": "Salem, Massachusetts",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Grace_Church%2C_Essex_St.%2C_Salem%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Grace_Church%2C_Essex_St.%2C_Salem%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/73/Grace_Church%2C_Essex_St.%2C_Salem%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Grace_Church,_Essex_St.,_Salem,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1430,
+ "id": "STA-2444",
+ "rect": "rect/2443.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.13,
+ "rot": 0.14,
+ "range": 0.74,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8568,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Grace_Church%2C_Essex_St.%2C_Salem%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Grace_Church%2C_Essex_St.%2C_Salem%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8568,
+  "L": [
+   0.389583,
+   0.0,
+   0.103906,
+   0.0,
+   0.870389,
+   0.059322
+  ],
+  "R": [
+   0.391335,
+   0.00375,
+   0.508446,
+   -0.004998,
+   0.869277,
+   0.061993
+  ],
+  "g": [
+   1.0,
+   0.9679
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.14° of rotation. Depth measured gentle (0.74% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7447115,
+ "source_revision_id": null,
+ "source_sha1": "54f5e4e6805b46a4b57c527ab9a151371721751f"
+}

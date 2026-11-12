@@ -1,0 +1,69 @@
+{
+ "title": "The old witch house, Salem Mass",
+ "place": "Salem, Massachusetts",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/The_old_witch_house%2C_Salem_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_old_witch_house%2C_Salem_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/07/The_old_witch_house%2C_Salem_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_old_witch_house,_Salem_Mass,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1482,
+ "id": "STA-2445",
+ "rect": "rect/2444.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.15,
+ "rot": 0.02,
+ "range": 0.97,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.2134,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/The_old_witch_house%2C_Salem_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_old_witch_house%2C_Salem_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.2134,
+  "L": [
+   0.367188,
+   0.0,
+   0.113802,
+   0.0,
+   0.558654,
+   0.162019
+  ],
+  "R": [
+   0.369752,
+   -0.002359,
+   0.508073,
+   0.00533,
+   0.561636,
+   0.147304
+  ],
+  "g": [
+   1.0,
+   0.9647
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.02° of rotation. Depth measured gentle (0.97% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7447139,
+ "source_revision_id": null,
+ "source_sha1": "10fc753b02ef05d8b017510e14130c252217359d"
+}
