@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2403.json",
+ "name": "Fitch's Hotel, Northampton (NYPL b11707540-G90F277 012F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2402.jpg",
+ "identifier": "STA-2403",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Northampton, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Fitch%27s_Hotel,_Northampton_(NYPL_b11707540-G90F277_012F).tiff"
+}

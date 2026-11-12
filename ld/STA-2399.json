@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2399.json",
+ "name": "Northampton from Round Hill--the Meadows and Mt. Holyoke in the distance--northern section, by Henry M. Burt",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2398.jpg",
+ "identifier": "STA-2399",
+ "creator": {
+  "@type": "Person",
+  "name": "Henry M. Burt"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Northampton, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Northampton_from_Round_Hill--the_Meadows_and_Mt._Holyoke_in_the_distance--northern_section,_by_Henry_M._Burt.jpg"
+}

@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>2390</quantity>
+    <quantity>2404</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -3282,6 +3282,14 @@
       <unittitle>Looking across Lake Pontoosuc, Pittsfield, Mass</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2380.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2404">
+     <did>
+      <unitid>STA-2404</unitid>
+      <unittitle>View of a bridge over a rushing stream, by Knowlton Bros.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2403.jpg"/>
      </did>
     </c>
    </c>
@@ -14126,6 +14134,94 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2389.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-2391">
+     <did>
+      <unitid>STA-2391</unitid>
+      <unittitle>General view of Northampton</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2390.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2392">
+     <did>
+      <unitid>STA-2392</unitid>
+      <unittitle>Northampton County Court House, Easton, Pa</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2391.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2393">
+     <did>
+      <unitid>STA-2393</unitid>
+      <unittitle>View of street with large buildings and a church</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2392.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2394">
+     <did>
+      <unitid>STA-2394</unitid>
+      <unittitle>Fitch's Hotel, Northampton, by Knowlton Bros.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2393.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2395">
+     <did>
+      <unitid>STA-2395</unitid>
+      <unittitle>View of Smith College</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2394.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2398">
+     <did>
+      <unitid>STA-2398</unitid>
+      <unittitle>Smith College President's house</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2397.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2399">
+     <did>
+      <unitid>STA-2399</unitid>
+      <unittitle>Northampton from Round Hill--the Meadows and Mt. Holyoke in the distance--northern section, by Henry M. Burt</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2398.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2400">
+     <did>
+      <unitid>STA-2400</unitid>
+      <unittitle>Wreck of the Hospital Bridge lodge under South St. Bridge, Northampton, by Alden, A. E., 1837-</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2399.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2401">
+     <did>
+      <unitid>STA-2401</unitid>
+      <unittitle>General view of Northampton (NYPL b11707540-G90F277 001F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2400.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2402">
+     <did>
+      <unitid>STA-2402</unitid>
+      <unittitle>Wreck of the Hospital Bridge lodge under South St. Bridge, Northampton (NYPL b11707493-G90F216 048ZF)</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2401.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2403">
+     <did>
+      <unitid>STA-2403</unitid>
+      <unittitle>Fitch's Hotel, Northampton (NYPL b11707540-G90F277 012F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2402.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -19176,6 +19272,22 @@
       <unittitle>Grapery at Pittsfield, Mass, by American Stereoscopic Co., fl. 1896-1906</unittitle>
       <unitdate>Undated</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2378.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2396">
+     <did>
+      <unitid>STA-2396</unitid>
+      <unittitle>Big elm, Northampton Meadow, 31 feet cir, by F. H. Putnam</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2395.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2397">
+     <did>
+      <unitid>STA-2397</unitid>
+      <unittitle>Big elm in Northampton Meadows, 31 ft. cir, by Knowlton Bros.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2396.jpg"/>
      </did>
     </c>
    </c>

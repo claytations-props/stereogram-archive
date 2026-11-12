@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2394.json",
+ "name": "Fitch's Hotel, Northampton, by Knowlton Bros.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2393.jpg",
+ "identifier": "STA-2394",
+ "creator": {
+  "@type": "Person",
+  "name": "Knowlton Bros."
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Northampton, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Fitch%27s_Hotel,_Northampton,_by_Knowlton_Bros..jpg"
+}

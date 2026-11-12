@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2402.json",
+ "name": "Wreck of the Hospital Bridge lodge under South St. Bridge, Northampton (NYPL b11707493-G90F216 048ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2401.jpg",
+ "identifier": "STA-2402",
+ "dateCreated": "1874",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Northampton, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Wreck_of_the_Hospital_Bridge_lodge_under_South_St._Bridge,_Northampton_(NYPL_b11707493-G90F216_048ZF).tiff"
+}

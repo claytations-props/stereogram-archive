@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2400.json",
+ "name": "Wreck of the Hospital Bridge lodge under South St. Bridge, Northampton, by Alden, A. E., 1837-",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2399.jpg",
+ "identifier": "STA-2400",
+ "creator": {
+  "@type": "Person",
+  "name": "Alden, A. E."
+ },
+ "dateCreated": "1874",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Northampton, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Wreck_of_the_Hospital_Bridge_lodge_under_South_St._Bridge,_Northampton,_by_Alden,_A._E.,_1837-.jpg"
+}

@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2401.json",
+ "name": "General view of Northampton (NYPL b11707540-G90F277 001F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2400.jpg",
+ "identifier": "STA-2401",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Northampton, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:General_view_of_Northampton_(NYPL_b11707540-G90F277_001F).tiff"
+}

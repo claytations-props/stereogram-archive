@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2392.json",
+ "name": "Northampton County Court House, Easton, Pa",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2391.jpg",
+ "identifier": "STA-2392",
+ "dateCreated": "1863",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Easton, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Northampton_County_Court_House,_Easton,_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}
