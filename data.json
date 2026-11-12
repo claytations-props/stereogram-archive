@@ -146714,5 +146714,713 @@
   "date_start": 1870,
   "date_end": 1870,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "A Fairy Turnout, Floral Parade, Saratoga, N.Y",
+  "place": "Saratoga Springs, New York",
+  "year": "1858",
+  "sy": 1858,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/A_Fairy_Turnout%2C_Floral_Parade%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-A_Fairy_Turnout%2C_Floral_Parade%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/16/A_Fairy_Turnout%2C_Floral_Parade%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:A_Fairy_Turnout,_Floral_Parade,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2301,
+  "h": 1228,
+  "id": "STA-2483",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2482.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 3.96,
+  "f": 0.79,
+  "depth": "Deep",
+  "va": 1.0165,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/A_Fairy_Turnout%2C_Floral_Parade%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-A_Fairy_Turnout%2C_Floral_Parade%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0165,
+   "L": [
+    0.449479,
+    0.0,
+    0.038281,
+    0.0,
+    0.828293,
+    0.13122
+   ],
+   "R": [
+    0.445064,
+    -0.005317,
+    0.513408,
+    0.004948,
+    0.827409,
+    0.127222
+   ],
+   "g": [
+    0.9341,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured deep (3.96% of frame width); hung in the VR Parlor at 79% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1858",
+  "date_start": 1858,
+  "date_end": 1858,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Afternoon in Congress Park",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/36/Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Afternoon_in_Congress_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1305,
+  "id": "STA-2484",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2483.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.0,
+  "range": 1.94,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.4959,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.4959,
+   "L": [
+    0.381771,
+    0.0,
+    0.104948,
+    0.0,
+    0.514166,
+    0.397167
+   ],
+   "R": [
+    0.381593,
+    -0.01579,
+    0.526593,
+    0.008241,
+    0.513215,
+    0.381735
+   ],
+   "g": [
+    0.9577,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.0° of rotation. Depth measured moderate (1.94% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Afternoon in Congress Park, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Afternoon_in_Congress_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1506,
+  "id": "STA-2485",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2484.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.0,
+  "range": 3.19,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.9556,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9556,
+   "L": [
+    0.380729,
+    0.0,
+    0.103906,
+    0.0,
+    0.695455,
+    0.039545
+   ],
+   "R": [
+    0.381077,
+    -0.022294,
+    0.530186,
+    0.009024,
+    0.69486,
+    0.026222
+   ],
+   "g": [
+    0.9331,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.0° of rotation. Depth measured deep (3.19% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Afternoon in Congress Park, from Robert N. Dennis collection of stereoscopic views 3",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/19/Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Afternoon_in_Congress_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1506,
+  "id": "STA-2486",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2485.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.02,
+  "range": 1.89,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8413,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8413,
+   "L": [
+    0.392188,
+    0.0,
+    0.101302,
+    0.0,
+    0.813636,
+    0.036818
+   ],
+   "R": [
+    0.394881,
+    -0.007471,
+    0.512668,
+    0.0077,
+    0.813721,
+    0.021587
+   ],
+   "g": [
+    0.9813,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.02° of rotation. Depth measured moderate (1.89% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Afternoon in Congress Park, from Robert N. Dennis collection of stereoscopic views 4",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg/1920px-Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Afternoon_in_Congress_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1509,
+  "id": "STA-2487",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2486.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.01,
+  "range": 2.01,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8087,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg/1920px-Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8087,
+   "L": [
+    0.3875,
+    0.0,
+    0.10599,
+    0.0,
+    0.834846,
+    0.042196
+   ],
+   "R": [
+    0.389443,
+    -0.007614,
+    0.51725,
+    0.007295,
+    0.833936,
+    0.021224
+   ],
+   "g": [
+    0.9533,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured moderate (2.01% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Afternoon in Congress Park, from Robert N. Dennis collection of stereoscopic views 5",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg/1920px-Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/64/Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Afternoon_in_Congress_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg",
+  "license": "Public domain",
+  "w": 2619,
+  "h": 1500,
+  "id": "STA-2488",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2487.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.16,
+  "rot": 0.0,
+  "range": 1.46,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.3435,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg/1920px-Afternoon_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3435,
+   "L": [
+    0.391146,
+    0.0,
+    0.082552,
+    0.0,
+    0.508182,
+    0.469545
+   ],
+   "R": [
+    0.391986,
+    -0.015829,
+    0.521145,
+    -0.005895,
+    0.508641,
+    0.467933
+   ],
+   "g": [
+    0.8139,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.0° of rotation. Depth measured gentle (1.46% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "An allegorical painting, by Conkey, G. W. (George W.), 1837-ca. 1900",
+  "place": "Place unrecorded",
+  "year": "c. 1885",
+  "sy": 1837,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/An_allegorical_painting%2C_by_Conkey%2C_G._W._%28George_W.%29%2C_1837-ca._1900.jpg/1920px-An_allegorical_painting%2C_by_Conkey%2C_G._W._%28George_W.%29%2C_1837-ca._1900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5a/An_allegorical_painting%2C_by_Conkey%2C_G._W._%28George_W.%29%2C_1837-ca._1900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:An_allegorical_painting,_by_Conkey,_G._W._(George_W.),_1837-ca._1900.jpg",
+  "license": "Public domain",
+  "w": 2637,
+  "h": 1345,
+  "id": "STA-2489",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2488.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.15,
+  "rot": 0.01,
+  "range": 0.3,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.3656,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/An_allegorical_painting%2C_by_Conkey%2C_G._W._%28George_W.%29%2C_1837-ca._1900.jpg/1920px-An_allegorical_painting%2C_by_Conkey%2C_G._W._%28George_W.%29%2C_1837-ca._1900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3656,
+   "L": [
+    0.418229,
+    0.0,
+    0.070573,
+    0.0,
+    0.600613,
+    0.207865
+   ],
+   "R": [
+    0.417315,
+    -0.003566,
+    0.516851,
+    0.009581,
+    0.598811,
+    0.20292
+   ],
+   "g": [
+    1.0,
+    0.9439
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.01° of rotation. Depth measured gentle (0.3% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Conkey, G. W. (George W.), 1837-ca. 1900",
+  "date_edtf": "1885~",
+  "date_start": 1880,
+  "date_end": 1890,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Arcade, Congress Park, Saratoga, N.Y",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Arcade%2C_Congress_Park%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Arcade%2C_Congress_Park%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Arcade%2C_Congress_Park%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Arcade,_Congress_Park,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1503,
+  "id": "STA-2490",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2489.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.0,
+  "range": 1.95,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.0444,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Arcade%2C_Congress_Park%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Arcade%2C_Congress_Park%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0444,
+   "L": [
+    0.367708,
+    0.0,
+    0.098177,
+    0.0,
+    0.615665,
+    0.038707
+   ],
+   "R": [
+    0.367792,
+    0.008203,
+    0.512311,
+    0.006534,
+    0.615359,
+    0.022318
+   ],
+   "g": [
+    0.9273,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured moderate (1.95% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Arcade, Congress Park, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Arcade%2C_Congress_Park%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Arcade%2C_Congress_Park%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Arcade%2C_Congress_Park%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Arcade,_Congress_Park,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1506,
+  "id": "STA-2491",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2490.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.0,
+  "range": 2.22,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 1.0498,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Arcade%2C_Congress_Park%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Arcade%2C_Congress_Park%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0498,
+   "L": [
+    0.3625,
+    0.0,
+    0.09349,
+    0.0,
+    0.602727,
+    0.024091
+   ],
+   "R": [
+    0.362146,
+    0.008976,
+    0.507854,
+    0.005009,
+    0.600402,
+    0.025467
+   ],
+   "g": [
+    0.9321,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured deep (2.22% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Arcade, Congress Park, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 3",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Arcade%2C_Congress_Park%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Arcade%2C_Congress_Park%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/96/Arcade%2C_Congress_Park%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Arcade,_Congress_Park,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg",
+  "license": "Public domain",
+  "w": 2643,
+  "h": 1509,
+  "id": "STA-2492",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2491.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.0,
+  "range": 1.66,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.1882,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Arcade%2C_Congress_Park%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Arcade%2C_Congress_Park%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1882,
+   "L": [
+    0.388021,
+    0.0,
+    0.090885,
+    0.0,
+    0.57208,
+    0.037865
+   ],
+   "R": [
+    0.38791,
+    0.003829,
+    0.505007,
+    0.009905,
+    0.57236,
+    0.022698
+   ],
+   "g": [
+    0.9253,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.0° of rotation. Depth measured moderate (1.66% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bird's-eye View in Congress Park, from Robert N. Dennis collection of stereoscopic views 3",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Bird%27s-eye_View_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Bird%27s-eye_View_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bird%27s-eye_View_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bird%27s-eye_View_in_Congress_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1497,
+  "id": "STA-2493",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2492.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.02,
+  "range": 3.25,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.9781,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Bird%27s-eye_View_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Bird%27s-eye_View_in_Congress_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9781,
+   "L": [
+    0.395833,
+    0.0,
+    0.080469,
+    0.0,
+    0.710238,
+    0.025137
+   ],
+   "R": [
+    0.391247,
+    -0.008052,
+    0.517802,
+    0.010717,
+    0.709451,
+    0.02194
+   ],
+   "g": [
+    1.0,
+    0.9981
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.02° of rotation. Depth measured deep (3.25% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "The Saratoga Monument. (3990402201)",
+  "place": "Saratoga Springs, New York",
+  "year": "Undated",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "Digital ID: G91F145_275ZF. Baker & Record (Firm) -- Photographer. Baker, W. H. -- Photographer. Record & Epler -- Photographer. [1869?-1880?] Source: Robert N. Dennis collection of stereoscopic views. / United States. / States / New York / Stereoscopic views of Saratoga Springs, New York] (http://digitalgallery.nypl.org/nypldigital/explore/?col_id=361) Repository: The New York Public Library. Photography Collection, Miriam and Ira D. Wallach Division of Art, Prints and Photographs. See more information about http://digitalgallery.nypl.org/nypldigital/id?G91F145_275ZF and others at http://digitalgallery.nypl.org. Persistent URL: http://digitalgallery.nypl.org/nypldigital/id?G91F145_275ZF Rights Info: No known copyright restrictions; may be subject to third party rights (for more information, https://www.nypl.org/legal/flickr.cfm)",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/a/a5/The_Saratoga_Monument._%283990402201%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a5/The_Saratoga_Monument._%283990402201%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Saratoga_Monument._(3990402201).jpg",
+  "license": "No restrictions",
+  "w": 760,
+  "h": 433,
+  "id": "STA-2494",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2493.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.2,
+  "rot": 0.01,
+  "range": 0.56,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7647,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/a/a5/The_Saratoga_Monument._%283990402201%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.7647,
+   "L": [
+    0.393421,
+    0.0,
+    0.098026,
+    0.0,
+    0.903002,
+    0.047344
+   ],
+   "R": [
+    0.394056,
+    0.008935,
+    0.509476,
+    -0.00988,
+    0.9112,
+    0.05998
+   ],
+   "g": [
+    0.9469,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.2% vertical error and 0.01° of rotation. Depth measured gentle (0.56% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": null,
+  "date_start": null,
+  "date_end": null,
+  "rights_uri": null
  }
 ]
