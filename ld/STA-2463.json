@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2463.json",
+ "name": "Bird's-eye view of Saratoga Springs, N.Y",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2462.jpg",
+ "identifier": "STA-2463",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bird%27s-eye_view_of_Saratoga_Springs,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

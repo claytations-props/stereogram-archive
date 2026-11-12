@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>2460</quantity>
+    <quantity>2482</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -3338,6 +3338,94 @@
       <unittitle>Juniper Point, White Island</unittitle>
       <unitdate normal="1859">1859</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2459.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2464">
+     <did>
+      <unitid>STA-2464</unitid>
+      <unittitle>Geyser Spring, Saratoga Springs, N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2463.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2466">
+     <did>
+      <unitid>STA-2466</unitid>
+      <unittitle>Geyser Spring, Saratoga Springs, N.Y, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2465.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2467">
+     <did>
+      <unitid>STA-2467</unitid>
+      <unittitle>Star Spring, Saratoga Springs, N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2466.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2468">
+     <did>
+      <unitid>STA-2468</unitid>
+      <unittitle>Geyser Spring, Saratoga Springs, N.Y, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2467.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2469">
+     <did>
+      <unitid>STA-2469</unitid>
+      <unittitle>Saratoga Springs, N.Y. Congress Spring</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2468.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2470">
+     <did>
+      <unitid>STA-2470</unitid>
+      <unittitle>Saratoga Mineral Springs</unittitle>
+      <unitdate normal="1858/1868">c. 1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2469.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2471">
+     <did>
+      <unitid>STA-2471</unitid>
+      <unittitle>Geyser Lake, Saratoga Springs, N.Y</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2470.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2472">
+     <did>
+      <unitid>STA-2472</unitid>
+      <unittitle>Columbian Springs, Saratoga</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2471.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2474">
+     <did>
+      <unitid>STA-2474</unitid>
+      <unittitle>Congress Springs, Saratoga, N.Y</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2473.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2476">
+     <did>
+      <unitid>STA-2476</unitid>
+      <unittitle>Congress and Columbian Springs, Saratoga, N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2475.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2479">
+     <did>
+      <unitid>STA-2479</unitid>
+      <unittitle>Saratoga Star Spring, Saratoga, N.Y</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2478.jpg"/>
      </did>
     </c>
    </c>
@@ -14590,6 +14678,78 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2458.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-2462">
+     <did>
+      <unitid>STA-2462</unitid>
+      <unittitle>Saratoga Springs</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2461.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2463">
+     <did>
+      <unitid>STA-2463</unitid>
+      <unittitle>Bird's-eye view of Saratoga Springs, N.Y</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2462.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2465">
+     <did>
+      <unitid>STA-2465</unitid>
+      <unittitle>Congress Hotel &amp; Spring, Saratoga Springs</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2464.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2473">
+     <did>
+      <unitid>STA-2473</unitid>
+      <unittitle>Dining Room, U.S. Hotel, Saratoga Springs</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2472.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2477">
+     <did>
+      <unitid>STA-2477</unitid>
+      <unittitle>Office of Grand Union Hotel -- Saratoga, N.Y</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2476.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2478">
+     <did>
+      <unitid>STA-2478</unitid>
+      <unittitle>Pavilion and United States Springs, Saratoga , N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2477.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2480">
+     <did>
+      <unitid>STA-2480</unitid>
+      <unittitle>Pavilion and U.S. Springs, Saratoga, N.Y</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2479.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2481">
+     <did>
+      <unitid>STA-2481</unitid>
+      <unittitle>Pavilion and United States Springs, Saratoga, N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2480.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2482">
+     <did>
+      <unitid>STA-2482</unitid>
+      <unittitle>View of a Hotel(?) in Saratoga Springs, by McDonnald &amp; Sterry</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2481.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -16995,6 +17155,22 @@
       <unittitle>Labor day parade, by L. G. Strand</unittitle>
       <unitdate normal="1870">1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2437.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2461">
+     <did>
+      <unitid>STA-2461</unitid>
+      <unittitle>View at Saratoga Springs</unittitle>
+      <unitdate normal="1858/1868">c. 1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2460.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2475">
+     <did>
+      <unitid>STA-2475</unitid>
+      <unittitle>"A Race at Saratoga."</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2474.jpg"/>
      </did>
     </c>
    </c>

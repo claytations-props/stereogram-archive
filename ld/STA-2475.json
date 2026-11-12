@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2475.json",
+ "name": "\"A Race at Saratoga.\"",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2474.jpg",
+ "identifier": "STA-2475",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:%22A_Race_at_Saratoga.%22,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}
