@@ -145416,5 +145416,1303 @@
   "date_start": 1859,
   "date_end": 1859,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View at Saratoga Springs",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1863",
+  "sy": 1863,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/View_at_Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_at_Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/71/View_at_Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_at_Saratoga_Springs,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2565,
+  "h": 1240,
+  "id": "STA-2461",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2460.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.02,
+  "range": 0.46,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8032,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/View_at_Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_at_Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8032,
+   "L": [
+    0.361458,
+    0.0,
+    0.110677,
+    0.0,
+    0.931034,
+    0.032866
+   ],
+   "R": [
+    0.358427,
+    -0.000302,
+    0.536755,
+    -0.004222,
+    0.9219,
+    0.041492
+   ],
+   "g": [
+    0.9327,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured gentle (0.46% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1863~",
+  "date_start": 1858,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Saratoga Springs",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/78/Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Saratoga_Springs,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2553,
+  "h": 1264,
+  "id": "STA-2462",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2461.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.06,
+  "rot": 0.01,
+  "range": 1.13,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8533,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8533,
+   "L": [
+    0.384896,
+    0.0,
+    0.10651,
+    0.0,
+    0.91062,
+    0.041535
+   ],
+   "R": [
+    0.380973,
+    0.012313,
+    0.52453,
+    -0.026419,
+    0.902261,
+    0.060318
+   ],
+   "g": [
+    0.9937,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.01° of rotation. Depth measured gentle (1.13% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865~",
+  "date_start": 1860,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bird's-eye view of Saratoga Springs, N.Y",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Bird%27s-eye_view_of_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s-eye_view_of_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bird%27s-eye_view_of_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bird%27s-eye_view_of_Saratoga_Springs,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2547,
+  "h": 1255,
+  "id": "STA-2463",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2462.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.02,
+  "range": 0.59,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8962,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Bird%27s-eye_view_of_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s-eye_view_of_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8962,
+   "L": [
+    0.395833,
+    0.0,
+    0.082031,
+    0.0,
+    0.896406,
+    0.037526
+   ],
+   "R": [
+    0.39899,
+    -0.008159,
+    0.518665,
+    0.009971,
+    0.902533,
+    0.032459
+   ],
+   "g": [
+    0.9912,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured gentle (0.59% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Geyser Spring, Saratoga Springs, N.Y",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Geyser_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Geyser_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Geyser_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_Saratoga_Springs,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1354,
+  "id": "STA-2464",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2463.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.02,
+  "range": 1.84,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.9673,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Geyser_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Geyser_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9673,
+   "L": [
+    0.369792,
+    0.0,
+    0.095052,
+    0.0,
+    0.752049,
+    0.15625
+   ],
+   "R": [
+    0.369375,
+    -0.002438,
+    0.509883,
+    0.009803,
+    0.750104,
+    0.161839
+   ],
+   "g": [
+    1.0,
+    0.8626
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured moderate (1.84% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Congress Hotel & Spring, Saratoga Springs",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Congress_Hotel_%26_Spring%2C_Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Congress_Hotel_%26_Spring%2C_Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Congress_Hotel_%26_Spring%2C_Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Congress_Hotel_%26_Spring,_Saratoga_Springs,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2631,
+  "h": 1336,
+  "id": "STA-2465",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2464.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.0,
+  "range": 0.92,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7118,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Congress_Hotel_%26_Spring%2C_Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Congress_Hotel_%26_Spring%2C_Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7118,
+   "L": [
+    0.325521,
+    0.0,
+    0.135156,
+    0.0,
+    0.900513,
+    0.064103
+   ],
+   "R": [
+    0.323225,
+    0.001604,
+    0.581501,
+    -0.007288,
+    0.892383,
+    0.037709
+   ],
+   "g": [
+    1.0,
+    0.9399
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.0° of rotation. Depth measured gentle (0.92% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Geyser Spring, Saratoga Springs, N.Y, from Robert N. Dennis collection of stereoscopic views 3",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Geyser_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Geyser_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/96/Geyser_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_Saratoga_Springs,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1354,
+  "id": "STA-2466",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2465.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.05,
+  "range": 2.06,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.945,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Geyser_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Geyser_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.945,
+   "L": [
+    0.366667,
+    0.0,
+    0.110156,
+    0.0,
+    0.76332,
+    0.199283
+   ],
+   "R": [
+    0.364861,
+    0.012182,
+    0.527099,
+    0.011025,
+    0.765431,
+    0.178558
+   ],
+   "g": [
+    1.0,
+    0.9759
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.05° of rotation. Depth measured moderate (2.06% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Star Spring, Saratoga Springs, N.Y",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Star_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Star_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Star_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Star_Spring,_Saratoga_Springs,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2669,
+  "h": 1354,
+  "id": "STA-2467",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2466.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 0.87,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.3188,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Star_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Star_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3188,
+   "L": [
+    0.346875,
+    0.0,
+    0.124219,
+    0.0,
+    0.51848,
+    0.441992
+   ],
+   "R": [
+    0.346673,
+    -0.019332,
+    0.524044,
+    0.010707,
+    0.516892,
+    0.431211
+   ],
+   "g": [
+    0.9582,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured gentle (0.87% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Geyser Spring, Saratoga Springs, N.Y, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Geyser_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Geyser_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Geyser_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_Saratoga_Springs,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2669,
+  "h": 1348,
+  "id": "STA-2468",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2467.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.04,
+  "range": 2.13,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.0347,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Geyser_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Geyser_Spring%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0347,
+   "L": [
+    0.388021,
+    0.0,
+    0.092969,
+    0.0,
+    0.742268,
+    0.222165
+   ],
+   "R": [
+    0.387502,
+    -0.001097,
+    0.515411,
+    0.005152,
+    0.739684,
+    0.214248
+   ],
+   "g": [
+    0.8566,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.04° of rotation. Depth measured moderate (2.13% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Saratoga Springs, N.Y. Congress Spring",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Saratoga_Springs%2C_N.Y._Congress_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Saratoga_Springs%2C_N.Y._Congress_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/da/Saratoga_Springs%2C_N.Y._Congress_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Saratoga_Springs,_N.Y._Congress_Spring,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2571,
+  "h": 1270,
+  "id": "STA-2469",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2468.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 1.53,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8362,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Saratoga_Springs%2C_N.Y._Congress_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Saratoga_Springs%2C_N.Y._Congress_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8362,
+   "L": [
+    0.380208,
+    0.0,
+    0.090365,
+    0.0,
+    0.920886,
+    0.040612
+   ],
+   "R": [
+    0.381798,
+    0.000427,
+    0.519123,
+    -0.004463,
+    0.922018,
+    0.03838
+   ],
+   "g": [
+    0.9685,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured moderate (1.53% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865~",
+  "date_start": 1860,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Saratoga Mineral Springs",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1863",
+  "sy": 1863,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Saratoga_Mineral_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Saratoga_Mineral_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/01/Saratoga_Mineral_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Saratoga_Mineral_Springs,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2577,
+  "h": 1258,
+  "id": "STA-2470",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2469.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.02,
+  "range": 1.05,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8601,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Saratoga_Mineral_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Saratoga_Mineral_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8601,
+   "L": [
+    0.384375,
+    0.0,
+    0.08776,
+    0.0,
+    0.915688,
+    0.032551
+   ],
+   "R": [
+    0.38526,
+    -0.01008,
+    0.520846,
+    -0.00026,
+    0.915693,
+    0.045584
+   ],
+   "g": [
+    0.9185,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.02° of rotation. Depth measured gentle (1.05% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1863~",
+  "date_start": 1858,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Geyser Lake, Saratoga Springs, N.Y",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Geyser_Lake%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Geyser_Lake%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/65/Geyser_Lake%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Lake,_Saratoga_Springs,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2646,
+  "h": 1372,
+  "id": "STA-2471",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2470.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 4.42,
+  "f": 0.87,
+  "depth": "Deep",
+  "va": 0.8171,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Geyser_Lake%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Geyser_Lake%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8171,
+   "L": [
+    0.388542,
+    0.0,
+    0.08151,
+    0.0,
+    0.916667,
+    0.043675
+   ],
+   "R": [
+    0.387733,
+    -0.002649,
+    0.507811,
+    0.001461,
+    0.917132,
+    0.034292
+   ],
+   "g": [
+    0.9835,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured deep (4.42% of frame width); hung in the VR Parlor at 87% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Columbian Springs, Saratoga",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Columbian_Springs%2C_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Columbian_Springs%2C_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Columbian_Springs%2C_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Columbian_Springs,_Saratoga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1342,
+  "id": "STA-2472",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2471.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.0,
+  "range": 1.34,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7778,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Columbian_Springs%2C_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Columbian_Springs%2C_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7778,
+   "L": [
+    0.346354,
+    0.0,
+    0.142448,
+    0.0,
+    0.872449,
+    0.052551
+   ],
+   "R": [
+    0.343142,
+    -0.008167,
+    0.544839,
+    0.003245,
+    0.871049,
+    0.054625
+   ],
+   "g": [
+    1.0,
+    0.9657
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.0° of rotation. Depth measured gentle (1.34% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865~",
+  "date_start": 1860,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Dining Room, U.S. Hotel, Saratoga Springs",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Dining_Room%2C_U.S._Hotel%2C_Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Dining_Room%2C_U.S._Hotel%2C_Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Dining_Room%2C_U.S._Hotel%2C_Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Dining_Room,_U.S._Hotel,_Saratoga_Springs,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2637,
+  "h": 1339,
+  "id": "STA-2473",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2472.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 2.87,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.8591,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Dining_Room%2C_U.S._Hotel%2C_Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Dining_Room%2C_U.S._Hotel%2C_Saratoga_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8591,
+   "L": [
+    0.292187,
+    0.0,
+    0.141406,
+    0.0,
+    0.669744,
+    0.224103
+   ],
+   "R": [
+    0.300191,
+    -0.014474,
+    0.575407,
+    0.004969,
+    0.669793,
+    0.202017
+   ],
+   "g": [
+    0.9827,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured deep (2.87% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Congress Springs, Saratoga, N.Y",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Congress_Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Congress_Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/20/Congress_Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Congress_Springs,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2604,
+  "h": 1360,
+  "id": "STA-2474",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2473.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 0.89,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8422,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Congress_Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Congress_Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8422,
+   "L": [
+    0.405729,
+    0.0,
+    0.082031,
+    0.0,
+    0.922233,
+    0.036391
+   ],
+   "R": [
+    0.3982,
+    -0.002715,
+    0.543694,
+    -0.001172,
+    0.906963,
+    0.036597
+   ],
+   "g": [
+    1.0,
+    0.9666
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (0.89% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "\"A Race at Saratoga.\"",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/%22A_Race_at_Saratoga.%22%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-%22A_Race_at_Saratoga.%22%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/ce/%22A_Race_at_Saratoga.%22%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:%22A_Race_at_Saratoga.%22,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2607,
+  "h": 1378,
+  "id": "STA-2475",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2474.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.29,
+  "rot": 0.02,
+  "range": 0.75,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 3.2651,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/%22A_Race_at_Saratoga.%22%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-%22A_Race_at_Saratoga.%22%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 3.2651,
+   "L": [
+    0.365625,
+    0.0,
+    0.126823,
+    0.0,
+    0.211823,
+    0.659606
+   ],
+   "R": [
+    0.365436,
+    -0.005107,
+    0.510373,
+    0.001648,
+    0.212031,
+    0.64608
+   ],
+   "g": [
+    0.9008,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.29% vertical error and 0.02° of rotation. Depth measured gentle (0.75% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865~",
+  "date_start": 1860,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Congress and Columbian Springs, Saratoga, N.Y",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Congress_and_Columbian_Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Congress_and_Columbian_Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Congress_and_Columbian_Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Congress_and_Columbian_Springs,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2651,
+  "h": 1348,
+  "id": "STA-2476",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2475.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 0.89,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0311,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Congress_and_Columbian_Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Congress_and_Columbian_Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0311,
+   "L": [
+    0.397396,
+    0.0,
+    0.092969,
+    0.0,
+    0.758197,
+    0.037398
+   ],
+   "R": [
+    0.393975,
+    0.000915,
+    0.504837,
+    -0.002073,
+    0.750577,
+    0.052044
+   ],
+   "g": [
+    0.9222,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (0.89% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Office of Grand Union Hotel -- Saratoga, N.Y",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Office_of_Grand_Union_Hotel_--_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Office_of_Grand_Union_Hotel_--_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Office_of_Grand_Union_Hotel_--_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Office_of_Grand_Union_Hotel_--_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2643,
+  "h": 1333,
+  "id": "STA-2477",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2476.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.0,
+  "range": 1.95,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.0903,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Office_of_Grand_Union_Hotel_--_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Office_of_Grand_Union_Hotel_--_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0903,
+   "L": [
+    0.364583,
+    0.0,
+    0.095052,
+    0.0,
+    0.663223,
+    0.247417
+   ],
+   "R": [
+    0.360631,
+    0.001372,
+    0.529818,
+    -0.005275,
+    0.660715,
+    0.219679
+   ],
+   "g": [
+    0.9033,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.0° of rotation. Depth measured moderate (1.95% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Pavilion and United States Springs, Saratoga , N.Y",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Pavilion_and_United_States_Springs%2C_Saratoga_%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pavilion_and_United_States_Springs%2C_Saratoga_%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/62/Pavilion_and_United_States_Springs%2C_Saratoga_%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Pavilion_and_United_States_Springs,_Saratoga_,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2657,
+  "h": 1354,
+  "id": "STA-2478",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2477.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 1.27,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.855,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Pavilion_and_United_States_Springs%2C_Saratoga_%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pavilion_and_United_States_Springs%2C_Saratoga_%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.855,
+   "L": [
+    0.393229,
+    0.0,
+    0.091406,
+    0.0,
+    0.902863,
+    0.050613
+   ],
+   "R": [
+    0.395477,
+    -0.005792,
+    0.510831,
+    0.008632,
+    0.907589,
+    0.04359
+   ],
+   "g": [
+    0.9938,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (1.27% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Saratoga Star Spring, Saratoga, N.Y",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Saratoga_Star_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Saratoga_Star_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/63/Saratoga_Star_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Saratoga_Star_Spring,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2625,
+  "h": 1333,
+  "id": "STA-2479",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2478.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 1.15,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8517,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Saratoga_Star_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Saratoga_Star_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8517,
+   "L": [
+    0.385937,
+    0.0,
+    0.096094,
+    0.0,
+    0.892308,
+    0.032308
+   ],
+   "R": [
+    0.386872,
+    -0.001745,
+    0.524029,
+    0.000585,
+    0.893477,
+    0.036592
+   ],
+   "g": [
+    0.9546,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (1.15% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Pavilion and U.S. Springs, Saratoga, N.Y",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Pavilion_and_U.S._Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pavilion_and_U.S._Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Pavilion_and_U.S._Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Pavilion_and_U.S._Springs,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2607,
+  "h": 1387,
+  "id": "STA-2480",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2479.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 1.42,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0821,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Pavilion_and_U.S._Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pavilion_and_U.S._Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0821,
+   "L": [
+    0.384375,
+    0.0,
+    0.108594,
+    0.0,
+    0.667973,
+    0.168952
+   ],
+   "R": [
+    0.387942,
+    -0.000168,
+    0.505276,
+    -0.001148,
+    0.672344,
+    0.153539
+   ],
+   "g": [
+    1.0,
+    0.9597
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (1.42% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865~",
+  "date_start": 1860,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Pavilion and United States Springs, Saratoga, N.Y",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Pavilion_and_United_States_Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Pavilion_and_United_States_Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/af/Pavilion_and_United_States_Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Pavilion_and_United_States_Springs,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2657,
+  "h": 1348,
+  "id": "STA-2481",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2480.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.0,
+  "range": 1.24,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8652,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Pavilion_and_United_States_Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Pavilion_and_United_States_Springs%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8652,
+   "L": [
+    0.401042,
+    0.0,
+    0.092448,
+    0.0,
+    0.913758,
+    0.047741
+   ],
+   "R": [
+    0.398575,
+    0.005029,
+    0.506642,
+    -0.008313,
+    0.909055,
+    0.051863
+   ],
+   "g": [
+    0.9891,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.0° of rotation. Depth measured gentle (1.24% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of a Hotel(?) in Saratoga Springs, by McDonnald & Sterry",
+  "place": "Saratoga Springs, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/View_of_a_Hotel%28%3F%29_in_Saratoga_Springs%2C_by_McDonnald_%26_Sterry.jpg/1920px-View_of_a_Hotel%28%3F%29_in_Saratoga_Springs%2C_by_McDonnald_%26_Sterry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/47/View_of_a_Hotel%28%3F%29_in_Saratoga_Springs%2C_by_McDonnald_%26_Sterry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_Hotel(%3F)_in_Saratoga_Springs,_by_McDonnald_%26_Sterry.jpg",
+  "license": "Public domain",
+  "w": 2634,
+  "h": 1327,
+  "id": "STA-2482",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/2481.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.14,
+  "rot": 0.02,
+  "range": 2.11,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8699,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/View_of_a_Hotel%28%3F%29_in_Saratoga_Springs%2C_by_McDonnald_%26_Sterry.jpg/1920px-View_of_a_Hotel%28%3F%29_in_Saratoga_Springs%2C_by_McDonnald_%26_Sterry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8699,
+   "L": [
+    0.396875,
+    0.0,
+    0.089844,
+    0.0,
+    0.905895,
+    0.058428
+   ],
+   "R": [
+    0.400203,
+    0.000299,
+    0.516113,
+    0.002412,
+    0.907293,
+    0.032131
+   ],
+   "g": [
+    1.0,
+    0.9954
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.02° of rotation. Depth measured moderate (2.11% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "McDonnald & Sterry",
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]

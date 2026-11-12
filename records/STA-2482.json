@@ -1,0 +1,69 @@
+{
+ "title": "View of a Hotel(?) in Saratoga Springs, by McDonnald & Sterry",
+ "place": "Saratoga Springs, New York",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/View_of_a_Hotel%28%3F%29_in_Saratoga_Springs%2C_by_McDonnald_%26_Sterry.jpg/1920px-View_of_a_Hotel%28%3F%29_in_Saratoga_Springs%2C_by_McDonnald_%26_Sterry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/47/View_of_a_Hotel%28%3F%29_in_Saratoga_Springs%2C_by_McDonnald_%26_Sterry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_Hotel(%3F)_in_Saratoga_Springs,_by_McDonnald_%26_Sterry.jpg",
+ "license": "Public domain",
+ "w": 2634,
+ "h": 1327,
+ "id": "STA-2482",
+ "rect": "rect/2481.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.14,
+ "rot": 0.02,
+ "range": 2.11,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.8699,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/View_of_a_Hotel%28%3F%29_in_Saratoga_Springs%2C_by_McDonnald_%26_Sterry.jpg/1920px-View_of_a_Hotel%28%3F%29_in_Saratoga_Springs%2C_by_McDonnald_%26_Sterry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8699,
+  "L": [
+   0.396875,
+   0.0,
+   0.089844,
+   0.0,
+   0.905895,
+   0.058428
+  ],
+  "R": [
+   0.400203,
+   0.000299,
+   0.516113,
+   0.002412,
+   0.907293,
+   0.032131
+  ],
+  "g": [
+   1.0,
+   0.9954
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.02° of rotation. Depth measured moderate (2.11% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "McDonnald & Sterry",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10080730,
+ "source_revision_id": null,
+ "source_sha1": "019d2000e83a09a69979f00d1020aeaf5fd83e7b"
+}

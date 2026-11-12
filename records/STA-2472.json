@@ -1,0 +1,69 @@
+{
+ "title": "Columbian Springs, Saratoga",
+ "place": "Saratoga Springs, New York",
+ "year": "c. 1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Columbian_Springs%2C_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Columbian_Springs%2C_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Columbian_Springs%2C_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Columbian_Springs,_Saratoga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2628,
+ "h": 1342,
+ "id": "STA-2472",
+ "rect": "rect/2471.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.13,
+ "rot": 0.0,
+ "range": 1.34,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.7778,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Columbian_Springs%2C_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Columbian_Springs%2C_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7778,
+  "L": [
+   0.346354,
+   0.0,
+   0.142448,
+   0.0,
+   0.872449,
+   0.052551
+  ],
+  "R": [
+   0.343142,
+   -0.008167,
+   0.544839,
+   0.003245,
+   0.871049,
+   0.054625
+  ],
+  "g": [
+   1.0,
+   0.9657
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.0° of rotation. Depth measured gentle (1.34% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865~",
+ "date_start": 1860,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10071261,
+ "source_revision_id": null,
+ "source_sha1": "d09c8353a2a7a084ca7c88b063713874ab1e3759"
+}

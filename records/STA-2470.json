@@ -1,0 +1,69 @@
+{
+ "title": "Saratoga Mineral Springs",
+ "place": "Saratoga Springs, New York",
+ "year": "c. 1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Saratoga_Mineral_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Saratoga_Mineral_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/01/Saratoga_Mineral_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Saratoga_Mineral_Springs,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2577,
+ "h": 1258,
+ "id": "STA-2470",
+ "rect": "rect/2469.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.02,
+ "range": 1.05,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8601,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Saratoga_Mineral_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Saratoga_Mineral_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8601,
+  "L": [
+   0.384375,
+   0.0,
+   0.08776,
+   0.0,
+   0.915688,
+   0.032551
+  ],
+  "R": [
+   0.38526,
+   -0.01008,
+   0.520846,
+   -0.00026,
+   0.915693,
+   0.045584
+  ],
+  "g": [
+   0.9185,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.02° of rotation. Depth measured gentle (1.05% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863~",
+ "date_start": 1858,
+ "date_end": 1868,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10070426,
+ "source_revision_id": null,
+ "source_sha1": "a2c572c05c5f8621cf1da46ba27d635c705e2c05"
+}

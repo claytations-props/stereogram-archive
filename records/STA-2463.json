@@ -1,0 +1,69 @@
+{
+ "title": "Bird's-eye view of Saratoga Springs, N.Y",
+ "place": "Saratoga Springs, New York",
+ "year": "c. 1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Bird%27s-eye_view_of_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s-eye_view_of_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bird%27s-eye_view_of_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Bird%27s-eye_view_of_Saratoga_Springs,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2547,
+ "h": 1255,
+ "id": "STA-2463",
+ "rect": "rect/2462.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.02,
+ "range": 0.59,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8962,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Bird%27s-eye_view_of_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s-eye_view_of_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8962,
+  "L": [
+   0.395833,
+   0.0,
+   0.082031,
+   0.0,
+   0.896406,
+   0.037526
+  ],
+  "R": [
+   0.39899,
+   -0.008159,
+   0.518665,
+   0.009971,
+   0.902533,
+   0.032459
+  ],
+  "g": [
+   0.9912,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured gentle (0.59% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870~",
+ "date_start": 1865,
+ "date_end": 1875,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10071273,
+ "source_revision_id": null,
+ "source_sha1": "eca193ba7bf5e78ca68feea178f12c17a1d629f7"
+}

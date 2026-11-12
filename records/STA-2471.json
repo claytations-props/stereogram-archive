@@ -1,0 +1,69 @@
+{
+ "title": "Geyser Lake, Saratoga Springs, N.Y",
+ "place": "Saratoga Springs, New York",
+ "year": "c. 1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Geyser_Lake%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Geyser_Lake%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/65/Geyser_Lake%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Geyser_Lake,_Saratoga_Springs,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2646,
+ "h": 1372,
+ "id": "STA-2471",
+ "rect": "rect/2470.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 4.42,
+ "f": 0.87,
+ "depth": "Deep",
+ "va": 0.8171,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Geyser_Lake%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Geyser_Lake%2C_Saratoga_Springs%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8171,
+  "L": [
+   0.388542,
+   0.0,
+   0.08151,
+   0.0,
+   0.916667,
+   0.043675
+  ],
+  "R": [
+   0.387733,
+   -0.002649,
+   0.507811,
+   0.001461,
+   0.917132,
+   0.034292
+  ],
+  "g": [
+   0.9835,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured deep (4.42% of frame width); hung in the VR Parlor at 87% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870~",
+ "date_start": 1865,
+ "date_end": 1875,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10071002,
+ "source_revision_id": null,
+ "source_sha1": "6fcf69393c33d0a89198a66078d8b4b0313313a9"
+}
