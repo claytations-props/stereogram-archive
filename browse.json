@@ -36605,5 +36605,50 @@
   "id": "STA-2422",
   "coll": "Source unrecorded",
   "depth": "Gentle"
+ },
+ {
+  "title": "Park and bandstand in Warren",
+  "place": "Warren, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Park_and_bandstand_in_Warren%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "id": "STA-2423",
+  "coll": "Robert N. Dennis Collection",
+  "depth": "Gentle"
+ },
+ {
+  "title": "Main Street, opposite City Hall",
+  "place": "Worcester, Massachusetts",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Main_Street%2C_opposite_City_Hall%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Main_Street%2C_opposite_City_Hall%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "id": "STA-2424",
+  "coll": "Robert N. Dennis Collection",
+  "depth": "Gentle"
+ },
+ {
+  "title": "Mechanics Hall and Union Block",
+  "place": "Worcester, Massachusetts",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Mechanics_Hall_and_Union_Block%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Mechanics_Hall_and_Union_Block%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "id": "STA-2425",
+  "coll": "Robert N. Dennis Collection",
+  "depth": "Gentle"
  }
 ]
