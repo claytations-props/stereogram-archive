@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2405.json",
+ "name": "2d. Luth. Church Lancaster Pa",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2404.jpg",
+ "identifier": "STA-2405",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lancaster, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:2d._Luth._Church_Lancaster_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

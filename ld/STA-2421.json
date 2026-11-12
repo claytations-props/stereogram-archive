@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2421.json",
+ "name": "Business corner looking from Penn Square, by Good Berners & Lant",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2420.jpg",
+ "identifier": "STA-2421",
+ "creator": {
+  "@type": "Person",
+  "name": "Good Berners & Lant"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lancaster, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Business_corner_looking_from_Penn_Square,_by_Good_Berners_%26_Lant.jpg"
+}

@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>2404</quantity>
+    <quantity>2422</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -3290,6 +3290,14 @@
       <unittitle>View of a bridge over a rushing stream, by Knowlton Bros.</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2403.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2408">
+     <did>
+      <unitid>STA-2408</unitid>
+      <unittitle>Conestoga at 2nd lock</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2407.jpg"/>
      </did>
     </c>
    </c>
@@ -14222,6 +14230,110 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2402.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-2405">
+     <did>
+      <unitid>STA-2405</unitid>
+      <unittitle>2d. Luth. Church Lancaster Pa</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2404.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2406">
+     <did>
+      <unitid>STA-2406</unitid>
+      <unittitle>N. Queen St. Lancaster, Pa</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2405.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2407">
+     <did>
+      <unitid>STA-2407</unitid>
+      <unittitle>The Lancaster crematorium, by Charles D. Kreider</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2406.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2409">
+     <did>
+      <unitid>STA-2409</unitid>
+      <unittitle>Pa. Railroad below Lanc. City</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2408.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2410">
+     <did>
+      <unitid>STA-2410</unitid>
+      <unittitle>Presbyterian Church Lancaster, by Gill, W. L. (William L.), 1827-1893</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2409.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2411">
+     <did>
+      <unitid>STA-2411</unitid>
+      <unittitle>Linden Hall Lancaster Co. Litiz (sic), by Gill, W. L. (William L.), 1827-1893</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2410.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2412">
+     <did>
+      <unitid>STA-2412</unitid>
+      <unittitle>Monument in Penn Square Lancaster City unveiled, by Gill, W. L. (William L.), 1827-1893</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2411.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2414">
+     <did>
+      <unitid>STA-2414</unitid>
+      <unittitle>1st Lutheran Church Lanc. City, by Gill, W. L. (William L.), 1827-1893</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2413.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2417">
+     <did>
+      <unitid>STA-2417</unitid>
+      <unittitle>Fulton Hall Lanc. Pa, by Gill, W. L. (William L.), 1827-1893</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2416.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2418">
+     <did>
+      <unitid>STA-2418</unitid>
+      <unittitle>Prison, by Gill, W. L. (William L.), 1827-1893</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2417.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2419">
+     <did>
+      <unitid>STA-2419</unitid>
+      <unittitle>City Water Works Lanc. Pa, by Gill, W. L. (William L.), 1827-1893</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2418.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2420">
+     <did>
+      <unitid>STA-2420</unitid>
+      <unittitle>East King St, by Gill, W. L. (William L.), 1827-1893</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2419.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2421">
+     <did>
+      <unitid>STA-2421</unitid>
+      <unittitle>Business corner looking from Penn Square, by Good Berners &amp; Lant</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2420.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -16563,6 +16675,30 @@
       <unittitle>Group of musicians, Pittsfield, N.H, by Henry W. Osgood</unittitle>
       <unitdate normal="1868">1868</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2387.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2415">
+     <did>
+      <unitid>STA-2415</unitid>
+      <unittitle>Linden Hall, Lititz, Pa, by Inman</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2414.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2416">
+     <did>
+      <unitid>STA-2416</unitid>
+      <unittitle>Basin, Lititz Springs, by Inman</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2415.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2422">
+     <did>
+      <unitid>STA-2422</unitid>
+      <unittitle>Great National Union Camp Meeting. Manheim, Pa, by Gill, W. L. (William L.), 1827-1893</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2421.jpg"/>
      </did>
     </c>
    </c>
@@ -19288,6 +19424,14 @@
       <unittitle>Big elm in Northampton Meadows, 31 ft. cir, by Knowlton Bros.</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2396.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2413">
+     <did>
+      <unitid>STA-2413</unitid>
+      <unittitle>Railroad tunnel, by Gill, W. L. (William L.), 1827-1893</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2412.jpg"/>
      </did>
     </c>
    </c>

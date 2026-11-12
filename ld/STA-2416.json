@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2416.json",
+ "name": "Basin, Lititz Springs, by Inman",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2415.jpg",
+ "identifier": "STA-2416",
+ "creator": {
+  "@type": "Person",
+  "name": "Inman"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lititz, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Basin,_Lititz_Springs,_by_Inman.jpg"
+}
