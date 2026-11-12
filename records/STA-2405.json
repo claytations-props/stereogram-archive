@@ -1,0 +1,69 @@
+{
+ "title": "2d. Luth. Church Lancaster Pa",
+ "place": "Lancaster, Pennsylvania",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/6/68/2d._Luth._Church_Lancaster_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/68/2d._Luth._Church_Lancaster_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:2d._Luth._Church_Lancaster_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 391,
+ "id": "STA-2405",
+ "rect": "rect/2404.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.22,
+ "rot": 0.01,
+ "range": 1.33,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8534,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/6/68/2d._Luth._Church_Lancaster_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8534,
+  "L": [
+   0.382895,
+   0.0,
+   0.088816,
+   0.0,
+   0.872123,
+   0.065217
+  ],
+  "R": [
+   0.383472,
+   -0.012872,
+   0.531453,
+   0.018621,
+   0.872403,
+   0.058931
+  ],
+  "g": [
+   1.0,
+   0.9576
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.01° of rotation. Depth measured gentle (1.33% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7482181,
+ "source_revision_id": null,
+ "source_sha1": "bb0b8e251d37db235ba676cb9393b8e175596eca"
+}
