@@ -1,0 +1,69 @@
+{
+ "title": "Columbian Spring",
+ "place": "Saratoga Springs, New York",
+ "year": "1869",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Columbian_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Columbian_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/04/Columbian_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Columbian_Spring,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2657,
+ "h": 1366,
+ "id": "STA-2575",
+ "rect": "rect/2574.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.07,
+ "rot": 0.0,
+ "range": 1.12,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8387,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Columbian_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Columbian_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8387,
+  "L": [
+   0.381771,
+   0.0,
+   0.101823,
+   0.0,
+   0.885512,
+   0.066363
+  ],
+  "R": [
+   0.381052,
+   -0.014294,
+   0.524841,
+   0.014148,
+   0.884,
+   0.044678
+  ],
+  "g": [
+   0.9994,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured gentle (1.12% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869",
+ "date_start": 1869,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10078085,
+ "source_revision_id": null,
+ "source_sha1": "147fc047cc46f8b4bbde9302d30f29544a933608"
+}
