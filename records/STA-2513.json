@@ -1,0 +1,69 @@
+{
+ "title": "View of a commercial street, by H. D. Warner",
+ "place": "Worcester, Massachusetts",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/View_of_a_commercial_street%2C_by_H._D._Warner.jpg/1920px-View_of_a_commercial_street%2C_by_H._D._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/58/View_of_a_commercial_street%2C_by_H._D._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_commercial_street,_by_H._D._Warner.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1757,
+ "id": "STA-2513",
+ "rect": "rect/2512.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.14,
+ "rot": 0.01,
+ "range": 0.45,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0167,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/View_of_a_commercial_street%2C_by_H._D._Warner.jpg/1920px-View_of_a_commercial_street%2C_by_H._D._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0167,
+  "L": [
+   0.348438,
+   0.0,
+   0.134635,
+   0.0,
+   0.533658,
+   0.077453
+  ],
+  "R": [
+   0.346635,
+   -0.00134,
+   0.508475,
+   0.004083,
+   0.530795,
+   0.077161
+  ],
+  "g": [
+   0.9452,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.01° of rotation. Depth measured gentle (0.45% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "H. D. Warner",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7448368,
+ "source_revision_id": null,
+ "source_sha1": "346780603a65347fc82d38d9ee5b6fbea91a90d3"
+}
