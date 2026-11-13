@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2502.json",
+ "name": "State normal school, by H. D. Warner",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2501.jpg",
+ "identifier": "STA-2502",
+ "creator": {
+  "@type": "Person",
+  "name": "H. D. Warner"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:State_normal_school,_by_H._D._Warner.jpg"
+}

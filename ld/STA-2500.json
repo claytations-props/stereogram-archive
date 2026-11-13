@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2500.json",
+ "name": "Soldiers' Monument, by H. D. Warner 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2499.jpg",
+ "identifier": "STA-2500",
+ "creator": {
+  "@type": "Person",
+  "name": "H. D. Warner"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Soldiers%27_Monument,_by_H._D._Warner_2.jpg"
+}

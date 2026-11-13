@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-2567.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Columbia Springs and Park. (A family in front of the Spring.), by E. A. Thomalen"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "E. A. Thomalen"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1865"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Saratoga Springs, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-2567.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-2567/canvas/1",
+   "type": "Canvas",
+   "width": 1564,
+   "height": 885,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-2567/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-2567/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/2566.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1564,
+        "height": 885,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Columbia_Springs_and_Park._%28A_family_in_front_of_the_Spring.%29%2C_by_E._A._Thomalen.jpg/1920px-Columbia_Springs_and_Park._%28A_family_in_front_of_the_Spring.%29%2C_by_E._A._Thomalen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-2567/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

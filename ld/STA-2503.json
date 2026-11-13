@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2503.json",
+ "name": "Taylor's block, Main Street, by French & Sawyer",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2502.jpg",
+ "identifier": "STA-2503",
+ "creator": {
+  "@type": "Person",
+  "name": "French & Sawyer"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Taylor%27s_block,_Main_Street,_by_French_%26_Sawyer.jpg"
+}

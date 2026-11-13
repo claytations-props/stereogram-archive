@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2517.json",
+ "name": "Washout at Cherry Valley--Smith's mill in the distance, by H. J. Reed",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2516.jpg",
+ "identifier": "STA-2517",
+ "creator": {
+  "@type": "Person",
+  "name": "H. J. Reed"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cherry Valley, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Washout_at_Cherry_Valley--Smith%27s_mill_in_the_distance,_by_H._J._Reed.jpg"
+}

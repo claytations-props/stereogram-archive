@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2579.json",
+ "name": "Congress Hall, by Deloss Barnum",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2578.jpg",
+ "identifier": "STA-2579",
+ "creator": {
+  "@type": "Person",
+  "name": "Deloss Barnum"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Congress_Hall,_by_Deloss_Barnum.jpg"
+}

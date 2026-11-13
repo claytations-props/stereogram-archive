@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>2494</quantity>
+    <quantity>2600</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -3426,6 +3426,246 @@
       <unittitle>Saratoga Star Spring, Saratoga, N.Y</unittitle>
       <unitdate normal="1865/1875">c. 1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2478.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2517">
+     <did>
+      <unitid>STA-2517</unitid>
+      <unittitle>Washout at Cherry Valley--Smith's mill in the distance, by H. J. Reed</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2516.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2518">
+     <did>
+      <unitid>STA-2518</unitid>
+      <unittitle>West bank, by H. J. Reed</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2517.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2540">
+     <did>
+      <unitid>STA-2540</unitid>
+      <unittitle>Champion Spouting Spring in Summer</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2539.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2541">
+     <did>
+      <unitid>STA-2541</unitid>
+      <unittitle>Champion Spring in Winter, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2540.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2542">
+     <did>
+      <unitid>STA-2542</unitid>
+      <unittitle>Champion Spring in Winter, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2541.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2543">
+     <did>
+      <unitid>STA-2543</unitid>
+      <unittitle>Champion Spring in Winter, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2542.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2544">
+     <did>
+      <unitid>STA-2544</unitid>
+      <unittitle>Champion Spring in Winter, from Robert N. Dennis collection of stereoscopic views 5</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2543.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2545">
+     <did>
+      <unitid>STA-2545</unitid>
+      <unittitle>Champion Spring in Winter, from Robert N. Dennis collection of stereoscopic views 6</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2544.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2546">
+     <did>
+      <unitid>STA-2546</unitid>
+      <unittitle>Champion Spring</unittitle>
+      <unitdate normal="1863/1873">c. 1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2545.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2547">
+     <did>
+      <unitid>STA-2547</unitid>
+      <unittitle>Champion Spring, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2546.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2548">
+     <did>
+      <unitid>STA-2548</unitid>
+      <unittitle>Champion Spring, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2547.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2549">
+     <did>
+      <unitid>STA-2549</unitid>
+      <unittitle>Champion Spring, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2548.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2550">
+     <did>
+      <unitid>STA-2550</unitid>
+      <unittitle>Champion Spring in Winter, Saratoga, N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2549.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2551">
+     <did>
+      <unitid>STA-2551</unitid>
+      <unittitle>Champion Spring in Winter, from Robert N. Dennis collection of stereoscopic views 7</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2550.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2552">
+     <did>
+      <unitid>STA-2552</unitid>
+      <unittitle>Champion Spring in Winter, from Robert N. Dennis collection of stereoscopic views 8</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2551.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2553">
+     <did>
+      <unitid>STA-2553</unitid>
+      <unittitle>Champion Spring in Winter, from Robert N. Dennis collection of stereoscopic views 9</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2552.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2554">
+     <did>
+      <unitid>STA-2554</unitid>
+      <unittitle>Champion Sprouting Spring, Saratoga N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2553.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2555">
+     <did>
+      <unitid>STA-2555</unitid>
+      <unittitle>Champion Sprouting Spring, Saratoga N.Y, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2554.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2556">
+     <did>
+      <unitid>STA-2556</unitid>
+      <unittitle>Champion Sprouting Spring, Saratoga N.Y, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2555.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2557">
+     <did>
+      <unitid>STA-2557</unitid>
+      <unittitle>Champion Sprouting Spring, Saratoga N.Y, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2556.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2558">
+     <did>
+      <unitid>STA-2558</unitid>
+      <unittitle>Champion Sprouting Spring, Saratoga N.Y, from Robert N. Dennis collection of stereoscopic views 5</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2557.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2564">
+     <did>
+      <unitid>STA-2564</unitid>
+      <unittitle>College Stand, Intercollegiate Regatta, Sar. Lake</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2563.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2566">
+     <did>
+      <unitid>STA-2566</unitid>
+      <unittitle>Columbia Spring</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2565.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2568">
+     <did>
+      <unitid>STA-2568</unitid>
+      <unittitle>Columbian Spring, by P. H. McKernon</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2567.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2569">
+     <did>
+      <unitid>STA-2569</unitid>
+      <unittitle>Columbian Spring, from Congress Park, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2568.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2570">
+     <did>
+      <unitid>STA-2570</unitid>
+      <unittitle>Columbian Spring, Saratoga, by Deloss Barnum</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2569.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2571">
+     <did>
+      <unitid>STA-2571</unitid>
+      <unittitle>Columbian Spring, Saratoga, by Deloss Barnum 2</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2570.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2572">
+     <did>
+      <unitid>STA-2572</unitid>
+      <unittitle>Columbian Spring, Saratoga, by Kilburn Brothers</unittitle>
+      <unitdate normal="1867/1877">c. 1872</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2571.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2574">
+     <did>
+      <unitid>STA-2574</unitid>
+      <unittitle>Columbian Spring, from Congress Park</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2573.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2575">
+     <did>
+      <unitid>STA-2575</unitid>
+      <unittitle>Columbian Spring</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2574.jpg"/>
      </did>
     </c>
    </c>
@@ -14790,6 +15030,566 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2493.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-2495">
+     <did>
+      <unitid>STA-2495</unitid>
+      <unittitle>People's Savings Bank, by French &amp; Sawyer</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2494.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2496">
+     <did>
+      <unitid>STA-2496</unitid>
+      <unittitle>Public Library, by J.W. &amp; J.S. Moulton</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2495.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2497">
+     <did>
+      <unitid>STA-2497</unitid>
+      <unittitle>Residence of Mr. George W. Olney, by Edwin N. Peabody</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2496.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2498">
+     <did>
+      <unitid>STA-2498</unitid>
+      <unittitle>Smith's mill, by Frank Lawrence</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2497.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2502">
+     <did>
+      <unitid>STA-2502</unitid>
+      <unittitle>State normal school, by H. D. Warner</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2501.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2503">
+     <did>
+      <unitid>STA-2503</unitid>
+      <unittitle>Taylor's block, Main Street, by French &amp; Sawyer</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2502.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2504">
+     <did>
+      <unitid>STA-2504</unitid>
+      <unittitle>Technical school, by H. D. Warner</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2503.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2505">
+     <did>
+      <unitid>STA-2505</unitid>
+      <unittitle>The Leicester Road, by Frank Lawrence</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2504.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2506">
+     <did>
+      <unitid>STA-2506</unitid>
+      <unittitle>The Olney house, by Frank Lawrence</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2505.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2507">
+     <did>
+      <unitid>STA-2507</unitid>
+      <unittitle>Unidentified church interior showing the organ and a decorated altar, by Frank Lawrence</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2506.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2508">
+     <did>
+      <unitid>STA-2508</unitid>
+      <unittitle>Union passenger station, by J.W. &amp; J.S. Moulton</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2507.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2509">
+     <did>
+      <unitid>STA-2509</unitid>
+      <unittitle>View looking east from tower union depot, by J.W. &amp; J.S. Moulton</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2508.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2510">
+     <did>
+      <unitid>STA-2510</unitid>
+      <unittitle>View of a bridge, by Frank Lawrence</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2509.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2511">
+     <did>
+      <unitid>STA-2511</unitid>
+      <unittitle>View of a church, by Frank Lawrence</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2510.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2512">
+     <did>
+      <unitid>STA-2512</unitid>
+      <unittitle>View of a commercial street, by French &amp; Sawyer</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2511.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2513">
+     <did>
+      <unitid>STA-2513</unitid>
+      <unittitle>View of a commercial street, by H. D. Warner</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2512.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2514">
+     <did>
+      <unitid>STA-2514</unitid>
+      <unittitle>View of a damaged mill, by Frank Lawrence</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2513.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2515">
+     <did>
+      <unitid>STA-2515</unitid>
+      <unittitle>View of a damaged mill, by Frank Lawrence 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2514.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2516">
+     <did>
+      <unitid>STA-2516</unitid>
+      <unittitle>View of buildings on Southbridge street destroyed by explosion of a car of dualin on the Boston &amp; Albany railroad, June 23, 1870, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2515.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2520">
+     <did>
+      <unitid>STA-2520</unitid>
+      <unittitle>Worcester skating rink, 225 X 100 feet, floor 175 X 70, by Blair &amp; Son</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2519.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2521">
+     <did>
+      <unitid>STA-2521</unitid>
+      <unittitle>Bird's-eye View in Congress Park</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2520.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2522">
+     <did>
+      <unitid>STA-2522</unitid>
+      <unittitle>Bird's-eye view of Saratoga, by Kilburn Brothers</unittitle>
+      <unitdate normal="1867/1877">c. 1872</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2521.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2523">
+     <did>
+      <unitid>STA-2523</unitid>
+      <unittitle>Broadway, Saratoga, N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2522.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2524">
+     <did>
+      <unitid>STA-2524</unitid>
+      <unittitle>Broadway, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2523.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2525">
+     <did>
+      <unitid>STA-2525</unitid>
+      <unittitle>Broadway, from the Grand Union Hotel, Sarasota, by Kilburn Brothers</unittitle>
+      <unitdate normal="1867/1877">c. 1872</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2524.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2526">
+     <did>
+      <unitid>STA-2526</unitid>
+      <unittitle>Broadway, looking north from Congress Park</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2525.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2527">
+     <did>
+      <unitid>STA-2527</unitid>
+      <unittitle>Broadway, looking north from Grand Hotel</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2526.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2528">
+     <did>
+      <unitid>STA-2528</unitid>
+      <unittitle>Broadway, looking north from Grand Hotel, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2527.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2529">
+     <did>
+      <unitid>STA-2529</unitid>
+      <unittitle>Broadway, looking north from Grand Hotel, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2528.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2530">
+     <did>
+      <unitid>STA-2530</unitid>
+      <unittitle>Broadway, looking north from Grand Hotel, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2529.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2531">
+     <did>
+      <unitid>STA-2531</unitid>
+      <unittitle>Broadway, looking south</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2530.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2532">
+     <did>
+      <unitid>STA-2532</unitid>
+      <unittitle>Broadway front, U.S. Hotel, Saratoga, N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2531.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2533">
+     <did>
+      <unitid>STA-2533</unitid>
+      <unittitle>Broadway front, U.S. Hotel, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2532.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2534">
+     <did>
+      <unitid>STA-2534</unitid>
+      <unittitle>Broadway front, U.S. Hotel, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2533.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2535">
+     <did>
+      <unitid>STA-2535</unitid>
+      <unittitle>Broadway front, U.S. Hotel, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2534.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2536">
+     <did>
+      <unitid>STA-2536</unitid>
+      <unittitle>Broadway front, U.S. Hotel, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 5</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2535.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2537">
+     <did>
+      <unitid>STA-2537</unitid>
+      <unittitle>Broadway front, U.S. Hotel, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 6</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2536.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2538">
+     <did>
+      <unitid>STA-2538</unitid>
+      <unittitle>Broadway front, U.S. Hotel, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 7</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2537.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2539">
+     <did>
+      <unitid>STA-2539</unitid>
+      <unittitle>Broadway front, U.S. Hotel, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 8</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2538.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2559">
+     <did>
+      <unitid>STA-2559</unitid>
+      <unittitle>Church of the Visitation, B.V.M. Broadway, Saratoga, N.Y</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2558.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2560">
+     <did>
+      <unitid>STA-2560</unitid>
+      <unittitle>Circular Railway, Saratoga, by Deloss Barnum</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2559.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2561">
+     <did>
+      <unitid>STA-2561</unitid>
+      <unittitle>Circular Railway, Saratoga, by Deloss Barnum 2</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2560.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2562">
+     <did>
+      <unitid>STA-2562</unitid>
+      <unittitle>Clarendon Hotel, by Saratoga Photograph Co.</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2561.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2563">
+     <did>
+      <unitid>STA-2563</unitid>
+      <unittitle>Clarendon Park, by Saratoga Photograph Co.</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2562.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2565">
+     <did>
+      <unitid>STA-2565</unitid>
+      <unittitle>Colonade, Saratoga</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2564.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2576">
+     <did>
+      <unitid>STA-2576</unitid>
+      <unittitle>Congress Hall, Saratoga Springs, by Deloss Barnum 2</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2575.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2577">
+     <did>
+      <unitid>STA-2577</unitid>
+      <unittitle>Congress Hall, Saratoga Springs, by Deloss Barnum 3</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2576.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2578">
+     <did>
+      <unitid>STA-2578</unitid>
+      <unittitle>Congress Hall, Saratoga Springs, by Deloss Barnum 4</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2577.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2579">
+     <did>
+      <unitid>STA-2579</unitid>
+      <unittitle>Congress Hall, by Deloss Barnum</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2578.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2580">
+     <did>
+      <unitid>STA-2580</unitid>
+      <unittitle>Congress Hall, by Deloss Barnum 2</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2579.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2581">
+     <did>
+      <unitid>STA-2581</unitid>
+      <unittitle>Congress Hall, by P. H. McKernon</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2580.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2582">
+     <did>
+      <unitid>STA-2582</unitid>
+      <unittitle>Congress Hall, by P. H. McKernon 2</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2581.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2583">
+     <did>
+      <unitid>STA-2583</unitid>
+      <unittitle>Congress Hall, by Rumsey, H.D., fl. 187-</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2582.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2584">
+     <did>
+      <unitid>STA-2584</unitid>
+      <unittitle>Congress Hall, from Broadway</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2583.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2585">
+     <did>
+      <unitid>STA-2585</unitid>
+      <unittitle>Congress Hall</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2584.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2586">
+     <did>
+      <unitid>STA-2586</unitid>
+      <unittitle>Congress Hall, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2585.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2587">
+     <did>
+      <unitid>STA-2587</unitid>
+      <unittitle>Congress Hall, from Robert N. Dennis collection of stereoscopic views 5</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2586.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2588">
+     <did>
+      <unitid>STA-2588</unitid>
+      <unittitle>Congress Hall, from Robert N. Dennis collection of stereoscopic views 6</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2587.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2589">
+     <did>
+      <unitid>STA-2589</unitid>
+      <unittitle>Congress Hall, from Robert N. Dennis collection of stereoscopic views 7</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2588.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2590">
+     <did>
+      <unitid>STA-2590</unitid>
+      <unittitle>Congress Hall Bridge, Saratoga, N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2589.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2591">
+     <did>
+      <unitid>STA-2591</unitid>
+      <unittitle>Congress Hall Piazza, Saratoga, by Deloss Barnum</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2590.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2592">
+     <did>
+      <unitid>STA-2592</unitid>
+      <unittitle>Congress Hall Plaza, Saratoga, by Deloss Barnum</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2591.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2593">
+     <did>
+      <unitid>STA-2593</unitid>
+      <unittitle>Congress Hall Plaza, by Deloss Barnum</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2592.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2594">
+     <did>
+      <unitid>STA-2594</unitid>
+      <unittitle>Congress Hall, Saratoga, by Deloss Barnum 2</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2593.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2595">
+     <did>
+      <unitid>STA-2595</unitid>
+      <unittitle>Congress Hall, Saratoga, by Deloss Barnum 3</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2594.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2596">
+     <did>
+      <unitid>STA-2596</unitid>
+      <unittitle>Congress Hall, Saratoga, by Deloss Barnum 4</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2595.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2597">
+     <did>
+      <unitid>STA-2597</unitid>
+      <unittitle>Congress Hall, Saratoga, by Deloss Barnum 5</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2596.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2598">
+     <did>
+      <unitid>STA-2598</unitid>
+      <unittitle>Congress Hall, Saratoga, by Deloss Barnum 6</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2597.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2599">
+     <did>
+      <unitid>STA-2599</unitid>
+      <unittitle>Congress Hall, Saratoga Springs, by Deloss Barnum</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2598.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2600">
+     <did>
+      <unitid>STA-2600</unitid>
+      <unittitle>Congress Hall, Saratoga Springs, by Deloss Barnum 5</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2599.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -15425,6 +16225,30 @@
       <unittitle>Soldiers' Monument (NYPL b11707552-G90F289 060ZF)</unittitle>
       <unitdate normal="1874">1874</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2442.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2499">
+     <did>
+      <unitid>STA-2499</unitid>
+      <unittitle>Soldiers' Monument, by H. D. Warner</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2498.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2500">
+     <did>
+      <unitid>STA-2500</unitid>
+      <unittitle>Soldiers' Monument, by H. D. Warner 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2499.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2501">
+     <did>
+      <unitid>STA-2501</unitid>
+      <unittitle>Soldiers' Monument, by J.W. &amp; J.S. Moulton</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2500.jpg"/>
      </did>
     </c>
    </c>
@@ -17251,6 +18075,30 @@
       <unittitle>Afternoon in Congress Park, from Robert N. Dennis collection of stereoscopic views 5</unittitle>
       <unitdate normal="1869">1869</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2487.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2519">
+     <did>
+      <unitid>STA-2519</unitid>
+      <unittitle>Women window-shopping at Barnard, Sumner &amp; Co., Dry goods, by Blair &amp; Son</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2518.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2567">
+     <did>
+      <unitid>STA-2567</unitid>
+      <unittitle>Columbia Springs and Park. (A family in front of the Spring.), by E. A. Thomalen</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2566.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2573">
+     <did>
+      <unitid>STA-2573</unitid>
+      <unittitle>Columbian Spring, Saratoga. (A Family posing in the front.), by P. H. McKernon</unittitle>
+      <unitdate normal="1863/1873">c. 1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2572.jpg"/>
      </did>
     </c>
    </c>

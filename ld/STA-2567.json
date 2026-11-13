@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2567.json",
+ "name": "Columbia Springs and Park. (A family in front of the Spring.), by E. A. Thomalen",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2566.jpg",
+ "identifier": "STA-2567",
+ "creator": {
+  "@type": "Person",
+  "name": "E. A. Thomalen"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Columbia_Springs_and_Park._(A_family_in_front_of_the_Spring.),_by_E._A._Thomalen.jpg"
+}

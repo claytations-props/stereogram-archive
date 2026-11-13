@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2519.json",
+ "name": "Women window-shopping at Barnard, Sumner & Co., Dry goods, by Blair & Son",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2518.jpg",
+ "identifier": "STA-2519",
+ "creator": {
+  "@type": "Person",
+  "name": "Blair & Son"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Women_window-shopping_at_Barnard,_Sumner_%26_Co.,_Dry_goods,_by_Blair_%26_Son.jpg"
+}

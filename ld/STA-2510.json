@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2510.json",
+ "name": "View of a bridge, by Frank Lawrence",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2509.jpg",
+ "identifier": "STA-2510",
+ "creator": {
+  "@type": "Person",
+  "name": "Frank Lawrence"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_bridge,_by_Frank_Lawrence.jpg"
+}

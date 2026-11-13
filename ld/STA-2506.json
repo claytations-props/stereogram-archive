@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2506.json",
+ "name": "The Olney house, by Frank Lawrence",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2505.jpg",
+ "identifier": "STA-2506",
+ "creator": {
+  "@type": "Person",
+  "name": "Frank Lawrence"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Olney_house,_by_Frank_Lawrence.jpg"
+}

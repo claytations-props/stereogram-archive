@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2507.json",
+ "name": "Unidentified church interior showing the organ and a decorated altar, by Frank Lawrence",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2506.jpg",
+ "identifier": "STA-2507",
+ "creator": {
+  "@type": "Person",
+  "name": "Frank Lawrence"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Unidentified_church_interior_showing_the_organ_and_a_decorated_altar,_by_Frank_Lawrence.jpg"
+}

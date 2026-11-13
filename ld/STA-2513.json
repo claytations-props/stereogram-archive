@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2513.json",
+ "name": "View of a commercial street, by H. D. Warner",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2512.jpg",
+ "identifier": "STA-2513",
+ "creator": {
+  "@type": "Person",
+  "name": "H. D. Warner"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Worcester, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_commercial_street,_by_H._D._Warner.jpg"
+}

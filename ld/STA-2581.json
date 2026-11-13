@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2581.json",
+ "name": "Congress Hall, by P. H. McKernon",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2580.jpg",
+ "identifier": "STA-2581",
+ "creator": {
+  "@type": "Person",
+  "name": "P. H. McKernon"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Congress_Hall,_by_P._H._McKernon.jpg"
+}
