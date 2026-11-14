@@ -1,0 +1,69 @@
+{
+ "title": "Front Piazza, of Grand Hotel",
+ "place": "Saratoga Springs, New York",
+ "year": "1869",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Front_Piazza%2C_of_Grand_Hotel%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Front_Piazza%2C_of_Grand_Hotel%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/93/Front_Piazza%2C_of_Grand_Hotel%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Front_Piazza,_of_Grand_Hotel,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2633,
+ "h": 1324,
+ "id": "STA-2683",
+ "rect": "rect/2682.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.01,
+ "range": 1.86,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.7778,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Front_Piazza%2C_of_Grand_Hotel%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Front_Piazza%2C_of_Grand_Hotel%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7778,
+  "L": [
+   0.288021,
+   0.0,
+   0.194531,
+   0.0,
+   0.736788,
+   0.153886
+  ],
+  "R": [
+   0.285441,
+   -0.013067,
+   0.624172,
+   0.004132,
+   0.735954,
+   0.158772
+  ],
+  "g": [
+   0.9321,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured moderate (1.86% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869",
+ "date_start": 1869,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10078765,
+ "source_revision_id": null,
+ "source_sha1": "a99633e7a08c6db1b723497491389068ecaf0122"
+}
