@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10079266,
  "source_revision_id": null,
- "source_sha1": "a49e474a6ef224ef3a4a36c9fc16c2669b5f66c9"
+ "source_sha1": "a49e474a6ef224ef3a4a36c9fc16c2669b5f66c9",
+ "tags": [
+  "gazebo",
+  "trees"
+ ]
 }
