@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2620.json",
+ "name": "Congress Park, by Saratoga Photograph Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2619.jpg",
+ "identifier": "STA-2620",
+ "creator": {
+  "@type": "Person",
+  "name": "Saratoga Photograph Co."
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Congress_Park,_by_Saratoga_Photograph_Co..jpg"
+}

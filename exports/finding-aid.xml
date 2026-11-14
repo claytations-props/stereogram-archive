@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>2600</quantity>
+    <quantity>2702</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -3666,6 +3666,342 @@
       <unittitle>Columbian Spring</unittitle>
       <unitdate normal="1869">1869</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2574.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2625">
+     <did>
+      <unitid>STA-2625</unitid>
+      <unittitle>Congress Spring, Saratoga, by Deloss Barnum</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2624.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2626">
+     <did>
+      <unitid>STA-2626</unitid>
+      <unittitle>Congress Spring, Saratoga, by Deloss Barnum 2</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2625.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2627">
+     <did>
+      <unitid>STA-2627</unitid>
+      <unittitle>Congress Spring, Saratoga, by Deloss Barnum 3</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2626.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2628">
+     <did>
+      <unitid>STA-2628</unitid>
+      <unittitle>Congress Spring, Saratoga, by Deloss Barnum 4</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2627.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2629">
+     <did>
+      <unitid>STA-2629</unitid>
+      <unittitle>Congress Spring, Saratoga, by Deloss Barnum 5</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2628.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2630">
+     <did>
+      <unitid>STA-2630</unitid>
+      <unittitle>Congress Spring, Saratoga, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2629.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2631">
+     <did>
+      <unitid>STA-2631</unitid>
+      <unittitle>Congress Spring, Saratoga, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2630.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2632">
+     <did>
+      <unitid>STA-2632</unitid>
+      <unittitle>Congress Spring, by Deloss Barnum</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2631.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2633">
+     <did>
+      <unitid>STA-2633</unitid>
+      <unittitle>Congress Spring, by E. A. Thomalen</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2632.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2634">
+     <did>
+      <unitid>STA-2634</unitid>
+      <unittitle>Congress Spring, from Reservoir, Congress Park</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2633.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2635">
+     <did>
+      <unitid>STA-2635</unitid>
+      <unittitle>Congress Spring, from Reservoir, Congress Park, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2634.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2636">
+     <did>
+      <unitid>STA-2636</unitid>
+      <unittitle>Congress Spring</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2635.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2637">
+     <did>
+      <unitid>STA-2637</unitid>
+      <unittitle>Congress Spring, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2636.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2638">
+     <did>
+      <unitid>STA-2638</unitid>
+      <unittitle>Congress Spring, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2637.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2639">
+     <did>
+      <unitid>STA-2639</unitid>
+      <unittitle>Congress Spring, from Robert N. Dennis collection of stereoscopic views 5</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2638.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2640">
+     <did>
+      <unitid>STA-2640</unitid>
+      <unittitle>Congress Spring, from Robert N. Dennis collection of stereoscopic views 6</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2639.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2641">
+     <did>
+      <unitid>STA-2641</unitid>
+      <unittitle>Congress Spring, from Robert N. Dennis collection of stereoscopic views 7</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2640.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2642">
+     <did>
+      <unitid>STA-2642</unitid>
+      <unittitle>Congress Spring, from Robert N. Dennis collection of stereoscopic views 8</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2641.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2643">
+     <did>
+      <unitid>STA-2643</unitid>
+      <unittitle>Congress Spring, from Robert N. Dennis collection of stereoscopic views 9</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2642.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2644">
+     <did>
+      <unitid>STA-2644</unitid>
+      <unittitle>Congress Spring &amp; Park, by Deloss Barnum</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2643.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2645">
+     <did>
+      <unitid>STA-2645</unitid>
+      <unittitle>Congress Spring and Park, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2644.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2646">
+     <did>
+      <unitid>STA-2646</unitid>
+      <unittitle>Congress Spring and Park, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2645.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2649">
+     <did>
+      <unitid>STA-2649</unitid>
+      <unittitle>Congress Spring, Saratoga</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2648.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2665">
+     <did>
+      <unitid>STA-2665</unitid>
+      <unittitle>Empire Spring, Saratoga, N.Y, by Soule, John P., 1827-1904</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2664.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2666">
+     <did>
+      <unitid>STA-2666</unitid>
+      <unittitle>Empire Spring, Saratoga, by Deloss Barnum</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2665.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2667">
+     <did>
+      <unitid>STA-2667</unitid>
+      <unittitle>Empire Spring, Saratoga</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2666.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2668">
+     <did>
+      <unitid>STA-2668</unitid>
+      <unittitle>Empire Spring, Saratoga, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2667.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2669">
+     <did>
+      <unitid>STA-2669</unitid>
+      <unittitle>Empire Spring, Saratoga, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2668.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2670">
+     <did>
+      <unitid>STA-2670</unitid>
+      <unittitle>Empire Spring, Saratoga, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2669.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2671">
+     <did>
+      <unitid>STA-2671</unitid>
+      <unittitle>Empire Spring, by Deloss Barnum</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2670.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2673">
+     <did>
+      <unitid>STA-2673</unitid>
+      <unittitle>Excelsior Spring, Saratoga, N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2672.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2674">
+     <did>
+      <unitid>STA-2674</unitid>
+      <unittitle>Excelsior Spring, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2673.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2686">
+     <did>
+      <unitid>STA-2686</unitid>
+      <unittitle>General view, Lake Saratoga, looking south</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2685.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2687">
+     <did>
+      <unitid>STA-2687</unitid>
+      <unittitle>General view, Lake Saratoga, looking south, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2686.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2688">
+     <did>
+      <unitid>STA-2688</unitid>
+      <unittitle>General view, Lake Saratoga, looking south, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2687.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2689">
+     <did>
+      <unitid>STA-2689</unitid>
+      <unittitle>General view, Lake Saratoga, looking south, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2688.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2690">
+     <did>
+      <unitid>STA-2690</unitid>
+      <unittitle>General view, Lake Saratoga, looking south, from Robert N. Dennis collection of stereoscopic views 5</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2689.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2691">
+     <did>
+      <unitid>STA-2691</unitid>
+      <unittitle>General view, Lake Saratoga, looking south, from Robert N. Dennis collection of stereoscopic views 7</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2690.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2692">
+     <did>
+      <unitid>STA-2692</unitid>
+      <unittitle>General view, Lake Saratoga, looking south, from Robert N. Dennis collection of stereoscopic views 8</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2691.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2693">
+     <did>
+      <unitid>STA-2693</unitid>
+      <unittitle>General view, Lake Saratoga, looking south, from Robert N. Dennis collection of stereoscopic views 9</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2692.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2694">
+     <did>
+      <unitid>STA-2694</unitid>
+      <unittitle>Geyser Lake Falls, by Woodward, C. W. (Charles Warren)</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2693.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2702">
+     <did>
+      <unitid>STA-2702</unitid>
+      <unittitle>Grand Stand at Intercollegiata Regatta, Saratoga Lake, 1874</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2701.jpg"/>
      </did>
     </c>
    </c>
@@ -15588,6 +15924,486 @@
       <unittitle>Congress Hall, Saratoga Springs, by Deloss Barnum 5</unittitle>
       <unitdate normal="1863">1863</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2599.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2601">
+     <did>
+      <unitid>STA-2601</unitid>
+      <unittitle>Congress Hall, Saratoga, N.Y, by Bierstadt, Charles, 1819-1903</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2600.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2602">
+     <did>
+      <unitid>STA-2602</unitid>
+      <unittitle>Congress Hall, Saratoga, N.Y, by Union View Co.</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2601.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2603">
+     <did>
+      <unitid>STA-2603</unitid>
+      <unittitle>Congress Hall, Saratoga, N.Y</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2602.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2604">
+     <did>
+      <unitid>STA-2604</unitid>
+      <unittitle>Congress Hall, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 10</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2603.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2605">
+     <did>
+      <unitid>STA-2605</unitid>
+      <unittitle>Congress Hall, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 11</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2604.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2606">
+     <did>
+      <unitid>STA-2606</unitid>
+      <unittitle>Congress Hall, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 12</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2605.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2607">
+     <did>
+      <unitid>STA-2607</unitid>
+      <unittitle>Congress Hall, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 13</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2606.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2608">
+     <did>
+      <unitid>STA-2608</unitid>
+      <unittitle>Congress Hall, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 14</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2607.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2609">
+     <did>
+      <unitid>STA-2609</unitid>
+      <unittitle>Congress Hall, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 5</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2608.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2610">
+     <did>
+      <unitid>STA-2610</unitid>
+      <unittitle>Congress Hall, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 6</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2609.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2611">
+     <did>
+      <unitid>STA-2611</unitid>
+      <unittitle>Congress Hall, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 7</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2610.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2612">
+     <did>
+      <unitid>STA-2612</unitid>
+      <unittitle>Congress Hall, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 8</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2611.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2613">
+     <did>
+      <unitid>STA-2613</unitid>
+      <unittitle>Congress Hall, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 9</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2612.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2614">
+     <did>
+      <unitid>STA-2614</unitid>
+      <unittitle>Congress Hall, Saratoga, by Deloss Barnum</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2613.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2615">
+     <did>
+      <unitid>STA-2615</unitid>
+      <unittitle>Congress Park, Saratoga, N.Y, by New York View Co.</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2614.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2616">
+     <did>
+      <unitid>STA-2616</unitid>
+      <unittitle>Congress Park, Saratoga, N.Y, by Union View Co.</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2615.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2617">
+     <did>
+      <unitid>STA-2617</unitid>
+      <unittitle>Congress Park, Saratoga, by Deloss Barnum</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2616.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2618">
+     <did>
+      <unitid>STA-2618</unitid>
+      <unittitle>Congress Park, Sartoga Springs, N.Y, by H.C. White Co.</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2617.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2619">
+     <did>
+      <unitid>STA-2619</unitid>
+      <unittitle>Congress Park, Sartoga Springs, N.Y, by H.C. White Co. 2</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2618.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2620">
+     <did>
+      <unitid>STA-2620</unitid>
+      <unittitle>Congress Park, by Saratoga Photograph Co.</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2619.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2621">
+     <did>
+      <unitid>STA-2621</unitid>
+      <unittitle>Congress Park</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2620.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2622">
+     <did>
+      <unitid>STA-2622</unitid>
+      <unittitle>Congress Park, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2621.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2623">
+     <did>
+      <unitid>STA-2623</unitid>
+      <unittitle>Congress Park Arbor, by Saratoga Photograph Co.</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2622.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2624">
+     <did>
+      <unitid>STA-2624</unitid>
+      <unittitle>Congress Plaza, Saratoga, by Deloss Barnum</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2623.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2647">
+     <did>
+      <unitid>STA-2647</unitid>
+      <unittitle>Congress Spring and the Three Grand Hotels</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2646.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2648">
+     <did>
+      <unitid>STA-2648</unitid>
+      <unittitle>Congress Spring and the Three Grand Hotels, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2647.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2650">
+     <did>
+      <unitid>STA-2650</unitid>
+      <unittitle>Cottage Row, United States Hotel, Saratoga, N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2649.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2651">
+     <did>
+      <unitid>STA-2651</unitid>
+      <unittitle>Cottage Row, United States Hotel, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2650.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2652">
+     <did>
+      <unitid>STA-2652</unitid>
+      <unittitle>Court, United States Hotel, Saratoga</unittitle>
+      <unitdate normal="1874">1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2651.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2653">
+     <did>
+      <unitid>STA-2653</unitid>
+      <unittitle>Crescent House, Dr. Hamilton, by Deloss Barnum</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2652.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2654">
+     <did>
+      <unitid>STA-2654</unitid>
+      <unittitle>Deer Lodge in Congress Park</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2653.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2655">
+     <did>
+      <unitid>STA-2655</unitid>
+      <unittitle>Dining Hall, Grand Union Hotel, Saratoga. Largest Dining Hall in the World, by Kilburn, B. W. (Benjamin West), 1827-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2654.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2656">
+     <did>
+      <unitid>STA-2656</unitid>
+      <unittitle>Dining Room, Grand Union Hotel, Saratoga</unittitle>
+      <unitdate normal="1895/1905">c. 1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2655.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2657">
+     <did>
+      <unitid>STA-2657</unitid>
+      <unittitle>Dining Room of Grand Union Hotel, by Rumsey, H.D., fl. 187-</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2656.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2658">
+     <did>
+      <unitid>STA-2658</unitid>
+      <unittitle>Dining Room of Grand Union Hotel</unittitle>
+      <unitdate normal="1863/1873">c. 1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2657.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2659">
+     <did>
+      <unitid>STA-2659</unitid>
+      <unittitle>Dining Room of the Grand Union Hotel, Saratoga, N.Y</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2658.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2660">
+     <did>
+      <unitid>STA-2660</unitid>
+      <unittitle>Division Street front, U.S. Hotel, Saratoga, N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2659.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2661">
+     <did>
+      <unitid>STA-2661</unitid>
+      <unittitle>Division Street front, U.S. Hotel, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2660.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2662">
+     <did>
+      <unitid>STA-2662</unitid>
+      <unittitle>Division Street front, U.S. Hotel, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2661.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2663">
+     <did>
+      <unitid>STA-2663</unitid>
+      <unittitle>Division Street front, United States Hotel, Saratoga,, N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2662.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2664">
+     <did>
+      <unitid>STA-2664</unitid>
+      <unittitle>Drawing Room of Grand Union Hotel, in detail</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2663.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2672">
+     <did>
+      <unitid>STA-2672</unitid>
+      <unittitle>Entrance to the Hotel, by Purviance, W. T. (William T.)</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2671.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2675">
+     <did>
+      <unitid>STA-2675</unitid>
+      <unittitle>Floral Parade, Saratoga, N.Y</unittitle>
+      <unitdate normal="1900/1910">c. 1905</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2674.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2676">
+     <did>
+      <unitid>STA-2676</unitid>
+      <unittitle>Front Piazza, Congress Hall, Saratoga, N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2675.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2677">
+     <did>
+      <unitid>STA-2677</unitid>
+      <unittitle>Front Piazza, Congress Hall, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2676.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2678">
+     <did>
+      <unitid>STA-2678</unitid>
+      <unittitle>Front Piazza, Congress Hall, looking north, Saratoga</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2677.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2679">
+     <did>
+      <unitid>STA-2679</unitid>
+      <unittitle>Front Piazza, Grand Hotel, Saratoga, N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2678.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2680">
+     <did>
+      <unitid>STA-2680</unitid>
+      <unittitle>Front Piazza, Grand Union Hotel, Saratoga, N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2679.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2681">
+     <did>
+      <unitid>STA-2681</unitid>
+      <unittitle>Front Piazza</unittitle>
+      <unitdate normal="1863/1873">c. 1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2680.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2682">
+     <did>
+      <unitid>STA-2682</unitid>
+      <unittitle>Front Piazza, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1863/1873">c. 1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2681.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2683">
+     <did>
+      <unitid>STA-2683</unitid>
+      <unittitle>Front Piazza, of Grand Hotel</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2682.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2684">
+     <did>
+      <unitid>STA-2684</unitid>
+      <unittitle>Front Piazza of Congress Hall, Saratoga, N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2683.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2685">
+     <did>
+      <unitid>STA-2685</unitid>
+      <unittitle>Front view of the Hotel, Saratoga, N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2684.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2695">
+     <did>
+      <unitid>STA-2695</unitid>
+      <unittitle>Grand Central Hotel, Saratoga, N.Y</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2694.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2696">
+     <did>
+      <unitid>STA-2696</unitid>
+      <unittitle>Grand Hotel, Saratoga, N.Y, by Woodward, C. W. (Charles Warren)</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2695.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2697">
+     <did>
+      <unitid>STA-2697</unitid>
+      <unittitle>Grand Hotel, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2696.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2698">
+     <did>
+      <unitid>STA-2698</unitid>
+      <unittitle>Grand Hotel, by Saratoga Photograph Co.</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2697.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2699">
+     <did>
+      <unitid>STA-2699</unitid>
+      <unittitle>Grand Hotel, by Woodward, C. W. (Charles Warren)</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2698.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2700">
+     <did>
+      <unitid>STA-2700</unitid>
+      <unittitle>Grand Stand, Race Course, by Union View and Copying Co</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2699.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-2701">
+     <did>
+      <unitid>STA-2701</unitid>
+      <unittitle>Grand Stand, Race Course</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2700.jpg"/>
      </did>
     </c>
    </c>

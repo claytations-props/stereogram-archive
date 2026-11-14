@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2619.json",
+ "name": "Congress Park, Sartoga Springs, N.Y, by H.C. White Co. 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2618.jpg",
+ "identifier": "STA-2619",
+ "creator": {
+  "@type": "Person",
+  "name": "H.C. White Co."
+ },
+ "dateCreated": "1858",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Congress_Park,_Sartoga_Springs,_N.Y,_by_H.C._White_Co._2.jpg"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2644.json",
+ "name": "Congress Spring & Park, by Deloss Barnum",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2643.jpg",
+ "identifier": "STA-2644",
+ "creator": {
+  "@type": "Person",
+  "name": "Deloss Barnum"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Congress_Spring_%26_Park,_by_Deloss_Barnum.jpg"
+}

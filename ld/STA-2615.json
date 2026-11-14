@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2615.json",
+ "name": "Congress Park, Saratoga, N.Y, by New York View Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2614.jpg",
+ "identifier": "STA-2615",
+ "creator": {
+  "@type": "Person",
+  "name": "New York View Co."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Congress_Park,_Saratoga,_N.Y,_by_New_York_View_Co..jpg"
+}

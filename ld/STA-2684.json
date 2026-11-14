@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2684.json",
+ "name": "Front Piazza of Congress Hall, Saratoga, N.Y",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2683.jpg",
+ "identifier": "STA-2684",
+ "dateCreated": "1869",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Front_Piazza_of_Congress_Hall,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

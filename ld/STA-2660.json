@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2660.json",
+ "name": "Division Street front, U.S. Hotel, Saratoga, N.Y",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2659.jpg",
+ "identifier": "STA-2660",
+ "dateCreated": "1869",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Division_Street_front,_U.S._Hotel,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

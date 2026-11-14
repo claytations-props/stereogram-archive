@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2602.json",
+ "name": "Congress Hall, Saratoga, N.Y, by Union View Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2601.jpg",
+ "identifier": "STA-2602",
+ "creator": {
+  "@type": "Person",
+  "name": "Union View Co."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Congress_Hall,_Saratoga,_N.Y,_by_Union_View_Co..jpg"
+}

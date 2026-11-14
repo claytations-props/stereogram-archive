@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2652.json",
+ "name": "Court, United States Hotel, Saratoga",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2651.jpg",
+ "identifier": "STA-2652",
+ "dateCreated": "1874",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Court,_United_States_Hotel,_Saratoga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

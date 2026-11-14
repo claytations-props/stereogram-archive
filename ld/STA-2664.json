@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2664.json",
+ "name": "Drawing Room of Grand Union Hotel, in detail",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2663.jpg",
+ "identifier": "STA-2664",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Drawing_Room_of_Grand_Union_Hotel,_in_detail,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}
