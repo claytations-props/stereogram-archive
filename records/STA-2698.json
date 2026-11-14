@@ -1,0 +1,69 @@
+{
+ "title": "Grand Hotel, by Saratoga Photograph Co.",
+ "place": "Saratoga Springs, New York",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Grand_Hotel%2C_by_Saratoga_Photograph_Co..jpg/1920px-Grand_Hotel%2C_by_Saratoga_Photograph_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/85/Grand_Hotel%2C_by_Saratoga_Photograph_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Grand_Hotel,_by_Saratoga_Photograph_Co..jpg",
+ "license": "Public domain",
+ "w": 2651,
+ "h": 1330,
+ "id": "STA-2698",
+ "rect": "rect/2697.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.11,
+ "rot": 0.0,
+ "range": 0.32,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.1687,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Grand_Hotel%2C_by_Saratoga_Photograph_Co..jpg/1920px-Grand_Hotel%2C_by_Saratoga_Photograph_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.1687,
+  "L": [
+   0.447396,
+   0.0,
+   0.04401,
+   0.0,
+   0.76324,
+   0.197819
+  ],
+  "R": [
+   0.452153,
+   0.00683,
+   0.506146,
+   -0.01707,
+   0.768159,
+   0.194937
+  ],
+  "g": [
+   0.9646,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.0° of rotation. Depth measured gentle (0.32% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Saratoga Photograph Co.",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10080284,
+ "source_revision_id": null,
+ "source_sha1": "a4cc84adde523accf27b7cf8630358fa5d5fd596"
+}
