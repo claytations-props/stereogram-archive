@@ -1,0 +1,69 @@
+{
+ "title": "Congress Hall, Saratoga, N.Y",
+ "place": "Saratoga Springs, New York",
+ "year": "c. 1875",
+ "sy": 1875,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Congress_Hall%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Congress_Hall%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/23/Congress_Hall%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Congress_Hall,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2649,
+ "h": 1351,
+ "id": "STA-2603",
+ "rect": "rect/2602.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 1.1,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8188,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Congress_Hall%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Congress_Hall%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8188,
+  "L": [
+   0.353125,
+   0.0,
+   0.126823,
+   0.0,
+   0.845761,
+   0.02809
+  ],
+  "R": [
+   0.352216,
+   -0.005535,
+   0.512558,
+   -0.003056,
+   0.846483,
+   0.031781
+  ],
+  "g": [
+   0.9868,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (1.1% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1875~",
+ "date_start": 1870,
+ "date_end": 1880,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10070644,
+ "source_revision_id": null,
+ "source_sha1": "70226d7c9e4321480363e0951439182429dd9387"
+}
