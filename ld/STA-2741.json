@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2741.json",
+ "name": "Grand Union Hotel Parlor, Saratoga, N.Y, by Union View Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2740.jpg",
+ "identifier": "STA-2741",
+ "creator": {
+  "@type": "Person",
+  "name": "Union View Co."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Grand_Union_Hotel_Parlor,_Saratoga,_N.Y,_by_Union_View_Co..jpg"
+}

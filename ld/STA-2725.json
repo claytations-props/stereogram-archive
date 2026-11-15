@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2725.json",
+ "name": "Geyser or Sprouting Spring, by P. H. McKernon",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2724.jpg",
+ "identifier": "STA-2725",
+ "creator": {
+  "@type": "Person",
+  "name": "P. H. McKernon"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Geyser_or_Sprouting_Spring,_by_P._H._McKernon.jpg"
+}

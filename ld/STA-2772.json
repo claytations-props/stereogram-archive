@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2772.json",
+ "name": "Group at Congress Spring, Saratoga Springs, N.Y, by S. Beer",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2771.jpg",
+ "identifier": "STA-2772",
+ "creator": {
+  "@type": "Person",
+  "name": "S. Beer"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Group_at_Congress_Spring,_Saratoga_Springs,_N.Y,_by_S._Beer.jpg"
+}

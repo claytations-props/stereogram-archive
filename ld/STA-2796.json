@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2796.json",
+ "name": "High Rock Spring, by Brown, H. G., fl. 189-",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2795.jpg",
+ "identifier": "STA-2796",
+ "creator": {
+  "@type": "Person",
+  "name": "Brown, H. G., fl. 189-"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:High_Rock_Spring,_by_Brown,_H._G.,_fl._189-.jpg"
+}

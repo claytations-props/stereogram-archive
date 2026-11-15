@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2778.json",
+ "name": "Group posing in front of the Hotel, by Alden, A. E., 1837-",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2777.jpg",
+ "identifier": "STA-2778",
+ "creator": {
+  "@type": "Person",
+  "name": "Alden, A. E."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Group_posing_in_front_of_the_Hotel,_by_Alden,_A._E.,_1837-.jpg"
+}

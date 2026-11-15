@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2727.json",
+ "name": "Grand Union Dining Hall, Saratoga, by Bierstadt, Charles, 1819-1903",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2726.jpg",
+ "identifier": "STA-2727",
+ "creator": {
+  "@type": "Person",
+  "name": "Bierstadt, Charles"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Grand_Union_Dining_Hall,_Saratoga,_by_Bierstadt,_Charles,_1819-1903.jpg"
+}
