@@ -495,12 +495,22 @@ let shuffleRank=null;
 let currentList=[];
 let shown=48,lastSig='',renderedShown=0,pendingAppend=false;
 function cardEl(d,i){
- const c=document.createElement("div");c.className="card";
+ const c=document.createElement("div");c.className="card";c.dataset.id=d.id;
  c.innerHTML=`<div class="ph"><img loading="lazy" decoding="async" src="${thumb(d,500)}" data-full="${d.img}" ${FB} alt="${d.title} stereograph"></div><div class="cb"><div class="acc">${d.id} · ${d.coll}</div><h3>${d.title}</h3><div class="meta">${d.place} &middot; ${d.year}</div><div class="tags"><span class="tline">${d.cats.map(t=>CATLABEL[t]||t).join(" · ")} · ${d.depth} depth</span><button class="fav ${favs.has(d.id)?"on":""}" title="Save to reading list">${favs.has(d.id)?"♥":"♡"}</button></div></div>`;
  const fb=c.querySelector(".fav");
  fb.setAttribute("aria-pressed",favs.has(d.id)?"true":"false");
  fb.setAttribute("aria-label",(favs.has(d.id)?"Remove ":"Save ")+d.title+(favs.has(d.id)?" from":" to")+" the reading list");
- fb.onclick=e=>{e.stopPropagation();toggleFav(d.id);render()};
+ /* Round 14: saving from the grid rebuilds it, which destroyed the
+    heart button focus was on — keyboard focus fell to the top of the
+    page and the next Tab restarted at the first card. A keyboard
+    toggle puts focus back on the same card's heart, or on the card
+    that slid into its place when the card left the list (unsaving
+    from the Reading List), or on the Reading List chip when the list
+    is now empty. Mouse toggles leave focus alone. The lookup stays
+    inside the current view's own container: the Timeline bands keep
+    their cards in the DOM while hidden, so an unscoped query could
+    hand focus to a card the visitor cannot see. */
+ fb.onclick=e=>{e.stopPropagation();const viaKeyboard=e.detail===0;toggleFav(d.id);render();if(viaKeyboard){const scope=document.getElementById(state.view==="timeline"?"tlm":"grid");const cards=[...(scope?scope.querySelectorAll(".card"):[])];const same=cards.find(x=>x.dataset.id===d.id);const target=same||cards[Math.min(i,cards.length-1)];const btn=target&&target.querySelector(".fav");if(btn)btn.focus();else{const chip=document.querySelector('.chip[data-k="favs"]');if(chip)chip.focus();}}};
  c.tabIndex=0;c.setAttribute("role","button");c.onkeydown=e=>{if(e.target!==c)return;if(e.key==="Enter"||e.key===" "){e.preventDefault();openViewer(i)}};
  c.onclick=()=>openViewer(i);
  return c;
