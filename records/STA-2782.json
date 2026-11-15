@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10080078,
  "source_revision_id": null,
- "source_sha1": "ff7b3ceaade635dcb00bc80939cb46c51a7a4bbb"
+ "source_sha1": "ff7b3ceaade635dcb00bc80939cb46c51a7a4bbb",
+ "tags": [
+  "crowd",
+  "geyser"
+ ]
 }
