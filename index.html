@@ -129,6 +129,13 @@ footer a{color:var(--brass)}
 .tlband h2::after{content:"";flex:1;border-top:1px solid var(--line)}
 .tlband .n{font-family:inherit;font-size:13px;color:var(--dim);letter-spacing:.05em}
 .shelf{display:flex;gap:12px;overflow-x:auto;padding-bottom:8px}
+/* Round 14: the shelf scrolls sideways but had no control of its own —
+   only a thin scrollbar or a wheel gesture moved it, and dragging a
+   card did nothing. Two buttons ride its edges, reusing the viewer's
+   round step buttons, and read disabled at each end. */
+.shelfbox{position:relative}
+#shelfPrev{left:8px}
+#shelfNext{right:8px}
 .sitem{min-width:158px;max-width:158px;cursor:pointer}
 .sitem img{width:100%;aspect-ratio:2/1;object-fit:cover;border-radius:3px;border:1px solid var(--line);display:block}
 .sitem .sid{font-size:10.5px;letter-spacing:.18em;color:var(--brass);margin-top:6px}
@@ -264,7 +271,7 @@ canvas#ana.show{display:block}
   <p class="aidnote">Holdings are arranged by provenance (the collection each view came from) and by series (its subject). Choose a line in the finding aid to pull just those items.</p>
 </section>
 
-<section class="shelfwrap"><h2 class="shelfhead">Recent Accessions</h2><div class="shelf" id="shelf"></div></section>
+<section class="shelfwrap"><h2 class="shelfhead">Recent Accessions</h2><div class="shelfbox"><div class="shelf" id="shelf"></div><button class="navbtn" id="shelfPrev" aria-label="Scroll recent accessions back">‹</button><button class="navbtn" id="shelfNext" aria-label="Scroll recent accessions forward">›</button></div></section>
 
 <main>
 <div class="count" id="count"></div>
@@ -358,6 +365,7 @@ function buildShelf(){
     clickable but unreachable by keyboard, while grid cards already
     took Enter/Space. They get the same keyboard behavior here. */
  sh.querySelectorAll('.sitem').forEach(el=>{el.onclick=()=>openViewer(+el.dataset.i,true);el.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();openViewer(+el.dataset.i,true)}}});
+ syncShelfBtns();
 }
 /* One-time migration (Phase 0): reading-list favorites were keyed by title;
    they are now keyed by STA ID. Stored titles become their item's ID, values
@@ -612,6 +620,16 @@ $("#sort").onchange=e=>{state.sort=e.target.value;shuffleRank=null;render()};
    button beside the sort is the re-shuffle control: it draws a fresh
    order without making the visitor switch sorts away and back. */
 $("#reshuffle").onclick=()=>{shuffleRank=null;render()};
+/* Round 14: the Recent Accessions shelf is a sideways scroller with no
+   control of its own — the only ways across were the thin scrollbar
+   or a wheel gesture, and dragging a card did nothing. The edge
+   buttons step it one tile at a time and read disabled at each end,
+   like the Parlor's flat wall buttons. */
+function syncShelfBtns(){const sh=document.getElementById("shelf");if(!sh)return;const p=document.getElementById("shelfPrev"),n=document.getElementById("shelfNext");if(!p||!n)return;p.disabled=sh.scrollLeft<=0;n.disabled=sh.scrollLeft+sh.clientWidth>=sh.scrollWidth-2;}
+$("#shelfPrev").onclick=()=>{document.getElementById("shelf").scrollBy({left:-170,behavior:"smooth"});};
+$("#shelfNext").onclick=()=>{document.getElementById("shelf").scrollBy({left:170,behavior:"smooth"});};
+document.getElementById("shelf").addEventListener("scroll",syncShelfBtns);
+addEventListener("resize",syncShelfBtns);
 $("#howBtn").onclick=()=>{const h=$("#how");h.style.display=h.style.display==="none"?"block":"none";h.scrollIntoView({behavior:"smooth"})};
 $("#surprise").onclick=()=>{const list=filtered();if(!list.length)return;currentList=list;openViewer(Math.floor(Math.random()*list.length))};
 
