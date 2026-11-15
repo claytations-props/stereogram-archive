@@ -1066,8 +1066,13 @@ let liveTex=[];
    target queued while a texture load is in flight, so steps taken
    during a change coalesce onto the final card. */
 let projValue=1,paintedIdx=-1,queuedPos=null;
+/* Round 14: showPos's same-card path refreshed the caption but not
+   the status line, so clearing a search on the same card left
+   "Browsing Search: ..." on screen after the set had gone back to
+   All cards. The refresh funnel now covers the status too, so both
+   showPos paths leave it current. */
 function refreshContext(){
-  if(cur>=0&&DATA[cur]){drawCaption(DATA[cur]);updateWallHi();persist();}
+  if(cur>=0&&DATA[cur]){drawCaption(DATA[cur]);updateWallHi();persist();updateStatus();}
 }
 function showPos(pos){
   if(!curSet||!curSet.indices.length)return;
