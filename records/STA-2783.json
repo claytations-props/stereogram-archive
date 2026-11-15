@@ -1,0 +1,69 @@
+{
+ "title": "High Rock Spring, Sarasota, by Deloss Barnum",
+ "place": "Saratoga Springs, New York",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/High_Rock_Spring%2C_Sarasota%2C_by_Deloss_Barnum.jpg/1920px-High_Rock_Spring%2C_Sarasota%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/9f/High_Rock_Spring%2C_Sarasota%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:High_Rock_Spring,_Sarasota,_by_Deloss_Barnum.jpg",
+ "license": "Public domain",
+ "w": 2651,
+ "h": 1360,
+ "id": "STA-2783",
+ "rect": "rect/2782.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.13,
+ "rot": 0.02,
+ "range": 5.39,
+ "f": 0.55,
+ "depth": "Deep",
+ "va": 1.0813,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/High_Rock_Spring%2C_Sarasota%2C_by_Deloss_Barnum.jpg/1920px-High_Rock_Spring%2C_Sarasota%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0813,
+  "L": [
+   0.325521,
+   0.0,
+   0.107031,
+   0.0,
+   0.586802,
+   0.215736
+  ],
+  "R": [
+   0.329342,
+   -0.010298,
+   0.514654,
+   0.014625,
+   0.593002,
+   0.178171
+  ],
+  "g": [
+   1.0,
+   0.9263
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.02° of rotation. Depth measured deep (5.39% of frame width); hung in the VR Parlor at 55% size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Deloss Barnum",
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10080085,
+ "source_revision_id": null,
+ "source_sha1": "fd82c4702fe1eca7537e0d3bb063c06abf2b453c"
+}

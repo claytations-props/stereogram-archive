@@ -1,0 +1,69 @@
+{
+ "title": "High Rock Spring, by Saratoga Photograph Co.",
+ "place": "Saratoga Springs, New York",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/High_Rock_Spring%2C_by_Saratoga_Photograph_Co..jpg/1920px-High_Rock_Spring%2C_by_Saratoga_Photograph_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/e1/High_Rock_Spring%2C_by_Saratoga_Photograph_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:High_Rock_Spring,_by_Saratoga_Photograph_Co..jpg",
+ "license": "Public domain",
+ "w": 2657,
+ "h": 1342,
+ "id": "STA-2797",
+ "rect": "rect/2796.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.12,
+ "rot": 0.05,
+ "range": 1.07,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8543,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/High_Rock_Spring%2C_by_Saratoga_Photograph_Co..jpg/1920px-High_Rock_Spring%2C_by_Saratoga_Photograph_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8543,
+  "L": [
+   0.329688,
+   0.0,
+   0.155469,
+   0.0,
+   0.763918,
+   0.184021
+  ],
+  "R": [
+   0.329537,
+   -0.007272,
+   0.588228,
+   0.003448,
+   0.764592,
+   0.195383
+  ],
+  "g": [
+   1.0,
+   0.9711
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.05° of rotation. Depth measured gentle (1.07% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Saratoga Photograph Co.",
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10080386,
+ "source_revision_id": null,
+ "source_sha1": "4525dcaf8750c7c260d7577ff132876aa3361b54"
+}
