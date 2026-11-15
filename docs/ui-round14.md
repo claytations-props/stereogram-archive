@@ -241,8 +241,25 @@ which supersedes the round-12 Parlor harness):
   refreshContext, and refreshContext covers the status line. Both
   vr.html script blocks pass node --check with no syntax errors.
 
-Live verification: pending push — to be filled in after the live walk
-below; the harness results above are the verification so far.
+Live verification: after push, curl confirmed the new code served
+(index.html carries the shelf buttons and the focus restore; vr.html
+carries the status refresh in refreshContext; browse.json serves
+2,805 items; both pages 200). A live browser walk (03:03–03:08 CST)
+then confirmed all three behaviors: Tabbing to the STA-0008 heart
+and pressing Enter saved it with focus staying on the heart (gold
+ring visible, no jump to the top of the grid), the next Tab moved to
+STA-0009, and unsaving it the same way kept focus on the heart again
+with the chip back at "♥ Reading List · 0"; the Recent Accessions
+shelf shows ‹ › buttons at its edges, each click stepping one tile
+(STA-2804, then STA-2803, then the last cards with STA-2796 at the
+edge), with › disabled at the end and ‹ disabled back at the start;
+in the flat Parlor a "Niagara" Find followed by clearing the search
+returned to All cards with the status line reading "Browsing All
+cards", not the stale search text. The walk noted the Parlor landed
+on STA-0001 after clearing rather than the pre-search card: that is
+the specified behavior (clear returns to All cards on the card on
+display, and the search had opened STA-0001 as its first match), not
+a defect. Both pages load cleanly with no errors.
 
 What only a headset can judge: whether the in-room control row still
 reads clearly in VR now that it shows only inside a session, and
