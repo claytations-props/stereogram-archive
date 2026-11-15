@@ -1,0 +1,69 @@
+{
+ "title": "Grand Union Hotel, by Deloss Barnum",
+ "place": "Saratoga Springs, New York",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Grand_Union_Hotel%2C_by_Deloss_Barnum.jpg/1920px-Grand_Union_Hotel%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Grand_Union_Hotel%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Grand_Union_Hotel,_by_Deloss_Barnum.jpg",
+ "license": "Public domain",
+ "w": 2621,
+ "h": 1288,
+ "id": "STA-2729",
+ "rect": "rect/2728.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.15,
+ "rot": 0.0,
+ "range": 0.17,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.3862,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Grand_Union_Hotel%2C_by_Deloss_Barnum.jpg/1920px-Grand_Union_Hotel%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.3862,
+  "L": [
+   0.377604,
+   0.0,
+   0.105469,
+   0.0,
+   0.554025,
+   0.408369
+  ],
+  "R": [
+   0.377828,
+   -0.000572,
+   0.525633,
+   0.002844,
+   0.555357,
+   0.41258
+  ],
+  "g": [
+   0.952,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured gentle (0.17% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Deloss Barnum",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10080151,
+ "source_revision_id": null,
+ "source_sha1": "5354e15a883397dfa7ae5bca47678ad78b89d822"
+}

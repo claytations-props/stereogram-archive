@@ -1,0 +1,69 @@
+{
+ "title": "Grand Union Garden Party",
+ "place": "Saratoga Springs, New York",
+ "year": "1869",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Grand_Union_Garden_Party%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Grand_Union_Garden_Party%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Grand_Union_Garden_Party%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Grand_Union_Garden_Party,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2628,
+ "h": 1326,
+ "id": "STA-2728",
+ "rect": "rect/2727.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.0,
+ "range": 1.48,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9689,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Grand_Union_Garden_Party%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Grand_Union_Garden_Party%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9689,
+  "L": [
+   0.372917,
+   0.0,
+   0.108073,
+   0.0,
+   0.762642,
+   0.206914
+  ],
+  "R": [
+   0.370508,
+   -0.010017,
+   0.538376,
+   0.00752,
+   0.761548,
+   0.192138
+  ],
+  "g": [
+   0.9086,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (1.48% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869",
+ "date_start": 1869,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10079298,
+ "source_revision_id": null,
+ "source_sha1": "a97563cf1e4b452e3552ac130f80d8be4e6125c6"
+}
