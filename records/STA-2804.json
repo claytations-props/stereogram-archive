@@ -1,0 +1,69 @@
+{
+ "title": "Indian Encampment, by Deloss Barnum",
+ "place": "Saratoga Springs, New York",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Indian_Encampment%2C_by_Deloss_Barnum.jpg/1920px-Indian_Encampment%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/78/Indian_Encampment%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Indian_Encampment,_by_Deloss_Barnum.jpg",
+ "license": "Public domain",
+ "w": 2657,
+ "h": 1306,
+ "id": "STA-2804",
+ "rect": "rect/2803.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.1,
+ "rot": 0.0,
+ "range": 0.84,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0927,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Indian_Encampment%2C_by_Deloss_Barnum.jpg/1920px-Indian_Encampment%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0927,
+  "L": [
+   0.374479,
+   0.0,
+   0.11224,
+   0.0,
+   0.697034,
+   0.050318
+  ],
+  "R": [
+   0.374734,
+   0.007356,
+   0.521274,
+   -0.021466,
+   0.702461,
+   0.061408
+  ],
+  "g": [
+   1.0,
+   0.9746
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (0.84% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Deloss Barnum",
+ "creator_dates": null,
+ "facets": [
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10080140,
+ "source_revision_id": null,
+ "source_sha1": "a960da8f3db30dea84d6f0585174cfa6d556d114"
+}

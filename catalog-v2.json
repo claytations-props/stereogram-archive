@@ -205867,5 +205867,350 @@
   "source_page_id": 10070519,
   "source_revision_id": null,
   "source_sha1": "c5abc64d020809782de99c6bc9f89f56fd331714"
+ },
+ {
+  "title": "High Rock, by Saratoga Photograph Co.",
+  "place": "Saratoga Springs, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/High_Rock%2C_by_Saratoga_Photograph_Co..jpg/1920px-High_Rock%2C_by_Saratoga_Photograph_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d7/High_Rock%2C_by_Saratoga_Photograph_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:High_Rock,_by_Saratoga_Photograph_Co..jpg",
+  "license": "Public domain",
+  "w": 2639,
+  "h": 1324,
+  "id": "STA-2801",
+  "rect": "rect/2800.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.04,
+  "range": 2.34,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 1.203,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/High_Rock%2C_by_Saratoga_Photograph_Co..jpg/1920px-High_Rock%2C_by_Saratoga_Photograph_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.203,
+   "L": [
+    0.416667,
+    0.0,
+    0.076823,
+    0.0,
+    0.69055,
+    0.182243
+   ],
+   "R": [
+    0.414385,
+    -0.006737,
+    0.513123,
+    0.005182,
+    0.692394,
+    0.189603
+   ],
+   "g": [
+    0.97,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.04° of rotation. Depth measured deep (2.34% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Saratoga Photograph Co.",
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10080390,
+  "source_revision_id": null,
+  "source_sha1": "f6036206cca5f2c90e2a264cbd64d540d65f78c0"
+ },
+ {
+  "title": "High Rock Spring. Saratoga, N.Y",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/High_Rock_Spring._Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-High_Rock_Spring._Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/60/High_Rock_Spring._Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:High_Rock_Spring._Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2675,
+  "h": 1366,
+  "id": "STA-2802",
+  "rect": "rect/2801.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.0,
+  "range": 1.38,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7496,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/High_Rock_Spring._Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-High_Rock_Spring._Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7496,
+   "L": [
+    0.241667,
+    0.0,
+    0.213802,
+    0.0,
+    0.631633,
+    0.32602
+   ],
+   "R": [
+    0.242802,
+    -0.012241,
+    0.620115,
+    0.005794,
+    0.631345,
+    0.313438
+   ],
+   "g": [
+    0.88,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.0° of rotation. Depth measured gentle (1.38% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077950,
+  "source_revision_id": null,
+  "source_sha1": "63759b4600fb761c13e0001d0346a0bab0f0b996"
+ },
+ {
+  "title": "Indian Encampment, Saratoga, by Deloss Barnum",
+  "place": "Saratoga Springs, New York",
+  "year": "1863",
+  "sy": 1863,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Indian_Encampment%2C_Saratoga%2C_by_Deloss_Barnum.jpg/1920px-Indian_Encampment%2C_Saratoga%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/17/Indian_Encampment%2C_Saratoga%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Indian_Encampment,_Saratoga,_by_Deloss_Barnum.jpg",
+  "license": "Public domain",
+  "w": 2639,
+  "h": 1342,
+  "id": "STA-2803",
+  "rect": "rect/2802.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.01,
+  "range": 1.25,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9581,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Indian_Encampment%2C_Saratoga%2C_by_Deloss_Barnum.jpg/1920px-Indian_Encampment%2C_Saratoga%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9581,
+   "L": [
+    0.38125,
+    0.0,
+    0.110677,
+    0.0,
+    0.782787,
+    0.054816
+   ],
+   "R": [
+    0.382661,
+    -0.005481,
+    0.527862,
+    0.003803,
+    0.79012,
+    0.032914
+   ],
+   "g": [
+    1.0,
+    0.9289
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured gentle (1.25% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Deloss Barnum",
+  "creator_dates": null,
+  "facets": [
+   "people"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1863",
+  "date_start": 1863,
+  "date_end": 1863,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10080133,
+  "source_revision_id": null,
+  "source_sha1": "ca02593cd3e50ba8be0af70f1576d784e7214075"
+ },
+ {
+  "title": "Indian Encampment, by Deloss Barnum",
+  "place": "Saratoga Springs, New York",
+  "year": "1863",
+  "sy": 1863,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Indian_Encampment%2C_by_Deloss_Barnum.jpg/1920px-Indian_Encampment%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/78/Indian_Encampment%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Indian_Encampment,_by_Deloss_Barnum.jpg",
+  "license": "Public domain",
+  "w": 2657,
+  "h": 1306,
+  "id": "STA-2804",
+  "rect": "rect/2803.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.0,
+  "range": 0.84,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0927,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Indian_Encampment%2C_by_Deloss_Barnum.jpg/1920px-Indian_Encampment%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0927,
+   "L": [
+    0.374479,
+    0.0,
+    0.11224,
+    0.0,
+    0.697034,
+    0.050318
+   ],
+   "R": [
+    0.374734,
+    0.007356,
+    0.521274,
+    -0.021466,
+    0.702461,
+    0.061408
+   ],
+   "g": [
+    1.0,
+    0.9746
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (0.84% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Deloss Barnum",
+  "creator_dates": null,
+  "facets": [
+   "people"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1863",
+  "date_start": 1863,
+  "date_end": 1863,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10080140,
+  "source_revision_id": null,
+  "source_sha1": "a960da8f3db30dea84d6f0585174cfa6d556d114"
+ },
+ {
+  "title": "Indian Grounds, Saratoga Springs, N.Y, by Soule, John P., 1827-1904 2",
+  "place": "Saratoga Springs, New York",
+  "year": "Undated",
+  "sy": 1900,
+  "era": "undated",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Indian_Grounds%2C_Saratoga_Springs%2C_N.Y%2C_by_Soule%2C_John_P.%2C_1827-1904_2.jpg/1920px-Indian_Grounds%2C_Saratoga_Springs%2C_N.Y%2C_by_Soule%2C_John_P.%2C_1827-1904_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Indian_Grounds%2C_Saratoga_Springs%2C_N.Y%2C_by_Soule%2C_John_P.%2C_1827-1904_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Indian_Grounds,_Saratoga_Springs,_N.Y,_by_Soule,_John_P.,_1827-1904_2.jpg",
+  "license": "Public domain",
+  "w": 2595,
+  "h": 1255,
+  "id": "STA-2805",
+  "rect": "rect/2804.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 1.67,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.9117,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Indian_Grounds%2C_Saratoga_Springs%2C_N.Y%2C_by_Soule%2C_John_P.%2C_1827-1904_2.jpg/1920px-Indian_Grounds%2C_Saratoga_Springs%2C_N.Y%2C_by_Soule%2C_John_P.%2C_1827-1904_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9117,
+   "L": [
+    0.397917,
+    0.0,
+    0.07526,
+    0.0,
+    0.902045,
+    0.05113
+   ],
+   "R": [
+    0.406698,
+    -0.003998,
+    0.509157,
+    0.002459,
+    0.925074,
+    0.031481
+   ],
+   "g": [
+    0.9325,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured moderate (1.67% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Soule, John P.",
+  "creator_dates": "1827-1904",
+  "facets": [
+   "people"
+  ],
+  "publisher_series": null,
+  "date_edtf": null,
+  "date_start": null,
+  "date_end": null,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10071643,
+  "source_revision_id": null,
+  "source_sha1": "61951f8fa990e937966ca0b58d6ee28244e0f3aa"
  }
 ]
