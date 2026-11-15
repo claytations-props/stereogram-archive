@@ -199103,5 +199103,1661 @@
    "lake",
    "trees"
   ]
+ },
+ {
+  "title": "Geyser Lake, by Woodward, C. W. (Charles Warren)",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1880",
+  "sy": 1880,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Geyser_Lake%2C_by_Woodward%2C_C._W._%28Charles_Warren%29.jpg/1920px-Geyser_Lake%2C_by_Woodward%2C_C._W._%28Charles_Warren%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Geyser_Lake%2C_by_Woodward%2C_C._W._%28Charles_Warren%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Lake,_by_Woodward,_C._W._(Charles_Warren).jpg",
+  "license": "Public domain",
+  "w": 2634,
+  "h": 1324,
+  "id": "STA-2703",
+  "rect": "rect/2702.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 5.13,
+  "f": 0.76,
+  "depth": "Deep",
+  "va": 0.8051,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Geyser_Lake%2C_by_Woodward%2C_C._W._%28Charles_Warren%29.jpg/1920px-Geyser_Lake%2C_by_Woodward%2C_C._W._%28Charles_Warren%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8051,
+   "L": [
+    0.342187,
+    0.0,
+    0.11901,
+    0.0,
+    0.845596,
+    0.04715
+   ],
+   "R": [
+    0.343404,
+    -0.002531,
+    0.537667,
+    0.004229,
+    0.845654,
+    0.028125
+   ],
+   "g": [
+    1.0,
+    0.9766
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured deep (5.13% of frame width); hung in the VR Parlor at 76% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Woodward, C. W. (Charles Warren)",
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1880~",
+  "date_start": 1875,
+  "date_end": 1885,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077041,
+  "source_revision_id": null,
+  "source_sha1": "43ec0918fe899bc05520e8ba5a6a96d3c87cb51b"
+ },
+ {
+  "title": "Geyser Lake",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Geyser_Lake%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Geyser_Lake%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Geyser_Lake%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Lake,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1327,
+  "id": "STA-2704",
+  "rect": "rect/2703.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 0.48,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9537,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Geyser_Lake%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Geyser_Lake%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9537,
+   "L": [
+    0.385937,
+    0.0,
+    0.090885,
+    0.0,
+    0.801858,
+    0.065531
+   ],
+   "R": [
+    0.385037,
+    -0.002709,
+    0.521248,
+    -0.004279,
+    0.79929,
+    0.079707
+   ],
+   "g": [
+    0.966,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (0.48% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10070509,
+  "source_revision_id": null,
+  "source_sha1": "72d7378375440b39bc761c33281b7cc043c9d72b"
+ },
+ {
+  "title": "Geyser Lake Reflection, by Saratoga Photograph Co.",
+  "place": "Saratoga Springs, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Geyser_Lake_Reflection%2C_by_Saratoga_Photograph_Co..jpg/1920px-Geyser_Lake_Reflection%2C_by_Saratoga_Photograph_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Geyser_Lake_Reflection%2C_by_Saratoga_Photograph_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Lake_Reflection,_by_Saratoga_Photograph_Co..jpg",
+  "license": "Public domain",
+  "w": 2651,
+  "h": 1330,
+  "id": "STA-2705",
+  "rect": "rect/2704.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.02,
+  "range": 2.39,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.7299,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Geyser_Lake_Reflection%2C_by_Saratoga_Photograph_Co..jpg/1920px-Geyser_Lake_Reflection%2C_by_Saratoga_Photograph_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7299,
+   "L": [
+    0.336458,
+    0.0,
+    0.148698,
+    0.0,
+    0.919003,
+    0.035826
+   ],
+   "R": [
+    0.335944,
+    -0.00688,
+    0.573492,
+    0.009674,
+    0.918446,
+    0.032678
+   ],
+   "g": [
+    0.9989,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.02° of rotation. Depth measured deep (2.39% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Saratoga Photograph Co.",
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10080382,
+  "source_revision_id": null,
+  "source_sha1": "cc2655eaa96e31f1c5b09faadce3915dfab0c724"
+ },
+ {
+  "title": "Geyser Spring, Saratoga, N.Y, by Bierstadt, Charles, 1819-1903",
+  "place": "Saratoga Springs, New York",
+  "year": "Undated",
+  "sy": 1900,
+  "era": "undated",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_by_Bierstadt%2C_Charles%2C_1819-1903.jpg/1920px-Geyser_Spring%2C_Saratoga%2C_N.Y%2C_by_Bierstadt%2C_Charles%2C_1819-1903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_by_Bierstadt%2C_Charles%2C_1819-1903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_Saratoga,_N.Y,_by_Bierstadt,_Charles,_1819-1903.jpg",
+  "license": "Public domain",
+  "w": 2607,
+  "h": 1333,
+  "id": "STA-2706",
+  "rect": "rect/2705.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 3.11,
+  "f": 0.86,
+  "depth": "Deep",
+  "va": 1.2027,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_by_Bierstadt%2C_Charles%2C_1819-1903.jpg/1920px-Geyser_Spring%2C_Saratoga%2C_N.Y%2C_by_Bierstadt%2C_Charles%2C_1819-1903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2027,
+   "L": [
+    0.373958,
+    0.0,
+    0.065885,
+    0.0,
+    0.607943,
+    0.147149
+   ],
+   "R": [
+    0.373354,
+    0.000654,
+    0.510169,
+    -0.00312,
+    0.609744,
+    0.156011
+   ],
+   "g": [
+    0.8805,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured deep (3.11% of frame width); hung in the VR Parlor at 86% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Bierstadt, Charles",
+  "creator_dates": "1819-1903",
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": null,
+  "date_start": null,
+  "date_end": null,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10071375,
+  "source_revision_id": null,
+  "source_sha1": "bd9672a157d0f4392512e9f676fcac826b3f266c"
+ },
+ {
+  "title": "Geyser Spring, Saratoga, N.Y",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/10/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1348,
+  "id": "STA-2707",
+  "rect": "rect/2706.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.02,
+  "range": 1.6,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.1677,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1677,
+   "L": [
+    0.377083,
+    0.0,
+    0.088802,
+    0.0,
+    0.63786,
+    0.210391
+   ],
+   "R": [
+    0.377364,
+    0.000625,
+    0.505867,
+    -0.00131,
+    0.638541,
+    0.198284
+   ],
+   "g": [
+    0.8434,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.02° of rotation. Depth measured moderate (1.6% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077435,
+  "source_revision_id": null,
+  "source_sha1": "0789bca4c651d35a2a02453c1c59f89b3572c9fb"
+ },
+ {
+  "title": "Geyser Spring, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1360,
+  "id": "STA-2708",
+  "rect": "rect/2707.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.16,
+  "rot": 0.02,
+  "range": 2.03,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.075,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.075,
+   "L": [
+    0.380729,
+    0.0,
+    0.090885,
+    0.0,
+    0.69317,
+    0.268603
+   ],
+   "R": [
+    0.377528,
+    -0.007879,
+    0.520713,
+    0.00185,
+    0.694907,
+    0.247415
+   ],
+   "g": [
+    0.8771,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.02° of rotation. Depth measured moderate (2.03% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077440,
+  "source_revision_id": null,
+  "source_sha1": "5db50cbe9494f1c238c9f96828ecbb38bc5a8891"
+ },
+ {
+  "title": "Geyser Spring, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 3",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/89/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1360,
+  "id": "STA-2709",
+  "rect": "rect/2708.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 1.9,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.0427,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0427,
+   "L": [
+    0.381771,
+    0.0,
+    0.100781,
+    0.0,
+    0.716616,
+    0.244139
+   ],
+   "R": [
+    0.384331,
+    -0.011691,
+    0.518325,
+    0.002027,
+    0.718715,
+    0.22506
+   ],
+   "g": [
+    0.8941,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured moderate (1.9% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077469,
+  "source_revision_id": null,
+  "source_sha1": "ffc6765d671551fd2671b3669db304c5d8b90d29"
+ },
+ {
+  "title": "Geyser Spring, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 4",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg/1920px-Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/22/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1360,
+  "id": "STA-2710",
+  "rect": "rect/2709.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 2.88,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.9225,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg/1920px-Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9225,
+   "L": [
+    0.359375,
+    0.0,
+    0.110156,
+    0.0,
+    0.762487,
+    0.09735
+   ],
+   "R": [
+    0.358427,
+    -0.000815,
+    0.512567,
+    0.001361,
+    0.761607,
+    0.078486
+   ],
+   "g": [
+    0.9599,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured deep (2.88% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077492,
+  "source_revision_id": null,
+  "source_sha1": "eef9d2471dccbd1d62a65c1f1277492f5a0d1abf"
+ },
+ {
+  "title": "Geyser Spring, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 5",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg/1920px-Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/36/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1497,
+  "id": "STA-2711",
+  "rect": "rect/2710.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.0,
+  "range": 2.36,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 1.1362,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg/1920px-Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1362,
+   "L": [
+    0.35625,
+    0.0,
+    0.103385,
+    0.0,
+    0.550274,
+    0.431901
+   ],
+   "R": [
+    0.351345,
+    -0.01483,
+    0.521923,
+    0.002873,
+    0.550633,
+    0.399343
+   ],
+   "g": [
+    1.0,
+    0.9421
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.0° of rotation. Depth measured deep (2.36% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10079390,
+  "source_revision_id": null,
+  "source_sha1": "530f696b1169077500f2a64be74313d552c13179"
+ },
+ {
+  "title": "Geyser Spring, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 6",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg/1920px-Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/88/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1500,
+  "id": "STA-2712",
+  "rect": "rect/2711.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.01,
+  "range": 3.68,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.6823,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg/1920px-Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.6823,
+   "L": [
+    0.363542,
+    0.0,
+    0.101302,
+    0.0,
+    0.933394,
+    0.040602
+   ],
+   "R": [
+    0.36206,
+    -0.006385,
+    0.519052,
+    0.006301,
+    0.935074,
+    0.022361
+   ],
+   "g": [
+    1.0,
+    0.9957
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured deep (3.68% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10079397,
+  "source_revision_id": null,
+  "source_sha1": "e23f47131b12b5f9fe7e1f076429a886a3d495eb"
+ },
+ {
+  "title": "Geyser Spring, Saratoga, N.Y, from Robert N. Dennis collection of stereoscopic views 7",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg/1920px-Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/61/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg",
+  "license": "Public domain",
+  "w": 2646,
+  "h": 1512,
+  "id": "STA-2713",
+  "rect": "rect/2712.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.19,
+  "rot": 0.01,
+  "range": 2.24,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 1.2338,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg/1920px-Geyser_Spring%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2338,
+   "L": [
+    0.376563,
+    0.0,
+    0.109115,
+    0.0,
+    0.534184,
+    0.446217
+   ],
+   "R": [
+    0.372724,
+    -0.011853,
+    0.521934,
+    0.001811,
+    0.533919,
+    0.414977
+   ],
+   "g": [
+    1.0,
+    0.9655
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.01° of rotation. Depth measured deep (2.24% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10079406,
+  "source_revision_id": null,
+  "source_sha1": "b0dc3f631b0e5cabd23a92a128158d4f60b5a3dd"
+ },
+ {
+  "title": "Geyser Spring, by Saratoga Photograph Co.",
+  "place": "Saratoga Springs, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Geyser_Spring%2C_by_Saratoga_Photograph_Co..jpg/1920px-Geyser_Spring%2C_by_Saratoga_Photograph_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/81/Geyser_Spring%2C_by_Saratoga_Photograph_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_by_Saratoga_Photograph_Co..jpg",
+  "license": "Public domain",
+  "w": 2645,
+  "h": 1336,
+  "id": "STA-2714",
+  "rect": "rect/2713.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.15,
+  "rot": 0.0,
+  "range": 2.01,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.5018,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Geyser_Spring%2C_by_Saratoga_Photograph_Co..jpg/1920px-Geyser_Spring%2C_by_Saratoga_Photograph_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5018,
+   "L": [
+    0.423958,
+    0.0,
+    0.06901,
+    0.0,
+    0.558763,
+    0.311856
+   ],
+   "R": [
+    0.422764,
+    0.001918,
+    0.506517,
+    -0.007886,
+    0.556867,
+    0.30506
+   ],
+   "g": [
+    0.9664,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured moderate (2.01% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Saratoga Photograph Co.",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10080369,
+  "source_revision_id": null,
+  "source_sha1": "1a61cf1d5de345701f6db0dfbf32892af6c986a0"
+ },
+ {
+  "title": "Geyser Spring, by Saratoga Photograph Co. 2",
+  "place": "Saratoga Springs, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Geyser_Spring%2C_by_Saratoga_Photograph_Co._2.jpg/1920px-Geyser_Spring%2C_by_Saratoga_Photograph_Co._2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Geyser_Spring%2C_by_Saratoga_Photograph_Co._2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_by_Saratoga_Photograph_Co._2.jpg",
+  "license": "Public domain",
+  "w": 2645,
+  "h": 1336,
+  "id": "STA-2715",
+  "rect": "rect/2714.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 2.03,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.0411,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Geyser_Spring%2C_by_Saratoga_Photograph_Co._2.jpg/1920px-Geyser_Spring%2C_by_Saratoga_Photograph_Co._2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0411,
+   "L": [
+    0.408854,
+    0.0,
+    0.073698,
+    0.0,
+    0.77732,
+    0.187113
+   ],
+   "R": [
+    0.408901,
+    -0.000301,
+    0.510569,
+    -0.004035,
+    0.776646,
+    0.178751
+   ],
+   "g": [
+    0.9527,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured moderate (2.03% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Saratoga Photograph Co.",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10080375,
+  "source_revision_id": null,
+  "source_sha1": "f933e6d3df353d418af2eef543720a1a393000c1"
+ },
+ {
+  "title": "Geyser Spring",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2639,
+  "h": 1366,
+  "id": "STA-2716",
+  "rect": "rect/2715.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 2.05,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.9042,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9042,
+   "L": [
+    0.383333,
+    0.0,
+    0.08776,
+    0.0,
+    0.818913,
+    0.142354
+   ],
+   "R": [
+    0.384003,
+    0.001519,
+    0.506509,
+    0.0044,
+    0.815784,
+    0.121169
+   ],
+   "g": [
+    1.0,
+    0.9814
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured moderate (2.05% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077397,
+  "source_revision_id": null,
+  "source_sha1": "fa57981aa69bd3daeee3d0cb0e209b034acdd44c"
+ },
+ {
+  "title": "Geyser Spring, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2675,
+  "h": 1360,
+  "id": "STA-2717",
+  "rect": "rect/2716.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.03,
+  "range": 1.76,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.1259,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1259,
+   "L": [
+    0.386458,
+    0.0,
+    0.101823,
+    0.0,
+    0.675205,
+    0.273053
+   ],
+   "R": [
+    0.38836,
+    -0.006015,
+    0.515173,
+    0.001928,
+    0.677497,
+    0.274705
+   ],
+   "g": [
+    0.9319,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.03° of rotation. Depth measured moderate (1.76% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077405,
+  "source_revision_id": null,
+  "source_sha1": "01d040efd0d93917dfcde1efacb23ead27b8ae67"
+ },
+ {
+  "title": "Geyser Spring, from Robert N. Dennis collection of stereoscopic views 3",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/73/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg",
+  "license": "Public domain",
+  "w": 2641,
+  "h": 1367,
+  "id": "STA-2718",
+  "rect": "rect/2717.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.22,
+  "rot": 0.05,
+  "range": 1.75,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.5839,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg/1920px-Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5839,
+   "L": [
+    0.378646,
+    0.0,
+    0.096094,
+    0.0,
+    0.461771,
+    0.233903
+   ],
+   "R": [
+    0.379656,
+    0.002652,
+    0.513191,
+    0.000238,
+    0.461092,
+    0.218782
+   ],
+   "g": [
+    0.9264,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.05° of rotation. Depth measured moderate (1.75% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077414,
+  "source_revision_id": null,
+  "source_sha1": "5d7e94918d835dd2d9df6b17bc026f166fec3adb"
+ },
+ {
+  "title": "Geyser Spring, from Robert N. Dennis collection of stereoscopic views 4",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg/1920px-Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1360,
+  "id": "STA-2719",
+  "rect": "rect/2718.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.16,
+  "rot": 0.04,
+  "range": 2.77,
+  "f": 0.96,
+  "depth": "Deep",
+  "va": 1.2134,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg/1920px-Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2134,
+   "L": [
+    0.349479,
+    0.0,
+    0.109635,
+    0.0,
+    0.56371,
+    0.321611
+   ],
+   "R": [
+    0.347827,
+    -0.013146,
+    0.522241,
+    0.001014,
+    0.563863,
+    0.291751
+   ],
+   "g": [
+    1.0,
+    0.9627
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.04° of rotation. Depth measured deep (2.77% of frame width); hung in the VR Parlor at 96% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077421,
+  "source_revision_id": null,
+  "source_sha1": "bd2c9714cb9980c6ce96234e244ca519e05c6407"
+ },
+ {
+  "title": "Geyser Spring, from Robert N. Dennis collection of stereoscopic views 5",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg/1920px-Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg",
+  "license": "Public domain",
+  "w": 2633,
+  "h": 1354,
+  "id": "STA-2720",
+  "rect": "rect/2719.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.19,
+  "rot": 0.01,
+  "range": 2.54,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 1.2709,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg/1920px-Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2709,
+   "L": [
+    0.371354,
+    0.0,
+    0.10026,
+    0.0,
+    0.568389,
+    0.235562
+   ],
+   "R": [
+    0.372983,
+    -0.007528,
+    0.521499,
+    0.000115,
+    0.569577,
+    0.224726
+   ],
+   "g": [
+    0.8638,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.01° of rotation. Depth measured deep (2.54% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077429,
+  "source_revision_id": null,
+  "source_sha1": "f3b3e2223118c18b4926a36207d9012e66ef346a"
+ },
+ {
+  "title": "Geyser Spring, from Robert N. Dennis collection of stereoscopic views 7",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg/1920px-Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg",
+  "license": "Public domain",
+  "w": 2657,
+  "h": 1360,
+  "id": "STA-2721",
+  "rect": "rect/2720.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.19,
+  "rot": 0.02,
+  "range": 1.55,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.341,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg/1920px-Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.341,
+   "L": [
+    0.393229,
+    0.0,
+    0.090365,
+    0.0,
+    0.572737,
+    0.242625
+   ],
+   "R": [
+    0.392256,
+    0.002398,
+    0.505403,
+    0.001034,
+    0.571806,
+    0.22226
+   ],
+   "g": [
+    0.8,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.02° of rotation. Depth measured moderate (1.55% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077461,
+  "source_revision_id": null,
+  "source_sha1": "16d71c4109b430a8c330689376cda2d2ee71299c"
+ },
+ {
+  "title": "Geyser Spring, from Robert N. Dennis collection of stereoscopic views 8",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg/1920px-Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1354,
+  "id": "STA-2722",
+  "rect": "rect/2721.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.01,
+  "range": 1.79,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.1315,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg/1920px-Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1315,
+   "L": [
+    0.376563,
+    0.0,
+    0.10651,
+    0.0,
+    0.654713,
+    0.309939
+   ],
+   "R": [
+    0.376935,
+    -1e-05,
+    0.521604,
+    0.001129,
+    0.655684,
+    0.284768
+   ],
+   "g": [
+    0.872,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured moderate (1.79% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077473,
+  "source_revision_id": null,
+  "source_sha1": "ee8a4662c27ae44b4acd991e2a889ae55b240fc4"
+ },
+ {
+  "title": "Geyser Spring, from Robert N. Dennis collection of stereoscopic views 9",
+  "place": "Saratoga Springs, New York",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_9.jpg/1920px-Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/00/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_Spring,_from_Robert_N._Dennis_collection_of_stereoscopic_views_9.jpg",
+  "license": "Public domain",
+  "w": 2640,
+  "h": 1506,
+  "id": "STA-2723",
+  "rect": "rect/2722.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 3.1,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.8165,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_9.jpg/1920px-Geyser_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8165,
+   "L": [
+    0.396354,
+    0.0,
+    0.097135,
+    0.0,
+    0.851142,
+    0.124658
+   ],
+   "R": [
+    0.395369,
+    -0.005253,
+    0.511077,
+    0.004406,
+    0.851297,
+    0.122037
+   ],
+   "g": [
+    0.9821,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured deep (3.1% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10079420,
+  "source_revision_id": null,
+  "source_sha1": "1f2b518476263e62abf8d94ecbfe0f01e4c7b69b"
+ },
+ {
+  "title": "Geyser or Sprouting Spring, Saratoga, by P. H. McKernon",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Geyser_or_Sprouting_Spring%2C_Saratoga%2C_by_P._H._McKernon.jpg/1920px-Geyser_or_Sprouting_Spring%2C_Saratoga%2C_by_P._H._McKernon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Geyser_or_Sprouting_Spring%2C_Saratoga%2C_by_P._H._McKernon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_or_Sprouting_Spring,_Saratoga,_by_P._H._McKernon.jpg",
+  "license": "Public domain",
+  "w": 2640,
+  "h": 1294,
+  "id": "STA-2724",
+  "rect": "rect/2723.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.18,
+  "rot": 0.04,
+  "range": 0.92,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1106,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Geyser_or_Sprouting_Spring%2C_Saratoga%2C_by_P._H._McKernon.jpg/1920px-Geyser_or_Sprouting_Spring%2C_Saratoga%2C_by_P._H._McKernon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1106,
+   "L": [
+    0.381771,
+    0.0,
+    0.091927,
+    0.0,
+    0.701382,
+    0.062168
+   ],
+   "R": [
+    0.397845,
+    0.005075,
+    0.513388,
+    -0.011689,
+    0.730797,
+    0.041279
+   ],
+   "g": [
+    1.0,
+    0.9958
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.04° of rotation. Depth measured gentle (0.92% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "P. H. McKernon",
+  "creator_dates": null,
+  "facets": [
+   "people"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865~",
+  "date_start": 1860,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10071581,
+  "source_revision_id": null,
+  "source_sha1": "20050f7e4881b45a68e0170fc52835d7ffc31643"
+ },
+ {
+  "title": "Geyser or Sprouting Spring, by P. H. McKernon",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Geyser_or_Sprouting_Spring%2C_by_P._H._McKernon.jpg/1920px-Geyser_or_Sprouting_Spring%2C_by_P._H._McKernon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Geyser_or_Sprouting_Spring%2C_by_P._H._McKernon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Geyser_or_Sprouting_Spring,_by_P._H._McKernon.jpg",
+  "license": "Public domain",
+  "w": 2637,
+  "h": 1291,
+  "id": "STA-2725",
+  "rect": "rect/2724.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.03,
+  "range": 1.2,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8282,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Geyser_or_Sprouting_Spring%2C_by_P._H._McKernon.jpg/1920px-Geyser_or_Sprouting_Spring%2C_by_P._H._McKernon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8282,
+   "L": [
+    0.361458,
+    0.0,
+    0.098177,
+    0.0,
+    0.891489,
+    0.076064
+   ],
+   "R": [
+    0.378384,
+    0.002931,
+    0.525792,
+    -0.004269,
+    0.929187,
+    0.0374
+   ],
+   "g": [
+    0.9783,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.03° of rotation. Depth measured gentle (1.2% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "P. H. McKernon",
+  "creator_dates": null,
+  "facets": [
+   "people"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865~",
+  "date_start": 1860,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10071557,
+  "source_revision_id": null,
+  "source_sha1": "48729423360defda3a576d5b1f4d7e7558d3129d"
+ },
+ {
+  "title": "Gipsey Camp, by Woodward, C. W. (Charles Warren)",
+  "place": "Saratoga Springs, New York",
+  "year": "c. 1880",
+  "sy": 1880,
+  "era": "mid",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Gipsey_Camp%2C_by_Woodward%2C_C._W._%28Charles_Warren%29.jpg/1920px-Gipsey_Camp%2C_by_Woodward%2C_C._W._%28Charles_Warren%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/79/Gipsey_Camp%2C_by_Woodward%2C_C._W._%28Charles_Warren%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Gipsey_Camp,_by_Woodward,_C._W._(Charles_Warren).jpg",
+  "license": "Public domain",
+  "w": 2634,
+  "h": 1333,
+  "id": "STA-2726",
+  "rect": "rect/2725.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.01,
+  "range": 1.98,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8082,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Gipsey_Camp%2C_by_Woodward%2C_C._W._%28Charles_Warren%29.jpg/1920px-Gipsey_Camp%2C_by_Woodward%2C_C._W._%28Charles_Warren%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8082,
+   "L": [
+    0.36875,
+    0.0,
+    0.096094,
+    0.0,
+    0.901235,
+    0.057099
+   ],
+   "R": [
+    0.372043,
+    -0.014643,
+    0.529205,
+    -0.006085,
+    0.899601,
+    0.061748
+   ],
+   "g": [
+    0.9742,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured moderate (1.98% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Woodward, C. W. (Charles Warren)",
+  "creator_dates": null,
+  "facets": [
+   "people"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1880~",
+  "date_start": 1875,
+  "date_end": 1885,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077061,
+  "source_revision_id": null,
+  "source_sha1": "c2f761ee8b04c18996826ed6cfeb889d3caaffcf"
  }
 ]
