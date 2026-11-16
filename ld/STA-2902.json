@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2902.json",
+ "name": "Three Grand Hotels, by Saratoga Photograph Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2901.jpg",
+ "identifier": "STA-2902",
+ "creator": {
+  "@type": "Person",
+  "name": "Saratoga Photograph Co."
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Three_Grand_Hotels,_by_Saratoga_Photograph_Co..jpg"
+}

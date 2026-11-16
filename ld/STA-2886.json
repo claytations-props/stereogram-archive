@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2886.json",
+ "name": "Seltzer and High Rock Spring, by Saratoga Photograph Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2885.jpg",
+ "identifier": "STA-2886",
+ "creator": {
+  "@type": "Person",
+  "name": "Saratoga Photograph Co."
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Seltzer_and_High_Rock_Spring,_by_Saratoga_Photograph_Co..jpg"
+}

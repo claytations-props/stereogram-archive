@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2852.json",
+ "name": "Pavilion and United States Spring, Saratoga, N.Y, by Bierstadt, Charles, 1819-1903",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2851.jpg",
+ "identifier": "STA-2852",
+ "creator": {
+  "@type": "Person",
+  "name": "Bierstadt, Charles"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Pavilion_and_United_States_Spring,_Saratoga,_N.Y,_by_Bierstadt,_Charles,_1819-1903.jpg"
+}

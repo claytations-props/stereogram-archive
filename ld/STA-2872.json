@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2872.json",
+ "name": "Saratoga Lake and Steamer, by P. H. McKernon 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2871.jpg",
+ "identifier": "STA-2872",
+ "creator": {
+  "@type": "Person",
+  "name": "P. H. McKernon"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Lake, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Saratoga_Lake_and_Steamer,_by_P._H._McKernon_2.jpg"
+}

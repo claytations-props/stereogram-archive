@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2854.json",
+ "name": "Porch, United States Hotel, Saratoga, N.Y, by Stereo Photo Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2853.jpg",
+ "identifier": "STA-2854",
+ "creator": {
+  "@type": "Person",
+  "name": "Stereo Photo Co."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Porch,_United_States_Hotel,_Saratoga,_N.Y,_by_Stereo_Photo_Co..jpg"
+}

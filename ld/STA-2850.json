@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2850.json",
+ "name": "Parlor of the Grand Union Hotel, Saratoga, N.Y, by Bierstadt, Charles, 1819-1903 3",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2849.jpg",
+ "identifier": "STA-2850",
+ "creator": {
+  "@type": "Person",
+  "name": "Bierstadt, Charles"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Parlor_of_the_Grand_Union_Hotel,_Saratoga,_N.Y,_by_Bierstadt,_Charles,_1819-1903_3.jpg"
+}

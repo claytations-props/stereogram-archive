@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2874.json",
+ "name": "Saratoga from Star Spring, by Rumsey, H.D., fl. 187-",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2873.jpg",
+ "identifier": "STA-2874",
+ "creator": {
+  "@type": "Person",
+  "name": "Rumsey, H.D., fl. 187-"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Saratoga_from_Star_Spring,_by_Rumsey,_H.D.,_fl._187-.jpg"
+}

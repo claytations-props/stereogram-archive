@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2847.json",
+ "name": "Parlor, United States Hotel, by Stiles & Bach",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2846.jpg",
+ "identifier": "STA-2847",
+ "creator": {
+  "@type": "Person",
+  "name": "Stiles & Bach"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Parlor,_United_States_Hotel,_by_Stiles_%26_Bach.jpg"
+}

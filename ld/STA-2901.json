@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2901.json",
+ "name": "The Young chess players at Saratoga",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2900.jpg",
+ "identifier": "STA-2901",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Young_chess_players_at_Saratoga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

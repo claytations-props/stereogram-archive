@@ -1,0 +1,796 @@
+{
+ "assignments": {
+  "STA-2806": {
+   "tags": [
+    "forest",
+    "pine tree",
+    "trees",
+    "tents",
+    "dog"
+   ],
+   "conf": "high"
+  },
+  "STA-2807": {
+   "tags": [
+    "pavilion",
+    "crowd"
+   ],
+   "conf": "high"
+  },
+  "STA-2808": {
+   "tags": [
+    "crowd",
+    "room interior"
+   ],
+   "conf": "high"
+  },
+  "STA-2809": {
+   "tags": [
+    "crowd",
+    "room interior"
+   ],
+   "conf": "high"
+  },
+  "STA-2810": {
+   "tags": [
+    "crowd",
+    "room interior"
+   ],
+   "conf": "high"
+  },
+  "STA-2811": {
+   "tags": [
+    "room interior",
+    "portrait group",
+    "children"
+   ],
+   "conf": "high"
+  },
+  "STA-2812": {
+   "tags": [
+    "lake",
+    "dam",
+    "waterfall",
+    "house"
+   ],
+   "conf": "high"
+  },
+  "STA-2813": {
+   "tags": [
+    "lake",
+    "bridge",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2814": {
+   "tags": [
+    "hotel",
+    "garden",
+    "fountain",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2815": {
+   "tags": [
+    "hotel",
+    "garden",
+    "trees",
+    "portrait group"
+   ],
+   "conf": "high"
+  },
+  "STA-2816": {
+   "tags": [
+    "hotel",
+    "garden",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2817": {
+   "tags": [
+    "hotel",
+    "garden",
+    "fountain",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2818": {
+   "tags": [
+    "hotel",
+    "garden",
+    "fountain",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2819": {
+   "tags": [
+    "hotel",
+    "garden",
+    "fountain",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2820": {
+   "tags": [
+    "hotel",
+    "garden",
+    "trees",
+    "children"
+   ],
+   "conf": "high"
+  },
+  "STA-2821": {
+   "tags": [
+    "hotel",
+    "garden",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2822": {
+   "tags": [
+    "hotel",
+    "garden",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2823": {
+   "tags": [
+    "hotel",
+    "garden",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2824": {
+   "tags": [
+    "garden",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2825": {
+   "tags": [
+    "monument",
+    "statue",
+    "pavilion",
+    "town square"
+   ],
+   "conf": "high"
+  },
+  "STA-2826": {
+   "tags": [
+    "house",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2827": {
+   "tags": [
+    "house",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2828": {
+   "tags": [
+    "lake",
+    "rowboat",
+    "sailboat",
+    "house",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2829": {
+   "tags": [
+    "crowd",
+    "hotel",
+    "children"
+   ],
+   "conf": "high"
+  },
+  "STA-2830": {
+   "tags": [
+    "crowd",
+    "hotel",
+    "children"
+   ],
+   "conf": "high"
+  },
+  "STA-2831": {
+   "conf": "high",
+   "tags": [
+    "crowd",
+    "children",
+    "hotel"
+   ]
+  },
+  "STA-2832": {
+   "conf": "high",
+   "tags": [
+    "crowd",
+    "children",
+    "hotel"
+   ]
+  },
+  "STA-2833": {
+   "conf": "high",
+   "tags": [
+    "pavilion",
+    "lake",
+    "trees",
+    "hotel"
+   ]
+  },
+  "STA-2834": {
+   "conf": "high",
+   "tags": [
+    "pavilion",
+    "lake",
+    "trees",
+    "hotel"
+   ]
+  },
+  "STA-2835": {
+   "conf": "high",
+   "tags": [
+    "garden",
+    "pavilion",
+    "trees"
+   ]
+  },
+  "STA-2836": {
+   "conf": "high",
+   "tags": [
+    "pavilion",
+    "lake",
+    "trees",
+    "garden"
+   ]
+  },
+  "STA-2837": {
+   "conf": "high",
+   "tags": [
+    "crowd",
+    "bandstand",
+    "trees"
+   ]
+  },
+  "STA-2838": {
+   "conf": "high",
+   "tags": [
+    "crowd",
+    "bandstand",
+    "trees"
+   ]
+  },
+  "STA-2839": {
+   "conf": "high",
+   "tags": [
+    "room interior",
+    "hotel"
+   ]
+  },
+  "STA-2840": {
+   "conf": "high",
+   "tags": [
+    "room interior",
+    "hotel"
+   ]
+  },
+  "STA-2841": {
+   "conf": "high",
+   "tags": [
+    "room interior",
+    "hotel"
+   ]
+  },
+  "STA-2842": {
+   "conf": "high",
+   "tags": [
+    "room interior",
+    "hotel"
+   ]
+  },
+  "STA-2843": {
+   "conf": "high",
+   "tags": [
+    "room interior",
+    "hotel"
+   ]
+  },
+  "STA-2844": {
+   "conf": "high",
+   "tags": [
+    "room interior",
+    "hotel"
+   ]
+  },
+  "STA-2845": {
+   "conf": "high",
+   "tags": [
+    "hotel",
+    "garden",
+    "trees"
+   ]
+  },
+  "STA-2846": {
+   "conf": "high",
+   "tags": [
+    "gazebo",
+    "children",
+    "trees"
+   ]
+  },
+  "STA-2847": {
+   "conf": "high",
+   "tags": [
+    "room interior",
+    "hotel",
+    "fireplace"
+   ]
+  },
+  "STA-2848": {
+   "conf": "high",
+   "tags": [
+    "room interior",
+    "hotel",
+    "fireplace"
+   ]
+  },
+  "STA-2849": {
+   "conf": "high",
+   "tags": [
+    "room interior",
+    "hotel",
+    "fireplace"
+   ]
+  },
+  "STA-2850": {
+   "conf": "high",
+   "tags": [
+    "room interior",
+    "hotel",
+    "fireplace"
+   ]
+  },
+  "STA-2851": {
+   "conf": "high",
+   "tags": [
+    "pavilion",
+    "crowd",
+    "children"
+   ]
+  },
+  "STA-2852": {
+   "conf": "high",
+   "tags": [
+    "pavilion",
+    "trees"
+   ]
+  },
+  "STA-2853": {
+   "conf": "high",
+   "tags": [
+    "hotel",
+    "trees"
+   ]
+  },
+  "STA-2854": {
+   "conf": "high",
+   "tags": [
+    "hotel",
+    "trees"
+   ]
+  },
+  "STA-2855": {
+   "conf": "high",
+   "tags": [
+    "horse",
+    "crowd"
+   ]
+  },
+  "STA-2856": {
+   "conf": "high",
+   "tags": [
+    "depot",
+    "passenger train",
+    "horse-drawn carriage",
+    "crowd"
+   ]
+  },
+  "STA-2857": {
+   "conf": "high",
+   "tags": [
+    "depot",
+    "passenger train",
+    "horse-drawn carriage",
+    "crowd"
+   ]
+  },
+  "STA-2858": {
+   "conf": "medium",
+   "tags": [
+    "trees",
+    "garden",
+    "crowd"
+   ]
+  },
+  "STA-2859": {
+   "conf": "high",
+   "tags": [
+    "hotel",
+    "crowd",
+    "horse-drawn carriage",
+    "trees"
+   ]
+  },
+  "STA-2860": {
+   "conf": "high",
+   "tags": [
+    "hotel",
+    "crowd",
+    "trees"
+   ]
+  },
+  "STA-2861": {
+   "conf": "high",
+   "tags": [
+    "hotel",
+    "crowd",
+    "trees"
+   ]
+  },
+  "STA-2862": {
+   "conf": "high",
+   "tags": [
+    "hotel",
+    "crowd",
+    "trees"
+   ]
+  },
+  "STA-2863": {
+   "conf": "high",
+   "tags": [
+    "hotel",
+    "crowd"
+   ]
+  },
+  "STA-2864": {
+   "conf": "high",
+   "tags": [
+    "hotel",
+    "crowd"
+   ]
+  },
+  "STA-2865": {
+   "conf": "high",
+   "tags": [
+    "hotel",
+    "trees"
+   ]
+  },
+  "STA-2866": {
+   "conf": "high",
+   "tags": [
+    "lake",
+    "pier",
+    "rowboat",
+    "trees"
+   ]
+  },
+  "STA-2867": {
+   "conf": "medium",
+   "tags": [
+    "garden",
+    "trees",
+    "crowd",
+    "pavilion"
+   ]
+  },
+  "STA-2868": {
+   "conf": "medium",
+   "tags": [
+    "garden",
+    "trees",
+    "crowd",
+    "pavilion"
+   ]
+  },
+  "STA-2869": {
+   "conf": "high",
+   "tags": [
+    "garden",
+    "trees",
+    "children",
+    "crowd"
+   ]
+  },
+  "STA-2870": {
+   "conf": "high",
+   "tags": [
+    "garden",
+    "trees",
+    "crowd"
+   ]
+  },
+  "STA-2871": {
+   "conf": "high",
+   "tags": [
+    "lake",
+    "pier",
+    "rowboat"
+   ]
+  },
+  "STA-2872": {
+   "conf": "high",
+   "tags": [
+    "lake",
+    "pier",
+    "rowboat"
+   ]
+  },
+  "STA-2873": {
+   "conf": "high",
+   "tags": [
+    "lake",
+    "pier",
+    "rowboat",
+    "steamboat",
+    "sailboat"
+   ]
+  },
+  "STA-2874": {
+   "conf": "medium",
+   "tags": [
+    "trees",
+    "garden",
+    "pavilion",
+    "horse-drawn carriage"
+   ]
+  },
+  "STA-2875": {
+   "conf": "medium",
+   "tags": [
+    "lake",
+    "pier",
+    "sailboat",
+    "steamboat"
+   ]
+  },
+  "STA-2876": {
+   "conf": "high",
+   "tags": [
+    "lake",
+    "rowboat",
+    "boating",
+    "trees"
+   ]
+  },
+  "STA-2877": {
+   "conf": "medium",
+   "tags": [
+    "lake",
+    "pier",
+    "trees"
+   ]
+  },
+  "STA-2878": {
+   "conf": "high",
+   "tags": [
+    "lake",
+    "pier",
+    "sailboat",
+    "steamboat",
+    "trees"
+   ]
+  },
+  "STA-2879": {
+   "conf": "medium",
+   "tags": [
+    "lake",
+    "trees",
+    "house"
+   ]
+  },
+  "STA-2880": {
+   "tags": [
+    "lake",
+    "trees",
+    "pavilion"
+   ],
+   "conf": "high"
+  },
+  "STA-2881": {
+   "tags": [
+    "hotel",
+    "horse",
+    "horse-drawn carriage",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2882": {
+   "tags": [
+    "pavilion",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2883": {
+   "tags": [
+    "pavilion",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2884": {
+   "tags": [
+    "pavilion",
+    "lake",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2885": {
+   "tags": [
+    "pavilion",
+    "gazebo",
+    "horse",
+    "horse-drawn carriage",
+    "crowd"
+   ],
+   "conf": "high"
+  },
+  "STA-2886": {
+   "tags": [
+    "pavilion",
+    "gazebo",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2887": {
+   "tags": [
+    "pavilion",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2888": {
+   "tags": [
+    "pavilion",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2889": {
+   "tags": [
+    "pavilion",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2890": {
+   "tags": [
+    "pavilion",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2891": {
+   "tags": [
+    "portrait group",
+    "crowd"
+   ],
+   "conf": "high"
+  },
+  "STA-2893": {
+   "tags": [
+    "hotel",
+    "main street",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2894": {
+   "tags": [
+    "fountain",
+    "trees",
+    "garden"
+   ],
+   "conf": "high"
+  },
+  "STA-2895": {
+   "tags": [
+    "fountain",
+    "trees",
+    "garden",
+    "hotel"
+   ],
+   "conf": "high"
+  },
+  "STA-2896": {
+   "tags": [
+    "fountain",
+    "trees",
+    "garden",
+    "hotel"
+   ],
+   "conf": "high"
+  },
+  "STA-2897": {
+   "tags": [
+    "fountain",
+    "trees",
+    "garden",
+    "hotel"
+   ],
+   "conf": "high"
+  },
+  "STA-2898": {
+   "tags": [
+    "fountain",
+    "trees",
+    "garden",
+    "hotel"
+   ],
+   "conf": "high"
+  },
+  "STA-2899": {
+   "tags": [
+    "trees",
+    "portrait group"
+   ],
+   "conf": "high"
+  },
+  "STA-2900": {
+   "tags": [
+    "soldiers",
+    "parade",
+    "hotel",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2901": {
+   "tags": [
+    "children",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2902": {
+   "tags": [
+    "hotel",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2903": {
+   "tags": [
+    "portrait group",
+    "house"
+   ],
+   "conf": "high"
+  },
+  "STA-2904": {
+   "tags": [
+    "hotel",
+    "trees"
+   ],
+   "conf": "high"
+  }
+ },
+ "held": {
+  "STA-2892": "Only one confident vocabulary term fits (house); the porch swing and single seated figure have no vocabulary term, so no second term can be assigned without guessing."
+ }
+}
