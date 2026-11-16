@@ -1,0 +1,69 @@
+{
+ "title": "Saratoga Lake House, by Deloss Barnum",
+ "place": "Saratoga Lake, New York",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Saratoga_Lake_House%2C_by_Deloss_Barnum.jpg/1920px-Saratoga_Lake_House%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Saratoga_Lake_House%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Saratoga_Lake_House,_by_Deloss_Barnum.jpg",
+ "license": "Public domain",
+ "w": 2567,
+ "h": 1294,
+ "id": "STA-2881",
+ "rect": "rect/2880.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.1,
+ "rot": 0.0,
+ "range": 0.25,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.4004,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Saratoga_Lake_House%2C_by_Deloss_Barnum.jpg/1920px-Saratoga_Lake_House%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.4004,
+  "L": [
+   0.402604,
+   0.0,
+   0.065885,
+   0.0,
+   0.570248,
+   0.054236
+  ],
+  "R": [
+   0.401469,
+   -6.8e-05,
+   0.515359,
+   -0.002624,
+   0.569852,
+   0.046496
+  ],
+  "g": [
+   0.9638,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (0.25% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Deloss Barnum",
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10079873,
+ "source_revision_id": null,
+ "source_sha1": "a9102fa5b89a43667def901b30aa062448fbd5c0"
+}

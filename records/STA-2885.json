@@ -1,0 +1,69 @@
+{
+ "title": "Seltzer & High Rock Spring, by Deloss Barnum",
+ "place": "Saratoga Springs, New York",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Seltzer_%26_High_Rock_Spring%2C_by_Deloss_Barnum.jpg/1920px-Seltzer_%26_High_Rock_Spring%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Seltzer_%26_High_Rock_Spring%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Seltzer_%26_High_Rock_Spring,_by_Deloss_Barnum.jpg",
+ "license": "Public domain",
+ "w": 2639,
+ "h": 1294,
+ "id": "STA-2885",
+ "rect": "rect/2884.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.1,
+ "rot": 0.02,
+ "range": 0.66,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9475,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Seltzer_%26_High_Rock_Spring%2C_by_Deloss_Barnum.jpg/1920px-Seltzer_%26_High_Rock_Spring%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9475,
+  "L": [
+   0.385417,
+   0.0,
+   0.09974,
+   0.0,
+   0.829968,
+   0.130181
+  ],
+  "R": [
+   0.388889,
+   -0.015401,
+   0.521575,
+   0.015622,
+   0.832695,
+   0.114909
+  ],
+  "g": [
+   0.8922,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured gentle (0.66% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Deloss Barnum",
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10080066,
+ "source_revision_id": null,
+ "source_sha1": "caec5a2029b78598ccb8f471a8acf78cd0a345d4"
+}
