@@ -1,0 +1,69 @@
+{
+ "title": "Lake in Congress Spring",
+ "place": "Saratoga Springs, New York",
+ "year": "1869",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Lake_in_Congress_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Lake_in_Congress_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Lake_in_Congress_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Lake_in_Congress_Spring,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2628,
+ "h": 1512,
+ "id": "STA-2812",
+ "rect": "rect/2811.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.13,
+ "rot": 0.02,
+ "range": 0.56,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.3966,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Lake_in_Congress_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Lake_in_Congress_Spring%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.3966,
+  "L": [
+   0.379688,
+   0.0,
+   0.094531,
+   0.0,
+   0.472398,
+   0.352489
+  ],
+  "R": [
+   0.380168,
+   -0.001721,
+   0.506103,
+   -0.00208,
+   0.471876,
+   0.348529
+  ],
+  "g": [
+   1.0,
+   0.987
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.02° of rotation. Depth measured gentle (0.56% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869",
+ "date_start": 1869,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10079587,
+ "source_revision_id": null,
+ "source_sha1": "34d47d07ae58993ee5559d6955339eb8d11ab41b"
+}
