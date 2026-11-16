@@ -1,0 +1,69 @@
+{
+ "title": "Music Stand, Saratoga, by Deloss Barnum",
+ "place": "Saratoga Springs, New York",
+ "year": "c. 1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Music_Stand%2C_Saratoga%2C_by_Deloss_Barnum.jpg/1920px-Music_Stand%2C_Saratoga%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Music_Stand%2C_Saratoga%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Music_Stand,_Saratoga,_by_Deloss_Barnum.jpg",
+ "license": "Public domain",
+ "w": 2573,
+ "h": 1282,
+ "id": "STA-2837",
+ "rect": "rect/2836.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.09,
+ "rot": 0.02,
+ "range": 0.31,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8903,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Music_Stand%2C_Saratoga%2C_by_Deloss_Barnum.jpg/1920px-Music_Stand%2C_Saratoga%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8903,
+  "L": [
+   0.401562,
+   0.0,
+   0.084635,
+   0.0,
+   0.904911,
+   0.052769
+  ],
+  "R": [
+   0.398149,
+   -0.008792,
+   0.535183,
+   0.008787,
+   0.896385,
+   0.042146
+  ],
+  "g": [
+   0.9604,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.02° of rotation. Depth measured gentle (0.31% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Deloss Barnum",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865~",
+ "date_start": 1860,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10079891,
+ "source_revision_id": null,
+ "source_sha1": "7f18c77bf8c3cf10e1a5bf6cae12033a9b23017e"
+}

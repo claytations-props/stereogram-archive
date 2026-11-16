@@ -1,0 +1,69 @@
+{
+ "title": "Music Stand, Saratoga Park, by Deloss Barnum",
+ "place": "Saratoga Springs, New York",
+ "year": "c. 1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Music_Stand%2C_Saratoga_Park%2C_by_Deloss_Barnum.jpg/1920px-Music_Stand%2C_Saratoga_Park%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/50/Music_Stand%2C_Saratoga_Park%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Music_Stand,_Saratoga_Park,_by_Deloss_Barnum.jpg",
+ "license": "Public domain",
+ "w": 2565,
+ "h": 1292,
+ "id": "STA-2838",
+ "rect": "rect/2837.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.08,
+ "rot": 0.01,
+ "range": 0.45,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.7703,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Music_Stand%2C_Saratoga_Park%2C_by_Deloss_Barnum.jpg/1920px-Music_Stand%2C_Saratoga_Park%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7703,
+  "L": [
+   0.351042,
+   0.0,
+   0.111719,
+   0.0,
+   0.90486,
+   0.050155
+  ],
+  "R": [
+   0.347849,
+   -0.006319,
+   0.546101,
+   0.003138,
+   0.89826,
+   0.030544
+  ],
+  "g": [
+   0.9093,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured gentle (0.45% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Deloss Barnum",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865~",
+ "date_start": 1860,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10079879,
+ "source_revision_id": null,
+ "source_sha1": "363ef80362ab70d3c8ae6f5877b2adbb57e40fc8"
+}
