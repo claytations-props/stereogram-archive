@@ -50,7 +50,7 @@ a.btn{text-decoration:none;display:inline-block}
 .chip:hover{color:var(--text);border-color:var(--brass)}
 .chip.on{background:var(--brass);border-color:var(--brass);color:var(--inkbtn)}
 main{max-width:1180px;margin:0 auto;padding:24px 16px 10px;position:relative}
-.count{color:var(--dim);font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;margin-bottom:16px;scroll-margin-top:120px}
+.count{color:var(--dim);font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;margin-bottom:16px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
 .card{background:var(--paper);color:var(--ink);border:1px solid #d8ccb2;border-radius:3px;overflow:hidden;cursor:pointer;box-shadow:0 1px 2px rgba(0,0,0,.35);transition:border-color .18s,box-shadow .18s}
 .card:hover{border-color:var(--brass);box-shadow:0 10px 26px rgba(0,0,0,.45)}
@@ -513,9 +513,12 @@ let shown=48,lastSig='',renderedShown=0,pendingAppend=false;
    bringing them into view. Filter and view actions ask render() to
    bring the count line into view afterwards; sort, reshuffle, Show
    more and heart toggles reorder or extend the list already on
-   screen, so they do not. */
+   screen, so they do not. The offset is measured, not guessed: the
+   first version used a fixed 120px scroll margin, and the live walk
+   caught the count line still hiding behind the toolbar, which runs
+   two rows tall at desktop width. */
 let revealNext=false;
-function maybeReveal(){if(!revealNext)return;revealNext=false;const c=$("#count");if(c&&c.scrollIntoView)c.scrollIntoView({behavior:"smooth"});}
+function maybeReveal(){if(!revealNext)return;revealNext=false;const c=$("#count");if(!c)return;const tb=document.querySelector(".toolbar");const off=(tb?tb.getBoundingClientRect().height:0)+16;window.scrollTo({top:c.getBoundingClientRect().top+window.scrollY-off,behavior:"smooth"});}
 function cardEl(d,i){
  const c=document.createElement("div");c.className="card";c.dataset.id=d.id;
  c.innerHTML=`<div class="ph"><img loading="lazy" decoding="async" src="${thumb(d,500)}" data-full="${d.img}" ${FB} alt="${d.title} stereograph"></div><div class="cb"><div class="acc">${d.id} · ${d.coll}</div><h3>${d.title}</h3><div class="meta">${d.place} &middot; ${d.year}</div><div class="tags"><span class="tline">${d.cats.map(t=>CATLABEL[t]||t).join(" · ")} · ${d.depth} depth</span><button class="fav ${favs.has(d.id)?"on":""}" title="Save to reading list">${favs.has(d.id)?"♥":"♡"}</button></div></div>`;
