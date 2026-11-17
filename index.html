@@ -50,7 +50,7 @@ a.btn{text-decoration:none;display:inline-block}
 .chip:hover{color:var(--text);border-color:var(--brass)}
 .chip.on{background:var(--brass);border-color:var(--brass);color:var(--inkbtn)}
 main{max-width:1180px;margin:0 auto;padding:24px 16px 10px;position:relative}
-.count{color:var(--dim);font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;margin-bottom:16px}
+.count{color:var(--dim);font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;margin-bottom:16px;scroll-margin-top:120px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
 .card{background:var(--paper);color:var(--ink);border:1px solid #d8ccb2;border-radius:3px;overflow:hidden;cursor:pointer;box-shadow:0 1px 2px rgba(0,0,0,.35);transition:border-color .18s,box-shadow .18s}
 .card:hover{border-color:var(--brass);box-shadow:0 10px 26px rgba(0,0,0,.45)}
@@ -456,7 +456,7 @@ function listContext(){
  if(state.q)parts.push('Search: "'+state.q+'"');
  return parts.length?parts.join(" · "):"All items";
 }
-function setCat(k){state.cat=k;document.querySelectorAll(".chip").forEach((c,i)=>{c.classList.toggle("on",CATS[i][0]===k);c.setAttribute("aria-pressed",CATS[i][0]===k?"true":"false")});document.querySelectorAll("#seriesList .arow").forEach(r=>r.classList.toggle("on",r.dataset.k===k));render()}
+function setCat(k){state.cat=k;document.querySelectorAll(".chip").forEach((c,i)=>{c.classList.toggle("on",CATS[i][0]===k);c.setAttribute("aria-pressed",CATS[i][0]===k?"true":"false")});document.querySelectorAll("#seriesList .arow").forEach(r=>r.classList.toggle("on",r.dataset.k===k));revealNext=true;render()}
 /* finding aid */
 function buildAid(){
  const cl=$("#collList");
@@ -464,7 +464,7 @@ function buildAid(){
  const mk=(label,n,span,fn,on,vrKey)=>{const r=document.createElement("div");r.className="arow"+(on?" on":"");r.tabIndex=0;r.setAttribute("role","button");r.innerHTML=`<span>${label}</span><span class="n">${n} ${n===1?"item":"items"} · ${span}${vrKey?vrA(vrKey):""}</span>`;r.onclick=fn;r.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();fn()}};cl.appendChild(r);return r};
  const span=a=>{const lo=Math.min(...a.map(d=>d.sy)),hi=Math.max(...a.map(d=>d.sy));return lo===hi?""+lo:lo+"–"+hi};
  mk("All holdings",DATA.length,span(DATA),()=>{state.coll="all";cl.querySelectorAll(".arow").forEach((r,i)=>r.classList.toggle("on",i===0));setCat("all")},true,"all");
- [...new Set(DATA.map(d=>d.coll))].forEach(name=>{const items=DATA.filter(d=>d.coll===name);const r=mk(name,items.length,span(items),()=>{state.coll=name;cl.querySelectorAll(".arow").forEach(x=>x.classList.remove("on"));r.classList.add("on");render()},"","coll:"+name)});
+ [...new Set(DATA.map(d=>d.coll))].forEach(name=>{const items=DATA.filter(d=>d.coll===name);const r=mk(name,items.length,span(items),()=>{state.coll=name;cl.querySelectorAll(".arow").forEach(x=>x.classList.remove("on"));r.classList.add("on");revealNext=true;render()},"","coll:"+name)});
  const sl=$("#seriesList");
  CATS.filter(([k])=>k!=="all"&&k!=="favs").forEach(([k,l])=>{const n=DATA.filter(d=>d.cats.includes(k)).length;const r=document.createElement("div");r.className="arow";r.tabIndex=0;r.setAttribute("role","button");r.dataset.k=k;r.innerHTML=`<span>${l}</span><span class="n">${n} ${n===1?"item":"items"}${vrA("series:"+k)}</span>`;r.onclick=()=>setCat(state.cat===k?"all":k);r.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();setCat(state.cat===k?"all":k)}};sl.appendChild(r)});
 }
@@ -475,7 +475,7 @@ $("#aidToggle").onclick=()=>{const sec=$("#aidSec");sec.classList.toggle("open")
    sort control while it is active and re-enables it on leaving. */
 /* Round 10: the view toggle is a three-way switch, but only its class
    said which view was active; screen readers get aria-pressed too. */
-function setView(v){state.view=v;const map={shelves:"vShelves",reg:"vRegister",timeline:"vTimeline"};Object.entries(map).forEach(([k,id])=>{const b=document.getElementById(id);b.classList.toggle("on",k===v);b.setAttribute("aria-pressed",k===v?"true":"false")});render()}
+function setView(v){state.view=v;const map={shelves:"vShelves",reg:"vRegister",timeline:"vTimeline"};Object.entries(map).forEach(([k,id])=>{const b=document.getElementById(id);b.classList.toggle("on",k===v);b.setAttribute("aria-pressed",k===v?"true":"false")});revealNext=true;render()}
 $("#vShelves").onclick=()=>setView("shelves");
 $("#vRegister").onclick=()=>setView("reg");
 $("#vTimeline").onclick=()=>setView("timeline");
@@ -502,6 +502,15 @@ function filtered(){
 let shuffleRank=null;
 let currentList=[];
 let shown=48,lastSig='',renderedShown=0,pendingAppend=false;
+/* Round 15: a search or a filter changes what the list holds, but the
+   list sits below the shelf and the finding aid — typing "Niagara" in
+   the sticky toolbar left the results below the fold with nothing
+   bringing them into view. Filter and view actions ask render() to
+   bring the count line into view afterwards; sort, reshuffle, Show
+   more and heart toggles reorder or extend the list already on
+   screen, so they do not. */
+let revealNext=false;
+function maybeReveal(){if(!revealNext)return;revealNext=false;const c=$("#count");if(c&&c.scrollIntoView)c.scrollIntoView({behavior:"smooth"});}
 function cardEl(d,i){
  const c=document.createElement("div");c.className="card";c.dataset.id=d.id;
  c.innerHTML=`<div class="ph"><img loading="lazy" decoding="async" src="${thumb(d,500)}" data-full="${d.img}" ${FB} alt="${d.title} stereograph"></div><div class="cb"><div class="acc">${d.id} · ${d.coll}</div><h3>${d.title}</h3><div class="meta">${d.place} &middot; ${d.year}</div><div class="tags"><span class="tline">${d.cats.map(t=>CATLABEL[t]||t).join(" · ")} · ${d.depth} depth</span><button class="fav ${favs.has(d.id)?"on":""}" title="Save to reading list">${favs.has(d.id)?"♥":"♡"}</button></div></div>`;
@@ -573,7 +582,7 @@ function render(){
   g.style.display="none";rg.style.display="block";$("#tlm").style.display="none";
   rg.innerHTML=`<div class="regwrap"><table><thead><tr><th>No.</th><th>Title</th><th>Date</th><th class="hidemb">Place</th><th class="hidemb">Series</th><th>Depth</th></tr></thead><tbody>${page.map((d,i)=>`<tr data-i="${i}"><td class="no">${d.id}</td><td class="ttl">${d.title}</td><td>${d.year}</td><td class="hidemb">${d.place}</td><td class="hidemb">${d.cats.map(c=>CATLABEL[c]||c).join(", ")}</td><td>${d.depth}</td></tr>`).join("")}</tbody></table></div>`;
   rg.querySelectorAll("tbody tr").forEach(tr=>{tr.tabIndex=0;tr.onclick=()=>openViewer(+tr.dataset.i);tr.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();openViewer(+tr.dataset.i)}}});
-  renderedShown=page.length;pendingAppend=false;
+  renderedShown=page.length;pendingAppend=false;maybeReveal();
   return;
  }
  if(state.view==="timeline"){
@@ -590,7 +599,7 @@ function render(){
    shownGroups.get(b).forEach(([d,i])=>gr.appendChild(cardEl(d,i)));
    sec.appendChild(gr);tm.appendChild(sec);
   });
-  renderedShown=page.length;pendingAppend=false;
+  renderedShown=page.length;pendingAppend=false;maybeReveal();
   return;
  }
  g.style.display="grid";rg.style.display="none";$("#tlm").style.display="none";
@@ -603,12 +612,12 @@ function render(){
   g.innerHTML="";
   page.forEach((d,i)=>g.appendChild(cardEl(d,i)));
  }
- renderedShown=page.length;pendingAppend=false;
+ renderedShown=page.length;pendingAppend=false;maybeReveal();
 }
 function toggleFav(t){favs.has(t)?favs.delete(t):favs.add(t);localStorage.setItem("stereoFavs",JSON.stringify([...favs]));updateChipCounts();syncFavBtn()}
 let qTimer=null;
-$("#q").oninput=e=>{const v=e.target.value.trim().toLowerCase();clearTimeout(qTimer);qTimer=setTimeout(()=>{state.q=v;render()},120)};
-$("#era").onchange=e=>{state.era=e.target.value;render()};
+$("#q").oninput=e=>{const v=e.target.value.trim().toLowerCase();clearTimeout(qTimer);qTimer=setTimeout(()=>{state.q=v;revealNext=true;render()},120)};
+$("#era").onchange=e=>{state.era=e.target.value;revealNext=true;render()};
 /* Round 5: one reset shared by the toolbar button and the empty-state button. Sort is still not reset: sort is not a filter (round 4 holds). */
 function clearAllFilters(){state.q="";state.era="all";state.coll="all";$("#q").value="";$("#era").value="all";document.querySelectorAll("#collList .arow").forEach((r,i)=>r.classList.toggle("on",i===0));setCat("all")}
 $("#clearFilters").onclick=clearAllFilters;
