@@ -131,6 +131,13 @@ const statusEl=document.getElementById('status');
    If the support check itself fails, we fall back to the flat mode
    rather than a dead page. */
 let vrCapable=false,landingActive=false;
+/* Round 15: the reading status promised "Press Enter VR when ready"
+   whenever navigator.xr existed, but on a desktop browser the VR
+   button still reads "VR NOT SUPPORTED" — the page contradicted its
+   own control. The promise waits until the support check has actually
+   resolved in favour; before that it keeps the old wording, so a
+   headset browser sees nothing change while the check runs. */
+let vrChecked=false;
 const landingEl=document.getElementById('landing');
 function updateLanding(){
   if(!DATA.length||cur<0||!DATA[cur])return;
@@ -159,6 +166,7 @@ async function initMode(){
     try{ok=await Promise.race([navigator.xr.isSessionSupported('immersive-vr'),new Promise(r=>setTimeout(()=>r(false),3000))]);}
     catch(e){ok=false;}
   }
+  vrChecked=true;
   if(ok){vrCapable=true;showLanding();}
   else startFlat();
 }
@@ -1289,7 +1297,7 @@ function updateStatus(){
   if(uiState==='browse'){
     statusEl.textContent=presenting?('Browsing '+curSet.label+'. Point at a card and pull the trigger to open it. Flick the thumbstick to turn the wall. Squeeze returns to the card.'):('Browsing '+curSet.label+'. Click a card on the wall to open it, or go back to the card.');
   }else{
-    statusEl.textContent=presenting?'In VR. Trigger: next card. Squeeze: back. Browse opens the shelves, Record shows the catalogue card, EXIT leaves VR.':('Rectified and comfort checked by the overlay pipeline. '+(navigator.xr?'Press Enter VR when ready.':'Drag to look around, arrow keys flip cards.'));
+    statusEl.textContent=presenting?'In VR. Trigger: next card. Squeeze: back. Browse opens the shelves, Record shows the catalogue card, EXIT leaves VR.':('Rectified and comfort checked by the overlay pipeline. '+((!vrChecked||vrCapable)?'Press Enter VR when ready.':'Drag to look around, arrow keys flip cards.'));
   }
 }
 function updateHtmlButtons(){
