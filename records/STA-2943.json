@@ -1,0 +1,69 @@
+{
+ "title": "View at Saratoga",
+ "place": "Saratoga Springs, New York",
+ "year": "c. 1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/View_at_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_at_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/c2/View_at_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_at_Saratoga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2565,
+ "h": 1261,
+ "id": "STA-2943",
+ "rect": "rect/2942.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 2.48,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.9815,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/View_at_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_at_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9815,
+  "L": [
+   0.358333,
+   0.0,
+   0.128906,
+   0.0,
+   0.742585,
+   0.215572
+  ],
+  "R": [
+   0.355321,
+   -0.006756,
+   0.518483,
+   -0.003623,
+   0.738709,
+   0.224033
+  ],
+  "g": [
+   1.0,
+   0.9988
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured deep (2.48% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865~",
+ "date_start": 1860,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10070411,
+ "source_revision_id": null,
+ "source_sha1": "e288cb2da5d8fb62e088e1ea5d258446f7de7ffb"
+}
