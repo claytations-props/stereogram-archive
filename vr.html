@@ -1334,6 +1334,10 @@ function setState(s){
   browseBtn3d.userData.hit.userData.redraw(s==='browse'?'READ':'BROWSE',false);
   ROW_HITS.forEach(h=>setHover(h,false));
   applyVis();updateStatus();updateHtmlButtons();syncFlatWallButtons();updateLanding();persist();
+  /* Round 15: going back to the card left the crumb showing the wall
+     page from browse ("Wall page 16 of 126") while reading, because
+     only renderWall refreshed it. The crumb follows the state now. */
+  document.getElementById('setCrumb').textContent=crumbText();
 }
 function toggleRecord(){
   recordOn=!recordOn;
