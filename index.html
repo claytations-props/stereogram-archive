@@ -460,7 +460,12 @@ function setCat(k){state.cat=k;document.querySelectorAll(".chip").forEach((c,i)=
 /* finding aid */
 function buildAid(){
  const cl=$("#collList");
- const vrA=key=>` · <a href="vr.html?set=${encodeURIComponent(key)}" onclick="event.stopPropagation()">Browse in VR</a>`;
+ /* Round 15: the "Browse in VR" link is a shortcut inside a filter
+    row, and following it in the same tab threw the gallery's filter
+    state away — the visitor was mid-filter and one click lost it.
+    It opens in a new tab now, like Research Notes, while the main
+    "Enter the VR Parlor" button keeps its same-tab navigation. */
+ const vrA=key=>` · <a href="vr.html?set=${encodeURIComponent(key)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Browse in VR</a>`;
  const mk=(label,n,span,fn,on,vrKey)=>{const r=document.createElement("div");r.className="arow"+(on?" on":"");r.tabIndex=0;r.setAttribute("role","button");r.innerHTML=`<span>${label}</span><span class="n">${n} ${n===1?"item":"items"} · ${span}${vrKey?vrA(vrKey):""}</span>`;r.onclick=fn;r.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();fn()}};cl.appendChild(r);return r};
  const span=a=>{const lo=Math.min(...a.map(d=>d.sy)),hi=Math.max(...a.map(d=>d.sy));return lo===hi?""+lo:lo+"–"+hi};
  mk("All holdings",DATA.length,span(DATA),()=>{state.coll="all";cl.querySelectorAll(".arow").forEach((r,i)=>r.classList.toggle("on",i===0));setCat("all")},true,"all");
