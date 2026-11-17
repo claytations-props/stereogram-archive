@@ -68,10 +68,14 @@ walked live this round (round 11 covered them).
 1. Search, filter, and view actions bring the results into view. A
    reveal flag set by the search input, the era dropdown, series
    chips, collection rows, the clear control, and the view switch
-   asks render() to scroll the count line into view afterwards, with
-   a 120px scroll margin so it clears the sticky toolbar. Sort,
+   asks render() to scroll the count line into view afterwards. Sort,
    Shuffle again, Show more, and heart toggles do not scroll: they
-   reorder or extend the list already on screen.
+   reorder or extend the list already on screen. The scroll offset
+   is measured off the live toolbar height: the first version used a
+   fixed 120px scroll margin, and the live walk caught the count line
+   still hiding behind the toolbar, which runs about 195px tall at
+   desktop width. The fix commit (eae8a67) measures the toolbar and
+   scrolls the count line to 16px below its bottom edge.
 2. The Reading List empty state names the filter when saved cards are
    hidden by it: "No saved cards match the current search or
    filters. Clear them to see your saved cards." — with the
@@ -267,11 +271,11 @@ grid for the same reason:
   forward (+170) and Prev one tile back (−170) via scrollBy, Prev is
   disabled at the start with Next live, Prev is live mid-shelf with
   Next disabled at the end, and both are disabled when nothing
-  overflows (round 14); the count line carries a 120px scroll margin
-  under the sticky toolbar, and exactly one reveal fires for a typed
-  search, a series chip, a collection row, an era choice, and a
-  Timeline switch, while changing the sort, Show more, and a heart
-  toggle fire none (round 15); the round-15 seed saves three cards
+  overflows (round 14); the reveal measures the sticky toolbar for
+  its offset and exactly one reveal fires for a typed search, a
+  series chip, a collection row, an era choice, and a Timeline
+  switch, while changing the sort, Show more, and a heart toggle
+  fire none (round 15); the round-15 seed saves three cards
   from the grid, the Reading List shows them, a search matching no
   saved card empties the list to "Showing 0 of 3011 items · Reading
   List · Search: "zzzzqqq"" with the new filtered-empty message and
@@ -307,7 +311,37 @@ which supersedes the round-14 Parlor harness):
   browsing. Both vr.html script blocks pass node --check with no
   syntax errors.
 
-Live verification: PENDING — to be filled in after push.
+Live verification: after push, curl confirmed the new code served
+(index.html carries the reveal, the filtered-empty message, the
+new-tab VR links, and the measured offset; vr.html carries vrChecked
+and the setState crumb refresh; browse.json serves 3,011 items; both
+pages 200). A live browser walk (03:04–03:08 CST) then confirmed
+four of the five behaviors and caught the fifth half-working: typing
+"Niagara" scrolled to the results but the count line stayed hidden
+behind the toolbar, because the first version's fixed 120px scroll
+margin was short of the toolbar's ~195px height; the filtered-empty
+Reading List showed "No saved cards match the current search or
+filters. Clear them to see your saved cards." with its clear button,
+and clearing restored the three saved cards with the search box
+empty and the list still active, while a truly empty list kept the
+original message with no clear button; a Finding Aid "Browse in VR"
+link opened vr.html in a new tab with the gallery tab and its
+filters intact; the flat Parlor reading status read "Rectified and
+comfort checked by the overlay pipeline. Drag to look around, arrow
+keys flip cards." with no Enter VR promise and the VR button reading
+"VR NOT SUPPORTED"; and the crumb dropped from "CURRENT SET ·
+ROBERT N. DENNIS COLLECTION · CARD 1 OF 1676 · WALL PAGE 8 OF 70"
+to "CURRENT SET · ROBERT N. DENNIS COLLECTION · CARD 1 OF 1676"
+after "Back to the card". The reveal was fixed in the same round
+(eae8a67: the offset is measured off the live toolbar height). Two
+re-checks of the fix first failed on a stale deploy — GitHub Pages
+serves index.html with Cache-Control: max-age=600 and the walk
+browser still held the old file, so both ran the old code (the same
+~1,441px scroll both times). A third re-check on a cache-busting
+URL (03:14–03:15 CST) passed all three triggers: "Niagara",
+"Falls & Rivers", and the Dennis collection row each left the count
+line fully visible about 20px below the toolbar's bottom edge
+(y≈218). Both pages load cleanly with no errors.
 
 What only a headset can judge: whether the in-room control row still
 reads clearly in VR now that it shows only inside a session, and
@@ -317,6 +351,7 @@ length (held from round 10). Those are Clay's call in the headset.
 ## Commits (one per change, each revertible on its own)
 
 1. `63ad648` — Gallery: search, filter and view actions bring the results into view
+   Follow-up: `eae8a67` — Gallery: reveal offset measures the sticky toolbar height
 2. `4b643b3` — Gallery: Reading List empty state names the filter hiding saved cards
 3. `4ef6a62` — Gallery: Finding Aid Browse in VR links open in a new tab
 4. `f2b92ba` — Parlor: status promises Enter VR only where VR is actually supported
@@ -325,8 +360,9 @@ length (held from round 10). Those are Clay's call in the headset.
 ## Veto list
 
 1. Gallery search, filters, and view switches now bring the results
-   into view (scrolling the count line up under the toolbar), where
-   typing a search used to leave the new results below the fold.
+   into view (scrolling the count line to just below the toolbar),
+   where typing a search used to leave the new results below the
+   fold.
 2. Gallery Reading List: when saved cards are only hidden by a
    search or a filter, the empty state now says so and offers a
    clear button that restores the saved cards without leaving the
