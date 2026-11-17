@@ -1,0 +1,69 @@
+{
+ "title": "White's Cove and Snake Hill, Lake Sarasota",
+ "place": "Saratoga Lake, New York",
+ "year": "1869",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/White%27s_Cove_and_Snake_Hill%2C_Lake_Sarasota%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-White%27s_Cove_and_Snake_Hill%2C_Lake_Sarasota%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/33/White%27s_Cove_and_Snake_Hill%2C_Lake_Sarasota%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:White%27s_Cove_and_Snake_Hill,_Lake_Sarasota,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2657,
+ "h": 1342,
+ "id": "STA-2965",
+ "rect": "rect/2964.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.06,
+ "rot": 0.08,
+ "range": 1.98,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.495,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/White%27s_Cove_and_Snake_Hill%2C_Lake_Sarasota%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-White%27s_Cove_and_Snake_Hill%2C_Lake_Sarasota%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.495,
+  "L": [
+   0.230729,
+   0.0,
+   0.095573,
+   0.0,
+   0.92268,
+   0.03866
+  ],
+  "R": [
+   0.230195,
+   -0.003308,
+   0.509088,
+   0.000621,
+   0.920734,
+   0.036943
+  ],
+  "g": [
+   0.9892,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.08° of rotation. Depth measured moderate (1.98% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869",
+ "date_start": 1869,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10078831,
+ "source_revision_id": null,
+ "source_sha1": "462da338ee03e843317b6b7be671658c653ce747"
+}
