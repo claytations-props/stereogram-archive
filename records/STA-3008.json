@@ -1,0 +1,69 @@
+{
+ "title": "Concord Common, by Ellinwood & McClary",
+ "place": "Concord, New Hampshire",
+ "year": "1871–1875",
+ "sy": 1871,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Concord_Common%2C_by_Ellinwood_%26_McClary.jpg/1920px-Concord_Common%2C_by_Ellinwood_%26_McClary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/35/Concord_Common%2C_by_Ellinwood_%26_McClary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Concord_Common,_by_Ellinwood_%26_McClary.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1407,
+ "id": "STA-3008",
+ "rect": "rect/3007.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.1,
+ "rot": 0.02,
+ "range": 0.48,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9324,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Concord_Common%2C_by_Ellinwood_%26_McClary.jpg/1920px-Concord_Common%2C_by_Ellinwood_%26_McClary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9324,
+  "L": [
+   0.388021,
+   0.0,
+   0.09401,
+   0.0,
+   0.809524,
+   0.072442
+  ],
+  "R": [
+   0.386463,
+   -0.007908,
+   0.524631,
+   0.011006,
+   0.810962,
+   0.059194
+  ],
+  "g": [
+   0.9891,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured gentle (0.48% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Ellinwood & McClary",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1871/1875",
+ "date_start": 1871,
+ "date_end": 1875,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10249914,
+ "source_revision_id": null,
+ "source_sha1": "ffe5001e53973f82435baf6a078e2669a3261d73"
+}
