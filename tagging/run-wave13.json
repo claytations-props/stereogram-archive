@@ -1,0 +1,755 @@
+{
+ "assignments": {
+  "STA-2905": {
+   "tags": [
+    "hotel",
+    "trees",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2906": {
+   "tags": [
+    "hotel",
+    "trees",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2907": {
+   "tags": [
+    "room interior",
+    "fireplace"
+   ],
+   "conf": "high"
+  },
+  "STA-2908": {
+   "tags": [
+    "crowd",
+    "hotel"
+   ],
+   "conf": "high"
+  },
+  "STA-2909": {
+   "tags": [
+    "crowd",
+    "hotel",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2910": {
+   "tags": [
+    "hotel",
+    "trees",
+    "garden"
+   ],
+   "conf": "high"
+  },
+  "STA-2911": {
+   "tags": [
+    "hotel",
+    "trees",
+    "garden"
+   ],
+   "conf": "high"
+  },
+  "STA-2912": {
+   "tags": [
+    "crowd",
+    "hotel"
+   ],
+   "conf": "high"
+  },
+  "STA-2913": {
+   "tags": [
+    "hotel",
+    "trees",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2915": {
+   "tags": [
+    "hotel",
+    "trees",
+    "horse",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2916": {
+   "tags": [
+    "hotel",
+    "trees",
+    "horse",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2917": {
+   "tags": [
+    "room interior",
+    "workers"
+   ],
+   "conf": "high"
+  },
+  "STA-2918": {
+   "tags": [
+    "room interior",
+    "workers"
+   ],
+   "conf": "high"
+  },
+  "STA-2919": {
+   "tags": [
+    "room interior",
+    "workers"
+   ],
+   "conf": "high"
+  },
+  "STA-2920": {
+   "tags": [
+    "room interior",
+    "workers"
+   ],
+   "conf": "high"
+  },
+  "STA-2921": {
+   "tags": [
+    "room interior",
+    "workers"
+   ],
+   "conf": "high"
+  },
+  "STA-2924": {
+   "tags": [
+    "hotel",
+    "garden",
+    "fountain",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2925": {
+   "tags": [
+    "hotel",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2926": {
+   "tags": [
+    "hotel",
+    "fountain",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2927": {
+   "tags": [
+    "room interior",
+    "fireplace"
+   ],
+   "conf": "high"
+  },
+  "STA-2928": {
+   "tags": [
+    "hotel",
+    "trees",
+    "horse",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2929": {
+   "tags": [
+    "hotel",
+    "trees",
+    "horse",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2930": {
+   "tags": [
+    "hotel",
+    "trees",
+    "horse",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2931": {
+   "tags": [
+    "hotel",
+    "trees",
+    "horse",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2932": {
+   "tags": [
+    "hotel",
+    "trees",
+    "horse",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2933": {
+   "tags": [
+    "hotel",
+    "trees",
+    "horse",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2934": {
+   "tags": [
+    "room interior",
+    "fireplace"
+   ],
+   "conf": "high"
+  },
+  "STA-2935": {
+   "tags": [
+    "room interior",
+    "piano"
+   ],
+   "conf": "high"
+  },
+  "STA-2938": {
+   "tags": [
+    "soldiers",
+    "tents",
+    "encampment"
+   ],
+   "conf": "high"
+  },
+  "STA-2939": {
+   "tags": [
+    "marching band",
+    "soldiers",
+    "tents"
+   ],
+   "conf": "high"
+  },
+  "STA-2940": {
+   "tags": [
+    "soldiers",
+    "tents"
+   ],
+   "conf": "high"
+  },
+  "STA-2942": {
+   "tags": [
+    "pavilion",
+    "crowd",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2943": {
+   "tags": [
+    "portrait group",
+    "family",
+    "children"
+   ],
+   "conf": "high"
+  },
+  "STA-2944": {
+   "tags": [
+    "portrait group",
+    "family",
+    "children"
+   ],
+   "conf": "high"
+  },
+  "STA-2945": {
+   "tags": [
+    "pavilion",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2946": {
+   "tags": [
+    "hotel",
+    "trees",
+    "garden"
+   ],
+   "conf": "high"
+  },
+  "STA-2947": {
+   "tags": [
+    "hotel",
+    "trees",
+    "garden"
+   ],
+   "conf": "high"
+  },
+  "STA-2948": {
+   "tags": [
+    "crowd",
+    "bandstand",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2949": {
+   "tags": [
+    "hotel",
+    "trees",
+    "garden"
+   ],
+   "conf": "high"
+  },
+  "STA-2950": {
+   "tags": [
+    "hotel",
+    "trees",
+    "garden"
+   ],
+   "conf": "high"
+  },
+  "STA-2952": {
+   "tags": [
+    "hotel",
+    "trees",
+    "garden",
+    "flowers"
+   ],
+   "conf": "high"
+  },
+  "STA-2953": {
+   "tags": [
+    "pavilion",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2954": {
+   "tags": [
+    "pavilion",
+    "crowd",
+    "hotel",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2955": {
+   "tags": [
+    "pavilion",
+    "hotel",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2956": {
+   "tags": [
+    "pavilion",
+    "hotel",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2957": {
+   "tags": [
+    "pavilion",
+    "hotel",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2958": {
+   "tags": [
+    "pavilion",
+    "hotel",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2959": {
+   "tags": [
+    "pavilion",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2960": {
+   "tags": [
+    "pavilion",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2961": {
+   "tags": [
+    "pavilion",
+    "hotel",
+    "trees",
+    "garden"
+   ],
+   "conf": "high"
+  },
+  "STA-2962": {
+   "tags": [
+    "pavilion",
+    "hotel",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2963": {
+   "tags": [
+    "pavilion",
+    "hotel",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2964": {
+   "tags": [
+    "hotel",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2965": {
+   "tags": [
+    "lake",
+    "trees",
+    "forest"
+   ],
+   "conf": "high"
+  },
+  "STA-2966": {
+   "tags": [
+    "horse",
+    "horse-drawn carriage",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2967": {
+   "tags": [
+    "house",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2968": {
+   "tags": [
+    "house",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2969": {
+   "tags": [
+    "pavilion",
+    "portrait group",
+    "children",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2970": {
+   "tags": [
+    "church",
+    "trees",
+    "house"
+   ],
+   "conf": "high"
+  },
+  "STA-2971": {
+   "tags": [
+    "monument",
+    "statue",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2972": {
+   "tags": [
+    "lighthouse",
+    "ice",
+    "rowboat"
+   ],
+   "conf": "high"
+  },
+  "STA-2973": {
+   "tags": [
+    "church",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2974": {
+   "tags": [
+    "monument",
+    "statue",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2975": {
+   "tags": [
+    "bridge",
+    "river",
+    "house"
+   ],
+   "conf": "high"
+  },
+  "STA-2976": {
+   "tags": [
+    "lighthouse",
+    "ice",
+    "rowboat"
+   ],
+   "conf": "high"
+  },
+  "STA-2977": {
+   "tags": [
+    "bridge",
+    "river",
+    "house"
+   ],
+   "conf": "high"
+  },
+  "STA-2978": {
+   "tags": [
+    "lake",
+    "rowboat",
+    "trees",
+    "mountain"
+   ],
+   "conf": "high"
+  },
+  "STA-2980": {
+   "tags": [
+    "lighthouse",
+    "rowboat"
+   ],
+   "conf": "high"
+  },
+  "STA-2981": {
+   "tags": [
+    "bridge",
+    "river",
+    "pier"
+   ],
+   "conf": "high"
+  },
+  "STA-2982": {
+   "tags": [
+    "church",
+    "trees",
+    "house"
+   ],
+   "conf": "high"
+  },
+  "STA-2983": {
+   "tags": [
+    "church",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2984": {
+   "tags": [
+    "bandstand",
+    "construction",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2985": {
+   "tags": [
+    "bandstand",
+    "construction",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2986": {
+   "tags": [
+    "lighthouse",
+    "rowboat"
+   ],
+   "conf": "high"
+  },
+  "STA-2987": {
+   "tags": [
+    "monument",
+    "statue",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2988": {
+   "tags": [
+    "monument",
+    "statue",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2989": {
+   "tags": [
+    "main street",
+    "storefront"
+   ],
+   "conf": "high"
+  },
+  "STA-2990": {
+   "tags": [
+    "river",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-2991": {
+   "tags": [
+    "main street",
+    "storefront",
+    "horse",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2992": {
+   "tags": [
+    "main street",
+    "storefront",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2993": {
+   "tags": [
+    "covered bridge",
+    "river",
+    "trees",
+    "family"
+   ],
+   "conf": "high"
+  },
+  "STA-2994": {
+   "tags": [
+    "house",
+    "fountain",
+    "garden"
+   ],
+   "conf": "high"
+  },
+  "STA-2996": {
+   "tags": [
+    "main street",
+    "storefront",
+    "horse",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-2998": {
+   "tags": [
+    "main street",
+    "storefront",
+    "horse",
+    "horse-drawn carriage",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-3001": {
+   "tags": [
+    "bridge",
+    "trees",
+    "statue"
+   ],
+   "conf": "high"
+  },
+  "STA-3002": {
+   "tags": [
+    "main street",
+    "storefront",
+    "horse",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-3003": {
+   "tags": [
+    "main street",
+    "storefront",
+    "horse",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-3004": {
+   "tags": [
+    "statue",
+    "monument"
+   ],
+   "conf": "high"
+  },
+  "STA-3005": {
+   "tags": [
+    "house",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-3006": {
+   "tags": [
+    "schoolhouse",
+    "crowd",
+    "children",
+    "snow"
+   ],
+   "conf": "high"
+  },
+  "STA-3007": {
+   "tags": [
+    "church",
+    "house"
+   ],
+   "conf": "high"
+  },
+  "STA-3008": {
+   "tags": [
+    "snow",
+    "trees",
+    "church"
+   ],
+   "conf": "high"
+  },
+  "STA-3009": {
+   "tags": [
+    "valley",
+    "trees",
+    "forest"
+   ],
+   "conf": "high"
+  },
+  "STA-3010": {
+   "tags": [
+    "monument",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-3011": {
+   "tags": [
+    "storefront",
+    "main street"
+   ],
+   "conf": "high"
+  }
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2936.json",
+ "name": "United States Hotel Parlors, Saratoga, N.Y, by H.C. White Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2935.jpg",
+ "identifier": "STA-2936",
+ "creator": {
+  "@type": "Person",
+  "name": "H.C. White Co."
+ },
+ "dateCreated": "1905",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:United_States_Hotel_Parlors,_Saratoga,_N.Y,_by_H.C._White_Co..jpg"
+}

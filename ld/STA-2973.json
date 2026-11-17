@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2973.json",
+ "name": "Church, Bridgeport, Conn, by Wilson & Davis 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2972.jpg",
+ "identifier": "STA-2973",
+ "creator": {
+  "@type": "Person",
+  "name": "Wilson & Davis"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bridgeport, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Church,_Bridgeport,_Conn,_by_Wilson_%26_Davis_2.jpg"
+}

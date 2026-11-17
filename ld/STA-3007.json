@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3007.json",
+ "name": "View of Concord from \"Sand Hill\", by E. P. Gerould",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3006.jpg",
+ "identifier": "STA-3007",
+ "creator": {
+  "@type": "Person",
+  "name": "E. P. Gerould"
+ },
+ "dateCreated": "1859",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Concord, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_Concord_from_%22Sand_Hill%22,_by_E._P._Gerould.jpg"
+}

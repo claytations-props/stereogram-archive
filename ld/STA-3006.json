@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3006.json",
+ "name": "Boscawen Academy, Boscawen, Concord County, N.H",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3005.jpg",
+ "identifier": "STA-3006",
+ "dateCreated": "1868",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Boscawen, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Boscawen_Academy,_Boscawen,_Concord_County,_N.H,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

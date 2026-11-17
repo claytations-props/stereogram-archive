@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3010.json",
+ "name": "View of Concord, N.H, by Kimball, H. A. --q(Howard A.), 1845-ca.1930",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3009.jpg",
+ "identifier": "STA-3010",
+ "creator": {
+  "@type": "Person",
+  "name": "Kimball, H. A. --q(Howard A.), 1845-ca.1930"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Concord, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_Concord,_N.H,_by_Kimball,_H._A._--q(Howard_A.),_1845-ca.1930.jpg"
+}

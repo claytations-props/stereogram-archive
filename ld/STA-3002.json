@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3002.json",
+ "name": "Ward & Humphrey & Co. (Hardware Stores,) Concord, N.H",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3001.jpg",
+ "identifier": "STA-3002",
+ "dateCreated": "1863",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Concord, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Ward_%26_Humphrey_%26_Co._(Hardware_Stores,)_Concord,_N.H,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

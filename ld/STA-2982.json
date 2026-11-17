@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2982.json",
+ "name": "Church, Bridgeport, Conn (NYPL b11707675-G90F067 002F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2981.jpg",
+ "identifier": "STA-2982",
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bridgeport, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Church,_Bridgeport,_Conn_(NYPL_b11707675-G90F067_002F).tiff"
+}

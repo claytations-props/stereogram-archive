@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2993.json",
+ "name": "Merrimac River, Concord, N.H",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2992.jpg",
+ "identifier": "STA-2993",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Concord, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Merrimac_River,_Concord,_N.H,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2906.json",
+ "name": "U.S. Hotel, Saratoga, N.Y, by Cremer, James, 1821-1893",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2905.jpg",
+ "identifier": "STA-2906",
+ "creator": {
+  "@type": "Person",
+  "name": "Cremer, James"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saratoga Springs, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:U.S._Hotel,_Saratoga,_N.Y,_by_Cremer,_James,_1821-1893.jpg"
+}

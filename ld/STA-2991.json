@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2991.json",
+ "name": "Main Street, Concord, N.H",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2990.jpg",
+ "identifier": "STA-2991",
+ "dateCreated": "1863",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Concord, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Main_Street,_Concord,_N.H,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

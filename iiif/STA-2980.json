@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-2980.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Bridgeport lighthouse (NYPL b11707675-G90F067 004ZF)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1875"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Bridgeport, Connecticut"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-2980.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-2980/canvas/1",
+   "type": "Canvas",
+   "width": 1332,
+   "height": 388,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-2980/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-2980/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/2979.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1332,
+        "height": 388,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Bridgeport_lighthouse_%28NYPL_b11707675-G90F067_004ZF%29.tiff/lossy-page1-1920px-Bridgeport_lighthouse_%28NYPL_b11707675-G90F067_004ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-2980/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

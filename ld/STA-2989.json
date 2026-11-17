@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-2989.json",
+ "name": "Fairfield Avenue from Water Street, by David W. Wilson",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/2988.jpg",
+ "identifier": "STA-2989",
+ "creator": {
+  "@type": "Person",
+  "name": "David W. Wilson"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bridgeport, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Fairfield_Avenue_from_Water_Street,_by_David_W._Wilson.jpg"
+}
