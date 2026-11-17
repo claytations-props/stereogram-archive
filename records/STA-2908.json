@@ -1,0 +1,69 @@
+{
+ "title": "U.S. Hotel Piazza",
+ "place": "Saratoga Springs, New York",
+ "year": "1869",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/U.S._Hotel_Piazza%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-U.S._Hotel_Piazza%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/8d/U.S._Hotel_Piazza%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:U.S._Hotel_Piazza,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2649,
+ "h": 1503,
+ "id": "STA-2908",
+ "rect": "rect/2907.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.02,
+ "range": 1.38,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9826,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/U.S._Hotel_Piazza%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-U.S._Hotel_Piazza%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9826,
+  "L": [
+   0.322917,
+   0.0,
+   0.134635,
+   0.0,
+   0.579431,
+   0.107897
+  ],
+  "R": [
+   0.323628,
+   0.003181,
+   0.543565,
+   -0.005877,
+   0.57979,
+   0.096171
+  ],
+  "g": [
+   1.0,
+   0.9552
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured gentle (1.38% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869",
+ "date_start": 1869,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10079663,
+ "source_revision_id": null,
+ "source_sha1": "f544ab79e0d1468ffcaa37041ca3f39911584dee"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Union Hotel, Saratoga",
+ "place": "Saratoga Springs, New York",
+ "year": "c. 1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Union_Hotel%2C_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Union_Hotel%2C_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Union_Hotel%2C_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Union_Hotel,_Saratoga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2625,
+ "h": 1306,
+ "id": "STA-2915",
+ "rect": "rect/2914.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.15,
+ "rot": 0.03,
+ "range": 0.73,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9216,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Union_Hotel%2C_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Union_Hotel%2C_Saratoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9216,
+  "L": [
+   0.391667,
+   0.0,
+   0.061719,
+   0.0,
+   0.85445,
+   0.108377
+  ],
+  "R": [
+   0.387382,
+   -0.010203,
+   0.550006,
+   0.006932,
+   0.846816,
+   0.10975
+  ],
+  "g": [
+   0.9621,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.03° of rotation. Depth measured gentle (0.73% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870~",
+ "date_start": 1865,
+ "date_end": 1875,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10070602,
+ "source_revision_id": null,
+ "source_sha1": "95782e89347a091b1641b61ccd4bd4eb0f617d3b"
+}

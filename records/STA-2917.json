@@ -1,0 +1,69 @@
+{
+ "title": "United States Hotel Dining Room, Saratoga, N.Y",
+ "place": "Saratoga Springs, New York",
+ "year": "1869",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/United_States_Hotel_Dining_Room%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-United_States_Hotel_Dining_Room%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/2e/United_States_Hotel_Dining_Room%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:United_States_Hotel_Dining_Room,_Saratoga,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2651,
+ "h": 1348,
+ "id": "STA-2917",
+ "rect": "rect/2916.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.12,
+ "rot": 0.04,
+ "range": 4.91,
+ "f": 0.55,
+ "depth": "Deep",
+ "va": 1.196,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/United_States_Hotel_Dining_Room%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-United_States_Hotel_Dining_Room%2C_Saratoga%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.196,
+  "L": [
+   0.340104,
+   0.0,
+   0.142969,
+   0.0,
+   0.559426,
+   0.309939
+  ],
+  "R": [
+   0.330059,
+   -0.0158,
+   0.56539,
+   0.007445,
+   0.558917,
+   0.318268
+  ],
+  "g": [
+   0.9836,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.04° of rotation. Depth measured deep (4.91% of frame width); hung in the VR Parlor at 55% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869",
+ "date_start": 1869,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10079026,
+ "source_revision_id": null,
+ "source_sha1": "622ddf9888b5c05783dbe24f55660160128a1294"
+}
