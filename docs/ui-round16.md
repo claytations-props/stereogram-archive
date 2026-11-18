@@ -78,9 +78,18 @@ disk, and an Image stub that fires onload (harness at
   toolbar rule carries no sticky positioning, it keeps its banner
   styling, and the reveal no longer measures the toolbar height.
   Both inline script blocks pass node --check.
-- Live verification: a mobile-viewport browser walk (390px portrait)
-  measured the picture before and after full screen and checked the
-  mode row. [Result pending at doc time — see the round report.]
+- Live verification: a desktop-width browser walk (1919 x 998, the
+  cloud browser could not be resized to a phone width) measured the
+  picture before and after full screen on STA-0001: normal 1100 x
+  541 px with the header taking the top ~210 px, full screen 1919 x
+  959 px, about 3.2x the area, header, mode buttons and Catalogue
+  Record all gone, the floating exit button present, and tapping the
+  picture returning the viewer exactly to its normal size. The
+  phone-specific mode row (single sideways-scrolling row, no hint)
+  was NOT verified live — it rests on the harness CSS checks. One
+  caching note from the walk: the first load showed no Full screen
+  button at all until a fresh cache-busted reload; a visitor on a
+  cached copy may need a hard refresh to see it.
 
 ## Commits (one per change, each revertible on its own)
 
