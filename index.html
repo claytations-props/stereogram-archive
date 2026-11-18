@@ -298,7 +298,7 @@ canvas#ana.show{display:block}
     <input type="search" id="q" aria-label="Search the archive" placeholder="Search falls, castles, war, the Moon...">
     <span id="idxNote" role="status" style="font-size:12px;color:var(--dim)"></span>
     <select id="era" aria-label="Filter by era"><option value="all">All eras</option><option value="early">1840s–1860s</option><option value="mid">1870s–1890s</option><option value="late">1900s–1920s</option><option value="undated">Undated</option></select>
-    <select id="sort" aria-label="Sort items"><option value="featured">Sort: Accession order</option><option value="old">Oldest first</option><option value="new">Newest first</option><option value="az">Title A–Z</option><option value="shuffle">Shuffle</option></select>
+    <select id="sort" aria-label="Sort items"><option value="recent">Newest to the collection</option><option value="featured">Sort: Accession order</option><option value="old">Oldest first</option><option value="new">Newest first</option><option value="az">Title A–Z</option><option value="shuffle">Shuffle</option></select>
     <button class="btn" id="reshuffle" hidden>↻ Shuffle again</button>
     <button class="btn" id="clearFilters" hidden>Clear search &amp; filters</button>
     <span class="viewtog"><button class="btn on" id="vShelves" aria-pressed="true">Shelves</button><button class="btn" id="vRegister" aria-pressed="false">Register</button><button class="btn" id="vTimeline" aria-pressed="false">Timeline</button></span>
@@ -491,7 +491,7 @@ fetch('browse.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw 0;return r.json(
  .catch(()=>{document.getElementById('count').textContent='The catalogue could not be loaded. Please reload the page.'}));
 const CATS=[["all","All"],["water","Falls & Rivers"],["mountains","Mountains & Canyons"],["cities","Cities & Towns"],["war","Civil War"],["world","Around the World"],["people","People & Comedy"],["oddities","Oddities"],["favs","♥ Reading List"]];
 const CATLABEL=Object.fromEntries(CATS);
-let state={cat:"all",era:"all",q:"",sort:"featured",coll:"all",view:"shelves"};
+let state={cat:"all",era:"all",q:"",sort:"recent",coll:"all",view:"shelves"};
 let favs=new Set(JSON.parse(localStorage.getItem("stereoFavs")||"[]"));
 const $=s=>document.querySelector(s);
 const chips=$("#chips");
@@ -557,6 +557,10 @@ function filtered(){
    if(state.coll!=="all"&&d.coll!==state.coll)return false;
    if(state.q&&!(d._hay||"").includes(state.q))return false;
    return true});
+ /* The homepage opens on the newest additions: DATA is accession
+    order, oldest first, so "recent" is that order reversed. That is
+    not the same as "new", which sorts by the photograph's own year. */
+ if(state.sort==="recent")a.reverse();
  if(state.sort==="old")a.sort((x,y)=>x.sy-y.sy);
  if(state.sort==="new")a.sort((x,y)=>y.sy-x.sy);
  if(state.sort==="az")a.sort((x,y)=>x.title.localeCompare(y.title));
@@ -615,12 +619,14 @@ function render(){
  const ctx=listContext();
  /* The count names the sort when it is not the default, so a visitor
     returning from a card can tell a shuffled or reordered list from
-    accession order at a glance. */
+    the newest additions at a glance. The Accession order option
+    carries a "Sort: " prefix in the select, which is stripped here
+    so the count does not read "Sorted: Sort: Accession order". */
  let sortTxt="";
  if(state.view==="timeline")sortTxt=" · In date order";
- else if(state.sort!=="featured"){
+ else if(state.sort!=="recent"){
   const so=document.querySelector('#sort option[value="'+state.sort+'"]');
-  sortTxt=state.sort==="shuffle"?" · Shuffled":" · Sorted: "+(so?so.textContent:state.sort);
+  sortTxt=state.sort==="shuffle"?" · Shuffled":" · Sorted: "+(so?so.textContent.replace(/^Sort: /,""):state.sort);
  }
  /* Round 9: the sort control does nothing in Timeline view (date
     order is the view), so it reads disabled there instead of silently
