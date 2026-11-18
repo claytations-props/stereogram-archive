@@ -63,6 +63,13 @@ Catalog: 3,011 items. No catalog data touched.
    is solid now instead of 3% transparent, so the gallery buttons
    behind it no longer show through dimmed between the mode row and
    the picture.
+6. Homepage opens on the newest additions. The grid opened in
+   accession order, oldest first, so a visitor landing on the
+   homepage saw STA-0001 from the first import. It opens on the
+   newest additions now: a new default sort, "Newest to the
+   collection", which is accession order reversed. That is not the
+   same as "Newest first", which sorts by the photograph's own year
+   and stays available.
 
 ## Deliberately not changed
 
@@ -84,13 +91,17 @@ browse.json, data.json, search chunks, and per-item records from
 disk, and an Image stub that fires onload (harness at
 ~/workspace/goals/stereograph-archive/hidden_files/ui-round16-jsdom.cjs):
 
-- 33 checks, 0 failures, plus 3 more for the toolbar change and 4
-  more for the viewer header change: the toolbar rule carries no
-  sticky positioning, it keeps its banner styling, and the reveal no
-  longer measures the toolbar height; the viewer header carries no
-  sticky positioning, the viewer is solid with no translucent
-  backdrop left, and the mobile title and buttons are smaller.
-  Both inline script blocks pass node --check.
+- 33 checks, 0 failures, plus 3 more for the toolbar change, 4
+  more for the viewer header change, and 5 more for the default
+  sort: the toolbar rule carries no sticky positioning, it keeps
+  its banner styling, and the reveal no longer measures the toolbar
+  height; the viewer header carries no sticky positioning, the
+  viewer is solid with no translucent backdrop left, and the mobile
+  title and buttons are smaller; the default sort is newest to the
+  collection with STA-3011 first, switching to accession order
+  starts at STA-0001 and the count reads "Sorted: Accession order"
+  with no doubled prefix, and switching back restores STA-3011
+  first. Both inline script blocks pass node --check.
 - Live verification: a desktop-width browser walk (1919 x 998, the
   cloud browser could not be resized to a phone width) measured the
   picture before and after full screen on STA-0001: normal 1100 x
@@ -110,6 +121,7 @@ disk, and an Image stub that fires onload (harness at
 2. `b3855c0` — Gallery: Featured shelf with twelve of the best views
 3. `fb4b0ae` — Gallery: toolbar scrolls away with the page
 4. `62084ba` — Viewer: header scrolls away, slimmer on phones, solid backdrop
+5. `b3751df` — Gallery: homepage opens on the newest additions
 
 ## Veto list
 
@@ -128,3 +140,6 @@ disk, and an Image stub that fires onload (harness at
    instead of floating at the top, and it is thinner on a phone;
    the viewer backdrop is solid instead of letting the gallery
    show through behind it.
+6. Homepage sort: the grid opens on the newest additions instead of
+   the oldest, with the old accession order still one tap away in
+   the sort menu.
