@@ -163,7 +163,7 @@ footer a{color:var(--brass)}
  .about{grid-template-columns:1fr}
 }
 /* viewer */
-.viewer{position:fixed;inset:0;background:rgba(5,4,3,.97);z-index:50;display:none;overflow-y:auto;-webkit-overflow-scrolling:touch}
+.viewer{position:fixed;inset:0;background:var(--bg);z-index:50;display:none;overflow-y:auto;-webkit-overflow-scrolling:touch}
 .viewer.open{display:block}
 /* Full-screen focus: the picture fills the screen and the header, the
    mode row, and the record below all get out of the way. The button,
@@ -179,7 +179,12 @@ footer a{color:var(--brass)}
 .viewer.fs canvas#ana{max-width:96vw;max-height:96vh;max-height:96dvh}
 #vFsExit{display:none;position:fixed;top:12px;right:12px;z-index:60}
 .viewer.fs #vFsExit{display:block}
-.vhead{position:sticky;top:0;z-index:40;background:rgba(5,4,3,.98)}
+/* The viewer header used to stick to the top of the screen while the
+   viewer scrolled, and the viewer itself was 3% transparent, so the
+   gallery page behind it ghosted through between the buttons and the
+   picture. The header scrolls up with the rest of the viewer now,
+   and the viewer is solid, so nothing behind it shows through. */
+.vhead{background:var(--bg)}
 .vtop{display:flex;align-items:center;gap:12px;padding:14px 18px;border-bottom:1px solid var(--line);flex-wrap:wrap}
 .vtop h2{font-family:"Playfair Display",Georgia,serif;font-size:clamp(19px,3vw,27px);flex:1;min-width:200px}
 .vtop .meta{color:var(--dim);font-size:13px;width:100%;font-variant-numeric:tabular-nums}
@@ -256,6 +261,18 @@ canvas#ana.show{display:block}
  .modes::-webkit-scrollbar{display:none}
  .mode{flex:0 0 auto}
  .modehint{display:none}
+ /* The viewer header was most of a phone screen tall before the
+    picture started: a three-line title, three rows of buttons, two
+    meta lines, and the mode row. On a phone it is thinner — smaller
+    title and buttons, tighter padding — so the picture starts
+    higher, and the header scrolls away with the rest of the
+    viewer instead of floating at the top. */
+ .vtop{padding:10px 12px;gap:8px}
+ .vtop h2{font-size:17px;line-height:1.25}
+ .xbtn{padding:8px 10px;font-size:11px}
+ .vtop .meta{font-size:12px}
+ .modes{padding:8px 10px 0}
+ .mode{padding:8px 10px;font-size:11px}
  .herotx{padding:14px}
  .herotx h2{font-size:20px}
  .hmeta{font-size:12px}
