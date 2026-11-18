@@ -48,6 +48,11 @@ Catalog: 3,011 items. No catalog data touched.
    list is site presentation only and lives in index.html, never in
    records/; every ID was checked against browse.json and a missing
    card would be skipped.
+4. Toolbar scrolls away. The toolbar used to stick to the top while
+   scrolling, always covering the top of the page. It scrolls up
+   with the rest of the page now. The search-results reveal no
+   longer measures the toolbar height for its scroll offset, since
+   there is no sticky bar to clear anymore.
 
 ## Deliberately not changed
 
@@ -69,21 +74,10 @@ browse.json, data.json, search chunks, and per-item records from
 disk, and an Image stub that fires onload (harness at
 ~/workspace/goals/stereograph-archive/hidden_files/ui-round16-jsdom.cjs):
 
-- 33 checks, 0 failures: full catalog renders (3011 of 3011);
-  the full-screen CSS rules are present (header/footer hidden, stage
-  and picture fill the viewport, exit button hidden until full
-  screen); the mobile mode row scrolls sideways and the hint is
-  hidden; the Full screen button enters and exits full screen with
-  the right label and aria-pressed; tapping the picture toggles it;
-  the F key toggles it; Esc leaves full screen first and closes on
-  a second press; full screen survives stepping to the next card;
-  closing resets it; the Featured shelf renders 12 tiles from
-  STA-0001 to STA-0027 with its heading and edge buttons, back
-  disabled at the start; Recent Accessions still renders 10 tiles
-  with its back button disabled; a Featured tile opens its card in
-  the viewer; search still narrows (Niagara → 23) and the viewer
-  jump still lands on Result 11. Both inline script blocks pass
-  node --check.
+- 33 checks, 0 failures, plus 3 more for the toolbar change: the
+  toolbar rule carries no sticky positioning, it keeps its banner
+  styling, and the reveal no longer measures the toolbar height.
+  Both inline script blocks pass node --check.
 - Live verification: a mobile-viewport browser walk (390px portrait)
   measured the picture before and after full screen and checked the
   mode row. [Result pending at doc time — see the round report.]
@@ -92,6 +86,7 @@ disk, and an Image stub that fires onload (harness at
 
 1. `5f37cb1` — Viewer: full-screen focus mode, slimmer mobile mode row
 2. `b3855c0` — Gallery: Featured shelf with twelve of the best views
+3. `fb4b0ae` — Gallery: toolbar scrolls away with the page
 
 ## Veto list
 
@@ -104,3 +99,5 @@ disk, and an Image stub that fires onload (harness at
 3. Featured shelf: twelve of the best views sit above the toolbar
    under "Featured · The Best of the Archive", instead of the page
    opening straight onto the toolbar and the full catalog.
+4. Toolbar: it scrolls up with the rest of the page now, instead of
+   sticking to the top and always covering the top of the screen.
