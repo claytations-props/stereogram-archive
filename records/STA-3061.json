@@ -1,0 +1,69 @@
+{
+ "title": "Adrian House, Block Island, by H. Q. Morton",
+ "place": "Block Island, Rhode Island",
+ "year": "1874–1895",
+ "sy": 1874,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Adrian_House%2C_Block_Island%2C_by_H._Q._Morton.png/1920px-Adrian_House%2C_Block_Island%2C_by_H._Q._Morton.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Adrian_House%2C_Block_Island%2C_by_H._Q._Morton.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Adrian_House,_Block_Island,_by_H._Q._Morton.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1592,
+ "id": "STA-3061",
+ "rect": "rect/3060.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.27,
+ "rot": 0.02,
+ "range": 0.88,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 2.866,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Adrian_House%2C_Block_Island%2C_by_H._Q._Morton.png/1920px-Adrian_House%2C_Block_Island%2C_by_H._Q._Morton.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 2.866,
+  "L": [
+   0.456771,
+   0.0,
+   0.032552,
+   0.0,
+   0.273948,
+   0.276186
+  ],
+  "R": [
+   0.461427,
+   0.004286,
+   0.505647,
+   -0.027567,
+   0.276752,
+   0.278693
+  ],
+  "g": [
+   0.9958,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.27% vertical error and 0.02° of rotation. Depth measured gentle (0.88% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "H. Q. Morton",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1874/1895",
+ "date_start": 1874,
+ "date_end": 1895,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10078041,
+ "source_revision_id": null,
+ "source_sha1": "28dbba999aa6427c6106d289d72a646c8f9970ac"
+}

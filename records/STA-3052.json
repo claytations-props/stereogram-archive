@@ -1,0 +1,69 @@
+{
+ "title": "Block Island Wharf with Steamer in view",
+ "place": "Block Island, Rhode Island",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Block_Island_Wharf_with_Steamer_in_view%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Block_Island_Wharf_with_Steamer_in_view%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/78/Block_Island_Wharf_with_Steamer_in_view%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Block_Island_Wharf_with_Steamer_in_view,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1408,
+ "id": "STA-3052",
+ "rect": "rect/3051.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.35,
+ "rot": 0.01,
+ "range": 0.52,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 3.9135,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Block_Island_Wharf_with_Steamer_in_view%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Block_Island_Wharf_with_Steamer_in_view%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 3.9135,
+  "L": [
+   0.377083,
+   0.0,
+   0.105469,
+   0.0,
+   0.187247,
+   0.510628
+  ],
+  "R": [
+   0.378568,
+   -0.001487,
+   0.506395,
+   0.007052,
+   0.187921,
+   0.500671
+  ],
+  "g": [
+   0.9854,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.35% vertical error and 0.01° of rotation. Depth measured gentle (0.52% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10077993,
+ "source_revision_id": null,
+ "source_sha1": "0d79c050a2a2f7b99849ee633fda3a3b0c0d792a"
+}
