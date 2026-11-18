@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3090.json",
+ "name": "View from the Sinclair House, Bethlehem, N.H, from Robert N. Dennis collection of stereoscopic views 4",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3089.jpg",
+ "identifier": "STA-3090",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bethlehem, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_from_the_Sinclair_House,_Bethlehem,_N.H,_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.png"
+}

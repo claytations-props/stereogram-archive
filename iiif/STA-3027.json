@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-3027.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Oldest house on Cape Ann (NYPL b12535909-G90F235 085ZF)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "Undated"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Cape Ann, Massachusetts"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-3027.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-3027/canvas/1",
+   "type": "Canvas",
+   "width": 1328,
+   "height": 603,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-3027/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-3027/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/3026.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1328,
+        "height": 603,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Oldest_house_on_Cape_Ann_%28NYPL_b12535909-G90F235_085ZF%29.tiff/lossy-page1-1920px-Oldest_house_on_Cape_Ann_%28NYPL_b12535909-G90F235_085ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-3027/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

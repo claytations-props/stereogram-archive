@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3069.json",
+ "name": "Bathing Beach, Salt Pond, Surf Cottage and Ball's Store, from Tower, Ocean View Hotel, by F. Hacker",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3068.jpg",
+ "identifier": "STA-3069",
+ "creator": {
+  "@type": "Person",
+  "name": "F. Hacker"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Block Island, Rhode Island"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bathing_Beach,_Salt_Pond,_Surf_Cottage_and_Ball%27s_Store,_from_Tower,_Ocean_View_Hotel,_by_F._Hacker.jpg"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3101.json",
+ "name": "Andover Group at Summer House",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3100.jpg",
+ "identifier": "STA-3101",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Carroll, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Andover_Group_at_Summer_House,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3102.json",
+ "name": "Group on Fabyan House Piazza",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3101.jpg",
+ "identifier": "STA-3102",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Fabyan, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Group_on_Fabyan_House_Piazza,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

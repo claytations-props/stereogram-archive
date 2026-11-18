@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3068.json",
+ "name": "Beacon Hill, from Tower of Ocean View, by H. Q. Morton",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3067.jpg",
+ "identifier": "STA-3068",
+ "creator": {
+  "@type": "Person",
+  "name": "H. Q. Morton"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Block Island, Rhode Island"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Beacon_Hill,_from_Tower_of_Ocean_View,_by_H._Q._Morton.jpg"
+}

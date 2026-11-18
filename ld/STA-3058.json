@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3058.json",
+ "name": "Group of people in front of a home, Block Island, some playing croquet, child on tricycle",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3057.jpg",
+ "identifier": "STA-3058",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Block Island, Rhode Island"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Group_of_people_in_front_of_a_home,_Block_Island,_some_playing_croquet,_child_on_tricycle,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

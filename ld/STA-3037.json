@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3037.json",
+ "name": "View of Cooperstown, by Smith, Washington G., 1828-1893",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3036.jpg",
+ "identifier": "STA-3037",
+ "creator": {
+  "@type": "Person",
+  "name": "Smith, Washington G."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cooperstown, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_Cooperstown,_by_Smith,_Washington_G.,_1828-1893.png"
+}

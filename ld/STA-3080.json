@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3080.json",
+ "name": "Chapel and corpse house. (Bethlehem, Pa.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3079.jpg",
+ "identifier": "STA-3080",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bethlehem, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Chapel_and_corpse_house._(Bethlehem,_Pa.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

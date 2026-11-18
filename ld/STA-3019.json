@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3019.json",
+ "name": "Oldest house on Cape Ann, by Procter Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3018.jpg",
+ "identifier": "STA-3019",
+ "creator": {
+  "@type": "Person",
+  "name": "Procter Brothers"
+ },
+ "dateCreated": "1858",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cape Ann, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Oldest_house_on_Cape_Ann,_by_Procter_Brothers.jpg"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3095.json",
+ "name": "An interior view of a church on its twentieth anniversary in 1879 showing decorations",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3094.jpg",
+ "identifier": "STA-3095",
+ "dateCreated": "1879",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Haverhill, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:An_interior_view_of_a_church_on_its_twentieth_anniversary_in_1879_showing_decorations,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

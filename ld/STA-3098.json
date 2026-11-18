@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3098.json",
+ "name": "General view of Haverhill (NYPL b11707514-G90F239 029ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3097.jpg",
+ "identifier": "STA-3098",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Haverhill, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:General_view_of_Haverhill_(NYPL_b11707514-G90F239_029ZF).tiff"
+}

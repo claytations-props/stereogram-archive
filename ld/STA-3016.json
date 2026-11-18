@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3016.json",
+ "name": "Robson Avenue, Pigeon Cove, Cape Ann, from Robert N. Dennis collection of stereoscopic views 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3015.jpg",
+ "identifier": "STA-3016",
+ "dateCreated": "1858",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cape Ann, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Robson_Avenue,_Pigeon_Cove,_Cape_Ann,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg"
+}

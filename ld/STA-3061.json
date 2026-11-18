@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3061.json",
+ "name": "Adrian House, Block Island, by H. Q. Morton",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3060.jpg",
+ "identifier": "STA-3061",
+ "creator": {
+  "@type": "Person",
+  "name": "H. Q. Morton"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Block Island, Rhode Island"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Adrian_House,_Block_Island,_by_H._Q._Morton.png"
+}

@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3050.json",
+ "name": "Fernleigh, Cooperstown, N.Y (NYPL b11707961-G91F108 041F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3049.jpg",
+ "identifier": "STA-3050",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cooperstown, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Fernleigh,_Cooperstown,_N.Y_(NYPL_b11707961-G91F108_041F).tiff"
+}

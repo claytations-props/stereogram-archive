@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3026.json",
+ "name": "Shore view, Pigeon Cove, Cape Ann (NYPL b12535909-G90F235 008F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3025.jpg",
+ "identifier": "STA-3026",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cape Ann, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Shore_view,_Pigeon_Cove,_Cape_Ann_(NYPL_b12535909-G90F235_008F).tiff"
+}

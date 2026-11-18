@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3018.json",
+ "name": "Light house, Cape Ann, by G.A.F. (Firm)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3017.jpg",
+ "identifier": "STA-3018",
+ "creator": {
+  "@type": "Person",
+  "name": "G.A.F. (Firm)"
+ },
+ "dateCreated": "1858",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cape Ann, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Light_house,_Cape_Ann,_by_G.A.F._(Firm).jpg"
+}

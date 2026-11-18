@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3044.json",
+ "name": "Cooperstown from near Lakewood, by Smith, Washington G., 1828-1893",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3043.jpg",
+ "identifier": "STA-3044",
+ "creator": {
+  "@type": "Person",
+  "name": "Smith, Washington G."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cooperstown, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cooperstown_from_near_Lakewood,_by_Smith,_Washington_G.,_1828-1893.jpg"
+}

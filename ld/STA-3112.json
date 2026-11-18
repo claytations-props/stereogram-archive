@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3112.json",
+ "name": "View from Franklin block, Merrimack Street, looking west, by A. W. Anderson",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3111.jpg",
+ "identifier": "STA-3112",
+ "creator": {
+  "@type": "Person",
+  "name": "A. W. Anderson"
+ },
+ "dateCreated": "1882",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Haverhill, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_from_Franklin_block,_Merrimack_Street,_looking_west,_by_A._W._Anderson.jpg"
+}

@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3103.json",
+ "name": "Haverhill from Mount Washington (NYPL b11707514-G90F239 024F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3102.jpg",
+ "identifier": "STA-3103",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Haverhill, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Haverhill_from_Mount_Washington_(NYPL_b11707514-G90F239_024F).tiff"
+}

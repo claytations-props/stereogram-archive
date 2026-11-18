@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3035.json",
+ "name": "Oldest house on the cape, Pigeon Cove, by J.W. & J.S. Moulton",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3034.jpg",
+ "identifier": "STA-3035",
+ "creator": {
+  "@type": "Person",
+  "name": "J.W. & J.S. Moulton"
+ },
+ "dateCreated": "1858",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cape Ann, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Oldest_house_on_the_cape,_Pigeon_Cove,_by_J.W._%26_J.S._Moulton.jpg"
+}

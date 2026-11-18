@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3045.json",
+ "name": "House - Cooperstown, N.Y, by Smith, Washington G., 1828-1893 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3044.jpg",
+ "identifier": "STA-3045",
+ "creator": {
+  "@type": "Person",
+  "name": "Smith, Washington G."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cooperstown, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:House_-_Cooperstown,_N.Y,_by_Smith,_Washington_G.,_1828-1893_2.jpg"
+}

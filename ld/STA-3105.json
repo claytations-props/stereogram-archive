@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3105.json",
+ "name": "View of pagoda and gallery from stage, by A. W. Anderson",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3104.jpg",
+ "identifier": "STA-3105",
+ "creator": {
+  "@type": "Person",
+  "name": "A. W. Anderson"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Haverhill, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_pagoda_and_gallery_from_stage,_by_A._W._Anderson.jpg"
+}

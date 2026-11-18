@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3060.json",
+ "name": "Steamer Block Island, by H. Q. Morton",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3059.jpg",
+ "identifier": "STA-3060",
+ "creator": {
+  "@type": "Person",
+  "name": "H. Q. Morton"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Block Island, Rhode Island"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Steamer_Block_Island,_by_H._Q._Morton.png"
+}
