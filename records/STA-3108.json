@@ -1,0 +1,71 @@
+{
+ "title": "View of railroad tracks with river and city beyond, by Godfrey Clive Robinson",
+ "place": "Haverhill, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water",
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/e/ee/View_of_railroad_tracks_with_river_and_city_beyond%2C_by_Godfrey_Clive_Robinson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/ee/View_of_railroad_tracks_with_river_and_city_beyond%2C_by_Godfrey_Clive_Robinson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_railroad_tracks_with_river_and_city_beyond,_by_Godfrey_Clive_Robinson.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 375,
+ "id": "STA-3108",
+ "rect": "rect/3107.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.17,
+ "rot": 0.02,
+ "range": 2.04,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.7419,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/e/ee/View_of_railroad_tracks_with_river_and_city_beyond%2C_by_Godfrey_Clive_Robinson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.7419,
+  "L": [
+   0.332895,
+   0.0,
+   0.117763,
+   0.0,
+   0.909333,
+   0.036
+  ],
+  "R": [
+   0.336108,
+   -0.034461,
+   0.54757,
+   0.009355,
+   0.907803,
+   0.036699
+  ],
+  "g": [
+   0.9716,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.02° of rotation. Depth measured moderate (2.04% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Godfrey Clive Robinson",
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442457,
+ "source_revision_id": null,
+ "source_sha1": "548a95d3ea83b0d1385d47a65fdff18d27b2fa79"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "General view of Haverhill, by Godfrey Clive Robinson",
+ "place": "Haverhill, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/General_view_of_Haverhill%2C_by_Godfrey_Clive_Robinson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/11/General_view_of_Haverhill%2C_by_Godfrey_Clive_Robinson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:General_view_of_Haverhill,_by_Godfrey_Clive_Robinson.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 388,
+ "id": "STA-3091",
+ "rect": "rect/3090.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.19,
+ "rot": 0.01,
+ "range": 0.63,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.1798,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/1/11/General_view_of_Haverhill%2C_by_Godfrey_Clive_Robinson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.1798,
+  "L": [
+   0.353947,
+   0.0,
+   0.130921,
+   0.0,
+   0.587629,
+   0.341495
+  ],
+  "R": [
+   0.355733,
+   -0.002202,
+   0.520324,
+   0.00082,
+   0.593279,
+   0.334575
+  ],
+  "g": [
+   1.0,
+   0.9418
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.01° of rotation. Depth measured gentle (0.63% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Godfrey Clive Robinson",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442461,
+ "source_revision_id": null,
+ "source_sha1": "b1540d69a29b32d36b4a22ae8199840b9558e934"
+}

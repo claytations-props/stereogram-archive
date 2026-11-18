@@ -1,0 +1,69 @@
+{
+ "title": "Haverhill from Mount Washington, by Godfrey Clive Robinson",
+ "place": "Haverhill, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Haverhill_from_Mount_Washington%2C_by_Godfrey_Clive_Robinson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Haverhill_from_Mount_Washington%2C_by_Godfrey_Clive_Robinson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Haverhill_from_Mount_Washington,_by_Godfrey_Clive_Robinson.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 390,
+ "id": "STA-3094",
+ "rect": "rect/3093.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.19,
+ "rot": 0.11,
+ "range": 0.97,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.034,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Haverhill_from_Mount_Washington%2C_by_Godfrey_Clive_Robinson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.034,
+  "L": [
+   0.280263,
+   0.0,
+   0.180921,
+   0.0,
+   0.528205,
+   0.370513
+  ],
+  "R": [
+   0.280276,
+   -0.004477,
+   0.554646,
+   0.000322,
+   0.529466,
+   0.375521
+  ],
+  "g": [
+   1.0,
+   0.9478
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.11° of rotation. Depth measured gentle (0.97% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Godfrey Clive Robinson",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442459,
+ "source_revision_id": null,
+ "source_sha1": "c425c742e7b457b5bc098e8c086a941c5c09279a"
+}

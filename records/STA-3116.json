@@ -1,0 +1,69 @@
+{
+ "title": "Ship on the Merrimack, by A. W. Anderson",
+ "place": "Haverhill, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ship_on_the_Merrimack%2C_by_A._W._Anderson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ship_on_the_Merrimack%2C_by_A._W._Anderson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Ship_on_the_Merrimack,_by_A._W._Anderson.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 391,
+ "id": "STA-3116",
+ "rect": "rect/3115.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.28,
+ "rot": 0.04,
+ "range": 1.0,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.9195,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ship_on_the_Merrimack%2C_by_A._W._Anderson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.9195,
+  "L": [
+   0.376316,
+   0.0,
+   0.111184,
+   0.0,
+   0.381074,
+   0.310742
+  ],
+  "R": [
+   0.377564,
+   -0.001852,
+   0.515402,
+   -0.003935,
+   0.381487,
+   0.305587
+  ],
+  "g": [
+   0.9012,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.28% vertical error and 0.04° of rotation. Depth measured gentle (1.0% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "A. W. Anderson",
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442428,
+ "source_revision_id": null,
+ "source_sha1": "4002450ab04055ea561723c7c679c5ab7f2962d8"
+}

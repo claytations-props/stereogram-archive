@@ -1,0 +1,69 @@
+{
+ "title": "Winter view of Haverhill from Johnson's Observatory (NYPL b11707514-G90F239 022F)",
+ "place": "Haverhill, Massachusetts",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Winter_view_of_Haverhill_from_Johnson%27s_Observatory_%28NYPL_b11707514-G90F239_022F%29.tiff/lossy-page1-1920px-Winter_view_of_Haverhill_from_Johnson%27s_Observatory_%28NYPL_b11707514-G90F239_022F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Winter_view_of_Haverhill_from_Johnson%27s_Observatory_%28NYPL_b11707514-G90F239_022F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Winter_view_of_Haverhill_from_Johnson%27s_Observatory_(NYPL_b11707514-G90F239_022F).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 1687,
+ "id": "STA-3096",
+ "rect": "rect/3095.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.12,
+ "rot": 0.01,
+ "range": 0.85,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.2058,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Winter_view_of_Haverhill_from_Johnson%27s_Observatory_%28NYPL_b11707514-G90F239_022F%29.tiff/lossy-page1-1920px-Winter_view_of_Haverhill_from_Johnson%27s_Observatory_%28NYPL_b11707514-G90F239_022F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.2058,
+  "L": [
+   0.305208,
+   0.0,
+   0.16901,
+   0.0,
+   0.461101,
+   0.476755
+  ],
+  "R": [
+   0.305684,
+   -0.001667,
+   0.516721,
+   -0.000516,
+   0.462214,
+   0.478814
+  ],
+  "g": [
+   1.0,
+   0.9445
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured gentle (0.85% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 49590288,
+ "source_revision_id": null,
+ "source_sha1": "a91cf147aa7fa608cbf1b9ab0a78f74ba39c8237"
+}
