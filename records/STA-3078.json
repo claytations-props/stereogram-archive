@@ -1,0 +1,69 @@
+{
+ "title": "Bethlehem, N.H",
+ "place": "Bethlehem, New Hampshire",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Bethlehem%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bethlehem%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bethlehem%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Bethlehem,_N.H,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1435,
+ "id": "STA-3078",
+ "rect": "rect/3077.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.14,
+ "rot": 0.0,
+ "range": 0.71,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.4521,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Bethlehem%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bethlehem%2C_N.H%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.4521,
+  "L": [
+   0.386458,
+   0.0,
+   0.096615,
+   0.0,
+   0.507448,
+   0.439424
+  ],
+  "R": [
+   0.389087,
+   -0.012522,
+   0.518857,
+   -0.001453,
+   0.51036,
+   0.429394
+  ],
+  "g": [
+   1.0,
+   0.9851
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.0° of rotation. Depth measured gentle (0.71% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10249360,
+ "source_revision_id": null,
+ "source_sha1": "ee3cc88fc6c33528b5d30e3fef80eda8af11a06a"
+}
