@@ -53,6 +53,16 @@ Catalog: 3,011 items. No catalog data touched.
    with the rest of the page now. The search-results reveal no
    longer measures the toolbar height for its scroll offset, since
    there is no sticky bar to clear anymore.
+5. Viewer header scrolls away, slimmer on phones, solid backdrop.
+   Clay's screenshot showed the viewer header floating at the top of
+   a phone and eating most of the screen before the picture started,
+   with the gallery page ghosting through behind it. The header is
+   no longer sticky: it scrolls up with the rest of the viewer. On
+   a phone it is thinner too, smaller title and buttons and tighter
+   padding, so the picture starts higher. And the viewer backdrop
+   is solid now instead of 3% transparent, so the gallery buttons
+   behind it no longer show through dimmed between the mode row and
+   the picture.
 
 ## Deliberately not changed
 
@@ -74,9 +84,12 @@ browse.json, data.json, search chunks, and per-item records from
 disk, and an Image stub that fires onload (harness at
 ~/workspace/goals/stereograph-archive/hidden_files/ui-round16-jsdom.cjs):
 
-- 33 checks, 0 failures, plus 3 more for the toolbar change: the
-  toolbar rule carries no sticky positioning, it keeps its banner
-  styling, and the reveal no longer measures the toolbar height.
+- 33 checks, 0 failures, plus 3 more for the toolbar change and 4
+  more for the viewer header change: the toolbar rule carries no
+  sticky positioning, it keeps its banner styling, and the reveal no
+  longer measures the toolbar height; the viewer header carries no
+  sticky positioning, the viewer is solid with no translucent
+  backdrop left, and the mobile title and buttons are smaller.
   Both inline script blocks pass node --check.
 - Live verification: a desktop-width browser walk (1919 x 998, the
   cloud browser could not be resized to a phone width) measured the
@@ -96,6 +109,7 @@ disk, and an Image stub that fires onload (harness at
 1. `5f37cb1` — Viewer: full-screen focus mode, slimmer mobile mode row
 2. `b3855c0` — Gallery: Featured shelf with twelve of the best views
 3. `fb4b0ae` — Gallery: toolbar scrolls away with the page
+4. `62084ba` — Viewer: header scrolls away, slimmer on phones, solid backdrop
 
 ## Veto list
 
@@ -110,3 +124,7 @@ disk, and an Image stub that fires onload (harness at
    opening straight onto the toolbar and the full catalog.
 4. Toolbar: it scrolls up with the rest of the page now, instead of
    sticking to the top and always covering the top of the screen.
+5. Viewer header: it scrolls up with the rest of the viewer now,
+   instead of floating at the top, and it is thinner on a phone;
+   the viewer backdrop is solid instead of letting the gallery
+   show through behind it.
