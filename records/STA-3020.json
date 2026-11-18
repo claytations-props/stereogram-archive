@@ -1,0 +1,69 @@
+{
+ "title": "Good Harbor beach, Cape Ann, Mass, by J.W. & J.S. Moulton",
+ "place": "Cape Ann, Massachusetts",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/3/30/Good_Harbor_beach%2C_Cape_Ann%2C_Mass%2C_by_J.W._%26_J.S._Moulton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/30/Good_Harbor_beach%2C_Cape_Ann%2C_Mass%2C_by_J.W._%26_J.S._Moulton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Good_Harbor_beach,_Cape_Ann,_Mass,_by_J.W._%26_J.S._Moulton.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 456,
+ "id": "STA-3020",
+ "rect": "rect/3019.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.17,
+ "rot": 0.01,
+ "range": 0.71,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0256,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/3/30/Good_Harbor_beach%2C_Cape_Ann%2C_Mass%2C_by_J.W._%26_J.S._Moulton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.0256,
+  "L": [
+   0.368421,
+   0.0,
+   0.121711,
+   0.0,
+   0.598684,
+   0.343202
+  ],
+  "R": [
+   0.36858,
+   -0.014042,
+   0.516923,
+   0.008119,
+   0.600976,
+   0.343976
+  ],
+  "g": [
+   0.9872,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.01° of rotation. Depth measured gentle (0.71% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "J.W. & J.S. Moulton",
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442159,
+ "source_revision_id": null,
+ "source_sha1": "20ba1f9dd169d3e64e00564829b0eca7e1bfa57b"
+}

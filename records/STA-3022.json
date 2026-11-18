@@ -1,0 +1,69 @@
+{
+ "title": "Ocean view point, Pigeon Cove, Mass",
+ "place": "Cape Ann, Massachusetts",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ocean_view_point%2C_Pigeon_Cove%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ocean_view_point%2C_Pigeon_Cove%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Ocean_view_point,_Pigeon_Cove,_Mass,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 474,
+ "id": "STA-3022",
+ "rect": "rect/3021.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.32,
+ "rot": 0.05,
+ "range": 0.64,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.779,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ocean_view_point%2C_Pigeon_Cove%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.779,
+  "L": [
+   0.423684,
+   0.0,
+   0.066447,
+   0.0,
+   0.381857,
+   0.524262
+  ],
+  "R": [
+   0.424768,
+   -0.000456,
+   0.503733,
+   -0.004503,
+   0.381348,
+   0.531675
+  ],
+  "g": [
+   1.0,
+   0.9596
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.32% vertical error and 0.05° of rotation. Depth measured gentle (0.64% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442178,
+ "source_revision_id": null,
+ "source_sha1": "8ec8af25ab1b6398b361eaada2ffa58812b5c56e"
+}

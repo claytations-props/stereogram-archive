@@ -1,0 +1,69 @@
+{
+ "title": "Light house, Cape Ann, by G.A.F. (Firm)",
+ "place": "Cape Ann, Massachusetts",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Light_house%2C_Cape_Ann%2C_by_G.A.F._%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Light_house%2C_Cape_Ann%2C_by_G.A.F._%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Light_house,_Cape_Ann,_by_G.A.F._(Firm).jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 382,
+ "id": "STA-3018",
+ "rect": "rect/3017.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.33,
+ "rot": 0.17,
+ "range": 1.32,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.6108,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Light_house%2C_Cape_Ann%2C_by_G.A.F._%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.6108,
+  "L": [
+   0.353947,
+   0.0,
+   0.126974,
+   0.0,
+   0.437173,
+   0.441099
+  ],
+  "R": [
+   0.350272,
+   -0.007288,
+   0.523656,
+   0.006306,
+   0.434894,
+   0.42854
+  ],
+  "g": [
+   1.0,
+   0.9288
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.33% vertical error and 0.17° of rotation. Depth measured gentle (1.32% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "G.A.F. (Firm)",
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442015,
+ "source_revision_id": null,
+ "source_sha1": "b6d119e5e23c97df88a3c6f8a17cd954406c84ca"
+}

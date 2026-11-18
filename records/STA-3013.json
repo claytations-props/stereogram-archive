@@ -1,0 +1,69 @@
+{
+ "title": "Pigeon Cove house, Cape Ann",
+ "place": "Cape Ann, Massachusetts",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pigeon_Cove_house%2C_Cape_Ann%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pigeon_Cove_house%2C_Cape_Ann%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Pigeon_Cove_house,_Cape_Ann,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 395,
+ "id": "STA-3013",
+ "rect": "rect/3012.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.2,
+ "rot": 0.01,
+ "range": 3.73,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.8432,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pigeon_Cove_house%2C_Cape_Ann%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8432,
+  "L": [
+   0.375,
+   0.0,
+   0.107237,
+   0.0,
+   0.855696,
+   0.092405
+  ],
+  "R": [
+   0.374822,
+   -0.012339,
+   0.532224,
+   -0.000541,
+   0.857373,
+   0.061697
+  ],
+  "g": [
+   0.999,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.2% vertical error and 0.01° of rotation. Depth measured deep (3.73% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442020,
+ "source_revision_id": null,
+ "source_sha1": "6af8ed833e88080aa15c97d86e3d66900e19af3b"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Rafe's chasm, Cape Ann scenery, by J.W. & J.S. Moulton",
+ "place": "Cape Ann, Massachusetts",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Rafe%27s_chasm%2C_Cape_Ann_scenery%2C_by_J.W._%26_J.S._Moulton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Rafe%27s_chasm%2C_Cape_Ann_scenery%2C_by_J.W._%26_J.S._Moulton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Rafe%27s_chasm,_Cape_Ann_scenery,_by_J.W._%26_J.S._Moulton.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 389,
+ "id": "STA-3025",
+ "rect": "rect/3024.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.24,
+ "rot": 0.01,
+ "range": 3.1,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.7337,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Rafe%27s_chasm%2C_Cape_Ann_scenery%2C_by_J.W._%26_J.S._Moulton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.7337,
+  "L": [
+   0.340789,
+   0.0,
+   0.150658,
+   0.0,
+   0.907455,
+   0.044987
+  ],
+  "R": [
+   0.340166,
+   -0.011901,
+   0.515012,
+   -0.001281,
+   0.900028,
+   0.047863
+  ],
+  "g": [
+   1.0,
+   0.9833
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.01° of rotation. Depth measured deep (3.1% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "J.W. & J.S. Moulton",
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442072,
+ "source_revision_id": null,
+ "source_sha1": "08da115732cc35d88d35ce36f261fc06e064962d"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Oldest house on Cape Ann, by Procter Brothers",
+ "place": "Cape Ann, Massachusetts",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Oldest_house_on_Cape_Ann%2C_by_Procter_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Oldest_house_on_Cape_Ann%2C_by_Procter_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Oldest_house_on_Cape_Ann,_by_Procter_Brothers.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 443,
+ "id": "STA-3019",
+ "rect": "rect/3018.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.23,
+ "rot": 0.03,
+ "range": 1.67,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.9468,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Oldest_house_on_Cape_Ann%2C_by_Procter_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.9468,
+  "L": [
+   0.375,
+   0.0,
+   0.115132,
+   0.0,
+   0.679458,
+   0.265237
+  ],
+  "R": [
+   0.375621,
+   -0.000916,
+   0.532933,
+   -0.011551,
+   0.678457,
+   0.27812
+  ],
+  "g": [
+   0.9668,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.23% vertical error and 0.03° of rotation. Depth measured moderate (1.67% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Procter Brothers",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7442182,
+ "source_revision_id": null,
+ "source_sha1": "d45d784ea799682f647c7e944e3540c167b2a91b"
+}

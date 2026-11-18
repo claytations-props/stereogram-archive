@@ -1,0 +1,69 @@
+{
+ "title": "Light house, Cape Ann (NYPL b12535909-G90F235 002F)",
+ "place": "Cape Ann, Massachusetts",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Light_house%2C_Cape_Ann_%28NYPL_b12535909-G90F235_002F%29.tiff/lossy-page1-1920px-Light_house%2C_Cape_Ann_%28NYPL_b12535909-G90F235_002F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/63/Light_house%2C_Cape_Ann_%28NYPL_b12535909-G90F235_002F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Light_house,_Cape_Ann_(NYPL_b12535909-G90F235_002F).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 1680,
+ "id": "STA-3033",
+ "rect": "rect/3032.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.17,
+ "rot": 0.01,
+ "range": 0.74,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.3918,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Light_house%2C_Cape_Ann_%28NYPL_b12535909-G90F235_002F%29.tiff/lossy-page1-1920px-Light_house%2C_Cape_Ann_%28NYPL_b12535909-G90F235_002F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.3918,
+  "L": [
+   0.28125,
+   0.0,
+   0.196094,
+   0.0,
+   0.369524,
+   0.369048
+  ],
+  "R": [
+   0.281542,
+   0.001478,
+   0.516198,
+   -0.003352,
+   0.370108,
+   0.376572
+  ],
+  "g": [
+   1.0,
+   0.9981
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.01° of rotation. Depth measured gentle (0.74% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 49569994,
+ "source_revision_id": null,
+ "source_sha1": "e32df02296802aa566e67c5b07df72f6d8df1183"
+}
