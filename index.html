@@ -134,8 +134,8 @@ footer a{color:var(--brass)}
    card did nothing. Two buttons ride its edges, reusing the viewer's
    round step buttons, and read disabled at each end. */
 .shelfbox{position:relative}
-#shelfPrev{left:8px}
-#shelfNext{right:8px}
+#shelfPrev,#featPrev{left:8px}
+#shelfNext,#featNext{right:8px}
 .sitem{min-width:158px;max-width:158px;cursor:pointer}
 .sitem img{width:100%;aspect-ratio:2/1;object-fit:cover;border-radius:3px;border:1px solid var(--line);display:block}
 .sitem .sid{font-size:10.5px;letter-spacing:.18em;color:var(--brass);margin-top:6px}
@@ -270,6 +270,8 @@ canvas#ana.show{display:block}
 </header>
 <div class="herowrap"><section class="hero" id="hero" style="display:none"></section></div>
 
+<section class="shelfwrap"><h2 class="shelfhead">Featured · The Best of the Archive</h2><div class="shelfbox"><div class="shelf" id="featShelf"></div><button class="navbtn" id="featPrev" aria-label="Scroll featured items back">‹</button><button class="navbtn" id="featNext" aria-label="Scroll featured items forward">›</button></div></section>
+
 <div class="toolbar">
   <div class="trow">
     <input type="search" id="q" aria-label="Search the archive" placeholder="Search falls, castles, war, the Moon...">
@@ -389,7 +391,19 @@ function buildShelf(){
     clickable but unreachable by keyboard, while grid cards already
     took Enter/Space. They get the same keyboard behavior here. */
  sh.querySelectorAll('.sitem').forEach(el=>{el.onclick=()=>openViewer(+el.dataset.i,true);el.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();openViewer(+el.dataset.i,true)}}});
- syncShelfBtns();
+ syncShelfBtns("shelf","shelfPrev","shelfNext");
+}
+/* Featured collection: twelve of the best views in the archive,
+   hand-picked for the shelf above the toolbar. This is site
+   presentation, not catalog data — the list lives here, never in
+   records/, and a card missing from the catalog is skipped. */
+const FEATURED=["STA-0001","STA-0026","STA-0014","STA-0034","STA-0006","STA-0156","STA-0960","STA-0764","STA-0109","STA-0037","STA-0025","STA-0027"];
+function buildFeatured(){
+ const sh=document.getElementById('featShelf');if(!sh)return;
+ const byId=new Map(DATA.map(d=>[d.id,d]));
+ sh.innerHTML=FEATURED.map(id=>{const d=byId.get(id);if(!d)return "";const i=DATA.indexOf(d);return `<div class="sitem" data-i="${i}" tabindex="0" role="button"><img loading="lazy" decoding="async" src="${thumb(d,250)}" data-full="${d.img}" ${FB} alt="${d.title}"><div class="sid">${d.id}</div><div class="stt">${d.title}</div></div>`}).join('');
+ sh.querySelectorAll('.sitem').forEach(el=>{el.onclick=()=>openViewer(+el.dataset.i,true);el.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();openViewer(+el.dataset.i,true)}}});
+ syncShelfBtns("featShelf","featPrev","featNext");
 }
 /* One-time migration (Phase 0): reading-list favorites were keyed by title;
    they are now keyed by STA ID. Stored titles become their item's ID, values
@@ -412,7 +426,7 @@ function init(){
  DATA.forEach(d=>d._hay=SLIM?browseHay(d):(d.title+" "+d.place+" "+d.year+" "+(d.blurb||"")+" "+d.id+" "+d.coll+" "+d.cats.map(c=>CATLABEL[c]||c).join(" ")).toLowerCase());
  buildAid();
  document.getElementById('holdings').textContent='Holdings · '+DATA.length+' items · '+new Set(DATA.map(d=>d.coll)).size+' collections';
- buildHero();buildShelf();render();
+ buildHero();buildShelf();buildFeatured();render();
  const h=(location.hash||'').replace('#','');
  if(h){const i=DATA.findIndex(d=>d.id===h);if(i>=0)openViewer(i,true);}
 }
@@ -672,16 +686,17 @@ $("#sort").onchange=e=>{state.sort=e.target.value;shuffleRank=null;render()};
    button beside the sort is the re-shuffle control: it draws a fresh
    order without making the visitor switch sorts away and back. */
 $("#reshuffle").onclick=()=>{shuffleRank=null;render()};
-/* Round 14: the Recent Accessions shelf is a sideways scroller with no
-   control of its own — the only ways across were the thin scrollbar
-   or a wheel gesture, and dragging a card did nothing. The edge
-   buttons step it one tile at a time and read disabled at each end,
-   like the Parlor's flat wall buttons. */
-function syncShelfBtns(){const sh=document.getElementById("shelf");if(!sh)return;const p=document.getElementById("shelfPrev"),n=document.getElementById("shelfNext");if(!p||!n)return;p.disabled=sh.scrollLeft<=0;n.disabled=sh.scrollLeft+sh.clientWidth>=sh.scrollWidth-2;}
-$("#shelfPrev").onclick=()=>{document.getElementById("shelf").scrollBy({left:-170,behavior:"smooth"});};
-$("#shelfNext").onclick=()=>{document.getElementById("shelf").scrollBy({left:170,behavior:"smooth"});};
-document.getElementById("shelf").addEventListener("scroll",syncShelfBtns);
-addEventListener("resize",syncShelfBtns);
+/* Round 14: a sideways shelf had no control of its own — the only
+   ways across were the thin scrollbar or a wheel gesture, and
+   dragging a card did nothing. The edge buttons step it one tile at
+   a time and read disabled at each end, like the Parlor's flat wall
+   buttons. One sync per shelf: Recent Accessions and Featured share
+   it. */
+function syncShelfBtns(shId,pId,nId){const sh=document.getElementById(shId);if(!sh)return;const p=document.getElementById(pId),n=document.getElementById(nId);if(!p||!n)return;p.disabled=sh.scrollLeft<=0;n.disabled=sh.scrollLeft+sh.clientWidth>=sh.scrollWidth-2;}
+function wireShelfBtns(shId,pId,nId){document.getElementById(pId).onclick=()=>{document.getElementById(shId).scrollBy({left:-170,behavior:"smooth"});};document.getElementById(nId).onclick=()=>{document.getElementById(shId).scrollBy({left:170,behavior:"smooth"});};document.getElementById(shId).addEventListener("scroll",()=>syncShelfBtns(shId,pId,nId));}
+wireShelfBtns("shelf","shelfPrev","shelfNext");
+wireShelfBtns("featShelf","featPrev","featNext");
+addEventListener("resize",()=>{syncShelfBtns("shelf","shelfPrev","shelfNext");syncShelfBtns("featShelf","featPrev","featNext");});
 $("#howBtn").onclick=()=>{const h=$("#how");h.style.display=h.style.display==="none"?"block":"none";h.scrollIntoView({behavior:"smooth"})};
 $("#surprise").onclick=()=>{const list=filtered();if(!list.length)return;currentList=list;openViewer(Math.floor(Math.random()*list.length))};
 
