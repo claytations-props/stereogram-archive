@@ -33,7 +33,11 @@ header{text-align:center;padding:30px 18px 4px;position:relative}
 h1{font-family:"Playfair Display",Georgia,serif;font-size:clamp(32px,5.4vw,52px);font-weight:700;margin:10px 0 8px;letter-spacing:.01em}
 .sub{color:var(--dim);max-width:620px;margin:0 auto;font-size:15px;line-height:1.55}
 .sub b{color:var(--text)}
-.toolbar{position:sticky;top:0;z-index:20;background:rgba(11,10,8,.94);backdrop-filter:blur(8px);border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:18px;padding:12px 16px}
+/* The toolbar used to stick to the top of the screen while scrolling,
+   so it always covered the top of the page — on a phone that is the
+   banner in the way of the pictures. It scrolls up with the rest of
+   the page now. */
+.toolbar{background:rgba(11,10,8,.94);backdrop-filter:blur(8px);border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:18px;padding:12px 16px}
 .trow{max-width:1180px;margin:0 auto;display:flex;flex-wrap:wrap;gap:10px;align-items:center}
 input[type=search]{flex:1 1 200px;background:var(--panel2);border:1px solid var(--line);color:var(--text);border-radius:3px;padding:11px 14px;font-size:14px;outline:none}
 input[type=search]:focus{border-color:var(--brass)}
@@ -547,16 +551,15 @@ let currentList=[];
 let shown=48,lastSig='',renderedShown=0,pendingAppend=false;
 /* Round 15: a search or a filter changes what the list holds, but the
    list sits below the shelf and the finding aid — typing "Niagara" in
-   the sticky toolbar left the results below the fold with nothing
-   bringing them into view. Filter and view actions ask render() to
-   bring the count line into view afterwards; sort, reshuffle, Show
-   more and heart toggles reorder or extend the list already on
-   screen, so they do not. The offset is measured, not guessed: the
-   first version used a fixed 120px scroll margin, and the live walk
-   caught the count line still hiding behind the toolbar, which runs
-   two rows tall at desktop width. */
+   the toolbar left the results below the fold with nothing bringing
+   them into view. Filter and view actions ask render() to bring the
+   count line into view afterwards; sort, reshuffle, Show more and
+   heart toggles reorder or extend the list already on screen, so
+   they do not. The toolbar used to stick to the top, so the scroll
+   offset was measured off its height; it scrolls away with the page
+   now, so the count line lands 16px below the top of the screen. */
 let revealNext=false;
-function maybeReveal(){if(!revealNext)return;revealNext=false;const c=$("#count");if(!c)return;const tb=document.querySelector(".toolbar");const off=(tb?tb.getBoundingClientRect().height:0)+16;window.scrollTo({top:c.getBoundingClientRect().top+window.scrollY-off,behavior:"smooth"});}
+function maybeReveal(){if(!revealNext)return;revealNext=false;const c=$("#count");if(!c)return;window.scrollTo({top:c.getBoundingClientRect().top+window.scrollY-16,behavior:"smooth"});}
 function cardEl(d,i){
  const c=document.createElement("div");c.className="card";c.dataset.id=d.id;
  c.innerHTML=`<div class="ph"><img loading="lazy" decoding="async" src="${thumb(d,500)}" data-full="${d.img}" ${FB} alt="${d.title} stereograph"></div><div class="cb"><div class="acc">${d.id} · ${d.coll}</div><h3>${d.title}</h3><div class="meta">${d.place} &middot; ${d.year}</div><div class="tags"><span class="tline">${d.cats.map(t=>CATLABEL[t]||t).join(" · ")} · ${d.depth} depth</span><button class="fav ${favs.has(d.id)?"on":""}" title="Save to reading list">${favs.has(d.id)?"♥":"♡"}</button></div></div>`;
