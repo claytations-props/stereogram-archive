@@ -1,0 +1,69 @@
+{
+ "title": "South College \"Lafayette.\", by R. Knecht",
+ "place": "Easton, Pennsylvania",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/South_College_%22Lafayette.%22%2C_by_R._Knecht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/ca/South_College_%22Lafayette.%22%2C_by_R._Knecht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:South_College_%22Lafayette.%22,_by_R._Knecht.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 487,
+ "id": "STA-3127",
+ "rect": "rect/3126.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.24,
+ "rot": 0.01,
+ "range": 0.66,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.5968,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/c/ca/South_College_%22Lafayette.%22%2C_by_R._Knecht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.5968,
+  "L": [
+   0.390789,
+   0.0,
+   0.100658,
+   0.0,
+   0.38193,
+   0.311088
+  ],
+  "R": [
+   0.387126,
+   -0.008557,
+   0.532013,
+   0.016656,
+   0.379309,
+   0.304983
+  ],
+  "g": [
+   1.0,
+   0.9246
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.01° of rotation. Depth measured gentle (0.66% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "R. Knecht",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7480828,
+ "source_revision_id": null,
+ "source_sha1": "5ff6e88c18cba2827f04a81ad4cc9c7dcadac5e3"
+}

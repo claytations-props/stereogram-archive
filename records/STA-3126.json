@@ -1,0 +1,71 @@
+{
+ "title": "View of bridge over the river, leading to town, by R. Knecht",
+ "place": "Easton, Pennsylvania",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "water",
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/c/c4/View_of_bridge_over_the_river%2C_leading_to_town%2C_by_R._Knecht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/c4/View_of_bridge_over_the_river%2C_leading_to_town%2C_by_R._Knecht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_bridge_over_the_river,_leading_to_town,_by_R._Knecht.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 477,
+ "id": "STA-3126",
+ "rect": "rect/3125.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.17,
+ "rot": 0.0,
+ "range": 0.6,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.2694,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/c/c4/View_of_bridge_over_the_river%2C_leading_to_town%2C_by_R._Knecht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.2694,
+  "L": [
+   0.409211,
+   0.0,
+   0.076974,
+   0.0,
+   0.513627,
+   0.460168
+  ],
+  "R": [
+   0.406347,
+   -0.000225,
+   0.505808,
+   -0.000456,
+   0.508891,
+   0.462998
+  ],
+  "g": [
+   0.9426,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.0° of rotation. Depth measured gentle (0.6% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "R. Knecht",
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7480830,
+ "source_revision_id": null,
+ "source_sha1": "adaf6723e73ceb3ad3a6e5ffeef6579cda98cf0e"
+}

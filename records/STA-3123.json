@@ -1,0 +1,71 @@
+{
+ "title": "A house in Easton, Pennsylvania, by R. Ruehlman & Co.",
+ "place": "Easton, Pennsylvania",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "cities",
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/5/59/A_house_in_Easton%2C_Pennsylvania%2C_by_R._Ruehlman_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/59/A_house_in_Easton%2C_Pennsylvania%2C_by_R._Ruehlman_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:A_house_in_Easton,_Pennsylvania,_by_R._Ruehlman_%26_Co..jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 384,
+ "id": "STA-3123",
+ "rect": "rect/3122.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.26,
+ "rot": 0.03,
+ "range": 2.02,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.15,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/5/59/A_house_in_Easton%2C_Pennsylvania%2C_by_R._Ruehlman_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.15,
+  "L": [
+   0.363158,
+   0.0,
+   0.080921,
+   0.0,
+   0.625,
+   0.326823
+  ],
+  "R": [
+   0.362056,
+   0.000935,
+   0.520613,
+   0.00096,
+   0.621152,
+   0.328157
+  ],
+  "g": [
+   1.0,
+   0.9891
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.26% vertical error and 0.03° of rotation. Depth measured moderate (2.02% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "R. Ruehlman & Co.",
+ "creator_dates": null,
+ "facets": [
+  "cities",
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7480824,
+ "source_revision_id": null,
+ "source_sha1": "35576ed311af8a8005098569fc5421f686e0e0bd"
+}
