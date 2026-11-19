@@ -188637,5 +188637,840 @@
   "date_start": 1863,
   "date_end": 1863,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Cape May, N.J. (View of waders.)",
+  "place": "Cape May, New Jersey",
+  "year": "c. 1880",
+  "sy": 1880,
+  "era": "mid",
+  "cats": [
+   "water",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Cape_May%2C_N.J._%28View_of_waders.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cape_May%2C_N.J._%28View_of_waders.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Cape_May%2C_N.J._%28View_of_waders.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cape_May,_N.J._(View_of_waders.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2625,
+  "h": 1314,
+  "id": "STA-3193",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3192.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.01,
+  "range": 0.39,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.9428,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Cape_May%2C_N.J._%28View_of_waders.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cape_May%2C_N.J._%28View_of_waders.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.9428,
+   "L": [
+    0.406771,
+    0.0,
+    0.077344,
+    0.0,
+    0.418314,
+    0.497919
+   ],
+   "R": [
+    0.413148,
+    -0.013994,
+    0.519142,
+    0.006055,
+    0.423787,
+    0.473911
+   ],
+   "g": [
+    0.9955,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured gentle (0.39% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1880~",
+  "date_start": 1875,
+  "date_end": 1885,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Cape May, N.J. (View of the Beach.)",
+  "place": "Cape May, New Jersey",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Cape_May%2C_N.J._%28View_of_the_Beach.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cape_May%2C_N.J._%28View_of_the_Beach.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Cape_May%2C_N.J._%28View_of_the_Beach.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cape_May,_N.J._(View_of_the_Beach.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2630,
+  "h": 1313,
+  "id": "STA-3194",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3193.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.2,
+  "rot": 0.0,
+  "range": 1.29,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.6271,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Cape_May%2C_N.J._%28View_of_the_Beach.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cape_May%2C_N.J._%28View_of_the_Beach.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.6271,
+   "L": [
+    0.4,
+    0.0,
+    0.083594,
+    0.0,
+    0.492179,
+    0.483316
+   ],
+   "R": [
+    0.398852,
+    -0.023432,
+    0.532476,
+    0.008139,
+    0.490647,
+    0.478155
+   ],
+   "g": [
+    0.8621,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.2% vertical error and 0.0° of rotation. Depth measured gentle (1.29% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Cape May, N.J. (View of the Ocean.)",
+  "place": "Cape May, New Jersey",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Cape_May%2C_N.J._%28View_of_the_Ocean.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cape_May%2C_N.J._%28View_of_the_Ocean.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/23/Cape_May%2C_N.J._%28View_of_the_Ocean.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cape_May,_N.J._(View_of_the_Ocean.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2538,
+  "h": 1258,
+  "id": "STA-3195",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3194.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 0.42,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.7704,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Cape_May%2C_N.J._%28View_of_the_Ocean.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cape_May%2C_N.J._%28View_of_the_Ocean.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.7704,
+   "L": [
+    0.417708,
+    0.0,
+    0.058073,
+    0.0,
+    0.47584,
+    0.495273
+   ],
+   "R": [
+    0.41946,
+    -0.0034,
+    0.512155,
+    -0.003998,
+    0.476994,
+    0.493019
+   ],
+   "g": [
+    0.8414,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured gentle (0.42% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Cape May, N.J. (View of waders in the Ocean.)",
+  "place": "Cape May, New Jersey",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Cape_May%2C_N.J._%28View_of_waders_in_the_Ocean.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cape_May%2C_N.J._%28View_of_waders_in_the_Ocean.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Cape_May%2C_N.J._%28View_of_waders_in_the_Ocean.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cape_May,_N.J._(View_of_waders_in_the_Ocean.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2620,
+  "h": 1330,
+  "id": "STA-3196",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3195.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.17,
+  "rot": 0.01,
+  "range": 0.63,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.7812,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Cape_May%2C_N.J._%28View_of_waders_in_the_Ocean.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cape_May%2C_N.J._%28View_of_waders_in_the_Ocean.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.7812,
+   "L": [
+    0.364583,
+    0.0,
+    0.07474,
+    0.0,
+    0.403077,
+    0.504103
+   ],
+   "R": [
+    0.365198,
+    -0.011633,
+    0.519688,
+    0.008259,
+    0.403517,
+    0.482592
+   ],
+   "g": [
+    0.9404,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.01° of rotation. Depth measured gentle (0.63% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Cape May, N.J. (Street scene.)",
+  "place": "Cape May, New Jersey",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Cape_May%2C_N.J._%28Street_scene.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cape_May%2C_N.J._%28Street_scene.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cape_May%2C_N.J._%28Street_scene.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cape_May,_N.J._(Street_scene.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2609,
+  "h": 1292,
+  "id": "STA-3197",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3196.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.18,
+  "rot": 0.01,
+  "range": 1.49,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.7197,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Cape_May%2C_N.J._%28Street_scene.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cape_May%2C_N.J._%28Street_scene.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.7197,
+   "L": [
+    0.450521,
+    0.0,
+    0.042448,
+    0.0,
+    0.528917,
+    0.192955
+   ],
+   "R": [
+    0.450456,
+    0.001762,
+    0.505735,
+    -0.008092,
+    0.528997,
+    0.199749
+   ],
+   "g": [
+    1.0,
+    0.9527
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.01° of rotation. Depth measured gentle (1.49% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Columbia House, Cape May, N.J",
+  "place": "Cape May, New Jersey",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Columbia_House%2C_Cape_May%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Columbia_House%2C_Cape_May%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Columbia_House%2C_Cape_May%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Columbia_House,_Cape_May,_N.J,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2599,
+  "h": 1309,
+  "id": "STA-3198",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3197.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.01,
+  "range": 0.59,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.0049,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Columbia_House%2C_Cape_May%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Columbia_House%2C_Cape_May%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.0049,
+   "L": [
+    0.422917,
+    0.0,
+    0.070573,
+    0.0,
+    0.418821,
+    0.562048
+   ],
+   "R": [
+    0.420049,
+    -0.010069,
+    0.514923,
+    -0.010267,
+    0.417149,
+    0.56095
+   ],
+   "g": [
+    0.982,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.01° of rotation. Depth measured gentle (0.59% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Congress Hall, Cape May, N.J",
+  "place": "Cape May, New Jersey",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Congress_Hall%2C_Cape_May%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Congress_Hall%2C_Cape_May%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/64/Congress_Hall%2C_Cape_May%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Congress_Hall,_Cape_May,_N.J,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2610,
+  "h": 1308,
+  "id": "STA-3199",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3198.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.16,
+  "rot": 0.02,
+  "range": 0.44,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.4517,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Congress_Hall%2C_Cape_May%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Congress_Hall%2C_Cape_May%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.4517,
+   "L": [
+    0.409896,
+    0.0,
+    0.078385,
+    0.0,
+    0.33368,
+    0.574324
+   ],
+   "R": [
+    0.40895,
+    -0.014438,
+    0.520183,
+    0.015225,
+    0.331555,
+    0.564157
+   ],
+   "g": [
+    1.0,
+    0.9766
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.02° of rotation. Depth measured gentle (0.44% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "West End House, Cape May, N.J",
+  "place": "Cape May, New Jersey",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/West_End_House%2C_Cape_May%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-West_End_House%2C_Cape_May%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d5/West_End_House%2C_Cape_May%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:West_End_House,_Cape_May,_N.J,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2619,
+  "h": 1312,
+  "id": "STA-3200",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3199.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.19,
+  "rot": 0.01,
+  "range": 2.69,
+  "f": 0.73,
+  "depth": "Deep",
+  "va": 1.7188,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/West_End_House%2C_Cape_May%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-West_End_House%2C_Cape_May%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.7188,
+   "L": [
+    0.423438,
+    0.0,
+    0.066927,
+    0.0,
+    0.491684,
+    0.319647
+   ],
+   "R": [
+    0.425387,
+    -4e-06,
+    0.507572,
+    -0.00046,
+    0.49256,
+    0.302471
+   ],
+   "g": [
+    0.9819,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.01° of rotation. Depth measured deep (2.69% of frame width); hung in the VR Parlor at 73% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Cape May, N.J, by Cremer, James, 1821-1893 2",
+  "place": "Cape May, New Jersey",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "water",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cape_May%2C_N.J%2C_by_Cremer%2C_James%2C_1821-1893_2.jpg/1920px-Cape_May%2C_N.J%2C_by_Cremer%2C_James%2C_1821-1893_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Cape_May%2C_N.J%2C_by_Cremer%2C_James%2C_1821-1893_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cape_May,_N.J,_by_Cremer,_James,_1821-1893_2.jpg",
+  "license": "Public domain",
+  "w": 2627,
+  "h": 1509,
+  "id": "STA-3201",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3200.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.23,
+  "rot": 0.23,
+  "range": 3.25,
+  "f": 0.97,
+  "depth": "Deep",
+  "va": 1.0149,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cape_May%2C_N.J%2C_by_Cremer%2C_James%2C_1821-1893_2.jpg/1920px-Cape_May%2C_N.J%2C_by_Cremer%2C_James%2C_1821-1893_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0149,
+   "L": [
+    0.141667,
+    0.0,
+    0.115365,
+    0.0,
+    0.242974,
+    0.462829
+   ],
+   "R": [
+    0.141025,
+    -0.009311,
+    0.558231,
+    -0.00096,
+    0.244497,
+    0.459332
+   ],
+   "g": [
+    0.8937,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.23% vertical error and 0.23° of rotation. Depth measured deep (3.25% of frame width); hung in the VR Parlor at 97% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Cremer, James",
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Ocean Breakers, Cape May, N.J, by R. Newell & Sons",
+  "place": "Cape May, New Jersey",
+  "year": "c. 1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Ocean_Breakers%2C_Cape_May%2C_N.J%2C_by_R._Newell_%26_Sons.png/1920px-Ocean_Breakers%2C_Cape_May%2C_N.J%2C_by_R._Newell_%26_Sons.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ocean_Breakers%2C_Cape_May%2C_N.J%2C_by_R._Newell_%26_Sons.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Ocean_Breakers,_Cape_May,_N.J,_by_R._Newell_%26_Sons.png",
+  "license": "Public domain",
+  "w": 2636,
+  "h": 1319,
+  "id": "STA-3202",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3201.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.04,
+  "range": 0.65,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0734,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Ocean_Breakers%2C_Cape_May%2C_N.J%2C_by_R._Newell_%26_Sons.png/1920px-Ocean_Breakers%2C_Cape_May%2C_N.J%2C_by_R._Newell_%26_Sons.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0734,
+   "L": [
+    0.319792,
+    0.0,
+    0.07474,
+    0.0,
+    0.595213,
+    0.341831
+   ],
+   "R": [
+    0.317661,
+    -0.00583,
+    0.516573,
+    -0.001688,
+    0.590219,
+    0.342204
+   ],
+   "g": [
+    0.9782,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.04° of rotation. Depth measured gentle (0.65% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "R. Newell & Sons",
+  "date_edtf": "1875~",
+  "date_start": 1870,
+  "date_end": 1880,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Cape Horn. Columbia River, Oregon",
+  "place": "Cape Horn, Oregon",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Cape_Horn._Columbia_River%2C_Oregon%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cape_Horn._Columbia_River%2C_Oregon%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/95/Cape_Horn._Columbia_River%2C_Oregon%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cape_Horn._Columbia_River,_Oregon,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1392,
+  "id": "STA-3203",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3202.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.24,
+  "rot": 0.01,
+  "range": 1.18,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.0632,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Cape_Horn._Columbia_River%2C_Oregon%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cape_Horn._Columbia_River%2C_Oregon%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.0632,
+   "L": [
+    0.373958,
+    0.0,
+    0.111198,
+    0.0,
+    0.356557,
+    0.525102
+   ],
+   "R": [
+    0.368562,
+    0.005501,
+    0.510472,
+    0.002195,
+    0.355897,
+    0.528897
+   ],
+   "g": [
+    1.0,
+    0.9555
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.01° of rotation. Depth measured gentle (1.18% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Ferry landing, at Cape Elizabeth, Portland, Me",
+  "place": "Cape Elizabeth, Maine",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water",
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Ferry_landing%2C_at_Cape_Elizabeth%2C_Portland%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Ferry_landing%2C_at_Cape_Elizabeth%2C_Portland%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ferry_landing%2C_at_Cape_Elizabeth%2C_Portland%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Ferry_landing,_at_Cape_Elizabeth,_Portland,_Me,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1393,
+  "id": "STA-3204",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3203.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.31,
+  "rot": 0.01,
+  "range": 0.41,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.636,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Ferry_landing%2C_at_Cape_Elizabeth%2C_Portland%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Ferry_landing%2C_at_Cape_Elizabeth%2C_Portland%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.636,
+   "L": [
+    0.373437,
+    0.0,
+    0.098698,
+    0.0,
+    0.278403,
+    0.394575
+   ],
+   "R": [
+    0.372059,
+    -0.00169,
+    0.511872,
+    0.000312,
+    0.278211,
+    0.409404
+   ],
+   "g": [
+    1.0,
+    0.96
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.31% vertical error and 0.01° of rotation. Depth measured gentle (0.41% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Cape Horn. Columbia River, Oregon, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Cape Horn, Oregon",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water",
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Cape_Horn._Columbia_River%2C_Oregon%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Cape_Horn._Columbia_River%2C_Oregon%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Cape_Horn._Columbia_River%2C_Oregon%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cape_Horn._Columbia_River,_Oregon,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1377,
+  "id": "STA-3205",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3204.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.06,
+  "range": 0.43,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.892,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Cape_Horn._Columbia_River%2C_Oregon%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Cape_Horn._Columbia_River%2C_Oregon%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.892,
+   "L": [
+    0.404167,
+    0.0,
+    0.088281,
+    0.0,
+    0.900621,
+    0.04089
+   ],
+   "R": [
+    0.407261,
+    -0.007314,
+    0.513346,
+    0.00925,
+    0.904024,
+    0.033385
+   ],
+   "g": [
+    1.0,
+    0.9934
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.06° of rotation. Depth measured gentle (0.43% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Ferry landing, at Cape Elizabeth, Portland, Me, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Cape Elizabeth, Maine",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water",
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Ferry_landing%2C_at_Cape_Elizabeth%2C_Portland%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Ferry_landing%2C_at_Cape_Elizabeth%2C_Portland%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Ferry_landing%2C_at_Cape_Elizabeth%2C_Portland%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Ferry_landing,_at_Cape_Elizabeth,_Portland,_Me,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1373,
+  "id": "STA-3206",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3205.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.18,
+  "rot": 0.02,
+  "range": 0.5,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.4008,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Ferry_landing%2C_at_Cape_Elizabeth%2C_Portland%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Ferry_landing%2C_at_Cape_Elizabeth%2C_Portland%2C_Me%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.4008,
+   "L": [
+    0.371354,
+    0.0,
+    0.113802,
+    0.0,
+    0.528557,
+    0.233126
+   ],
+   "R": [
+    0.369621,
+    -0.00258,
+    0.507166,
+    0.002897,
+    0.529012,
+    0.237266
+   ],
+   "g": [
+    0.9893,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.02° of rotation. Depth measured gentle (0.5% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]
