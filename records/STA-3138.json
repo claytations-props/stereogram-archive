@@ -1,0 +1,69 @@
+{
+ "title": "Norwich from Laurel Hill, by J. Weeks",
+ "place": "Norwich, Connecticut",
+ "year": "c. 1875",
+ "sy": 1875,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Norwich_from_Laurel_Hill%2C_by_J._Weeks.jpg/1920px-Norwich_from_Laurel_Hill%2C_by_J._Weeks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/12/Norwich_from_Laurel_Hill%2C_by_J._Weeks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Norwich_from_Laurel_Hill,_by_J._Weeks.jpg",
+ "license": "Public domain",
+ "w": 2544,
+ "h": 1251,
+ "id": "STA-3138",
+ "rect": "rect/3137.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.09,
+ "rot": 0.0,
+ "range": 4.66,
+ "f": 0.52,
+ "depth": "Deep",
+ "va": 1.3478,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Norwich_from_Laurel_Hill%2C_by_J._Weeks.jpg/1920px-Norwich_from_Laurel_Hill%2C_by_J._Weeks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.3478,
+  "L": [
+   0.405729,
+   0.0,
+   0.074219,
+   0.0,
+   0.612288,
+   0.357521
+  ],
+  "R": [
+   0.409049,
+   -0.00809,
+   0.516808,
+   0.008919,
+   0.618143,
+   0.343978
+  ],
+  "g": [
+   0.8705,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured deep (4.66% of frame width); hung in the VR Parlor at 52% size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "J. Weeks",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1875~",
+ "date_start": 1870,
+ "date_end": 1880,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10243172,
+ "source_revision_id": null,
+ "source_sha1": "c40a2c301b527392a6e3202d6f7c4656366b2d5b"
+}

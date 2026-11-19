@@ -1,0 +1,69 @@
+{
+ "title": "Norwich Falls (Yantic River), by J. Weeks",
+ "place": "Norwich, Connecticut",
+ "year": "c. 1875",
+ "sy": 1875,
+ "era": "mid",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Norwich_Falls_%28Yantic_River%29%2C_by_J._Weeks.jpg/1920px-Norwich_Falls_%28Yantic_River%29%2C_by_J._Weeks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Norwich_Falls_%28Yantic_River%29%2C_by_J._Weeks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Norwich_Falls_(Yantic_River),_by_J._Weeks.jpg",
+ "license": "Public domain",
+ "w": 2528,
+ "h": 1230,
+ "id": "STA-3137",
+ "rect": "rect/3136.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.09,
+ "rot": 0.01,
+ "range": 1.08,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0994,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Norwich_Falls_%28Yantic_River%29%2C_by_J._Weeks.jpg/1920px-Norwich_Falls_%28Yantic_River%29%2C_by_J._Weeks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0994,
+  "L": [
+   0.414583,
+   0.0,
+   0.065365,
+   0.0,
+   0.775161,
+   0.207173
+  ],
+  "R": [
+   0.407488,
+   -0.006137,
+   0.519739,
+   0.009769,
+   0.768691,
+   0.19765
+  ],
+  "g": [
+   1.0,
+   0.9605
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (1.08% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "J. Weeks",
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1875~",
+ "date_start": 1870,
+ "date_end": 1880,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10243100,
+ "source_revision_id": null,
+ "source_sha1": "a765192677a9ef94026b689b33089798b0f9589a"
+}
