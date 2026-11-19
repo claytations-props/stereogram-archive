@@ -1,0 +1,71 @@
+{
+ "title": "Chittenango Falls, by Mather & Lyon",
+ "place": "Chittenango, New York",
+ "year": "1868",
+ "sy": 1868,
+ "era": "early",
+ "cats": [
+  "water",
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chittenango_Falls%2C_by_Mather_%26_Lyon.jpg/1920px-Chittenango_Falls%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/51/Chittenango_Falls%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Chittenango_Falls,_by_Mather_%26_Lyon.jpg",
+ "license": "Public domain",
+ "w": 2663,
+ "h": 1342,
+ "id": "STA-3215",
+ "rect": "rect/3214.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.06,
+ "rot": 0.02,
+ "range": 0.97,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9638,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chittenango_Falls%2C_by_Mather_%26_Lyon.jpg/1920px-Chittenango_Falls%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9638,
+  "L": [
+   0.44375,
+   0.0,
+   0.028385,
+   0.0,
+   0.913223,
+   0.034607
+  ],
+  "R": [
+   0.444453,
+   -0.00416,
+   0.511014,
+   0.00336,
+   0.911775,
+   0.043427
+  ],
+  "g": [
+   0.9321,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.02° of rotation. Depth measured gentle (0.97% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Mather & Lyon",
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1868",
+ "date_start": 1868,
+ "date_end": 1868,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10054649,
+ "source_revision_id": null,
+ "source_sha1": "87097b0edbc03b92f56abc334169af82ad9a272b"
+}

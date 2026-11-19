@@ -189472,5 +189472,714 @@
   "date_start": 1869,
   "date_end": 1869,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Mill Street, Cazenovia, N.Y",
+  "place": "Cazenovia, New York",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Mill_Street%2C_Cazenovia%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Mill_Street%2C_Cazenovia%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mill_Street%2C_Cazenovia%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Mill_Street,_Cazenovia,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2579,
+  "h": 1264,
+  "id": "STA-3207",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3206.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 0.23,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9767,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Mill_Street%2C_Cazenovia%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Mill_Street%2C_Cazenovia%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9767,
+   "L": [
+    0.4375,
+    0.0,
+    0.055469,
+    0.0,
+    0.913921,
+    0.036663
+   ],
+   "R": [
+    0.437501,
+    0.00629,
+    0.507197,
+    -0.012764,
+    0.913498,
+    0.050286
+   ],
+   "g": [
+    1.0,
+    0.844
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (0.23% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Ten Eycks Grounds & Cazenovia Lake, by Mather & Lyon",
+  "place": "Cazenovia, New York",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Ten_Eycks_Grounds_%26_Cazenovia_Lake%2C_by_Mather_%26_Lyon.jpg/1920px-Ten_Eycks_Grounds_%26_Cazenovia_Lake%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/56/Ten_Eycks_Grounds_%26_Cazenovia_Lake%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Ten_Eycks_Grounds_%26_Cazenovia_Lake,_by_Mather_%26_Lyon.jpg",
+  "license": "Public domain",
+  "w": 2651,
+  "h": 1336,
+  "id": "STA-3208",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3207.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.0,
+  "range": 0.73,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.292,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Ten_Eycks_Grounds_%26_Cazenovia_Lake%2C_by_Mather_%26_Lyon.jpg/1920px-Ten_Eycks_Grounds_%26_Cazenovia_Lake%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.292,
+   "L": [
+    0.460938,
+    0.0,
+    0.024219,
+    0.0,
+    0.707645,
+    0.032541
+   ],
+   "R": [
+    0.461212,
+    0.004475,
+    0.511248,
+    -0.009831,
+    0.708879,
+    0.04513
+   ],
+   "g": [
+    1.0,
+    0.9626
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (0.73% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Mather & Lyon",
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Residence of R. A. Mitchell Esq., Cazenovia, N.Y, by A. A. Johnson",
+  "place": "Cazenovia, New York",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Residence_of_R._A._Mitchell_Esq.%2C_Cazenovia%2C_N.Y%2C_by_A._A._Johnson.jpg/1920px-Residence_of_R._A._Mitchell_Esq.%2C_Cazenovia%2C_N.Y%2C_by_A._A._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/31/Residence_of_R._A._Mitchell_Esq.%2C_Cazenovia%2C_N.Y%2C_by_A._A._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Residence_of_R._A._Mitchell_Esq.,_Cazenovia,_N.Y,_by_A._A._Johnson.jpg",
+  "license": "Public domain",
+  "w": 2645,
+  "h": 1342,
+  "id": "STA-3209",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3208.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.16,
+  "rot": 0.02,
+  "range": 0.66,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.8104,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Residence_of_R._A._Mitchell_Esq.%2C_Cazenovia%2C_N.Y%2C_by_A._A._Johnson.jpg/1920px-Residence_of_R._A._Mitchell_Esq.%2C_Cazenovia%2C_N.Y%2C_by_A._A._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.8104,
+   "L": [
+    0.417708,
+    0.0,
+    0.059635,
+    0.0,
+    0.454825,
+    0.037474
+   ],
+   "R": [
+    0.416047,
+    -0.002705,
+    0.51096,
+    0.015617,
+    0.450854,
+    0.056222
+   ],
+   "g": [
+    1.0,
+    0.9777
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.02° of rotation. Depth measured gentle (0.66% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "A. A. Johnson",
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Cazenovia from Methodist steeple west. (Or,) Looking west from the Methodist steeple, by Mather & Lyon",
+  "place": "Cazenovia, New York",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Cazenovia_from_Methodist_steeple_west._%28Or%2C%29_Looking_west_from_the_Methodist_steeple%2C_by_Mather_%26_Lyon.jpg/1920px-Cazenovia_from_Methodist_steeple_west._%28Or%2C%29_Looking_west_from_the_Methodist_steeple%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/62/Cazenovia_from_Methodist_steeple_west._%28Or%2C%29_Looking_west_from_the_Methodist_steeple%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cazenovia_from_Methodist_steeple_west._(Or,)_Looking_west_from_the_Methodist_steeple,_by_Mather_%26_Lyon.jpg",
+  "license": "Public domain",
+  "w": 2651,
+  "h": 1336,
+  "id": "STA-3210",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3209.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.0,
+  "range": 0.45,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.585,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Cazenovia_from_Methodist_steeple_west._%28Or%2C%29_Looking_west_from_the_Methodist_steeple%2C_by_Mather_%26_Lyon.jpg/1920px-Cazenovia_from_Methodist_steeple_west._%28Or%2C%29_Looking_west_from_the_Methodist_steeple%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.585,
+   "L": [
+    0.451562,
+    0.0,
+    0.028906,
+    0.0,
+    0.565083,
+    0.405475
+   ],
+   "R": [
+    0.451705,
+    0.003893,
+    0.505356,
+    -0.016525,
+    0.56635,
+    0.393573
+   ],
+   "g": [
+    1.0,
+    0.9715
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.0° of rotation. Depth measured gentle (0.45% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Mather & Lyon",
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Interior view, by H. S. Mather",
+  "place": "Place unrecorded",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Interior_view%2C_by_H._S._Mather.png/1920px-Interior_view%2C_by_H._S._Mather.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Interior_view%2C_by_H._S._Mather.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Interior_view,_by_H._S._Mather.png",
+  "license": "Public domain",
+  "w": 2567,
+  "h": 1276,
+  "id": "STA-3211",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3210.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.05,
+  "range": 3.9,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.6671,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Interior_view%2C_by_H._S._Mather.png/1920px-Interior_view%2C_by_H._S._Mather.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.6671,
+   "L": [
+    0.290104,
+    0.0,
+    0.060677,
+    0.0,
+    0.875262,
+    0.040356
+   ],
+   "R": [
+    0.283872,
+    0.006626,
+    0.520645,
+    0.000573,
+    0.870377,
+    0.052959
+   ],
+   "g": [
+    0.9417,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.05° of rotation. Depth measured deep (3.9% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "H. S. Mather",
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Albany Street, winter view, by E. G. Weld & Son",
+  "place": "Cazenovia, New York",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Albany_Street%2C_winter_view%2C_by_E._G._Weld_%26_Son.jpg/1920px-Albany_Street%2C_winter_view%2C_by_E._G._Weld_%26_Son.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/68/Albany_Street%2C_winter_view%2C_by_E._G._Weld_%26_Son.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Albany_Street,_winter_view,_by_E._G._Weld_%26_Son.jpg",
+  "license": "Public domain",
+  "w": 2567,
+  "h": 1270,
+  "id": "STA-3212",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3211.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 1.67,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.1992,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Albany_Street%2C_winter_view%2C_by_E._G._Weld_%26_Son.jpg/1920px-Albany_Street%2C_winter_view%2C_by_E._G._Weld_%26_Son.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1992,
+   "L": [
+    0.442188,
+    0.0,
+    0.04974,
+    0.0,
+    0.745263,
+    0.206842
+   ],
+   "R": [
+    0.442717,
+    -0.001247,
+    0.506501,
+    0.005585,
+    0.749667,
+    0.206397
+   ],
+   "g": [
+    1.0,
+    0.9997
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured moderate (1.67% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "E. G. Weld & Son",
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Looking up the Dyke. (Mitchells Grounds on the left.), by Mather & Lyon",
+  "place": "Cazenovia, New York",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Looking_up_the_Dyke._%28Mitchells_Grounds_on_the_left.%29%2C_by_Mather_%26_Lyon.jpg/1920px-Looking_up_the_Dyke._%28Mitchells_Grounds_on_the_left.%29%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/61/Looking_up_the_Dyke._%28Mitchells_Grounds_on_the_left.%29%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Looking_up_the_Dyke._(Mitchells_Grounds_on_the_left.),_by_Mather_%26_Lyon.jpg",
+  "license": "Public domain",
+  "w": 2657,
+  "h": 1342,
+  "id": "STA-3213",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3212.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 1.34,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0214,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Looking_up_the_Dyke._%28Mitchells_Grounds_on_the_left.%29%2C_by_Mather_%26_Lyon.jpg/1920px-Looking_up_the_Dyke._%28Mitchells_Grounds_on_the_left.%29%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0214,
+   "L": [
+    0.447396,
+    0.0,
+    0.02474,
+    0.0,
+    0.86701,
+    0.075773
+   ],
+   "R": [
+    0.447688,
+    0.001867,
+    0.508041,
+    -0.004827,
+    0.866548,
+    0.094585
+   ],
+   "g": [
+    0.9657,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured gentle (1.34% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Mather & Lyon",
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "In the outlet of the Omahgena Lake, by Mather & Lyon",
+  "place": "Place unrecorded",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/In_the_outlet_of_the_Omahgena_Lake%2C_by_Mather_%26_Lyon.jpg/1920px-In_the_outlet_of_the_Omahgena_Lake%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f4/In_the_outlet_of_the_Omahgena_Lake%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:In_the_outlet_of_the_Omahgena_Lake,_by_Mather_%26_Lyon.jpg",
+  "license": "Public domain",
+  "w": 2645,
+  "h": 1336,
+  "id": "STA-3214",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3213.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 0.56,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9817,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/In_the_outlet_of_the_Omahgena_Lake%2C_by_Mather_%26_Lyon.jpg/1920px-In_the_outlet_of_the_Omahgena_Lake%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9817,
+   "L": [
+    0.445833,
+    0.0,
+    0.03151,
+    0.0,
+    0.898969,
+    0.042784
+   ],
+   "R": [
+    0.443419,
+    0.002331,
+    0.532682,
+    -0.003793,
+    0.89495,
+    0.075934
+   ],
+   "g": [
+    0.9556,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured gentle (0.56% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Mather & Lyon",
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Chittenango Falls, by Mather & Lyon",
+  "place": "Chittenango, New York",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "water",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chittenango_Falls%2C_by_Mather_%26_Lyon.jpg/1920px-Chittenango_Falls%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/51/Chittenango_Falls%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Chittenango_Falls,_by_Mather_%26_Lyon.jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1342,
+  "id": "STA-3215",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3214.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.06,
+  "rot": 0.02,
+  "range": 0.97,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9638,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chittenango_Falls%2C_by_Mather_%26_Lyon.jpg/1920px-Chittenango_Falls%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9638,
+   "L": [
+    0.44375,
+    0.0,
+    0.028385,
+    0.0,
+    0.913223,
+    0.034607
+   ],
+   "R": [
+    0.444453,
+    -0.00416,
+    0.511014,
+    0.00336,
+    0.911775,
+    0.043427
+   ],
+   "g": [
+    0.9321,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.02° of rotation. Depth measured gentle (0.97% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Mather & Lyon",
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Looking down the Dyke, by Mather & Lyon",
+  "place": "Cazenovia, New York",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Looking_down_the_Dyke%2C_by_Mather_%26_Lyon.png/1920px-Looking_down_the_Dyke%2C_by_Mather_%26_Lyon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Looking_down_the_Dyke%2C_by_Mather_%26_Lyon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Looking_down_the_Dyke,_by_Mather_%26_Lyon.png",
+  "license": "Public domain",
+  "w": 2651,
+  "h": 1342,
+  "id": "STA-3216",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3215.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 1.21,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.3208,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Looking_down_the_Dyke%2C_by_Mather_%26_Lyon.png/1920px-Looking_down_the_Dyke%2C_by_Mather_%26_Lyon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3208,
+   "L": [
+    0.456771,
+    0.0,
+    0.036198,
+    0.0,
+    0.683128,
+    0.059156
+   ],
+   "R": [
+    0.455297,
+    0.00552,
+    0.505748,
+    -0.015049,
+    0.681873,
+    0.058022
+   ],
+   "g": [
+    1.0,
+    0.9508
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (1.21% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Mather & Lyon",
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Albany St., south side, by A. A. Johnson",
+  "place": "Cazenovia, New York",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Albany_St.%2C_south_side%2C_by_A._A._Johnson.jpg/1920px-Albany_St.%2C_south_side%2C_by_A._A._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/df/Albany_St.%2C_south_side%2C_by_A._A._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Albany_St.,_south_side,_by_A._A._Johnson.jpg",
+  "license": "Public domain",
+  "w": 2651,
+  "h": 1348,
+  "id": "STA-3217",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3216.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 1.49,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2124,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Albany_St.%2C_south_side%2C_by_A._A._Johnson.jpg/1920px-Albany_St.%2C_south_side%2C_by_A._A._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2124,
+   "L": [
+    0.416146,
+    0.0,
+    0.077344,
+    0.0,
+    0.675205,
+    0.255635
+   ],
+   "R": [
+    0.415357,
+    -0.019229,
+    0.524201,
+    0.009895,
+    0.675365,
+    0.272635
+   ],
+   "g": [
+    0.9837,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured gentle (1.49% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "A. A. Johnson",
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Outlet of the lake, by Mather & Lyon",
+  "place": "Cazenovia, New York",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Outlet_of_the_lake%2C_by_Mather_%26_Lyon.jpg/1920px-Outlet_of_the_lake%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/59/Outlet_of_the_lake%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Outlet_of_the_lake,_by_Mather_%26_Lyon.jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1360,
+  "id": "STA-3218",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3217.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 1.0,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9909,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Outlet_of_the_lake%2C_by_Mather_%26_Lyon.jpg/1920px-Outlet_of_the_lake%2C_by_Mather_%26_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9909,
+   "L": [
+    0.454688,
+    0.0,
+    0.038281,
+    0.0,
+    0.898063,
+    0.050459
+   ],
+   "R": [
+    0.451725,
+    -0.014132,
+    0.520563,
+    0.002562,
+    0.898727,
+    0.061498
+   ],
+   "g": [
+    1.0,
+    0.9834
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (1.0% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Mather & Lyon",
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]

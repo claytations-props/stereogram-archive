@@ -1,0 +1,69 @@
+{
+ "title": "Mill Street, Cazenovia, N.Y",
+ "place": "Cazenovia, New York",
+ "year": "1868",
+ "sy": 1868,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Mill_Street%2C_Cazenovia%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Mill_Street%2C_Cazenovia%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mill_Street%2C_Cazenovia%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Mill_Street,_Cazenovia,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2579,
+ "h": 1264,
+ "id": "STA-3207",
+ "rect": "rect/3206.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.08,
+ "rot": 0.0,
+ "range": 0.23,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9767,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Mill_Street%2C_Cazenovia%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Mill_Street%2C_Cazenovia%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9767,
+  "L": [
+   0.4375,
+   0.0,
+   0.055469,
+   0.0,
+   0.913921,
+   0.036663
+  ],
+  "R": [
+   0.437501,
+   0.00629,
+   0.507197,
+   -0.012764,
+   0.913498,
+   0.050286
+  ],
+  "g": [
+   1.0,
+   0.844
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (0.23% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1868",
+ "date_start": 1868,
+ "date_end": 1868,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10054509,
+ "source_revision_id": null,
+ "source_sha1": "0a32e8430d3bc1943242a43fd7c370caf3d5836b"
+}
