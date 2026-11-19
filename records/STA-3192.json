@@ -1,0 +1,69 @@
+{
+ "title": "Provincetown, Mass--black fish",
+ "place": "Provincetown, Massachusetts",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Provincetown%2C_Mass--black_fish%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/61/Provincetown%2C_Mass--black_fish%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Provincetown,_Mass--black_fish,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 391,
+ "id": "STA-3192",
+ "rect": "rect/3191.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.26,
+ "rot": 0.08,
+ "range": 1.23,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0591,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/6/61/Provincetown%2C_Mass--black_fish%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.0591,
+  "L": [
+   0.353947,
+   0.0,
+   0.109868,
+   0.0,
+   0.649616,
+   0.305627
+  ],
+  "R": [
+   0.34857,
+   -0.022209,
+   0.52873,
+   3.9e-05,
+   0.64989,
+   0.303613
+  ],
+  "g": [
+   1.0,
+   0.8767
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.26% vertical error and 0.08° of rotation. Depth measured gentle (1.23% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7446518,
+ "source_revision_id": null,
+ "source_sha1": "5c4c3953ae3f6ffd08a0b4413b52903bc21454cc"
+}

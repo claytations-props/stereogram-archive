@@ -1,0 +1,69 @@
+{
+ "title": "Street view of Falmouth showing homes and other buildings",
+ "place": "Falmouth, Massachusetts",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Street_view_of_Falmouth_showing_homes_and_other_buildings%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Street_view_of_Falmouth_showing_homes_and_other_buildings%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Street_view_of_Falmouth_showing_homes_and_other_buildings,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 393,
+ "id": "STA-3173",
+ "rect": "rect/3172.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.32,
+ "rot": 0.01,
+ "range": 0.89,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.7251,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Street_view_of_Falmouth_showing_homes_and_other_buildings%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.7251,
+  "L": [
+   0.388158,
+   0.0,
+   0.092763,
+   0.0,
+   0.435115,
+   0.507634
+  ],
+  "R": [
+   0.383424,
+   -0.011291,
+   0.539249,
+   0.014728,
+   0.438367,
+   0.498033
+  ],
+  "g": [
+   0.9531,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.32% vertical error and 0.01° of rotation. Depth measured gentle (0.89% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7446433,
+ "source_revision_id": null,
+ "source_sha1": "3f54b0211a5ee2ad85b1b99c24a93644aa493153"
+}

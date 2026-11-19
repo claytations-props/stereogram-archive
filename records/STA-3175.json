@@ -1,0 +1,69 @@
+{
+ "title": "Swift cottage at Yarmouth Camp ground",
+ "place": "Yarmouth, Massachusetts",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Swift_cottage_at_Yarmouth_Camp_ground%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Swift_cottage_at_Yarmouth_Camp_ground%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Swift_cottage_at_Yarmouth_Camp_ground,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 392,
+ "id": "STA-3175",
+ "rect": "rect/3174.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.16,
+ "rot": 0.01,
+ "range": 1.82,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.8696,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Swift_cottage_at_Yarmouth_Camp_ground%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8696,
+  "L": [
+   0.368421,
+   0.0,
+   0.096711,
+   0.0,
+   0.821429,
+   0.123724
+  ],
+  "R": [
+   0.369991,
+   0.001353,
+   0.509876,
+   -0.000903,
+   0.821822,
+   0.109701
+  ],
+  "g": [
+   0.9164,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.01° of rotation. Depth measured moderate (1.82% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7446457,
+ "source_revision_id": null,
+ "source_sha1": "4ba1cf14f0dd5e1a456792942698a2ab197fd61b"
+}
