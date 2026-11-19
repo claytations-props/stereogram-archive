@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3126.json",
+ "name": "View of bridge over the river, leading to town, by R. Knecht",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3125.jpg",
+ "identifier": "STA-3126",
+ "creator": {
+  "@type": "Person",
+  "name": "R. Knecht"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Easton, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_bridge_over_the_river,_leading_to_town,_by_R._Knecht.jpg"
+}

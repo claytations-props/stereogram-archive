@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3180.json",
+ "name": "Woods Hole steamboat landing",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3179.jpg",
+ "identifier": "STA-3180",
+ "dateCreated": "1863",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Woods Hole, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Woods_Hole_steamboat_landing,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

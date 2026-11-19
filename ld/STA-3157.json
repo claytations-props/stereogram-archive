@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3157.json",
+ "name": "General view of Brockton (NYPL b11707505-G90F227 026ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3156.jpg",
+ "identifier": "STA-3157",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Brockton, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:General_view_of_Brockton_(NYPL_b11707505-G90F227_026ZF).tiff"
+}

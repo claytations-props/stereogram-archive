@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3211.json",
+ "name": "Interior view, by H. S. Mather",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3210.jpg",
+ "identifier": "STA-3211",
+ "creator": {
+  "@type": "Person",
+  "name": "H. S. Mather"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Interior_view,_by_H._S._Mather.png"
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3136.json",
+ "name": "Norwich, from High Street, (West Side), by E. Z. Webster",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3135.jpg",
+ "identifier": "STA-3136",
+ "creator": {
+  "@type": "Person",
+  "name": "E. Z. Webster"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norwich, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Norwich,_from_High_Street,_(West_Side),_by_E._Z._Webster.jpg"
+}

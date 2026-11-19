@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3186.json",
+ "name": "Interior view of Centerville with a map of the Holy Land visible on the wall above a lectern, by J. S. Lefavour",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3185.jpg",
+ "identifier": "STA-3186",
+ "creator": {
+  "@type": "Person",
+  "name": "J. S. Lefavour"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Centerville, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Interior_view_of_Centerville_with_a_map_of_the_Holy_Land_visible_on_the_wall_above_a_lectern,_by_J._S._Lefavour.jpg"
+}

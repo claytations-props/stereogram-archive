@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-3145.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Boat Landing at (Norwich, N.Y.?), by A.E. Hotchkiss"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "A.E. Hotchkiss"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1880"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Norwich, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-3145.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-3145/canvas/1",
+   "type": "Canvas",
+   "width": 1708,
+   "height": 876,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-3145/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-3145/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/3144.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1708,
+        "height": 876,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Boat_Landing_at_%28Norwich%2C_N.Y.%3F%29%2C_by_A.E._Hotchkiss.jpg/1920px-Boat_Landing_at_%28Norwich%2C_N.Y.%3F%29%2C_by_A.E._Hotchkiss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-3145/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

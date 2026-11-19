@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3171.json",
+ "name": "View of a couple and child in front of a tent at Yarmouth Camp ground",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3170.jpg",
+ "identifier": "STA-3171",
+ "dateCreated": "1863",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yarmouth, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_couple_and_child_in_front_of_a_tent_at_Yarmouth_Camp_ground,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

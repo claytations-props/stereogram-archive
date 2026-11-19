@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3137.json",
+ "name": "Norwich Falls (Yantic River), by J. Weeks",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3136.jpg",
+ "identifier": "STA-3137",
+ "creator": {
+  "@type": "Person",
+  "name": "J. Weeks"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norwich, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Norwich_Falls_(Yantic_River),_by_J._Weeks.jpg"
+}

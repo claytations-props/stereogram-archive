@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3210.json",
+ "name": "Cazenovia from Methodist steeple west. (Or,) Looking west from the Methodist steeple, by Mather & Lyon",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3209.jpg",
+ "identifier": "STA-3210",
+ "creator": {
+  "@type": "Person",
+  "name": "Mather & Lyon"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cazenovia, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cazenovia_from_Methodist_steeple_west._(Or,)_Looking_west_from_the_Methodist_steeple,_by_Mather_%26_Lyon.jpg"
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3191.json",
+ "name": "View of a house and a yard with pine trees and a rustic bench, by Nickerson, G. H. (George Hathaway), 1835-1890",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3190.jpg",
+ "identifier": "STA-3191",
+ "creator": {
+  "@type": "Person",
+  "name": "Nickerson, G. H. (George Hathaway)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cape Cod, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_house_and_a_yard_with_pine_trees_and_a_rustic_bench,_by_Nickerson,_G._H._(George_Hathaway),_1835-1890.jpg"
+}

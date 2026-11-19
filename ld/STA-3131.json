@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3131.json",
+ "name": "Sidewheel boat moored at dock at Norwich",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3130.jpg",
+ "identifier": "STA-3131",
+ "dateCreated": "1869",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norwich, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Sidewheel_boat_moored_at_dock_at_Norwich,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

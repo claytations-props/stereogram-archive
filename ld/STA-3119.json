@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3119.json",
+ "name": "View from College Hill, Easton, Pa",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3118.jpg",
+ "identifier": "STA-3119",
+ "dateCreated": "1863",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Easton, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_from_College_Hill,_Easton,_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

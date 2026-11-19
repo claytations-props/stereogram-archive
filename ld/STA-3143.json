@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3143.json",
+ "name": "View of men working on the foundation of a house, by Laighton Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3142.jpg",
+ "identifier": "STA-3143",
+ "creator": {
+  "@type": "Person",
+  "name": "Laighton Brothers"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norwich, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_men_working_on_the_foundation_of_a_house,_by_Laighton_Brothers.jpg"
+}

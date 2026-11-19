@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3217.json",
+ "name": "Albany St., south side, by A. A. Johnson",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3216.jpg",
+ "identifier": "STA-3217",
+ "creator": {
+  "@type": "Person",
+  "name": "A. A. Johnson"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cazenovia, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Albany_St.,_south_side,_by_A._A._Johnson.jpg"
+}

@@ -67,5 +67,10 @@
  "license_url": null,
  "source_page_id": 10242983,
  "source_revision_id": null,
- "source_sha1": "272faa005742ec6b0d66b400329dc256a71700f7"
+ "source_sha1": "272faa005742ec6b0d66b400329dc256a71700f7",
+ "tags": [
+  "paddle steamer",
+  "crowd",
+  "harbor"
+ ]
 }

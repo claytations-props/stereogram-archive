@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3132.json",
+ "name": "Panorama view of Norwich, by J. Weeks",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3131.jpg",
+ "identifier": "STA-3132",
+ "creator": {
+  "@type": "Person",
+  "name": "J. Weeks"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norwich, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Panorama_view_of_Norwich,_by_J._Weeks.jpg"
+}

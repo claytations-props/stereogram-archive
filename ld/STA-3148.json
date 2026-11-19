@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3148.json",
+ "name": "The Congregational Church, Norwich, New York, by A.E. Hotchkiss",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3147.jpg",
+ "identifier": "STA-3148",
+ "creator": {
+  "@type": "Person",
+  "name": "A.E. Hotchkiss"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norwich, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Congregational_Church,_Norwich,_New_York,_by_A.E._Hotchkiss.jpg"
+}

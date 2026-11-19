@@ -67,5 +67,11 @@
  "license_url": null,
  "source_page_id": 10054649,
  "source_revision_id": null,
- "source_sha1": "87097b0edbc03b92f56abc334169af82ad9a272b"
+ "source_sha1": "87097b0edbc03b92f56abc334169af82ad9a272b",
+ "tags": [
+  "waterfall",
+  "rapids",
+  "picnic",
+  "trees"
+ ]
 }

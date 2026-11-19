@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3123.json",
+ "name": "A house in Easton, Pennsylvania, by R. Ruehlman & Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3122.jpg",
+ "identifier": "STA-3123",
+ "creator": {
+  "@type": "Person",
+  "name": "R. Ruehlman & Co."
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Easton, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:A_house_in_Easton,_Pennsylvania,_by_R._Ruehlman_%26_Co..jpg"
+}

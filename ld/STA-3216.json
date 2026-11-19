@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3216.json",
+ "name": "Looking down the Dyke, by Mather & Lyon",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3215.jpg",
+ "identifier": "STA-3216",
+ "creator": {
+  "@type": "Person",
+  "name": "Mather & Lyon"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cazenovia, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Looking_down_the_Dyke,_by_Mather_%26_Lyon.png"
+}

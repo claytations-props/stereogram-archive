@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3147.json",
+ "name": "People watching flood on the streets of Norwich (NYPL b11707683-G90F075 033ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3146.jpg",
+ "identifier": "STA-3147",
+ "dateCreated": "1880",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norwich, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:People_watching_flood_on_the_streets_of_Norwich_(NYPL_b11707683-G90F075_033ZF).tiff"
+}

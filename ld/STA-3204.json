@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3204.json",
+ "name": "Ferry landing, at Cape Elizabeth, Portland, Me",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3203.jpg",
+ "identifier": "STA-3204",
+ "dateCreated": "1869",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cape Elizabeth, Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Ferry_landing,_at_Cape_Elizabeth,_Portland,_Me,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

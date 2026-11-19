@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3209.json",
+ "name": "Residence of R. A. Mitchell Esq., Cazenovia, N.Y, by A. A. Johnson",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3208.jpg",
+ "identifier": "STA-3209",
+ "creator": {
+  "@type": "Person",
+  "name": "A. A. Johnson"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cazenovia, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Residence_of_R._A._Mitchell_Esq.,_Cazenovia,_N.Y,_by_A._A._Johnson.jpg"
+}

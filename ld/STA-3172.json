@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3172.json",
+ "name": "Enry A. Paull deck view, Cape Cod (NYPL b11707538-G90F275 020F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3171.jpg",
+ "identifier": "STA-3172",
+ "dateCreated": "1875",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cape Cod, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Enry_A._Paull_deck_view,_Cape_Cod_(NYPL_b11707538-G90F275_020F).tiff"
+}

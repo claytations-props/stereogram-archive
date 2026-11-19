@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3181.json",
+ "name": "View of a collage of stereo-halves of Cape Cod scenery (NYPL b11707538-G90F275 043F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3180.jpg",
+ "identifier": "STA-3181",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cape Cod, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_collage_of_stereo-halves_of_Cape_Cod_scenery_(NYPL_b11707538-G90F275_043F).tiff"
+}

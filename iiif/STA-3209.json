@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-3209.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Residence of R. A. Mitchell Esq., Cazenovia, N.Y, by A. A. Johnson"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "A. A. Johnson"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1868"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Cazenovia, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-3209.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-3209/canvas/1",
+   "type": "Canvas",
+   "width": 1604,
+   "height": 443,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-3209/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-3209/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/3208.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1604,
+        "height": 443,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Residence_of_R._A._Mitchell_Esq.%2C_Cazenovia%2C_N.Y%2C_by_A._A._Johnson.jpg/1920px-Residence_of_R._A._Mitchell_Esq.%2C_Cazenovia%2C_N.Y%2C_by_A._A._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-3209/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

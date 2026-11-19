@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3116</quantity>
+    <quantity>3218</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -4964,6 +4964,262 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3115.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3118">
+     <did>
+      <unitid>STA-3118</unitid>
+      <unittitle>View on the Bushkill near Easton, Pa</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3117.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3125">
+     <did>
+      <unitid>STA-3125</unitid>
+      <unittitle>Easton or Bailey Beach, by Joshua Appleby Williams</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3124.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3126">
+     <did>
+      <unitid>STA-3126</unitid>
+      <unittitle>View of bridge over the river, leading to town, by R. Knecht</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3125.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3131">
+     <did>
+      <unitid>STA-3131</unitid>
+      <unittitle>Sidewheel boat moored at dock at Norwich</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3130.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3137">
+     <did>
+      <unitid>STA-3137</unitid>
+      <unittitle>Norwich Falls (Yantic River), by J. Weeks</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3136.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3145">
+     <did>
+      <unitid>STA-3145</unitid>
+      <unittitle>Boat Landing at (Norwich, N.Y.?), by A.E. Hotchkiss</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3144.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3149">
+     <did>
+      <unitid>STA-3149</unitid>
+      <unittitle>View of the centennial flood innudating the railroad bridge, by Laighton Brothers</unittitle>
+      <unitdate normal="1876">1876</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3148.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3150">
+     <did>
+      <unitid>STA-3150</unitid>
+      <unittitle>View of the centennial flood innudating the railroad bridge, by Laighton Brothers 2</unittitle>
+      <unitdate normal="1876">1876</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3149.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3172">
+     <did>
+      <unitid>STA-3172</unitid>
+      <unittitle>Enry A. Paull deck view, Cape Cod (NYPL b11707538-G90F275 020F)</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3171.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3179">
+     <did>
+      <unitid>STA-3179</unitid>
+      <unittitle>Lower lake, Sandwich, Mass., from Water Street</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3178.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3180">
+     <did>
+      <unitid>STA-3180</unitid>
+      <unittitle>Woods Hole steamboat landing</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3179.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3185">
+     <did>
+      <unitid>STA-3185</unitid>
+      <unittitle>Henry A. Paull, (deck view), by Nickerson, G. H. (George Hathaway), 1835-1890 3</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3184.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3187">
+     <did>
+      <unitid>STA-3187</unitid>
+      <unittitle>John Rommel, (deck view), by Nickerson, G. H. (George Hathaway), 1835-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3186.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3188">
+     <did>
+      <unitid>STA-3188</unitid>
+      <unittitle>Henry A. Paull, (deck view), by Nickerson, G. H. (George Hathaway), 1835-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3187.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3189">
+     <did>
+      <unitid>STA-3189</unitid>
+      <unittitle>Henry A. Paull, (deck view), by Nickerson, G. H. (George Hathaway), 1835-1890 2</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3188.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3190">
+     <did>
+      <unitid>STA-3190</unitid>
+      <unittitle>View of the Henry A. Paull, covered in ice, by Nickerson, G. H. (George Hathaway), 1835-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3189.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3192">
+     <did>
+      <unitid>STA-3192</unitid>
+      <unittitle>Provincetown, Mass--black fish</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3191.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3193">
+     <did>
+      <unitid>STA-3193</unitid>
+      <unittitle>Cape May, N.J. (View of waders.)</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3192.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3194">
+     <did>
+      <unitid>STA-3194</unitid>
+      <unittitle>Cape May, N.J. (View of the Beach.)</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3193.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3195">
+     <did>
+      <unitid>STA-3195</unitid>
+      <unittitle>Cape May, N.J. (View of the Ocean.)</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3194.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3196">
+     <did>
+      <unitid>STA-3196</unitid>
+      <unittitle>Cape May, N.J. (View of waders in the Ocean.)</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3195.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3201">
+     <did>
+      <unitid>STA-3201</unitid>
+      <unittitle>Cape May, N.J, by Cremer, James, 1821-1893 2</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3200.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3202">
+     <did>
+      <unitid>STA-3202</unitid>
+      <unittitle>Ocean Breakers, Cape May, N.J, by R. Newell &amp; Sons</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3201.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3204">
+     <did>
+      <unitid>STA-3204</unitid>
+      <unittitle>Ferry landing, at Cape Elizabeth, Portland, Me</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3203.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3205">
+     <did>
+      <unitid>STA-3205</unitid>
+      <unittitle>Cape Horn. Columbia River, Oregon, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3204.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3206">
+     <did>
+      <unitid>STA-3206</unitid>
+      <unittitle>Ferry landing, at Cape Elizabeth, Portland, Me, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3205.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3208">
+     <did>
+      <unitid>STA-3208</unitid>
+      <unittitle>Ten Eycks Grounds &amp; Cazenovia Lake, by Mather &amp; Lyon</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3207.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3213">
+     <did>
+      <unitid>STA-3213</unitid>
+      <unittitle>Looking up the Dyke. (Mitchells Grounds on the left.), by Mather &amp; Lyon</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3212.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3214">
+     <did>
+      <unitid>STA-3214</unitid>
+      <unittitle>In the outlet of the Omahgena Lake, by Mather &amp; Lyon</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3213.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3215">
+     <did>
+      <unitid>STA-3215</unitid>
+      <unittitle>Chittenango Falls, by Mather &amp; Lyon</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3214.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3216">
+     <did>
+      <unitid>STA-3216</unitid>
+      <unittitle>Looking down the Dyke, by Mather &amp; Lyon</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3215.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3218">
+     <did>
+      <unitid>STA-3218</unitid>
+      <unittitle>Outlet of the lake, by Mather &amp; Lyon</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3217.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -7111,6 +7367,38 @@
       <unittitle>View of people climbing the cliff</unittitle>
       <unitdate normal="1865/1875">c. 1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3062.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3119">
+     <did>
+      <unitid>STA-3119</unitid>
+      <unittitle>View from College Hill, Easton, Pa</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3118.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3120">
+     <did>
+      <unitid>STA-3120</unitid>
+      <unittitle>View of Mount Jefferson near Easton, Pa</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3119.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3121">
+     <did>
+      <unitid>STA-3121</unitid>
+      <unittitle>View from Mount Jefferson near Easton, Pa</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3120.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3130">
+     <did>
+      <unitid>STA-3130</unitid>
+      <unittitle>Lehigh and Susquehanna R.R. cut, Solomon's Gap, by M. A. Kleckner</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3129.jpg"/>
      </did>
     </c>
    </c>
@@ -19326,6 +19614,422 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3113.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3117">
+     <did>
+      <unitid>STA-3117</unitid>
+      <unittitle>View of Easton, Pa</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3116.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3122">
+     <did>
+      <unitid>STA-3122</unitid>
+      <unittitle>View from Ferry Street (Easton?), by R. Ruehlman &amp; Co.</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3121.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3123">
+     <did>
+      <unitid>STA-3123</unitid>
+      <unittitle>A house in Easton, Pennsylvania, by R. Ruehlman &amp; Co.</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3122.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3124">
+     <did>
+      <unitid>STA-3124</unitid>
+      <unittitle>Easton Cemetery and natural cross on tree, by R. Knecht</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3123.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3127">
+     <did>
+      <unitid>STA-3127</unitid>
+      <unittitle>South College "Lafayette.", by R. Knecht</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3126.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3128">
+     <did>
+      <unitid>STA-3128</unitid>
+      <unittitle>Jenks' Hall, Lafayette College, by R. Knecht</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3127.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3129">
+     <did>
+      <unitid>STA-3129</unitid>
+      <unittitle>Pardee Hall, Lafayette College, by R. Knecht</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3128.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3132">
+     <did>
+      <unitid>STA-3132</unitid>
+      <unittitle>Panorama view of Norwich, by J. Weeks</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3131.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3133">
+     <did>
+      <unitid>STA-3133</unitid>
+      <unittitle>View of Norwich, by Ayer, E. (Elisha)</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3132.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3134">
+     <did>
+      <unitid>STA-3134</unitid>
+      <unittitle>Church, Norwich, Connecticut, by E. Spafard</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3133.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3135">
+     <did>
+      <unitid>STA-3135</unitid>
+      <unittitle>Norwich, Connecticut, by James O. Durgan</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3134.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3136">
+     <did>
+      <unitid>STA-3136</unitid>
+      <unittitle>Norwich, from High Street, (West Side), by E. Z. Webster</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3135.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3138">
+     <did>
+      <unitid>STA-3138</unitid>
+      <unittitle>Norwich from Laurel Hill, by J. Weeks</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3137.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3139">
+     <did>
+      <unitid>STA-3139</unitid>
+      <unittitle>People watching flood on the streets of Norwich, by E. Z. Webster</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3138.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3140">
+     <did>
+      <unitid>STA-3140</unitid>
+      <unittitle>View of Norwich (NYPL b11707683-G90F075 002F)</unittitle>
+      <unitdate normal="1885">1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3139.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3141">
+     <did>
+      <unitid>STA-3141</unitid>
+      <unittitle>Church, Norwich, Connecticut (NYPL b11707683-G90F075 025ZF)</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3140.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3142">
+     <did>
+      <unitid>STA-3142</unitid>
+      <unittitle>Panorama view of Norwich (NYPL b11707683-G90F075 013F)</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3141.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3143">
+     <did>
+      <unitid>STA-3143</unitid>
+      <unittitle>View of men working on the foundation of a house, by Laighton Brothers</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3142.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3147">
+     <did>
+      <unitid>STA-3147</unitid>
+      <unittitle>People watching flood on the streets of Norwich (NYPL b11707683-G90F075 033ZF)</unittitle>
+      <unitdate normal="1880">1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3146.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3148">
+     <did>
+      <unitid>STA-3148</unitid>
+      <unittitle>The Congregational Church, Norwich, New York, by A.E. Hotchkiss</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3147.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3151">
+     <did>
+      <unitid>STA-3151</unitid>
+      <unittitle>General view of Brockton, by L. B. Howard</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3150.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3152">
+     <did>
+      <unitid>STA-3152</unitid>
+      <unittitle>General view of Brockton, by L. B. Howard 4</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3151.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3153">
+     <did>
+      <unitid>STA-3153</unitid>
+      <unittitle>General view of Brockton, by L. B. Howard 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3152.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3154">
+     <did>
+      <unitid>STA-3154</unitid>
+      <unittitle>General view of Brockton, by L. B. Howard 3</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3153.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3155">
+     <did>
+      <unitid>STA-3155</unitid>
+      <unittitle>View of residential street with buggy and trees</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3154.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3156">
+     <did>
+      <unitid>STA-3156</unitid>
+      <unittitle>General view of Brockton (NYPL b11707505-G90F227 027ZF)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3155.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3157">
+     <did>
+      <unitid>STA-3157</unitid>
+      <unittitle>General view of Brockton (NYPL b11707505-G90F227 026ZF)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3156.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3158">
+     <did>
+      <unitid>STA-3158</unitid>
+      <unittitle>General view of Brockton (NYPL b11707505-G90F227 028ZF)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3157.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3159">
+     <did>
+      <unitid>STA-3159</unitid>
+      <unittitle>General view of Brockton (NYPL b11707505-G90F227 013F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3158.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3160">
+     <did>
+      <unitid>STA-3160</unitid>
+      <unittitle>General view of Brockton (NYPL b11707505-G90F227 025ZF)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3159.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3161">
+     <did>
+      <unitid>STA-3161</unitid>
+      <unittitle>View of a residential street with houses, trees, and a buggy, by L. B. Howard</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3160.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3162">
+     <did>
+      <unitid>STA-3162</unitid>
+      <unittitle>Unidentified building</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3161.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3164">
+     <did>
+      <unitid>STA-3164</unitid>
+      <unittitle>Main Street, by L. B. Howard</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3163.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3166">
+     <did>
+      <unitid>STA-3166</unitid>
+      <unittitle>Porter church, by L. B. Howard</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3165.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3168">
+     <did>
+      <unitid>STA-3168</unitid>
+      <unittitle>Whitman school house, by L. B. Howard</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3167.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3173">
+     <did>
+      <unitid>STA-3173</unitid>
+      <unittitle>Street view of Falmouth showing homes and other buildings</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3172.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3174">
+     <did>
+      <unitid>STA-3174</unitid>
+      <unittitle>View of a group of shingled homes on a rise above the beach</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3173.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3175">
+     <did>
+      <unitid>STA-3175</unitid>
+      <unittitle>Swift cottage at Yarmouth Camp ground</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3174.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3178">
+     <did>
+      <unitid>STA-3178</unitid>
+      <unittitle>Sandwich, Mass., Academy, looking up School Street</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3177.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3182">
+     <did>
+      <unitid>STA-3182</unitid>
+      <unittitle>Town house and C.C. Church, Sandwich, Mass</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3181.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3183">
+     <did>
+      <unitid>STA-3183</unitid>
+      <unittitle>Jarves Street, Sandwich, Mass., from post-office square</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3182.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3184">
+     <did>
+      <unitid>STA-3184</unitid>
+      <unittitle>Main Street, Sandwich, Mass., from opposite Central House</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3183.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3191">
+     <did>
+      <unitid>STA-3191</unitid>
+      <unittitle>View of a house and a yard with pine trees and a rustic bench, by Nickerson, G. H. (George Hathaway), 1835-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3190.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3197">
+     <did>
+      <unitid>STA-3197</unitid>
+      <unittitle>Cape May, N.J. (Street scene.)</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3196.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3198">
+     <did>
+      <unitid>STA-3198</unitid>
+      <unittitle>Columbia House, Cape May, N.J</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3197.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3199">
+     <did>
+      <unitid>STA-3199</unitid>
+      <unittitle>Congress Hall, Cape May, N.J</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3198.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3200">
+     <did>
+      <unitid>STA-3200</unitid>
+      <unittitle>West End House, Cape May, N.J</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3199.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3207">
+     <did>
+      <unitid>STA-3207</unitid>
+      <unittitle>Mill Street, Cazenovia, N.Y</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3206.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3209">
+     <did>
+      <unitid>STA-3209</unitid>
+      <unittitle>Residence of R. A. Mitchell Esq., Cazenovia, N.Y, by A. A. Johnson</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3208.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3210">
+     <did>
+      <unitid>STA-3210</unitid>
+      <unittitle>Cazenovia from Methodist steeple west. (Or,) Looking west from the Methodist steeple, by Mather &amp; Lyon</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3209.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3212">
+     <did>
+      <unitid>STA-3212</unitid>
+      <unittitle>Albany Street, winter view, by E. G. Weld &amp; Son</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3211.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3217">
+     <did>
+      <unitid>STA-3217</unitid>
+      <unittitle>Albany St., south side, by A. A. Johnson</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3216.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -20558,6 +21262,14 @@
       <unittitle>Rumney, N.H., from the Boston, Concord &amp; Montreal Rail Road</unittitle>
       <unitdate normal="1867/1877">c. 1872</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3008.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3177">
+     <did>
+      <unitid>STA-3177</unitid>
+      <unittitle>Farm house and rows of potatoes(?)</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3176.jpg"/>
      </did>
     </c>
    </c>
@@ -22179,6 +22891,62 @@
       <unittitle>Fernside Farm, by C. A. Beckford</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3114.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3144">
+     <did>
+      <unitid>STA-3144</unitid>
+      <unittitle>Group portrait in Norwich, N.Y, by A.E. Hotchkiss</unittitle>
+      <unitdate normal="1880">1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3143.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3146">
+     <did>
+      <unitid>STA-3146</unitid>
+      <unittitle>Group portrait in Norwich, N.Y, by A.E. Hotchkiss 2</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3145.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3163">
+     <did>
+      <unitid>STA-3163</unitid>
+      <unittitle>Men laying pipe, by A. M. Turner</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3162.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3165">
+     <did>
+      <unitid>STA-3165</unitid>
+      <unittitle>Studio portrait of a family, by D. T. Burrell 3</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3164.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3169">
+     <did>
+      <unitid>STA-3169</unitid>
+      <unittitle>Studio portrait of a family, by D. T. Burrell 4</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3168.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3171">
+     <did>
+      <unitid>STA-3171</unitid>
+      <unittitle>View of a couple and child in front of a tent at Yarmouth Camp ground</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3170.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3176">
+     <did>
+      <unitid>STA-3176</unitid>
+      <unittitle>Group of men posing at the preacher's stand</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3175.jpg"/>
      </did>
     </c>
    </c>
@@ -24984,6 +25752,54 @@
       <unittitle>View of pagoda and gallery from stage, by A. W. Anderson</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3104.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3167">
+     <did>
+      <unitid>STA-3167</unitid>
+      <unittitle>Building failure - floor cave in revealing machinery below, by D. T. Burrell</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3166.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3170">
+     <did>
+      <unitid>STA-3170</unitid>
+      <unittitle>View of a collage of stereo-halves of Cape Cod scenery, by Nickerson, G. H. (George Hathaway), 1835-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3169.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3181">
+     <did>
+      <unitid>STA-3181</unitid>
+      <unittitle>View of a collage of stereo-halves of Cape Cod scenery (NYPL b11707538-G90F275 043F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3180.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3186">
+     <did>
+      <unitid>STA-3186</unitid>
+      <unittitle>Interior view of Centerville with a map of the Holy Land visible on the wall above a lectern, by J. S. Lefavour</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3185.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3203">
+     <did>
+      <unitid>STA-3203</unitid>
+      <unittitle>Cape Horn. Columbia River, Oregon</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3202.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3211">
+     <did>
+      <unitid>STA-3211</unitid>
+      <unittitle>Interior view, by H. S. Mather</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3210.jpg"/>
      </did>
     </c>
    </c>

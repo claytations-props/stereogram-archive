@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3182.json",
+ "name": "Town house and C.C. Church, Sandwich, Mass",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3181.jpg",
+ "identifier": "STA-3182",
+ "dateCreated": "1863",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Sandwich, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Town_house_and_C.C._Church,_Sandwich,_Mass,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

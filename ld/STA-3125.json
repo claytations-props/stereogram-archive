@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3125.json",
+ "name": "Easton or Bailey Beach, by Joshua Appleby Williams",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3124.jpg",
+ "identifier": "STA-3125",
+ "creator": {
+  "@type": "Person",
+  "name": "Joshua Appleby Williams"
+ },
+ "dateCreated": "1859",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Newport, Rhode Island"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Easton_or_Bailey_Beach,_by_Joshua_Appleby_Williams.jpg"
+}

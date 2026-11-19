@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3183.json",
+ "name": "Jarves Street, Sandwich, Mass., from post-office square",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3182.jpg",
+ "identifier": "STA-3183",
+ "dateCreated": "1863",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Sandwich, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Jarves_Street,_Sandwich,_Mass.,_from_post-office_square,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3170.json",
+ "name": "View of a collage of stereo-halves of Cape Cod scenery, by Nickerson, G. H. (George Hathaway), 1835-1890",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3169.jpg",
+ "identifier": "STA-3170",
+ "creator": {
+  "@type": "Person",
+  "name": "Nickerson, G. H. (George Hathaway)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cape Cod, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_collage_of_stereo-halves_of_Cape_Cod_scenery,_by_Nickerson,_G._H._(George_Hathaway),_1835-1890.jpg"
+}

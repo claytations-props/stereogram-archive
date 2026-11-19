@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3218.json",
+ "name": "Outlet of the lake, by Mather & Lyon",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3217.jpg",
+ "identifier": "STA-3218",
+ "creator": {
+  "@type": "Person",
+  "name": "Mather & Lyon"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cazenovia, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Outlet_of_the_lake,_by_Mather_%26_Lyon.jpg"
+}

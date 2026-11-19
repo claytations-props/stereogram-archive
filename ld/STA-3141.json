@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3141.json",
+ "name": "Church, Norwich, Connecticut (NYPL b11707683-G90F075 025ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3140.jpg",
+ "identifier": "STA-3141",
+ "dateCreated": "1875",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norwich, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Church,_Norwich,_Connecticut_(NYPL_b11707683-G90F075_025ZF).tiff"
+}

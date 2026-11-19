@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3124.json",
+ "name": "Easton Cemetery and natural cross on tree, by R. Knecht",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3123.jpg",
+ "identifier": "STA-3124",
+ "creator": {
+  "@type": "Person",
+  "name": "R. Knecht"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Easton, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Easton_Cemetery_and_natural_cross_on_tree,_by_R._Knecht.jpg"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3144.json",
+ "name": "Group portrait in Norwich, N.Y, by A.E. Hotchkiss",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3143.jpg",
+ "identifier": "STA-3144",
+ "creator": {
+  "@type": "Person",
+  "name": "A.E. Hotchkiss"
+ },
+ "dateCreated": "1880",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norwich, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Group_portrait_in_Norwich,_N.Y,_by_A.E._Hotchkiss.jpg"
+}

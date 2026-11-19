@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3214.json",
+ "name": "In the outlet of the Omahgena Lake, by Mather & Lyon",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3213.jpg",
+ "identifier": "STA-3214",
+ "creator": {
+  "@type": "Person",
+  "name": "Mather & Lyon"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:In_the_outlet_of_the_Omahgena_Lake,_by_Mather_%26_Lyon.jpg"
+}

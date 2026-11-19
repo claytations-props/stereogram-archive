@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3130.json",
+ "name": "Lehigh and Susquehanna R.R. cut, Solomon's Gap, by M. A. Kleckner",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3129.jpg",
+ "identifier": "STA-3130",
+ "creator": {
+  "@type": "Person",
+  "name": "M. A. Kleckner"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Lehigh_and_Susquehanna_R.R._cut,_Solomon%27s_Gap,_by_M._A._Kleckner.jpg"
+}

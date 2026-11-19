@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3208.json",
+ "name": "Ten Eycks Grounds & Cazenovia Lake, by Mather & Lyon",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3207.jpg",
+ "identifier": "STA-3208",
+ "creator": {
+  "@type": "Person",
+  "name": "Mather & Lyon"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cazenovia, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Ten_Eycks_Grounds_%26_Cazenovia_Lake,_by_Mather_%26_Lyon.jpg"
+}

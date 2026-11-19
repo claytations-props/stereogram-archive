@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3155.json",
+ "name": "View of residential street with buggy and trees",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3154.jpg",
+ "identifier": "STA-3155",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Brockton, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_residential_street_with_buggy_and_trees,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

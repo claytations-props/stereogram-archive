@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3175.json",
+ "name": "Swift cottage at Yarmouth Camp ground",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3174.jpg",
+ "identifier": "STA-3175",
+ "dateCreated": "1863",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yarmouth, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Swift_cottage_at_Yarmouth_Camp_ground,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

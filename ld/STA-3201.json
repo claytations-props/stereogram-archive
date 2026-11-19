@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3201.json",
+ "name": "Cape May, N.J, by Cremer, James, 1821-1893 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3200.jpg",
+ "identifier": "STA-3201",
+ "creator": {
+  "@type": "Person",
+  "name": "Cremer, James"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cape May, New Jersey"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cape_May,_N.J,_by_Cremer,_James,_1821-1893_2.jpg"
+}

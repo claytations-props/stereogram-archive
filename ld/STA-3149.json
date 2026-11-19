@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3149.json",
+ "name": "View of the centennial flood innudating the railroad bridge, by Laighton Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3148.jpg",
+ "identifier": "STA-3149",
+ "creator": {
+  "@type": "Person",
+  "name": "Laighton Brothers"
+ },
+ "dateCreated": "1876",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Norwich, Connecticut"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_the_centennial_flood_innudating_the_railroad_bridge,_by_Laighton_Brothers.jpg"
+}

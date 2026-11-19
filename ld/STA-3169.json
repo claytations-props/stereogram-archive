@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3169.json",
+ "name": "Studio portrait of a family, by D. T. Burrell 4",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3168.jpg",
+ "identifier": "STA-3169",
+ "creator": {
+  "@type": "Person",
+  "name": "D. T. Burrell"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Brockton, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Studio_portrait_of_a_family,_by_D._T._Burrell_4.jpg"
+}
