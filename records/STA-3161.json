@@ -1,0 +1,69 @@
+{
+ "title": "View of a residential street with houses, trees, and a buggy, by L. B. Howard",
+ "place": "Brockton, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/View_of_a_residential_street_with_houses%2C_trees%2C_and_a_buggy%2C_by_L._B._Howard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/ba/View_of_a_residential_street_with_houses%2C_trees%2C_and_a_buggy%2C_by_L._B._Howard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_residential_street_with_houses,_trees,_and_a_buggy,_by_L._B._Howard.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 396,
+ "id": "STA-3161",
+ "rect": "rect/3160.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.28,
+ "rot": 0.02,
+ "range": 2.09,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.0919,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/b/ba/View_of_a_residential_street_with_houses%2C_trees%2C_and_a_buggy%2C_by_L._B._Howard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.0919,
+  "L": [
+   0.406579,
+   0.0,
+   0.084868,
+   0.0,
+   0.714646,
+   0.056818
+  ],
+  "R": [
+   0.412513,
+   0.002552,
+   0.50383,
+   -0.003392,
+   0.72592,
+   0.048544
+  ],
+  "g": [
+   1.0,
+   0.9832
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.28% vertical error and 0.02° of rotation. Depth measured moderate (2.09% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "L. B. Howard",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7441128,
+ "source_revision_id": null,
+ "source_sha1": "1ba4b4a39df10f3cdc8fda92960ca8ab8fb22d51"
+}

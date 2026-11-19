@@ -1,0 +1,69 @@
+{
+ "title": "Studio portrait of a family, by D. T. Burrell 3",
+ "place": "Brockton, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/1/17/Studio_portrait_of_a_family%2C_by_D._T._Burrell_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/17/Studio_portrait_of_a_family%2C_by_D._T._Burrell_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Studio_portrait_of_a_family,_by_D._T._Burrell_3.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 449,
+ "id": "STA-3165",
+ "rect": "rect/3164.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.25,
+ "rot": 0.05,
+ "range": 0.74,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.2149,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/1/17/Studio_portrait_of_a_family%2C_by_D._T._Burrell_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.2149,
+  "L": [
+   0.386842,
+   0.0,
+   0.092763,
+   0.0,
+   0.538976,
+   0.250557
+  ],
+  "R": [
+   0.385189,
+   -0.004082,
+   0.511004,
+   0.004717,
+   0.538104,
+   0.241356
+  ],
+  "g": [
+   0.9391,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.25% vertical error and 0.05° of rotation. Depth measured gentle (0.74% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "D. T. Burrell",
+ "creator_dates": null,
+ "facets": [
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7441162,
+ "source_revision_id": null,
+ "source_sha1": "dc9b2c9d5821087795c87f7829fc62079d994c25"
+}

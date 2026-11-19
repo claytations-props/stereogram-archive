@@ -1,0 +1,69 @@
+{
+ "title": "General view of Brockton, by L. B. Howard 3",
+ "place": "Brockton, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/General_view_of_Brockton%2C_by_L._B._Howard_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/9f/General_view_of_Brockton%2C_by_L._B._Howard_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:General_view_of_Brockton,_by_L._B._Howard_3.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 454,
+ "id": "STA-3154",
+ "rect": "rect/3153.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.23,
+ "rot": 0.02,
+ "range": 0.84,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.984,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/9/9f/General_view_of_Brockton%2C_by_L._B._Howard_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.984,
+  "L": [
+   0.405263,
+   0.0,
+   0.078289,
+   0.0,
+   0.689427,
+   0.245595
+  ],
+  "R": [
+   0.408465,
+   -0.001111,
+   0.504769,
+   0.001898,
+   0.695212,
+   0.246515
+  ],
+  "g": [
+   1.0,
+   0.9637
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.23% vertical error and 0.02° of rotation. Depth measured gentle (0.84% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "L. B. Howard",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7441174,
+ "source_revision_id": null,
+ "source_sha1": "e59802030a7cfa9eb1148105734f1f8e7c935090"
+}
