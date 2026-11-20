@@ -1,0 +1,69 @@
+{
+ "title": "Colorado Springs, by H. W. Stormer",
+ "place": "Colorado Springs, Colorado",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Colorado_Springs%2C_by_H._W._Stormer.jpg/1920px-Colorado_Springs%2C_by_H._W._Stormer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/27/Colorado_Springs%2C_by_H._W._Stormer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Colorado_Springs,_by_H._W._Stormer.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1592,
+ "id": "STA-3246",
+ "rect": "rect/3245.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.09,
+ "rot": 0.0,
+ "range": 0.44,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.3113,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Colorado_Springs%2C_by_H._W._Stormer.jpg/1920px-Colorado_Springs%2C_by_H._W._Stormer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.3113,
+  "L": [
+   0.361979,
+   0.0,
+   0.11224,
+   0.0,
+   0.474485,
+   0.477619
+  ],
+  "R": [
+   0.36383,
+   -0.000183,
+   0.523511,
+   -0.005372,
+   0.476337,
+   0.471514
+  ],
+  "g": [
+   1.0,
+   0.9944
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (0.44% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "H. W. Stormer",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10091791,
+ "source_revision_id": null,
+ "source_sha1": "2524b60988ea9d5086c1ae6300c1a389666c684b"
+}
