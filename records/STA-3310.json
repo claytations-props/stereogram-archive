@@ -1,0 +1,69 @@
+{
+ "title": "Main Street, Nashua, by Stark & Horton 2",
+ "place": "Nashua, New Hampshire",
+ "year": "c. 1875",
+ "sy": 1875,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Main_Street%2C_Nashua%2C_by_Stark_%26_Horton_2.jpg/1920px-Main_Street%2C_Nashua%2C_by_Stark_%26_Horton_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Main_Street%2C_Nashua%2C_by_Stark_%26_Horton_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Main_Street,_Nashua,_by_Stark_%26_Horton_2.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1406,
+ "id": "STA-3310",
+ "rect": "rect/3309.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.11,
+ "rot": 0.02,
+ "range": 0.74,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9149,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Main_Street%2C_Nashua%2C_by_Stark_%26_Horton_2.jpg/1920px-Main_Street%2C_Nashua%2C_by_Stark_%26_Horton_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9149,
+  "L": [
+   0.335938,
+   0.0,
+   0.121094,
+   0.0,
+   0.71501,
+   0.217546
+  ],
+  "R": [
+   0.333904,
+   0.002351,
+   0.520505,
+   -0.006069,
+   0.71573,
+   0.21483
+  ],
+  "g": [
+   1.0,
+   0.9884
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured gentle (0.74% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Stark & Horton",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1875~",
+ "date_start": 1870,
+ "date_end": 1880,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10467610,
+ "source_revision_id": null,
+ "source_sha1": "b6b98ef3eb1f27a85f6adf96c54ff624443664f5"
+}

@@ -195023,5 +195023,715 @@
   "date_start": 1859,
   "date_end": 1859,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bird's eye view of Nashua",
+  "place": "Nashua, New Hampshire",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bird%27s_eye_view_of_Nashua%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s_eye_view_of_Nashua%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bird%27s_eye_view_of_Nashua%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bird%27s_eye_view_of_Nashua,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1384,
+  "id": "STA-3306",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3305.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.27,
+  "rot": 0.03,
+  "range": 0.46,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.0279,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bird%27s_eye_view_of_Nashua%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s_eye_view_of_Nashua%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.0279,
+   "L": [
+    0.378125,
+    0.0,
+    0.098698,
+    0.0,
+    0.368692,
+    0.49794
+   ],
+   "R": [
+    0.37629,
+    -0.001919,
+    0.527178,
+    0.006636,
+    0.367088,
+    0.489701
+   ],
+   "g": [
+    0.9398,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.27% vertical error and 0.03° of rotation. Depth measured gentle (0.46% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of a man and woman standing in a street corner, Nashua, by Charles H. Lindsey",
+  "place": "Nashua, New Hampshire",
+  "year": "1879–1894",
+  "sy": 1879,
+  "era": "mid",
+  "cats": [
+   "cities",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/View_of_a_man_and_woman_standing_in_a_street_corner%2C_Nashua%2C_by_Charles_H._Lindsey.png/1920px-View_of_a_man_and_woman_standing_in_a_street_corner%2C_Nashua%2C_by_Charles_H._Lindsey.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/4b/View_of_a_man_and_woman_standing_in_a_street_corner%2C_Nashua%2C_by_Charles_H._Lindsey.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_man_and_woman_standing_in_a_street_corner,_Nashua,_by_Charles_H._Lindsey.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1418,
+  "id": "STA-3307",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3306.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.02,
+  "range": 0.5,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7949,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/View_of_a_man_and_woman_standing_in_a_street_corner%2C_Nashua%2C_by_Charles_H._Lindsey.png/1920px-View_of_a_man_and_woman_standing_in_a_street_corner%2C_Nashua%2C_by_Charles_H._Lindsey.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7949,
+   "L": [
+    0.357292,
+    0.0,
+    0.110156,
+    0.0,
+    0.867337,
+    0.068844
+   ],
+   "R": [
+    0.357147,
+    0.008379,
+    0.528574,
+    -0.009811,
+    0.866891,
+    0.066743
+   ],
+   "g": [
+    1.0,
+    0.9822
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.02° of rotation. Depth measured gentle (0.5% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Charles H. Lindsey",
+  "date_edtf": "1879/1894",
+  "date_start": 1879,
+  "date_end": 1894,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Nashua Corporation, by Stark & Horton",
+  "place": "Nashua, New Hampshire",
+  "year": "c. 1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Nashua_Corporation%2C_by_Stark_%26_Horton.png/1920px-Nashua_Corporation%2C_by_Stark_%26_Horton.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Nashua_Corporation%2C_by_Stark_%26_Horton.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Nashua_Corporation,_by_Stark_%26_Horton.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1388,
+  "id": "STA-3308",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3307.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.32,
+  "rot": 0.01,
+  "range": 4.26,
+  "f": 0.38,
+  "depth": "Deep",
+  "va": 2.1765,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Nashua_Corporation%2C_by_Stark_%26_Horton.png/1920px-Nashua_Corporation%2C_by_Stark_%26_Horton.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.1765,
+   "L": [
+    0.346875,
+    0.0,
+    0.13151,
+    0.0,
+    0.314168,
+    0.346509
+   ],
+   "R": [
+    0.346982,
+    -0.001011,
+    0.517075,
+    0.002751,
+    0.31313,
+    0.335566
+   ],
+   "g": [
+    0.9707,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.32% vertical error and 0.01° of rotation. Depth measured deep (4.26% of frame width); hung in the VR Parlor at 38% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Stark & Horton",
+  "date_edtf": "1875~",
+  "date_start": 1870,
+  "date_end": 1880,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Group portrait, Nashua, N.H, by C. A. Lawrence",
+  "place": "Nashua, New Hampshire",
+  "year": "1868–1875",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Group_portrait%2C_Nashua%2C_N.H%2C_by_C._A._Lawrence.jpg/1920px-Group_portrait%2C_Nashua%2C_N.H%2C_by_C._A._Lawrence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Group_portrait%2C_Nashua%2C_N.H%2C_by_C._A._Lawrence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Group_portrait,_Nashua,_N.H,_by_C._A._Lawrence.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1429,
+  "id": "STA-3309",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3308.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.3,
+  "rot": 0.0,
+  "range": 0.36,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.1625,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Group_portrait%2C_Nashua%2C_N.H%2C_by_C._A._Lawrence.jpg/1920px-Group_portrait%2C_Nashua%2C_N.H%2C_by_C._A._Lawrence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.1625,
+   "L": [
+    0.311979,
+    0.0,
+    0.101302,
+    0.0,
+    0.276447,
+    0.331836
+   ],
+   "R": [
+    0.311286,
+    -0.003859,
+    0.51146,
+    0.015543,
+    0.276421,
+    0.325854
+   ],
+   "g": [
+    0.9781,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.3% vertical error and 0.0° of rotation. Depth measured gentle (0.36% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "C. A. Lawrence",
+  "date_edtf": "1868/1875",
+  "date_start": 1868,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Main Street, Nashua, by Stark & Horton 2",
+  "place": "Nashua, New Hampshire",
+  "year": "c. 1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Main_Street%2C_Nashua%2C_by_Stark_%26_Horton_2.jpg/1920px-Main_Street%2C_Nashua%2C_by_Stark_%26_Horton_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Main_Street%2C_Nashua%2C_by_Stark_%26_Horton_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Main_Street,_Nashua,_by_Stark_%26_Horton_2.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1406,
+  "id": "STA-3310",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3309.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.02,
+  "range": 0.74,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9149,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Main_Street%2C_Nashua%2C_by_Stark_%26_Horton_2.jpg/1920px-Main_Street%2C_Nashua%2C_by_Stark_%26_Horton_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9149,
+   "L": [
+    0.335938,
+    0.0,
+    0.121094,
+    0.0,
+    0.71501,
+    0.217546
+   ],
+   "R": [
+    0.333904,
+    0.002351,
+    0.520505,
+    -0.006069,
+    0.71573,
+    0.21483
+   ],
+   "g": [
+    1.0,
+    0.9884
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured gentle (0.74% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Stark & Horton",
+  "date_edtf": "1875~",
+  "date_start": 1870,
+  "date_end": 1880,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "County Records Building, Nashua, N.H, by Stark & Horton",
+  "place": "Nashua, New Hampshire",
+  "year": "1876–1889",
+  "sy": 1876,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/County_Records_Building%2C_Nashua%2C_N.H%2C_by_Stark_%26_Horton.jpg/1920px-County_Records_Building%2C_Nashua%2C_N.H%2C_by_Stark_%26_Horton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0d/County_Records_Building%2C_Nashua%2C_N.H%2C_by_Stark_%26_Horton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:County_Records_Building,_Nashua,_N.H,_by_Stark_%26_Horton.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1389,
+  "id": "STA-3311",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3310.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.02,
+  "range": 1.63,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.7838,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/County_Records_Building%2C_Nashua%2C_N.H%2C_by_Stark_%26_Horton.jpg/1920px-County_Records_Building%2C_Nashua%2C_N.H%2C_by_Stark_%26_Horton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7838,
+   "L": [
+    0.341667,
+    0.0,
+    0.117969,
+    0.0,
+    0.859343,
+    0.071355
+   ],
+   "R": [
+    0.341175,
+    -0.008895,
+    0.520778,
+    0.015769,
+    0.859365,
+    0.061382
+   ],
+   "g": [
+    0.9291,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured moderate (1.63% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Stark & Horton",
+  "date_edtf": "1876/1889",
+  "date_start": 1876,
+  "date_end": 1889,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Nashua Lock Company, by Stark & Horton",
+  "place": "Nashua, New Hampshire",
+  "year": "c. 1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Nashua_Lock_Company%2C_by_Stark_%26_Horton.png/1920px-Nashua_Lock_Company%2C_by_Stark_%26_Horton.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Nashua_Lock_Company%2C_by_Stark_%26_Horton.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Nashua_Lock_Company,_by_Stark_%26_Horton.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1376,
+  "id": "STA-3312",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3311.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.18,
+  "rot": 0.02,
+  "range": 0.89,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.3917,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Nashua_Lock_Company%2C_by_Stark_%26_Horton.png/1920px-Nashua_Lock_Company%2C_by_Stark_%26_Horton.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3917,
+   "L": [
+    0.364583,
+    0.0,
+    0.123698,
+    0.0,
+    0.521244,
+    0.35285
+   ],
+   "R": [
+    0.363572,
+    -0.001933,
+    0.524771,
+    0.001091,
+    0.522788,
+    0.354405
+   ],
+   "g": [
+    0.9989,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.02° of rotation. Depth measured gentle (0.89% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Stark & Horton",
+  "date_edtf": "1875~",
+  "date_start": 1870,
+  "date_end": 1880,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Kinsley Street, Nashua, N.H, by Hamilton, S. C. (Samuel C.)",
+  "place": "Nashua, New Hampshire",
+  "year": "1868–1874",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Kinsley_Street%2C_Nashua%2C_N.H%2C_by_Hamilton%2C_S._C._%28Samuel_C.%29.png/1920px-Kinsley_Street%2C_Nashua%2C_N.H%2C_by_Hamilton%2C_S._C._%28Samuel_C.%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/97/Kinsley_Street%2C_Nashua%2C_N.H%2C_by_Hamilton%2C_S._C._%28Samuel_C.%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Kinsley_Street,_Nashua,_N.H,_by_Hamilton,_S._C._(Samuel_C.).png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1372,
+  "id": "STA-3313",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3312.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.01,
+  "range": 0.63,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.3239,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Kinsley_Street%2C_Nashua%2C_N.H%2C_by_Hamilton%2C_S._C._%28Samuel_C.%29.png/1920px-Kinsley_Street%2C_Nashua%2C_N.H%2C_by_Hamilton%2C_S._C._%28Samuel_C.%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3239,
+   "L": [
+    0.366146,
+    0.0,
+    0.123177,
+    0.0,
+    0.551975,
+    0.105509
+   ],
+   "R": [
+    0.365018,
+    -0.004348,
+    0.528073,
+    0.002804,
+    0.54834,
+    0.106392
+   ],
+   "g": [
+    1.0,
+    0.922
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured gentle (0.63% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Hamilton, S. C. (Samuel C.)",
+  "date_edtf": "1868/1874",
+  "date_start": 1868,
+  "date_end": 1874,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "First Universalist Church - Interior",
+  "place": "Nashua, New Hampshire",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/First_Universalist_Church_-_Interior%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-First_Universalist_Church_-_Interior%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b7/First_Universalist_Church_-_Interior%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:First_Universalist_Church_-_Interior,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1410,
+  "id": "STA-3314",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3313.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.05,
+  "range": 0.65,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9029,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/First_Universalist_Church_-_Interior%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-First_Universalist_Church_-_Interior%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9029,
+   "L": [
+    0.382812,
+    0.0,
+    0.101823,
+    0.0,
+    0.823054,
+    0.059151
+   ],
+   "R": [
+    0.404142,
+    -0.001805,
+    0.506986,
+    -0.000924,
+    0.871799,
+    0.068107
+   ],
+   "g": [
+    1.0,
+    0.9026
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.05° of rotation. Depth measured gentle (0.65% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Campbell's House, Corner Kinsley and Main Sts",
+  "place": "Nashua, New Hampshire",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Campbell%27s_House%2C_Corner_Kinsley_and_Main_Sts%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Campbell%27s_House%2C_Corner_Kinsley_and_Main_Sts%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Campbell%27s_House%2C_Corner_Kinsley_and_Main_Sts%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Campbell%27s_House,_Corner_Kinsley_and_Main_Sts,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1365,
+  "id": "STA-3315",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3314.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 2.68,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.883,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Campbell%27s_House%2C_Corner_Kinsley_and_Main_Sts%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Campbell%27s_House%2C_Corner_Kinsley_and_Main_Sts%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.883,
+   "L": [
+    0.361458,
+    0.0,
+    0.126302,
+    0.0,
+    0.820459,
+    0.05167
+   ],
+   "R": [
+    0.358618,
+    -0.009474,
+    0.538085,
+    0.007684,
+    0.815231,
+    0.048599
+   ],
+   "g": [
+    1.0,
+    0.98
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured deep (2.68% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of a waterfall with buildings lining the river on the opposite shore",
+  "place": "Fitchburg, Massachusetts",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "water",
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/5/5e/View_of_a_waterfall_with_buildings_lining_the_river_on_the_opposite_shore%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5e/View_of_a_waterfall_with_buildings_lining_the_river_on_the_opposite_shore%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_waterfall_with_buildings_lining_the_river_on_the_opposite_shore,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 389,
+  "id": "STA-3316",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3315.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.22,
+  "rot": 0.04,
+  "range": 1.84,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.1616,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/5/5e/View_of_a_waterfall_with_buildings_lining_the_river_on_the_opposite_shore%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 1.1616,
+   "L": [
+    0.35,
+    0.0,
+    0.132237,
+    0.0,
+    0.588689,
+    0.338046
+   ],
+   "R": [
+    0.3512,
+    -0.001472,
+    0.517402,
+    -0.002758,
+    0.589054,
+    0.351891
+   ],
+   "g": [
+    1.0,
+    0.9527
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.04° of rotation. Depth measured moderate (1.84% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Nashua Tent, by O. H. Copeland",
+  "place": "Nashua, New Hampshire",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Nashua_Tent%2C_by_O._H._Copeland.jpg/1920px-Nashua_Tent%2C_by_O._H._Copeland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/65/Nashua_Tent%2C_by_O._H._Copeland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Nashua_Tent,_by_O._H._Copeland.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1412,
+  "id": "STA-3317",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3316.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 2.33,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.8462,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Nashua_Tent%2C_by_O._H._Copeland.jpg/1920px-Nashua_Tent%2C_by_O._H._Copeland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8462,
+   "L": [
+    0.386979,
+    0.0,
+    0.102865,
+    0.0,
+    0.885974,
+    0.053986
+   ],
+   "R": [
+    0.380726,
+    -0.001898,
+    0.524028,
+    -0.007707,
+    0.884853,
+    0.060405
+   ],
+   "g": [
+    0.9986,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured deep (2.33% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "O. H. Copeland",
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]

@@ -1,0 +1,69 @@
+{
+ "title": "Nashua Corporation, by Stark & Horton",
+ "place": "Nashua, New Hampshire",
+ "year": "c. 1875",
+ "sy": 1875,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Nashua_Corporation%2C_by_Stark_%26_Horton.png/1920px-Nashua_Corporation%2C_by_Stark_%26_Horton.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Nashua_Corporation%2C_by_Stark_%26_Horton.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Nashua_Corporation,_by_Stark_%26_Horton.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1388,
+ "id": "STA-3308",
+ "rect": "rect/3307.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.32,
+ "rot": 0.01,
+ "range": 4.26,
+ "f": 0.38,
+ "depth": "Deep",
+ "va": 2.1765,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Nashua_Corporation%2C_by_Stark_%26_Horton.png/1920px-Nashua_Corporation%2C_by_Stark_%26_Horton.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 2.1765,
+  "L": [
+   0.346875,
+   0.0,
+   0.13151,
+   0.0,
+   0.314168,
+   0.346509
+  ],
+  "R": [
+   0.346982,
+   -0.001011,
+   0.517075,
+   0.002751,
+   0.31313,
+   0.335566
+  ],
+  "g": [
+   0.9707,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.32% vertical error and 0.01° of rotation. Depth measured deep (4.26% of frame width); hung in the VR Parlor at 38% size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Stark & Horton",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1875~",
+ "date_start": 1870,
+ "date_end": 1880,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10467596,
+ "source_revision_id": null,
+ "source_sha1": "613b646b64d6343d9bfe6f0be424175bb5356e31"
+}
