@@ -1,0 +1,69 @@
+{
+ "title": "Jefferson Rock, Harper's Ferry",
+ "place": "Harper's Ferry, West Virginia",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Jefferson_Rock%2C_Harper%27s_Ferry%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Jefferson_Rock%2C_Harper%27s_Ferry%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jefferson_Rock%2C_Harper%27s_Ferry%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Jefferson_Rock,_Harper%27s_Ferry,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1405,
+ "id": "STA-3303",
+ "rect": "rect/3302.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.25,
+ "rot": 0.04,
+ "range": 0.92,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 3.098,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Jefferson_Rock%2C_Harper%27s_Ferry%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Jefferson_Rock%2C_Harper%27s_Ferry%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 3.098,
+  "L": [
+   0.395313,
+   0.0,
+   0.082552,
+   0.0,
+   0.248479,
+   0.490365
+  ],
+  "R": [
+   0.395634,
+   -0.000263,
+   0.524306,
+   0.003858,
+   0.248813,
+   0.485169
+  ],
+  "g": [
+   1.0,
+   0.8792
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.25% vertical error and 0.04° of rotation. Depth measured gentle (0.92% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10237114,
+ "source_revision_id": null,
+ "source_sha1": "80ef789ab6bf946061d556f1fcf4bfc795b2b93f"
+}
