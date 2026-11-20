@@ -1,0 +1,69 @@
+{
+ "title": "Grand view of Denver City, by Duhem Brothers",
+ "place": "Denver, Colorado",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Grand_view_of_Denver_City%2C_by_Duhem_Brothers.jpg/1920px-Grand_view_of_Denver_City%2C_by_Duhem_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Grand_view_of_Denver_City%2C_by_Duhem_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Grand_view_of_Denver_City,_by_Duhem_Brothers.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1591,
+ "id": "STA-3265",
+ "rect": "rect/3264.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.15,
+ "rot": 0.0,
+ "range": 0.39,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 2.2406,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Grand_view_of_Denver_City%2C_by_Duhem_Brothers.jpg/1920px-Grand_view_of_Denver_City%2C_by_Duhem_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 2.2406,
+  "L": [
+   0.436458,
+   0.0,
+   0.05651,
+   0.0,
+   0.335125,
+   0.363351
+  ],
+  "R": [
+   0.436002,
+   0.00166,
+   0.506371,
+   -0.009462,
+   0.335535,
+   0.367268
+  ],
+  "g": [
+   1.0,
+   0.8307
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured gentle (0.39% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Duhem Brothers",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10092011,
+ "source_revision_id": null,
+ "source_sha1": "a668932ea53a2d271a46e340ea9f65a4c8cd14ae"
+}

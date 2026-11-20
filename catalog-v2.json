@@ -239651,5 +239651,1316 @@
   "source_page_id": 10093058,
   "source_revision_id": null,
   "source_sha1": "f79d9f46928ba5e122ff8a42702ba7f499bb3b62"
+ },
+ {
+  "title": "Denver bookstore",
+  "place": "Denver, Colorado",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Denver_bookstore%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Denver_bookstore%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Denver_bookstore%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Denver_bookstore,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1463,
+  "id": "STA-3258",
+  "rect": "rect/3257.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.25,
+  "rot": 0.02,
+  "range": 1.15,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.5481,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Denver_bookstore%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Denver_bookstore%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5481,
+   "L": [
+    0.394271,
+    0.0,
+    0.09349,
+    0.0,
+    0.476608,
+    0.474172
+   ],
+   "R": [
+    0.39578,
+    0.002749,
+    0.522177,
+    -0.008431,
+    0.476481,
+    0.486365
+   ],
+   "g": [
+    0.9753,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.25% vertical error and 0.02° of rotation. Depth measured gentle (1.15% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091934,
+  "source_revision_id": null,
+  "source_sha1": "6f42418fa15efacf1865c53ee7381d71cdcf677f"
+ },
+ {
+  "title": "Union Depot, Denver",
+  "place": "Denver, Colorado",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Union_Depot%2C_Denver%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Union_Depot%2C_Denver%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/95/Union_Depot%2C_Denver%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Union_Depot,_Denver,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2729,
+  "h": 1473,
+  "id": "STA-3259",
+  "rect": "rect/3258.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.23,
+  "rot": 0.01,
+  "range": 0.83,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.5055,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Union_Depot%2C_Denver%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Union_Depot%2C_Denver%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5055,
+   "L": [
+    0.353646,
+    0.0,
+    0.139844,
+    0.0,
+    0.435328,
+    0.257239
+   ],
+   "R": [
+    0.351218,
+    0.002819,
+    0.510329,
+    -0.00336,
+    0.431522,
+    0.258647
+   ],
+   "g": [
+    1.0,
+    0.9543
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.23% vertical error and 0.01° of rotation. Depth measured gentle (0.83% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091836,
+  "source_revision_id": null,
+  "source_sha1": "d2418be10f687da453b29d12042995a698e0befc"
+ },
+ {
+  "title": "Windsor Hotel, Denver, Col",
+  "place": "Denver, Colorado",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Windsor_Hotel%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Windsor_Hotel%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Windsor_Hotel%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Windsor_Hotel,_Denver,_Col,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1405,
+  "id": "STA-3260",
+  "rect": "rect/3259.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.17,
+  "rot": 0.03,
+  "range": 2.44,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.9499,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Windsor_Hotel%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Windsor_Hotel%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9499,
+   "L": [
+    0.335417,
+    0.0,
+    0.142969,
+    0.0,
+    0.687627,
+    0.157708
+   ],
+   "R": [
+    0.338212,
+    -0.007889,
+    0.524595,
+    0.02414,
+    0.691217,
+    0.150548
+   ],
+   "g": [
+    1.0,
+    0.9732
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.03° of rotation. Depth measured deep (2.44% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091857,
+  "source_revision_id": null,
+  "source_sha1": "21089606ff37bb3549f1ebdaad1fae07d313c211"
+ },
+ {
+  "title": "The Tabor Block, Denver, Col",
+  "place": "Denver, Colorado",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/The_Tabor_Block%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Tabor_Block%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/da/The_Tabor_Block%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Tabor_Block,_Denver,_Col,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1394,
+  "id": "STA-3261",
+  "rect": "rect/3260.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.16,
+  "rot": 0.03,
+  "range": 0.68,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1282,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/The_Tabor_Block%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Tabor_Block%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1282,
+   "L": [
+    0.320833,
+    0.0,
+    0.153906,
+    0.0,
+    0.558282,
+    0.133436
+   ],
+   "R": [
+    0.324582,
+    0.011938,
+    0.513243,
+    -0.026164,
+    0.563417,
+    0.144792
+   ],
+   "g": [
+    1.0,
+    0.9494
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.03° of rotation. Depth measured gentle (0.68% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091862,
+  "source_revision_id": null,
+  "source_sha1": "966561e9a11a2a5b284e563d9f755e1abc8f954b"
+ },
+ {
+  "title": "Larimer Street, Denver, Col",
+  "place": "Denver, Colorado",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Larimer_Street%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Larimer_Street%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Larimer_Street%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Larimer_Street,_Denver,_Col,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1403,
+  "id": "STA-3262",
+  "rect": "rect/3261.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.02,
+  "range": 0.7,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8182,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Larimer_Street%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Larimer_Street%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8182,
+   "L": [
+    0.332813,
+    0.0,
+    0.147656,
+    0.0,
+    0.793699,
+    0.168191
+   ],
+   "R": [
+    0.333626,
+    0.003279,
+    0.514887,
+    -0.006598,
+    0.797817,
+    0.145649
+   ],
+   "g": [
+    1.0,
+    0.9638
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.02° of rotation. Depth measured gentle (0.7% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091850,
+  "source_revision_id": null,
+  "source_sha1": "453a56a352a8401dedb138b5ae6aea53ba6cb7b3"
+ },
+ {
+  "title": "Tabor Opera House, Denver",
+  "place": "Denver, Colorado",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Tabor_Opera_House%2C_Denver%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Tabor_Opera_House%2C_Denver%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Tabor_Opera_House%2C_Denver%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Tabor_Opera_House,_Denver,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1398,
+  "id": "STA-3263",
+  "rect": "rect/3262.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.02,
+  "range": 3.25,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.8412,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Tabor_Opera_House%2C_Denver%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Tabor_Opera_House%2C_Denver%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8412,
+   "L": [
+    0.322917,
+    0.0,
+    0.145573,
+    0.0,
+    0.751274,
+    0.192151
+   ],
+   "R": [
+    0.327128,
+    -0.000216,
+    0.566812,
+    -0.010305,
+    0.75925,
+    0.201656
+   ],
+   "g": [
+    0.9438,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.02° of rotation. Depth measured deep (3.25% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091815,
+  "source_revision_id": null,
+  "source_sha1": "27ff0d9502f83f195d77837560b41049fd84f6ff"
+ },
+ {
+  "title": "Tabor Opera House, Denver, Col",
+  "place": "Denver, Colorado",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Tabor_Opera_House%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Tabor_Opera_House%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tabor_Opera_House%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Tabor_Opera_House,_Denver,_Col,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1396,
+  "id": "STA-3264",
+  "rect": "rect/3263.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.13,
+  "range": 4.41,
+  "f": 0.94,
+  "depth": "Deep",
+  "va": 0.761,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Tabor_Opera_House%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Tabor_Opera_House%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.761,
+   "L": [
+    0.341667,
+    0.0,
+    0.113802,
+    0.0,
+    0.88049,
+    0.078141
+   ],
+   "R": [
+    0.340861,
+    -0.007949,
+    0.513813,
+    0.015193,
+    0.877714,
+    0.071892
+   ],
+   "g": [
+    1.0,
+    0.9856
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.13° of rotation. Depth measured deep (4.41% of frame width); hung in the VR Parlor at 94% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091845,
+  "source_revision_id": null,
+  "source_sha1": "e35735084437ac3dd8c044817e1b94a6abdbfc51"
+ },
+ {
+  "title": "Grand view of Denver City, by Duhem Brothers",
+  "place": "Denver, Colorado",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Grand_view_of_Denver_City%2C_by_Duhem_Brothers.jpg/1920px-Grand_view_of_Denver_City%2C_by_Duhem_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Grand_view_of_Denver_City%2C_by_Duhem_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Grand_view_of_Denver_City,_by_Duhem_Brothers.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1591,
+  "id": "STA-3265",
+  "rect": "rect/3264.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.15,
+  "rot": 0.0,
+  "range": 0.39,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.2406,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Grand_view_of_Denver_City%2C_by_Duhem_Brothers.jpg/1920px-Grand_view_of_Denver_City%2C_by_Duhem_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.2406,
+   "L": [
+    0.436458,
+    0.0,
+    0.05651,
+    0.0,
+    0.335125,
+    0.363351
+   ],
+   "R": [
+    0.436002,
+    0.00166,
+    0.506371,
+    -0.009462,
+    0.335535,
+    0.367268
+   ],
+   "g": [
+    1.0,
+    0.8307
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured gentle (0.39% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Duhem Brothers",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10092011,
+  "source_revision_id": null,
+  "source_sha1": "a668932ea53a2d271a46e340ea9f65a4c8cd14ae"
+ },
+ {
+  "title": "Distant view of Denver, by Chamberlain, W. G. (William Gunnison)",
+  "place": "Denver, Colorado",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Distant_view_of_Denver%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg/1920px-Distant_view_of_Denver%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Distant_view_of_Denver%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Distant_view_of_Denver,_by_Chamberlain,_W._G._(William_Gunnison).jpg",
+  "license": "Public domain",
+  "w": 2693,
+  "h": 1366,
+  "id": "STA-3266",
+  "rect": "rect/3265.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.0,
+  "range": 0.38,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.3669,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Distant_view_of_Denver%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg/1920px-Distant_view_of_Denver%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3669,
+   "L": [
+    0.395833,
+    0.0,
+    0.092969,
+    0.0,
+    0.570842,
+    0.38963
+   ],
+   "R": [
+    0.392124,
+    -0.018039,
+    0.530148,
+    -0.00537,
+    0.56962,
+    0.398087
+   ],
+   "g": [
+    1.0,
+    0.9549
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.0° of rotation. Depth measured gentle (0.38% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Chamberlain, W. G. (William Gunnison)",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091882,
+  "source_revision_id": null,
+  "source_sha1": "7a6def148c7e49b49e128c9082a8d797bafb1c32"
+ },
+ {
+  "title": "Stage station between Denver & Central City, Colorado",
+  "place": "Central City, Colorado",
+  "year": "1867",
+  "sy": 1867,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Stage_station_between_Denver_%26_Central_City%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Stage_station_between_Denver_%26_Central_City%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Stage_station_between_Denver_%26_Central_City%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Stage_station_between_Denver_%26_Central_City,_Colorado,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2722,
+  "h": 1499,
+  "id": "STA-3267",
+  "rect": "rect/3266.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 0.64,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9642,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Stage_station_between_Denver_%26_Central_City%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Stage_station_between_Denver_%26_Central_City%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9642,
+   "L": [
+    0.379167,
+    0.0,
+    0.092448,
+    0.0,
+    0.714286,
+    0.134816
+   ],
+   "R": [
+    0.375907,
+    -0.000504,
+    0.511657,
+    0.0007,
+    0.710078,
+    0.142851
+   ],
+   "g": [
+    1.0,
+    0.9539
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (0.64% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1867",
+  "date_start": 1867,
+  "date_end": 1867,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10089221,
+  "source_revision_id": null,
+  "source_sha1": "1dc53fd32a60e8304c5400f3af04edcbb2e01853"
+ },
+ {
+  "title": "General view of East Denver and distant view of Rocky Mountains, by Chamberlain, W. G. (William Gunnison)",
+  "place": "Denver, Colorado",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/General_view_of_East_Denver_and_distant_view_of_Rocky_Mountains%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg/1920px-General_view_of_East_Denver_and_distant_view_of_Rocky_Mountains%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/e9/General_view_of_East_Denver_and_distant_view_of_Rocky_Mountains%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:General_view_of_East_Denver_and_distant_view_of_Rocky_Mountains,_by_Chamberlain,_W._G._(William_Gunnison).jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1421,
+  "id": "STA-3268",
+  "rect": "rect/3267.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.0,
+  "range": 0.33,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.5349,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/General_view_of_East_Denver_and_distant_view_of_Rocky_Mountains%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg/1920px-General_view_of_East_Denver_and_distant_view_of_Rocky_Mountains%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5349,
+   "L": [
+    0.400521,
+    0.0,
+    0.08724,
+    0.0,
+    0.502508,
+    0.44985
+   ],
+   "R": [
+    0.401939,
+    -0.002946,
+    0.509091,
+    0.004696,
+    0.504662,
+    0.452199
+   ],
+   "g": [
+    0.946,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (0.33% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Chamberlain, W. G. (William Gunnison)",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091953,
+  "source_revision_id": null,
+  "source_sha1": "f8f6cc2d7310dce3ad23b84c5d51e262d65d9a9a"
+ },
+ {
+  "title": "General view of Denver from the Tower, by Chamberlain, W. G. (William Gunnison)",
+  "place": "Denver, Colorado",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/General_view_of_Denver_from_the_Tower%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg/1920px-General_view_of_Denver_from_the_Tower%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/21/General_view_of_Denver_from_the_Tower%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:General_view_of_Denver_from_the_Tower,_by_Chamberlain,_W._G._(William_Gunnison).jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1567,
+  "id": "STA-3269",
+  "rect": "rect/3268.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.0,
+  "range": 1.15,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9303,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/General_view_of_Denver_from_the_Tower%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg/1920px-General_view_of_Denver_from_the_Tower%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9303,
+   "L": [
+    0.382292,
+    0.0,
+    0.108073,
+    0.0,
+    0.717925,
+    0.227025
+   ],
+   "R": [
+    0.38212,
+    -0.002093,
+    0.531327,
+    0.000975,
+    0.718347,
+    0.23392
+   ],
+   "g": [
+    1.0,
+    0.9722
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (1.15% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Chamberlain, W. G. (William Gunnison)",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091968,
+  "source_revision_id": null,
+  "source_sha1": "467970e6af33a95ccc706e6c1a1ff2e6278950b4"
+ },
+ {
+  "title": "General view of Denver from the Tower, by Chamberlain, W. G. (William Gunnison) 2",
+  "place": "Denver, Colorado",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/General_view_of_Denver_from_the_Tower%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29_2.jpg/1920px-General_view_of_Denver_from_the_Tower%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d3/General_view_of_Denver_from_the_Tower%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:General_view_of_Denver_from_the_Tower,_by_Chamberlain,_W._G._(William_Gunnison)_2.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1570,
+  "id": "STA-3270",
+  "rect": "rect/3269.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 1.26,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0788,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/General_view_of_Denver_from_the_Tower%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29_2.jpg/1920px-General_view_of_Denver_from_the_Tower%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0788,
+   "L": [
+    0.392188,
+    0.0,
+    0.084115,
+    0.0,
+    0.633969,
+    0.326521
+   ],
+   "R": [
+    0.391493,
+    -0.001313,
+    0.507771,
+    0.001348,
+    0.632781,
+    0.332858
+   ],
+   "g": [
+    1.0,
+    0.9951
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (1.26% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Chamberlain, W. G. (William Gunnison)",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091976,
+  "source_revision_id": null,
+  "source_sha1": "a61fa40aaa5d2e4e4d6d1d895f5531311e30bf97"
+ },
+ {
+  "title": "Tough Cuss Pass, Colorado Central Railroad, between Denver & Black Hawk, Colorado",
+  "place": "Black Hawk, Colorado",
+  "year": "1867",
+  "sy": 1867,
+  "era": "early",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Tough_Cuss_Pass%2C_Colorado_Central_Railroad%2C_between_Denver_%26_Black_Hawk%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Tough_Cuss_Pass%2C_Colorado_Central_Railroad%2C_between_Denver_%26_Black_Hawk%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Tough_Cuss_Pass%2C_Colorado_Central_Railroad%2C_between_Denver_%26_Black_Hawk%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Tough_Cuss_Pass,_Colorado_Central_Railroad,_between_Denver_%26_Black_Hawk,_Colorado,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1587,
+  "id": "STA-3271",
+  "rect": "rect/3270.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.0,
+  "range": 2.09,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.0135,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Tough_Cuss_Pass%2C_Colorado_Central_Railroad%2C_between_Denver_%26_Black_Hawk%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Tough_Cuss_Pass%2C_Colorado_Central_Railroad%2C_between_Denver_%26_Black_Hawk%2C_Colorado%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0135,
+   "L": [
+    0.430208,
+    0.0,
+    0.058594,
+    0.0,
+    0.732255,
+    0.213387
+   ],
+   "R": [
+    0.419517,
+    -0.008991,
+    0.519821,
+    -0.011572,
+    0.733541,
+    0.218673
+   ],
+   "g": [
+    1.0,
+    0.9939
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured moderate (2.09% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "mountains"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1867",
+  "date_start": 1867,
+  "date_end": 1867,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10090366,
+  "source_revision_id": null,
+  "source_sha1": "98cc6f54ed891a488e4942f1412b5a1d05f3cbeb"
+ },
+ {
+  "title": "Bird's-eye view of Denver, Col., U.S.A, by Kilburn, B. W. (Benjamin West), 1827-1909",
+  "place": "Denver, Colorado",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Bird%27s-eye_view_of_Denver%2C_Col.%2C_U.S.A%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg/1920px-Bird%27s-eye_view_of_Denver%2C_Col.%2C_U.S.A%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bird%27s-eye_view_of_Denver%2C_Col.%2C_U.S.A%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bird%27s-eye_view_of_Denver,_Col.,_U.S.A,_by_Kilburn,_B._W._(Benjamin_West),_1827-1909.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1391,
+  "id": "STA-3272",
+  "rect": "rect/3271.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 0.48,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0086,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Bird%27s-eye_view_of_Denver%2C_Col.%2C_U.S.A%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg/1920px-Bird%27s-eye_view_of_Denver%2C_Col.%2C_U.S.A%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0086,
+   "L": [
+    0.367708,
+    0.0,
+    0.092448,
+    0.0,
+    0.717213,
+    0.239242
+   ],
+   "R": [
+    0.368646,
+    -0.002373,
+    0.510583,
+    0.007388,
+    0.720257,
+    0.232299
+   ],
+   "g": [
+    0.9924,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (0.48% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn, B. W. (Benjamin West)",
+  "creator_dates": "1827-1909",
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091907,
+  "source_revision_id": null,
+  "source_sha1": "9fb3ba7132b04949ef2feea95bcd4c2e690eb0ce"
+ },
+ {
+  "title": "Denver City, by Reed & McKenney",
+  "place": "Denver, Colorado",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Denver_City%2C_by_Reed_%26_McKenney.jpg/1920px-Denver_City%2C_by_Reed_%26_McKenney.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Denver_City%2C_by_Reed_%26_McKenney.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Denver_City,_by_Reed_%26_McKenney.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1369,
+  "id": "STA-3273",
+  "rect": "rect/3272.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 2.38,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 1.1498,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Denver_City%2C_by_Reed_%26_McKenney.jpg/1920px-Denver_City%2C_by_Reed_%26_McKenney.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1498,
+   "L": [
+    0.391667,
+    0.0,
+    0.100781,
+    0.0,
+    0.68125,
+    0.279687
+   ],
+   "R": [
+    0.390438,
+    -0.012534,
+    0.518925,
+    0.001359,
+    0.682393,
+    0.282145
+   ],
+   "g": [
+    1.0,
+    0.9591
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured deep (2.38% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Reed & McKenney",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091911,
+  "source_revision_id": null,
+  "source_sha1": "6ae091a34553a3855e478aa9f93faa00cb513a05"
+ },
+ {
+  "title": "Windsor Hotel, Denver, by James Collier",
+  "place": "Denver, Colorado",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Windsor_Hotel%2C_Denver%2C_by_James_Collier.jpg/1920px-Windsor_Hotel%2C_Denver%2C_by_James_Collier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Windsor_Hotel%2C_Denver%2C_by_James_Collier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Windsor_Hotel,_Denver,_by_James_Collier.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1577,
+  "id": "STA-3274",
+  "rect": "rect/3273.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 5.42,
+  "f": 0.67,
+  "depth": "Deep",
+  "va": 0.8646,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Windsor_Hotel%2C_Denver%2C_by_James_Collier.jpg/1920px-Windsor_Hotel%2C_Denver%2C_by_James_Collier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8646,
+   "L": [
+    0.422396,
+    0.0,
+    0.071094,
+    0.0,
+    0.848101,
+    0.108047
+   ],
+   "R": [
+    0.422694,
+    0.002029,
+    0.512779,
+    -0.001611,
+    0.849225,
+    0.119589
+   ],
+   "g": [
+    0.9491,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured deep (5.42% of frame width); hung in the VR Parlor at 67% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "James Collier",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091989,
+  "source_revision_id": null,
+  "source_sha1": "4f940b01dcfce6d81b4fb1f83f636f73c69aded4"
+ },
+ {
+  "title": "Denver, by Chamberlain, W. G. (William Gunnison)",
+  "place": "Denver, Colorado",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Denver%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg/1920px-Denver%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/38/Denver%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Denver,_by_Chamberlain,_W._G._(William_Gunnison).jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1567,
+  "id": "STA-3275",
+  "rect": "rect/3274.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.06,
+  "rot": 0.05,
+  "range": 0.39,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7639,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Denver%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg/1920px-Denver%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7639,
+   "L": [
+    0.379167,
+    0.0,
+    0.113802,
+    0.0,
+    0.867152,
+    0.092357
+   ],
+   "R": [
+    0.379024,
+    -0.001648,
+    0.506305,
+    0.000298,
+    0.866991,
+    0.091395
+   ],
+   "g": [
+    0.9045,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.05° of rotation. Depth measured gentle (0.39% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Chamberlain, W. G. (William Gunnison)",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091983,
+  "source_revision_id": null,
+  "source_sha1": "48cbdef6673a56b1f014152359895c978e8a47cd"
+ },
+ {
+  "title": "Cripple Creek, Colo., U.S.A. On line D. & R. G. R. R. (Denver & Rio Grande Railway)",
+  "place": "Cripple Creek, Colorado",
+  "year": "1896",
+  "sy": 1896,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Cripple_Creek%2C_Colo.%2C_U.S.A._On_line_D._%26_R._G._R._R._%28Denver_%26_Rio_Grande_Railway%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cripple_Creek%2C_Colo.%2C_U.S.A._On_line_D._%26_R._G._R._R._%28Denver_%26_Rio_Grande_Railway%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cripple_Creek%2C_Colo.%2C_U.S.A._On_line_D._%26_R._G._R._R._%28Denver_%26_Rio_Grande_Railway%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cripple_Creek,_Colo.,_U.S.A._On_line_D._%26_R._G._R._R._(Denver_%26_Rio_Grande_Railway),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1417,
+  "id": "STA-3276",
+  "rect": "rect/3275.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 0.58,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8664,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Cripple_Creek%2C_Colo.%2C_U.S.A._On_line_D._%26_R._G._R._R._%28Denver_%26_Rio_Grande_Railway%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cripple_Creek%2C_Colo.%2C_U.S.A._On_line_D._%26_R._G._R._R._%28Denver_%26_Rio_Grande_Railway%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8664,
+   "L": [
+    0.405208,
+    0.0,
+    0.088281,
+    0.0,
+    0.903421,
+    0.040744
+   ],
+   "R": [
+    0.40434,
+    -0.000799,
+    0.509161,
+    -0.001747,
+    0.901663,
+    0.048083
+   ],
+   "g": [
+    1.0,
+    0.928
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.58% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1896",
+  "date_start": 1896,
+  "date_end": 1896,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091376,
+  "source_revision_id": null,
+  "source_sha1": "8c7f0f15cd7c7a2edd46f201dab84ae1ff582c5d"
  }
 ]

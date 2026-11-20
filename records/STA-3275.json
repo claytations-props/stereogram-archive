@@ -1,0 +1,69 @@
+{
+ "title": "Denver, by Chamberlain, W. G. (William Gunnison)",
+ "place": "Denver, Colorado",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Denver%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg/1920px-Denver%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/38/Denver%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Denver,_by_Chamberlain,_W._G._(William_Gunnison).jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1567,
+ "id": "STA-3275",
+ "rect": "rect/3274.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.06,
+ "rot": 0.05,
+ "range": 0.39,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.7639,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Denver%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg/1920px-Denver%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7639,
+  "L": [
+   0.379167,
+   0.0,
+   0.113802,
+   0.0,
+   0.867152,
+   0.092357
+  ],
+  "R": [
+   0.379024,
+   -0.001648,
+   0.506305,
+   0.000298,
+   0.866991,
+   0.091395
+  ],
+  "g": [
+   0.9045,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.05° of rotation. Depth measured gentle (0.39% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Chamberlain, W. G. (William Gunnison)",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10091983,
+ "source_revision_id": null,
+ "source_sha1": "48cbdef6673a56b1f014152359895c978e8a47cd"
+}

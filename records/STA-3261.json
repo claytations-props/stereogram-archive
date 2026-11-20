@@ -1,0 +1,69 @@
+{
+ "title": "The Tabor Block, Denver, Col",
+ "place": "Denver, Colorado",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/The_Tabor_Block%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Tabor_Block%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/da/The_Tabor_Block%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_Tabor_Block,_Denver,_Col,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1394,
+ "id": "STA-3261",
+ "rect": "rect/3260.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.16,
+ "rot": 0.03,
+ "range": 0.68,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.1282,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/The_Tabor_Block%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Tabor_Block%2C_Denver%2C_Col%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.1282,
+  "L": [
+   0.320833,
+   0.0,
+   0.153906,
+   0.0,
+   0.558282,
+   0.133436
+  ],
+  "R": [
+   0.324582,
+   0.011938,
+   0.513243,
+   -0.026164,
+   0.563417,
+   0.144792
+  ],
+  "g": [
+   1.0,
+   0.9494
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.03° of rotation. Depth measured gentle (0.68% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10091862,
+ "source_revision_id": null,
+ "source_sha1": "966561e9a11a2a5b284e563d9f755e1abc8f954b"
+}
