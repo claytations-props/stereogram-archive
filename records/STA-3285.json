@@ -1,0 +1,69 @@
+{
+ "title": "Distant view of Boar's Head",
+ "place": "Hampton, New Hampshire",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Distant_view_of_Boar%27s_Head%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Distant_view_of_Boar%27s_Head%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/75/Distant_view_of_Boar%27s_Head%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Distant_view_of_Boar%27s_Head,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1373,
+ "id": "STA-3285",
+ "rect": "rect/3284.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.17,
+ "rot": 0.01,
+ "range": 1.53,
+ "f": 0.9,
+ "depth": "Moderate",
+ "va": 2.7257,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Distant_view_of_Boar%27s_Head%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Distant_view_of_Boar%27s_Head%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 2.7257,
+  "L": [
+   0.408854,
+   0.0,
+   0.080469,
+   0.0,
+   0.299065,
+   0.44704
+  ],
+  "R": [
+   0.407265,
+   -0.006918,
+   0.512348,
+   0.013262,
+   0.298744,
+   0.448202
+  ],
+  "g": [
+   0.9553,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.01° of rotation. Depth measured moderate (1.53% of frame width); hung in the VR Parlor at 90% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 11830556,
+ "source_revision_id": null,
+ "source_sha1": "305297d5f68fa1238d1f94c54340c1066f2ab121"
+}
