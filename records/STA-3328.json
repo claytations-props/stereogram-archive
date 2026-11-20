@@ -1,0 +1,69 @@
+{
+ "title": "Chain bridge",
+ "place": "Newburyport, Massachusetts",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Chain_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Chain_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Chain_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Chain_bridge,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1412,
+ "id": "STA-3328",
+ "rect": "rect/3327.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.08,
+ "rot": 0.0,
+ "range": 0.8,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0247,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Chain_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Chain_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0247,
+  "L": [
+   0.367708,
+   0.0,
+   0.125781,
+   0.0,
+   0.695257,
+   0.254793
+  ],
+  "R": [
+   0.365949,
+   0.002903,
+   0.508161,
+   -0.016865,
+   0.693033,
+   0.258613
+  ],
+  "g": [
+   0.8883,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (0.8% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7445619,
+ "source_revision_id": null,
+ "source_sha1": "50ef94ae1dadf1b5b7df5679feffdc2757f3d7bc"
+}

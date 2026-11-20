@@ -195733,5 +195733,1010 @@
   "date_start": 1870,
   "date_end": 1870,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Birds-eye view of Newburyport",
+  "place": "Newburyport, Massachusetts",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Birds-eye_view_of_Newburyport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Birds-eye_view_of_Newburyport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Birds-eye_view_of_Newburyport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Birds-eye_view_of_Newburyport,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1424,
+  "id": "STA-3318",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3317.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 0.43,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2632,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Birds-eye_view_of_Newburyport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Birds-eye_view_of_Newburyport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2632,
+   "L": [
+    0.4,
+    0.0,
+    0.09349,
+    0.0,
+    0.608609,
+    0.321822
+   ],
+   "R": [
+    0.399396,
+    -0.005199,
+    0.51891,
+    0.011648,
+    0.609153,
+    0.31762
+   ],
+   "g": [
+    1.0,
+    0.9797
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (0.43% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Newburyport harbor and shipping, by Philip Coombs",
+  "place": "Newburyport, Massachusetts",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Newburyport_harbor_and_shipping%2C_by_Philip_Coombs.jpg/1920px-Newburyport_harbor_and_shipping%2C_by_Philip_Coombs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/01/Newburyport_harbor_and_shipping%2C_by_Philip_Coombs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Newburyport_harbor_and_shipping,_by_Philip_Coombs.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1404,
+  "id": "STA-3319",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3318.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.02,
+  "range": 0.51,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0158,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Newburyport_harbor_and_shipping%2C_by_Philip_Coombs.jpg/1920px-Newburyport_harbor_and_shipping%2C_by_Philip_Coombs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0158,
+   "L": [
+    0.334375,
+    0.0,
+    0.148698,
+    0.0,
+    0.641624,
+    0.050254
+   ],
+   "R": [
+    0.334238,
+    0.002227,
+    0.52556,
+    -0.005578,
+    0.641718,
+    0.055624
+   ],
+   "g": [
+    1.0,
+    0.9903
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured gentle (0.51% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Philip Coombs",
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Birds-eye view of Newburyport, by H. P. McIntosh",
+  "place": "Newburyport, Massachusetts",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Birds-eye_view_of_Newburyport%2C_by_H._P._McIntosh.jpg/1920px-Birds-eye_view_of_Newburyport%2C_by_H._P._McIntosh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/97/Birds-eye_view_of_Newburyport%2C_by_H._P._McIntosh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Birds-eye_view_of_Newburyport,_by_H._P._McIntosh.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1401,
+  "id": "STA-3320",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3319.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.15,
+  "rot": 0.0,
+  "range": 0.62,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.435,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Birds-eye_view_of_Newburyport%2C_by_H._P._McIntosh.jpg/1920px-Birds-eye_view_of_Newburyport%2C_by_H._P._McIntosh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.435,
+   "L": [
+    0.350521,
+    0.0,
+    0.119531,
+    0.0,
+    0.477111,
+    0.464395
+   ],
+   "R": [
+    0.348074,
+    0.000243,
+    0.507008,
+    -0.008145,
+    0.473303,
+    0.462814
+   ],
+   "g": [
+    1.0,
+    0.8691
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured gentle (0.62% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "H. P. McIntosh",
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Newburyport looking south, by H. P. McIntosh",
+  "place": "Newburyport, Massachusetts",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Newburyport_looking_south%2C_by_H._P._McIntosh.jpg/1920px-Newburyport_looking_south%2C_by_H._P._McIntosh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Newburyport_looking_south%2C_by_H._P._McIntosh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Newburyport_looking_south,_by_H._P._McIntosh.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1414,
+  "id": "STA-3321",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3320.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.16,
+  "rot": 0.05,
+  "range": 0.55,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.7176,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Newburyport_looking_south%2C_by_H._P._McIntosh.jpg/1920px-Newburyport_looking_south%2C_by_H._P._McIntosh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.7176,
+   "L": [
+    0.386458,
+    0.0,
+    0.092969,
+    0.0,
+    0.435484,
+    0.529738
+   ],
+   "R": [
+    0.385531,
+    -0.001938,
+    0.51078,
+    0.003891,
+    0.436633,
+    0.502481
+   ],
+   "g": [
+    1.0,
+    0.9786
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.05° of rotation. Depth measured gentle (0.55% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "H. P. McIntosh",
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of a church",
+  "place": "Newburyport, Massachusetts",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/View_of_a_church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_a_church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/68/View_of_a_church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_church,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1411,
+  "id": "STA-3322",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3321.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 1.41,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9578,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/View_of_a_church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_a_church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9578,
+   "L": [
+    0.366667,
+    0.0,
+    0.121615,
+    0.0,
+    0.742424,
+    0.077273
+   ],
+   "R": [
+    0.367864,
+    -0.011621,
+    0.516134,
+    0.021053,
+    0.742798,
+    0.052548
+   ],
+   "g": [
+    0.9827,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (1.41% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of a large of building",
+  "place": "Newburyport, Massachusetts",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/View_of_a_large_of_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_large_of_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/bd/View_of_a_large_of_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_large_of_building,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1396,
+  "id": "STA-3323",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3322.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.18,
+  "rot": 0.01,
+  "range": 0.44,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.6325,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/View_of_a_large_of_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_large_of_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.6325,
+   "L": [
+    0.340104,
+    0.0,
+    0.144531,
+    0.0,
+    0.40858,
+    0.279367
+   ],
+   "R": [
+    0.340117,
+    0.005594,
+    0.507474,
+    -0.015322,
+    0.409149,
+    0.2866
+   ],
+   "g": [
+    0.9391,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.01° of rotation. Depth measured gentle (0.44% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of a residential street",
+  "place": "Newburyport, Massachusetts",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/View_of_a_residential_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_residential_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/1a/View_of_a_residential_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_residential_street,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1398,
+  "id": "STA-3324",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3323.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.03,
+  "range": 0.91,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9214,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/View_of_a_residential_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_residential_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9214,
+   "L": [
+    0.403125,
+    0.0,
+    0.089323,
+    0.0,
+    0.856269,
+    0.053517
+   ],
+   "R": [
+    0.408669,
+    0.000847,
+    0.516736,
+    0.000217,
+    0.862652,
+    0.047519
+   ],
+   "g": [
+    1.0,
+    0.9835
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.03° of rotation. Depth measured gentle (0.91% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of a street, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Newburyport, Massachusetts",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/View_of_a_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-View_of_a_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7c/View_of_a_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_street,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1423,
+  "id": "STA-3325",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3324.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.03,
+  "range": 1.0,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0746,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/View_of_a_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-View_of_a_street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0746,
+   "L": [
+    0.367708,
+    0.0,
+    0.117448,
+    0.0,
+    0.658317,
+    0.112725
+   ],
+   "R": [
+    0.370474,
+    0.002501,
+    0.505502,
+    0.002863,
+    0.655447,
+    0.073539
+   ],
+   "g": [
+    1.0,
+    0.9813
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.03° of rotation. Depth measured gentle (1.0% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of a large residence",
+  "place": "Newburyport, Massachusetts",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/View_of_a_large_residence%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_large_residence%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f1/View_of_a_large_residence%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_large_residence,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1471,
+  "id": "STA-3326",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3325.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.02,
+  "range": 1.84,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.9502,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/View_of_a_large_residence%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_large_residence%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9502,
+   "L": [
+    0.407292,
+    0.0,
+    0.058594,
+    0.0,
+    0.797481,
+    0.067345
+   ],
+   "R": [
+    0.407858,
+    -0.000877,
+    0.509346,
+    0.001398,
+    0.798662,
+    0.056626
+   ],
+   "g": [
+    0.9693,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.02° of rotation. Depth measured moderate (1.84% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of a large building",
+  "place": "Newburyport, Massachusetts",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/View_of_a_large_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_large_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/9f/View_of_a_large_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_large_building,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1605,
+  "id": "STA-3327",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3326.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 0.37,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9925,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/View_of_a_large_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_large_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9925,
+   "L": [
+    0.345833,
+    0.0,
+    0.127344,
+    0.0,
+    0.594139,
+    0.2873
+   ],
+   "R": [
+    0.345323,
+    -0.001369,
+    0.508826,
+    0.002495,
+    0.593712,
+    0.286282
+   ],
+   "g": [
+    1.0,
+    0.954
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (0.37% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Chain bridge",
+  "place": "Newburyport, Massachusetts",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Chain_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Chain_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Chain_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Chain_bridge,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1412,
+  "id": "STA-3328",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3327.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 0.8,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0247,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Chain_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Chain_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0247,
+   "L": [
+    0.367708,
+    0.0,
+    0.125781,
+    0.0,
+    0.695257,
+    0.254793
+   ],
+   "R": [
+    0.365949,
+    0.002903,
+    0.508161,
+    -0.016865,
+    0.693033,
+    0.258613
+   ],
+   "g": [
+    0.8883,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (0.8% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Court-house and mall",
+  "place": "Newburyport, Massachusetts",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Court-house_and_mall%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Court-house_and_mall%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/93/Court-house_and_mall%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Court-house_and_mall,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1421,
+  "id": "STA-3329",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3328.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.03,
+  "range": 1.54,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8371,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Court-house_and_mall%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Court-house_and_mall%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8371,
+   "L": [
+    0.345313,
+    0.0,
+    0.127865,
+    0.0,
+    0.794383,
+    0.073721
+   ],
+   "R": [
+    0.344443,
+    -0.000144,
+    0.514983,
+    0.004939,
+    0.78966,
+    0.061197
+   ],
+   "g": [
+    0.9357,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.03° of rotation. Depth measured moderate (1.54% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Essex Merrimack (Chain) bridge",
+  "place": "Newburyport, Massachusetts",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Essex_Merrimack_%28Chain%29_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Essex_Merrimack_%28Chain%29_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/56/Essex_Merrimack_%28Chain%29_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Essex_Merrimack_(Chain)_bridge,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1427,
+  "id": "STA-3330",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3329.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 0.34,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8821,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Essex_Merrimack_%28Chain%29_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Essex_Merrimack_%28Chain%29_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8821,
+   "L": [
+    0.358333,
+    0.0,
+    0.128906,
+    0.0,
+    0.779221,
+    0.156344
+   ],
+   "R": [
+    0.358074,
+    -0.004718,
+    0.52811,
+    0.008257,
+    0.78019,
+    0.15491
+   ],
+   "g": [
+    0.9548,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (0.34% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of people standing on a commercial street, church visible in background",
+  "place": "Newburyport, Massachusetts",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/View_of_people_standing_on_a_commercial_street%2C_church_visible_in_background%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_people_standing_on_a_commercial_street%2C_church_visible_in_background%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/fa/View_of_people_standing_on_a_commercial_street%2C_church_visible_in_background%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_people_standing_on_a_commercial_street,_church_visible_in_background,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1412,
+  "id": "STA-3331",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3330.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.02,
+  "range": 1.42,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1921,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/View_of_people_standing_on_a_commercial_street%2C_church_visible_in_background%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_people_standing_on_a_commercial_street%2C_church_visible_in_background%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1921,
+   "L": [
+    0.394271,
+    0.0,
+    0.090365,
+    0.0,
+    0.640767,
+    0.304238
+   ],
+   "R": [
+    0.394536,
+    -0.001752,
+    0.530628,
+    0.004417,
+    0.642699,
+    0.298016
+   ],
+   "g": [
+    0.9957,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.02° of rotation. Depth measured gentle (1.42% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "The little store",
+  "place": "Newburyport, Massachusetts",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/The_little_store%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_little_store%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/50/The_little_store%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:The_little_store,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1375,
+  "id": "STA-3332",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3331.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.16,
+  "rot": 0.02,
+  "range": 0.26,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.7546,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/The_little_store%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_little_store%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.7546,
+   "L": [
+    0.450521,
+    0.0,
+    0.042448,
+    0.0,
+    0.510881,
+    0.415026
+   ],
+   "R": [
+    0.450423,
+    0.000771,
+    0.506784,
+    0.000382,
+    0.511418,
+    0.420049
+   ],
+   "g": [
+    0.9613,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.02° of rotation. Depth measured gentle (0.26% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "People in front of a large house with fence",
+  "place": "Newburyport, Massachusetts",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/People_in_front_of_a_large_house_with_fence%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-People_in_front_of_a_large_house_with_fence%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/ac/People_in_front_of_a_large_house_with_fence%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:People_in_front_of_a_large_house_with_fence,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1392,
+  "id": "STA-3333",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3332.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 0.64,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9421,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/People_in_front_of_a_large_house_with_fence%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-People_in_front_of_a_large_house_with_fence%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9421,
+   "L": [
+    0.398438,
+    0.0,
+    0.082552,
+    0.0,
+    0.831967,
+    0.068135
+   ],
+   "R": [
+    0.401046,
+    0.004761,
+    0.505442,
+    -0.014643,
+    0.839792,
+    0.052678
+   ],
+   "g": [
+    0.9617,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.64% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Charter Street, Newburyport, Mass, by D. T. Reed",
+  "place": "Newburyport, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Charter_Street%2C_Newburyport%2C_Mass%2C_by_D._T._Reed.jpg/1920px-Charter_Street%2C_Newburyport%2C_Mass%2C_by_D._T._Reed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/28/Charter_Street%2C_Newburyport%2C_Mass%2C_by_D._T._Reed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Charter_Street,_Newburyport,_Mass,_by_D._T._Reed.jpg",
+  "license": "Public domain",
+  "w": 6606,
+  "h": 3300,
+  "id": "STA-3334",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3333.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.15,
+  "rot": 0.01,
+  "range": 1.18,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1357,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Charter_Street%2C_Newburyport%2C_Mass%2C_by_D._T._Reed.jpg/1920px-Charter_Street%2C_Newburyport%2C_Mass%2C_by_D._T._Reed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1357,
+   "L": [
+    0.33125,
+    0.0,
+    0.159115,
+    0.0,
+    0.583942,
+    0.362357
+   ],
+   "R": [
+    0.329969,
+    -0.017859,
+    0.576894,
+    0.002388,
+    0.584208,
+    0.372023
+   ],
+   "g": [
+    0.9657,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.01° of rotation. Depth measured gentle (1.18% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "D. T. Reed",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]
