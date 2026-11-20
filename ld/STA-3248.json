@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3248.json",
+ "name": "Airplane view of Manitou Canyon and entrance to Cave of the Winds, Colorado Springs, Colo",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3247.jpg",
+ "identifier": "STA-3248",
+ "dateCreated": "1925",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Colorado Springs, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Airplane_view_of_Manitou_Canyon_and_entrance_to_Cave_of_the_Winds,_Colorado_Springs,_Colo,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

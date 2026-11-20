@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3316.json",
+ "name": "View of a waterfall with buildings lining the river on the opposite shore",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3315.jpg",
+ "identifier": "STA-3316",
+ "dateCreated": "1869",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Fitchburg, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_waterfall_with_buildings_lining_the_river_on_the_opposite_shore,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

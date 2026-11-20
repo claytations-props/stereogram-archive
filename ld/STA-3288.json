@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3288.json",
+ "name": "View on the Potomac, Harper's Ferry in the distance",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3287.jpg",
+ "identifier": "STA-3288",
+ "dateCreated": "1859",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Harper's Ferry, West Virginia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_on_the_Potomac,_Harper%27s_Ferry_in_the_distance,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

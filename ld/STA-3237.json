@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3237.json",
+ "name": "Village scene, Andover, N.H, by John Bachelder 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3236.jpg",
+ "identifier": "STA-3237",
+ "creator": {
+  "@type": "Person",
+  "name": "John Bachelder"
+ },
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Andover, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Village_scene,_Andover,_N.H,_by_John_Bachelder_2.jpg"
+}

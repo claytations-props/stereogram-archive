@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3249.json",
+ "name": "Lover's Rest, in Queen's Canon (Canyon). four miles from Colorado Springs, Colorado",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3248.jpg",
+ "identifier": "STA-3249",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Colorado Springs, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Lover%27s_Rest,_in_Queen%27s_Canon_(Canyon)._four_miles_from_Colorado_Springs,_Colorado,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

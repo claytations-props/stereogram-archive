@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3317.json",
+ "name": "Nashua Tent, by O. H. Copeland",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3316.jpg",
+ "identifier": "STA-3317",
+ "creator": {
+  "@type": "Person",
+  "name": "O. H. Copeland"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Nashua, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Nashua_Tent,_by_O._H._Copeland.jpg"
+}

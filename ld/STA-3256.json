@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3256.json",
+ "name": "The Colorado Springs hotel, by Gurnsey, B. H. (Byron H.), 1833-1880",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3255.jpg",
+ "identifier": "STA-3256",
+ "creator": {
+  "@type": "Person",
+  "name": "Gurnsey, B. H. (Byron H.)"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Colorado Springs, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Colorado_Springs_hotel,_by_Gurnsey,_B._H._(Byron_H.),_1833-1880.png"
+}

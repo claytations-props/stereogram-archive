@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3218</quantity>
+    <quantity>3329</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5220,6 +5220,150 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3217.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3220">
+     <did>
+      <unitid>STA-3220</unitid>
+      <unittitle>View of a mill stream (in Amesbury?), by W. C. Thompson</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3219.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3221">
+     <did>
+      <unitid>STA-3221</unitid>
+      <unittitle>View of a mill stream (in Amesbury?), by W. C. Thompson 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3220.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3224">
+     <did>
+      <unitid>STA-3224</unitid>
+      <unittitle>Wharf at the Point, Salisbury, Mass</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3223.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3239">
+     <did>
+      <unitid>STA-3239</unitid>
+      <unittitle>Soda Springs, near Colorado City. El Paso County, Colorado. 1870. (Stereoscopic view) (29947725123)</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3238.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3245">
+     <did>
+      <unitid>STA-3245</unitid>
+      <unittitle>Navajoe and Manitou springs, Colorado</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3244.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3255">
+     <did>
+      <unitid>STA-3255</unitid>
+      <unittitle>Ute Iron Spring, Colorado</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3254.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3257">
+     <did>
+      <unitid>STA-3257</unitid>
+      <unittitle>Navajo Spring and Cliff House, Colorado</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3256.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3278">
+     <did>
+      <unitid>STA-3278</unitid>
+      <unittitle>Hampton Beach, N.H</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3277.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3280">
+     <did>
+      <unitid>STA-3280</unitid>
+      <unittitle>Hampton Beach from Boar's Head Hotel</unittitle>
+      <unitdate normal="1867/1877">c. 1872</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3279.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3281">
+     <did>
+      <unitid>STA-3281</unitid>
+      <unittitle>Instantaneous Surf view, Hampton Beach, N.H, by A. P. Munger</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3280.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3283">
+     <did>
+      <unitid>STA-3283</unitid>
+      <unittitle>Hampton Beach, New hampshire, by Hobbs, W. N. (William N.), 1830-1881</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3282.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3285">
+     <did>
+      <unitid>STA-3285</unitid>
+      <unittitle>Distant view of Boar's Head</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3284.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3287">
+     <did>
+      <unitid>STA-3287</unitid>
+      <unittitle>Boar's Head</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3286.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3289">
+     <did>
+      <unitid>STA-3289</unitid>
+      <unittitle>View at Harper's Ferry</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3288.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3294">
+     <did>
+      <unitid>STA-3294</unitid>
+      <unittitle>Harper's Ferry opposite</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3293.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3301">
+     <did>
+      <unitid>STA-3301</unitid>
+      <unittitle>Harper's Ferry, Virginia scenery</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3300.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3316">
+     <did>
+      <unitid>STA-3316</unitid>
+      <unittitle>View of a waterfall with buildings lining the river on the opposite shore</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3315.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3319">
+     <did>
+      <unitid>STA-3319</unitid>
+      <unittitle>Newburyport harbor and shipping, by Philip Coombs</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3318.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -7399,6 +7543,46 @@
       <unittitle>Lehigh and Susquehanna R.R. cut, Solomon's Gap, by M. A. Kleckner</unittitle>
       <unitdate normal="1868">1868</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3129.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3248">
+     <did>
+      <unitid>STA-3248</unitid>
+      <unittitle>Airplane view of Manitou Canyon and entrance to Cave of the Winds, Colorado Springs, Colo</unittitle>
+      <unitdate normal="1925">1925</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3247.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3249">
+     <did>
+      <unitid>STA-3249</unitid>
+      <unittitle>Lover's Rest, in Queen's Canon (Canyon). four miles from Colorado Springs, Colorado</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3248.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3252">
+     <did>
+      <unitid>STA-3252</unitid>
+      <unittitle>Tejon Street, Colorado Springs, Colorado, looking south, with Cheyenne Mountain in the distance, by Gurnsey, B. H. (Byron H.), 1833-1880 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3251.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3271">
+     <did>
+      <unitid>STA-3271</unitid>
+      <unittitle>Tough Cuss Pass, Colorado Central Railroad, between Denver &amp; Black Hawk, Colorado</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3270.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3303">
+     <did>
+      <unitid>STA-3303</unitid>
+      <unittitle>Jefferson Rock, Harper's Ferry</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3302.jpg"/>
      </did>
     </c>
    </c>
@@ -20030,6 +20214,662 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3216.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3219">
+     <did>
+      <unitid>STA-3219</unitid>
+      <unittitle>Whittier's home, Amesbury</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3218.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3222">
+     <did>
+      <unitid>STA-3222</unitid>
+      <unittitle>The depot</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3221.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3223">
+     <did>
+      <unitid>STA-3223</unitid>
+      <unittitle>Bartlett's block and High Street</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3222.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3227">
+     <did>
+      <unitid>STA-3227</unitid>
+      <unittitle>The Parsonage, Andover, Mass</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3226.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3228">
+     <did>
+      <unitid>STA-3228</unitid>
+      <unittitle>View of West Andover, N.H, by John Bachelder</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3227.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3229">
+     <did>
+      <unitid>STA-3229</unitid>
+      <unittitle>Phillips Academy, Andover, by J. W. &amp; J. S. Moulton</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3228.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3230">
+     <did>
+      <unitid>STA-3230</unitid>
+      <unittitle>Phillips Academy, Andover, Mass, by Hamor, A. B. (Anderson B.), b. 1841</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3229.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3231">
+     <did>
+      <unitid>STA-3231</unitid>
+      <unittitle>The square, Andover, Mass, by Hamor, A. B. (Anderson B.), b. 1841</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3230.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3232">
+     <did>
+      <unitid>STA-3232</unitid>
+      <unittitle>Free Church, Andover, Mass, by Hamor, A. B. (Anderson B.), b. 1841</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3231.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3233">
+     <did>
+      <unitid>STA-3233</unitid>
+      <unittitle>Theological Seminary, Andover, Mass, by Hamor, A. B. (Anderson B.), b. 1841</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3232.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3234">
+     <did>
+      <unitid>STA-3234</unitid>
+      <unittitle>Main Street, Andover, Mass, by Hamor, A. B. (Anderson B.), b. 1841</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3233.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3235">
+     <did>
+      <unitid>STA-3235</unitid>
+      <unittitle>Elm arch and library, Andover, Mass, by Hamor, A. B. (Anderson B.), b. 1841</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3234.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3236">
+     <did>
+      <unitid>STA-3236</unitid>
+      <unittitle>Village scene, Andover, N.H, by John Bachelder</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3235.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3237">
+     <did>
+      <unitid>STA-3237</unitid>
+      <unittitle>Village scene, Andover, N.H, by John Bachelder 2</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3236.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3238">
+     <did>
+      <unitid>STA-3238</unitid>
+      <unittitle>Abbott Academy, Andover, Mass, by Hamor, A. B. (Anderson B.), b. 1841</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3237.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3240">
+     <did>
+      <unitid>STA-3240</unitid>
+      <unittitle>Colorado Springs. (Bird's-eye view of the Springs.), by Charles L. Gillingham</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3239.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3241">
+     <did>
+      <unitid>STA-3241</unitid>
+      <unittitle>View of Colorado Springs, by Weitfle, Charles, 1836-1921</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3240.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3242">
+     <did>
+      <unitid>STA-3242</unitid>
+      <unittitle>Views of Colorado Springs, from the cupola of the Public School building, looking east</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3241.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3243">
+     <did>
+      <unitid>STA-3243</unitid>
+      <unittitle>Colorado Springs, Colorado, by Kilburn Brothers</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3242.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3246">
+     <did>
+      <unitid>STA-3246</unitid>
+      <unittitle>Colorado Springs, by H. W. Stormer</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3245.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3247">
+     <did>
+      <unitid>STA-3247</unitid>
+      <unittitle>Colorado Springs, by Nims, F. A. (Franklin A.)</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3246.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3250">
+     <did>
+      <unitid>STA-3250</unitid>
+      <unittitle>Colorado Springs, by Nims, F. A. (Franklin A.) 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3249.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3251">
+     <did>
+      <unitid>STA-3251</unitid>
+      <unittitle>Colorado Springs, Colorado, May 1st, 1880, by Gurnsey, B. H. (Byron H.), 1833-1880</unittitle>
+      <unitdate normal="1880">1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3250.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3256">
+     <did>
+      <unitid>STA-3256</unitid>
+      <unittitle>The Colorado Springs hotel, by Gurnsey, B. H. (Byron H.), 1833-1880</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3255.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3258">
+     <did>
+      <unitid>STA-3258</unitid>
+      <unittitle>Denver bookstore</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3257.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3259">
+     <did>
+      <unitid>STA-3259</unitid>
+      <unittitle>Union Depot, Denver</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3258.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3260">
+     <did>
+      <unitid>STA-3260</unitid>
+      <unittitle>Windsor Hotel, Denver, Col</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3259.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3261">
+     <did>
+      <unitid>STA-3261</unitid>
+      <unittitle>The Tabor Block, Denver, Col</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3260.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3262">
+     <did>
+      <unitid>STA-3262</unitid>
+      <unittitle>Larimer Street, Denver, Col</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3261.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3263">
+     <did>
+      <unitid>STA-3263</unitid>
+      <unittitle>Tabor Opera House, Denver</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3262.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3264">
+     <did>
+      <unitid>STA-3264</unitid>
+      <unittitle>Tabor Opera House, Denver, Col</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3263.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3265">
+     <did>
+      <unitid>STA-3265</unitid>
+      <unittitle>Grand view of Denver City, by Duhem Brothers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3264.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3266">
+     <did>
+      <unitid>STA-3266</unitid>
+      <unittitle>Distant view of Denver, by Chamberlain, W. G. (William Gunnison)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3265.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3267">
+     <did>
+      <unitid>STA-3267</unitid>
+      <unittitle>Stage station between Denver &amp; Central City, Colorado</unittitle>
+      <unitdate normal="1867">1867</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3266.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3268">
+     <did>
+      <unitid>STA-3268</unitid>
+      <unittitle>General view of East Denver and distant view of Rocky Mountains, by Chamberlain, W. G. (William Gunnison)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3267.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3269">
+     <did>
+      <unitid>STA-3269</unitid>
+      <unittitle>General view of Denver from the Tower, by Chamberlain, W. G. (William Gunnison)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3268.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3272">
+     <did>
+      <unitid>STA-3272</unitid>
+      <unittitle>Bird's-eye view of Denver, Col., U.S.A, by Kilburn, B. W. (Benjamin West), 1827-1909</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3271.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3273">
+     <did>
+      <unitid>STA-3273</unitid>
+      <unittitle>Denver City, by Reed &amp; McKenney</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3272.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3274">
+     <did>
+      <unitid>STA-3274</unitid>
+      <unittitle>Windsor Hotel, Denver, by James Collier</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3273.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3275">
+     <did>
+      <unitid>STA-3275</unitid>
+      <unittitle>Denver, by Chamberlain, W. G. (William Gunnison)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3274.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3276">
+     <did>
+      <unitid>STA-3276</unitid>
+      <unittitle>Cripple Creek, Colo., U.S.A. On line D. &amp; R. G. R. R. (Denver &amp; Rio Grande Railway)</unittitle>
+      <unitdate normal="1896">1896</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3275.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3277">
+     <did>
+      <unitid>STA-3277</unitid>
+      <unittitle>View of Hampton Beach, N.H</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3276.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3279">
+     <did>
+      <unitid>STA-3279</unitid>
+      <unittitle>Union Hotel, Hampton Beach, N.H</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3278.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3282">
+     <did>
+      <unitid>STA-3282</unitid>
+      <unittitle>Scenery of Hampton Beach, N.H, by A. P. Munger</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3281.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3286">
+     <did>
+      <unitid>STA-3286</unitid>
+      <unittitle>At Little Boar's Head, North Hampton, by Davis Bros.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3285.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3290">
+     <did>
+      <unitid>STA-3290</unitid>
+      <unittitle>Harper's Ferry, general view</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3289.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3291">
+     <did>
+      <unitid>STA-3291</unitid>
+      <unittitle>View at Harper's Ferry, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3290.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3292">
+     <did>
+      <unitid>STA-3292</unitid>
+      <unittitle>Harper's Ferry</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3291.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3293">
+     <did>
+      <unitid>STA-3293</unitid>
+      <unittitle>Harper's Ferry, Va</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3292.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3295">
+     <did>
+      <unitid>STA-3295</unitid>
+      <unittitle>B.&amp;O. R.R. Bridge. Harper's Ferry</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3294.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3296">
+     <did>
+      <unitid>STA-3296</unitid>
+      <unittitle>Harper's Ferry, from Bolivar Heights, from Robert N. Dennis collection of stereoscopic views 5</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3295.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3297">
+     <did>
+      <unitid>STA-3297</unitid>
+      <unittitle>Harper's Ferry, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3296.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3298">
+     <did>
+      <unitid>STA-3298</unitid>
+      <unittitle>Bollman Iron Bridge, Harper's Ferry, W.Va</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3297.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3299">
+     <did>
+      <unitid>STA-3299</unitid>
+      <unittitle>Stone Archway, Harper's Ferry</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3298.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3300">
+     <did>
+      <unitid>STA-3300</unitid>
+      <unittitle>Harper's Ferry, from Loudon</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3299.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3302">
+     <did>
+      <unitid>STA-3302</unitid>
+      <unittitle>Harper's Ferry, Va, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3301.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3304">
+     <did>
+      <unitid>STA-3304</unitid>
+      <unittitle>Harper's Ferry, from Bolivar Heights</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3303.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3305">
+     <did>
+      <unitid>STA-3305</unitid>
+      <unittitle>Harper's Ferry. B.&amp;O. R.R</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3304.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3306">
+     <did>
+      <unitid>STA-3306</unitid>
+      <unittitle>Bird's eye view of Nashua</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3305.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3307">
+     <did>
+      <unitid>STA-3307</unitid>
+      <unittitle>View of a man and woman standing in a street corner, Nashua, by Charles H. Lindsey</unittitle>
+      <unitdate normal="1879/1894">1879–1894</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3306.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3308">
+     <did>
+      <unitid>STA-3308</unitid>
+      <unittitle>Nashua Corporation, by Stark &amp; Horton</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3307.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3310">
+     <did>
+      <unitid>STA-3310</unitid>
+      <unittitle>Main Street, Nashua, by Stark &amp; Horton 2</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3309.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3311">
+     <did>
+      <unitid>STA-3311</unitid>
+      <unittitle>County Records Building, Nashua, N.H, by Stark &amp; Horton</unittitle>
+      <unitdate normal="1876/1889">1876–1889</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3310.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3312">
+     <did>
+      <unitid>STA-3312</unitid>
+      <unittitle>Nashua Lock Company, by Stark &amp; Horton</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3311.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3313">
+     <did>
+      <unitid>STA-3313</unitid>
+      <unittitle>Kinsley Street, Nashua, N.H, by Hamilton, S. C. (Samuel C.)</unittitle>
+      <unitdate normal="1868/1874">1868–1874</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3312.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3314">
+     <did>
+      <unitid>STA-3314</unitid>
+      <unittitle>First Universalist Church - Interior</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3313.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3315">
+     <did>
+      <unitid>STA-3315</unitid>
+      <unittitle>Campbell's House, Corner Kinsley and Main Sts</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3314.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3318">
+     <did>
+      <unitid>STA-3318</unitid>
+      <unittitle>Birds-eye view of Newburyport</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3317.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3320">
+     <did>
+      <unitid>STA-3320</unitid>
+      <unittitle>Birds-eye view of Newburyport, by H. P. McIntosh</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3319.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3321">
+     <did>
+      <unitid>STA-3321</unitid>
+      <unittitle>Newburyport looking south, by H. P. McIntosh</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3320.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3322">
+     <did>
+      <unitid>STA-3322</unitid>
+      <unittitle>View of a church</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3321.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3323">
+     <did>
+      <unitid>STA-3323</unitid>
+      <unittitle>View of a large of building</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3322.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3324">
+     <did>
+      <unitid>STA-3324</unitid>
+      <unittitle>View of a residential street</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3323.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3325">
+     <did>
+      <unitid>STA-3325</unitid>
+      <unittitle>View of a street, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3324.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3326">
+     <did>
+      <unitid>STA-3326</unitid>
+      <unittitle>View of a large residence</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3325.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3327">
+     <did>
+      <unitid>STA-3327</unitid>
+      <unittitle>View of a large building</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3326.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3328">
+     <did>
+      <unitid>STA-3328</unitid>
+      <unittitle>Chain bridge</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3327.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3329">
+     <did>
+      <unitid>STA-3329</unitid>
+      <unittitle>Court-house and mall</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3328.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3330">
+     <did>
+      <unitid>STA-3330</unitid>
+      <unittitle>Essex Merrimack (Chain) bridge</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3329.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3331">
+     <did>
+      <unitid>STA-3331</unitid>
+      <unittitle>View of people standing on a commercial street, church visible in background</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3330.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3332">
+     <did>
+      <unitid>STA-3332</unitid>
+      <unittitle>The little store</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3331.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3334">
+     <did>
+      <unitid>STA-3334</unitid>
+      <unittitle>Charter Street, Newburyport, Mass, by D. T. Reed</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3333.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -22947,6 +23787,54 @@
       <unittitle>Group of men posing at the preacher's stand</unittitle>
       <unitdate normal="1863">1863</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3175.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3244">
+     <did>
+      <unitid>STA-3244</unitid>
+      <unittitle>Camp Joy, Colorado Springs</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3243.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3284">
+     <did>
+      <unitid>STA-3284</unitid>
+      <unittitle>Group of tourists in Hampton Beach, N.H, by Hobbs, W. N. (William N.), 1830-1881</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3283.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3288">
+     <did>
+      <unitid>STA-3288</unitid>
+      <unittitle>View on the Potomac, Harper's Ferry in the distance</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3287.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3309">
+     <did>
+      <unitid>STA-3309</unitid>
+      <unittitle>Group portrait, Nashua, N.H, by C. A. Lawrence</unittitle>
+      <unitdate normal="1868/1875">1868–1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3308.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3317">
+     <did>
+      <unitid>STA-3317</unitid>
+      <unittitle>Nashua Tent, by O. H. Copeland</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3316.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3333">
+     <did>
+      <unitid>STA-3333</unitid>
+      <unittitle>People in front of a large house with fence</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3332.jpg"/>
      </did>
     </c>
    </c>

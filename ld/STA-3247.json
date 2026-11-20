@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3247.json",
+ "name": "Colorado Springs, by Nims, F. A. (Franklin A.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3246.jpg",
+ "identifier": "STA-3247",
+ "creator": {
+  "@type": "Person",
+  "name": "Nims, F. A. (Franklin A.)"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Colorado Springs, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Colorado_Springs,_by_Nims,_F._A._(Franklin_A.).jpg"
+}

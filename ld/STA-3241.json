@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3241.json",
+ "name": "View of Colorado Springs, by Weitfle, Charles, 1836-1921",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3240.jpg",
+ "identifier": "STA-3241",
+ "creator": {
+  "@type": "Person",
+  "name": "Weitfle, Charles"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Colorado Springs, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_Colorado_Springs,_by_Weitfle,_Charles,_1836-1921.jpg"
+}

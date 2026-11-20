@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3280.json",
+ "name": "Hampton Beach from Boar's Head Hotel",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3279.jpg",
+ "identifier": "STA-3280",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hampton, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Hampton_Beach_from_Boar%27s_Head_Hotel,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

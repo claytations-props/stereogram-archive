@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3267.json",
+ "name": "Stage station between Denver & Central City, Colorado",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3266.jpg",
+ "identifier": "STA-3267",
+ "dateCreated": "1867",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Central City, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Stage_station_between_Denver_%26_Central_City,_Colorado,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-3313.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Kinsley Street, Nashua, N.H, by Hamilton, S. C. (Samuel C.)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Hamilton, S. C. (Samuel C.)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1868–1874"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Nashua, New Hampshire"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-3313.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-3313/canvas/1",
+   "type": "Canvas",
+   "width": 1406,
+   "height": 531,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-3313/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-3313/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/3312.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1406,
+        "height": 531,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Kinsley_Street%2C_Nashua%2C_N.H%2C_by_Hamilton%2C_S._C._%28Samuel_C.%29.png/1920px-Kinsley_Street%2C_Nashua%2C_N.H%2C_by_Hamilton%2C_S._C._%28Samuel_C.%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-3313/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

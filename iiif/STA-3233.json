@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-3233.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Theological Seminary, Andover, Mass, by Hamor, A. B. (Anderson B.), b. 1841"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Hamor, A. B. (Anderson B.)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "b. 1841"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1865"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Andover, Massachusetts"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-3233.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-3233/canvas/1",
+   "type": "Canvas",
+   "width": 1556,
+   "height": 608,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-3233/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-3233/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/3232.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1556,
+        "height": 608,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Theological_Seminary%2C_Andover%2C_Mass%2C_by_Hamor%2C_A._B._%28Anderson_B.%29%2C_b._1841.jpg/1920px-Theological_Seminary%2C_Andover%2C_Mass%2C_by_Hamor%2C_A._B._%28Anderson_B.%29%2C_b._1841.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-3233/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

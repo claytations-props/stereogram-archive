@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3246.json",
+ "name": "Colorado Springs, by H. W. Stormer",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3245.jpg",
+ "identifier": "STA-3246",
+ "creator": {
+  "@type": "Person",
+  "name": "H. W. Stormer"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Colorado Springs, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Colorado_Springs,_by_H._W._Stormer.jpg"
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3308.json",
+ "name": "Nashua Corporation, by Stark & Horton",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3307.jpg",
+ "identifier": "STA-3308",
+ "creator": {
+  "@type": "Person",
+  "name": "Stark & Horton"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Nashua, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Nashua_Corporation,_by_Stark_%26_Horton.png"
+}

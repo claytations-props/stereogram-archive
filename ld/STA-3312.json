@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3312.json",
+ "name": "Nashua Lock Company, by Stark & Horton",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3311.jpg",
+ "identifier": "STA-3312",
+ "creator": {
+  "@type": "Person",
+  "name": "Stark & Horton"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Nashua, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Nashua_Lock_Company,_by_Stark_%26_Horton.png"
+}

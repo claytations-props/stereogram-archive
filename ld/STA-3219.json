@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3219.json",
+ "name": "Whittier's home, Amesbury",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3218.jpg",
+ "identifier": "STA-3219",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Amesbury, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Whittier%27s_home,_Amesbury,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

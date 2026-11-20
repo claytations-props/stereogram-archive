@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3320.json",
+ "name": "Birds-eye view of Newburyport, by H. P. McIntosh",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3319.jpg",
+ "identifier": "STA-3320",
+ "creator": {
+  "@type": "Person",
+  "name": "H. P. McIntosh"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Newburyport, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Birds-eye_view_of_Newburyport,_by_H._P._McIntosh.jpg"
+}

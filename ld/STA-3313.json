@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3313.json",
+ "name": "Kinsley Street, Nashua, N.H, by Hamilton, S. C. (Samuel C.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3312.jpg",
+ "identifier": "STA-3313",
+ "creator": {
+  "@type": "Person",
+  "name": "Hamilton, S. C. (Samuel C.)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Nashua, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Kinsley_Street,_Nashua,_N.H,_by_Hamilton,_S._C._(Samuel_C.).png"
+}

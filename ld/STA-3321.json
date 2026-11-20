@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3321.json",
+ "name": "Newburyport looking south, by H. P. McIntosh",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3320.jpg",
+ "identifier": "STA-3321",
+ "creator": {
+  "@type": "Person",
+  "name": "H. P. McIntosh"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Newburyport, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Newburyport_looking_south,_by_H._P._McIntosh.jpg"
+}

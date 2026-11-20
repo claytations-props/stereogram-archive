@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3334.json",
+ "name": "Charter Street, Newburyport, Mass, by D. T. Reed",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3333.jpg",
+ "identifier": "STA-3334",
+ "creator": {
+  "@type": "Person",
+  "name": "D. T. Reed"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Newburyport, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Charter_Street,_Newburyport,_Mass,_by_D._T._Reed.jpg"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3264.json",
+ "name": "Tabor Opera House, Denver, Col",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3263.jpg",
+ "identifier": "STA-3264",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Denver, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Tabor_Opera_House,_Denver,_Col,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3273.json",
+ "name": "Denver City, by Reed & McKenney",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3272.jpg",
+ "identifier": "STA-3273",
+ "creator": {
+  "@type": "Person",
+  "name": "Reed & McKenney"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Denver, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Denver_City,_by_Reed_%26_McKenney.jpg"
+}

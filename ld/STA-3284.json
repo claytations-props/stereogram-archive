@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3284.json",
+ "name": "Group of tourists in Hampton Beach, N.H, by Hobbs, W. N. (William N.), 1830-1881",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3283.jpg",
+ "identifier": "STA-3284",
+ "creator": {
+  "@type": "Person",
+  "name": "Hobbs, W. N. (William N.)"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hampton, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Group_of_tourists_in_Hampton_Beach,_N.H,_by_Hobbs,_W._N._(William_N.),_1830-1881.jpg"
+}

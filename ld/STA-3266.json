@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3266.json",
+ "name": "Distant view of Denver, by Chamberlain, W. G. (William Gunnison)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3265.jpg",
+ "identifier": "STA-3266",
+ "creator": {
+  "@type": "Person",
+  "name": "Chamberlain, W. G. (William Gunnison)"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Denver, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Distant_view_of_Denver,_by_Chamberlain,_W._G._(William_Gunnison).jpg"
+}

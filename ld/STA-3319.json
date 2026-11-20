@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3319.json",
+ "name": "Newburyport harbor and shipping, by Philip Coombs",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3318.jpg",
+ "identifier": "STA-3319",
+ "creator": {
+  "@type": "Person",
+  "name": "Philip Coombs"
+ },
+ "dateCreated": "1860",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Newburyport, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Newburyport_harbor_and_shipping,_by_Philip_Coombs.jpg"
+}

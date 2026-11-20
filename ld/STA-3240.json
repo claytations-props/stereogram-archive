@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3240.json",
+ "name": "Colorado Springs. (Bird's-eye view of the Springs.), by Charles L. Gillingham",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3239.jpg",
+ "identifier": "STA-3240",
+ "creator": {
+  "@type": "Person",
+  "name": "Charles L. Gillingham"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Colorado Springs, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Colorado_Springs._(Bird%27s-eye_view_of_the_Springs.),_by_Charles_L._Gillingham.jpg"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3274.json",
+ "name": "Windsor Hotel, Denver, by James Collier",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3273.jpg",
+ "identifier": "STA-3274",
+ "creator": {
+  "@type": "Person",
+  "name": "James Collier"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Denver, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Windsor_Hotel,_Denver,_by_James_Collier.jpg"
+}

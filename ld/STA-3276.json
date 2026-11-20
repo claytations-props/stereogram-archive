@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3276.json",
+ "name": "Cripple Creek, Colo., U.S.A. On line D. & R. G. R. R. (Denver & Rio Grande Railway)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3275.jpg",
+ "identifier": "STA-3276",
+ "dateCreated": "1896",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cripple Creek, Colorado"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cripple_Creek,_Colo.,_U.S.A._On_line_D._%26_R._G._R._R._(Denver_%26_Rio_Grande_Railway),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}
