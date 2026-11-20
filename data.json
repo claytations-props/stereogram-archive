@@ -190181,5 +190181,477 @@
   "date_start": 1868,
   "date_end": 1868,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Whittier's home, Amesbury",
+  "place": "Amesbury, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Whittier%27s_home%2C_Amesbury%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Whittier%27s_home%2C_Amesbury%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/04/Whittier%27s_home%2C_Amesbury%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Whittier%27s_home,_Amesbury,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 6624,
+  "h": 3354,
+  "id": "STA-3219",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3218.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 0.9,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9159,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Whittier%27s_home%2C_Amesbury%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Whittier%27s_home%2C_Amesbury%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9159,
+   "L": [
+    0.436979,
+    0.0,
+    0.03724,
+    0.0,
+    0.942387,
+    0.026235
+   ],
+   "R": [
+    0.430079,
+    0.000231,
+    0.510215,
+    -0.003268,
+    0.926165,
+    0.042689
+   ],
+   "g": [
+    0.916,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (0.9% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of a mill stream (in Amesbury?), by W. C. Thompson",
+  "place": "Amesbury, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/View_of_a_mill_stream_%28in_Amesbury%3F%29%2C_by_W._C._Thompson.jpg/1920px-View_of_a_mill_stream_%28in_Amesbury%3F%29%2C_by_W._C._Thompson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ec/View_of_a_mill_stream_%28in_Amesbury%3F%29%2C_by_W._C._Thompson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_mill_stream_(in_Amesbury%3F),_by_W._C._Thompson.jpg",
+  "license": "Public domain",
+  "w": 6600,
+  "h": 3216,
+  "id": "STA-3220",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3219.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 0.68,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9884,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/View_of_a_mill_stream_%28in_Amesbury%3F%29%2C_by_W._C._Thompson.jpg/1920px-View_of_a_mill_stream_%28in_Amesbury%3F%29%2C_by_W._C._Thompson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9884,
+   "L": [
+    0.401042,
+    0.0,
+    0.086198,
+    0.0,
+    0.832265,
+    0.076389
+   ],
+   "R": [
+    0.396306,
+    0.004658,
+    0.530643,
+    -0.013334,
+    0.825076,
+    0.099841
+   ],
+   "g": [
+    1.0,
+    0.9962
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured gentle (0.68% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "W. C. Thompson",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of a mill stream (in Amesbury?), by W. C. Thompson 2",
+  "place": "Amesbury, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/View_of_a_mill_stream_%28in_Amesbury%3F%29%2C_by_W._C._Thompson_2.jpg/1920px-View_of_a_mill_stream_%28in_Amesbury%3F%29%2C_by_W._C._Thompson_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/67/View_of_a_mill_stream_%28in_Amesbury%3F%29%2C_by_W._C._Thompson_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_mill_stream_(in_Amesbury%3F),_by_W._C._Thompson_2.jpg",
+  "license": "Public domain",
+  "w": 6469,
+  "h": 3215,
+  "id": "STA-3221",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3220.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 0.59,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.6892,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/View_of_a_mill_stream_%28in_Amesbury%3F%29%2C_by_W._C._Thompson_2.jpg/1920px-View_of_a_mill_stream_%28in_Amesbury%3F%29%2C_by_W._C._Thompson_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.6892,
+   "L": [
+    0.249479,
+    0.0,
+    0.166927,
+    0.0,
+    0.728512,
+    0.112683
+   ],
+   "R": [
+    0.246724,
+    0.003094,
+    0.55055,
+    -0.007497,
+    0.722202,
+    0.11479
+   ],
+   "g": [
+    0.9592,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.59% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "W. C. Thompson",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "The depot",
+  "place": "Amesbury, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/The_depot%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_depot%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/12/The_depot%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:The_depot,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 6570,
+  "h": 3342,
+  "id": "STA-3222",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3221.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.01,
+  "range": 6.0,
+  "f": 0.47,
+  "depth": "Deep",
+  "va": 1.1468,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/The_depot%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_depot%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1468,
+   "L": [
+    0.325521,
+    0.0,
+    0.124219,
+    0.0,
+    0.55783,
+    0.411975
+   ],
+   "R": [
+    0.325417,
+    -0.019014,
+    0.557221,
+    -0.001616,
+    0.555631,
+    0.421576
+   ],
+   "g": [
+    1.0,
+    0.9843
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured deep (6.0% of frame width); hung in the VR Parlor at 47% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bartlett's block and High Street",
+  "place": "Amesbury, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bartlett%27s_block_and_High_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bartlett%27s_block_and_High_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bartlett%27s_block_and_High_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bartlett%27s_block_and_High_Street,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 6582,
+  "h": 3366,
+  "id": "STA-3223",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3222.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.18,
+  "rot": 0.02,
+  "range": 1.7,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.3881,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bartlett%27s_block_and_High_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bartlett%27s_block_and_High_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3881,
+   "L": [
+    0.365104,
+    0.0,
+    0.119531,
+    0.0,
+    0.514257,
+    0.459776
+   ],
+   "R": [
+    0.361768,
+    -0.004338,
+    0.54364,
+    -0.001766,
+    0.511595,
+    0.453546
+   ],
+   "g": [
+    0.9265,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.02° of rotation. Depth measured moderate (1.7% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Wharf at the Point, Salisbury, Mass",
+  "place": "Salisbury, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Wharf_at_the_Point%2C_Salisbury%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Wharf_at_the_Point%2C_Salisbury%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/91/Wharf_at_the_Point%2C_Salisbury%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Wharf_at_the_Point,_Salisbury,_Mass,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 6600,
+  "h": 3300,
+  "id": "STA-3224",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3223.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.0,
+  "range": 0.37,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.7871,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Wharf_at_the_Point%2C_Salisbury%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Wharf_at_the_Point%2C_Salisbury%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.7871,
+   "L": [
+    0.432812,
+    0.0,
+    0.050781,
+    0.0,
+    0.484375,
+    0.469271
+   ],
+   "R": [
+    0.422788,
+    0.002341,
+    0.50993,
+    -0.013564,
+    0.475429,
+    0.470772
+   ],
+   "g": [
+    0.9882,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.0° of rotation. Depth measured gentle (0.37% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of a mill stream (in Amesbury-) (NYPL b11707495-1529758)",
+  "place": "Amesbury, Massachusetts",
+  "year": "Undated",
+  "sy": 1900,
+  "era": "undated",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/View_of_a_mill_stream_%28in_Amesbury-%29_%28NYPL_b11707495-1529758%29.tiff/lossy-page1-1920px-View_of_a_mill_stream_%28in_Amesbury-%29_%28NYPL_b11707495-1529758%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/9b/View_of_a_mill_stream_%28in_Amesbury-%29_%28NYPL_b11707495-1529758%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_mill_stream_(in_Amesbury-)_(NYPL_b11707495-1529758).tiff",
+  "license": "Public domain",
+  "w": 7230,
+  "h": 5428,
+  "id": "STA-3225",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3224.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 0.68,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.5802,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/View_of_a_mill_stream_%28in_Amesbury-%29_%28NYPL_b11707495-1529758%29.tiff/lossy-page1-1920px-View_of_a_mill_stream_%28in_Amesbury-%29_%28NYPL_b11707495-1529758%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.5802,
+   "L": [
+    0.222396,
+    0.0,
+    0.203906,
+    0.0,
+    0.510756,
+    0.16551
+   ],
+   "R": [
+    0.219802,
+    0.003334,
+    0.547051,
+    -0.00439,
+    0.5062,
+    0.16406
+   ],
+   "g": [
+    0.9547,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (0.68% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "date_edtf": null,
+  "date_start": null,
+  "date_end": null,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of a mill stream (in Amesbury-) (NYPL b11707495-1529756)",
+  "place": "Amesbury, Massachusetts",
+  "year": "Undated",
+  "sy": 1900,
+  "era": "undated",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/View_of_a_mill_stream_%28in_Amesbury-%29_%28NYPL_b11707495-1529756%29.tiff/lossy-page1-1920px-View_of_a_mill_stream_%28in_Amesbury-%29_%28NYPL_b11707495-1529756%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c9/View_of_a_mill_stream_%28in_Amesbury-%29_%28NYPL_b11707495-1529756%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_mill_stream_(in_Amesbury-)_(NYPL_b11707495-1529756).tiff",
+  "license": "Public domain",
+  "w": 7230,
+  "h": 5428,
+  "id": "STA-3226",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3225.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 0.71,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8814,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/View_of_a_mill_stream_%28in_Amesbury-%29_%28NYPL_b11707495-1529756%29.tiff/lossy-page1-1920px-View_of_a_mill_stream_%28in_Amesbury-%29_%28NYPL_b11707495-1529756%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8814,
+   "L": [
+    0.352083,
+    0.0,
+    0.11901,
+    0.0,
+    0.532269,
+    0.130812
+   ],
+   "R": [
+    0.347833,
+    0.004594,
+    0.524524,
+    -0.007598,
+    0.527556,
+    0.142452
+   ],
+   "g": [
+    1.0,
+    0.9885
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured gentle (0.71% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "date_edtf": null,
+  "date_start": null,
+  "date_end": null,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]
