@@ -192958,65 +192958,6 @@
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  },
  {
-  "title": "General view of Denver from the Tower, by Chamberlain, W. G. (William Gunnison) 2",
-  "place": "Denver, Colorado",
-  "year": "1865",
-  "sy": 1865,
-  "era": "early",
-  "cats": [
-   "cities"
-  ],
-  "blurb": "",
-  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/General_view_of_Denver_from_the_Tower%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29_2.jpg/1920px-General_view_of_Denver_from_the_Tower%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d3/General_view_of_Denver_from_the_Tower%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-  "source": "https://commons.wikimedia.org/wiki/File:General_view_of_Denver_from_the_Tower,_by_Chamberlain,_W._G._(William_Gunnison)_2.jpg",
-  "license": "Public domain",
-  "w": 2737,
-  "h": 1570,
-  "id": "STA-3270",
-  "rect": "https://archive.org/download/stereogram-archive-images/rect/3269.jpg",
-  "coll": "Source unrecorded",
-  "vert": 0.12,
-  "rot": 0.0,
-  "range": 1.26,
-  "f": 1.0,
-  "depth": "Gentle",
-  "va": 1.0788,
-  "px": {
-   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/General_view_of_Denver_from_the_Tower%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29_2.jpg/1920px-General_view_of_Denver_from_the_Tower%2C_by_Chamberlain%2C_W._G._%28William_Gunnison%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "ar": 1.0788,
-   "L": [
-    0.392188,
-    0.0,
-    0.084115,
-    0.0,
-    0.633969,
-    0.326521
-   ],
-   "R": [
-    0.391493,
-    -0.001313,
-    0.507771,
-    0.001348,
-    0.632781,
-    0.332858
-   ],
-   "g": [
-    1.0,
-    0.9951
-   ]
-  },
-  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (1.26% of frame width); hung in the VR Parlor at full size.",
-  "repository": null,
-  "collection_name": null,
-  "publisher": null,
-  "creator": "Chamberlain, W. G. (William Gunnison)",
-  "date_edtf": "1865",
-  "date_start": 1865,
-  "date_end": 1865,
-  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
- },
- {
   "title": "Tough Cuss Pass, Colorado Central Railroad, between Denver & Black Hawk, Colorado",
   "place": "Black Hawk, Colorado",
   "year": "1867",

@@ -34,6 +34,27 @@ TMPDIR=~/workspace/.tmp ~/workspace/.venvs/cv/bin/python tools/batch_engine.py \
   same scan (typically a `.jpg`/`.png` double upload on Commons) and is
   moved to `skipped_duplicates` in the manifest with its correlation.
   Genuinely different negatives score well below 0.99 and are kept.
+- Correlation alone does NOT catch different scans of the same card:
+  a NYPL `.tiff` and its Commons `.jpg`/`.png` upload of the same
+  physical card, or two differently cropped uploads of one view, score
+  ~0.4–0.75 and both pass (wave16: 6 Hampton Beach tiff twins, 2
+  Amesbury mill-stream twins, 3 Tejon Street crops, 4 Harper's Ferry
+  No. 327 views, 3 No. 641 views). Before merging, screen the batch's
+  passed MASTER files pairwise with a feature matcher (ORB, 2000
+  features on ~1200 px-wide masters; ≥300 good matches is suspect —
+  screen on the masters, not the rects: rect crops vary per scan and
+  a rect-level screen misses real twins) and visually verify every
+  suspect pair, plus any same-title / same-numbered-caption group even
+  if the screen clears it: identical content in the same positions =
+  same view, drop the weaker scan (prefer the copy with the fuller
+  frame and richer source metadata, usually the `.jpg`/`.png`). Similar
+  scenes from the same spot (same street, same stream) are NOT
+  duplicates — only drop on identical image content. If a duplicate
+  pair is found after a merge, remove the redundant
+  `records/STA-####.json`, its `rect/` file, and its
+  preservation-store entry + fixity record, regenerate the catalog
+  outputs, validate 0 errors, and commit the removal as its own
+  fix-up commit before pushing.
 
 ## 3. Review
 
