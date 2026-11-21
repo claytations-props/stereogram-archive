@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7473699,
  "source_revision_id": null,
- "source_sha1": "ef079ab377164a0ab73ef28a6155e3c584e9fb1d"
+ "source_sha1": "ef079ab377164a0ab73ef28a6155e3c584e9fb1d",
+ "tags": [
+  "paddle steamer",
+  "river"
+ ]
 }
