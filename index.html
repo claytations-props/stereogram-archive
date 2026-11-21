@@ -924,9 +924,16 @@ $("#vFsExit").onclick=()=>setFs(false);
 /* Round 8: the viewer is a modal dialog, but Tab walked out of it
    into the background page. Tab now cycles within the viewer's own
    controls, checked before the input early-return so the wiggle
-   slider tabs along with the rest of the viewer. */
-document.addEventListener("keydown",e=>{if(!$("#viewer").classList.contains("open"))return;if(e.key==="Tab"){const els=[...$("#viewer").querySelectorAll("button, a[href], input, [tabindex]")].filter(el=>!el.disabled&&(typeof el.checkVisibility!=="function"||el.checkVisibility()));if(!els.length)return;const first=els[0],last=els[els.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus()}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus()}return;}if(e.target.closest&&e.target.closest("input,select,textarea"))return;if(e.key==="Escape"){if($("#viewer").classList.contains("fs")){setFs(false);return;}closeViewer();}
+   slider tabs along with the rest of the viewer.
+   Round 17: Escape and F sat behind that early-return, so with focus
+   in the wiggle speed slider — the one input inside the viewer —
+   neither key did anything: Escape could not close the viewer and F
+   could not toggle full screen. They run before the guard now, like
+   Tab already did; the arrows, Home and End stay behind it, so the
+   slider keeps its own arrow keys. */
+document.addEventListener("keydown",e=>{if(!$("#viewer").classList.contains("open"))return;if(e.key==="Tab"){const els=[...$("#viewer").querySelectorAll("button, a[href], input, [tabindex]")].filter(el=>!el.disabled&&(typeof el.checkVisibility!=="function"||el.checkVisibility()));if(!els.length)return;const first=els[0],last=els[els.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus()}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus()}return;}if(e.key==="Escape"){if($("#viewer").classList.contains("fs")){setFs(false);return;}closeViewer();}
 if(e.key==="f"||e.key==="F")toggleFs();
+if(e.target.closest&&e.target.closest("input,select,textarea"))return;
 /* Round 10: the viewer already stepped one and ten cards; Home and End
    complete the set, jumping to the first and last result. */
 if(e.key==="Home"){e.preventDefault();vi=0;showCurrent(true);}
