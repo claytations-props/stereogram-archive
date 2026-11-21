@@ -1,0 +1,69 @@
+{
+ "title": "Grammar school, by W. Battelle",
+ "place": "Taunton, Massachusetts",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Grammar_school%2C_by_W._Battelle.jpg/1920px-Grammar_school%2C_by_W._Battelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Grammar_school%2C_by_W._Battelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Grammar_school,_by_W._Battelle.jpg",
+ "license": "Public domain",
+ "w": 2694,
+ "h": 1364,
+ "id": "STA-3425",
+ "rect": "rect/3424.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.13,
+ "rot": 0.02,
+ "range": 1.2,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.5955,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Grammar_school%2C_by_W._Battelle.jpg/1920px-Grammar_school%2C_by_W._Battelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.5955,
+  "L": [
+   0.365625,
+   0.0,
+   0.123698,
+   0.0,
+   0.452675,
+   0.49537
+  ],
+  "R": [
+   0.367963,
+   -0.008799,
+   0.52898,
+   -0.016312,
+   0.456837,
+   0.496143
+  ],
+  "g": [
+   1.0,
+   0.9761
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.02° of rotation. Depth measured gentle (1.2% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "W. Battelle",
+ "creator_dates": null,
+ "facets": [
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7448437,
+ "source_revision_id": null,
+ "source_sha1": "53f0ab2c13a7abf97e8542a20d3b2765ff1fda1b"
+}

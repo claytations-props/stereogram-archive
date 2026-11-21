@@ -1,0 +1,69 @@
+{
+ "title": "State Hospital, by W. Battelle",
+ "place": "Taunton, Massachusetts",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/State_Hospital%2C_by_W._Battelle.jpg/1920px-State_Hospital%2C_by_W._Battelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/4a/State_Hospital%2C_by_W._Battelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:State_Hospital,_by_W._Battelle.jpg",
+ "license": "Public domain",
+ "w": 2711,
+ "h": 1384,
+ "id": "STA-3422",
+ "rect": "rect/3421.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.13,
+ "rot": 0.0,
+ "range": 1.46,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0756,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/State_Hospital%2C_by_W._Battelle.jpg/1920px-State_Hospital%2C_by_W._Battelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0756,
+  "L": [
+   0.378125,
+   0.0,
+   0.101823,
+   0.0,
+   0.688776,
+   0.105612
+  ],
+  "R": [
+   0.377503,
+   -0.001949,
+   0.517434,
+   0.001779,
+   0.69057,
+   0.09201
+  ],
+  "g": [
+   0.9044,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.0° of rotation. Depth measured gentle (1.46% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "W. Battelle",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7448409,
+ "source_revision_id": null,
+ "source_sha1": "bf758601b7aa0af74848085921c880e989762f16"
+}

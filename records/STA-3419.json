@@ -1,0 +1,69 @@
+{
+ "title": "View of a house, by W. Battelle",
+ "place": "Taunton, Massachusetts",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/View_of_a_house%2C_by_W._Battelle.jpg/1920px-View_of_a_house%2C_by_W._Battelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/89/View_of_a_house%2C_by_W._Battelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_house,_by_W._Battelle.jpg",
+ "license": "Public domain",
+ "w": 2698,
+ "h": 1360,
+ "id": "STA-3419",
+ "rect": "rect/3418.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.16,
+ "rot": 0.01,
+ "range": 1.5,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.2797,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/View_of_a_house%2C_by_W._Battelle.jpg/1920px-View_of_a_house%2C_by_W._Battelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.2797,
+  "L": [
+   0.38125,
+   0.0,
+   0.104948,
+   0.0,
+   0.590909,
+   0.056302
+  ],
+  "R": [
+   0.386164,
+   -0.001426,
+   0.511984,
+   0.004383,
+   0.596887,
+   0.056219
+  ],
+  "g": [
+   0.9641,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.01° of rotation. Depth measured moderate (1.5% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "W. Battelle",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7448446,
+ "source_revision_id": null,
+ "source_sha1": "22034d229c528acacd7dc3f209a5e9daa6a43988"
+}

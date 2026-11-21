@@ -1,0 +1,69 @@
+{
+ "title": "Depot, by W. Battelle",
+ "place": "Taunton, Massachusetts",
+ "year": "1863",
+ "sy": 1863,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "Taunton Central station in Taunton, Massachusetts",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Depot%2C_by_W._Battelle.jpg/1920px-Depot%2C_by_W._Battelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/21/Depot%2C_by_W._Battelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Depot,_by_W._Battelle.jpg",
+ "license": "Public domain",
+ "w": 2701,
+ "h": 1384,
+ "id": "STA-3423",
+ "rect": "rect/3422.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.13,
+ "rot": 0.02,
+ "range": 1.53,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.7321,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Depot%2C_by_W._Battelle.jpg/1920px-Depot%2C_by_W._Battelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7321,
+  "L": [
+   0.324479,
+   0.0,
+   0.094531,
+   0.0,
+   0.864837,
+   0.07063
+  ],
+  "R": [
+   0.326063,
+   0.001333,
+   0.503922,
+   -0.001528,
+   0.866033,
+   0.066739
+  ],
+  "g": [
+   0.9905,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.02° of rotation. Depth measured moderate (1.53% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "W. Battelle",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1863",
+ "date_start": 1863,
+ "date_end": 1863,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7448432,
+ "source_revision_id": null,
+ "source_sha1": "864f61487b15c858f401be8fe7174cd6624fe182"
+}
