@@ -94,10 +94,20 @@ covered them).
 
 4. The flat Parlor keyboard matches the gallery viewer and its own
    double-arrow buttons: Shift+arrows jump ten cards while reading
-   (first/last wall page while browsing) and Home/End go to the
-   first/last card (first/last wall page while browsing). The
+   and Home/End go to the first/last card. While browsing,
+   Shift+arrows and Home/End jump to the first/last wall page — in
+   one press, after the follow-up below fixed the shared jump. The
    handler is named parlorKey so the harness can extract and test it;
    typing in the search box still steps nothing.
+5. The double-arrow wall jump now reaches the true first/last wall
+   page. The flat buttons, the in-room row, and the keyboard all
+   meant first/last page, but wallGo(±99) only added 99 pages, so
+   once the catalog passed 100 wall pages (144 now) one press from
+   page 1 stopped at page 100 and the last page took a second press.
+   A jump of 99 or more in either direction now goes to the end
+   outright; single-page steps are untouched. This is the follow-up
+   the live walk caught: the first verification run showed the
+   two-press behavior, and the fix landed as its own commit.
 
 ## Deliberately not changed
 
@@ -120,6 +130,11 @@ covered them).
 - The Parlor thumbstick still steps one card (or one wall page):
   only the keyboard gained the ten-card jump, matching the gallery
   viewer's Shift+arrows and the flat row's double arrows.
+- The Parlor's skip-on-failure behavior is unchanged: a card whose
+  image cannot load is skipped to the next one, which wraps to card
+  1 from the last card. That is what the live walk saw when End
+  targeted STA-3439 (see the verification note below) — pre-existing
+  behavior, not something this round introduced.
 
 ## Verification
 
@@ -165,20 +180,63 @@ executed against stubbed state (harness at
 ~/workspace/goals/stereograph-archive/hidden_files/ui-round17-parlor-check.mjs,
 which supersedes the round-15 Parlor harness):
 
-- 105 checks, 0 failures: the round-11 search scenarios all still
-  hold, the round-10 save scenarios all still hold through
-  rebuildSets, the round-12 Recent Accessions set still holds, the
-  round-14 status refresh holds, the round-15 Enter VR wording and
-  crumb checks hold, and the round-17 keyboard checks hold:
-  reading ArrowRight/ArrowLeft step one card, Shift+arrows jump ten
-  (navShow curPos±10), Home/End go to the first/last card, browse
-  arrows page the wall one page, Shift+arrows jump to the first/last
-  wall page, Home/End do the same, browse Escape returns to the
-  card, and typing in an input steps nothing; the handler is the
-  named parlorKey wired by addEventListener. The vr.html module
-  script passes node --check.
+- 105 checks, 0 failures, plus 7 more for the wallGo follow-up:
+  the round-11 search scenarios all still hold, the round-10 save
+  scenarios all still hold through rebuildSets, the round-12 Recent
+  Accessions set still holds, the round-14 status refresh holds, the
+  round-15 Enter VR wording and crumb checks hold, and the round-17
+  keyboard checks hold: reading ArrowRight/ArrowLeft step one card,
+  Shift+arrows jump ten (navShow curPos±10), Home/End go to the
+  first/last card, browse arrows page the wall one page, Shift+arrows
+  jump to the first/last wall page, Home/End do the same, browse
+  Escape returns to the card, and typing in an input steps nothing;
+  the handler is the named parlorKey wired by addEventListener; and
+  the wallGo checks hold: a jump forward from page 1 of a 144-page
+  set reaches page 144, a jump at the last page renders nothing, a
+  jump back reaches page 1, single steps still page one wall, and a
+  jump on a one-page set stays put. The vr.html module script passes
+  node --check.
 
-Live verification: (to be filled after push)
+Live verification: after push, curl confirmed the new code served
+(index.html carries the keyboard hint and no Recent Accessions
+section; vr.html carries parlorKey and the wallGo fix; browse.json
+serves 3,434 items with STA-3439 newest; both pages 200). The first
+curl right after the push still showed the old deploy — GitHub Pages
+needed a few minutes, as in round 15 — and a re-check after a pause
+showed the new code. A live browser walk (02:56–02:58 CST) then
+confirmed three of the four changes and caught a deviation in the
+fourth: the count line reads "Showing 3434 of 3434 items" with
+"Holdings · 3434 items · 9 collections"; the Recent Accessions shelf
+is gone (no occurrence on the page) while Featured still shows its
+twelve cards; the grid opens on STA-3439; the viewer hint line reads
+"Arrow keys step · Shift + Arrow jumps 10 · Home / End first / last
+· F full screen · Esc close" under the mode buttons; Escape on the
+wiggle slider closes the viewer, F on the slider toggles full screen
+both ways, and ArrowRight on the slider moves only the slider (170 →
+340 on the click, then 310 → 320 on the arrow); in the Parlor,
+Shift+ArrowRight in reading jumped Card 1 to Card 11 and Home
+returned to Card 1, but End did not reach the last card — it showed
+"That card failed to load, skipping…" and fell back to Card 1 — and
+Shift+ArrowRight while browsing landed on wall page 100 of 144, not
+the last page. The End deviation is not a defect in this round: the
+last card is STA-3439, whose rectified pair was not serving from the
+Archive yet — the wave17 rect upload finished at 09:00 with 61
+uploaded and 0 failed, and the Archive's known indexing lag (10–15
+minutes) means rect/3438.jpg still 404s; End targets the last card
+correctly and will land on it once the rect serves, and the gallery
+viewer shows the same "rectified pair could not be loaded" message
+for STA-3439 in Wiggle mode. The browse-jump deviation was a real
+latent defect in the shared wallGo (change 5 above): the double-arrow
+buttons, the in-room row, and the keyboard all meant first/last
+page, but wallGo(±99) only added 99 pages. A first re-check of the
+fix (03:01–03:02 CST) still showed the 99-page jump because it ran
+before the deploy landed; a second re-check (03:02–03:03 CST) on the
+confirmed new copy verified it: one Shift+ArrowRight from page 1
+reached "Wall page 144 of 144", one Shift+ArrowLeft returned to page
+1, and one click on the "»" button reached page 144. No console
+errors were observed on either page in any walk (no console panel is
+exposed in the walk browser, so this is "none observed in the page
+views" rather than a console-log dump).
 
 What only a headset can judge: whether the in-room control row still
 reads clearly in VR now that it shows only inside a session, and
@@ -191,6 +249,7 @@ length (held from round 10). Those are Clay's call in the headset.
 2. `e5987490` — Viewer: keyboard shortcut hint line under the mode hint
 3. `81da8f99` — Gallery: remove the Recent Accessions shelf, it duplicates the grid
 4. `3c6f19f5` — Parlor: keyboard Shift+arrows jump ten, Home/End first/last
+5. `d86ff4bc` — Parlor: wall jump of 99 or more goes to the true last page
 
 ## Veto list
 
@@ -204,7 +263,11 @@ length (held from round 10). Those are Clay's call in the headset.
 3. Recent Accessions shelf: the shelf above the grid is gone,
    instead of showing the same ten newest cards the grid opens with.
 4. Parlor keyboard: Shift+arrows now jump ten cards while reading
-   (first/last wall page while browsing) and Home/End go to the
-   first/last card (first/last wall page while browsing), instead of
-   Shift+arrows moving one card or one wall page and Home/End doing
-   nothing.
+   and Home/End go to the first/last card, instead of Shift+arrows
+   moving one card and Home/End doing nothing; while browsing,
+   Shift+arrows and Home/End jump to the first/last wall page in one
+   press, instead of moving one wall page.
+5. Parlor wall jump: the double-arrow buttons (flat and in-room) now
+   go to the true first/last wall page in one press, instead of
+   jumping 99 pages and stopping short of the last page once the
+   catalog passed 100 wall pages.
