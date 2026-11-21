@@ -1,0 +1,69 @@
+{
+ "title": "Pawtucket Bridge (NYPL b11707521-G90F246 010F)",
+ "place": "Pawtucket, Rhode Island",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Pawtucket_Bridge_%28NYPL_b11707521-G90F246_010F%29.tiff/lossy-page1-1920px-Pawtucket_Bridge_%28NYPL_b11707521-G90F246_010F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/19/Pawtucket_Bridge_%28NYPL_b11707521-G90F246_010F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Pawtucket_Bridge_(NYPL_b11707521-G90F246_010F).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 1665,
+ "id": "STA-3366",
+ "rect": "rect/3365.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.12,
+ "rot": 0.0,
+ "range": 0.48,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.3776,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Pawtucket_Bridge_%28NYPL_b11707521-G90F246_010F%29.tiff/lossy-page1-1920px-Pawtucket_Bridge_%28NYPL_b11707521-G90F246_010F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.3776,
+  "L": [
+   0.28125,
+   0.0,
+   0.194531,
+   0.0,
+   0.376561,
+   0.568204
+  ],
+  "R": [
+   0.271744,
+   -0.004709,
+   0.526836,
+   0.005477,
+   0.363513,
+   0.560566
+  ],
+  "g": [
+   0.9601,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (0.48% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 49597504,
+ "source_revision_id": null,
+ "source_sha1": "c5d334e04af892caa8f4870e0a4838a6b8a87b10"
+}

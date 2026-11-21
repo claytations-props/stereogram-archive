@@ -1,0 +1,69 @@
+{
+ "title": "Masonic Hall, Pawtucket, R.I",
+ "place": "Pawtucket, Rhode Island",
+ "year": "1869",
+ "sy": 1869,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Masonic_Hall%2C_Pawtucket%2C_R.I%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Masonic_Hall%2C_Pawtucket%2C_R.I%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Masonic_Hall%2C_Pawtucket%2C_R.I%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Masonic_Hall,_Pawtucket,_R.I,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1406,
+ "id": "STA-3355",
+ "rect": "rect/3354.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.09,
+ "rot": 0.02,
+ "range": 2.36,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.8241,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Masonic_Hall%2C_Pawtucket%2C_R.I%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Masonic_Hall%2C_Pawtucket%2C_R.I%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8241,
+  "L": [
+   0.378125,
+   0.0,
+   0.104948,
+   0.0,
+   0.893509,
+   0.053245
+  ],
+  "R": [
+   0.374859,
+   -0.001666,
+   0.530793,
+   0.002709,
+   0.890144,
+   0.053884
+  ],
+  "g": [
+   1.0,
+   0.9465
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.02° of rotation. Depth measured deep (2.36% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1869",
+ "date_start": 1869,
+ "date_end": 1869,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10080110,
+ "source_revision_id": null,
+ "source_sha1": "cc55b4b9426ada8417c3e68a399ddd75d7dc8b35"
+}
