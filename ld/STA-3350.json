@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3350.json",
+ "name": "Interior view of the Baptist chapel showing seats and pews and the organ above the altar",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3349.jpg",
+ "identifier": "STA-3350",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "North Adams, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Interior_view_of_the_Baptist_chapel_showing_seats_and_pews_and_the_organ_above_the_altar,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

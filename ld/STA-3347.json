@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3347.json",
+ "name": "Prof. Mowbray's nitro-glycerine works at the west shaft, North Adams, Mass, by R. J. Russell",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3346.jpg",
+ "identifier": "STA-3347",
+ "creator": {
+  "@type": "Person",
+  "name": "R. J. Russell"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "North Adams, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Prof._Mowbray%27s_nitro-glycerine_works_at_the_west_shaft,_North_Adams,_Mass,_by_R._J._Russell.jpg"
+}

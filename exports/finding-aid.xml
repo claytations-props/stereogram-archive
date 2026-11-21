@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3329</quantity>
+    <quantity>3346</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5364,6 +5364,22 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3318.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3343">
+     <did>
+      <unitid>STA-3343</unitid>
+      <unittitle>North Adams from Witt's Ledge, by Ward H. D.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3342.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3348">
+     <did>
+      <unitid>STA-3348</unitid>
+      <unittitle>View of a stone arch bridge</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3347.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -7583,6 +7599,22 @@
       <unittitle>Jefferson Rock, Harper's Ferry</unittitle>
       <unitdate normal="1859">1859</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3302.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3336">
+     <did>
+      <unitid>STA-3336</unitid>
+      <unittitle>Marble quarry, North Adams</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3335.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3344">
+     <did>
+      <unitid>STA-3344</unitid>
+      <unittitle>Hoosac Mountain from North Adams, Mass, by Kilburn, B. W. (Benjamin West), 1827-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3343.jpg"/>
      </did>
     </c>
    </c>
@@ -20870,6 +20902,102 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3333.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3335">
+     <did>
+      <unitid>STA-3335</unitid>
+      <unittitle>General view of North Adams</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3334.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3337">
+     <did>
+      <unitid>STA-3337</unitid>
+      <unittitle>North Adams from Robinson Hill</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3336.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3338">
+     <did>
+      <unitid>STA-3338</unitid>
+      <unittitle>General view of North Adams, by Ward H. D.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3337.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3339">
+     <did>
+      <unitid>STA-3339</unitid>
+      <unittitle>General view of North Adams, by Hurd &amp; Smith's Excelsior Gallery</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3338.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3340">
+     <did>
+      <unitid>STA-3340</unitid>
+      <unittitle>State Street, Chicago, Ill. (North from Adams)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3339.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3341">
+     <did>
+      <unitid>STA-3341</unitid>
+      <unittitle>North Adams from Witts Ledge, by Ward H. D.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3340.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3342">
+     <did>
+      <unitid>STA-3342</unitid>
+      <unittitle>North Adams, Mass, by Kilburn, B. W. (Benjamin West), 1827-1909</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3341.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3345">
+     <did>
+      <unitid>STA-3345</unitid>
+      <unittitle>View of a church, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3344.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3346">
+     <did>
+      <unitid>STA-3346</unitid>
+      <unittitle>View of a bridge</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3345.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3349">
+     <did>
+      <unitid>STA-3349</unitid>
+      <unittitle>Circuit Avenue, north side, by Adams, S. F., 1844-1876</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3348.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3350">
+     <did>
+      <unitid>STA-3350</unitid>
+      <unittitle>Interior view of the Baptist chapel showing seats and pews and the organ above the altar</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3349.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3351">
+     <did>
+      <unitid>STA-3351</unitid>
+      <unittitle>Unidentified factory(?)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3350.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -26688,6 +26816,14 @@
       <unittitle>Interior view, by H. S. Mather</unittitle>
       <unitdate normal="1868">1868</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3210.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3347">
+     <did>
+      <unitid>STA-3347</unitid>
+      <unittitle>Prof. Mowbray's nitro-glycerine works at the west shaft, North Adams, Mass, by R. J. Russell</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3346.jpg"/>
      </did>
     </c>
    </c>

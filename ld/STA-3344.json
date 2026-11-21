@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3344.json",
+ "name": "Hoosac Mountain from North Adams, Mass, by Kilburn, B. W. (Benjamin West), 1827-1909",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3343.jpg",
+ "identifier": "STA-3344",
+ "creator": {
+  "@type": "Person",
+  "name": "Kilburn, B. W. (Benjamin West)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "North Adams, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Hoosac_Mountain_from_North_Adams,_Mass,_by_Kilburn,_B._W._(Benjamin_West),_1827-1909.jpg"
+}

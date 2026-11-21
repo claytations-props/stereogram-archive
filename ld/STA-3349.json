@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3349.json",
+ "name": "Circuit Avenue, north side, by Adams, S. F., 1844-1876",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3348.jpg",
+ "identifier": "STA-3349",
+ "creator": {
+  "@type": "Person",
+  "name": "Adams, S. F."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Circuit_Avenue,_north_side,_by_Adams,_S._F.,_1844-1876.jpg"
+}
