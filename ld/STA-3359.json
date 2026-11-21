@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3359.json",
+ "name": "A Glance upon Pawtucket River, from Swan Point Cemetery",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3358.jpg",
+ "identifier": "STA-3359",
+ "dateCreated": "1869",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pawtucket, Rhode Island"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:A_Glance_upon_Pawtucket_River,_from_Swan_Point_Cemetery,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

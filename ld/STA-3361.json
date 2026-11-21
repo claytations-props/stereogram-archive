@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3361.json",
+ "name": "AERIAL VIEW LOOKING NORTHWEST, STEREOSCOPIC VIEW. c. 1869. CREDIT SMHS. - Slater Mill, Pawtucket, Providence County, RI HAER RI,4-PAWT,3-50",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3360.jpg",
+ "identifier": "STA-3361",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pawtucket, Rhode Island"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:AERIAL_VIEW_LOOKING_NORTHWEST,_STEREOSCOPIC_VIEW._c._1869._CREDIT_SMHS._-_Slater_Mill,_Pawtucket,_Providence_County,_RI_HAER_RI,4-PAWT,3-50.tif"
+}

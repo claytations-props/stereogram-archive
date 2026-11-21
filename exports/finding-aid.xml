@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3346</quantity>
+    <quantity>3361</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5378,6 +5378,30 @@
       <unittitle>View of a stone arch bridge</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3347.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3358">
+     <did>
+      <unitid>STA-3358</unitid>
+      <unittitle>The Old Wood Bridge - Central Falls, Pawtucket, R.I</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3357.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3359">
+     <did>
+      <unitid>STA-3359</unitid>
+      <unittitle>A Glance upon Pawtucket River, from Swan Point Cemetery</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3358.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3362">
+     <did>
+      <unitid>STA-3362</unitid>
+      <unittitle>(View from) Exchange St. Bridge</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3361.jpg"/>
      </did>
     </c>
    </c>
@@ -20998,6 +21022,94 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3350.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3352">
+     <did>
+      <unitid>STA-3352</unitid>
+      <unittitle>Pawtucket Bridge, R.I</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3351.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3353">
+     <did>
+      <unitid>STA-3353</unitid>
+      <unittitle>General view of Pawtucket, Rhode Island</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3352.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3354">
+     <did>
+      <unitid>STA-3354</unitid>
+      <unittitle>Trinity Church, Pawtucket, R.I</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3353.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3355">
+     <did>
+      <unitid>STA-3355</unitid>
+      <unittitle>Masonic Hall, Pawtucket, R.I</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3354.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3356">
+     <did>
+      <unitid>STA-3356</unitid>
+      <unittitle>Village of Pawtucket, R.I</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3355.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3357">
+     <did>
+      <unitid>STA-3357</unitid>
+      <unittitle>Railroad Depot, Pawtucket, R.I</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3356.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3360">
+     <did>
+      <unitid>STA-3360</unitid>
+      <unittitle>Bridge at Pawtucket Road, R.I, by Windsor's Photographic House</unittitle>
+      <unitdate normal="1870/1880">c. 1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3359.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3361">
+     <did>
+      <unitid>STA-3361</unitid>
+      <unittitle>AERIAL VIEW LOOKING NORTHWEST, STEREOSCOPIC VIEW. c. 1869. CREDIT SMHS. - Slater Mill, Pawtucket, Providence County, RI HAER RI,4-PAWT,3-50</unittitle>
+      <unitdate normal="1864/1874">c. 1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3360.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3363">
+     <did>
+      <unitid>STA-3363</unitid>
+      <unittitle>(View from) Division St. Bridge</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3362.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3365">
+     <did>
+      <unitid>STA-3365</unitid>
+      <unittitle>Rhode Island Malleable Iron Works</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3364.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3366">
+     <did>
+      <unitid>STA-3366</unitid>
+      <unittitle>Pawtucket Bridge (NYPL b11707521-G90F246 010F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3365.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -26824,6 +26936,14 @@
       <unittitle>Prof. Mowbray's nitro-glycerine works at the west shaft, North Adams, Mass, by R. J. Russell</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3346.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3364">
+     <did>
+      <unitid>STA-3364</unitid>
+      <unittitle>Improved Turning Lathe</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3363.jpg"/>
      </did>
     </c>
    </c>

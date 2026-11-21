@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3363.json",
+ "name": "(View from) Division St. Bridge",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3362.jpg",
+ "identifier": "STA-3363",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pawtucket, Rhode Island"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:(View_from)_Division_St._Bridge,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

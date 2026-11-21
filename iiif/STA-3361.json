@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-3361.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "AERIAL VIEW LOOKING NORTHWEST, STEREOSCOPIC VIEW. c. 1869. CREDIT SMHS. - Slater Mill, Pawtucket, Providence County, RI HAER RI,4-PAWT,3-50"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1869"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Pawtucket, Rhode Island"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-3361.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-3361/canvas/1",
+   "type": "Canvas",
+   "width": 1176,
+   "height": 498,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-3361/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-3361/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/3360.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1176,
+        "height": 498,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/AERIAL_VIEW_LOOKING_NORTHWEST%2C_STEREOSCOPIC_VIEW._c._1869._CREDIT_SMHS._-_Slater_Mill%2C_Pawtucket%2C_Providence_County%2C_RI_HAER_RI%2C4-PAWT%2C3-50.tif/lossy-page1-1920px-AERIAL_VIEW_LOOKING_NORTHWEST%2C_STEREOSCOPIC_VIEW._c._1869._CREDIT_SMHS._-_Slater_Mill%2C_Pawtucket%2C_Providence_County%2C_RI_HAER_RI%2C4-PAWT%2C3-50.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-3361/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

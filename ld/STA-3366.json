@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3366.json",
+ "name": "Pawtucket Bridge (NYPL b11707521-G90F246 010F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3365.jpg",
+ "identifier": "STA-3366",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pawtucket, Rhode Island"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Pawtucket_Bridge_(NYPL_b11707521-G90F246_010F).tiff"
+}

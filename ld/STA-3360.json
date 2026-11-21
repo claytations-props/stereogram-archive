@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3360.json",
+ "name": "Bridge at Pawtucket Road, R.I, by Windsor's Photographic House",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3359.jpg",
+ "identifier": "STA-3360",
+ "creator": {
+  "@type": "Person",
+  "name": "Windsor's Photographic House"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pawtucket, Rhode Island"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bridge_at_Pawtucket_Road,_R.I,_by_Windsor%27s_Photographic_House.jpg"
+}

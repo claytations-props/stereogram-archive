@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3356.json",
+ "name": "Village of Pawtucket, R.I",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3355.jpg",
+ "identifier": "STA-3356",
+ "dateCreated": "1869",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pawtucket, Rhode Island"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Village_of_Pawtucket,_R.I,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}
