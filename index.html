@@ -323,7 +323,11 @@ canvas#ana.show{display:block}
   <p class="aidnote">Holdings are arranged by provenance (the collection each view came from) and by series (its subject). Choose a line in the finding aid to pull just those items.</p>
 </section>
 
-<section class="shelfwrap"><h2 class="shelfhead">Recent Accessions</h2><div class="shelfbox"><div class="shelf" id="shelf"></div><button class="navbtn" id="shelfPrev" aria-label="Scroll recent accessions back">‹</button><button class="navbtn" id="shelfNext" aria-label="Scroll recent accessions forward">›</button></div></section>
+<!-- Round 17: the Recent Accessions shelf is gone. Since round 16
+     the grid opens on the newest additions, so the shelf showed the
+     same ten cards the grid opens with, in the same order — confirmed
+     on the live site. The Featured shelf stays as the curated strip,
+     and the Parlor keeps its own Recent Accessions set. -->
 
 <main>
 <div class="count" id="count"></div>
@@ -413,15 +417,6 @@ function buildHero(){
  h.style.display='grid';
  document.getElementById('heroOpen').onclick=()=>openViewer(i,true);
 }
-function buildShelf(){
- const sh=document.getElementById('shelf');if(!sh)return;
- sh.innerHTML=DATA.slice(-10).reverse().map(d=>{const i=DATA.indexOf(d);return `<div class="sitem" data-i="${i}" tabindex="0" role="button"><img loading="lazy" decoding="async" src="${thumb(d,250)}" data-full="${d.img}" ${FB} alt="${d.title}"><div class="sid">${d.id}</div><div class="stt">${d.title}</div></div>`}).join('');
- /* Round 7: shelf tiles, Finding Aid rows, and register rows were
-    clickable but unreachable by keyboard, while grid cards already
-    took Enter/Space. They get the same keyboard behavior here. */
- sh.querySelectorAll('.sitem').forEach(el=>{el.onclick=()=>openViewer(+el.dataset.i,true);el.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();openViewer(+el.dataset.i,true)}}});
- syncShelfBtns("shelf","shelfPrev","shelfNext");
-}
 /* Featured collection: twelve of the best views in the archive,
    hand-picked for the shelf above the toolbar. This is site
    presentation, not catalog data — the list lives here, never in
@@ -455,7 +450,7 @@ function init(){
  DATA.forEach(d=>d._hay=SLIM?browseHay(d):(d.title+" "+d.place+" "+d.year+" "+(d.blurb||"")+" "+d.id+" "+d.coll+" "+d.cats.map(c=>CATLABEL[c]||c).join(" ")).toLowerCase());
  buildAid();
  document.getElementById('holdings').textContent='Holdings · '+DATA.length+' items · '+new Set(DATA.map(d=>d.coll)).size+' collections';
- buildHero();buildShelf();buildFeatured();render();
+ buildHero();buildFeatured();render();
  const h=(location.hash||'').replace('#','');
  if(h){const i=DATA.findIndex(d=>d.id===h);if(i>=0)openViewer(i,true);}
 }
@@ -724,13 +719,13 @@ $("#reshuffle").onclick=()=>{shuffleRank=null;render()};
    ways across were the thin scrollbar or a wheel gesture, and
    dragging a card did nothing. The edge buttons step it one tile at
    a time and read disabled at each end, like the Parlor's flat wall
-   buttons. One sync per shelf: Recent Accessions and Featured share
-   it. */
+   buttons. One sync per shelf; since round 17 the Featured shelf is
+   the only shelf left, after the Recent Accessions shelf was removed
+   for duplicating the grid. */
 function syncShelfBtns(shId,pId,nId){const sh=document.getElementById(shId);if(!sh)return;const p=document.getElementById(pId),n=document.getElementById(nId);if(!p||!n)return;p.disabled=sh.scrollLeft<=0;n.disabled=sh.scrollLeft+sh.clientWidth>=sh.scrollWidth-2;}
 function wireShelfBtns(shId,pId,nId){document.getElementById(pId).onclick=()=>{document.getElementById(shId).scrollBy({left:-170,behavior:"smooth"});};document.getElementById(nId).onclick=()=>{document.getElementById(shId).scrollBy({left:170,behavior:"smooth"});};document.getElementById(shId).addEventListener("scroll",()=>syncShelfBtns(shId,pId,nId));}
-wireShelfBtns("shelf","shelfPrev","shelfNext");
 wireShelfBtns("featShelf","featPrev","featNext");
-addEventListener("resize",()=>{syncShelfBtns("shelf","shelfPrev","shelfNext");syncShelfBtns("featShelf","featPrev","featNext");});
+addEventListener("resize",()=>{syncShelfBtns("featShelf","featPrev","featNext");});
 $("#howBtn").onclick=()=>{const h=$("#how");h.style.display=h.style.display==="none"?"block":"none";h.scrollIntoView({behavior:"smooth"})};
 $("#surprise").onclick=()=>{const list=filtered();if(!list.length)return;currentList=list;openViewer(Math.floor(Math.random()*list.length))};
 
