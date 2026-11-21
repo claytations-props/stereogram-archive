@@ -198627,5 +198627,713 @@
   "date_start": null,
   "date_end": null,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Alexander Hall at Princeton Theological Seminary",
+  "place": "Princeton, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Alexander_Hall_at_Princeton_Theological_Seminary_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Alexander_Hall_at_Princeton_Theological_Seminary_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Alexander_Hall_at_Princeton_Theological_Seminary_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Alexander_Hall_at_Princeton_Theological_Seminary_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2646,
+  "h": 1617,
+  "id": "STA-3367",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3366.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.01,
+  "range": 1.75,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.3814,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Alexander_Hall_at_Princeton_Theological_Seminary_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Alexander_Hall_at_Princeton_Theological_Seminary_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3814,
+   "L": [
+    0.379167,
+    0.0,
+    0.08776,
+    0.0,
+    0.449275,
+    0.459079
+   ],
+   "R": [
+    0.383864,
+    -0.018116,
+    0.528483,
+    0.005113,
+    0.455468,
+    0.448938
+   ],
+   "g": [
+    1.0,
+    0.8624
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured moderate (1.75% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Interior view of Chapel at Princeton College",
+  "place": "Princeton, New Jersey",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Interior_view_of_Chapel_at_Princeton_College%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Interior_view_of_Chapel_at_Princeton_College%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/83/Interior_view_of_Chapel_at_Princeton_College%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Interior_view_of_Chapel_at_Princeton_College,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2619,
+  "h": 1486,
+  "id": "STA-3368",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3367.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.04,
+  "range": 1.81,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.6995,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Interior_view_of_Chapel_at_Princeton_College%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Interior_view_of_Chapel_at_Princeton_College%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.6995,
+   "L": [
+    0.344271,
+    0.0,
+    0.07526,
+    0.0,
+    0.867769,
+    0.039945
+   ],
+   "R": [
+    0.344612,
+    -0.005463,
+    0.596596,
+    -0.003408,
+    0.866782,
+    0.02388
+   ],
+   "g": [
+    0.95,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.04° of rotation. Depth measured moderate (1.81% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Princeton College and vicinity",
+  "place": "Princeton, New Jersey",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/40/Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Princeton_College_and_vicinity,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2518,
+  "h": 1225,
+  "id": "STA-3369",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3368.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 0.99,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.051,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.051,
+   "L": [
+    0.397396,
+    0.0,
+    0.085677,
+    0.0,
+    0.777302,
+    0.021949
+   ],
+   "R": [
+    0.398903,
+    -0.005955,
+    0.533222,
+    0.014317,
+    0.78024,
+    0.015658
+   ],
+   "g": [
+    0.9711,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (0.99% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Brown Hall, Theological Seminary, Princeton",
+  "place": "Princeton, New Jersey",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Brown_Hall%2C_Theological_Seminary%2C_Princeton%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Brown_Hall%2C_Theological_Seminary%2C_Princeton%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/06/Brown_Hall%2C_Theological_Seminary%2C_Princeton%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Brown_Hall,_Theological_Seminary,_Princeton,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2623,
+  "h": 1486,
+  "id": "STA-3370",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3369.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.06,
+  "range": 3.79,
+  "f": 0.79,
+  "depth": "Deep",
+  "va": 1.067,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Brown_Hall%2C_Theological_Seminary%2C_Princeton%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Brown_Hall%2C_Theological_Seminary%2C_Princeton%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.067,
+   "L": [
+    0.390104,
+    0.0,
+    0.083073,
+    0.0,
+    0.645221,
+    0.328585
+   ],
+   "R": [
+    0.39288,
+    -0.003959,
+    0.511474,
+    -0.003973,
+    0.649968,
+    0.331597
+   ],
+   "g": [
+    1.0,
+    0.9177
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.06° of rotation. Depth measured deep (3.79% of frame width); hung in the VR Parlor at 79% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Princeton College and vicinity, from Robert N. Dennis collection of stereoscopic views 3",
+  "place": "Princeton, New Jersey",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.png/1920px-Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Princeton_College_and_vicinity,_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.png",
+  "license": "Public domain",
+  "w": 2543,
+  "h": 1268,
+  "id": "STA-3371",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3370.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 1.06,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.3309,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.png/1920px-Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3309,
+   "L": [
+    0.38125,
+    0.0,
+    0.09349,
+    0.0,
+    0.574713,
+    0.397597
+   ],
+   "R": [
+    0.384159,
+    -0.009915,
+    0.533597,
+    0.003647,
+    0.576269,
+    0.391095
+   ],
+   "g": [
+    1.0,
+    0.9732
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (1.06% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Princeton College and vicinity, from Robert N. Dennis collection of stereoscopic views 4",
+  "place": "Princeton, New Jersey",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.png/1920px-Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Princeton_College_and_vicinity,_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.png",
+  "license": "Public domain",
+  "w": 2522,
+  "h": 1239,
+  "id": "STA-3372",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3371.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.16,
+  "rot": 0.02,
+  "range": 1.92,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.1712,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.png/1920px-Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1712,
+   "L": [
+    0.423958,
+    0.0,
+    0.065885,
+    0.0,
+    0.73701,
+    0.21474
+   ],
+   "R": [
+    0.427718,
+    -0.002067,
+    0.510869,
+    0.009078,
+    0.740454,
+    0.200742
+   ],
+   "g": [
+    1.0,
+    0.983
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.02° of rotation. Depth measured moderate (1.92% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Princeton College and vicinity, from Robert N. Dennis collection of stereoscopic views 5",
+  "place": "Princeton, New Jersey",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg/1920px-Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/87/Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Princeton_College_and_vicinity,_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg",
+  "license": "Public domain",
+  "w": 2535,
+  "h": 1231,
+  "id": "STA-3373",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3372.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.16,
+  "rot": 0.01,
+  "range": 2.11,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.9719,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg/1920px-Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9719,
+   "L": [
+    0.414062,
+    0.0,
+    0.067969,
+    0.0,
+    0.877682,
+    0.030579
+   ],
+   "R": [
+    0.407998,
+    -0.004219,
+    0.516045,
+    0.00936,
+    0.871641,
+    0.026531
+   ],
+   "g": [
+    1.0,
+    0.9379
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.01° of rotation. Depth measured moderate (2.11% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Princeton College and vicinity, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Princeton, New Jersey",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Princeton_College_and_vicinity,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2523,
+  "h": 1234,
+  "id": "STA-3374",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3373.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 1.46,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1315,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1315,
+   "L": [
+    0.407813,
+    0.0,
+    0.077865,
+    0.0,
+    0.736954,
+    0.018637
+   ],
+   "R": [
+    0.408793,
+    -0.012778,
+    0.527046,
+    0.009272,
+    0.737737,
+    0.019416
+   ],
+   "g": [
+    1.0,
+    0.9557
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (1.46% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Aaron Burr's Monument, College of New Jersey, Princeton",
+  "place": "Princeton, New Jersey",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Aaron_Burr%27s_Monument%2C_College_of_New_Jersey%2C_Princeton%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Aaron_Burr%27s_Monument%2C_College_of_New_Jersey%2C_Princeton%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Aaron_Burr%27s_Monument%2C_College_of_New_Jersey%2C_Princeton%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Aaron_Burr%27s_Monument,_College_of_New_Jersey,_Princeton,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2627,
+  "h": 1482,
+  "id": "STA-3375",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3374.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.08,
+  "range": 5.7,
+  "f": 0.61,
+  "depth": "Deep",
+  "va": 0.912,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Aaron_Burr%27s_Monument%2C_College_of_New_Jersey%2C_Princeton%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Aaron_Burr%27s_Monument%2C_College_of_New_Jersey%2C_Princeton%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.912,
+   "L": [
+    0.383333,
+    0.0,
+    0.099219,
+    0.0,
+    0.745152,
+    0.235919
+   ],
+   "R": [
+    0.387064,
+    -0.030062,
+    0.538111,
+    0.006067,
+    0.752889,
+    0.223196
+   ],
+   "g": [
+    0.915,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.08° of rotation. Depth measured deep (5.7% of frame width); hung in the VR Parlor at 61% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Making a Touchdown. Princeton Football Team, Champions of '93",
+  "place": "Princeton, New Jersey",
+  "year": "1893",
+  "sy": 1893,
+  "era": "late",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Making_a_Touchdown._Princeton_Football_Team%2C_Champions_of_%2793%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Making_a_Touchdown._Princeton_Football_Team%2C_Champions_of_%2793%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/14/Making_a_Touchdown._Princeton_Football_Team%2C_Champions_of_%2793%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Making_a_Touchdown._Princeton_Football_Team,_Champions_of_%2793,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2631,
+  "h": 1323,
+  "id": "STA-3376",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3375.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 2.0,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.2939,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Making_a_Touchdown._Princeton_Football_Team%2C_Champions_of_%2793%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Making_a_Touchdown._Princeton_Football_Team%2C_Champions_of_%2793%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2939,
+   "L": [
+    0.3875,
+    0.0,
+    0.104427,
+    0.0,
+    0.595855,
+    0.375648
+   ],
+   "R": [
+    0.389466,
+    -0.020335,
+    0.526676,
+    0.017091,
+    0.595902,
+    0.36164
+   ],
+   "g": [
+    0.9826,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured moderate (2.0% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1893",
+  "date_start": 1893,
+  "date_end": 1893,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Our beloved ex. President Grover Cleveland, with his family at home, Princeton, N.J",
+  "place": "Princeton, New Jersey",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Our_beloved_ex._President_Grover_Cleveland%2C_with_his_family_at_home%2C_Princeton%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Our_beloved_ex._President_Grover_Cleveland%2C_with_his_family_at_home%2C_Princeton%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Our_beloved_ex._President_Grover_Cleveland%2C_with_his_family_at_home%2C_Princeton%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Our_beloved_ex._President_Grover_Cleveland,_with_his_family_at_home,_Princeton,_N.J,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2642,
+  "h": 1340,
+  "id": "STA-3377",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3376.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.0,
+  "range": 2.75,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 1.0072,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Our_beloved_ex._President_Grover_Cleveland%2C_with_his_family_at_home%2C_Princeton%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Our_beloved_ex._President_Grover_Cleveland%2C_with_his_family_at_home%2C_Princeton%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0072,
+   "L": [
+    0.434375,
+    0.0,
+    0.041406,
+    0.0,
+    0.850103,
+    0.033368
+   ],
+   "R": [
+    0.435139,
+    0.000826,
+    0.505912,
+    -0.011692,
+    0.852579,
+    0.038247
+   ],
+   "g": [
+    0.9385,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured deep (2.75% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Men and women having a stroll",
+  "place": "Princeton, New Jersey",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Men_and_women_having_a_stroll%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Men_and_women_having_a_stroll%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/87/Men_and_women_having_a_stroll%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Men_and_women_having_a_stroll,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2535,
+  "h": 1231,
+  "id": "STA-3378",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3377.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.01,
+  "range": 1.03,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.6088,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Men_and_women_having_a_stroll%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Men_and_women_having_a_stroll%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.6088,
+   "L": [
+    0.439063,
+    0.0,
+    0.045573,
+    0.0,
+    0.562232,
+    0.416845
+   ],
+   "R": [
+    0.440317,
+    -0.008969,
+    0.524078,
+    0.004338,
+    0.56333,
+    0.409686
+   ],
+   "g": [
+    1.0,
+    0.9588
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured gentle (1.03% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]

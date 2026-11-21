@@ -1,0 +1,69 @@
+{
+ "title": "Princeton College and vicinity",
+ "place": "Princeton, New Jersey",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/40/Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Princeton_College_and_vicinity,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2518,
+ "h": 1225,
+ "id": "STA-3369",
+ "rect": "rect/3368.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.12,
+ "rot": 0.0,
+ "range": 0.99,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.051,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Princeton_College_and_vicinity%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.051,
+  "L": [
+   0.397396,
+   0.0,
+   0.085677,
+   0.0,
+   0.777302,
+   0.021949
+  ],
+  "R": [
+   0.398903,
+   -0.005955,
+   0.533222,
+   0.014317,
+   0.78024,
+   0.015658
+  ],
+  "g": [
+   0.9711,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (0.99% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10046572,
+ "source_revision_id": null,
+ "source_sha1": "6e94d0c1e0c3ca1b572aa4e2dda6678e08044b5d"
+}
