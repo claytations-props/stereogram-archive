@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3420</quantity>
+    <quantity>3434</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5466,6 +5466,38 @@
       <unittitle>View of road running along a body of water</unittitle>
       <unitdate normal="1863">1863</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3414.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3427">
+     <did>
+      <unitid>STA-3427</unitid>
+      <unittitle>View (of Ohio River) at Wheeling, (W.) Va</unittitle>
+      <unitdate normal="1858/1868">c. 1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3426.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3428">
+     <did>
+      <unitid>STA-3428</unitid>
+      <unittitle>High water at Wheeling, W. Va</unittitle>
+      <unitdate normal="1884">1884</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3427.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3431">
+     <did>
+      <unitid>STA-3431</unitid>
+      <unittitle>Looking down the Ohio, Wheeling, W. Va</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3430.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3434">
+     <did>
+      <unitid>STA-3434</unitid>
+      <unittitle>Ohio river steamers, Wheeling, West Virginia</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3433.jpg"/>
      </did>
     </c>
    </c>
@@ -21396,6 +21428,86 @@
       <unittitle>Baptist Church, by W. Battelle</unittitle>
       <unitdate normal="1863">1863</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3423.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3426">
+     <did>
+      <unitid>STA-3426</unitid>
+      <unittitle>View at Wheeling, W. Va</unittitle>
+      <unitdate normal="1858/1868">c. 1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3425.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3429">
+     <did>
+      <unitid>STA-3429</unitid>
+      <unittitle>View Water Street, from Union Street, Wheeling, W. Va</unittitle>
+      <unitdate normal="1858/1868">c. 1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3428.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3430">
+     <did>
+      <unitid>STA-3430</unitid>
+      <unittitle>Bridge over the Ohio, 1010 feet span, Wheeling, W. Va</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3429.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3432">
+     <did>
+      <unitid>STA-3432</unitid>
+      <unittitle>Up the Island, from Bridge, Wheeling, W. Va</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3431.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3433">
+     <did>
+      <unitid>STA-3433</unitid>
+      <unittitle>Government Post Office and Custom House, Wheeling, W. Va</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3432.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3435">
+     <did>
+      <unitid>STA-3435</unitid>
+      <unittitle>Grant House</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3434.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3436">
+     <did>
+      <unitid>STA-3436</unitid>
+      <unittitle>Mc Lure House</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3435.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3437">
+     <did>
+      <unitid>STA-3437</unitid>
+      <unittitle>St. Mathew's P.E. Church</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3436.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3438">
+     <did>
+      <unitid>STA-3438</unitid>
+      <unittitle>View of Main Street. Frazier's Business College, by Adams, J. M., fl. ca. 1880</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3437.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3439">
+     <did>
+      <unitid>STA-3439</unitid>
+      <unittitle>B.&amp;O.R.R. Bridge, over the Ohio, at Bellaire</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3438.jpg"/>
      </did>
     </c>
    </c>

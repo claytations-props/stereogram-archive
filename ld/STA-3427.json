@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3427.json",
+ "name": "View (of Ohio River) at Wheeling, (W.) Va",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3426.jpg",
+ "identifier": "STA-3427",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Wheeling, West Virginia"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_(of_Ohio_River)_at_Wheeling,_(W.)_Va,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}
