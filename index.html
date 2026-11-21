@@ -191,6 +191,12 @@ footer a{color:var(--brass)}
 .vcontext{color:var(--brass2);font-size:12px;letter-spacing:.06em;width:100%;font-variant-numeric:tabular-nums}
 .modes{display:flex;gap:8px;flex-wrap:wrap;padding:12px 18px 0;justify-content:center}
 .modehint{color:var(--dim);font-size:13px;line-height:1.45;text-align:center;padding:9px 18px 0}
+/* Round 17: the viewer has keyboard shortcuts no button names — the
+   arrows step, Shift+arrows jump ten, Home/End go to the ends, F
+   toggles full screen — and nothing on screen said so. One dim line
+   under the mode hint names them; it hides on phones with the mode
+   hint, where there is no keyboard to use them with. */
+.kbdhint{color:var(--dim);font-size:12.5px;line-height:1.45;text-align:center;padding:8px 18px 0}
 .mode{border:1px solid var(--line);background:var(--panel2);color:var(--dim);border-radius:3px;padding:9px 14px;font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;font-weight:600;cursor:pointer;text-decoration:none}
 .mode.on{background:var(--brass);color:var(--inkbtn);border-color:var(--brass)}
 .stage{display:flex;align-items:center;justify-content:center;padding:18px;min-height:56vh;position:relative}
@@ -261,6 +267,7 @@ canvas#ana.show{display:block}
  .modes::-webkit-scrollbar{display:none}
  .mode{flex:0 0 auto}
  .modehint{display:none}
+ .kbdhint{display:none}
  /* The viewer header was most of a phone screen tall before the
     picture started: a three-line title, three rows of buttons, two
     meta lines, and the mode row. On a phone it is thinner — smaller
@@ -366,6 +373,7 @@ All photographs are public domain or CC0, via Wikimedia Commons, from collection
     <a class="mode" href="https://blog.vrparlor.com/" target="_blank" rel="noopener">Research Notes</a>
   </div>
   <p class="modehint" id="vModeHint" role="status"></p>
+  <p class="kbdhint">Arrow keys step &middot; Shift + Arrow jumps 10 &middot; Home / End first / last &middot; F full screen &middot; Esc close</p>
   </div>
   <div class="stage" style="position:relative">
     <button class="navbtn" id="prevB" aria-label="Previous item">‹</button>
