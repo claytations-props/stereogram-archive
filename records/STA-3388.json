@@ -1,0 +1,69 @@
+{
+ "title": "Lebanon Valley R.R., near Reading",
+ "place": "Reading, Pennsylvania",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Lebanon_Valley_R.R.%2C_near_Reading%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Lebanon_Valley_R.R.%2C_near_Reading%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Lebanon_Valley_R.R.%2C_near_Reading%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Lebanon_Valley_R.R.,_near_Reading,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1428,
+ "id": "STA-3388",
+ "rect": "rect/3387.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.07,
+ "rot": 0.02,
+ "range": 1.35,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9883,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Lebanon_Valley_R.R.%2C_near_Reading%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Lebanon_Valley_R.R.%2C_near_Reading%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9883,
+  "L": [
+   0.395313,
+   0.0,
+   0.094531,
+   0.0,
+   0.766467,
+   0.100299
+  ],
+  "R": [
+   0.395669,
+   -0.007698,
+   0.537023,
+   0.002349,
+   0.765738,
+   0.099991
+  ],
+  "g": [
+   0.991,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.02° of rotation. Depth measured gentle (1.35% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7480070,
+ "source_revision_id": null,
+ "source_sha1": "3c23d9d93fc86a80e11567872c91e86e8ec31bf3"
+}

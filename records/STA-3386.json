@@ -1,0 +1,69 @@
+{
+ "title": "Reading Terminal Station, Philadelphia, Pa",
+ "place": "Philadelphia, Pennsylvania",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Reading_Terminal_Station%2C_Philadelphia%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Reading_Terminal_Station%2C_Philadelphia%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/65/Reading_Terminal_Station%2C_Philadelphia%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Reading_Terminal_Station,_Philadelphia,_Pa,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2710,
+ "h": 1724,
+ "id": "STA-3386",
+ "rect": "rect/3385.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.08,
+ "rot": 0.02,
+ "range": 0.87,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8282,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Reading_Terminal_Station%2C_Philadelphia%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Reading_Terminal_Station%2C_Philadelphia%2C_Pa%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8282,
+  "L": [
+   0.391667,
+   0.0,
+   0.091406,
+   0.0,
+   0.743653,
+   0.202703
+  ],
+  "R": [
+   0.39403,
+   0.003337,
+   0.510375,
+   -0.001514,
+   0.743704,
+   0.185349
+  ],
+  "g": [
+   0.9874,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.02° of rotation. Depth measured gentle (0.87% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7486376,
+ "source_revision_id": null,
+ "source_sha1": "1e33c0b9fb44e53d8ae85d3a173c6cecb30c8dda"
+}

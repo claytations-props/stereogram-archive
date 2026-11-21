@@ -1,0 +1,69 @@
+{
+ "title": "Mineral Springs",
+ "place": "Reading, Pennsylvania",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Mineral_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Mineral_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Mineral_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Mineral_Springs,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2701,
+ "h": 1353,
+ "id": "STA-3395",
+ "rect": "rect/3394.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.07,
+ "rot": 0.01,
+ "range": 1.92,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.859,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Mineral_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Mineral_Springs%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.859,
+  "L": [
+   0.374479,
+   0.0,
+   0.096615,
+   0.0,
+   0.870062,
+   0.043139
+  ],
+  "R": [
+   0.376111,
+   -0.012413,
+   0.51835,
+   0.003926,
+   0.879207,
+   0.033875
+  ],
+  "g": [
+   1.0,
+   0.9483
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured moderate (1.92% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7484229,
+ "source_revision_id": null,
+ "source_sha1": "efc1e34516d17d7d474f2d262948c8d4ab0f1e48"
+}

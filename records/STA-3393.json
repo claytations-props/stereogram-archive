@@ -1,0 +1,69 @@
+{
+ "title": "Flying Hill",
+ "place": "Reading, Pennsylvania",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Flying_Hill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Flying_Hill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/24/Flying_Hill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Flying_Hill,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2708,
+ "h": 1345,
+ "id": "STA-3393",
+ "rect": "rect/3392.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.07,
+ "rot": 0.02,
+ "range": 1.49,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.6033,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Flying_Hill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Flying_Hill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.6033,
+  "L": [
+   0.282813,
+   0.0,
+   0.182031,
+   0.0,
+   0.943396,
+   0.041405
+  ],
+  "R": [
+   0.275649,
+   -0.009689,
+   0.60886,
+   -0.002536,
+   0.94912,
+   0.030539
+  ],
+  "g": [
+   1.0,
+   0.8864
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.02° of rotation. Depth measured gentle (1.49% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7484260,
+ "source_revision_id": null,
+ "source_sha1": "af5f32a9ebf11155026871521e568a4cad06f955"
+}
