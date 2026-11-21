@@ -245156,5 +245156,1178 @@
    "beach",
    "house"
   ]
+ },
+ {
+  "title": "General view of North Adams",
+  "place": "North Adams, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/General_view_of_North_Adams%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-General_view_of_North_Adams%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/46/General_view_of_North_Adams%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:General_view_of_North_Adams,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1405,
+  "id": "STA-3335",
+  "rect": "rect/3334.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.26,
+  "rot": 0.01,
+  "range": 0.51,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.8462,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/General_view_of_North_Adams%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-General_view_of_North_Adams%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.8462,
+   "L": [
+    0.423958,
+    0.0,
+    0.064323,
+    0.0,
+    0.290061,
+    0.450811
+   ],
+   "R": [
+    0.421893,
+    -0.003297,
+    0.527312,
+    0.014113,
+    0.288164,
+    0.448176
+   ],
+   "g": [
+    1.0,
+    0.9007
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.26% vertical error and 0.01° of rotation. Depth measured gentle (0.51% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7446620,
+  "source_revision_id": null,
+  "source_sha1": "02d929279624c97ba8c09c9d6952e789be39385e"
+ },
+ {
+  "title": "Marble quarry, North Adams",
+  "place": "North Adams, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Marble_quarry%2C_North_Adams%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/12/Marble_quarry%2C_North_Adams%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Marble_quarry,_North_Adams,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 392,
+  "id": "STA-3336",
+  "rect": "rect/3335.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.18,
+  "rot": 0.0,
+  "range": 1.4,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7863,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/1/12/Marble_quarry%2C_North_Adams%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.7863,
+   "L": [
+    0.363158,
+    0.0,
+    0.125658,
+    0.0,
+    0.895408,
+    0.054847
+   ],
+   "R": [
+    0.352536,
+    0.002028,
+    0.522674,
+    -0.001012,
+    0.891045,
+    0.059874
+   ],
+   "g": [
+    1.0,
+    0.9637
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.0° of rotation. Depth measured gentle (1.4% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "mountains"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7442530,
+  "source_revision_id": null,
+  "source_sha1": "a398c63d7373fded7d7127922300c10417f146c0"
+ },
+ {
+  "title": "North Adams from Robinson Hill",
+  "place": "North Adams, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/North_Adams_from_Robinson_Hill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-North_Adams_from_Robinson_Hill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/65/North_Adams_from_Robinson_Hill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:North_Adams_from_Robinson_Hill,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1444,
+  "id": "STA-3337",
+  "rect": "rect/3336.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.18,
+  "rot": 0.02,
+  "range": 1.35,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.6081,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/North_Adams_from_Robinson_Hill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-North_Adams_from_Robinson_Hill%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.6081,
+   "L": [
+    0.371875,
+    0.0,
+    0.117969,
+    0.0,
+    0.438302,
+    0.44077
+   ],
+   "R": [
+    0.369024,
+    0.000126,
+    0.539692,
+    -0.003001,
+    0.436113,
+    0.442969
+   ],
+   "g": [
+    0.9279,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.02° of rotation. Depth measured gentle (1.35% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7446613,
+  "source_revision_id": null,
+  "source_sha1": "55f74831ef9ea0af30c27864ec82abfc5407ec74"
+ },
+ {
+  "title": "General view of North Adams, by Ward H. D.",
+  "place": "North Adams, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/General_view_of_North_Adams%2C_by_Ward_H._D..jpg/1920px-General_view_of_North_Adams%2C_by_Ward_H._D..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ee/General_view_of_North_Adams%2C_by_Ward_H._D..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:General_view_of_North_Adams,_by_Ward_H._D..jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1420,
+  "id": "STA-3338",
+  "rect": "rect/3337.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 0.59,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.6219,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/General_view_of_North_Adams%2C_by_Ward_H._D..jpg/1920px-General_view_of_North_Adams%2C_by_Ward_H._D..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.6219,
+   "L": [
+    0.446875,
+    0.0,
+    0.039844,
+    0.0,
+    0.531124,
+    0.415161
+   ],
+   "R": [
+    0.44357,
+    -0.01053,
+    0.517859,
+    0.019845,
+    0.528286,
+    0.395784
+   ],
+   "g": [
+    1.0,
+    0.9963
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured gentle (0.59% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Ward H. D.",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7446640,
+  "source_revision_id": null,
+  "source_sha1": "8cd2ec4cda6dbef48864756333cb03aeda7dc58b"
+ },
+ {
+  "title": "General view of North Adams, by Hurd & Smith's Excelsior Gallery",
+  "place": "North Adams, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/General_view_of_North_Adams%2C_by_Hurd_%26_Smith%27s_Excelsior_Gallery.jpg/1920px-General_view_of_North_Adams%2C_by_Hurd_%26_Smith%27s_Excelsior_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a0/General_view_of_North_Adams%2C_by_Hurd_%26_Smith%27s_Excelsior_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:General_view_of_North_Adams,_by_Hurd_%26_Smith%27s_Excelsior_Gallery.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1390,
+  "id": "STA-3339",
+  "rect": "rect/3338.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.03,
+  "range": 0.83,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2941,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/General_view_of_North_Adams%2C_by_Hurd_%26_Smith%27s_Excelsior_Gallery.jpg/1920px-General_view_of_North_Adams%2C_by_Hurd_%26_Smith%27s_Excelsior_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2941,
+   "L": [
+    0.389583,
+    0.0,
+    0.089323,
+    0.0,
+    0.592821,
+    0.350256
+   ],
+   "R": [
+    0.394738,
+    -0.009186,
+    0.525394,
+    0.005345,
+    0.601636,
+    0.344283
+   ],
+   "g": [
+    1.0,
+    0.9347
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.03° of rotation. Depth measured gentle (0.83% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Hurd & Smith's Excelsior Gallery",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7446604,
+  "source_revision_id": null,
+  "source_sha1": "3350c5fb147f09609621e917f4c558c486405c88"
+ },
+ {
+  "title": "State Street, Chicago, Ill. (North from Adams)",
+  "place": "Chicago, Illinois",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/State_Street%2C_Chicago%2C_Ill._%28North_from_Adams%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-State_Street%2C_Chicago%2C_Ill._%28North_from_Adams%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/21/State_Street%2C_Chicago%2C_Ill._%28North_from_Adams%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:State_Street,_Chicago,_Ill._(North_from_Adams),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1436,
+  "id": "STA-3340",
+  "rect": "rect/3339.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.01,
+  "range": 0.83,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8224,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/State_Street%2C_Chicago%2C_Ill._%28North_from_Adams%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-State_Street%2C_Chicago%2C_Ill._%28North_from_Adams%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8224,
+   "L": [
+    0.378646,
+    0.0,
+    0.10599,
+    0.0,
+    0.877855,
+    0.056107
+   ],
+   "R": [
+    0.374472,
+    -0.003817,
+    0.527678,
+    0.005305,
+    0.87675,
+    0.063708
+   ],
+   "g": [
+    1.0,
+    0.9801
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured gentle (0.83% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7289208,
+  "source_revision_id": null,
+  "source_sha1": "05e7c43f052ac4737083f7fd2c928b29ece00dae"
+ },
+ {
+  "title": "North Adams from Witts Ledge, by Ward H. D.",
+  "place": "North Adams, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/North_Adams_from_Witts_Ledge%2C_by_Ward_H._D..jpg/1920px-North_Adams_from_Witts_Ledge%2C_by_Ward_H._D..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/24/North_Adams_from_Witts_Ledge%2C_by_Ward_H._D..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:North_Adams_from_Witts_Ledge,_by_Ward_H._D..jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1431,
+  "id": "STA-3341",
+  "rect": "rect/3340.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 0.55,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.3777,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/North_Adams_from_Witts_Ledge%2C_by_Ward_H._D..jpg/1920px-North_Adams_from_Witts_Ledge%2C_by_Ward_H._D..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3777,
+   "L": [
+    0.457813,
+    0.0,
+    0.017969,
+    0.0,
+    0.635458,
+    0.320219
+   ],
+   "R": [
+    0.456112,
+    0.002595,
+    0.510745,
+    -0.009401,
+    0.631936,
+    0.319673
+   ],
+   "g": [
+    1.0,
+    0.9323
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured gentle (0.55% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Ward H. D.",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7446637,
+  "source_revision_id": null,
+  "source_sha1": "44452308baa7320b52a969d55a1870060eaaa376"
+ },
+ {
+  "title": "North Adams, Mass, by Kilburn, B. W. (Benjamin West), 1827-1909",
+  "place": "North Adams, Massachusetts",
+  "year": "Undated",
+  "sy": 1900,
+  "era": "undated",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/North_Adams%2C_Mass%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg/1920px-North_Adams%2C_Mass%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/57/North_Adams%2C_Mass%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:North_Adams,_Mass,_by_Kilburn,_B._W._(Benjamin_West),_1827-1909.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1722,
+  "id": "STA-3342",
+  "rect": "rect/3341.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.01,
+  "range": 1.1,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8508,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/North_Adams%2C_Mass%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg/1920px-North_Adams%2C_Mass%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8508,
+   "L": [
+    0.397917,
+    0.0,
+    0.083594,
+    0.0,
+    0.743377,
+    0.208195
+   ],
+   "R": [
+    0.397121,
+    -0.001999,
+    0.52633,
+    0.002238,
+    0.743331,
+    0.213758
+   ],
+   "g": [
+    1.0,
+    0.99
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured gentle (1.1% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn, B. W. (Benjamin West)",
+  "creator_dates": "1827-1909",
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": null,
+  "date_start": null,
+  "date_end": null,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7446674,
+  "source_revision_id": null,
+  "source_sha1": "e5a1176f7fcf146bed3343e7a80a2de81f73bdc4"
+ },
+ {
+  "title": "North Adams from Witt's Ledge, by Ward H. D.",
+  "place": "North Adams, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/North_Adams_from_Witt%27s_Ledge%2C_by_Ward_H._D..jpg/1920px-North_Adams_from_Witt%27s_Ledge%2C_by_Ward_H._D..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/cc/North_Adams_from_Witt%27s_Ledge%2C_by_Ward_H._D..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:North_Adams_from_Witt%27s_Ledge,_by_Ward_H._D..jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1423,
+  "id": "STA-3343",
+  "rect": "rect/3342.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 0.35,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.634,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/North_Adams_from_Witt%27s_Ledge%2C_by_Ward_H._D..jpg/1920px-North_Adams_from_Witt%27s_Ledge%2C_by_Ward_H._D..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.634,
+   "L": [
+    0.4,
+    0.0,
+    0.052865,
+    0.0,
+    0.470942,
+    0.336172
+   ],
+   "R": [
+    0.399606,
+    0.001305,
+    0.528134,
+    -0.006142,
+    0.468377,
+    0.346011
+   ],
+   "g": [
+    1.0,
+    0.9316
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (0.35% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Ward H. D.",
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7446631,
+  "source_revision_id": null,
+  "source_sha1": "6a21acaade70889b5747499a5e79114ecdeba1c7"
+ },
+ {
+  "title": "Hoosac Mountain from North Adams, Mass, by Kilburn, B. W. (Benjamin West), 1827-1909",
+  "place": "North Adams, Massachusetts",
+  "year": "Undated",
+  "sy": 1900,
+  "era": "undated",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Hoosac_Mountain_from_North_Adams%2C_Mass%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg/1920px-Hoosac_Mountain_from_North_Adams%2C_Mass%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Hoosac_Mountain_from_North_Adams%2C_Mass%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Hoosac_Mountain_from_North_Adams,_Mass,_by_Kilburn,_B._W._(Benjamin_West),_1827-1909.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1737,
+  "id": "STA-3344",
+  "rect": "rect/3343.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.0,
+  "range": 0.57,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0573,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Hoosac_Mountain_from_North_Adams%2C_Mass%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg/1920px-Hoosac_Mountain_from_North_Adams%2C_Mass%2C_by_Kilburn%2C_B._W._%28Benjamin_West%29%2C_1827-1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0573,
+   "L": [
+    0.403646,
+    0.0,
+    0.067448,
+    0.0,
+    0.601313,
+    0.349057
+   ],
+   "R": [
+    0.402569,
+    -0.005166,
+    0.511947,
+    0.007274,
+    0.603976,
+    0.341469
+   ],
+   "g": [
+    1.0,
+    0.9401
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (0.57% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn, B. W. (Benjamin West)",
+  "creator_dates": "1827-1909",
+  "facets": [
+   "mountains"
+  ],
+  "publisher_series": null,
+  "date_edtf": null,
+  "date_start": null,
+  "date_end": null,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7446681,
+  "source_revision_id": null,
+  "source_sha1": "1cef4d96f482f3619990efcfdc560a8fa51cb6a3"
+ },
+ {
+  "title": "View of a church, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "North Adams, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/View_of_a_church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-View_of_a_church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/40/View_of_a_church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_church,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1405,
+  "id": "STA-3345",
+  "rect": "rect/3344.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.2,
+  "rot": 0.02,
+  "range": 1.6,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.1914,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/View_of_a_church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-View_of_a_church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1914,
+   "L": [
+    0.359896,
+    0.0,
+    0.129948,
+    0.0,
+    0.588235,
+    0.364604
+   ],
+   "R": [
+    0.359394,
+    0.001054,
+    0.549582,
+    -0.001058,
+    0.589162,
+    0.352331
+   ],
+   "g": [
+    0.982,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.2% vertical error and 0.02° of rotation. Depth measured moderate (1.6% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7446564,
+  "source_revision_id": null,
+  "source_sha1": "c8f8139558b989963146e871a177d69f5a3eacae"
+ },
+ {
+  "title": "View of a bridge",
+  "place": "North Adams, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/View_of_a_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a9/View_of_a_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_bridge,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1448,
+  "id": "STA-3346",
+  "rect": "rect/3345.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.18,
+  "rot": 0.0,
+  "range": 1.24,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.4042,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/View_of_a_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.4042,
+   "L": [
+    0.381771,
+    0.0,
+    0.110156,
+    0.0,
+    0.51378,
+    0.379429
+   ],
+   "R": [
+    0.387157,
+    -0.014416,
+    0.519414,
+    0.005218,
+    0.523399,
+    0.384727
+   ],
+   "g": [
+    1.0,
+    0.995
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.0° of rotation. Depth measured gentle (1.24% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7446584,
+  "source_revision_id": null,
+  "source_sha1": "fb6f977b3b3ced30b74618bad7cb41e287de38aa"
+ },
+ {
+  "title": "Prof. Mowbray's nitro-glycerine works at the west shaft, North Adams, Mass, by R. J. Russell",
+  "place": "North Adams, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/7/76/Prof._Mowbray%27s_nitro-glycerine_works_at_the_west_shaft%2C_North_Adams%2C_Mass%2C_by_R._J._Russell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/76/Prof._Mowbray%27s_nitro-glycerine_works_at_the_west_shaft%2C_North_Adams%2C_Mass%2C_by_R._J._Russell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Prof._Mowbray%27s_nitro-glycerine_works_at_the_west_shaft,_North_Adams,_Mass,_by_R._J._Russell.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 400,
+  "id": "STA-3347",
+  "rect": "rect/3346.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.03,
+  "range": 1.01,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8739,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/7/76/Prof._Mowbray%27s_nitro-glycerine_works_at_the_west_shaft%2C_North_Adams%2C_Mass%2C_by_R._J._Russell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.8739,
+   "L": [
+    0.382895,
+    0.0,
+    0.095395,
+    0.0,
+    0.8325,
+    0.06125
+   ],
+   "R": [
+    0.382832,
+    0.009129,
+    0.520004,
+    -0.015332,
+    0.83839,
+    0.07788
+   ],
+   "g": [
+    1.0,
+    0.9932
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.03° of rotation. Depth measured gentle (1.01% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "R. J. Russell",
+  "creator_dates": null,
+  "facets": [
+   "oddities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7442670,
+  "source_revision_id": null,
+  "source_sha1": "f50ced99745a8b993c1e6b26c979287ef2697905"
+ },
+ {
+  "title": "View of a stone arch bridge",
+  "place": "North Adams, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/View_of_a_stone_arch_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_a_stone_arch_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/57/View_of_a_stone_arch_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_stone_arch_bridge,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1417,
+  "id": "STA-3348",
+  "rect": "rect/3347.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 0.73,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0288,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/View_of_a_stone_arch_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_a_stone_arch_bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0288,
+   "L": [
+    0.297396,
+    0.0,
+    0.126823,
+    0.0,
+    0.55835,
+    0.065895
+   ],
+   "R": [
+    0.305442,
+    0.000887,
+    0.568444,
+    -0.001335,
+    0.573174,
+    0.05289
+   ],
+   "g": [
+    0.9714,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (0.73% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7446575,
+  "source_revision_id": null,
+  "source_sha1": "80180399b7bb27c707f2934e68ced558bb572dfc"
+ },
+ {
+  "title": "Circuit Avenue, north side, by Adams, S. F., 1844-1876",
+  "place": "Place unrecorded",
+  "year": "Undated",
+  "sy": 1900,
+  "era": "undated",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Circuit_Avenue%2C_north_side%2C_by_Adams%2C_S._F.%2C_1844-1876.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Circuit_Avenue%2C_north_side%2C_by_Adams%2C_S._F.%2C_1844-1876.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Circuit_Avenue,_north_side,_by_Adams,_S._F.,_1844-1876.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 386,
+  "id": "STA-3349",
+  "rect": "rect/3348.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.17,
+  "rot": 0.02,
+  "range": 1.11,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2245,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Circuit_Avenue%2C_north_side%2C_by_Adams%2C_S._F.%2C_1844-1876.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 1.2245,
+   "L": [
+    0.394737,
+    0.0,
+    0.083553,
+    0.0,
+    0.634715,
+    0.319948
+   ],
+   "R": [
+    0.391917,
+    -0.003807,
+    0.519338,
+    0.005078,
+    0.636433,
+    0.319111
+   ],
+   "g": [
+    0.9834,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.02° of rotation. Depth measured gentle (1.11% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Adams, S. F.",
+  "creator_dates": "1844-1876",
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": null,
+  "date_start": null,
+  "date_end": null,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7443410,
+  "source_revision_id": null,
+  "source_sha1": "c28b0080bfa851282c6f3bb3d086fc3c6776b1cf"
+ },
+ {
+  "title": "Interior view of the Baptist chapel showing seats and pews and the organ above the altar",
+  "place": "North Adams, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Interior_view_of_the_Baptist_chapel_showing_seats_and_pews_and_the_organ_above_the_altar%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Interior_view_of_the_Baptist_chapel_showing_seats_and_pews_and_the_organ_above_the_altar%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/99/Interior_view_of_the_Baptist_chapel_showing_seats_and_pews_and_the_organ_above_the_altar%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Interior_view_of_the_Baptist_chapel_showing_seats_and_pews_and_the_organ_above_the_altar,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1396,
+  "id": "STA-3350",
+  "rect": "rect/3349.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.0,
+  "range": 4.58,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.6156,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Interior_view_of_the_Baptist_chapel_showing_seats_and_pews_and_the_organ_above_the_altar%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Interior_view_of_the_Baptist_chapel_showing_seats_and_pews_and_the_organ_above_the_altar%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.6156,
+   "L": [
+    0.263542,
+    0.0,
+    0.146615,
+    0.0,
+    0.839632,
+    0.063841
+   ],
+   "R": [
+    0.266415,
+    -0.001228,
+    0.596147,
+    -2.6e-05,
+    0.853363,
+    0.056818
+   ],
+   "g": [
+    0.9637,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.0° of rotation. Depth measured deep (4.58% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7446543,
+  "source_revision_id": null,
+  "source_sha1": "4a411ff7de704f716186a60a41df136a19883313"
+ },
+ {
+  "title": "Unidentified factory(?)",
+  "place": "North Adams, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Unidentified_factory%28%3F%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Unidentified_factory%28%3F%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/55/Unidentified_factory%28%3F%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Unidentified_factory(%3F),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1431,
+  "id": "STA-3351",
+  "rect": "rect/3350.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.33,
+  "rot": 0.0,
+  "range": 2.17,
+  "f": 0.66,
+  "depth": "Moderate",
+  "va": 2.5936,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Unidentified_factory%28%3F%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Unidentified_factory%28%3F%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.5936,
+   "L": [
+    0.339062,
+    0.0,
+    0.135156,
+    0.0,
+    0.25,
+    0.453685
+   ],
+   "R": [
+    0.347616,
+    -0.000853,
+    0.512292,
+    -0.005485,
+    0.255597,
+    0.459865
+   ],
+   "g": [
+    0.9655,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.33% vertical error and 0.0° of rotation. Depth measured moderate (2.17% of frame width); hung in the VR Parlor at 66% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7446554,
+  "source_revision_id": null,
+  "source_sha1": "4b5cef022c2662e1220e85bb325bf49dc3382a55"
  }
 ]
