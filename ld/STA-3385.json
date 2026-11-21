@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3385.json",
+ "name": "Reading R.R. (railroad) below Birdsboro",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3384.jpg",
+ "identifier": "STA-3385",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Birdsboro, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Reading_R.R._(railroad)_below_Birdsboro,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3373</quantity>
+    <quantity>3391</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5404,6 +5404,54 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3361.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3382">
+     <did>
+      <unitid>STA-3382</unitid>
+      <unittitle>Little Reading dam</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3381.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3383">
+     <did>
+      <unitid>STA-3383</unitid>
+      <unittitle>First dam above Reading</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3382.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3384">
+     <did>
+      <unitid>STA-3384</unitid>
+      <unittitle>Reading, from Lebanon Valley Bridge</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3383.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3389">
+     <did>
+      <unitid>STA-3389</unitid>
+      <unittitle>Second lock above Reading, Union Canal, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3388.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3395">
+     <did>
+      <unitid>STA-3395</unitid>
+      <unittitle>Mineral Springs</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3394.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3396">
+     <did>
+      <unitid>STA-3396</unitid>
+      <unittitle>Poplar Neck Bridge</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3395.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -7639,6 +7687,70 @@
       <unittitle>Hoosac Mountain from North Adams, Mass, by Kilburn, B. W. (Benjamin West), 1827-1909</unittitle>
       <unitdate>Undated</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3343.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3379">
+     <did>
+      <unitid>STA-3379</unitid>
+      <unittitle>Cut on Reading R.R. (railroad) below Reading</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3378.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3380">
+     <did>
+      <unitid>STA-3380</unitid>
+      <unittitle>Cut of Reading R.R. (railroad), below Reading</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3379.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3387">
+     <did>
+      <unitid>STA-3387</unitid>
+      <unittitle>N.E. part of Reading from Neversink Mountain</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3386.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3388">
+     <did>
+      <unitid>STA-3388</unitid>
+      <unittitle>Lebanon Valley R.R., near Reading</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3387.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3390">
+     <did>
+      <unitid>STA-3390</unitid>
+      <unittitle>Flat Rock tunnel, Reading R.R., length 940 feet</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3389.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3391">
+     <did>
+      <unitid>STA-3391</unitid>
+      <unittitle>View from Lover's Leap, Neversink Mt</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3390.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3392">
+     <did>
+      <unitid>STA-3392</unitid>
+      <unittitle>View between Lover's Leap and White House, Neversink Mountain</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3391.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3393">
+     <did>
+      <unitid>STA-3393</unitid>
+      <unittitle>Flying Hill</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3392.jpg"/>
      </did>
     </c>
    </c>
@@ -21182,6 +21294,22 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3374.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3386">
+     <did>
+      <unitid>STA-3386</unitid>
+      <unittitle>Reading Terminal Station, Philadelphia, Pa</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3385.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3394">
+     <did>
+      <unitid>STA-3394</unitid>
+      <unittitle>Streets of Reading, by F. M. Yeager</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3393.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -27040,6 +27168,22 @@
       <unittitle>Improved Turning Lathe</unittitle>
       <unitdate normal="1869">1869</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3363.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3381">
+     <did>
+      <unitid>STA-3381</unitid>
+      <unittitle>Reading railroad</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3380.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3385">
+     <did>
+      <unitid>STA-3385</unitid>
+      <unittitle>Reading R.R. (railroad) below Birdsboro</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3384.jpg"/>
      </did>
     </c>
    </c>

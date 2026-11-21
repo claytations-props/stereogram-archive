@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3392.json",
+ "name": "View between Lover's Leap and White House, Neversink Mountain",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3391.jpg",
+ "identifier": "STA-3392",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Reading, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_between_Lover%27s_Leap_and_White_House,_Neversink_Mountain,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

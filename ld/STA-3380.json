@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3380.json",
+ "name": "Cut of Reading R.R. (railroad), below Reading",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3379.jpg",
+ "identifier": "STA-3380",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Reading, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cut_of_Reading_R.R._(railroad),_below_Reading,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}
