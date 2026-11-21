@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3401.json",
+ "name": "Dumping culm, slate pile, Anthracite Coal Mining, Scranton, Pa., U.S.A",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3400.jpg",
+ "identifier": "STA-3401",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Scranton, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Dumping_culm,_slate_pile,_Anthracite_Coal_Mining,_Scranton,_Pa.,_U.S.A,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

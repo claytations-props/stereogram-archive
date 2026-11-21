@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3411.json",
+ "name": "Hoisted car of coal over shaft at head of breaker ready to be dumped, Scranton, Pa., U.S.A",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3410.jpg",
+ "identifier": "STA-3411",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Scranton, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Hoisted_car_of_coal_over_shaft_at_head_of_breaker_ready_to_be_dumped,_Scranton,_Pa.,_U.S.A,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

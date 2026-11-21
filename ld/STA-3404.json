@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3404.json",
+ "name": "Loading cage with car of coal at bottom of shaft, Scranton, Pa., U.S.A",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3403.jpg",
+ "identifier": "STA-3404",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Scranton, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Loading_cage_with_car_of_coal_at_bottom_of_shaft,_Scranton,_Pa.,_U.S.A,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3391</quantity>
+    <quantity>3406</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5450,6 +5450,14 @@
       <unittitle>Poplar Neck Bridge</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3395.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3407">
+     <did>
+      <unitid>STA-3407</unitid>
+      <unittitle>Out-cropping of coal veins near earth's surface along the banks of a stream, Scranton, Pa., U.S.A</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3406.jpg"/>
      </did>
     </c>
    </c>
@@ -24301,6 +24309,14 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3377.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3405">
+     <did>
+      <unitid>STA-3405</unitid>
+      <unittitle>Miners' wives and children picking coal from the dump, Scranton, Pa., U.S.A</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3404.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-oddities">
     <did>
@@ -27184,6 +27200,110 @@
       <unittitle>Reading R.R. (railroad) below Birdsboro</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3384.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3397">
+     <did>
+      <unitid>STA-3397</unitid>
+      <unittitle>Tandem automatic slate picker, Scranton, Pa., U.S.A</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3396.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3398">
+     <did>
+      <unitid>STA-3398</unitid>
+      <unittitle>Slate pickers, Anthracite Coal Mining, Scranton, Pa., U.S.A</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3397.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3399">
+     <did>
+      <unitid>STA-3399</unitid>
+      <unittitle>Supply office at mines for accommodation of miners, Scranton, Pa., U.S.A</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3398.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3400">
+     <did>
+      <unitid>STA-3400</unitid>
+      <unittitle>Drilling into vein preparatory to blasting, Anthracite Mines, Scranton, Pa., U.S.A</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3399.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3401">
+     <did>
+      <unitid>STA-3401</unitid>
+      <unittitle>Dumping culm, slate pile, Anthracite Coal Mining, Scranton, Pa., U.S.A</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3400.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3402">
+     <did>
+      <unitid>STA-3402</unitid>
+      <unittitle>Miners coming out of shaft on "cage", Scranton, Pa., U.S.A</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3401.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3403">
+     <did>
+      <unitid>STA-3403</unitid>
+      <unittitle>Conveyer line for carrying bird's-eye coal to bin, Scranton, Pa., U.S.A</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3402.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3404">
+     <did>
+      <unitid>STA-3404</unitid>
+      <unittitle>Loading cage with car of coal at bottom of shaft, Scranton, Pa., U.S.A</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3403.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3406">
+     <did>
+      <unitid>STA-3406</unitid>
+      <unittitle>Knocking down, breaking and loading coal, Anthracite Mining, Scranton, Pa., U.S.A, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3405.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3408">
+     <did>
+      <unitid>STA-3408</unitid>
+      <unittitle>Breaking and loading coal in mines after a blast has knocked it down, Scranton, Pa., U.S.A, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3407.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3409">
+     <did>
+      <unitid>STA-3409</unitid>
+      <unittitle>Abandoned mine showing how prop timber is used to support roofs of tunnels, Scranton, Pa., U.S.A</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3408.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3410">
+     <did>
+      <unitid>STA-3410</unitid>
+      <unittitle>Oscillating screen separating grate coal from smaller sizes in breaker, Scranton, Pa., U.S.A, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3409.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3411">
+     <did>
+      <unitid>STA-3411</unitid>
+      <unittitle>Hoisted car of coal over shaft at head of breaker ready to be dumped, Scranton, Pa., U.S.A</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3410.jpg"/>
      </did>
     </c>
    </c>

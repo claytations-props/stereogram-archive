@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3408.json",
+ "name": "Breaking and loading coal in mines after a blast has knocked it down, Scranton, Pa., U.S.A, from Robert N. Dennis collection of stereoscopic views 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3407.jpg",
+ "identifier": "STA-3408",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Scranton, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Breaking_and_loading_coal_in_mines_after_a_blast_has_knocked_it_down,_Scranton,_Pa.,_U.S.A,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg"
+}

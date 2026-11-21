@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3403.json",
+ "name": "Conveyer line for carrying bird's-eye coal to bin, Scranton, Pa., U.S.A",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3402.jpg",
+ "identifier": "STA-3403",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Scranton, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Conveyer_line_for_carrying_bird%27s-eye_coal_to_bin,_Scranton,_Pa.,_U.S.A,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3409.json",
+ "name": "Abandoned mine showing how prop timber is used to support roofs of tunnels, Scranton, Pa., U.S.A",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3408.jpg",
+ "identifier": "STA-3409",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Scranton, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Abandoned_mine_showing_how_prop_timber_is_used_to_support_roofs_of_tunnels,_Scranton,_Pa.,_U.S.A,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}
