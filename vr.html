@@ -1253,13 +1253,32 @@ document.getElementById('saveBtn').onclick=()=>toggleSaveCurrent();
 document.getElementById('parlorSearchBtn').onclick=()=>runParlorSearch(document.getElementById('parlorSearch').value);
 document.getElementById('parlorSearch').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();runParlorSearch(e.target.value);}});
 document.getElementById('parlorSearchClear').onclick=()=>clearParlorSearch();
-addEventListener('keydown',e=>{
+/* Round 17: the flat Parlor keyboard had no ten-card jump — Shift+arrows
+   stepped one card while reading and paged one wall while browsing,
+   and Home/End did nothing, while the gallery viewer jumps ten with
+   Shift+arrows and to the ends with Home/End, and the flat row's own
+   double arrows do the same. Shift+arrows now jump ten cards while
+   reading (first/last wall page while browsing) and Home/End go to
+   the first/last card (first/last wall page while browsing). The
+   handler is named so the harness can extract and test it. */
+function parlorKey(e){
   /* Round 11: typing in the search box must not step cards or page the
      wall — the gallery's viewer guard does the same for its inputs. */
   if(e.target.closest&&e.target.closest("input,select,textarea"))return;
-  if(uiState==='browse'){if(e.key==='ArrowRight')wallGo(1);if(e.key==='ArrowLeft')wallGo(-1);if(e.key==='Escape')setState('reading');}
-  else{if(e.key==='ArrowRight')next();if(e.key==='ArrowLeft')prev();}
-});
+  if(uiState==='browse'){
+    if(e.key==='ArrowRight')wallGo(e.shiftKey?99:1);
+    if(e.key==='ArrowLeft')wallGo(e.shiftKey?-99:-1);
+    if(e.key==='Home'){e.preventDefault();wallGo(-99);}
+    if(e.key==='End'){e.preventDefault();wallGo(99);}
+    if(e.key==='Escape')setState('reading');
+  }else{
+    if(e.key==='ArrowRight'){if(e.shiftKey)navShow(curPos+10);else next();}
+    if(e.key==='ArrowLeft'){if(e.shiftKey)navShow(curPos-10);else prev();}
+    if(e.key==='Home'){e.preventDefault();navShow(0);}
+    if(e.key==='End'){e.preventDefault();navShow(curSet.indices.length-1);}
+  }
+}
+addEventListener('keydown',parlorKey);
 
 function applyVis(){
   const browsing=uiState==='browse';
