@@ -1381,10 +1381,17 @@ function openTile(pos){
   setState('reading');
   showPos(pos);
 }
+/* Round 17: the double-arrow jumps mean first/last wall page — the
+   flat buttons, the in-room row, and the keyboard all say so — but
+   wallGo(±99) only added 99 pages, so once the catalog passed 100
+   wall pages (144 now) one press stopped short: from page 1 it
+   landed on page 100, and the last page took a second press. A jump
+   of 99 or more in either direction now goes to the end outright;
+   single-page steps are untouched. */
 function wallGo(dir){
   if(!curSet)return;
   const pages=Math.max(1,Math.ceil(curSet.indices.length/PAGE));
-  const np=Math.max(0,Math.min(wallPage+dir,pages-1));
+  const np=dir>=99?pages-1:dir<=-99?0:Math.max(0,Math.min(wallPage+dir,pages-1));
   if(np!==wallPage){wallPage=np;renderWall();}
 }
 function activate(hit){
