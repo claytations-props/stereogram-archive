@@ -202108,5 +202108,831 @@
   "date_start": 1863,
   "date_end": 1863,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View at Wheeling, W. Va",
+  "place": "Wheeling, West Virginia",
+  "year": "c. 1863",
+  "sy": 1863,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/View_at_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_at_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5c/View_at_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_at_Wheeling,_W._Va,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1388,
+  "id": "STA-3426",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3425.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 0.57,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0369,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/View_at_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_at_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0369,
+   "L": [
+    0.395313,
+    0.0,
+    0.08724,
+    0.0,
+    0.75154,
+    0.061088
+   ],
+   "R": [
+    0.397364,
+    -0.011561,
+    0.531073,
+    0.020561,
+    0.751957,
+    0.052166
+   ],
+   "g": [
+    0.9863,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (0.57% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1863~",
+  "date_start": 1858,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View (of Ohio River) at Wheeling, (W.) Va",
+  "place": "Wheeling, West Virginia",
+  "year": "c. 1863",
+  "sy": 1863,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/View_%28of_Ohio_River%29_at_Wheeling%2C_%28W.%29_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_%28of_Ohio_River%29_at_Wheeling%2C_%28W.%29_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/67/View_%28of_Ohio_River%29_at_Wheeling%2C_%28W.%29_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_(of_Ohio_River)_at_Wheeling,_(W.)_Va,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1384,
+  "id": "STA-3427",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3426.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.0,
+  "range": 0.39,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.8136,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/View_%28of_Ohio_River%29_at_Wheeling%2C_%28W.%29_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_%28of_Ohio_River%29_at_Wheeling%2C_%28W.%29_Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.8136,
+   "L": [
+    0.390104,
+    0.0,
+    0.082552,
+    0.0,
+    0.425335,
+    0.538105
+   ],
+   "R": [
+    0.390299,
+    0.000793,
+    0.510008,
+    -0.003071,
+    0.425543,
+    0.529683
+   ],
+   "g": [
+    0.877,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured gentle (0.39% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1863~",
+  "date_start": 1858,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "High water at Wheeling, W. Va",
+  "place": "Wheeling, West Virginia",
+  "year": "1884",
+  "sy": 1884,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/High_water_at_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-High_water_at_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ee/High_water_at_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:High_water_at_Wheeling,_W._Va,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1411,
+  "id": "STA-3428",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3427.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.21,
+  "rot": 0.04,
+  "range": 1.8,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.0796,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/High_water_at_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-High_water_at_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0796,
+   "L": [
+    0.254167,
+    0.0,
+    0.129427,
+    0.0,
+    0.456566,
+    0.475253
+   ],
+   "R": [
+    0.25323,
+    0.017265,
+    0.55416,
+    0.000584,
+    0.457369,
+    0.500458
+   ],
+   "g": [
+    1.0,
+    0.9771
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.04° of rotation. Depth measured moderate (1.8% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1884",
+  "date_start": 1884,
+  "date_end": 1884,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View Water Street, from Union Street, Wheeling, W. Va",
+  "place": "Wheeling, West Virginia",
+  "year": "c. 1863",
+  "sy": 1863,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/View_Water_Street%2C_from_Union_Street%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_Water_Street%2C_from_Union_Street%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d0/View_Water_Street%2C_from_Union_Street%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_Water_Street,_from_Union_Street,_Wheeling,_W._Va,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1393,
+  "id": "STA-3429",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3428.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 0.48,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9403,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/View_Water_Street%2C_from_Union_Street%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_Water_Street%2C_from_Union_Street%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9403,
+   "L": [
+    0.402083,
+    0.0,
+    0.069531,
+    0.0,
+    0.840328,
+    0.087513
+   ],
+   "R": [
+    0.405872,
+    -0.003839,
+    0.51269,
+    0.007365,
+    0.846768,
+    0.095008
+   ],
+   "g": [
+    1.0,
+    0.9935
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (0.48% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1863~",
+  "date_start": 1858,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bridge over the Ohio, 1010 feet span, Wheeling, W. Va",
+  "place": "Wheeling, West Virginia",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Bridge_over_the_Ohio%2C_1010_feet_span%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bridge_over_the_Ohio%2C_1010_feet_span%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bridge_over_the_Ohio%2C_1010_feet_span%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bridge_over_the_Ohio,_1010_feet_span,_Wheeling,_W._Va,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1584,
+  "id": "STA-3430",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3429.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.16,
+  "rot": 0.01,
+  "range": 0.75,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0722,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Bridge_over_the_Ohio%2C_1010_feet_span%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bridge_over_the_Ohio%2C_1010_feet_span%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0722,
+   "L": [
+    0.363542,
+    0.0,
+    0.08099,
+    0.0,
+    0.585959,
+    0.063456
+   ],
+   "R": [
+    0.361912,
+    0.004606,
+    0.519284,
+    -0.006339,
+    0.582589,
+    0.068464
+   ],
+   "g": [
+    0.9629,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.01° of rotation. Depth measured gentle (0.75% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Looking down the Ohio, Wheeling, W. Va",
+  "place": "Wheeling, West Virginia",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Looking_down_the_Ohio%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Looking_down_the_Ohio%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Looking_down_the_Ohio%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Looking_down_the_Ohio,_Wheeling,_W._Va,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1576,
+  "id": "STA-3431",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3430.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 1.96,
+  "f": 0.87,
+  "depth": "Moderate",
+  "va": 2.0619,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Looking_down_the_Ohio%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Looking_down_the_Ohio%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.0619,
+   "L": [
+    0.433854,
+    0.0,
+    0.059115,
+    0.0,
+    0.36528,
+    0.606239
+   ],
+   "R": [
+    0.44501,
+    -0.021363,
+    0.53235,
+    -0.006035,
+    0.363604,
+    0.610285
+   ],
+   "g": [
+    0.9362,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured moderate (1.96% of frame width); hung in the VR Parlor at 87% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Up the Island, from Bridge, Wheeling, W. Va",
+  "place": "Wheeling, West Virginia",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Up_the_Island%2C_from_Bridge%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Up_the_Island%2C_from_Bridge%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Up_the_Island%2C_from_Bridge%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Up_the_Island,_from_Bridge,_Wheeling,_W._Va,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1585,
+  "id": "STA-3432",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3431.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 0.34,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1232,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Up_the_Island%2C_from_Bridge%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Up_the_Island%2C_from_Bridge%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1232,
+   "L": [
+    0.398958,
+    0.0,
+    0.067969,
+    0.0,
+    0.613309,
+    0.333183
+   ],
+   "R": [
+    0.39942,
+    0.003118,
+    0.505835,
+    -0.008032,
+    0.613648,
+    0.345064
+   ],
+   "g": [
+    1.0,
+    0.997
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (0.34% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Government Post Office and Custom House, Wheeling, W. Va",
+  "place": "Wheeling, West Virginia",
+  "year": "c. 1880",
+  "sy": 1880,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Government_Post_Office_and_Custom_House%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Government_Post_Office_and_Custom_House%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/58/Government_Post_Office_and_Custom_House%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Government_Post_Office_and_Custom_House,_Wheeling,_W._Va,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1790,
+  "id": "STA-3433",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3432.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.19,
+  "rot": 0.0,
+  "range": 0.8,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0235,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Government_Post_Office_and_Custom_House%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Government_Post_Office_and_Custom_House%2C_Wheeling%2C_W._Va%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0235,
+   "L": [
+    0.408854,
+    0.0,
+    0.080469,
+    0.0,
+    0.610669,
+    0.080812
+   ],
+   "R": [
+    0.403961,
+    0.003852,
+    0.508178,
+    -0.001495,
+    0.603736,
+    0.101819
+   ],
+   "g": [
+    1.0,
+    0.9995
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.0° of rotation. Depth measured gentle (0.8% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1880~",
+  "date_start": 1875,
+  "date_end": 1885,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Ohio river steamers, Wheeling, West Virginia",
+  "place": "Wheeling, West Virginia",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Ohio_river_steamers%2C_Wheeling%2C_West_Virginia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Ohio_river_steamers%2C_Wheeling%2C_West_Virginia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ohio_river_steamers%2C_Wheeling%2C_West_Virginia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Ohio_river_steamers,_Wheeling,_West_Virginia,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1417,
+  "id": "STA-3434",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3433.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.2,
+  "rot": 0.02,
+  "range": 1.21,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.0211,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Ohio_river_steamers%2C_Wheeling%2C_West_Virginia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Ohio_river_steamers%2C_Wheeling%2C_West_Virginia%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.0211,
+   "L": [
+    0.348438,
+    0.0,
+    0.123698,
+    0.0,
+    0.332998,
+    0.609155
+   ],
+   "R": [
+    0.350848,
+    -0.010617,
+    0.520595,
+    -0.000237,
+    0.331218,
+    0.619936
+   ],
+   "g": [
+    1.0,
+    0.9696
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.2% vertical error and 0.02° of rotation. Depth measured gentle (1.21% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Grant House",
+  "place": "Wheeling, West Virginia",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Grant_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Grant_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/94/Grant_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Grant_House,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1594,
+  "id": "STA-3435",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3434.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.01,
+  "range": 1.12,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2449,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Grant_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Grant_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2449,
+   "L": [
+    0.410417,
+    0.0,
+    0.067448,
+    0.0,
+    0.56619,
+    0.166816
+   ],
+   "R": [
+    0.411197,
+    -0.000101,
+    0.512513,
+    -0.000384,
+    0.568042,
+    0.162081
+   ],
+   "g": [
+    0.9704,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured gentle (1.12% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Mc Lure House",
+  "place": "Wheeling, West Virginia",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Mc_Lure_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Mc_Lure_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Mc_Lure_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Mc_Lure_House,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1579,
+  "id": "STA-3436",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3435.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.01,
+  "range": 3.24,
+  "f": 0.99,
+  "depth": "Deep",
+  "va": 0.9936,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Mc_Lure_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Mc_Lure_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9936,
+   "L": [
+    0.404167,
+    0.0,
+    0.066927,
+    0.0,
+    0.704874,
+    0.11778
+   ],
+   "R": [
+    0.404847,
+    0.001825,
+    0.514287,
+    -0.004381,
+    0.705175,
+    0.121556
+   ],
+   "g": [
+    1.0,
+    0.9974
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.01° of rotation. Depth measured deep (3.24% of frame width); hung in the VR Parlor at 99% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "St. Mathew's P.E. Church",
+  "place": "Wheeling, West Virginia",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/St._Mathew%27s_P.E._Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-St._Mathew%27s_P.E._Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/3e/St._Mathew%27s_P.E._Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:St._Mathew%27s_P.E._Church,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1584,
+  "id": "STA-3437",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3436.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.29,
+  "rot": 0.08,
+  "range": 0.41,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.7511,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/St._Mathew%27s_P.E._Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-St._Mathew%27s_P.E._Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.7511,
+   "L": [
+    0.403125,
+    0.0,
+    0.080469,
+    0.0,
+    0.39784,
+    0.322682
+   ],
+   "R": [
+    0.404707,
+    -0.000416,
+    0.555745,
+    0.002856,
+    0.400132,
+    0.327003
+   ],
+   "g": [
+    0.9792,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.29% vertical error and 0.08° of rotation. Depth measured gentle (0.41% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of Main Street. Frazier's Business College, by Adams, J. M., fl. ca. 1880",
+  "place": "Wheeling, West Virginia",
+  "year": "Undated",
+  "sy": 1900,
+  "era": "undated",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/View_of_Main_Street._Frazier%27s_Business_College%2C_by_Adams%2C_J._M.%2C_fl._ca._1880.jpg/1920px-View_of_Main_Street._Frazier%27s_Business_College%2C_by_Adams%2C_J._M.%2C_fl._ca._1880.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/66/View_of_Main_Street._Frazier%27s_Business_College%2C_by_Adams%2C_J._M.%2C_fl._ca._1880.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_Main_Street._Frazier%27s_Business_College,_by_Adams,_J._M.,_fl._ca._1880.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1804,
+  "id": "STA-3438",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3437.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.14,
+  "rot": 0.01,
+  "range": 0.64,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0041,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/View_of_Main_Street._Frazier%27s_Business_College%2C_by_Adams%2C_J._M.%2C_fl._ca._1880.jpg/1920px-View_of_Main_Street._Frazier%27s_Business_College%2C_by_Adams%2C_J._M.%2C_fl._ca._1880.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0041,
+   "L": [
+    0.385937,
+    0.0,
+    0.101823,
+    0.0,
+    0.582938,
+    0.389021
+   ],
+   "R": [
+    0.394756,
+    0.00205,
+    0.519468,
+    -4e-05,
+    0.594022,
+    0.377482
+   ],
+   "g": [
+    0.9651,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.01° of rotation. Depth measured gentle (0.64% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Adams, J. M., fl. ca. 1880",
+  "date_edtf": null,
+  "date_start": null,
+  "date_end": null,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "B.&O.R.R. Bridge, over the Ohio, at Bellaire",
+  "place": "Bellaire, Ohio",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/B.%26O.R.R._Bridge%2C_over_the_Ohio%2C_at_Bellaire%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-B.%26O.R.R._Bridge%2C_over_the_Ohio%2C_at_Bellaire%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d9/B.%26O.R.R._Bridge%2C_over_the_Ohio%2C_at_Bellaire%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:B.%26O.R.R._Bridge,_over_the_Ohio,_at_Bellaire,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1583,
+  "id": "STA-3439",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3438.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 2.55,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.818,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/B.%26O.R.R._Bridge%2C_over_the_Ohio%2C_at_Bellaire%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-B.%26O.R.R._Bridge%2C_over_the_Ohio%2C_at_Bellaire%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.818,
+   "L": [
+    0.411979,
+    0.0,
+    0.061719,
+    0.0,
+    0.871171,
+    0.047297
+   ],
+   "R": [
+    0.413168,
+    0.001613,
+    0.508177,
+    -0.001949,
+    0.869887,
+    0.045055
+   ],
+   "g": [
+    0.9819,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured deep (2.55% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]
