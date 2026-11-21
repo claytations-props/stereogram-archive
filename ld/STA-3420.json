@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3420.json",
+ "name": "View of a house, two people standing in front, by W. Battelle",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3419.jpg",
+ "identifier": "STA-3420",
+ "creator": {
+  "@type": "Person",
+  "name": "W. Battelle"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Taunton, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_house,_two_people_standing_in_front,_by_W._Battelle.jpg"
+}

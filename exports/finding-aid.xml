@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3406</quantity>
+    <quantity>3420</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5458,6 +5458,14 @@
       <unittitle>Out-cropping of coal veins near earth's surface along the banks of a stream, Scranton, Pa., U.S.A</unittitle>
       <unitdate normal="1870">1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3406.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3415">
+     <did>
+      <unitid>STA-3415</unitid>
+      <unittitle>View of road running along a body of water</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3414.jpg"/>
      </did>
     </c>
    </c>
@@ -21318,6 +21326,78 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3393.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3412">
+     <did>
+      <unitid>STA-3412</unitid>
+      <unittitle>School St., Taunton, Massachusetts</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3411.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3413">
+     <did>
+      <unitid>STA-3413</unitid>
+      <unittitle>View of a tree-line road</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3412.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3414">
+     <did>
+      <unitid>STA-3414</unitid>
+      <unittitle>View of a house, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3413.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3417">
+     <did>
+      <unitid>STA-3417</unitid>
+      <unittitle>Garden behind the steam fire engine house</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3416.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3418">
+     <did>
+      <unitid>STA-3418</unitid>
+      <unittitle>View of a house, by Woodward &amp; Son</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3417.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3419">
+     <did>
+      <unitid>STA-3419</unitid>
+      <unittitle>View of a house, by W. Battelle</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3418.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3422">
+     <did>
+      <unitid>STA-3422</unitid>
+      <unittitle>State Hospital, by W. Battelle</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3421.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3423">
+     <did>
+      <unitid>STA-3423</unitid>
+      <unittitle>Depot, by W. Battelle</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3422.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3424">
+     <did>
+      <unitid>STA-3424</unitid>
+      <unittitle>Baptist Church, by W. Battelle</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3423.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -24317,6 +24397,30 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3404.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3420">
+     <did>
+      <unitid>STA-3420</unitid>
+      <unittitle>View of a house, two people standing in front, by W. Battelle</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3419.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3421">
+     <did>
+      <unitid>STA-3421</unitid>
+      <unittitle>View of a home with a large group of women in front, by Woodward &amp; Son</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3420.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3425">
+     <did>
+      <unitid>STA-3425</unitid>
+      <unittitle>Grammar school, by W. Battelle</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3424.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-oddities">
     <did>
@@ -27304,6 +27408,14 @@
       <unittitle>Hoisted car of coal over shaft at head of breaker ready to be dumped, Scranton, Pa., U.S.A</unittitle>
       <unitdate normal="1870">1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3410.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3416">
+     <did>
+      <unitid>STA-3416</unitid>
+      <unittitle>Exhibit of A. Field &amp; Sons, manufacturers of tacks, Taunton, Mass</unittitle>
+      <unitdate normal="1876">1876</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3415.jpg"/>
      </did>
     </c>
    </c>
