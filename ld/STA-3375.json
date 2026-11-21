@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3375.json",
+ "name": "Aaron Burr's Monument, College of New Jersey, Princeton",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3374.jpg",
+ "identifier": "STA-3375",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Princeton, New Jersey"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Aaron_Burr%27s_Monument,_College_of_New_Jersey,_Princeton,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3361</quantity>
+    <quantity>3373</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -21110,6 +21110,78 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3365.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3367">
+     <did>
+      <unitid>STA-3367</unitid>
+      <unittitle>Alexander Hall at Princeton Theological Seminary</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3366.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3368">
+     <did>
+      <unitid>STA-3368</unitid>
+      <unittitle>Interior view of Chapel at Princeton College</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3367.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3369">
+     <did>
+      <unitid>STA-3369</unitid>
+      <unittitle>Princeton College and vicinity</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3368.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3370">
+     <did>
+      <unitid>STA-3370</unitid>
+      <unittitle>Brown Hall, Theological Seminary, Princeton</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3369.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3371">
+     <did>
+      <unitid>STA-3371</unitid>
+      <unittitle>Princeton College and vicinity, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3370.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3372">
+     <did>
+      <unitid>STA-3372</unitid>
+      <unittitle>Princeton College and vicinity, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3371.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3373">
+     <did>
+      <unitid>STA-3373</unitid>
+      <unittitle>Princeton College and vicinity, from Robert N. Dennis collection of stereoscopic views 5</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3372.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3374">
+     <did>
+      <unitid>STA-3374</unitid>
+      <unittitle>Princeton College and vicinity, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3373.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3375">
+     <did>
+      <unitid>STA-3375</unitid>
+      <unittitle>Aaron Burr's Monument, College of New Jersey, Princeton</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3374.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -24075,6 +24147,30 @@
       <unittitle>People in front of a large house with fence</unittitle>
       <unitdate normal="1860">1860</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3332.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3376">
+     <did>
+      <unitid>STA-3376</unitid>
+      <unittitle>Making a Touchdown. Princeton Football Team, Champions of '93</unittitle>
+      <unitdate normal="1893">1893</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3375.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3377">
+     <did>
+      <unitid>STA-3377</unitid>
+      <unittitle>Our beloved ex. President Grover Cleveland, with his family at home, Princeton, N.J</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3376.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3378">
+     <did>
+      <unitid>STA-3378</unitid>
+      <unittitle>Men and women having a stroll</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3377.jpg"/>
      </did>
     </c>
    </c>

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3377.json",
+ "name": "Our beloved ex. President Grover Cleveland, with his family at home, Princeton, N.J",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3376.jpg",
+ "identifier": "STA-3377",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Princeton, New Jersey"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Our_beloved_ex._President_Grover_Cleveland,_with_his_family_at_home,_Princeton,_N.J,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}
