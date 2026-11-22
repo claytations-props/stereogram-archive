@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3488.json",
+ "name": "Arbor scene (Central Park). (Hand-colored view.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3487.jpg",
+ "identifier": "STA-3488",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New York, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Arbor_scene_(Central_Park)._(Hand-colored_view.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

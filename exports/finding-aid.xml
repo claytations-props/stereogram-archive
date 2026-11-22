@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3467</quantity>
+    <quantity>3492</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5666,6 +5666,38 @@
       <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112977)</unittitle>
       <unitdate normal="1881">1881</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3471.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3489">
+     <did>
+      <unitid>STA-3489</unitid>
+      <unittitle>Central Park, the Fountain</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3488.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3491">
+     <did>
+      <unitid>STA-3491</unitid>
+      <unittitle>Lake, Central Park</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3490.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3492">
+     <did>
+      <unitid>STA-3492</unitid>
+      <unittitle>Fountain, Central Park</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3491.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3494">
+     <did>
+      <unitid>STA-3494</unitid>
+      <unittitle>View on the lake, Central Park, N.Y</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3493.jpg"/>
      </did>
     </c>
    </c>
@@ -21732,6 +21764,174 @@
       <unittitle>B.&amp;O.R.R. Bridge, over the Ohio, at Bellaire</unittitle>
       <unitdate normal="1870">1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3438.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3473">
+     <did>
+      <unitid>STA-3473</unitid>
+      <unittitle>View in Central Park</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3472.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3474">
+     <did>
+      <unitid>STA-3474</unitid>
+      <unittitle>View in Central Park, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3473.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3475">
+     <did>
+      <unitid>STA-3475</unitid>
+      <unittitle>View of pathway and seats, Central Park</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3474.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3476">
+     <did>
+      <unitid>STA-3476</unitid>
+      <unittitle>View in Central Park, New York</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3475.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3477">
+     <did>
+      <unitid>STA-3477</unitid>
+      <unittitle>View of the upper part of Central Park. (Garden view.)</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3476.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3478">
+     <did>
+      <unitid>STA-3478</unitid>
+      <unittitle>Bridge, Central Park</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3477.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3479">
+     <did>
+      <unitid>STA-3479</unitid>
+      <unittitle>Distant view of Bow Bridge, Central Park</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3478.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3480">
+     <did>
+      <unitid>STA-3480</unitid>
+      <unittitle>View in Central Park, N.Y, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3479.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3481">
+     <did>
+      <unitid>STA-3481</unitid>
+      <unittitle>View in Central Park, New York, from Robert N. Dennis collection of stereoscopic views 5</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3480.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3482">
+     <did>
+      <unitid>STA-3482</unitid>
+      <unittitle>View in Central Park, New York, from Robert N. Dennis collection of stereoscopic views 9</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3481.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3483">
+     <did>
+      <unitid>STA-3483</unitid>
+      <unittitle>View in Central Park, New York, from Robert N. Dennis collection of stereoscopic views 8</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3482.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3484">
+     <did>
+      <unitid>STA-3484</unitid>
+      <unittitle>View in Central Park, New York, from Robert N. Dennis collection of stereoscopic views 7</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3483.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3485">
+     <did>
+      <unitid>STA-3485</unitid>
+      <unittitle>The Spa, Central Park</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3484.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3486">
+     <did>
+      <unitid>STA-3486</unitid>
+      <unittitle>Entrance (to Central Park)</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3485.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3487">
+     <did>
+      <unitid>STA-3487</unitid>
+      <unittitle>Central Park, from Robert N. Dennis collection of stereoscopic views 10</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3486.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3488">
+     <did>
+      <unitid>STA-3488</unitid>
+      <unittitle>Arbor scene (Central Park). (Hand-colored view.)</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3487.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3490">
+     <did>
+      <unitid>STA-3490</unitid>
+      <unittitle>Stereoscopic views of structures in Central Park, New York City</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3489.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3493">
+     <did>
+      <unitid>STA-3493</unitid>
+      <unittitle>Cave, Central Park</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3492.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3495">
+     <did>
+      <unitid>STA-3495</unitid>
+      <unittitle>Central Park, N.Y</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3494.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3496">
+     <did>
+      <unitid>STA-3496</unitid>
+      <unittitle>View on the mount, Central Park</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3495.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3497">
+     <did>
+      <unitid>STA-3497</unitid>
+      <unittitle>View in Central Park, New York, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3496.jpg"/>
      </did>
     </c>
    </c>

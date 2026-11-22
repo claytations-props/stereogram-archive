@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3493.json",
+ "name": "Cave, Central Park",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3492.jpg",
+ "identifier": "STA-3493",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "New York, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cave,_Central_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}
