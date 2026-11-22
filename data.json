@@ -206358,5 +206358,891 @@
   "date_start": 1860,
   "date_end": 1860,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Chicago fire views - Clark Street",
+  "place": "Chicago, Illinois",
+  "year": "1871",
+  "sy": 1871,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Chicago_fire_views_-_Clark_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Chicago_fire_views_-_Clark_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Chicago_fire_views_-_Clark_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Chicago_fire_views_-_Clark_Street,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1426,
+  "id": "STA-3498",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3497.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.03,
+  "range": 1.4,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7408,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Chicago_fire_views_-_Clark_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Chicago_fire_views_-_Clark_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7408,
+   "L": [
+    0.336458,
+    0.0,
+    0.125781,
+    0.0,
+    0.872,
+    0.0605
+   ],
+   "R": [
+    0.332326,
+    -0.015406,
+    0.522006,
+    0.008944,
+    0.869919,
+    0.064279
+   ],
+   "g": [
+    0.9396,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.03° of rotation. Depth measured gentle (1.4% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1871",
+  "date_start": 1871,
+  "date_end": 1871,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Chicago fire views - Field, Leiter & Co.'s store",
+  "place": "Chicago, Illinois",
+  "year": "1871",
+  "sy": 1871,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Chicago_fire_views_-_Field%2C_Leiter_%26_Co.%27s_store%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Chicago_fire_views_-_Field%2C_Leiter_%26_Co.%27s_store%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Chicago_fire_views_-_Field%2C_Leiter_%26_Co.%27s_store%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Chicago_fire_views_-_Field,_Leiter_%26_Co.%27s_store,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1411,
+  "id": "STA-3499",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3498.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.05,
+  "range": 1.16,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8202,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Chicago_fire_views_-_Field%2C_Leiter_%26_Co.%27s_store%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Chicago_fire_views_-_Field%2C_Leiter_%26_Co.%27s_store%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8202,
+   "L": [
+    0.351562,
+    0.0,
+    0.11849,
+    0.0,
+    0.831313,
+    0.113636
+   ],
+   "R": [
+    0.34797,
+    -0.012733,
+    0.524263,
+    -0.003822,
+    0.831184,
+    0.108547
+   ],
+   "g": [
+    1.0,
+    0.9925
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.05° of rotation. Depth measured gentle (1.16% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1871",
+  "date_start": 1871,
+  "date_end": 1871,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Ruins of Chicago - Unity Church",
+  "place": "Chicago, Illinois",
+  "year": "1871",
+  "sy": 1871,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ruins_of_Chicago_-_Unity_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Ruins_of_Chicago_-_Unity_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ruins_of_Chicago_-_Unity_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Ruins_of_Chicago_-_Unity_Church,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1355,
+  "id": "STA-3500",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3499.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.02,
+  "range": 1.0,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.854,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ruins_of_Chicago_-_Unity_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Ruins_of_Chicago_-_Unity_Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.854,
+   "L": [
+    0.383854,
+    0.0,
+    0.098698,
+    0.0,
+    0.907466,
+    0.038381
+   ],
+   "R": [
+    0.382737,
+    0.002873,
+    0.509936,
+    -0.006373,
+    0.906232,
+    0.052042
+   ],
+   "g": [
+    0.9514,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.02° of rotation. Depth measured gentle (1.0% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1871",
+  "date_start": 1871,
+  "date_end": 1871,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Wabash Avenue, Church, Chicago, by Continent Stereoscopic Company",
+  "place": "Chicago, Illinois",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Wabash_Avenue%2C_Church%2C_Chicago%2C_by_Continent_Stereoscopic_Company.jpg/1920px-Wabash_Avenue%2C_Church%2C_Chicago%2C_by_Continent_Stereoscopic_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Wabash_Avenue%2C_Church%2C_Chicago%2C_by_Continent_Stereoscopic_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Wabash_Avenue,_Church,_Chicago,_by_Continent_Stereoscopic_Company.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1671,
+  "id": "STA-3501",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3500.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.02,
+  "range": 0.95,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.3228,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Wabash_Avenue%2C_Church%2C_Chicago%2C_by_Continent_Stereoscopic_Company.jpg/1920px-Wabash_Avenue%2C_Church%2C_Chicago%2C_by_Continent_Stereoscopic_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3228,
+   "L": [
+    0.347917,
+    0.0,
+    0.107031,
+    0.0,
+    0.430887,
+    0.540529
+   ],
+   "R": [
+    0.344004,
+    -0.006547,
+    0.551492,
+    -0.001922,
+    0.428702,
+    0.537672
+   ],
+   "g": [
+    1.0,
+    0.9468
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.02° of rotation. Depth measured gentle (0.95% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Continent Stereoscopic Company",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Ruins of Chicago - Clark Street bridge, looking north across the river",
+  "place": "Chicago, Illinois",
+  "year": "1871",
+  "sy": 1871,
+  "era": "mid",
+  "cats": [
+   "water",
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Ruins_of_Chicago_-_Clark_Street_bridge%2C_looking_north_across_the_river%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Ruins_of_Chicago_-_Clark_Street_bridge%2C_looking_north_across_the_river%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Ruins_of_Chicago_-_Clark_Street_bridge%2C_looking_north_across_the_river%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Ruins_of_Chicago_-_Clark_Street_bridge,_looking_north_across_the_river,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1415,
+  "id": "STA-3502",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3501.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.17,
+  "rot": 0.01,
+  "range": 0.75,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1588,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Ruins_of_Chicago_-_Clark_Street_bridge%2C_looking_north_across_the_river%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Ruins_of_Chicago_-_Clark_Street_bridge%2C_looking_north_across_the_river%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1588,
+   "L": [
+    0.330729,
+    0.0,
+    0.139844,
+    0.0,
+    0.551863,
+    0.393253
+   ],
+   "R": [
+    0.33429,
+    -0.00547,
+    0.512801,
+    0.001543,
+    0.554274,
+    0.396412
+   ],
+   "g": [
+    1.0,
+    0.9685
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.01° of rotation. Depth measured gentle (0.75% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1871",
+  "date_start": 1871,
+  "date_end": 1871,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Pacific Hotel",
+  "place": "Chicago, Illinois",
+  "year": "1871",
+  "sy": 1871,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Pacific_Hotel%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pacific_Hotel%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Pacific_Hotel%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Pacific_Hotel,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1398,
+  "id": "STA-3503",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3502.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.28,
+  "rot": 0.04,
+  "range": 0.89,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1155,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Pacific_Hotel%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pacific_Hotel%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1155,
+   "L": [
+    0.367188,
+    0.0,
+    0.110156,
+    0.0,
+    0.644241,
+    0.118756
+   ],
+   "R": [
+    0.370045,
+    -0.004848,
+    0.510314,
+    0.004057,
+    0.643992,
+    0.107491
+   ],
+   "g": [
+    1.0,
+    0.9696
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.28% vertical error and 0.04° of rotation. Depth measured gentle (0.89% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1871",
+  "date_start": 1871,
+  "date_end": 1871,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Court House seen through ruins of First (?) National Bank",
+  "place": "Chicago, Illinois",
+  "year": "1871",
+  "sy": 1871,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Court_House_seen_through_ruins_of_First_%28%3F%29_National_Bank%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Court_House_seen_through_ruins_of_First_%28%3F%29_National_Bank%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Court_House_seen_through_ruins_of_First_%28%3F%29_National_Bank%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Court_House_seen_through_ruins_of_First_(%3F)_National_Bank,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1560,
+  "id": "STA-3504",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3503.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.04,
+  "range": 2.94,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.7995,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Court_House_seen_through_ruins_of_First_%28%3F%29_National_Bank%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Court_House_seen_through_ruins_of_First_%28%3F%29_National_Bank%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7995,
+   "L": [
+    0.369792,
+    0.0,
+    0.116927,
+    0.0,
+    0.8117,
+    0.143053
+   ],
+   "R": [
+    0.382367,
+    -0.007466,
+    0.525861,
+    -0.000663,
+    0.814382,
+    0.146911
+   ],
+   "g": [
+    0.9864,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.04° of rotation. Depth measured deep (2.94% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1871",
+  "date_start": 1871,
+  "date_end": 1871,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Birdseye view from top of waterworks, North side",
+  "place": "Chicago, Illinois",
+  "year": "1871",
+  "sy": 1871,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Birdseye_view_from_top_of_waterworks%2C_North_side%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Birdseye_view_from_top_of_waterworks%2C_North_side%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Birdseye_view_from_top_of_waterworks%2C_North_side%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Birdseye_view_from_top_of_waterworks,_North_side,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1379,
+  "id": "STA-3505",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3504.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 0.42,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8869,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Birdseye_view_from_top_of_waterworks%2C_North_side%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Birdseye_view_from_top_of_waterworks%2C_North_side%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8869,
+   "L": [
+    0.367708,
+    0.0,
+    0.110156,
+    0.0,
+    0.823164,
+    0.095657
+   ],
+   "R": [
+    0.367715,
+    -0.008745,
+    0.515061,
+    0.011955,
+    0.824208,
+    0.069952
+   ],
+   "g": [
+    0.9926,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.42% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1871",
+  "date_start": 1871,
+  "date_end": 1871,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View after the Chicago fire, by Lovejoy & Foster",
+  "place": "Chicago, Illinois",
+  "year": "1871",
+  "sy": 1871,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/View_after_the_Chicago_fire%2C_by_Lovejoy_%26_Foster.jpg/1920px-View_after_the_Chicago_fire%2C_by_Lovejoy_%26_Foster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f5/View_after_the_Chicago_fire%2C_by_Lovejoy_%26_Foster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_after_the_Chicago_fire,_by_Lovejoy_%26_Foster.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1385,
+  "id": "STA-3506",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3505.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.14,
+  "rot": 0.01,
+  "range": 0.45,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1324,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/View_after_the_Chicago_fire%2C_by_Lovejoy_%26_Foster.jpg/1920px-View_after_the_Chicago_fire%2C_by_Lovejoy_%26_Foster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1324,
+   "L": [
+    0.3875,
+    0.0,
+    0.095573,
+    0.0,
+    0.675926,
+    0.268004
+   ],
+   "R": [
+    0.394043,
+    0.000337,
+    0.508517,
+    -0.011128,
+    0.683511,
+    0.270532
+   ],
+   "g": [
+    1.0,
+    0.9903
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.01° of rotation. Depth measured gentle (0.45% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Lovejoy & Foster",
+  "date_edtf": "1871",
+  "date_start": 1871,
+  "date_end": 1871,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of a drawing) \"The Innocent Cause- or the Origin of Chicago Fire\" (showing Mrs. O'Leary and her cows) (NYPL b11707459-G90F182 013ZF)",
+  "place": "Chicago, Illinois",
+  "year": "1871",
+  "sy": 1871,
+  "era": "mid",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "* by Copelin & Hine.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/View_of_a_drawing%29_%22The_Innocent_Cause-_or_the_Origin_of_Chicago_Fire%22_%28showing_Mrs._O%27Leary_and_her_cows%29_%28NYPL_b11707459-G90F182_013ZF%29.tiff/lossy-page1-1920px-View_of_a_drawing%29_%22The_Innocent_Cause-_or_the_Origin_of_Chicago_Fire%22_%28showing_Mrs._O%27Leary_and_her_cows%29_%28NYPL_b11707459-G90F182_013ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/69/View_of_a_drawing%29_%22The_Innocent_Cause-_or_the_Origin_of_Chicago_Fire%22_%28showing_Mrs._O%27Leary_and_her_cows%29_%28NYPL_b11707459-G90F182_013ZF%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_drawing)_%22The_Innocent_Cause-_or_the_Origin_of_Chicago_Fire%22_(showing_Mrs._O%27Leary_and_her_cows)_(NYPL_b11707459-G90F182_013ZF).tiff",
+  "license": "Public domain",
+  "w": 3072,
+  "h": 1962,
+  "id": "STA-3507",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3506.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.14,
+  "rot": 0.0,
+  "range": 0.56,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9611,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/View_of_a_drawing%29_%22The_Innocent_Cause-_or_the_Origin_of_Chicago_Fire%22_%28showing_Mrs._O%27Leary_and_her_cows%29_%28NYPL_b11707459-G90F182_013ZF%29.tiff/lossy-page1-1920px-View_of_a_drawing%29_%22The_Innocent_Cause-_or_the_Origin_of_Chicago_Fire%22_%28showing_Mrs._O%27Leary_and_her_cows%29_%28NYPL_b11707459-G90F182_013ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9611,
+   "L": [
+    0.282813,
+    0.0,
+    0.20599,
+    0.0,
+    0.460848,
+    0.363377
+   ],
+   "R": [
+    0.282322,
+    0.005525,
+    0.527851,
+    -0.004652,
+    0.459537,
+    0.366044
+   ],
+   "g": [
+    0.997,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.0° of rotation. Depth measured gentle (0.56% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1871",
+  "date_start": 1871,
+  "date_end": 1871,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "The Church block",
+  "place": "Chicago, Illinois",
+  "year": "1871",
+  "sy": 1871,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Church_block%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-The_Church_block%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Church_block%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Church_block,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1403,
+  "id": "STA-3508",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3507.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 1.38,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8471,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Church_block%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-The_Church_block%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8471,
+   "L": [
+    0.378125,
+    0.0,
+    0.097656,
+    0.0,
+    0.870935,
+    0.076728
+   ],
+   "R": [
+    0.378308,
+    -0.016025,
+    0.533188,
+    0.025572,
+    0.872645,
+    0.045409
+   ],
+   "g": [
+    0.9501,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (1.38% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1871",
+  "date_start": 1871,
+  "date_end": 1871,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "North Clark Street, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Chicago, Illinois",
+  "year": "1871",
+  "sy": 1871,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/North_Clark_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-North_Clark_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/30/North_Clark_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:North_Clark_Street,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1410,
+  "id": "STA-3509",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3508.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.0,
+  "range": 0.6,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.6544,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/North_Clark_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-North_Clark_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.6544,
+   "L": [
+    0.351562,
+    0.0,
+    0.136719,
+    0.0,
+    0.412538,
+    0.543478
+   ],
+   "R": [
+    0.352505,
+    -0.013686,
+    0.527521,
+    0.035608,
+    0.415099,
+    0.50614
+   ],
+   "g": [
+    0.9162,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured gentle (0.6% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1871",
+  "date_start": 1871,
+  "date_end": 1871,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Insurance Exchange",
+  "place": "Chicago, Illinois",
+  "year": "1871",
+  "sy": 1871,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Insurance_Exchange%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Insurance_Exchange%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Insurance_Exchange%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Insurance_Exchange,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1408,
+  "id": "STA-3510",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3509.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.16,
+  "rot": 0.03,
+  "range": 0.64,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9268,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Insurance_Exchange%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Insurance_Exchange%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9268,
+   "L": [
+    0.316667,
+    0.0,
+    0.092969,
+    0.0,
+    0.663968,
+    0.097672
+   ],
+   "R": [
+    0.322829,
+    -0.004869,
+    0.514701,
+    0.001137,
+    0.673153,
+    0.092927
+   ],
+   "g": [
+    0.9955,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.03° of rotation. Depth measured gentle (0.64% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1871",
+  "date_start": 1871,
+  "date_end": 1871,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Ruins of an office building",
+  "place": "Chicago, Illinois",
+  "year": "1871",
+  "sy": 1871,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Ruins_of_an_office_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Ruins_of_an_office_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ruins_of_an_office_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Ruins_of_an_office_building,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1372,
+  "id": "STA-3511",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3510.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.0,
+  "range": 1.65,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.9956,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Ruins_of_an_office_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Ruins_of_an_office_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9956,
+   "L": [
+    0.351042,
+    0.0,
+    0.134635,
+    0.0,
+    0.703742,
+    0.051455
+   ],
+   "R": [
+    0.351535,
+    0.009685,
+    0.512538,
+    -0.019832,
+    0.706127,
+    0.060378
+   ],
+   "g": [
+    0.842,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.0° of rotation. Depth measured moderate (1.65% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1871",
+  "date_start": 1871,
+  "date_end": 1871,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "The ruins of Chicago, by George Smith",
+  "place": "Chicago, Illinois",
+  "year": "1871",
+  "sy": 1871,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/The_ruins_of_Chicago%2C_by_George_Smith.jpg/1920px-The_ruins_of_Chicago%2C_by_George_Smith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/ae/The_ruins_of_Chicago%2C_by_George_Smith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:The_ruins_of_Chicago,_by_George_Smith.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1460,
+  "id": "STA-3512",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3511.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.17,
+  "rot": 0.01,
+  "range": 2.37,
+  "f": 0.92,
+  "depth": "Deep",
+  "va": 1.5178,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/The_ruins_of_Chicago%2C_by_George_Smith.jpg/1920px-The_ruins_of_Chicago%2C_by_George_Smith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5178,
+   "L": [
+    0.4,
+    0.0,
+    0.09349,
+    0.0,
+    0.494141,
+    0.377441
+   ],
+   "R": [
+    0.399509,
+    -0.006594,
+    0.515422,
+    -0.00067,
+    0.49666,
+    0.384251
+   ],
+   "g": [
+    0.9569,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.01° of rotation. Depth measured deep (2.37% of frame width); hung in the VR Parlor at 92% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "George Smith",
+  "date_edtf": "1871",
+  "date_start": 1871,
+  "date_end": 1871,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]

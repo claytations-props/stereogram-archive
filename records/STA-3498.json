@@ -1,0 +1,69 @@
+{
+ "title": "Chicago fire views - Clark Street",
+ "place": "Chicago, Illinois",
+ "year": "1871",
+ "sy": 1871,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Chicago_fire_views_-_Clark_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Chicago_fire_views_-_Clark_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Chicago_fire_views_-_Clark_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Chicago_fire_views_-_Clark_Street,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1426,
+ "id": "STA-3498",
+ "rect": "rect/3497.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.12,
+ "rot": 0.03,
+ "range": 1.4,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.7408,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Chicago_fire_views_-_Clark_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Chicago_fire_views_-_Clark_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7408,
+  "L": [
+   0.336458,
+   0.0,
+   0.125781,
+   0.0,
+   0.872,
+   0.0605
+  ],
+  "R": [
+   0.332326,
+   -0.015406,
+   0.522006,
+   0.008944,
+   0.869919,
+   0.064279
+  ],
+  "g": [
+   0.9396,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.03° of rotation. Depth measured gentle (1.4% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1871",
+ "date_start": 1871,
+ "date_end": 1871,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7290405,
+ "source_revision_id": null,
+ "source_sha1": "445046b8ccf9296a1942c9e3a69eb304f28e9099"
+}

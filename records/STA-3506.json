@@ -1,0 +1,69 @@
+{
+ "title": "View after the Chicago fire, by Lovejoy & Foster",
+ "place": "Chicago, Illinois",
+ "year": "1871",
+ "sy": 1871,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/View_after_the_Chicago_fire%2C_by_Lovejoy_%26_Foster.jpg/1920px-View_after_the_Chicago_fire%2C_by_Lovejoy_%26_Foster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/f5/View_after_the_Chicago_fire%2C_by_Lovejoy_%26_Foster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_after_the_Chicago_fire,_by_Lovejoy_%26_Foster.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1385,
+ "id": "STA-3506",
+ "rect": "rect/3505.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.14,
+ "rot": 0.01,
+ "range": 0.45,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.1324,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/View_after_the_Chicago_fire%2C_by_Lovejoy_%26_Foster.jpg/1920px-View_after_the_Chicago_fire%2C_by_Lovejoy_%26_Foster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.1324,
+  "L": [
+   0.3875,
+   0.0,
+   0.095573,
+   0.0,
+   0.675926,
+   0.268004
+  ],
+  "R": [
+   0.394043,
+   0.000337,
+   0.508517,
+   -0.011128,
+   0.683511,
+   0.270532
+  ],
+  "g": [
+   1.0,
+   0.9903
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.01° of rotation. Depth measured gentle (0.45% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Lovejoy & Foster",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1871",
+ "date_start": 1871,
+ "date_end": 1871,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7289890,
+ "source_revision_id": null,
+ "source_sha1": "5913300b7628181a84503f2b4452fe981f8a2816"
+}
