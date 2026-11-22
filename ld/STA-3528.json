@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3528.json",
+ "name": "View of W. Broad and Bank St., Newark, N.J, by G. C. Robinson & Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3527.jpg",
+ "identifier": "STA-3528",
+ "creator": {
+  "@type": "Person",
+  "name": "G. C. Robinson & Co."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Newark, New Jersey"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_W._Broad_and_Bank_St.,_Newark,_N.J,_by_G._C._Robinson_%26_Co..jpg"
+}

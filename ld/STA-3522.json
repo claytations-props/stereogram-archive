@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3522.json",
+ "name": "View of Dr. Wilson's Church, Newark, N.J, by G. C. Robinson & Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3521.jpg",
+ "identifier": "STA-3522",
+ "creator": {
+  "@type": "Person",
+  "name": "G. C. Robinson & Co."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Newark, New Jersey"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_Dr._Wilson%27s_Church,_Newark,_N.J,_by_G._C._Robinson_%26_Co..jpg"
+}

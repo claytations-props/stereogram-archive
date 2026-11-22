@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-3530.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "View of South Park Presbyterian, fronting the entrance to Lincoln Park, Newark, N.J, by G. C. Robinson & Co."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "G. C. Robinson & Co."
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1870"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Newark, New Jersey"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-3530.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-3530/canvas/1",
+   "type": "Canvas",
+   "width": 1628,
+   "height": 817,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-3530/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-3530/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/3529.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1628,
+        "height": 817,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/View_of_South_Park_Presbyterian%2C_fronting_the_entrance_to_Lincoln_Park%2C_Newark%2C_N.J%2C_by_G._C._Robinson_%26_Co..jpg/1920px-View_of_South_Park_Presbyterian%2C_fronting_the_entrance_to_Lincoln_Park%2C_Newark%2C_N.J%2C_by_G._C._Robinson_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-3530/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

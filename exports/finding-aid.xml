@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3513</quantity>
+    <quantity>3527</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5754,6 +5754,22 @@
       <unittitle>St. Albans as seen from the residence of Hon. J. Gregory Smith. Lake Champlain and Adirondacks in the distance, by T. G. Richardson</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3517.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3521">
+     <did>
+      <unitid>STA-3521</unitid>
+      <unittitle>View of Passaic River, Newark, N.J, by G. C. Robinson &amp; Co.</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3520.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3524">
+     <did>
+      <unitid>STA-3524</unitid>
+      <unittitle>View of Passaic River, looking down, Newark, N.J, by G. C. Robinson &amp; Co.</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3523.jpg"/>
      </did>
     </c>
    </c>
@@ -22092,6 +22108,102 @@
       <unittitle>The ruins of Chicago, by George Smith</unittitle>
       <unitdate normal="1871">1871</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3511.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3519">
+     <did>
+      <unitid>STA-3519</unitid>
+      <unittitle>View of Military Park, Newark, N.J, by G. C. Robinson &amp; Co.</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3518.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3520">
+     <did>
+      <unitid>STA-3520</unitid>
+      <unittitle>View of (Military Park), Newark, N.J, by G. C. Robinson &amp; Co.</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3519.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3522">
+     <did>
+      <unitid>STA-3522</unitid>
+      <unittitle>View of Dr. Wilson's Church, Newark, N.J, by G. C. Robinson &amp; Co.</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3521.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3523">
+     <did>
+      <unitid>STA-3523</unitid>
+      <unittitle>View of Centre Market, Newark, N.J, by G. C. Robinson &amp; Co.</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3522.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3525">
+     <did>
+      <unitid>STA-3525</unitid>
+      <unittitle>View of St. Paul M.E. Church, Newark, N.J, by G. C. Robinson &amp; Co.</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3524.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3526">
+     <did>
+      <unitid>STA-3526</unitid>
+      <unittitle>View of (entrance to Military Park), Newark, N.J, by G. C. Robinson &amp; Co.</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3525.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3527">
+     <did>
+      <unitid>STA-3527</unitid>
+      <unittitle>View of 1st (German) Baptist, Mercer St., Newark, N.J, by G. C. Robinson &amp; Co.</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3526.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3528">
+     <did>
+      <unitid>STA-3528</unitid>
+      <unittitle>View of W. Broad and Bank St., Newark, N.J, by G. C. Robinson &amp; Co.</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3527.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3529">
+     <did>
+      <unitid>STA-3529</unitid>
+      <unittitle>View of Park Place, fronting Military Park, East Side, Newark, N.J, by G. C. Robinson &amp; Co.</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3528.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3530">
+     <did>
+      <unitid>STA-3530</unitid>
+      <unittitle>View of South Park Presbyterian, fronting the entrance to Lincoln Park, Newark, N.J, by G. C. Robinson &amp; Co.</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3529.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3531">
+     <did>
+      <unitid>STA-3531</unitid>
+      <unittitle>First Reformed Church</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3530.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3532">
+     <did>
+      <unitid>STA-3532</unitid>
+      <unittitle>Dr. Wilson's Church</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3531.jpg"/>
      </did>
     </c>
    </c>

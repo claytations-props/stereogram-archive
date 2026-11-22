@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3520.json",
+ "name": "View of (Military Park), Newark, N.J, by G. C. Robinson & Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3519.jpg",
+ "identifier": "STA-3520",
+ "creator": {
+  "@type": "Person",
+  "name": "G. C. Robinson & Co."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Newark, New Jersey"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_(Military_Park),_Newark,_N.J,_by_G._C._Robinson_%26_Co..png"
+}
