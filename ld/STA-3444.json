@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3444.json",
+ "name": "Road to Great Falls, Yellowstone Park, by Artistic Stereoscopic Views",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3443.jpg",
+ "identifier": "STA-3444",
+ "creator": {
+  "@type": "Person",
+  "name": "Artistic Stereoscopic Views"
+ },
+ "dateCreated": "1875",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yellowstone, Wyoming"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Road_to_Great_Falls,_Yellowstone_Park,_by_Artistic_Stereoscopic_Views.png"
+}

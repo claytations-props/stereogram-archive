@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3452.json",
+ "name": "Point 'Lookout' and Great Falls, Grand Canyon of the Yellowstone, Yellowstone National Park",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3451.jpg",
+ "identifier": "STA-3452",
+ "dateCreated": "1897",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yellowstone, Wyoming"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Point_%27Lookout%27_and_Great_Falls,_Grand_Canyon_of_the_Yellowstone,_Yellowstone_National_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

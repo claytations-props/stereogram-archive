@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3469.json",
+ "name": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112923)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3468.jpg",
+ "identifier": "STA-3469",
+ "dateCreated": "1881",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Yellowstone, Wyoming"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112923).jpg"
+}

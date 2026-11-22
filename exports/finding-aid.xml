@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3434</quantity>
+    <quantity>3467</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5500,6 +5500,174 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3433.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3440">
+     <did>
+      <unitid>STA-3440</unitid>
+      <unittitle>Yellowstone River, Yellowstone National Park</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3439.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3443">
+     <did>
+      <unitid>STA-3443</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112975)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3442.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3444">
+     <did>
+      <unitid>STA-3444</unitid>
+      <unittitle>Road to Great Falls, Yellowstone Park, by Artistic Stereoscopic Views</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3443.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3447">
+     <did>
+      <unitid>STA-3447</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112929)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3446.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3449">
+     <did>
+      <unitid>STA-3449</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112955)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3448.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3450">
+     <did>
+      <unitid>STA-3450</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112945)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3449.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3451">
+     <did>
+      <unitid>STA-3451</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112951)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3450.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3452">
+     <did>
+      <unitid>STA-3452</unitid>
+      <unittitle>Point 'Lookout' and Great Falls, Grand Canyon of the Yellowstone, Yellowstone National Park</unittitle>
+      <unitdate normal="1897">1897</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3451.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3453">
+     <did>
+      <unitid>STA-3453</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112915)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3452.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3454">
+     <did>
+      <unitid>STA-3454</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112973)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3453.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3455">
+     <did>
+      <unitid>STA-3455</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112927)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3454.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3456">
+     <did>
+      <unitid>STA-3456</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112959)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3455.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3457">
+     <did>
+      <unitid>STA-3457</unitid>
+      <unittitle>Lower Fall of the Yellowstone, Yellowstone National Park,U.S.A</unittitle>
+      <unitdate normal="1897">1897</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3456.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3458">
+     <did>
+      <unitid>STA-3458</unitid>
+      <unittitle>Great Falls and Grand Canyon of the Yellowstone, Yellowstone National Park, Wyo</unittitle>
+      <unitdate normal="1897">1897</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3457.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3459">
+     <did>
+      <unitid>STA-3459</unitid>
+      <unittitle>Pulpit Basin, Yellowstone Park</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3458.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3460">
+     <did>
+      <unitid>STA-3460</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112925)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3459.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3463">
+     <did>
+      <unitid>STA-3463</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112963)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3462.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3464">
+     <did>
+      <unitid>STA-3464</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112967)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3463.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3465">
+     <did>
+      <unitid>STA-3465</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112931)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3464.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3469">
+     <did>
+      <unitid>STA-3469</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112923)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3468.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3472">
+     <did>
+      <unitid>STA-3472</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112977)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3471.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -7799,6 +7967,62 @@
       <unittitle>Flying Hill</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3392.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3441">
+     <did>
+      <unitid>STA-3441</unitid>
+      <unittitle>View of Yellowstone National Park</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3440.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3442">
+     <did>
+      <unitid>STA-3442</unitid>
+      <unittitle>Grand Canyon of the Yellowstone, Yellowstone Park, Wyo</unittitle>
+      <unitdate normal="1897">1897</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3441.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3445">
+     <did>
+      <unitid>STA-3445</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112995)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3444.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3446">
+     <did>
+      <unitid>STA-3446</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112933)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3445.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3461">
+     <did>
+      <unitid>STA-3461</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112983)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3460.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3466">
+     <did>
+      <unitid>STA-3466</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112987)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3465.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3468">
+     <did>
+      <unitid>STA-3468</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112939)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3467.jpg"/>
      </did>
     </c>
    </c>
@@ -24533,6 +24757,30 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3424.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3462">
+     <did>
+      <unitid>STA-3462</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112981)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3461.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3467">
+     <did>
+      <unitid>STA-3467</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112991)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3466.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3471">
+     <did>
+      <unitid>STA-3471</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112937)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3470.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-oddities">
     <did>
@@ -27528,6 +27776,22 @@
       <unittitle>Exhibit of A. Field &amp; Sons, manufacturers of tacks, Taunton, Mass</unittitle>
       <unitdate normal="1876">1876</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3415.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3448">
+     <did>
+      <unitid>STA-3448</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112943)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3447.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3470">
+     <did>
+      <unitid>STA-3470</unitid>
+      <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112985)</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3469.jpg"/>
      </did>
     </c>
    </c>
