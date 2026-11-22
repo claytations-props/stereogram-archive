@@ -1,0 +1,71 @@
+{
+ "title": "Battery Fort Ticonderoga & Mt. Defiance, Lake Champlain",
+ "place": "Fort Ticonderoga, New York",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "water",
+  "war"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Battery_Fort_Ticonderoga_%26_Mt._Defiance%2C_Lake_Champlain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Battery_Fort_Ticonderoga_%26_Mt._Defiance%2C_Lake_Champlain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/90/Battery_Fort_Ticonderoga_%26_Mt._Defiance%2C_Lake_Champlain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Battery_Fort_Ticonderoga_%26_Mt._Defiance,_Lake_Champlain,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2527,
+ "h": 1258,
+ "id": "STA-3513",
+ "rect": "rect/3512.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.01,
+ "range": 0.24,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.8315,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Battery_Fort_Ticonderoga_%26_Mt._Defiance%2C_Lake_Champlain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Battery_Fort_Ticonderoga_%26_Mt._Defiance%2C_Lake_Champlain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.8315,
+  "L": [
+   0.424479,
+   0.0,
+   0.054427,
+   0.0,
+   0.465481,
+   0.088389
+  ],
+  "R": [
+   0.422847,
+   -0.000195,
+   0.511003,
+   -0.002126,
+   0.464417,
+   0.08605
+  ],
+  "g": [
+   1.0,
+   0.9757
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (0.24% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "war"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10248887,
+ "source_revision_id": null,
+ "source_sha1": "6af1f9f2bc7c1eac24b363d09ff2ffa302f74100"
+}

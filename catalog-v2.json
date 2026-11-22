@@ -258243,5 +258243,421 @@
    "fire damage",
    "ruins"
   ]
+ },
+ {
+  "title": "Battery Fort Ticonderoga & Mt. Defiance, Lake Champlain",
+  "place": "Fort Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water",
+   "war"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Battery_Fort_Ticonderoga_%26_Mt._Defiance%2C_Lake_Champlain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Battery_Fort_Ticonderoga_%26_Mt._Defiance%2C_Lake_Champlain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/90/Battery_Fort_Ticonderoga_%26_Mt._Defiance%2C_Lake_Champlain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Battery_Fort_Ticonderoga_%26_Mt._Defiance,_Lake_Champlain,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2527,
+  "h": 1258,
+  "id": "STA-3513",
+  "rect": "rect/3512.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 0.24,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.8315,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Battery_Fort_Ticonderoga_%26_Mt._Defiance%2C_Lake_Champlain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Battery_Fort_Ticonderoga_%26_Mt._Defiance%2C_Lake_Champlain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.8315,
+   "L": [
+    0.424479,
+    0.0,
+    0.054427,
+    0.0,
+    0.465481,
+    0.088389
+   ],
+   "R": [
+    0.422847,
+    -0.000195,
+    0.511003,
+    -0.002126,
+    0.464417,
+    0.08605
+   ],
+   "g": [
+    1.0,
+    0.9757
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (0.24% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water",
+   "war"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248887,
+  "source_revision_id": null,
+  "source_sha1": "6af1f9f2bc7c1eac24b363d09ff2ffa302f74100"
+ },
+ {
+  "title": "St. Albans, from the residence of Hon. J. Gregory Smith, Lake Champlain in the distance, by Vermont Stereoscopic Company",
+  "place": "St. Albans, Vermont",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/St._Albans%2C_from_the_residence_of_Hon._J._Gregory_Smith%2C_Lake_Champlain_in_the_distance%2C_by_Vermont_Stereoscopic_Company.png/1920px-St._Albans%2C_from_the_residence_of_Hon._J._Gregory_Smith%2C_Lake_Champlain_in_the_distance%2C_by_Vermont_Stereoscopic_Company.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/57/St._Albans%2C_from_the_residence_of_Hon._J._Gregory_Smith%2C_Lake_Champlain_in_the_distance%2C_by_Vermont_Stereoscopic_Company.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:St._Albans,_from_the_residence_of_Hon._J._Gregory_Smith,_Lake_Champlain_in_the_distance,_by_Vermont_Stereoscopic_Company.png",
+  "license": "Public domain",
+  "w": 2715,
+  "h": 1412,
+  "id": "STA-3514",
+  "rect": "rect/3513.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 5.61,
+  "f": 0.37,
+  "depth": "Deep",
+  "va": 1.5992,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/St._Albans%2C_from_the_residence_of_Hon._J._Gregory_Smith%2C_Lake_Champlain_in_the_distance%2C_by_Vermont_Stereoscopic_Company.png/1920px-St._Albans%2C_from_the_residence_of_Hon._J._Gregory_Smith%2C_Lake_Champlain_in_the_distance%2C_by_Vermont_Stereoscopic_Company.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5992,
+   "L": [
+    0.394792,
+    0.0,
+    0.077344,
+    0.0,
+    0.474474,
+    0.373874
+   ],
+   "R": [
+    0.391252,
+    -0.014921,
+    0.530249,
+    0.005849,
+    0.471583,
+    0.375299
+   ],
+   "g": [
+    0.9627,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured deep (5.61% of frame width); hung in the VR Parlor at 37% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Vermont Stereoscopic Company",
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091042,
+  "source_revision_id": null,
+  "source_sha1": "ac592b6c785563bf5ec7f1696644ffc5011c85b8"
+ },
+ {
+  "title": "Lake Champlain, Whitehall, N.Y., with baby in carriage, by I. D. Labarre",
+  "place": "Whitehall, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Lake_Champlain%2C_Whitehall%2C_N.Y.%2C_with_baby_in_carriage%2C_by_I._D._Labarre.png/1920px-Lake_Champlain%2C_Whitehall%2C_N.Y.%2C_with_baby_in_carriage%2C_by_I._D._Labarre.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Lake_Champlain%2C_Whitehall%2C_N.Y.%2C_with_baby_in_carriage%2C_by_I._D._Labarre.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Lake_Champlain,_Whitehall,_N.Y.,_with_baby_in_carriage,_by_I._D._Labarre.png",
+  "license": "Public domain",
+  "w": 2538,
+  "h": 1220,
+  "id": "STA-3515",
+  "rect": "rect/3514.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.15,
+  "rot": 0.05,
+  "range": 2.51,
+  "f": 0.8,
+  "depth": "Deep",
+  "va": 1.6859,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Lake_Champlain%2C_Whitehall%2C_N.Y.%2C_with_baby_in_carriage%2C_by_I._D._Labarre.png/1920px-Lake_Champlain%2C_Whitehall%2C_N.Y.%2C_with_baby_in_carriage%2C_by_I._D._Labarre.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.6859,
+   "L": [
+    0.366146,
+    0.0,
+    0.127865,
+    0.0,
+    0.451788,
+    0.269231
+   ],
+   "R": [
+    0.36537,
+    -0.000526,
+    0.551579,
+    0.000886,
+    0.452741,
+    0.255744
+   ],
+   "g": [
+    1.0,
+    0.9941
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.05° of rotation. Depth measured deep (2.51% of frame width); hung in the VR Parlor at 80% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "I. D. Labarre",
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10066877,
+  "source_revision_id": null,
+  "source_sha1": "2ad613d7166e964f0e8e307e664ac6e3c384a4af"
+ },
+ {
+  "title": "Lake Champlain. Steamboat dock at Ticonderoga, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917",
+  "place": "Fort Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Lake_Champlain._Steamboat_dock_at_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg/1920px-Lake_Champlain._Steamboat_dock_at_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Lake_Champlain._Steamboat_dock_at_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Lake_Champlain._Steamboat_dock_at_Ticonderoga,_by_Stoddard,_Seneca_Ray,_1844-1917_,_1844-1917.jpg",
+  "license": "Public domain",
+  "w": 2617,
+  "h": 1490,
+  "id": "STA-3516",
+  "rect": "rect/3515.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.0,
+  "range": 11.1,
+  "f": 0.3,
+  "depth": "Deep",
+  "va": 1.0381,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Lake_Champlain._Steamboat_dock_at_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg/1920px-Lake_Champlain._Steamboat_dock_at_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0381,
+   "L": [
+    0.283854,
+    0.0,
+    0.20599,
+    0.0,
+    0.480329,
+    0.335316
+   ],
+   "R": [
+    0.282082,
+    -0.003058,
+    0.642101,
+    -0.001499,
+    0.478942,
+    0.330461
+   ],
+   "g": [
+    1.0,
+    0.9824
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.0° of rotation. Depth measured deep (11.1% of frame width); hung in the VR Parlor at 30% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Stoddard, Seneca Ray",
+  "creator_dates": "1844-1917",
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248990,
+  "source_revision_id": null,
+  "source_sha1": "10d091d2caa1687b0bebebccaa07d30b7a19f025"
+ },
+ {
+  "title": "Great Head Island, Mallets Bay, Lake Champlain, Vt, by Styles, A. F. (Adin French), 1832-1910",
+  "place": "Mallets Bay, Vermont",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Great_Head_Island%2C_Mallets_Bay%2C_Lake_Champlain%2C_Vt%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.jpg/1920px-Great_Head_Island%2C_Mallets_Bay%2C_Lake_Champlain%2C_Vt%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Great_Head_Island%2C_Mallets_Bay%2C_Lake_Champlain%2C_Vt%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Great_Head_Island,_Mallets_Bay,_Lake_Champlain,_Vt,_by_Styles,_A._F._(Adin_French),_1832-1910.jpg",
+  "license": "Public domain",
+  "w": 2667,
+  "h": 1347,
+  "id": "STA-3517",
+  "rect": "rect/3516.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 1.96,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.3358,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Great_Head_Island%2C_Mallets_Bay%2C_Lake_Champlain%2C_Vt%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.jpg/1920px-Great_Head_Island%2C_Mallets_Bay%2C_Lake_Champlain%2C_Vt%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3358,
+   "L": [
+    0.36875,
+    0.0,
+    0.109115,
+    0.0,
+    0.546392,
+    0.363402
+   ],
+   "R": [
+    0.360117,
+    -0.019435,
+    0.559075,
+    0.003801,
+    0.538719,
+    0.376564
+   ],
+   "g": [
+    0.9886,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured moderate (1.96% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Styles, A. F. (Adin French)",
+  "creator_dates": "1832-1910",
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091171,
+  "source_revision_id": null,
+  "source_sha1": "b4b148d4a30e55c5b17f67b67e665b7a68e16cea"
+ },
+ {
+  "title": "St. Albans as seen from the residence of Hon. J. Gregory Smith. Lake Champlain and Adirondacks in the distance, by T. G. Richardson",
+  "place": "St. Albans, Vermont",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/St._Albans_as_seen_from_the_residence_of_Hon._J._Gregory_Smith._Lake_Champlain_and_Adirondacks_in_the_distance%2C_by_T._G._Richardson.jpg/1920px-St._Albans_as_seen_from_the_residence_of_Hon._J._Gregory_Smith._Lake_Champlain_and_Adirondacks_in_the_distance%2C_by_T._G._Richardson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/be/St._Albans_as_seen_from_the_residence_of_Hon._J._Gregory_Smith._Lake_Champlain_and_Adirondacks_in_the_distance%2C_by_T._G._Richardson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:St._Albans_as_seen_from_the_residence_of_Hon._J._Gregory_Smith._Lake_Champlain_and_Adirondacks_in_the_distance,_by_T._G._Richardson.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1387,
+  "id": "STA-3518",
+  "rect": "rect/3517.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 2.04,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.1902,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/St._Albans_as_seen_from_the_residence_of_Hon._J._Gregory_Smith._Lake_Champlain_and_Adirondacks_in_the_distance%2C_by_T._G._Richardson.jpg/1920px-St._Albans_as_seen_from_the_residence_of_Hon._J._Gregory_Smith._Lake_Champlain_and_Adirondacks_in_the_distance%2C_by_T._G._Richardson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1902,
+   "L": [
+    0.378125,
+    0.0,
+    0.096094,
+    0.0,
+    0.626927,
+    0.049846
+   ],
+   "R": [
+    0.375519,
+    -0.006234,
+    0.532005,
+    0.004516,
+    0.624427,
+    0.04739
+   ],
+   "g": [
+    0.9536,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured moderate (2.04% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "T. G. Richardson",
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10091047,
+  "source_revision_id": null,
+  "source_sha1": "f337681d7095a36ecaa0e329ed47e00a00842b41"
  }
 ]
