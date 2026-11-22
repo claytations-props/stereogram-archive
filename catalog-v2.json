@@ -252832,5 +252832,2286 @@
    "bridge",
    "river"
   ]
+ },
+ {
+  "title": "Yellowstone River, Yellowstone National Park",
+  "place": "Yellowstone, Wyoming",
+  "year": "1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Yellowstone_River%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Yellowstone_River%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/97/Yellowstone_River%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Yellowstone_River,_Yellowstone_National_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1427,
+  "id": "STA-3440",
+  "rect": "rect/3439.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.02,
+  "range": 2.83,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.7809,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Yellowstone_River%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Yellowstone_River%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7809,
+   "L": [
+    0.361979,
+    0.0,
+    0.120052,
+    0.0,
+    0.889111,
+    0.061439
+   ],
+   "R": [
+    0.35457,
+    -0.002836,
+    0.516469,
+    0.007325,
+    0.891667,
+    0.046954
+   ],
+   "g": [
+    1.0,
+    0.9932
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.02° of rotation. Depth measured deep (2.83% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1875",
+  "date_start": 1875,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10244567,
+  "source_revision_id": null,
+  "source_sha1": "1f15d993a29e027effd39dc2f174834148d6d308"
+ },
+ {
+  "title": "View of Yellowstone National Park",
+  "place": "Yellowstone, Wyoming",
+  "year": "1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/View_of_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/cf/View_of_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_Yellowstone_National_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1417,
+  "id": "STA-3441",
+  "rect": "rect/3440.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.03,
+  "range": 0.35,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1187,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/View_of_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_of_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1187,
+   "L": [
+    0.392708,
+    0.0,
+    0.095052,
+    0.0,
+    0.678068,
+    0.264085
+   ],
+   "R": [
+    0.393683,
+    -0.003098,
+    0.5169,
+    0.011823,
+    0.680028,
+    0.248161
+   ],
+   "g": [
+    0.9281,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.03° of rotation. Depth measured gentle (0.35% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "mountains"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1875",
+  "date_start": 1875,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10244513,
+  "source_revision_id": null,
+  "source_sha1": "4590b54ee0730619e8c5d2af9c6c76b5a159ba17"
+ },
+ {
+  "title": "Grand Canyon of the Yellowstone, Yellowstone Park, Wyo",
+  "place": "Yellowstone, Wyoming",
+  "year": "1897",
+  "sy": 1897,
+  "era": "mid",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Grand_Canyon_of_the_Yellowstone%2C_Yellowstone_Park%2C_Wyo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Grand_Canyon_of_the_Yellowstone%2C_Yellowstone_Park%2C_Wyo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Grand_Canyon_of_the_Yellowstone%2C_Yellowstone_Park%2C_Wyo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_of_the_Yellowstone,_Yellowstone_Park,_Wyo,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1374,
+  "id": "STA-3442",
+  "rect": "rect/3441.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.01,
+  "range": 0.54,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8188,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Grand_Canyon_of_the_Yellowstone%2C_Yellowstone_Park%2C_Wyo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Grand_Canyon_of_the_Yellowstone%2C_Yellowstone_Park%2C_Wyo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8188,
+   "L": [
+    0.38125,
+    0.0,
+    0.089844,
+    0.0,
+    0.927386,
+    0.026452
+   ],
+   "R": [
+    0.379973,
+    0.001697,
+    0.507753,
+    -0.004721,
+    0.924048,
+    0.032464
+   ],
+   "g": [
+    0.9911,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured gentle (0.54% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "mountains"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1897",
+  "date_start": 1897,
+  "date_end": 1897,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10244746,
+  "source_revision_id": null,
+  "source_sha1": "13d497e877a32da40a824e8717550de0fc35324b"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112975)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112975%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112975).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 2003,
+  "id": "STA-3443",
+  "rect": "rect/3442.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.15,
+  "rot": 0.01,
+  "range": 0.56,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8104,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112975%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8104,
+   "L": [
+    0.211458,
+    0.0,
+    0.260677,
+    0.0,
+    0.508114,
+    0.368661
+   ],
+   "R": [
+    0.210705,
+    -0.000496,
+    0.669434,
+    -0.004008,
+    0.507157,
+    0.370703
+   ],
+   "g": [
+    1.0,
+    0.9841
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.01° of rotation. Depth measured gentle (0.56% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64677674,
+  "source_revision_id": null,
+  "source_sha1": "18f47845b8c3662b7a75a3f427cf2cf94552363f"
+ },
+ {
+  "title": "Road to Great Falls, Yellowstone Park, by Artistic Stereoscopic Views",
+  "place": "Yellowstone, Wyoming",
+  "year": "1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Road_to_Great_Falls%2C_Yellowstone_Park%2C_by_Artistic_Stereoscopic_Views.png/1920px-Road_to_Great_Falls%2C_Yellowstone_Park%2C_by_Artistic_Stereoscopic_Views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Road_to_Great_Falls%2C_Yellowstone_Park%2C_by_Artistic_Stereoscopic_Views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Road_to_Great_Falls,_Yellowstone_Park,_by_Artistic_Stereoscopic_Views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1584,
+  "id": "STA-3444",
+  "rect": "rect/3443.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 0.44,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1934,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Road_to_Great_Falls%2C_Yellowstone_Park%2C_by_Artistic_Stereoscopic_Views.png/1920px-Road_to_Great_Falls%2C_Yellowstone_Park%2C_by_Artistic_Stereoscopic_Views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1934,
+   "L": [
+    0.376042,
+    0.0,
+    0.08724,
+    0.0,
+    0.544554,
+    0.409991
+   ],
+   "R": [
+    0.378577,
+    -0.000498,
+    0.508698,
+    0.009723,
+    0.54949,
+    0.404662
+   ],
+   "g": [
+    0.8954,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured gentle (0.44% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Artistic Stereoscopic Views",
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1875",
+  "date_start": 1875,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10244996,
+  "source_revision_id": null,
+  "source_sha1": "ee0eae91f2b8c0e38af897581678c2765b912565"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112995)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112995%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112995%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112995%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112995).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 2003,
+  "id": "STA-3445",
+  "rect": "rect/3444.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.03,
+  "range": 1.01,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8712,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112995%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112995%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8712,
+   "L": [
+    0.3875,
+    0.0,
+    0.091406,
+    0.0,
+    0.866126,
+    0.055274
+   ],
+   "R": [
+    0.389146,
+    -0.003908,
+    0.511557,
+    -0.001745,
+    0.871008,
+    0.042272
+   ],
+   "g": [
+    1.0,
+    0.9908
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.03° of rotation. Depth measured gentle (1.01% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "mountains"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64311675,
+  "source_revision_id": null,
+  "source_sha1": "07dbbbec255aa6625eb1349dcfbcc085905a4608"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112933)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112933%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112933%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112933%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112933).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 1985,
+  "id": "STA-3446",
+  "rect": "rect/3445.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.02,
+  "range": 1.16,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8783,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112933%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112933%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8783,
+   "L": [
+    0.386979,
+    0.0,
+    0.101823,
+    0.0,
+    0.865916,
+    0.056807
+   ],
+   "R": [
+    0.386594,
+    0.000277,
+    0.50513,
+    -0.013583,
+    0.868605,
+    0.066695
+   ],
+   "g": [
+    0.9484,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured gentle (1.16% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "mountains"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64311650,
+  "source_revision_id": null,
+  "source_sha1": "44526c882d52ae7a78c1943b5d5ca84748d3a06a"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112929)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112929%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112929%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112929%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112929).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 1985,
+  "id": "STA-3447",
+  "rect": "rect/3446.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 1.24,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8708,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112929%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112929%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8708,
+   "L": [
+    0.379167,
+    0.0,
+    0.113802,
+    0.0,
+    0.855681,
+    0.056807
+   ],
+   "R": [
+    0.376257,
+    -0.020262,
+    0.526364,
+    -0.002722,
+    0.856147,
+    0.063773
+   ],
+   "g": [
+    0.9746,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured gentle (1.24% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64799157,
+  "source_revision_id": null,
+  "source_sha1": "9547f8afe056fcc8ca99e58434addb350155e6ed"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112943)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112943%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112943%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112943%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112943).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 1985,
+  "id": "STA-3448",
+  "rect": "rect/3447.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.21,
+  "rot": 0.01,
+  "range": 1.3,
+  "f": 0.72,
+  "depth": "Gentle",
+  "va": 5.6045,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112943%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112943%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 5.6045,
+   "L": [
+    0.391146,
+    0.0,
+    0.098177,
+    0.0,
+    0.137155,
+    0.761003
+   ],
+   "R": [
+    0.389928,
+    -0.000795,
+    0.510381,
+    -0.010063,
+    0.13681,
+    0.768874
+   ],
+   "g": [
+    0.9781,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.01° of rotation. Depth measured gentle (1.3% of frame width); hung in the VR Parlor at 72% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "oddities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64799173,
+  "source_revision_id": null,
+  "source_sha1": "8658473005a597cbfd1de2f296c957a67f6c0165"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112955)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112955%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112955%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112955%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112955).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 1985,
+  "id": "STA-3449",
+  "rect": "rect/3448.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.02,
+  "range": 0.81,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8255,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112955%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112955%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8255,
+   "L": [
+    0.364583,
+    0.0,
+    0.127344,
+    0.0,
+    0.867963,
+    0.054759
+   ],
+   "R": [
+    0.363377,
+    -0.015661,
+    0.543894,
+    -0.004313,
+    0.865827,
+    0.050505
+   ],
+   "g": [
+    0.9749,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.02° of rotation. Depth measured gentle (0.81% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64799180,
+  "source_revision_id": null,
+  "source_sha1": "70097eda6ece3c0eb00f62c019bdd260f9677694"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112945)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112945%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/de/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112945).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 1985,
+  "id": "STA-3450",
+  "rect": "rect/3449.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 0.82,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8859,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112945%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8859,
+   "L": [
+    0.371875,
+    0.0,
+    0.098177,
+    0.0,
+    0.824974,
+    0.096725
+   ],
+   "R": [
+    0.374001,
+    -0.007715,
+    0.513863,
+    0.001509,
+    0.831389,
+    0.085983
+   ],
+   "g": [
+    0.9895,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (0.82% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64311653,
+  "source_revision_id": null,
+  "source_sha1": "fc67bb60e03d978f8b04728c85f6c233c828b0e3"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112951)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112951%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112951%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/24/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112951%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112951).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 1985,
+  "id": "STA-3451",
+  "rect": "rect/3450.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.07,
+  "range": 1.13,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.857,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112951%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112951%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.857,
+   "L": [
+    0.377604,
+    0.0,
+    0.107031,
+    0.0,
+    0.865916,
+    0.043501
+   ],
+   "R": [
+    0.382317,
+    -0.011679,
+    0.516098,
+    -0.007472,
+    0.869359,
+    0.055619
+   ],
+   "g": [
+    0.9586,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.07° of rotation. Depth measured gentle (1.13% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64677665,
+  "source_revision_id": null,
+  "source_sha1": "c20a108380f011b9c54b668a4128c1ab56d4724f"
+ },
+ {
+  "title": "Point 'Lookout' and Great Falls, Grand Canyon of the Yellowstone, Yellowstone National Park",
+  "place": "Yellowstone, Wyoming",
+  "year": "1897",
+  "sy": 1897,
+  "era": "mid",
+  "cats": [
+   "water",
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Point_%27Lookout%27_and_Great_Falls%2C_Grand_Canyon_of_the_Yellowstone%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Point_%27Lookout%27_and_Great_Falls%2C_Grand_Canyon_of_the_Yellowstone%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Point_%27Lookout%27_and_Great_Falls%2C_Grand_Canyon_of_the_Yellowstone%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Point_%27Lookout%27_and_Great_Falls,_Grand_Canyon_of_the_Yellowstone,_Yellowstone_National_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1413,
+  "id": "STA-3452",
+  "rect": "rect/3451.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 0.34,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9169,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Point_%27Lookout%27_and_Great_Falls%2C_Grand_Canyon_of_the_Yellowstone%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Point_%27Lookout%27_and_Great_Falls%2C_Grand_Canyon_of_the_Yellowstone%2C_Yellowstone_National_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9169,
+   "L": [
+    0.390625,
+    0.0,
+    0.09349,
+    0.0,
+    0.825429,
+    0.119576
+   ],
+   "R": [
+    0.387486,
+    6e-05,
+    0.509959,
+    0.000476,
+    0.821591,
+    0.111821
+   ],
+   "g": [
+    0.8821,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (0.34% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water",
+   "mountains"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1897",
+  "date_start": 1897,
+  "date_end": 1897,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10244649,
+  "source_revision_id": null,
+  "source_sha1": "2c925443f8207c7c12046706ea49ed3225874bcc"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112915)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112915%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112915%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/63/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112915%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112915).jpg",
+  "license": "Public domain",
+  "w": 3840,
+  "h": 1994,
+  "id": "STA-3453",
+  "rect": "rect/3452.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.0,
+  "range": 2.34,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 1.015,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112915%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112915%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.015,
+   "L": [
+    0.386979,
+    0.0,
+    0.10651,
+    0.0,
+    0.734203,
+    0.13992
+   ],
+   "R": [
+    0.385099,
+    -0.026907,
+    0.532,
+    -0.00045,
+    0.735242,
+    0.136127
+   ],
+   "g": [
+    1.0,
+    0.9978
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.0° of rotation. Depth measured deep (2.34% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64428317,
+  "source_revision_id": null,
+  "source_sha1": "224762596c9b09c411aef03c60ced57c8f4ddd81"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112973)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112973%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112973%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112973%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112973).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 2003,
+  "id": "STA-3454",
+  "rect": "rect/3453.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.2,
+  "rot": 0.02,
+  "range": 0.53,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.9842,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112973%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112973%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.9842,
+   "L": [
+    0.393229,
+    0.0,
+    0.10026,
+    0.0,
+    0.256592,
+    0.62931
+   ],
+   "R": [
+    0.394394,
+    0.000376,
+    0.508414,
+    -0.00517,
+    0.256315,
+    0.626966
+   ],
+   "g": [
+    1.0,
+    0.9993
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.2% vertical error and 0.02° of rotation. Depth measured gentle (0.53% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64547404,
+  "source_revision_id": null,
+  "source_sha1": "59c05ed7fc4c3e20c8e54328a2a07c02d0ef3e52"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112927)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112927%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112927%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/45/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112927%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112927).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 1985,
+  "id": "STA-3455",
+  "rect": "rect/3454.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.02,
+  "range": 1.6,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.0212,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112927%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112927%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0212,
+   "L": [
+    0.376563,
+    0.0,
+    0.114323,
+    0.0,
+    0.724667,
+    0.196008
+   ],
+   "R": [
+    0.377273,
+    -0.020813,
+    0.526864,
+    0.006216,
+    0.726287,
+    0.210193
+   ],
+   "g": [
+    0.9923,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.02° of rotation. Depth measured moderate (1.6% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64428321,
+  "source_revision_id": null,
+  "source_sha1": "8e5dbe1a53c2bf74d1e8cf9e21b6b01e4ab8cfeb"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112959)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112959%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112959%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112959%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112959).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 1985,
+  "id": "STA-3456",
+  "rect": "rect/3455.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.25,
+  "rot": 0.0,
+  "range": 0.32,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.85,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112959%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112959%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.85,
+   "L": [
+    0.385937,
+    0.0,
+    0.102865,
+    0.0,
+    0.266121,
+    0.61566
+   ],
+   "R": [
+    0.385985,
+    -0.001094,
+    0.506192,
+    0.001464,
+    0.266145,
+    0.59589
+   ],
+   "g": [
+    0.9822,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.25% vertical error and 0.0° of rotation. Depth measured gentle (0.32% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64547397,
+  "source_revision_id": null,
+  "source_sha1": "1bd6989d313f55fbf953dc7b543ba7c4614a9f83"
+ },
+ {
+  "title": "Lower Fall of the Yellowstone, Yellowstone National Park,U.S.A",
+  "place": "Yellowstone, Wyoming",
+  "year": "1897",
+  "sy": 1897,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Lower_Fall_of_the_Yellowstone%2C_Yellowstone_National_Park%2CU.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Lower_Fall_of_the_Yellowstone%2C_Yellowstone_National_Park%2CU.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Lower_Fall_of_the_Yellowstone%2C_Yellowstone_National_Park%2CU.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Lower_Fall_of_the_Yellowstone,_Yellowstone_National_Park,U.S.A,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1387,
+  "id": "STA-3457",
+  "rect": "rect/3456.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.04,
+  "range": 1.94,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8382,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Lower_Fall_of_the_Yellowstone%2C_Yellowstone_National_Park%2CU.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Lower_Fall_of_the_Yellowstone%2C_Yellowstone_National_Park%2CU.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8382,
+   "L": [
+    0.388542,
+    0.0,
+    0.103385,
+    0.0,
+    0.914697,
+    0.029291
+   ],
+   "R": [
+    0.385911,
+    -0.000138,
+    0.523924,
+    -0.000354,
+    0.914584,
+    0.033108
+   ],
+   "g": [
+    1.0,
+    0.9551
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.04° of rotation. Depth measured moderate (1.94% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1897",
+  "date_start": 1897,
+  "date_end": 1897,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10244960,
+  "source_revision_id": null,
+  "source_sha1": "9091e13300fee355901e0947ca9b69fc286ab3b5"
+ },
+ {
+  "title": "Great Falls and Grand Canyon of the Yellowstone, Yellowstone National Park, Wyo",
+  "place": "Yellowstone, Wyoming",
+  "year": "1897",
+  "sy": 1897,
+  "era": "mid",
+  "cats": [
+   "water",
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Great_Falls_and_Grand_Canyon_of_the_Yellowstone%2C_Yellowstone_National_Park%2C_Wyo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Great_Falls_and_Grand_Canyon_of_the_Yellowstone%2C_Yellowstone_National_Park%2C_Wyo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Great_Falls_and_Grand_Canyon_of_the_Yellowstone%2C_Yellowstone_National_Park%2C_Wyo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Great_Falls_and_Grand_Canyon_of_the_Yellowstone,_Yellowstone_National_Park,_Wyo,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1399,
+  "id": "STA-3458",
+  "rect": "rect/3457.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.02,
+  "range": 0.49,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8348,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Great_Falls_and_Grand_Canyon_of_the_Yellowstone%2C_Yellowstone_National_Park%2C_Wyo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Great_Falls_and_Grand_Canyon_of_the_Yellowstone%2C_Yellowstone_National_Park%2C_Wyo%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8348,
+   "L": [
+    0.384375,
+    0.0,
+    0.099219,
+    0.0,
+    0.901121,
+    0.039246
+   ],
+   "R": [
+    0.382166,
+    0.000406,
+    0.514356,
+    -0.00024,
+    0.902365,
+    0.039942
+   ],
+   "g": [
+    1.0,
+    0.9583
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.02° of rotation. Depth measured gentle (0.49% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water",
+   "mountains"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1897",
+  "date_start": 1897,
+  "date_end": 1897,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10244655,
+  "source_revision_id": null,
+  "source_sha1": "e7d4542d8870d68a5e4e84fb624a1de75b7c582c"
+ },
+ {
+  "title": "Pulpit Basin, Yellowstone Park",
+  "place": "Yellowstone, Wyoming",
+  "year": "1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Pulpit_Basin%2C_Yellowstone_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pulpit_Basin%2C_Yellowstone_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/75/Pulpit_Basin%2C_Yellowstone_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Pulpit_Basin,_Yellowstone_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1588,
+  "id": "STA-3459",
+  "rect": "rect/3458.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.07,
+  "range": 2.37,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 1.2003,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Pulpit_Basin%2C_Yellowstone_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pulpit_Basin%2C_Yellowstone_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2003,
+   "L": [
+    0.399479,
+    0.0,
+    0.092969,
+    0.0,
+    0.573609,
+    0.37298
+   ],
+   "R": [
+    0.398228,
+    0.00141,
+    0.508698,
+    -0.004632,
+    0.572858,
+    0.382902
+   ],
+   "g": [
+    1.0,
+    0.973
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.07° of rotation. Depth measured deep (2.37% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1875",
+  "date_start": 1875,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10244991,
+  "source_revision_id": null,
+  "source_sha1": "ec20819afa944d804ae5c9054591ef480080a4ba"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112925)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112925%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112925%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112925%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112925).jpg",
+  "license": "Public domain",
+  "w": 3840,
+  "h": 1985,
+  "id": "STA-3460",
+  "rect": "rect/3459.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 4.43,
+  "f": 0.8,
+  "depth": "Deep",
+  "va": 0.8984,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112925%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112925%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8984,
+   "L": [
+    0.372917,
+    0.0,
+    0.109115,
+    0.0,
+    0.803427,
+    0.115423
+   ],
+   "R": [
+    0.379306,
+    -0.0138,
+    0.520114,
+    -0.008103,
+    0.80349,
+    0.124482
+   ],
+   "g": [
+    0.9782,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured deep (4.43% of frame width); hung in the VR Parlor at 80% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64677653,
+  "source_revision_id": null,
+  "source_sha1": "707ebc9553dd3ca81e9635d0c712e19c37d49e20"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112983)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112983%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112983%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112983%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112983).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 2003,
+  "id": "STA-3461",
+  "rect": "rect/3460.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 1.07,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9601,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112983%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112983%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9601,
+   "L": [
+    0.376042,
+    0.0,
+    0.103906,
+    0.0,
+    0.762677,
+    0.152637
+   ],
+   "R": [
+    0.372374,
+    -0.005195,
+    0.518005,
+    0.002317,
+    0.76746,
+    0.137753
+   ],
+   "g": [
+    0.9769,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (1.07% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "mountains"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64311667,
+  "source_revision_id": null,
+  "source_sha1": "62fee4c407affa6965c2f8ceed1f9ddaa6dd6990"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112981)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "people"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112981%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112981%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112981%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112981).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 2003,
+  "id": "STA-3462",
+  "rect": "rect/3461.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.04,
+  "range": 0.74,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.161,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112981%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112981%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.161,
+   "L": [
+    0.390625,
+    0.0,
+    0.102865,
+    0.0,
+    0.655172,
+    0.25
+   ],
+   "R": [
+    0.388812,
+    -0.000233,
+    0.509789,
+    -0.005942,
+    0.656877,
+    0.257501
+   ],
+   "g": [
+    1.0,
+    0.955
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.04° of rotation. Depth measured gentle (0.74% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "people"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64799207,
+  "source_revision_id": null,
+  "source_sha1": "2b65343941982a63d418157030c08ac0090a600c"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112963)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112963%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/73/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112963).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 1985,
+  "id": "STA-3463",
+  "rect": "rect/3462.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.06,
+  "rot": 0.0,
+  "range": 0.64,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8731,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112963%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8731,
+   "L": [
+    0.383333,
+    0.0,
+    0.10599,
+    0.0,
+    0.862845,
+    0.061924
+   ],
+   "R": [
+    0.381275,
+    -0.010414,
+    0.518903,
+    -0.007878,
+    0.865073,
+    0.067217
+   ],
+   "g": [
+    1.0,
+    0.9705
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.0° of rotation. Depth measured gentle (0.64% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64677669,
+  "source_revision_id": null,
+  "source_sha1": "0764bdfde4afb4b10dc9866178b16025c6f0635c"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112967)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112967%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112967%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112967%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112967).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 2003,
+  "id": "STA-3464",
+  "rect": "rect/3463.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.16,
+  "rot": 0.0,
+  "range": 0.33,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.913,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112967%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112967%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.913,
+   "L": [
+    0.389583,
+    0.0,
+    0.101823,
+    0.0,
+    0.396552,
+    0.283469
+   ],
+   "R": [
+    0.388665,
+    -0.003868,
+    0.510648,
+    -0.004361,
+    0.396658,
+    0.302737
+   ],
+   "g": [
+    0.9849,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.0° of rotation. Depth measured gentle (0.33% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64799188,
+  "source_revision_id": null,
+  "source_sha1": "e6a809a799b4a3aa523dee82a0ac54b9fc6f012b"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112931)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112931%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112931%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112931%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112931).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 1985,
+  "id": "STA-3465",
+  "rect": "rect/3464.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.16,
+  "rot": 0.0,
+  "range": 0.66,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.6281,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112931%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112931%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.6281,
+   "L": [
+    0.380729,
+    0.0,
+    0.111719,
+    0.0,
+    0.45957,
+    0.420164
+   ],
+   "R": [
+    0.382664,
+    -0.005051,
+    0.509414,
+    -0.012389,
+    0.464057,
+    0.419209
+   ],
+   "g": [
+    0.9642,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.0° of rotation. Depth measured gentle (0.66% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64799164,
+  "source_revision_id": null,
+  "source_sha1": "174220a79e2f330e0b5e8ebdcca2e1aae0da3934"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112987)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112987%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112987%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/42/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112987%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112987).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 2003,
+  "id": "STA-3466",
+  "rect": "rect/3465.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.03,
+  "range": 3.14,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.8367,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112987%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112987%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8367,
+   "L": [
+    0.365625,
+    0.0,
+    0.108594,
+    0.0,
+    0.850913,
+    0.05426
+   ],
+   "R": [
+    0.377252,
+    -0.004199,
+    0.508891,
+    -0.001414,
+    0.852448,
+    0.066918
+   ],
+   "g": [
+    0.95,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.03° of rotation. Depth measured deep (3.14% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "mountains"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64677681,
+  "source_revision_id": null,
+  "source_sha1": "2f2d207271083649fa205fa953a7d781f1ba95c9"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112991)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "people"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112991%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112991%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/63/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112991%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112991).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 2003,
+  "id": "STA-3467",
+  "rect": "rect/3466.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 1.58,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8831,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112991%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112991%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8831,
+   "L": [
+    0.306771,
+    0.0,
+    0.107031,
+    0.0,
+    0.676471,
+    0.197262
+   ],
+   "R": [
+    0.309442,
+    -0.002355,
+    0.510221,
+    -0.002567,
+    0.668967,
+    0.207921
+   ],
+   "g": [
+    1.0,
+    0.9743
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured moderate (1.58% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "people"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64428349,
+  "source_revision_id": null,
+  "source_sha1": "44e4db4afc3d3fc45e276703ee8b98d190734fb3"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112939)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112939%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112939%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/71/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112939%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112939).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 1985,
+  "id": "STA-3468",
+  "rect": "rect/3467.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 2.35,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.8744,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112939%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112939%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8744,
+   "L": [
+    0.384375,
+    0.0,
+    0.097656,
+    0.0,
+    0.863869,
+    0.036336
+   ],
+   "R": [
+    0.393293,
+    -0.003615,
+    0.508516,
+    0.001235,
+    0.861734,
+    0.046301
+   ],
+   "g": [
+    1.0,
+    0.9413
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured deep (2.35% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "mountains"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64428331,
+  "source_revision_id": null,
+  "source_sha1": "38226f0484ff05471be1007ed85802340134e9e4"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112923)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112923%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112923%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112923%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112923).jpg",
+  "license": "Public domain",
+  "w": 3850,
+  "h": 1945,
+  "id": "STA-3469",
+  "rect": "rect/3468.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.31,
+  "rot": 0.01,
+  "range": 0.41,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 3.6165,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112923%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112923%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 3.6165,
+   "L": [
+    0.388021,
+    0.0,
+    0.097135,
+    0.0,
+    0.212371,
+    0.645876
+   ],
+   "R": [
+    0.387427,
+    0.000619,
+    0.518106,
+    -0.011994,
+    0.212546,
+    0.651208
+   ],
+   "g": [
+    1.0,
+    0.9431
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.31% vertical error and 0.01° of rotation. Depth measured gentle (0.41% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64547390,
+  "source_revision_id": null,
+  "source_sha1": "df925beca8c7e7024f4005a998baf891710a040f"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112985)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112985%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112985%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112985%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112985).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 2003,
+  "id": "STA-3470",
+  "rect": "rect/3469.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.19,
+  "rot": 0.0,
+  "range": 1.79,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.4803,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112985%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112985%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.4803,
+   "L": [
+    0.372396,
+    0.0,
+    0.121615,
+    0.0,
+    0.489858,
+    0.409229
+   ],
+   "R": [
+    0.372962,
+    0.002771,
+    0.505198,
+    -0.005018,
+    0.490529,
+    0.404894
+   ],
+   "g": [
+    1.0,
+    0.9348
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.0° of rotation. Depth measured moderate (1.79% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "oddities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64547405,
+  "source_revision_id": null,
+  "source_sha1": "1d406891977e3abfcebd279330b1eb1c8e5f4716"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112937)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "people"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112937%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/83/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112937).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 1985,
+  "id": "STA-3471",
+  "rect": "rect/3470.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 0.71,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.5045,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112937%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5045,
+   "L": [
+    0.349479,
+    0.0,
+    0.144531,
+    0.0,
+    0.456499,
+    0.411975
+   ],
+   "R": [
+    0.349181,
+    -0.001557,
+    0.54439,
+    -0.001669,
+    0.459,
+    0.429779
+   ],
+   "g": [
+    0.9891,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured gentle (0.71% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "people"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64677657,
+  "source_revision_id": null,
+  "source_sha1": "706dcf6aef79542d13ca5c84aba1158e1d10d79c"
+ },
+ {
+  "title": "Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112977)",
+  "place": "Yellowstone, Wyoming",
+  "year": "1881",
+  "sy": 1881,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "Red paper laminate (cardboard) box with removable top, with printed black text on brown paper front, back and top. Holds 36 stereoviews (albumen silver prints) of the major scenic views of Yellowstone Park mounted on cream cardboard.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112977%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112977%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112977%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Box_Of_Stereoscopic_Views,_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park,_1881%E2%80%9388_(CH_69112977).jpg",
+  "license": "Public domain",
+  "w": 3901,
+  "h": 2003,
+  "id": "STA-3472",
+  "rect": "rect/3471.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.0,
+  "range": 0.97,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.295,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112977%29.jpg/1920px-Box_Of_Stereoscopic_Views%2C_Thirty-Six_Selected_Haynes_Stereoscopic_Views_of_the_Yellowstone_National_Park%2C_1881%E2%80%9388_%28CH_69112977%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.295,
+   "L": [
+    0.393229,
+    0.0,
+    0.097135,
+    0.0,
+    0.591278,
+    0.342292
+   ],
+   "R": [
+    0.388622,
+    0.001637,
+    0.505521,
+    -0.004574,
+    0.590557,
+    0.344588
+   ],
+   "g": [
+    0.9542,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (0.97% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1881",
+  "date_start": 1881,
+  "date_end": 1881,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 64428346,
+  "source_revision_id": null,
+  "source_sha1": "2baea5074b77fba7559c21c061c79c1bc1524d37"
  }
 ]
