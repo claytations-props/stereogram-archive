@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-3501.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Wabash Avenue, Church, Chicago, by Continent Stereoscopic Company"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Continent Stereoscopic Company"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1865"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Chicago, Illinois"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-3501.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-3501/canvas/1",
+   "type": "Canvas",
+   "width": 1336,
+   "height": 505,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-3501/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-3501/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/3500.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1336,
+        "height": 505,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Wabash_Avenue%2C_Church%2C_Chicago%2C_by_Continent_Stereoscopic_Company.jpg/1920px-Wabash_Avenue%2C_Church%2C_Chicago%2C_by_Continent_Stereoscopic_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-3501/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

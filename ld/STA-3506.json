@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3506.json",
+ "name": "View after the Chicago fire, by Lovejoy & Foster",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3505.jpg",
+ "identifier": "STA-3506",
+ "creator": {
+  "@type": "Person",
+  "name": "Lovejoy & Foster"
+ },
+ "dateCreated": "1871",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chicago, Illinois"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_after_the_Chicago_fire,_by_Lovejoy_%26_Foster.jpg"
+}

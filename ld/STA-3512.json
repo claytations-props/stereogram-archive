@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3512.json",
+ "name": "The ruins of Chicago, by George Smith",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3511.jpg",
+ "identifier": "STA-3512",
+ "creator": {
+  "@type": "Person",
+  "name": "George Smith"
+ },
+ "dateCreated": "1871",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Chicago, Illinois"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_ruins_of_Chicago,_by_George_Smith.jpg"
+}
