@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3533.json",
+ "name": "The plaza at Sacramento, by Continent Stereoscopic Company",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3532.jpg",
+ "identifier": "STA-3533",
+ "creator": {
+  "@type": "Person",
+  "name": "Continent Stereoscopic Company"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Sacramento, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_plaza_at_Sacramento,_by_Continent_Stereoscopic_Company.jpg"
+}

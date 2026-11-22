@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3545.json",
+ "name": "St. Georges Hotel, Sacramento, by E. & H.T. Anthony (Firm)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3544.jpg",
+ "identifier": "STA-3545",
+ "creator": {
+  "@type": "Person",
+  "name": "E. & H.T. Anthony (Firm)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Sacramento, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:St._Georges_Hotel,_Sacramento,_by_E._%26_H.T._Anthony_(Firm).jpg"
+}

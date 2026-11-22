@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3538.json",
+ "name": "Twenty-six horse combined harvester cutting barley, Sacramento Valley, Cal",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3537.jpg",
+ "identifier": "STA-3538",
+ "dateCreated": "1905",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Sacramento, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Twenty-six_horse_combined_harvester_cutting_barley,_Sacramento_Valley,_Cal,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

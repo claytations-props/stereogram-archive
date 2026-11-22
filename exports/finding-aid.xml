@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3527</quantity>
+    <quantity>3542</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5772,6 +5772,22 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3523.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3541">
+     <did>
+      <unitid>STA-3541</unitid>
+      <unittitle>The river and steamers at Sacramento City, by Thomas Houseworth &amp; Co.</unittitle>
+      <unitdate normal="1860/1900">1860–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3540.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3542">
+     <did>
+      <unitid>STA-3542</unitid>
+      <unittitle>Levee and railway, Sacramento, Cal, by Kilburn Brothers</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3541.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -8127,6 +8143,14 @@
       <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112939)</unittitle>
       <unitdate normal="1881">1881</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3467.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3538">
+     <did>
+      <unitid>STA-3538</unitid>
+      <unittitle>Twenty-six horse combined harvester cutting barley, Sacramento Valley, Cal</unittitle>
+      <unitdate normal="1905">1905</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3537.jpg"/>
      </did>
     </c>
    </c>
@@ -22204,6 +22228,102 @@
       <unittitle>Dr. Wilson's Church</unittitle>
       <unitdate normal="1865/1875">c. 1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3531.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3533">
+     <did>
+      <unitid>STA-3533</unitid>
+      <unittitle>The plaza at Sacramento, by Continent Stereoscopic Company</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3532.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3534">
+     <did>
+      <unitid>STA-3534</unitid>
+      <unittitle>Sacramento, California</unittitle>
+      <unitdate normal="1860/1900">1860–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3533.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3535">
+     <did>
+      <unitid>STA-3535</unitid>
+      <unittitle>A beautiful street in Sacramento, California</unittitle>
+      <unitdate normal="1860/1900">1860–1900</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3534.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3536">
+     <did>
+      <unitid>STA-3536</unitid>
+      <unittitle>Sacramento St., San Francisco</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3535.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3537">
+     <did>
+      <unitid>STA-3537</unitid>
+      <unittitle>Corner, Montgomery and Sacramento Sts., San Francisco</unittitle>
+      <unitdate normal="1861/1873">1861–1873</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3536.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3539">
+     <did>
+      <unitid>STA-3539</unitid>
+      <unittitle>View of Sacramento, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1860/1862">1860–1862</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3538.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3540">
+     <did>
+      <unitid>STA-3540</unitid>
+      <unittitle>View among the Chinese on Sacramento Street</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3539.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3543">
+     <did>
+      <unitid>STA-3543</unitid>
+      <unittitle>Chinese market places, Sacramento Street</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3542.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3544">
+     <did>
+      <unitid>STA-3544</unitid>
+      <unittitle>Chinese market places, Sacramento Street, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3543.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3545">
+     <did>
+      <unitid>STA-3545</unitid>
+      <unittitle>St. Georges Hotel, Sacramento, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1859/1862">1859–1862</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3544.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3546">
+     <did>
+      <unitid>STA-3546</unitid>
+      <unittitle>State Capitol, Sacramento, Cal, by Reilly, John James, 1839-1894</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3545.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3547">
+     <did>
+      <unitid>STA-3547</unitid>
+      <unittitle>Chinese store, Sacramento Street, San Francisco, Cal</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3546.jpg"/>
      </did>
     </c>
    </c>

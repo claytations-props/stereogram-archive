@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3541.json",
+ "name": "The river and steamers at Sacramento City, by Thomas Houseworth & Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3540.jpg",
+ "identifier": "STA-3541",
+ "creator": {
+  "@type": "Person",
+  "name": "Thomas Houseworth & Co."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Sacramento, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_river_and_steamers_at_Sacramento_City,_by_Thomas_Houseworth_%26_Co..jpg"
+}

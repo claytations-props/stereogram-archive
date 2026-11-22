@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3546.json",
+ "name": "State Capitol, Sacramento, Cal, by Reilly, John James, 1839-1894",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3545.jpg",
+ "identifier": "STA-3546",
+ "creator": {
+  "@type": "Person",
+  "name": "Reilly, John James"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Sacramento, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:State_Capitol,_Sacramento,_Cal,_by_Reilly,_John_James,_1839-1894.jpg"
+}

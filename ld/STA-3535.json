@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3535.json",
+ "name": "A beautiful street in Sacramento, California",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3534.jpg",
+ "identifier": "STA-3535",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Sacramento, California"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:A_beautiful_street_in_Sacramento,_California,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}
