@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-3514.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "St. Albans, from the residence of Hon. J. Gregory Smith, Lake Champlain in the distance, by Vermont Stereoscopic Company"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Vermont Stereoscopic Company"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1865"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "St. Albans, Vermont"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-3514.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-3514/canvas/1",
+   "type": "Canvas",
+   "width": 1516,
+   "height": 474,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-3514/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-3514/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/3513.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1516,
+        "height": 474,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/St._Albans%2C_from_the_residence_of_Hon._J._Gregory_Smith%2C_Lake_Champlain_in_the_distance%2C_by_Vermont_Stereoscopic_Company.png/1920px-St._Albans%2C_from_the_residence_of_Hon._J._Gregory_Smith%2C_Lake_Champlain_in_the_distance%2C_by_Vermont_Stereoscopic_Company.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-3514/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

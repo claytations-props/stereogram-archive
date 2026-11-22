@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3507</quantity>
+    <quantity>3513</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5706,6 +5706,54 @@
       <unittitle>Ruins of Chicago - Clark Street bridge, looking north across the river</unittitle>
       <unitdate normal="1871">1871</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3501.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3513">
+     <did>
+      <unitid>STA-3513</unitid>
+      <unittitle>Battery Fort Ticonderoga &amp; Mt. Defiance, Lake Champlain</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3512.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3514">
+     <did>
+      <unitid>STA-3514</unitid>
+      <unittitle>St. Albans, from the residence of Hon. J. Gregory Smith, Lake Champlain in the distance, by Vermont Stereoscopic Company</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3513.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3515">
+     <did>
+      <unitid>STA-3515</unitid>
+      <unittitle>Lake Champlain, Whitehall, N.Y., with baby in carriage, by I. D. Labarre</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3514.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3516">
+     <did>
+      <unitid>STA-3516</unitid>
+      <unittitle>Lake Champlain. Steamboat dock at Ticonderoga, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3515.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3517">
+     <did>
+      <unitid>STA-3517</unitid>
+      <unittitle>Great Head Island, Mallets Bay, Lake Champlain, Vt, by Styles, A. F. (Adin French), 1832-1910</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3516.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3518">
+     <did>
+      <unitid>STA-3518</unitid>
+      <unittitle>St. Albans as seen from the residence of Hon. J. Gregory Smith. Lake Champlain and Adirondacks in the distance, by T. G. Richardson</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3517.jpg"/>
      </did>
     </c>
    </c>

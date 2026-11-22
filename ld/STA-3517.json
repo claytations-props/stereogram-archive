@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3517.json",
+ "name": "Great Head Island, Mallets Bay, Lake Champlain, Vt, by Styles, A. F. (Adin French), 1832-1910",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3516.jpg",
+ "identifier": "STA-3517",
+ "creator": {
+  "@type": "Person",
+  "name": "Styles, A. F. (Adin French)"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mallets Bay, Vermont"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Great_Head_Island,_Mallets_Bay,_Lake_Champlain,_Vt,_by_Styles,_A._F._(Adin_French),_1832-1910.jpg"
+}

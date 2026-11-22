@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-3518.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "St. Albans as seen from the residence of Hon. J. Gregory Smith. Lake Champlain and Adirondacks in the distance, by T. G. Richardson"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "T. G. Richardson"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1865"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "St. Albans, Vermont"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-3518.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-3518/canvas/1",
+   "type": "Canvas",
+   "width": 1452,
+   "height": 610,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-3518/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-3518/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/3517.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1452,
+        "height": 610,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/St._Albans_as_seen_from_the_residence_of_Hon._J._Gregory_Smith._Lake_Champlain_and_Adirondacks_in_the_distance%2C_by_T._G._Richardson.jpg/1920px-St._Albans_as_seen_from_the_residence_of_Hon._J._Gregory_Smith._Lake_Champlain_and_Adirondacks_in_the_distance%2C_by_T._G._Richardson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-3518/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

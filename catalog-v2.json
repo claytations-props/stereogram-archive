@@ -258313,7 +258313,11 @@
   "license_url": null,
   "source_page_id": 10248887,
   "source_revision_id": null,
-  "source_sha1": "6af1f9f2bc7c1eac24b363d09ff2ffa302f74100"
+  "source_sha1": "6af1f9f2bc7c1eac24b363d09ff2ffa302f74100",
+  "tags": [
+   "lake",
+   "trees"
+  ]
  },
  {
   "title": "St. Albans, from the residence of Hon. J. Gregory Smith, Lake Champlain in the distance, by Vermont Stereoscopic Company",
@@ -258382,7 +258386,11 @@
   "license_url": null,
   "source_page_id": 10091042,
   "source_revision_id": null,
-  "source_sha1": "ac592b6c785563bf5ec7f1696644ffc5011c85b8"
+  "source_sha1": "ac592b6c785563bf5ec7f1696644ffc5011c85b8",
+  "tags": [
+   "house",
+   "trees"
+  ]
  },
  {
   "title": "Lake Champlain, Whitehall, N.Y., with baby in carriage, by I. D. Labarre",
@@ -258451,7 +258459,11 @@
   "license_url": null,
   "source_page_id": 10066877,
   "source_revision_id": null,
-  "source_sha1": "2ad613d7166e964f0e8e307e664ac6e3c384a4af"
+  "source_sha1": "2ad613d7166e964f0e8e307e664ac6e3c384a4af",
+  "tags": [
+   "lake",
+   "children"
+  ]
  },
  {
   "title": "Lake Champlain. Steamboat dock at Ticonderoga, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917",
@@ -258520,7 +258532,14 @@
   "license_url": null,
   "source_page_id": 10248990,
   "source_revision_id": null,
-  "source_sha1": "10d091d2caa1687b0bebebccaa07d30b7a19f025"
+  "source_sha1": "10d091d2caa1687b0bebebccaa07d30b7a19f025",
+  "tags": [
+   "pier",
+   "lake",
+   "horse",
+   "wagon",
+   "trees"
+  ]
  },
  {
   "title": "Great Head Island, Mallets Bay, Lake Champlain, Vt, by Styles, A. F. (Adin French), 1832-1910",
@@ -258589,7 +258608,13 @@
   "license_url": null,
   "source_page_id": 10091171,
   "source_revision_id": null,
-  "source_sha1": "b4b148d4a30e55c5b17f67b67e665b7a68e16cea"
+  "source_sha1": "b4b148d4a30e55c5b17f67b67e665b7a68e16cea",
+  "tags": [
+   "lake",
+   "trees",
+   "rock formation",
+   "island"
+  ]
  },
  {
   "title": "St. Albans as seen from the residence of Hon. J. Gregory Smith. Lake Champlain and Adirondacks in the distance, by T. G. Richardson",
@@ -258658,6 +258683,11 @@
   "license_url": null,
   "source_page_id": 10091047,
   "source_revision_id": null,
-  "source_sha1": "f337681d7095a36ecaa0e329ed47e00a00842b41"
+  "source_sha1": "f337681d7095a36ecaa0e329ed47e00a00842b41",
+  "tags": [
+   "house",
+   "lake",
+   "trees"
+  ]
  }
 ]
