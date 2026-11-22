@@ -208425,5 +208425,891 @@
   "date_start": 1865,
   "date_end": 1875,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "The plaza at Sacramento, by Continent Stereoscopic Company",
+  "place": "Sacramento, California",
+  "year": "c. 1885",
+  "sy": 1885,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_plaza_at_Sacramento%2C_by_Continent_Stereoscopic_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_plaza_at_Sacramento%2C_by_Continent_Stereoscopic_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:The_plaza_at_Sacramento,_by_Continent_Stereoscopic_Company.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 467,
+  "id": "STA-3533",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3532.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.14,
+  "rot": 0.02,
+  "range": 1.91,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8387,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_plaza_at_Sacramento%2C_by_Continent_Stereoscopic_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.8387,
+   "L": [
+    0.376316,
+    0.0,
+    0.115132,
+    0.0,
+    0.730193,
+    0.127409
+   ],
+   "R": [
+    0.373234,
+    -0.004676,
+    0.507616,
+    -0.00014,
+    0.728217,
+    0.129382
+   ],
+   "g": [
+    0.9677,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.02° of rotation. Depth measured moderate (1.91% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Continent Stereoscopic Company",
+  "date_edtf": "1885~",
+  "date_start": 1880,
+  "date_end": 1890,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Sacramento, California",
+  "place": "Sacramento, California",
+  "year": "1860–1900",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Sacramento%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Sacramento%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Sacramento,_California,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 389,
+  "id": "STA-3534",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3533.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.27,
+  "rot": 0.11,
+  "range": 2.24,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 1.2793,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Sacramento%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 1.2793,
+   "L": [
+    0.301316,
+    0.0,
+    0.098026,
+    0.0,
+    0.460154,
+    0.271208
+   ],
+   "R": [
+    0.297368,
+    -0.00693,
+    0.518909,
+    0.001427,
+    0.46109,
+    0.282462
+   ],
+   "g": [
+    0.9605,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.27% vertical error and 0.11° of rotation. Depth measured deep (2.24% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860/1900",
+  "date_start": 1860,
+  "date_end": 1900,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "A beautiful street in Sacramento, California",
+  "place": "Sacramento, California",
+  "year": "1860–1900",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/A_beautiful_street_in_Sacramento%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/2f/A_beautiful_street_in_Sacramento%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:A_beautiful_street_in_Sacramento,_California,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 391,
+  "id": "STA-3535",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3534.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.16,
+  "rot": 0.07,
+  "range": 1.83,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.811,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/2/2f/A_beautiful_street_in_Sacramento%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.811,
+   "L": [
+    0.367105,
+    0.0,
+    0.109868,
+    0.0,
+    0.879795,
+    0.065217
+   ],
+   "R": [
+    0.365734,
+    -0.001585,
+    0.522303,
+    -0.001809,
+    0.884378,
+    0.060863
+   ],
+   "g": [
+    0.964,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.07° of rotation. Depth measured moderate (1.83% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860/1900",
+  "date_start": 1860,
+  "date_end": 1900,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Sacramento St., San Francisco",
+  "place": "San Francisco, California",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Sacramento_St.%2C_San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Sacramento_St.%2C_San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sacramento_St.%2C_San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Sacramento_St.,_San_Francisco,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1362,
+  "id": "STA-3536",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3535.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.18,
+  "rot": 0.03,
+  "range": 0.7,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.4354,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Sacramento_St.%2C_San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Sacramento_St.%2C_San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.4354,
+   "L": [
+    0.329688,
+    0.0,
+    0.140885,
+    0.0,
+    0.46178,
+    0.381675
+   ],
+   "R": [
+    0.336268,
+    -0.00063,
+    0.520337,
+    -0.001157,
+    0.472299,
+    0.375542
+   ],
+   "g": [
+    1.0,
+    0.962
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.03° of rotation. Depth measured gentle (0.7% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Corner, Montgomery and Sacramento Sts., San Francisco",
+  "place": "San Francisco, California",
+  "year": "1861–1873",
+  "sy": 1861,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Corner%2C_Montgomery_and_Sacramento_Sts.%2C_San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Corner%2C_Montgomery_and_Sacramento_Sts.%2C_San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/01/Corner%2C_Montgomery_and_Sacramento_Sts.%2C_San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Corner,_Montgomery_and_Sacramento_Sts.,_San_Francisco,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2709,
+  "h": 1375,
+  "id": "STA-3537",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3536.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 0.82,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9322,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Corner%2C_Montgomery_and_Sacramento_Sts.%2C_San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Corner%2C_Montgomery_and_Sacramento_Sts.%2C_San_Francisco%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9322,
+   "L": [
+    0.415104,
+    0.0,
+    0.063281,
+    0.0,
+    0.876923,
+    0.055897
+   ],
+   "R": [
+    0.416689,
+    -0.000803,
+    0.511414,
+    4e-06,
+    0.884324,
+    0.067684
+   ],
+   "g": [
+    1.0,
+    0.9906
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (0.82% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1861/1873",
+  "date_start": 1861,
+  "date_end": 1873,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Twenty-six horse combined harvester cutting barley, Sacramento Valley, Cal",
+  "place": "Sacramento, California",
+  "year": "1905",
+  "sy": 1905,
+  "era": "late",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Twenty-six_horse_combined_harvester_cutting_barley%2C_Sacramento_Valley%2C_Cal%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Twenty-six_horse_combined_harvester_cutting_barley%2C_Sacramento_Valley%2C_Cal%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/39/Twenty-six_horse_combined_harvester_cutting_barley%2C_Sacramento_Valley%2C_Cal%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Twenty-six_horse_combined_harvester_cutting_barley,_Sacramento_Valley,_Cal,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1410,
+  "id": "STA-3538",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3537.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.17,
+  "rot": 0.01,
+  "range": 0.76,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2649,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Twenty-six_horse_combined_harvester_cutting_barley%2C_Sacramento_Valley%2C_Cal%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Twenty-six_horse_combined_harvester_cutting_barley%2C_Sacramento_Valley%2C_Cal%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2649,
+   "L": [
+    0.375521,
+    0.0,
+    0.10026,
+    0.0,
+    0.57634,
+    0.350354
+   ],
+   "R": [
+    0.377926,
+    -0.011231,
+    0.515807,
+    0.00265,
+    0.574389,
+    0.355745
+   ],
+   "g": [
+    1.0,
+    0.884
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.01° of rotation. Depth measured gentle (0.76% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1905",
+  "date_start": 1905,
+  "date_end": 1905,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of Sacramento, by E. & H.T. Anthony (Firm)",
+  "place": "Sacramento, California",
+  "year": "1860–1862",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/7/72/View_of_Sacramento%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/72/View_of_Sacramento%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_Sacramento,_by_E._%26_H.T._Anthony_(Firm).jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 379,
+  "id": "STA-3539",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3538.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.31,
+  "rot": 0.03,
+  "range": 1.92,
+  "f": 0.78,
+  "depth": "Moderate",
+  "va": 2.4167,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/7/72/View_of_Sacramento%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 2.4167,
+   "L": [
+    0.343421,
+    0.0,
+    0.132237,
+    0.0,
+    0.28496,
+    0.5
+   ],
+   "R": [
+    0.343835,
+    -0.001113,
+    0.521358,
+    0.000388,
+    0.285662,
+    0.499779
+   ],
+   "g": [
+    1.0,
+    0.9241
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.31% vertical error and 0.03° of rotation. Depth measured moderate (1.92% of frame width); hung in the VR Parlor at 78% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "E. & H.T. Anthony (Firm)",
+  "date_edtf": "1860/1862",
+  "date_start": 1860,
+  "date_end": 1862,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View among the Chinese on Sacramento Street",
+  "place": "San Francisco, California",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/View_among_the_Chinese_on_Sacramento_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_among_the_Chinese_on_Sacramento_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/17/View_among_the_Chinese_on_Sacramento_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_among_the_Chinese_on_Sacramento_Street,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1421,
+  "id": "STA-3540",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3539.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.0,
+  "range": 2.95,
+  "f": 0.72,
+  "depth": "Deep",
+  "va": 1.5742,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/View_among_the_Chinese_on_Sacramento_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-View_among_the_Chinese_on_Sacramento_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5742,
+   "L": [
+    0.342708,
+    0.0,
+    0.097135,
+    0.0,
+    0.419258,
+    0.145938
+   ],
+   "R": [
+    0.344917,
+    0.000145,
+    0.514039,
+    -0.004092,
+    0.41798,
+    0.145291
+   ],
+   "g": [
+    0.9501,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured deep (2.95% of frame width); hung in the VR Parlor at 72% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "The river and steamers at Sacramento City, by Thomas Houseworth & Co.",
+  "place": "Sacramento, California",
+  "year": "1860–1900",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water",
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/6/64/The_river_and_steamers_at_Sacramento_City%2C_by_Thomas_Houseworth_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/64/The_river_and_steamers_at_Sacramento_City%2C_by_Thomas_Houseworth_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:The_river_and_steamers_at_Sacramento_City,_by_Thomas_Houseworth_%26_Co..jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 371,
+  "id": "STA-3541",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3540.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.15,
+  "rot": 0.02,
+  "range": 0.87,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9224,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/6/64/The_river_and_steamers_at_Sacramento_City%2C_by_Thomas_Houseworth_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.9224,
+   "L": [
+    0.406579,
+    0.0,
+    0.065132,
+    0.0,
+    0.902965,
+    0.04717
+   ],
+   "R": [
+    0.403446,
+    -0.000277,
+    0.509877,
+    -0.001265,
+    0.90122,
+    0.050616
+   ],
+   "g": [
+    0.9588,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.02° of rotation. Depth measured gentle (0.87% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Thomas Houseworth & Co.",
+  "date_edtf": "1860/1900",
+  "date_start": 1860,
+  "date_end": 1900,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Levee and railway, Sacramento, Cal, by Kilburn Brothers",
+  "place": "Sacramento, California",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Levee_and_railway%2C_Sacramento%2C_Cal%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Levee_and_railway%2C_Sacramento%2C_Cal%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Levee_and_railway,_Sacramento,_Cal,_by_Kilburn_Brothers.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 390,
+  "id": "STA-3542",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3541.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.14,
+  "rot": 0.0,
+  "range": 1.92,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8542,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Levee_and_railway%2C_Sacramento%2C_Cal%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.8542,
+   "L": [
+    0.385526,
+    0.0,
+    0.0875,
+    0.0,
+    0.879487,
+    0.065385
+   ],
+   "R": [
+    0.386788,
+    0.003627,
+    0.50393,
+    -0.006016,
+    0.877451,
+    0.067432
+   ],
+   "g": [
+    0.9981,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.0° of rotation. Depth measured moderate (1.92% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Chinese market places, Sacramento Street",
+  "place": "San Francisco, California",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Chinese_market_places%2C_Sacramento_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Chinese_market_places%2C_Sacramento_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/85/Chinese_market_places%2C_Sacramento_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Chinese_market_places,_Sacramento_Street,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1446,
+  "id": "STA-3543",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3542.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.02,
+  "range": 2.3,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.8318,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Chinese_market_places%2C_Sacramento_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Chinese_market_places%2C_Sacramento_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8318,
+   "L": [
+    0.383854,
+    0.0,
+    0.079427,
+    0.0,
+    0.873767,
+    0.04783
+   ],
+   "R": [
+    0.375246,
+    0.00532,
+    0.528005,
+    -0.01038,
+    0.871443,
+    0.056204
+   ],
+   "g": [
+    1.0,
+    0.9943
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured deep (2.3% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Chinese market places, Sacramento Street, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "San Francisco, California",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chinese_market_places%2C_Sacramento_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Chinese_market_places%2C_Sacramento_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Chinese_market_places%2C_Sacramento_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Chinese_market_places,_Sacramento_Street,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1419,
+  "id": "STA-3544",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3543.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.05,
+  "range": 4.83,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.452,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chinese_market_places%2C_Sacramento_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Chinese_market_places%2C_Sacramento_Street%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.452,
+   "L": [
+    0.208333,
+    0.0,
+    0.279948,
+    0.0,
+    0.889447,
+    0.049749
+   ],
+   "R": [
+    0.201393,
+    -0.018975,
+    0.709601,
+    0.003787,
+    0.885324,
+    0.054227
+   ],
+   "g": [
+    0.9605,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.05° of rotation. Depth measured deep (4.83% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "St. Georges Hotel, Sacramento, by E. & H.T. Anthony (Firm)",
+  "place": "Sacramento, California",
+  "year": "1859–1862",
+  "sy": 1859,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/St._Georges_Hotel%2C_Sacramento%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/61/St._Georges_Hotel%2C_Sacramento%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:St._Georges_Hotel,_Sacramento,_by_E._%26_H.T._Anthony_(Firm).jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 379,
+  "id": "STA-3545",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3544.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.31,
+  "rot": 0.03,
+  "range": 0.6,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2802,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/6/61/St._Georges_Hotel%2C_Sacramento%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 1.2802,
+   "L": [
+    0.348684,
+    0.0,
+    0.136184,
+    0.0,
+    0.546174,
+    0.378628
+   ],
+   "R": [
+    0.349527,
+    0.000305,
+    0.520269,
+    0.001153,
+    0.548006,
+    0.390239
+   ],
+   "g": [
+    0.931,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.31% vertical error and 0.03° of rotation. Depth measured gentle (0.6% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "E. & H.T. Anthony (Firm)",
+  "date_edtf": "1859/1862",
+  "date_start": 1859,
+  "date_end": 1862,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "State Capitol, Sacramento, Cal, by Reilly, John James, 1839-1894",
+  "place": "Sacramento, California",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/State_Capitol%2C_Sacramento%2C_Cal%2C_by_Reilly%2C_John_James%2C_1839-1894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ea/State_Capitol%2C_Sacramento%2C_Cal%2C_by_Reilly%2C_John_James%2C_1839-1894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:State_Capitol,_Sacramento,_Cal,_by_Reilly,_John_James,_1839-1894.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 398,
+  "id": "STA-3546",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3545.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.14,
+  "rot": 0.01,
+  "range": 4.51,
+  "f": 0.87,
+  "depth": "Deep",
+  "va": 0.7994,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/e/ea/State_Capitol%2C_Sacramento%2C_Cal%2C_by_Reilly%2C_John_James%2C_1839-1894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.7994,
+   "L": [
+    0.367105,
+    0.0,
+    0.101974,
+    0.0,
+    0.876884,
+    0.059045
+   ],
+   "R": [
+    0.36651,
+    0.002893,
+    0.506568,
+    -0.008361,
+    0.871816,
+    0.070858
+   ],
+   "g": [
+    0.9768,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.01° of rotation. Depth measured deep (4.51% of frame width); hung in the VR Parlor at 87% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Reilly, John James",
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Chinese store, Sacramento Street, San Francisco, Cal",
+  "place": "San Francisco, California",
+  "year": "1868",
+  "sy": 1868,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Chinese_store%2C_Sacramento_Street%2C_San_Francisco%2C_Cal%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Chinese_store%2C_Sacramento_Street%2C_San_Francisco%2C_Cal%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Chinese_store%2C_Sacramento_Street%2C_San_Francisco%2C_Cal%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Chinese_store,_Sacramento_Street,_San_Francisco,_Cal,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1403,
+  "id": "STA-3547",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3546.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.02,
+  "range": 0.89,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8616,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Chinese_store%2C_Sacramento_Street%2C_San_Francisco%2C_Cal%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Chinese_store%2C_Sacramento_Street%2C_San_Francisco%2C_Cal%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8616,
+   "L": [
+    0.398958,
+    0.0,
+    0.092969,
+    0.0,
+    0.903455,
+    0.052337
+   ],
+   "R": [
+    0.395155,
+    -0.006502,
+    0.511523,
+    0.010232,
+    0.893096,
+    0.057693
+   ],
+   "g": [
+    1.0,
+    0.9963
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured gentle (0.89% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1868",
+  "date_start": 1868,
+  "date_end": 1868,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]

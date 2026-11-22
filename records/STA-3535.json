@@ -1,0 +1,69 @@
+{
+ "title": "A beautiful street in Sacramento, California",
+ "place": "Sacramento, California",
+ "year": "1860–1900",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/A_beautiful_street_in_Sacramento%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/2f/A_beautiful_street_in_Sacramento%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:A_beautiful_street_in_Sacramento,_California,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 391,
+ "id": "STA-3535",
+ "rect": "rect/3534.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.16,
+ "rot": 0.07,
+ "range": 1.83,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.811,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/2/2f/A_beautiful_street_in_Sacramento%2C_California%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.811,
+  "L": [
+   0.367105,
+   0.0,
+   0.109868,
+   0.0,
+   0.879795,
+   0.065217
+  ],
+  "R": [
+   0.365734,
+   -0.001585,
+   0.522303,
+   -0.001809,
+   0.884378,
+   0.060863
+  ],
+  "g": [
+   0.964,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.07° of rotation. Depth measured moderate (1.83% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860/1900",
+ "date_start": 1860,
+ "date_end": 1900,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12019944,
+ "source_revision_id": null,
+ "source_sha1": "e746e27fabeb0a51a36e93b48ae8ba95059a4cae"
+}

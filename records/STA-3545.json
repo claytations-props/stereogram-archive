@@ -1,0 +1,69 @@
+{
+ "title": "St. Georges Hotel, Sacramento, by E. & H.T. Anthony (Firm)",
+ "place": "Sacramento, California",
+ "year": "1859–1862",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/St._Georges_Hotel%2C_Sacramento%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/61/St._Georges_Hotel%2C_Sacramento%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:St._Georges_Hotel,_Sacramento,_by_E._%26_H.T._Anthony_(Firm).jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 379,
+ "id": "STA-3545",
+ "rect": "rect/3544.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.31,
+ "rot": 0.03,
+ "range": 0.6,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.2802,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/6/61/St._Georges_Hotel%2C_Sacramento%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.2802,
+  "L": [
+   0.348684,
+   0.0,
+   0.136184,
+   0.0,
+   0.546174,
+   0.378628
+  ],
+  "R": [
+   0.349527,
+   0.000305,
+   0.520269,
+   0.001153,
+   0.548006,
+   0.390239
+  ],
+  "g": [
+   0.931,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.31% vertical error and 0.03° of rotation. Depth measured gentle (0.6% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "E. & H.T. Anthony (Firm)",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859/1862",
+ "date_start": 1859,
+ "date_end": 1862,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12019947,
+ "source_revision_id": null,
+ "source_sha1": "729e7d09c34bc819ee3fb1d7e7a88bc5504281ed"
+}

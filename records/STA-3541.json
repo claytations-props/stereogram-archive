@@ -1,0 +1,71 @@
+{
+ "title": "The river and steamers at Sacramento City, by Thomas Houseworth & Co.",
+ "place": "Sacramento, California",
+ "year": "1860–1900",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "water",
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/6/64/The_river_and_steamers_at_Sacramento_City%2C_by_Thomas_Houseworth_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/64/The_river_and_steamers_at_Sacramento_City%2C_by_Thomas_Houseworth_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_river_and_steamers_at_Sacramento_City,_by_Thomas_Houseworth_%26_Co..jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 371,
+ "id": "STA-3541",
+ "rect": "rect/3540.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.15,
+ "rot": 0.02,
+ "range": 0.87,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9224,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/6/64/The_river_and_steamers_at_Sacramento_City%2C_by_Thomas_Houseworth_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.9224,
+  "L": [
+   0.406579,
+   0.0,
+   0.065132,
+   0.0,
+   0.902965,
+   0.04717
+  ],
+  "R": [
+   0.403446,
+   -0.000277,
+   0.509877,
+   -0.001265,
+   0.90122,
+   0.050616
+  ],
+  "g": [
+   0.9588,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.02° of rotation. Depth measured gentle (0.87% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Thomas Houseworth & Co.",
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860/1900",
+ "date_start": 1860,
+ "date_end": 1900,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12019952,
+ "source_revision_id": null,
+ "source_sha1": "68015394c902505348b15e83a7af88cde24d4990"
+}

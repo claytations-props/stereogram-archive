@@ -1,0 +1,69 @@
+{
+ "title": "The plaza at Sacramento, by Continent Stereoscopic Company",
+ "place": "Sacramento, California",
+ "year": "c. 1885",
+ "sy": 1885,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_plaza_at_Sacramento%2C_by_Continent_Stereoscopic_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_plaza_at_Sacramento%2C_by_Continent_Stereoscopic_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_plaza_at_Sacramento,_by_Continent_Stereoscopic_Company.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 467,
+ "id": "STA-3533",
+ "rect": "rect/3532.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.14,
+ "rot": 0.02,
+ "range": 1.91,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.8387,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_plaza_at_Sacramento%2C_by_Continent_Stereoscopic_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8387,
+  "L": [
+   0.376316,
+   0.0,
+   0.115132,
+   0.0,
+   0.730193,
+   0.127409
+  ],
+  "R": [
+   0.373234,
+   -0.004676,
+   0.507616,
+   -0.00014,
+   0.728217,
+   0.129382
+  ],
+  "g": [
+   0.9677,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.02° of rotation. Depth measured moderate (1.91% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Continent Stereoscopic Company",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1885~",
+ "date_start": 1880,
+ "date_end": 1890,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12019965,
+ "source_revision_id": null,
+ "source_sha1": "314a28a84b814215d2ce00c99652f1a1d86f2efd"
+}

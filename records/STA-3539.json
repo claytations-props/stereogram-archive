@@ -1,0 +1,69 @@
+{
+ "title": "View of Sacramento, by E. & H.T. Anthony (Firm)",
+ "place": "Sacramento, California",
+ "year": "1860–1862",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/7/72/View_of_Sacramento%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/72/View_of_Sacramento%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_Sacramento,_by_E._%26_H.T._Anthony_(Firm).jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 379,
+ "id": "STA-3539",
+ "rect": "rect/3538.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.31,
+ "rot": 0.03,
+ "range": 1.92,
+ "f": 0.78,
+ "depth": "Moderate",
+ "va": 2.4167,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/7/72/View_of_Sacramento%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 2.4167,
+  "L": [
+   0.343421,
+   0.0,
+   0.132237,
+   0.0,
+   0.28496,
+   0.5
+  ],
+  "R": [
+   0.343835,
+   -0.001113,
+   0.521358,
+   0.000388,
+   0.285662,
+   0.499779
+  ],
+  "g": [
+   1.0,
+   0.9241
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.31% vertical error and 0.03° of rotation. Depth measured moderate (1.92% of frame width); hung in the VR Parlor at 78% size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "E. & H.T. Anthony (Firm)",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860/1862",
+ "date_start": 1860,
+ "date_end": 1862,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12019945,
+ "source_revision_id": null,
+ "source_sha1": "31d32559cd8a5cbc09c4a5d8bc63b18e38abbdd7"
+}
