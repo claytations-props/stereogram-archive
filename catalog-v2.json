@@ -255308,5 +255308,1730 @@
    "meadow",
    "trees"
   ]
+ },
+ {
+  "title": "View in Central Park",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/View_in_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_in_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/cc/View_in_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_in_Central_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2608,
+  "h": 1288,
+  "id": "STA-3473",
+  "rect": "rect/3472.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.0,
+  "range": 2.92,
+  "f": 0.57,
+  "depth": "Deep",
+  "va": 2.0865,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/View_in_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_in_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.0865,
+   "L": [
+    0.377083,
+    0.0,
+    0.103906,
+    0.0,
+    0.366034,
+    0.400316
+   ],
+   "R": [
+    0.376633,
+    -0.001341,
+    0.513912,
+    -0.000276,
+    0.365688,
+    0.397493
+   ],
+   "g": [
+    0.9349,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured deep (2.92% of frame width); hung in the VR Parlor at 57% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12009883,
+  "source_revision_id": null,
+  "source_sha1": "92076fa5eeae7b99d53f680a1e35e991c25a49fd"
+ },
+ {
+  "title": "View in Central Park, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/View_in_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-View_in_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/62/View_in_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_in_Central_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2607,
+  "h": 1307,
+  "id": "STA-3474",
+  "rect": "rect/3473.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.01,
+  "range": 2.59,
+  "f": 0.91,
+  "depth": "Deep",
+  "va": 1.3901,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/View_in_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-View_in_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3901,
+   "L": [
+    0.395313,
+    0.0,
+    0.082031,
+    0.0,
+    0.566978,
+    0.384735
+   ],
+   "R": [
+    0.39106,
+    -0.018353,
+    0.523275,
+    -0.002415,
+    0.558287,
+    0.363002
+   ],
+   "g": [
+    0.9433,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.01° of rotation. Depth measured deep (2.59% of frame width); hung in the VR Parlor at 91% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12009926,
+  "source_revision_id": null,
+  "source_sha1": "aba3c41a776775177e36d420a813c471dd0b451b"
+ },
+ {
+  "title": "View of pathway and seats, Central Park",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/View_of_pathway_and_seats%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/ae/View_of_pathway_and_seats%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_pathway_and_seats,_Central_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 380,
+  "id": "STA-3475",
+  "rect": "rect/3474.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.23,
+  "rot": 0.07,
+  "range": 3.13,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.9203,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/a/ae/View_of_pathway_and_seats%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.9203,
+   "L": [
+    0.364474,
+    0.0,
+    0.125658,
+    0.0,
+    0.792105,
+    0.169737
+   ],
+   "R": [
+    0.362095,
+    -0.00902,
+    0.580415,
+    -0.000185,
+    0.795602,
+    0.152072
+   ],
+   "g": [
+    0.991,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.23% vertical error and 0.07° of rotation. Depth measured deep (3.13% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12019017,
+  "source_revision_id": null,
+  "source_sha1": "bcbc5a1686e3297c365e943f3bf160d94cf3b190"
+ },
+ {
+  "title": "View in Central Park, New York",
+  "place": "New York, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/cf/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_in_Central_Park,_New_York,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2631,
+  "h": 1335,
+  "id": "STA-3476",
+  "rect": "rect/3475.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.05,
+  "range": 2.05,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8344,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8344,
+   "L": [
+    0.391146,
+    0.0,
+    0.098698,
+    0.0,
+    0.924025,
+    0.033368
+   ],
+   "R": [
+    0.384488,
+    -0.009801,
+    0.514658,
+    -0.000667,
+    0.925237,
+    0.034933
+   ],
+   "g": [
+    1.0,
+    0.9548
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.05° of rotation. Depth measured moderate (2.05% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12009999,
+  "source_revision_id": null,
+  "source_sha1": "097948a890dddd77ec6b4dc79a806f977900c3fa"
+ },
+ {
+  "title": "View of the upper part of Central Park. (Garden view.)",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_the_upper_part_of_Central_Park._%28Garden_view.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_the_upper_part_of_Central_Park._%28Garden_view.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_the_upper_part_of_Central_Park._(Garden_view.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 373,
+  "id": "STA-3477",
+  "rect": "rect/3476.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.18,
+  "rot": 0.04,
+  "range": 1.01,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8971,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_the_upper_part_of_Central_Park._%28Garden_view.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.8971,
+   "L": [
+    0.413158,
+    0.0,
+    0.070395,
+    0.0,
+    0.938338,
+    0.033512
+   ],
+   "R": [
+    0.411957,
+    -0.006741,
+    0.527239,
+    -0.006639,
+    0.933151,
+    0.030302
+   ],
+   "g": [
+    0.975,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.04° of rotation. Depth measured gentle (1.01% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12018908,
+  "source_revision_id": null,
+  "source_sha1": "b41cca6811e048343dcfdadbd8bd7c1f39ed78cd"
+ },
+ {
+  "title": "Bridge, Central Park",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bridge%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bridge%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bridge%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bridge,_Central_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2587,
+  "h": 1297,
+  "id": "STA-3478",
+  "rect": "rect/3477.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.01,
+  "range": 3.36,
+  "f": 0.87,
+  "depth": "Deep",
+  "va": 1.0931,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bridge%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bridge%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0931,
+   "L": [
+    0.379167,
+    0.0,
+    0.103385,
+    0.0,
+    0.691589,
+    0.252856
+   ],
+   "R": [
+    0.379931,
+    -0.0126,
+    0.537848,
+    -0.002472,
+    0.696187,
+    0.258162
+   ],
+   "g": [
+    0.9198,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured deep (3.36% of frame width); hung in the VR Parlor at 87% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12009815,
+  "source_revision_id": null,
+  "source_sha1": "eec182333b772a1c11d4721b5220e01378be4e60"
+ },
+ {
+  "title": "Distant view of Bow Bridge, Central Park",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Distant_view_of_Bow_Bridge%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Distant_view_of_Bow_Bridge%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Distant_view_of_Bow_Bridge%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Distant_view_of_Bow_Bridge,_Central_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2591,
+  "h": 1309,
+  "id": "STA-3479",
+  "rect": "rect/3478.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 2.47,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.8683,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Distant_view_of_Bow_Bridge%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Distant_view_of_Bow_Bridge%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8683,
+   "L": [
+    0.411979,
+    0.0,
+    0.078385,
+    0.0,
+    0.939175,
+    0.032474
+   ],
+   "R": [
+    0.41839,
+    0.000252,
+    0.506587,
+    0.00103,
+    0.9452,
+    0.027253
+   ],
+   "g": [
+    0.9963,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured deep (2.47% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12009890,
+  "source_revision_id": null,
+  "source_sha1": "d9fdb57cc5b4ea0bccf1020da843fcff4b8ae078"
+ },
+ {
+  "title": "View in Central Park, N.Y, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "New York, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/View_in_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-View_in_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/36/View_in_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_in_Central_Park,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png",
+  "license": "Public domain",
+  "w": 2563,
+  "h": 1279,
+  "id": "STA-3480",
+  "rect": "rect/3479.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.05,
+  "range": 3.75,
+  "f": 0.71,
+  "depth": "Deep",
+  "va": 1.2136,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/View_in_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png/1920px-View_in_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2136,
+   "L": [
+    0.417187,
+    0.0,
+    0.057552,
+    0.0,
+    0.688935,
+    0.265658
+   ],
+   "R": [
+    0.419452,
+    0.003901,
+    0.508537,
+    -0.007084,
+    0.683613,
+    0.278684
+   ],
+   "g": [
+    1.0,
+    0.9391
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.05° of rotation. Depth measured deep (3.75% of frame width); hung in the VR Parlor at 71% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12010021,
+  "source_revision_id": null,
+  "source_sha1": "12684e5f31c9c2dc246cab5840949eb8259076eb"
+ },
+ {
+  "title": "View in Central Park, New York, from Robert N. Dennis collection of stereoscopic views 5",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg/1920px-View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c4/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_in_Central_Park,_New_York,_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg",
+  "license": "Public domain",
+  "w": 2636,
+  "h": 1350,
+  "id": "STA-3481",
+  "rect": "rect/3480.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.16,
+  "rot": 0.02,
+  "range": 1.57,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.3289,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg/1920px-View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3289,
+   "L": [
+    0.361979,
+    0.0,
+    0.123177,
+    0.0,
+    0.532045,
+    0.361648
+   ],
+   "R": [
+    0.36837,
+    0.002793,
+    0.50715,
+    -0.007742,
+    0.533375,
+    0.352947
+   ],
+   "g": [
+    1.0,
+    0.9536
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.02° of rotation. Depth measured moderate (1.57% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12011442,
+  "source_revision_id": null,
+  "source_sha1": "4baffc6e6098ac834df1382452e9801c6eaa0e17"
+ },
+ {
+  "title": "View in Central Park, New York, from Robert N. Dennis collection of stereoscopic views 9",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_9.jpg/1920px-View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f2/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_in_Central_Park,_New_York,_from_Robert_N._Dennis_collection_of_stereoscopic_views_9.jpg",
+  "license": "Public domain",
+  "w": 2615,
+  "h": 1490,
+  "id": "STA-3482",
+  "rect": "rect/3481.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 2.9,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.9399,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_9.jpg/1920px-View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9399,
+   "L": [
+    0.350521,
+    0.0,
+    0.111198,
+    0.0,
+    0.654479,
+    0.250914
+   ],
+   "R": [
+    0.350998,
+    -0.004833,
+    0.515251,
+    -0.000339,
+    0.656395,
+    0.260856
+   ],
+   "g": [
+    1.0,
+    0.945
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured deep (2.9% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12011579,
+  "source_revision_id": null,
+  "source_sha1": "bb4561ef3b90061da57776e4a6433590d15c29ca"
+ },
+ {
+  "title": "View in Central Park, New York, from Robert N. Dennis collection of stereoscopic views 8",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg/1920px-View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/86/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_in_Central_Park,_New_York,_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg",
+  "license": "Public domain",
+  "w": 2615,
+  "h": 1490,
+  "id": "STA-3483",
+  "rect": "rect/3482.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.01,
+  "range": 2.24,
+  "f": 0.97,
+  "depth": "Deep",
+  "va": 1.5297,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg/1920px-View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5297,
+   "L": [
+    0.376042,
+    0.0,
+    0.113281,
+    0.0,
+    0.431444,
+    0.369744
+   ],
+   "R": [
+    0.377533,
+    -0.005745,
+    0.523652,
+    0.007649,
+    0.433668,
+    0.366882
+   ],
+   "g": [
+    1.0,
+    0.9278
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.01° of rotation. Depth measured deep (2.24% of frame width); hung in the VR Parlor at 97% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12011571,
+  "source_revision_id": null,
+  "source_sha1": "93ea623a3c84c73d59999b4cdd108abcf2067a82"
+ },
+ {
+  "title": "View in Central Park, New York, from Robert N. Dennis collection of stereoscopic views 7",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg/1920px-View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8e/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_in_Central_Park,_New_York,_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg",
+  "license": "Public domain",
+  "w": 2618,
+  "h": 1312,
+  "id": "STA-3484",
+  "rect": "rect/3483.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.01,
+  "range": 0.92,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9101,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg/1920px-View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9101,
+   "L": [
+    0.353125,
+    0.0,
+    0.109115,
+    0.0,
+    0.774428,
+    0.050416
+   ],
+   "R": [
+    0.355655,
+    -0.015374,
+    0.541127,
+    0.00691,
+    0.777842,
+    0.032981
+   ],
+   "g": [
+    1.0,
+    0.9618
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured gentle (0.92% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12011508,
+  "source_revision_id": null,
+  "source_sha1": "0a842dae93d5457176d6a58de1a43783a2d073a0"
+ },
+ {
+  "title": "The Spa, Central Park",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/c/c9/The_Spa%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c9/The_Spa%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Spa,_Central_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 384,
+  "id": "STA-3485",
+  "rect": "rect/3484.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.19,
+  "rot": 0.01,
+  "range": 1.82,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.7775,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/c/c9/The_Spa%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.7775,
+   "L": [
+    0.353947,
+    0.0,
+    0.129605,
+    0.0,
+    0.901042,
+    0.027344
+   ],
+   "R": [
+    0.356544,
+    -0.007619,
+    0.516326,
+    0.005312,
+    0.904672,
+    0.040401
+   ],
+   "g": [
+    1.0,
+    0.913
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.01° of rotation. Depth measured moderate (1.82% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12019055,
+  "source_revision_id": null,
+  "source_sha1": "88e26f1344686bc69ccdf9fcbc4e760539920d41"
+ },
+ {
+  "title": "Entrance (to Central Park)",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/5/58/Entrance_%28to_Central_Park%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/58/Entrance_%28to_Central_Park%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Entrance_(to_Central_Park),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 388,
+  "id": "STA-3486",
+  "rect": "rect/3485.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.16,
+  "rot": 0.03,
+  "range": 2.2,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.736,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/5/58/Entrance_%28to_Central_Park%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.736,
+   "L": [
+    0.344737,
+    0.0,
+    0.111184,
+    0.0,
+    0.917526,
+    0.039948
+   ],
+   "R": [
+    0.354071,
+    -0.011727,
+    0.532204,
+    0.003958,
+    0.925965,
+    0.029644
+   ],
+   "g": [
+    0.9929,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.03° of rotation. Depth measured deep (2.2% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12018940,
+  "source_revision_id": null,
+  "source_sha1": "86c255af33f9d7ba788e263f7413f610f32ab496"
+ },
+ {
+  "title": "Central Park, from Robert N. Dennis collection of stereoscopic views 10",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_10.jpg/1920px-Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/df/Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Central_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views_10.jpg",
+  "license": "Public domain",
+  "w": 2624,
+  "h": 1326,
+  "id": "STA-3487",
+  "rect": "rect/3486.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 0.54,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.5082,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_10.jpg/1920px-Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5082,
+   "L": [
+    0.381771,
+    0.0,
+    0.101823,
+    0.0,
+    0.501031,
+    0.425258
+   ],
+   "R": [
+    0.382667,
+    -0.008096,
+    0.544038,
+    0.00343,
+    0.502472,
+    0.433278
+   ],
+   "g": [
+    0.9208,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured gentle (0.54% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12011398,
+  "source_revision_id": null,
+  "source_sha1": "8c4781f81e32d1605edafd935329e0770e3e8ba3"
+ },
+ {
+  "title": "Arbor scene (Central Park). (Hand-colored view.)",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/Arbor_scene_%28Central_Park%29._%28Hand-colored_view.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/19/Arbor_scene_%28Central_Park%29._%28Hand-colored_view.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Arbor_scene_(Central_Park)._(Hand-colored_view.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 384,
+  "id": "STA-3488",
+  "rect": "rect/3487.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.26,
+  "rot": 0.02,
+  "range": 1.12,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9618,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/1/19/Arbor_scene_%28Central_Park%29._%28Hand-colored_view.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.9618,
+   "L": [
+    0.397368,
+    0.0,
+    0.078289,
+    0.0,
+    0.817708,
+    0.14974
+   ],
+   "R": [
+    0.393391,
+    -0.002837,
+    0.517732,
+    0.002889,
+    0.809492,
+    0.156932
+   ],
+   "g": [
+    1.0,
+    0.9788
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.26% vertical error and 0.02° of rotation. Depth measured gentle (1.12% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12018888,
+  "source_revision_id": null,
+  "source_sha1": "126d80acfafc195cf0a6a5427bbf20eb9499948e"
+ },
+ {
+  "title": "Central Park, the Fountain",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Central_Park%2C_the_Fountain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Central_Park%2C_the_Fountain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/37/Central_Park%2C_the_Fountain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Central_Park,_the_Fountain,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2552,
+  "h": 1238,
+  "id": "STA-3489",
+  "rect": "rect/3488.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.0,
+  "range": 2.71,
+  "f": 0.96,
+  "depth": "Deep",
+  "va": 1.2496,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Central_Park%2C_the_Fountain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Central_Park%2C_the_Fountain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2496,
+   "L": [
+    0.383333,
+    0.0,
+    0.09974,
+    0.0,
+    0.632653,
+    0.33029
+   ],
+   "R": [
+    0.386285,
+    -0.009632,
+    0.51504,
+    -0.001577,
+    0.635711,
+    0.332009
+   ],
+   "g": [
+    1.0,
+    0.8494
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.0° of rotation. Depth measured deep (2.71% of frame width); hung in the VR Parlor at 96% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12011217,
+  "source_revision_id": null,
+  "source_sha1": "02f3f0f20bc1aebc5b910fa648520d03a01389fa"
+ },
+ {
+  "title": "Stereoscopic views of structures in Central Park, New York City",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Stereoscopic_views_of_structures_in_Central_Park%2C_New_York_City%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Stereoscopic_views_of_structures_in_Central_Park%2C_New_York_City%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Stereoscopic_views_of_structures_in_Central_Park,_New_York_City,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 382,
+  "id": "STA-3490",
+  "rect": "rect/3489.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.17,
+  "rot": 0.01,
+  "range": 1.17,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8129,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Stereoscopic_views_of_structures_in_Central_Park%2C_New_York_City%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.8129,
+   "L": [
+    0.348684,
+    0.0,
+    0.117763,
+    0.0,
+    0.853403,
+    0.040576
+   ],
+   "R": [
+    0.353446,
+    -0.001159,
+    0.511819,
+    -0.004214,
+    0.867354,
+    0.033043
+   ],
+   "g": [
+    1.0,
+    0.9502
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.01° of rotation. Depth measured gentle (1.17% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12018943,
+  "source_revision_id": null,
+  "source_sha1": "10b9120c83225b1b536039db6832257d0d18f581"
+ },
+ {
+  "title": "Lake, Central Park",
+  "place": "New York, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Lake%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Lake%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Lake%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Lake,_Central_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2639,
+  "h": 1299,
+  "id": "STA-3491",
+  "rect": "rect/3490.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.01,
+  "range": 2.2,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 1.3004,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Lake%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Lake%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3004,
+   "L": [
+    0.35625,
+    0.0,
+    0.136719,
+    0.0,
+    0.556614,
+    0.084127
+   ],
+   "R": [
+    0.353372,
+    0.002296,
+    0.504173,
+    -0.001737,
+    0.560337,
+    0.045752
+   ],
+   "g": [
+    0.9808,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.01° of rotation. Depth measured deep (2.2% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12010076,
+  "source_revision_id": null,
+  "source_sha1": "0555c59a3ebd37ff656ef6195c59e18b53a78d73"
+ },
+ {
+  "title": "Fountain, Central Park",
+  "place": "New York, New York",
+  "year": "1859",
+  "sy": 1859,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Fountain%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Fountain%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Fountain%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Fountain,_Central_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2565,
+  "h": 1267,
+  "id": "STA-3492",
+  "rect": "rect/3491.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.17,
+  "rot": 0.01,
+  "range": 1.33,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2723,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Fountain%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Fountain%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2723,
+   "L": [
+    0.379688,
+    0.0,
+    0.104427,
+    0.0,
+    0.60443,
+    0.044831
+   ],
+   "R": [
+    0.385346,
+    0.001585,
+    0.518084,
+    -0.001854,
+    0.614088,
+    0.032365
+   ],
+   "g": [
+    0.98,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.01° of rotation. Depth measured gentle (1.33% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1859",
+  "date_start": 1859,
+  "date_end": 1859,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12010502,
+  "source_revision_id": null,
+  "source_sha1": "3b512e85348c5aa579392448b22e4917c41bda09"
+ },
+ {
+  "title": "Cave, Central Park",
+  "place": "New York, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Cave%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cave%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Cave%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cave,_Central_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2615,
+  "h": 1387,
+  "id": "STA-3493",
+  "rect": "rect/3492.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.08,
+  "range": 2.26,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.9027,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Cave%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cave%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9027,
+   "L": [
+    0.377083,
+    0.0,
+    0.103906,
+    0.0,
+    0.787819,
+    0.174361
+   ],
+   "R": [
+    0.398818,
+    -0.009243,
+    0.538324,
+    0.01289,
+    0.787446,
+    0.130333
+   ],
+   "g": [
+    1.0,
+    0.9585
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.08° of rotation. Depth measured deep (2.26% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12010134,
+  "source_revision_id": null,
+  "source_sha1": "9cc10587e8058d73cdfa22e9869d099fb210eb2d"
+ },
+ {
+  "title": "View on the lake, Central Park, N.Y",
+  "place": "New York, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/View_on_the_lake%2C_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_on_the_lake%2C_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/91/View_on_the_lake%2C_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_on_the_lake,_Central_Park,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2631,
+  "h": 1339,
+  "id": "STA-3494",
+  "rect": "rect/3493.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.2,
+  "rot": 0.15,
+  "range": 1.23,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.5,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/View_on_the_lake%2C_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_on_the_lake%2C_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5,
+   "L": [
+    0.382812,
+    0.0,
+    0.104427,
+    0.0,
+    0.501535,
+    0.380246
+   ],
+   "R": [
+    0.392337,
+    -0.01932,
+    0.525849,
+    -0.000881,
+    0.508241,
+    0.377266
+   ],
+   "g": [
+    0.9424,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.2% vertical error and 0.15° of rotation. Depth measured gentle (1.23% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12010029,
+  "source_revision_id": null,
+  "source_sha1": "47384eaae5fb9e0f5b482c038ae56e888544cdd9"
+ },
+ {
+  "title": "Central Park, N.Y",
+  "place": "New York, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/18/Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Central_Park,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2627,
+  "h": 1339,
+  "id": "STA-3495",
+  "rect": "rect/3494.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 3.23,
+  "f": 0.9,
+  "depth": "Deep",
+  "va": 1.107,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.107,
+   "L": [
+    0.3125,
+    0.0,
+    0.090365,
+    0.0,
+    0.553626,
+    0.081205
+   ],
+   "R": [
+    0.318294,
+    -0.003975,
+    0.507729,
+    -0.000546,
+    0.55513,
+    0.080111
+   ],
+   "g": [
+    0.9549,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured deep (3.23% of frame width); hung in the VR Parlor at 90% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12010026,
+  "source_revision_id": null,
+  "source_sha1": "76c54b8ed2208329d6d96f8c49e81c355c37ee74"
+ },
+ {
+  "title": "View on the mount, Central Park",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/View_on_the_mount%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_on_the_mount%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/10/View_on_the_mount%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_on_the_mount,_Central_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2604,
+  "h": 1312,
+  "id": "STA-3496",
+  "rect": "rect/3495.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.0,
+  "range": 0.67,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0842,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/View_on_the_mount%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_on_the_mount%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0842,
+   "L": [
+    0.389062,
+    0.0,
+    0.101823,
+    0.0,
+    0.712513,
+    0.018097
+   ],
+   "R": [
+    0.388062,
+    0.001181,
+    0.505091,
+    -0.00843,
+    0.711653,
+    0.034132
+   ],
+   "g": [
+    1.0,
+    0.9673
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (0.67% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12011727,
+  "source_revision_id": null,
+  "source_sha1": "7de8d1699cf7c3f67f7bd9748d8244eef0276baa"
+ },
+ {
+  "title": "View in Central Park, New York, from Robert N. Dennis collection of stereoscopic views 4",
+  "place": "New York, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.png/1920px-View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f1/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_in_Central_Park,_New_York,_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.png",
+  "license": "Public domain",
+  "w": 2552,
+  "h": 1262,
+  "id": "STA-3497",
+  "rect": "rect/3496.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.34,
+  "rot": 0.0,
+  "range": 0.25,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 4.3533,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.png/1920px-View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 4.3533,
+   "L": [
+    0.417187,
+    0.0,
+    0.07474,
+    0.0,
+    0.193888,
+    0.226027
+   ],
+   "R": [
+    0.415973,
+    -0.001204,
+    0.506378,
+    0.004586,
+    0.192862,
+    0.227701
+   ],
+   "g": [
+    1.0,
+    0.9801
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.34% vertical error and 0.0° of rotation. Depth measured gentle (0.25% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 12011193,
+  "source_revision_id": null,
+  "source_sha1": "c57fcaba6c03a5a89ede8213d7cd2bd809be39cc"
  }
 ]

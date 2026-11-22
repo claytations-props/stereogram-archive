@@ -1,0 +1,69 @@
+{
+ "title": "View on the lake, Central Park, N.Y",
+ "place": "New York, New York",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/View_on_the_lake%2C_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_on_the_lake%2C_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/91/View_on_the_lake%2C_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_on_the_lake,_Central_Park,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2631,
+ "h": 1339,
+ "id": "STA-3494",
+ "rect": "rect/3493.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.2,
+ "rot": 0.15,
+ "range": 1.23,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.5,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/View_on_the_lake%2C_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_on_the_lake%2C_Central_Park%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.5,
+  "L": [
+   0.382812,
+   0.0,
+   0.104427,
+   0.0,
+   0.501535,
+   0.380246
+  ],
+  "R": [
+   0.392337,
+   -0.01932,
+   0.525849,
+   -0.000881,
+   0.508241,
+   0.377266
+  ],
+  "g": [
+   0.9424,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.2% vertical error and 0.15° of rotation. Depth measured gentle (1.23% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12010029,
+ "source_revision_id": null,
+ "source_sha1": "47384eaae5fb9e0f5b482c038ae56e888544cdd9"
+}

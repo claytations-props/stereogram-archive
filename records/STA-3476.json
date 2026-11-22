@@ -1,0 +1,69 @@
+{
+ "title": "View in Central Park, New York",
+ "place": "New York, New York",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/cf/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_in_Central_Park,_New_York,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2631,
+ "h": 1335,
+ "id": "STA-3476",
+ "rect": "rect/3475.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.05,
+ "range": 2.05,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.8344,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_in_Central_Park%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8344,
+  "L": [
+   0.391146,
+   0.0,
+   0.098698,
+   0.0,
+   0.924025,
+   0.033368
+  ],
+  "R": [
+   0.384488,
+   -0.009801,
+   0.514658,
+   -0.000667,
+   0.925237,
+   0.034933
+  ],
+  "g": [
+   1.0,
+   0.9548
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.05° of rotation. Depth measured moderate (2.05% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12009999,
+ "source_revision_id": null,
+ "source_sha1": "097948a890dddd77ec6b4dc79a806f977900c3fa"
+}

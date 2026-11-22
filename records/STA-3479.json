@@ -1,0 +1,69 @@
+{
+ "title": "Distant view of Bow Bridge, Central Park",
+ "place": "New York, New York",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Distant_view_of_Bow_Bridge%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Distant_view_of_Bow_Bridge%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Distant_view_of_Bow_Bridge%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Distant_view_of_Bow_Bridge,_Central_Park,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2591,
+ "h": 1309,
+ "id": "STA-3479",
+ "rect": "rect/3478.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 2.47,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.8683,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Distant_view_of_Bow_Bridge%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Distant_view_of_Bow_Bridge%2C_Central_Park%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8683,
+  "L": [
+   0.411979,
+   0.0,
+   0.078385,
+   0.0,
+   0.939175,
+   0.032474
+  ],
+  "R": [
+   0.41839,
+   0.000252,
+   0.506587,
+   0.00103,
+   0.9452,
+   0.027253
+  ],
+  "g": [
+   0.9963,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured deep (2.47% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12009890,
+ "source_revision_id": null,
+ "source_sha1": "d9fdb57cc5b4ea0bccf1020da843fcff4b8ae078"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "View of the upper part of Central Park. (Garden view.)",
+ "place": "New York, New York",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_the_upper_part_of_Central_Park._%28Garden_view.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_the_upper_part_of_Central_Park._%28Garden_view.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_the_upper_part_of_Central_Park._(Garden_view.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 373,
+ "id": "STA-3477",
+ "rect": "rect/3476.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.18,
+ "rot": 0.04,
+ "range": 1.01,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8971,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_the_upper_part_of_Central_Park._%28Garden_view.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8971,
+  "L": [
+   0.413158,
+   0.0,
+   0.070395,
+   0.0,
+   0.938338,
+   0.033512
+  ],
+  "R": [
+   0.411957,
+   -0.006741,
+   0.527239,
+   -0.006639,
+   0.933151,
+   0.030302
+  ],
+  "g": [
+   0.975,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.04° of rotation. Depth measured gentle (1.01% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12018908,
+ "source_revision_id": null,
+ "source_sha1": "b41cca6811e048343dcfdadbd8bd7c1f39ed78cd"
+}
