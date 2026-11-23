@@ -150,6 +150,14 @@ footer a{color:var(--brass)}
 .acol h2{font-family:"Playfair Display",Georgia,serif;font-size:18px;color:var(--brass2);margin-bottom:8px}
 .acol p{color:var(--dim);font-size:13.5px;line-height:1.65}
 #moreBtn{display:none;margin:22px auto 4px}
+/* Round 18: the toolbar scrolls away with the page since round 16,
+   so deep in the grid — after Show more a few times — there is no
+   control in reach to get back to the search and sort. A small
+   button rides the bottom corner once the page is scrolled past the
+   toolbar; it hides behind the viewer (z-index 50) when a card is
+   open. */
+#topBtn{position:fixed;right:16px;bottom:16px;z-index:40;display:none}
+#topBtn.show{display:block}
 @media(max-width:820px){
  .hero{grid-template-columns:40% 1fr}
  .heroimg{min-height:0}
@@ -354,6 +362,8 @@ canvas#ana.show{display:block}
 <footer>
 All photographs are public domain or CC0, via Wikimedia Commons, from collections including the Robert N. Dennis Collection of Stereoscopic Views (NYPL), the Library of Congress, the Met Open Access, the National Archives, and the Getty Open Content program. Each photograph links to its source page. Every pair is measured and rectified through the archive process before it appears here. No tracking; your reading list lives only in your browser.</footer>
 
+<button class="btn" id="topBtn" aria-label="Back to top">↑ Top</button>
+
 <div class="viewer" id="viewer" role="dialog" aria-modal="true" aria-label="Item viewer">
   <button class="xbtn" id="vFsExit" aria-label="Exit full screen">✕ Exit full screen</button>
   <div class="vhead">
@@ -552,6 +562,14 @@ $("#vTimeline").onclick=()=>setView("timeline");
 function tlBand(d){return d.era==="undated"?"Undated":(Math.floor(d.sy/10)*10)+"s"}
 function tlBandOrder(b){return b==="Undated"?9999:parseInt(b,10)}
 $("#moreBtn").onclick=()=>{shown+=48;pendingAppend=true;render()};
+/* Round 18: the toolbar scrolls away with the page since round 16,
+   so deep in the grid — after Show more a few times — there is no
+   control in reach to get back to the search and sort. The button
+   shows once the page is scrolled past the toolbar and smooth-scrolls
+   back to the top. */
+function syncTopBtn(){document.getElementById("topBtn").classList.toggle("show",window.scrollY>800);}
+addEventListener("scroll",syncTopBtn,{passive:true});
+document.getElementById("topBtn").onclick=()=>window.scrollTo({top:0,behavior:"smooth"});
 function filtered(){
  let a=DATA.filter(d=>{
    if(state.cat==="favs"&&!favs.has(d.id))return false;
