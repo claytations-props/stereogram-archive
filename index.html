@@ -577,13 +577,20 @@ let shown=48,lastSig='',renderedShown=0,pendingAppend=false;
    list sits below the shelf and the finding aid — typing "Niagara" in
    the toolbar left the results below the fold with nothing bringing
    them into view. Filter and view actions ask render() to bring the
-   count line into view afterwards; sort, reshuffle, Show more and
-   heart toggles reorder or extend the list already on screen, so
-   they do not. The toolbar used to stick to the top, so the scroll
-   offset was measured off its height; it scrolls away with the page
-   now, so the count line lands 16px below the top of the screen. */
+   results into view afterwards; sort, reshuffle, Show more and heart
+   toggles reorder or extend the list already on screen, so they do
+   not. The toolbar used to stick to the top, so the scroll offset was
+   measured off its height; it scrolls away with the page now.
+   Round 18: the reveal landed the count line 16px below the top of
+   the screen, but the toolbar sits above the count line — so the
+   search box and the Clear button scrolled off screen with it, and
+   the typed query could not be seen, edited, or cleared without
+   scrolling back up (live walk, round 18). The reveal now lands the
+   toolbar's own top at the top of the screen, so the query, the
+   filters, and the count line are all in view with the results
+   below them. */
 let revealNext=false;
-function maybeReveal(){if(!revealNext)return;revealNext=false;const c=$("#count");if(!c)return;window.scrollTo({top:c.getBoundingClientRect().top+window.scrollY-16,behavior:"smooth"});}
+function maybeReveal(){if(!revealNext)return;revealNext=false;const tb=document.querySelector(".toolbar");if(!tb)return;window.scrollTo({top:tb.getBoundingClientRect().top+window.scrollY-16,behavior:"smooth"});}
 function cardEl(d,i){
  const c=document.createElement("div");c.className="card";c.dataset.id=d.id;
  c.innerHTML=`<div class="ph"><img loading="lazy" decoding="async" src="${thumb(d,500)}" data-full="${d.img}" ${FB} alt="${d.title} stereograph"></div><div class="cb"><div class="acc">${d.id} · ${d.coll}</div><h3>${d.title}</h3><div class="meta">${d.place} &middot; ${d.year}</div><div class="tags"><span class="tline">${d.cats.map(t=>CATLABEL[t]||t).join(" · ")} · ${d.depth} depth</span><button class="fav ${favs.has(d.id)?"on":""}" title="Save to reading list">${favs.has(d.id)?"♥":"♡"}</button></div></div>`;
