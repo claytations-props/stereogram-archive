@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3604</quantity>
+    <quantity>3613</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -22758,6 +22758,38 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3608.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3610">
+     <did>
+      <unitid>STA-3610</unitid>
+      <unittitle>Lexington. (Harrington House.)</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3609.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3611">
+     <did>
+      <unitid>STA-3611</unitid>
+      <unittitle>Old Monroe Tavern, Lexington, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3610.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3613">
+     <did>
+      <unitid>STA-3613</unitid>
+      <unittitle>Lexington. (Old house opposite the Common, "Press Headquarters.")</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3612.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3616">
+     <did>
+      <unitid>STA-3616</unitid>
+      <unittitle>Harrington House, Lexington, Mass, by J. W. &amp; J. S. Moulton</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3615.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -23457,6 +23489,30 @@
       <unittitle>Utica Citizens' Corps, Camp Greenman, Saratoga Springs, 1869, by Deloss Barnum 4</unittitle>
       <unitdate normal="1869">1869</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/2940.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3614">
+     <did>
+      <unitid>STA-3614</unitid>
+      <unittitle>Monument to the Minute Men, Lexington, Mass., U.S.A, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3613.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3615">
+     <did>
+      <unitid>STA-3615</unitid>
+      <unittitle>Old Belfry from which the Continental soldiers were warned of the advance of the British, Lexington, Mass., U.S.A</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3614.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3618">
+     <did>
+      <unitid>STA-3618</unitid>
+      <unittitle>First battle ground of the revolution, by Deloss Barnum</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3617.jpg"/>
      </did>
     </c>
    </c>
@@ -28888,6 +28944,22 @@
       <unittitle>View of a stone fence opening on drive lined by orchards</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3602.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3612">
+     <did>
+      <unitid>STA-3612</unitid>
+      <unittitle>Statue of John Hancock, Lexington</unittitle>
+      <unitdate normal="1859">1859</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3611.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3617">
+     <did>
+      <unitid>STA-3617</unitid>
+      <unittitle>Lexington. (Race horse.), by James Mullen</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3616.jpg"/>
      </did>
     </c>
    </c>

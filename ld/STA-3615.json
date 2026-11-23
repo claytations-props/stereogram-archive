@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3615.json",
+ "name": "Old Belfry from which the Continental soldiers were warned of the advance of the British, Lexington, Mass., U.S.A",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3614.jpg",
+ "identifier": "STA-3615",
+ "dateCreated": "1859",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lexington, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Old_Belfry_from_which_the_Continental_soldiers_were_warned_of_the_advance_of_the_British,_Lexington,_Mass.,_U.S.A,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

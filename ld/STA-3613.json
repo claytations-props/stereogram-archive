@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3613.json",
+ "name": "Lexington. (Old house opposite the Common, \"Press Headquarters.\")",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3612.jpg",
+ "identifier": "STA-3613",
+ "dateCreated": "1859",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lexington, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Lexington._(Old_house_opposite_the_Common,_%22Press_Headquarters.%22),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}
