@@ -1,0 +1,69 @@
+{
+ "title": "Man seated in a wooden wheelchair, by J. F. Kennedy",
+ "place": "Hot Springs, Arkansas",
+ "year": "c. 1885",
+ "sy": 1885,
+ "era": "mid",
+ "cats": [
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Man_seated_in_a_wooden_wheelchair%2C_by_J._F._Kennedy.png/1920px-Man_seated_in_a_wooden_wheelchair%2C_by_J._F._Kennedy.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/92/Man_seated_in_a_wooden_wheelchair%2C_by_J._F._Kennedy.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Man_seated_in_a_wooden_wheelchair,_by_J._F._Kennedy.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1423,
+ "id": "STA-3635",
+ "rect": "rect/3634.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.14,
+ "rot": 0.07,
+ "range": 1.05,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8284,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Man_seated_in_a_wooden_wheelchair%2C_by_J._F._Kennedy.png/1920px-Man_seated_in_a_wooden_wheelchair%2C_by_J._F._Kennedy.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8284,
+  "L": [
+   0.379688,
+   0.0,
+   0.114323,
+   0.0,
+   0.881764,
+   0.058617
+  ],
+  "R": [
+   0.374246,
+   -0.009986,
+   0.514315,
+   0.010504,
+   0.877069,
+   0.050972
+  ],
+  "g": [
+   0.9637,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.07° of rotation. Depth measured gentle (1.05% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "J. F. Kennedy",
+ "creator_dates": null,
+ "facets": [
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1885~",
+ "date_start": 1880,
+ "date_end": 1890,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7193888,
+ "source_revision_id": null,
+ "source_sha1": "7e2608880c240dfbda115635cea6de4986d73431"
+}

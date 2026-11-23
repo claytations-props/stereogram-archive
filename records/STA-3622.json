@@ -1,0 +1,69 @@
+{
+ "title": "Lost Louisiana Shaft House",
+ "place": "Hot Springs, Arkansas",
+ "year": "1872",
+ "sy": 1872,
+ "era": "mid",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Lost_Louisiana_Shaft_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Lost_Louisiana_Shaft_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Lost_Louisiana_Shaft_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Lost_Louisiana_Shaft_House,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1418,
+ "id": "STA-3622",
+ "rect": "rect/3621.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.12,
+ "rot": 0.02,
+ "range": 0.6,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9379,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Lost_Louisiana_Shaft_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Lost_Louisiana_Shaft_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9379,
+  "L": [
+   0.385417,
+   0.0,
+   0.103385,
+   0.0,
+   0.792965,
+   0.057789
+  ],
+  "R": [
+   0.388848,
+   2.6e-05,
+   0.50509,
+   -0.005716,
+   0.802058,
+   0.063558
+  ],
+  "g": [
+   0.8018,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.02° of rotation. Depth measured gentle (0.6% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1872",
+ "date_start": 1872,
+ "date_end": 1872,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7193795,
+ "source_revision_id": null,
+ "source_sha1": "6786fe0dbd2a6ba35502a5497032b2e64a7304d0"
+}
