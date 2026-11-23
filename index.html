@@ -324,6 +324,13 @@ canvas#ana.show{display:block}
   <div class="chips" id="chips"></div>
 </div>
 
+<div class="how" id="how" style="display:none">
+  <div class="howbox">
+    <h2>How to see the 3D</h2>
+    <p><b>Pair:</b> the card as it was sold. In a real stereoscope each eye got one half. &nbsp;<b>Parallel:</b> relax your eyes like you are looking through the screen until the two halves merge into a third image in the middle. &nbsp;<b>Cross-eye:</b> gently cross your eyes until the halves overlap, best for some people and works big on a screen. &nbsp;<b>Wiggle:</b> no eye tricks needed, the card flickers between left and right and your brain reads the depth anyway. &nbsp;<b>Anaglyph:</b> wear red/cyan glasses, red on the left eye. Parallel, Cross-Eye, Wiggle and Anaglyph all use the rectified pair from the VR Parlor, aligned and comfort checked. Original Pair shows the card exactly as it was scanned.</p>
+  </div>
+</div>
+
 <section class="aid" id="aidSec">
   <button class="btn" id="aidToggle" style="grid-column:1/-1">Finding Aid · tap to open</button>
   <div class="aidcol"><h2>Finding Aid · Collections</h2><div id="collList"></div></div>
@@ -346,12 +353,10 @@ canvas#ana.show{display:block}
 <div class="empty" id="empty" style="display:none"><span id="emptyText"></span> <button class="btn" id="emptyClear" hidden>Clear search &amp; filters</button></div>
 </main>
 
-<div class="how" id="how" style="display:none">
-  <div class="howbox">
-    <h2>How to see the 3D</h2>
-    <p><b>Pair:</b> the card as it was sold. In a real stereoscope each eye got one half. &nbsp;<b>Parallel:</b> relax your eyes like you are looking through the screen until the two halves merge into a third image in the middle. &nbsp;<b>Cross-eye:</b> gently cross your eyes until the halves overlap, best for some people and works big on a screen. &nbsp;<b>Wiggle:</b> no eye tricks needed, the card flickers between left and right and your brain reads the depth anyway. &nbsp;<b>Anaglyph:</b> wear red/cyan glasses, red on the left eye. Parallel, Cross-Eye, Wiggle and Anaglyph all use the rectified pair from the VR Parlor, aligned and comfort checked. Original Pair shows the card exactly as it was scanned.</p>
-  </div>
-</div>
+<!-- Round 18: the How to view box used to sit below the grid, so
+     opening it scrolled the visitor to the bottom of the page, far
+     from the toolbar they had just tapped (live walk, round 18). It
+     lives under the toolbar now, so it opens where the visitor is. -->
 
 <section class="about">
  <div class="acol"><h2>The Collection</h2><p>The Stereograph Archive gathers public domain stereoscopic photographs, the 3D postcards of the nineteenth century, from the great open collections: the Robert N. Dennis Collection at NYPL, the Library of Congress, the Met, the Getty, and the National Archives. Every item is catalogued with its provenance and license, and every record links back to its source.</p></div>
