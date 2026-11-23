@@ -1,0 +1,69 @@
+{
+ "title": "Nantucket Harbor, from the tower, by Kilburn Brothers",
+ "place": "Nantucket, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Nantucket_Harbor%2C_from_the_tower%2C_by_Kilburn_Brothers.jpg/1920px-Nantucket_Harbor%2C_from_the_tower%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/30/Nantucket_Harbor%2C_from_the_tower%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Nantucket_Harbor,_from_the_tower,_by_Kilburn_Brothers.jpg",
+ "license": "Public domain",
+ "w": 2683,
+ "h": 1382,
+ "id": "STA-3576",
+ "rect": "rect/3575.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.08,
+ "rot": 0.0,
+ "range": 0.31,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0336,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Nantucket_Harbor%2C_from_the_tower%2C_by_Kilburn_Brothers.jpg/1920px-Nantucket_Harbor%2C_from_the_tower%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0336,
+  "L": [
+   0.401042,
+   0.0,
+   0.086198,
+   0.0,
+   0.753286,
+   0.186552
+  ],
+  "R": [
+   0.405175,
+   -0.003365,
+   0.511074,
+   0.004342,
+   0.762109,
+   0.181563
+  ],
+  "g": [
+   0.9853,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (0.31% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Kilburn Brothers",
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7444944,
+ "source_revision_id": null,
+ "source_sha1": "ef78c7c44a740c80807f5d3782378e3014b0a6aa"
+}

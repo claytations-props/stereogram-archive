@@ -1,0 +1,69 @@
+{
+ "title": "Main Street, Nantucket, by Kilburn Brothers 2",
+ "place": "Nantucket, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Main_Street%2C_Nantucket%2C_by_Kilburn_Brothers_2.jpg/1920px-Main_Street%2C_Nantucket%2C_by_Kilburn_Brothers_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Main_Street%2C_Nantucket%2C_by_Kilburn_Brothers_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Main_Street,_Nantucket,_by_Kilburn_Brothers_2.jpg",
+ "license": "Public domain",
+ "w": 2688,
+ "h": 1371,
+ "id": "STA-3581",
+ "rect": "rect/3580.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.08,
+ "rot": 0.0,
+ "range": 1.12,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9279,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Main_Street%2C_Nantucket%2C_by_Kilburn_Brothers_2.jpg/1920px-Main_Street%2C_Nantucket%2C_by_Kilburn_Brothers_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9279,
+  "L": [
+   0.36875,
+   0.0,
+   0.099219,
+   0.0,
+   0.779367,
+   0.111849
+  ],
+  "R": [
+   0.371835,
+   0.020147,
+   0.513895,
+   -0.033903,
+   0.787194,
+   0.119449
+  ],
+  "g": [
+   1.0,
+   0.9391
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (1.12% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Kilburn Brothers",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7444962,
+ "source_revision_id": null,
+ "source_sha1": "8d3039685996ce9ad3d2ac38a8f10e2a716e788e"
+}
