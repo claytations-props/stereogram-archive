@@ -213500,5 +213500,64 @@
   "date_start": 1859,
   "date_end": 1859,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "City and Valley of Hot Springs, looking south, by J. F. Kennedy",
+  "place": "Hot Springs, Arkansas",
+  "year": "1872",
+  "sy": 1872,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/City_and_Valley_of_Hot_Springs%2C_looking_south%2C_by_J._F._Kennedy.jpg/1920px-City_and_Valley_of_Hot_Springs%2C_looking_south%2C_by_J._F._Kennedy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d5/City_and_Valley_of_Hot_Springs%2C_looking_south%2C_by_J._F._Kennedy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:City_and_Valley_of_Hot_Springs,_looking_south,_by_J._F._Kennedy.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1416,
+  "id": "STA-3619",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3618.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.33,
+  "rot": 0.11,
+  "range": 0.98,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2213,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/City_and_Valley_of_Hot_Springs%2C_looking_south%2C_by_J._F._Kennedy.jpg/1920px-City_and_Valley_of_Hot_Springs%2C_looking_south%2C_by_J._F._Kennedy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2213,
+   "L": [
+    0.221354,
+    0.0,
+    0.205469,
+    0.0,
+    0.350453,
+    0.311682
+   ],
+   "R": [
+    0.220085,
+    0.003202,
+    0.633596,
+    -0.007316,
+    0.352269,
+    0.314675
+   ],
+   "g": [
+    1.0,
+    0.9607
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.33% vertical error and 0.11° of rotation. Depth measured gentle (0.98% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "J. F. Kennedy",
+  "date_edtf": "1872",
+  "date_start": 1872,
+  "date_end": 1872,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]
