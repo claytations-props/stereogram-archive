@@ -1,0 +1,69 @@
+{
+ "title": "Statue of John Hancock, Lexington",
+ "place": "Lexington, Massachusetts",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Statue_of_John_Hancock%2C_Lexington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Statue_of_John_Hancock%2C_Lexington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/88/Statue_of_John_Hancock%2C_Lexington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Statue_of_John_Hancock,_Lexington,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 6600,
+ "h": 3300,
+ "id": "STA-3612",
+ "rect": "rect/3611.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.07,
+ "rot": 0.0,
+ "range": 9.18,
+ "f": 0.43,
+ "depth": "Deep",
+ "va": 0.8061,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Statue_of_John_Hancock%2C_Lexington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Statue_of_John_Hancock%2C_Lexington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8061,
+  "L": [
+   0.344271,
+   0.0,
+   0.103906,
+   0.0,
+   0.854167,
+   0.109896
+  ],
+  "R": [
+   0.349323,
+   0.003017,
+   0.528537,
+   -0.006243,
+   0.855725,
+   0.112005
+  ],
+  "g": [
+   0.984,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured deep (9.18% of frame width); hung in the VR Parlor at 43% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 12032886,
+ "source_revision_id": null,
+ "source_sha1": "a2687d558e1d5fe9edcbe05dc909d4b819b7b6b7"
+}

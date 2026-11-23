@@ -212969,5 +212969,536 @@
   "date_start": null,
   "date_end": null,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Lexington. (Harrington House.)",
+  "place": "Lexington, Massachusetts",
+  "year": "1859",
+  "sy": 1859,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Lexington._%28Harrington_House.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Lexington._%28Harrington_House.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Lexington._%28Harrington_House.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Lexington._(Harrington_House.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 6624,
+  "h": 3300,
+  "id": "STA-3610",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3609.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 0.89,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9341,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Lexington._%28Harrington_House.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Lexington._%28Harrington_House.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9341,
+   "L": [
+    0.40625,
+    0.0,
+    0.075781,
+    0.0,
+    0.872518,
+    0.023511
+   ],
+   "R": [
+    0.413009,
+    -0.002466,
+    0.517131,
+    -0.006079,
+    0.878528,
+    0.051734
+   ],
+   "g": [
+    1.0,
+    0.9961
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (0.89% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1859",
+  "date_start": 1859,
+  "date_end": 1859,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Old Monroe Tavern, Lexington, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Lexington, Massachusetts",
+  "year": "1859",
+  "sy": 1859,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Old_Monroe_Tavern%2C_Lexington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Old_Monroe_Tavern%2C_Lexington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/29/Old_Monroe_Tavern%2C_Lexington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Old_Monroe_Tavern,_Lexington,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 6600,
+  "h": 3300,
+  "id": "STA-3611",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3610.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.03,
+  "range": 0.47,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9798,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Old_Monroe_Tavern%2C_Lexington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Old_Monroe_Tavern%2C_Lexington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9798,
+   "L": [
+    0.328125,
+    0.0,
+    0.114844,
+    0.0,
+    0.669792,
+    0.032813
+   ],
+   "R": [
+    0.329669,
+    -0.00347,
+    0.576959,
+    0.004348,
+    0.673234,
+    0.021871
+   ],
+   "g": [
+    1.0,
+    0.9776
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.03° of rotation. Depth measured gentle (0.47% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1859",
+  "date_start": 1859,
+  "date_end": 1859,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Statue of John Hancock, Lexington",
+  "place": "Lexington, Massachusetts",
+  "year": "1859",
+  "sy": 1859,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Statue_of_John_Hancock%2C_Lexington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Statue_of_John_Hancock%2C_Lexington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/88/Statue_of_John_Hancock%2C_Lexington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Statue_of_John_Hancock,_Lexington,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 6600,
+  "h": 3300,
+  "id": "STA-3612",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3611.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 9.18,
+  "f": 0.43,
+  "depth": "Deep",
+  "va": 0.8061,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Statue_of_John_Hancock%2C_Lexington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Statue_of_John_Hancock%2C_Lexington%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8061,
+   "L": [
+    0.344271,
+    0.0,
+    0.103906,
+    0.0,
+    0.854167,
+    0.109896
+   ],
+   "R": [
+    0.349323,
+    0.003017,
+    0.528537,
+    -0.006243,
+    0.855725,
+    0.112005
+   ],
+   "g": [
+    0.984,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured deep (9.18% of frame width); hung in the VR Parlor at 43% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1859",
+  "date_start": 1859,
+  "date_end": 1859,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Lexington. (Old house opposite the Common, \"Press Headquarters.\")",
+  "place": "Lexington, Massachusetts",
+  "year": "1859",
+  "sy": 1859,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Lexington._%28Old_house_opposite_the_Common%2C_%22Press_Headquarters.%22%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Lexington._%28Old_house_opposite_the_Common%2C_%22Press_Headquarters.%22%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/42/Lexington._%28Old_house_opposite_the_Common%2C_%22Press_Headquarters.%22%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Lexington._(Old_house_opposite_the_Common,_%22Press_Headquarters.%22),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 6588,
+  "h": 3300,
+  "id": "STA-3613",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3612.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.02,
+  "range": 2.21,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.9463,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Lexington._%28Old_house_opposite_the_Common%2C_%22Press_Headquarters.%22%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Lexington._%28Old_house_opposite_the_Common%2C_%22Press_Headquarters.%22%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9463,
+   "L": [
+    0.330208,
+    0.0,
+    0.120052,
+    0.0,
+    0.696466,
+    0.279106
+   ],
+   "R": [
+    0.333465,
+    -0.012856,
+    0.574762,
+    -0.000363,
+    0.702764,
+    0.268916
+   ],
+   "g": [
+    0.9883,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.02° of rotation. Depth measured deep (2.21% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1859",
+  "date_start": 1859,
+  "date_end": 1859,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Monument to the Minute Men, Lexington, Mass., U.S.A, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Lexington, Massachusetts",
+  "year": "1859",
+  "sy": 1859,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Monument_to_the_Minute_Men%2C_Lexington%2C_Mass.%2C_U.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Monument_to_the_Minute_Men%2C_Lexington%2C_Mass.%2C_U.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/06/Monument_to_the_Minute_Men%2C_Lexington%2C_Mass.%2C_U.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Monument_to_the_Minute_Men,_Lexington,_Mass.,_U.S.A,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 6750,
+  "h": 3426,
+  "id": "STA-3614",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3613.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.02,
+  "range": 2.95,
+  "f": 0.98,
+  "depth": "Deep",
+  "va": 1.1166,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Monument_to_the_Minute_Men%2C_Lexington%2C_Mass.%2C_U.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Monument_to_the_Minute_Men%2C_Lexington%2C_Mass.%2C_U.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1166,
+   "L": [
+    0.398958,
+    0.0,
+    0.075781,
+    0.0,
+    0.70359,
+    0.024103
+   ],
+   "R": [
+    0.401071,
+    -0.005456,
+    0.510548,
+    3.4e-05,
+    0.706285,
+    0.019811
+   ],
+   "g": [
+    0.9626,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured deep (2.95% of frame width); hung in the VR Parlor at 98% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1859",
+  "date_start": 1859,
+  "date_end": 1859,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Old Belfry from which the Continental soldiers were warned of the advance of the British, Lexington, Mass., U.S.A",
+  "place": "Lexington, Massachusetts",
+  "year": "1859",
+  "sy": 1859,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Old_Belfry_from_which_the_Continental_soldiers_were_warned_of_the_advance_of_the_British%2C_Lexington%2C_Mass.%2C_U.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-thumbnail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/22/Old_Belfry_from_which_the_Continental_soldiers_were_warned_of_the_advance_of_the_British%2C_Lexington%2C_Mass.%2C_U.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Old_Belfry_from_which_the_Continental_soldiers_were_warned_of_the_advance_of_the_British,_Lexington,_Mass.,_U.S.A,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 6738,
+  "h": 3402,
+  "id": "STA-3615",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3614.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.05,
+  "range": 1.82,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8097,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Old_Belfry_from_which_the_Continental_soldiers_were_warned_of_the_advance_of_the_British%2C_Lexington%2C_Mass.%2C_U.S.A%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-thumbnail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8097,
+   "L": [
+    0.38125,
+    0.0,
+    0.086719,
+    0.0,
+    0.932921,
+    0.040764
+   ],
+   "R": [
+    0.383058,
+    -0.002234,
+    0.508848,
+    0.001541,
+    0.941904,
+    0.02636
+   ],
+   "g": [
+    0.9621,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.05° of rotation. Depth measured moderate (1.82% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1859",
+  "date_start": 1859,
+  "date_end": 1859,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Harrington House, Lexington, Mass, by J. W. & J. S. Moulton",
+  "place": "Lexington, Massachusetts",
+  "year": "1859",
+  "sy": 1859,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Harrington_House%2C_Lexington%2C_Mass%2C_by_J._W._%26_J._S._Moulton.jpg/1920px-Harrington_House%2C_Lexington%2C_Mass%2C_by_J._W._%26_J._S._Moulton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/54/Harrington_House%2C_Lexington%2C_Mass%2C_by_J._W._%26_J._S._Moulton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Harrington_House,_Lexington,_Mass,_by_J._W._%26_J._S._Moulton.jpg",
+  "license": "Public domain",
+  "w": 6600,
+  "h": 4211,
+  "id": "STA-3616",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3615.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.0,
+  "range": 0.72,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8454,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Harrington_House%2C_Lexington%2C_Mass%2C_by_J._W._%26_J._S._Moulton.jpg/1920px-Harrington_House%2C_Lexington%2C_Mass%2C_by_J._W._%26_J._S._Moulton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8454,
+   "L": [
+    0.333333,
+    0.0,
+    0.145573,
+    0.0,
+    0.617959,
+    0.015102
+   ],
+   "R": [
+    0.332737,
+    -0.004488,
+    0.533193,
+    0.004899,
+    0.615357,
+    0.024246
+   ],
+   "g": [
+    0.9228,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (0.72% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "J. W. & J. S. Moulton",
+  "date_edtf": "1859",
+  "date_start": 1859,
+  "date_end": 1859,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Lexington. (Race horse.), by James Mullen",
+  "place": "Lexington, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Lexington._%28Race_horse.%29%2C_by_James_Mullen.png/1920px-Lexington._%28Race_horse.%29%2C_by_James_Mullen.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Lexington._%28Race_horse.%29%2C_by_James_Mullen.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Lexington._(Race_horse.),_by_James_Mullen.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1378,
+  "id": "STA-3617",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3616.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.19,
+  "rot": 0.02,
+  "range": 1.51,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.33,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Lexington._%28Race_horse.%29%2C_by_James_Mullen.png/1920px-Lexington._%28Race_horse.%29%2C_by_James_Mullen.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.33,
+   "L": [
+    0.346354,
+    0.0,
+    0.116927,
+    0.0,
+    0.517063,
+    0.388314
+   ],
+   "R": [
+    0.34556,
+    0.001475,
+    0.516993,
+    -0.001046,
+    0.521556,
+    0.384359
+   ],
+   "g": [
+    0.9649,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.02° of rotation. Depth measured moderate (1.51% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "James Mullen",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "First battle ground of the revolution, by Deloss Barnum",
+  "place": "Lexington, Massachusetts",
+  "year": "1859",
+  "sy": 1859,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/First_battle_ground_of_the_revolution%2C_by_Deloss_Barnum.jpg/1920px-First_battle_ground_of_the_revolution%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/ce/First_battle_ground_of_the_revolution%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:First_battle_ground_of_the_revolution,_by_Deloss_Barnum.jpg",
+  "license": "Public domain",
+  "w": 6474,
+  "h": 3246,
+  "id": "STA-3618",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3617.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 0.48,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.063,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/First_battle_ground_of_the_revolution%2C_by_Deloss_Barnum.jpg/1920px-First_battle_ground_of_the_revolution%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.063,
+   "L": [
+    0.369271,
+    0.0,
+    0.101302,
+    0.0,
+    0.692627,
+    0.071132
+   ],
+   "R": [
+    0.367382,
+    0.003976,
+    0.521732,
+    -0.007741,
+    0.690309,
+    0.064772
+   ],
+   "g": [
+    1.0,
+    0.9898
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (0.48% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Deloss Barnum",
+  "date_edtf": "1859",
+  "date_start": 1859,
+  "date_end": 1859,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]
