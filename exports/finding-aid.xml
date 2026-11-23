@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3560</quantity>
+    <quantity>3576</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5786,6 +5786,30 @@
       <unittitle>Levee and railway, Sacramento, Cal, by Kilburn Brothers</unittitle>
       <unitdate normal="1865/1875">c. 1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3541.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3576">
+     <did>
+      <unitid>STA-3576</unitid>
+      <unittitle>Nantucket Harbor, from the tower, by Kilburn Brothers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3575.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3577">
+     <did>
+      <unitid>STA-3577</unitid>
+      <unittitle>Nantucket from Bran Point light, by Kilburn Brothers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3576.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3580">
+     <did>
+      <unitid>STA-3580</unitid>
+      <unittitle>Nantucket from Brant Point, by C. H. Shute &amp; Son</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3579.jpg"/>
      </did>
     </c>
    </c>
@@ -22462,6 +22486,86 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3564.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3566">
+     <did>
+      <unitid>STA-3566</unitid>
+      <unittitle>Bird's-eye view of Nantucket</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3565.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3567">
+     <did>
+      <unitid>STA-3567</unitid>
+      <unittitle>Oldest house on Nantucket</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3566.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3568">
+     <did>
+      <unitid>STA-3568</unitid>
+      <unittitle>Fisherman's cottage, Siasconset, Nantucket</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3567.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3569">
+     <did>
+      <unitid>STA-3569</unitid>
+      <unittitle>Bay View House, Orange St., Nantucket, by C. H. Shute &amp; Son</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3568.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3570">
+     <did>
+      <unitid>STA-3570</unitid>
+      <unittitle>Parlor of Bay View House, Nantucket, by C. H. Shute &amp; Son</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3569.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3572">
+     <did>
+      <unitid>STA-3572</unitid>
+      <unittitle>Old wind mill, Nantucket, built in 1746, by Kilburn Brothers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3571.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3573">
+     <did>
+      <unitid>STA-3573</unitid>
+      <unittitle>Village of Siasconset, Nantucket, by Kilburn Brothers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3572.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3578">
+     <did>
+      <unitid>STA-3578</unitid>
+      <unittitle>Sankaty Light House, Nantucket, by Kilburn Brothers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3577.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3579">
+     <did>
+      <unitid>STA-3579</unitid>
+      <unittitle>Nantucket, looking north from the tower, by Kilburn Brothers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3578.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3581">
+     <did>
+      <unitid>STA-3581</unitid>
+      <unittitle>Main Street, Nantucket, by Kilburn Brothers 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3580.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -25515,6 +25619,30 @@
       <unittitle>Colfax &amp; Parts at Salt Lake City</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3562.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3571">
+     <did>
+      <unitid>STA-3571</unitid>
+      <unittitle>Fishermen of Quidnet, Nantucket, by Kilburn Brothers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3570.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3574">
+     <did>
+      <unitid>STA-3574</unitid>
+      <unittitle>The Hermit of Nantucket, by Kilburn Brothers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3573.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3575">
+     <did>
+      <unitid>STA-3575</unitid>
+      <unittitle>Homes of the fishermen, Nantucket, by Kilburn Brothers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3574.jpg"/>
      </did>
     </c>
    </c>
