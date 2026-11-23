@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7193831,
  "source_revision_id": null,
- "source_sha1": "eef03150496dd67f9d35e4ced902653a5f2c638e"
+ "source_sha1": "eef03150496dd67f9d35e4ced902653a5f2c638e",
+ "tags": [
+  "mule",
+  "wagon"
+ ]
 }
