@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3582.json",
+ "name": "Provincetown windmill stereoscope",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3581.jpg",
+ "identifier": "STA-3582",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Provincetown, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Provincetown_windmill_stereoscope.jpg"
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3593.json",
+ "name": "Ice bergs, Long Point, by Nickerson, G. H. (George Hathaway), 1835-1890",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3592.jpg",
+ "identifier": "STA-3593",
+ "creator": {
+  "@type": "Person",
+  "name": "Nickerson, G. H. (George Hathaway)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Provincetown, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Ice_bergs,_Long_Point,_by_Nickerson,_G._H._(George_Hathaway),_1835-1890.jpg"
+}

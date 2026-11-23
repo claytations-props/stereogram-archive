@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3584.json",
+ "name": "View of a pier, by Nickerson, G. H. (George Hathaway), 1835-1890",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3583.jpg",
+ "identifier": "STA-3584",
+ "creator": {
+  "@type": "Person",
+  "name": "Nickerson, G. H. (George Hathaway)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Provincetown, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_pier,_by_Nickerson,_G._H._(George_Hathaway),_1835-1890.jpg"
+}

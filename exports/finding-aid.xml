@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3576</quantity>
+    <quantity>3593</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5810,6 +5810,78 @@
       <unittitle>Nantucket from Brant Point, by C. H. Shute &amp; Son</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3579.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3583">
+     <did>
+      <unitid>STA-3583</unitid>
+      <unittitle>Provincetown, Mass-black fish (NYPL b11707538-G90F275 050F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3582.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3584">
+     <did>
+      <unitid>STA-3584</unitid>
+      <unittitle>View of a pier, by Nickerson, G. H. (George Hathaway), 1835-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3583.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3585">
+     <did>
+      <unitid>STA-3585</unitid>
+      <unittitle>Provincetown harbor at low tide (NYPL b11707544-G90F281 004F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3584.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3587">
+     <did>
+      <unitid>STA-3587</unitid>
+      <unittitle>View of the Henry A. Paull, covered in ice, by Nickerson, G. H. (George Hathaway), 1835-1890 2</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3586.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3589">
+     <did>
+      <unitid>STA-3589</unitid>
+      <unittitle>Moonlight views, by Nickerson, G. H. (George Hathaway), 1835-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3588.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3592">
+     <did>
+      <unitid>STA-3592</unitid>
+      <unittitle>Ice-bound whaler, by Nickerson, G. H. (George Hathaway), 1835-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3591.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3593">
+     <did>
+      <unitid>STA-3593</unitid>
+      <unittitle>Ice bergs, Long Point, by Nickerson, G. H. (George Hathaway), 1835-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3592.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3594">
+     <did>
+      <unitid>STA-3594</unitid>
+      <unittitle>Grenada, by Nickerson, G. H. (George Hathaway), 1835-1890 2</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3593.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3596">
+     <did>
+      <unitid>STA-3596</unitid>
+      <unittitle>Grenada, by Nickerson, G. H. (George Hathaway), 1835-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3595.jpg"/>
      </did>
     </c>
    </c>
@@ -22566,6 +22638,54 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3580.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3582">
+     <did>
+      <unitid>STA-3582</unitid>
+      <unittitle>Provincetown windmill stereoscope</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3581.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3586">
+     <did>
+      <unitid>STA-3586</unitid>
+      <unittitle>Public library, by Nickerson, G. H. (George Hathaway), 1835-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3585.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3590">
+     <did>
+      <unitid>STA-3590</unitid>
+      <unittitle>Giffords House, by Nickerson, G. H. (George Hathaway), 1835-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3589.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3591">
+     <did>
+      <unitid>STA-3591</unitid>
+      <unittitle>Ryder street with the town house on Highpole hill above, by Nickerson, G. H. (George Hathaway), 1835-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3590.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3597">
+     <did>
+      <unitid>STA-3597</unitid>
+      <unittitle>High Pole Hill, from Ryder Street, by Nickerson, G. H. (George Hathaway), 1835-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3596.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3598">
+     <did>
+      <unitid>STA-3598</unitid>
+      <unittitle>Pilgrim House, by Nickerson, G. H. (George Hathaway), 1835-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3597.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -25643,6 +25763,22 @@
       <unittitle>Homes of the fishermen, Nantucket, by Kilburn Brothers</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3574.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3588">
+     <did>
+      <unitid>STA-3588</unitid>
+      <unittitle>Fishing poles and fish, by Nickerson, G. H. (George Hathaway), 1835-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3587.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3595">
+     <did>
+      <unitid>STA-3595</unitid>
+      <unittitle>Making fish, by Nickerson, G. H. (George Hathaway), 1835-1890</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3594.jpg"/>
      </did>
     </c>
    </c>
