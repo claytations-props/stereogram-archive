@@ -590,7 +590,7 @@ function filtered(){
 }
 let shuffleRank=null;
 let currentList=[];
-let shown=48,lastSig='',renderedShown=0,pendingAppend=false;
+let shown=48,lastSig='',lastListSig='',renderedShown=0,pendingAppend=false;
 /* Round 15: a search or a filter changes what the list holds, but the
    list sits below the shelf and the finding aid — typing "Niagara" in
    the toolbar left the results below the fold with nothing bringing
@@ -641,7 +641,16 @@ function render(){
  }
  const sig=[state.cat,state.era,state.q,state.sort,state.coll,state.view].join('|');
  const sameSig=sig===lastSig;
- if(!sameSig){shown=48;lastSig=sig;renderedShown=0;}
+ if(!sameSig)lastSig=sig;
+ /* Round 18: switching views used to reset the Show-more expansion
+    to 48 cards, although the list itself is unchanged — only its
+    presentation changes — so a visitor who had opened 144 cards lost
+    their place on every view switch (live walk, round 18). The
+    expansion resets only when the list itself changes (search,
+    filter, sort, collection); a view switch keeps how much of the
+    list is shown. */
+ const listSig=[state.cat,state.era,state.q,state.sort,state.coll].join('|');
+ if(listSig!==lastListSig){shown=48;lastListSig=listSig;renderedShown=0;}
  const page=currentList.slice(0,shown);
  const g=$("#grid"),rg=$("#reg");
  const ctx=listContext();
