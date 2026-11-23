@@ -1,0 +1,69 @@
+{
+ "title": "The quarries, Rockport, Mass (NYPL b11707545-G90F282 010F)",
+ "place": "Rockport, Massachusetts",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "mountains"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/The_quarries%2C_Rockport%2C_Mass_%28NYPL_b11707545-G90F282_010F%29.tiff/lossy-page1-1920px-The_quarries%2C_Rockport%2C_Mass_%28NYPL_b11707545-G90F282_010F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/8/8c/The_quarries%2C_Rockport%2C_Mass_%28NYPL_b11707545-G90F282_010F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_quarries,_Rockport,_Mass_(NYPL_b11707545-G90F282_010F).tiff",
+ "license": "Public domain",
+ "w": 3072,
+ "h": 1717,
+ "id": "STA-3608",
+ "rect": "rect/3607.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.13,
+ "rot": 0.03,
+ "range": 0.56,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9821,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/The_quarries%2C_Rockport%2C_Mass_%28NYPL_b11707545-G90F282_010F%29.tiff/lossy-page1-1920px-The_quarries%2C_Rockport%2C_Mass_%28NYPL_b11707545-G90F282_010F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9821,
+  "L": [
+   0.285417,
+   0.0,
+   0.184635,
+   0.0,
+   0.520037,
+   0.417055
+  ],
+  "R": [
+   0.286912,
+   0.002598,
+   0.517236,
+   -0.005757,
+   0.522719,
+   0.414541
+  ],
+  "g": [
+   1.0,
+   0.9582
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.03° of rotation. Depth measured gentle (0.56% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "mountains"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 49634792,
+ "source_revision_id": null,
+ "source_sha1": "28dcd1f63d6eebc327529b477c33a4ebbd450f82"
+}
