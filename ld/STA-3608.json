@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3608.json",
+ "name": "The quarries, Rockport, Mass (NYPL b11707545-G90F282 010F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3607.jpg",
+ "identifier": "STA-3608",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Rockport, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_quarries,_Rockport,_Mass_(NYPL_b11707545-G90F282_010F).tiff"
+}

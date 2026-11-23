@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3600.json",
+ "name": "View of Rockport, Maine, by H. A. Mills",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3599.jpg",
+ "identifier": "STA-3600",
+ "creator": {
+  "@type": "Person",
+  "name": "H. A. Mills"
+ },
+ "dateCreated": "1872",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Rockport, Maine"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_Rockport,_Maine,_by_H._A._Mills.png"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3603.json",
+ "name": "View of a stone fence opening on drive lined by orchards",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3602.jpg",
+ "identifier": "STA-3603",
+ "creator": {
+  "@type": "Person",
+  "name": "orchards"
+ },
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_stone_fence_opening_on_drive_lined_by_orchards,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

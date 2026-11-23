@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3593</quantity>
+    <quantity>3604</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5884,6 +5884,30 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3595.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3600">
+     <did>
+      <unitid>STA-3600</unitid>
+      <unittitle>View of Rockport, Maine, by H. A. Mills</unittitle>
+      <unitdate normal="1872">1872</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3599.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3601">
+     <did>
+      <unitid>STA-3601</unitid>
+      <unittitle>Granite wharf and shipping, Rockport, by E. G. Rollins</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3600.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3607">
+     <did>
+      <unitid>STA-3607</unitid>
+      <unittitle>Rockport (NYPL b11707545-G90F282 002F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3606.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -8247,6 +8271,38 @@
       <unittitle>Twenty-six horse combined harvester cutting barley, Sacramento Valley, Cal</unittitle>
       <unitdate normal="1905">1905</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3537.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3604">
+     <did>
+      <unitid>STA-3604</unitid>
+      <unittitle>View in the quarries in Rockport (NYPL b11707545-G90F282 003F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3603.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3605">
+     <did>
+      <unitid>STA-3605</unitid>
+      <unittitle>View in the quarries, Rockport, Mass (NYPL b11707545-G90F282 004F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3604.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3606">
+     <did>
+      <unitid>STA-3606</unitid>
+      <unittitle>View in the quarries, Rockport, Mass (NYPL b11707545-G90F282 008F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3605.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3608">
+     <did>
+      <unitid>STA-3608</unitid>
+      <unittitle>The quarries, Rockport, Mass (NYPL b11707545-G90F282 010F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3607.jpg"/>
      </did>
     </c>
    </c>
@@ -22686,6 +22742,22 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3597.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3602">
+     <did>
+      <unitid>STA-3602</unitid>
+      <unittitle>Rockport steam cotton mills, by John S. E. Rogers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3601.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3609">
+     <did>
+      <unitid>STA-3609</unitid>
+      <unittitle>Town Hall, Rockport (NYPL b11707545-G90F282 015ZF)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3608.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -25781,6 +25853,14 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3594.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3599">
+     <did>
+      <unitid>STA-3599</unitid>
+      <unittitle>Charlie Bendell Harkness, aged 8 months. Rockport, Maine</unittitle>
+      <unitdate normal="1872">1872</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3598.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-oddities">
     <did>
@@ -28800,6 +28880,14 @@
       <unittitle>View of a drawing) "The Innocent Cause- or the Origin of Chicago Fire" (showing Mrs. O'Leary and her cows) (NYPL b11707459-G90F182 013ZF)</unittitle>
       <unitdate normal="1871">1871</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3506.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3603">
+     <did>
+      <unitid>STA-3603</unitid>
+      <unittitle>View of a stone fence opening on drive lined by orchards</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3602.jpg"/>
      </did>
     </c>
    </c>

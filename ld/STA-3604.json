@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3604.json",
+ "name": "View in the quarries in Rockport (NYPL b11707545-G90F282 003F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3603.jpg",
+ "identifier": "STA-3604",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Rockport, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_in_the_quarries_in_Rockport_(NYPL_b11707545-G90F282_003F).tiff"
+}
