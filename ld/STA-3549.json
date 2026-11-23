@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3549.json",
+ "name": "Street view in Salt Lake City Salt Lake County, Utah 1869 (Stereoscopic view) (30464223882)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3548.jpg",
+ "identifier": "STA-3549",
+ "dateCreated": "1869",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salt Lake City, Utah"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Street_view_in_Salt_Lake_City_Salt_Lake_County,_Utah_1869_(Stereoscopic_view)_(30464223882).jpg"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3554.json",
+ "name": "Interior of Mormon Tabernacle, Salt Lake City",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3553.jpg",
+ "identifier": "STA-3554",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Salt Lake City, Utah"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Interior_of_Mormon_Tabernacle,_Salt_Lake_City,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

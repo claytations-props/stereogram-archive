@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3542</quantity>
+    <quantity>3560</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -22326,6 +22326,142 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3546.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3548">
+     <did>
+      <unitid>STA-3548</unitid>
+      <unittitle>Interior of Tabernacle, Salt Lake (City)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3547.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3549">
+     <did>
+      <unitid>STA-3549</unitid>
+      <unittitle>Street view in Salt Lake City Salt Lake County, Utah 1869 (Stereoscopic view) (30464223882)</unittitle>
+      <unitdate normal="1869">1869</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3548.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3550">
+     <did>
+      <unitid>STA-3550</unitid>
+      <unittitle>Great Tabernacle, Salt Lake City</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3549.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3551">
+     <did>
+      <unitid>STA-3551</unitid>
+      <unittitle>Temple Block, Salt Lake City, Utah</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3550.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3552">
+     <did>
+      <unitid>STA-3552</unitid>
+      <unittitle>Tabernacle, Salt Lake (City)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3551.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3553">
+     <did>
+      <unitid>STA-3553</unitid>
+      <unittitle>Mormon Tabernacle, Salt Lake City, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3552.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3554">
+     <did>
+      <unitid>STA-3554</unitid>
+      <unittitle>Interior of Mormon Tabernacle, Salt Lake City</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3553.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3555">
+     <did>
+      <unitid>STA-3555</unitid>
+      <unittitle>Brigham Young's residence, Salt Lake City, Utah</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3554.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3556">
+     <did>
+      <unitid>STA-3556</unitid>
+      <unittitle>Salt Lake City</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3555.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3557">
+     <did>
+      <unitid>STA-3557</unitid>
+      <unittitle>The pride of the Mormons - the Temple, Salt Lake City, Utah</unittitle>
+      <unitdate normal="1899/1909">c. 1904</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3556.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3558">
+     <did>
+      <unitid>STA-3558</unitid>
+      <unittitle>Interior of Tabernacle, Salt Lake (City), from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3557.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3559">
+     <did>
+      <unitid>STA-3559</unitid>
+      <unittitle>Mormon Tabernacle and grounds, Salt Lake City, Utah</unittitle>
+      <unitdate normal="1893/1903">c. 1898</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3558.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3560">
+     <did>
+      <unitid>STA-3560</unitid>
+      <unittitle>Theatre (under construction), Salt Lake City, Utah</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3559.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3561">
+     <did>
+      <unitid>STA-3561</unitid>
+      <unittitle>Mormon Tabernacle, Salt Lake City, Utah, U.S.A, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1892/1902">c. 1897</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3560.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3562">
+     <did>
+      <unitid>STA-3562</unitid>
+      <unittitle>General view, Salt Lake City. River Jordan in distance</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3561.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3564">
+     <did>
+      <unitid>STA-3564</unitid>
+      <unittitle>Tabernacle at Salt Lake City, Utah</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3563.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3565">
+     <did>
+      <unitid>STA-3565</unitid>
+      <unittitle>Salt Lake City, Utah, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3564.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -25371,6 +25507,14 @@
       <unittitle>Box Of Stereoscopic Views, Thirty-Six Selected Haynes Stereoscopic Views of the Yellowstone National Park, 1881–88 (CH 69112937)</unittitle>
       <unitdate normal="1881">1881</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3470.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3563">
+     <did>
+      <unitid>STA-3563</unitid>
+      <unittitle>Colfax &amp; Parts at Salt Lake City</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3562.jpg"/>
      </did>
     </c>
    </c>
