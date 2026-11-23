@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3625.json",
+ "name": "A group of fishermen standing near river or lake, by J. W. Clary",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3624.jpg",
+ "identifier": "STA-3625",
+ "creator": {
+  "@type": "Person",
+  "name": "J. W. Clary"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hot Springs, Arkansas"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:A_group_of_fishermen_standing_near_river_or_lake,_by_J._W._Clary.jpg"
+}

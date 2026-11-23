@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3633.json",
+ "name": "Allen Roan, notary public, by J. F. Kennedy",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3632.jpg",
+ "identifier": "STA-3633",
+ "creator": {
+  "@type": "Person",
+  "name": "J. F. Kennedy"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hot Springs, Arkansas"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Allen_Roan,_notary_public,_by_J._F._Kennedy.jpg"
+}

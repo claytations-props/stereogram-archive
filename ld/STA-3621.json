@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3621.json",
+ "name": "Arkansas cow, by J. F. Kennedy",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3620.jpg",
+ "identifier": "STA-3621",
+ "creator": {
+  "@type": "Person",
+  "name": "J. F. Kennedy"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hot Springs, Arkansas"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Arkansas_cow,_by_J._F._Kennedy.jpg"
+}

@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3624.json",
+ "name": "Bird's-eye view of the valley, by Rast, M. J. D. (Marcus J. D.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3623.jpg",
+ "identifier": "STA-3624",
+ "creator": {
+  "@type": "Person",
+  "name": "Rast, M. J. D. (Marcus J. D.)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hot Springs, Arkansas"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bird%27s-eye_view_of_the_valley,_by_Rast,_M._J._D._(Marcus_J._D.).jpg"
+}

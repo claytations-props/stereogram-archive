@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3635.json",
+ "name": "Man seated in a wooden wheelchair, by J. F. Kennedy",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3634.jpg",
+ "identifier": "STA-3635",
+ "creator": {
+  "@type": "Person",
+  "name": "J. F. Kennedy"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hot Springs, Arkansas"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Man_seated_in_a_wooden_wheelchair,_by_J._F._Kennedy.png"
+}

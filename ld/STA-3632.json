@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3632.json",
+ "name": "Old Mud Hole, by J. W. Clary",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3631.jpg",
+ "identifier": "STA-3632",
+ "creator": {
+  "@type": "Person",
+  "name": "J. W. Clary"
+ },
+ "dateCreated": "1872",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Hot Springs, Arkansas"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Old_Mud_Hole,_by_J._W._Clary.jpg"
+}

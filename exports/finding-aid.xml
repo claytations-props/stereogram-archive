@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3613</quantity>
+    <quantity>3631</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5908,6 +5908,14 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3606.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3625">
+     <did>
+      <unitid>STA-3625</unitid>
+      <unittitle>A group of fishermen standing near river or lake, by J. W. Clary</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3624.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -8303,6 +8311,38 @@
       <unittitle>The quarries, Rockport, Mass (NYPL b11707545-G90F282 010F)</unittitle>
       <unitdate>Undated</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3607.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3622">
+     <did>
+      <unitid>STA-3622</unitid>
+      <unittitle>Lost Louisiana Shaft House</unittitle>
+      <unitdate normal="1872">1872</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3621.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3626">
+     <did>
+      <unitid>STA-3626</unitid>
+      <unittitle>Mosambique Tunnel, by J. F. Kennedy 2</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3625.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3630">
+     <did>
+      <unitid>STA-3630</unitid>
+      <unittitle>Mosambique Tunnel, by J. F. Kennedy</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3629.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3636">
+     <did>
+      <unitid>STA-3636</unitid>
+      <unittitle>Lost Louisiana mine, by J. F. Kennedy</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3635.jpg"/>
      </did>
     </c>
    </c>
@@ -22790,6 +22830,62 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3615.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3619">
+     <did>
+      <unitid>STA-3619</unitid>
+      <unittitle>City and Valley of Hot Springs, looking south, by J. F. Kennedy</unittitle>
+      <unitdate normal="1872">1872</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3618.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3620">
+     <did>
+      <unitid>STA-3620</unitid>
+      <unittitle>Arkansas School, by J. F. Kennedy</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3619.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3623">
+     <did>
+      <unitid>STA-3623</unitid>
+      <unittitle>Bird's-eye view of the valley, by J. W. Clary</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3622.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3624">
+     <did>
+      <unitid>STA-3624</unitid>
+      <unittitle>Bird's-eye view of the valley, by Rast, M. J. D. (Marcus J. D.)</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3623.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3627">
+     <did>
+      <unitid>STA-3627</unitid>
+      <unittitle>Garland County jail, by J. F. Kennedy 2</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3626.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3629">
+     <did>
+      <unitid>STA-3629</unitid>
+      <unittitle>Garland County Poor House, by J. F. Kennedy</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3628.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3634">
+     <did>
+      <unitid>STA-3634</unitid>
+      <unittitle>Street in Ral City, by J. F. Kennedy</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3633.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -25917,6 +26013,30 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3598.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3628">
+     <did>
+      <unitid>STA-3628</unitid>
+      <unittitle>H.S. Market wagon, (men in a wagon pulled by four oxen), by J. F. Kennedy</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3627.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3633">
+     <did>
+      <unitid>STA-3633</unitid>
+      <unittitle>Allen Roan, notary public, by J. F. Kennedy</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3632.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3635">
+     <did>
+      <unitid>STA-3635</unitid>
+      <unittitle>Man seated in a wooden wheelchair, by J. F. Kennedy</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3634.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-oddities">
     <did>
@@ -28960,6 +29080,30 @@
       <unittitle>Lexington. (Race horse.), by James Mullen</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3616.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3621">
+     <did>
+      <unitid>STA-3621</unitid>
+      <unittitle>Arkansas cow, by J. F. Kennedy</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3620.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3631">
+     <did>
+      <unitid>STA-3631</unitid>
+      <unittitle>Happy Hollow, by J. F. Kennedy</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3630.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3632">
+     <did>
+      <unitid>STA-3632</unitid>
+      <unittitle>Old Mud Hole, by J. W. Clary</unittitle>
+      <unitdate normal="1872">1872</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3631.jpg"/>
      </did>
     </c>
    </c>
