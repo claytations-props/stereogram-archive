@@ -805,9 +805,17 @@ function drawSetPanel(){
     const s=row.set,y=row.y;
     const isCur=curSet&&s.key===curSet.key;
     if(isCur){c.fillStyle='rgba(216,178,106,0.28)';c.beginPath();c.roundRect(14,y,484,SET_ROW_H,10);c.fill();}
-    c.font=(isCur?'700 ':'')+'29px Georgia,serif';c.fillStyle=isCur?'#f7d774':'#f4eee1';
-    let label=s.label;
-    while(label.length&&c.measureText(label).width>300)label=label.slice(0,-1);
+    /* Round 18: set labels were cut at 300px, so the finding aid's
+       own longest names read truncated in the room — "Robert N.
+       Dennis Collect…", "Keystone View Compan…" (live walk, round
+       18). The label gets 390px now — the count is a short number
+       right-aligned at 484, so the room is there — and a long label
+       steps its size down (29 to 25) before it ever shortens, the
+       way the caption plaque already does. */
+    let label=s.label,lfs=29;
+    c.font=(isCur?'700 ':'')+lfs+'px Georgia,serif';c.fillStyle=isCur?'#f7d774':'#f4eee1';
+    while(lfs>25&&c.measureText(label).width>390){lfs-=2;c.font=(isCur?'700 ':'')+lfs+'px Georgia,serif';}
+    while(label.length&&c.measureText(label).width>390)label=label.slice(0,-1);
     if(label!==s.label)label=label.trimEnd()+'\u2026';
     c.fillText(label,28,y+33);
     c.font='25px Georgia,serif';c.fillStyle='#d8cbaa';c.textAlign='right';c.fillText(String(s.indices.length),484,y+32);c.textAlign='left';
