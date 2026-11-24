@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3691.json",
+ "name": "The oldest house in Santa Fe, by Bennett & Brown",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3690.jpg",
+ "identifier": "STA-3691",
+ "creator": {
+  "@type": "Person",
+  "name": "Bennett & Brown"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Santa Fe, New Mexico"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_oldest_house_in_Santa_Fe,_by_Bennett_%26_Brown.jpg"
+}

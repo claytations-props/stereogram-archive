@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-3690.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "When shall we three meet again, Santa Fe, New Mexico, by Kilburn Brothers"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Kilburn Brothers"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1870"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Santa Fe, New Mexico"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-3690.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-3690/canvas/1",
+   "type": "Canvas",
+   "width": 1566,
+   "height": 894,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-3690/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-3690/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/3689.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1566,
+        "height": 894,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/When_shall_we_three_meet_again%2C_Santa_Fe%2C_New_Mexico%2C_by_Kilburn_Brothers.jpg/1920px-When_shall_we_three_meet_again%2C_Santa_Fe%2C_New_Mexico%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-3690/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

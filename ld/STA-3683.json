@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3683.json",
+ "name": "Santa Fe, New Mexico, by Kilburn Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3682.jpg",
+ "identifier": "STA-3683",
+ "creator": {
+  "@type": "Person",
+  "name": "Kilburn Brothers"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Santa Fe, New Mexico"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Santa_Fe,_New_Mexico,_by_Kilburn_Brothers.png"
+}

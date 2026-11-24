@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3679.json",
+ "name": "Indian pottery at Santa Fe, New Mexico, by Continent Stereoscopic Company",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3678.jpg",
+ "identifier": "STA-3679",
+ "creator": {
+  "@type": "Person",
+  "name": "Continent Stereoscopic Company"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Santa Fe, New Mexico"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Indian_pottery_at_Santa_Fe,_New_Mexico,_by_Continent_Stereoscopic_Company.jpg"
+}

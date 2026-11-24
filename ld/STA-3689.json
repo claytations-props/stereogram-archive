@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3689.json",
+ "name": "Santa Fe, church of San Miguel, the alter, by Jackson, William Henry, 1843-1942",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3688.jpg",
+ "identifier": "STA-3689",
+ "creator": {
+  "@type": "Person",
+  "name": "Jackson, William Henry"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Santa Fe, New Mexico"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Santa_Fe,_church_of_San_Miguel,_the_alter,_by_Jackson,_William_Henry,_1843-1942.jpg"
+}

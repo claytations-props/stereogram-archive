@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3672</quantity>
+    <quantity>3687</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -23182,6 +23182,94 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3676.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3678">
+     <did>
+      <unitid>STA-3678</unitid>
+      <unittitle>The plaza, Santa Fe, New Mexico, by Continent Stereoscopic Company</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3677.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3680">
+     <did>
+      <unitid>STA-3680</unitid>
+      <unittitle>Street view in Santa Fe, by Brown, William Henry, 1928-</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3679.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3681">
+     <did>
+      <unitid>STA-3681</unitid>
+      <unittitle>Santa Fe, N.E. view, by Brown, William Henry, 1928-</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3680.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3682">
+     <did>
+      <unitid>STA-3682</unitid>
+      <unittitle>Santa Fe, N.E. view, by Brown, William Henry, 1928- 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3681.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3683">
+     <did>
+      <unitid>STA-3683</unitid>
+      <unittitle>Santa Fe, New Mexico, by Kilburn Brothers</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3682.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3685">
+     <did>
+      <unitid>STA-3685</unitid>
+      <unittitle>View of the oldest house in Santa Fe, by Brown, William Henry, 1928-</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3684.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3686">
+     <did>
+      <unitid>STA-3686</unitid>
+      <unittitle>Pueblo architecture in Santa Fe, by Brown, William Henry, 1928-</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3685.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3687">
+     <did>
+      <unitid>STA-3687</unitid>
+      <unittitle>Santa Fe, San Miguel Street, by Jackson, William Henry, 1843-1942</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3686.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3688">
+     <did>
+      <unitid>STA-3688</unitid>
+      <unittitle>View of Santa, Fe New Mexico - NARA - 519746</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3687.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3691">
+     <did>
+      <unitid>STA-3691</unitid>
+      <unittitle>The oldest house in Santa Fe, by Bennett &amp; Brown</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3690.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3692">
+     <did>
+      <unitid>STA-3692</unitid>
+      <unittitle>View of "Mexican burros" with building in the background</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3691.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -29432,6 +29520,38 @@
       <unittitle>Kansas grasshoppers</unittitle>
       <unitdate normal="1868">1868</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3673.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3679">
+     <did>
+      <unitid>STA-3679</unitid>
+      <unittitle>Indian pottery at Santa Fe, New Mexico, by Continent Stereoscopic Company</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3678.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3684">
+     <did>
+      <unitid>STA-3684</unitid>
+      <unittitle>Pack burros in Santa Fe, by Brown, William Henry, 1928-</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3683.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3689">
+     <did>
+      <unitid>STA-3689</unitid>
+      <unittitle>Santa Fe, church of San Miguel, the alter, by Jackson, William Henry, 1843-1942</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3688.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3690">
+     <did>
+      <unitid>STA-3690</unitid>
+      <unittitle>When shall we three meet again, Santa Fe, New Mexico, by Kilburn Brothers</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3689.jpg"/>
      </did>
     </c>
    </c>
