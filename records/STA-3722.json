@@ -1,0 +1,69 @@
+{
+ "title": "View of houses after a snowstorm",
+ "place": "Cleveland, Ohio",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/View_of_houses_after_a_snowstorm%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_houses_after_a_snowstorm%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/e9/View_of_houses_after_a_snowstorm%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_houses_after_a_snowstorm,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1691,
+ "id": "STA-3722",
+ "rect": "rect/3721.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.15,
+ "rot": 0.03,
+ "range": 0.8,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0569,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/View_of_houses_after_a_snowstorm%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_houses_after_a_snowstorm%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0569,
+  "L": [
+   0.377604,
+   0.0,
+   0.10651,
+   0.0,
+   0.578415,
+   0.048482
+  ],
+  "R": [
+   0.37693,
+   0.001302,
+   0.50712,
+   -0.002001,
+   0.579104,
+   0.049652
+  ],
+  "g": [
+   1.0,
+   0.9936
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.03° of rotation. Depth measured gentle (0.8% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7475220,
+ "source_revision_id": null,
+ "source_sha1": "84c1d1626f45f8176befa4e8a9b5488d3a0241b7"
+}
