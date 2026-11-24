@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 7470344,
  "source_revision_id": null,
- "source_sha1": "f7623ae11017021038f4a1a1aa1926ac8a5ccdf6"
+ "source_sha1": "f7623ae11017021038f4a1a1aa1926ac8a5ccdf6",
+ "tags": [
+  "mule",
+  "workers",
+  "trees"
+ ]
 }

@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7470301,
  "source_revision_id": null,
- "source_sha1": "7f63ca9ad837e0952adf3b1fa9bf8b4e710012ac"
+ "source_sha1": "7f63ca9ad837e0952adf3b1fa9bf8b4e710012ac",
+ "tags": [
+  "mule",
+  "workers"
+ ]
 }
