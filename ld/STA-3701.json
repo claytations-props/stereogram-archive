@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3701.json",
+ "name": "Vicksburg Cemetery, (Avenue) (NYPL b11707640-G90F446 022ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3700.jpg",
+ "identifier": "STA-3701",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Vicksburg, Mississippi"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Vicksburg_Cemetery,_(Avenue)_(NYPL_b11707640-G90F446_022ZF).tiff"
+}

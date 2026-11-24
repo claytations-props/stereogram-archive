@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3693.json",
+ "name": "Stereoscopic views of Vicksburg, Mississippi (NYPL b11707640-G90F446 009F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3692.jpg",
+ "identifier": "STA-3693",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Vicksburg, Mississippi"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Stereoscopic_views_of_Vicksburg,_Mississippi_(NYPL_b11707640-G90F446_009F).tiff"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3702.json",
+ "name": "View of south-eastern part of cemetery. (Coal-fleet in distance.), by H. J. Herrick",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3701.jpg",
+ "identifier": "STA-3702",
+ "creator": {
+  "@type": "Person",
+  "name": "H. J. Herrick"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Vicksburg, Mississippi"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_south-eastern_part_of_cemetery._(Coal-fleet_in_distance.),_by_H._J._Herrick.png"
+}

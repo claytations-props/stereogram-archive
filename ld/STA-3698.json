@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3698.json",
+ "name": "Bird's-eye view of the National Cemetery, by H. J. Herrick",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3697.jpg",
+ "identifier": "STA-3698",
+ "creator": {
+  "@type": "Person",
+  "name": "H. J. Herrick"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Vicksburg, Mississippi"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bird%27s-eye_view_of_the_National_Cemetery,_by_H._J._Herrick.jpg"
+}

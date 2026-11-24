@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3705.json",
+ "name": "Deep cut, below National Cemetery. (Below cascade no. 4, southern mouth.), by H. J. Herrick",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3704.jpg",
+ "identifier": "STA-3705",
+ "creator": {
+  "@type": "Person",
+  "name": "H. J. Herrick"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Vicksburg, Mississippi"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Deep_cut,_below_National_Cemetery._(Below_cascade_no._4,_southern_mouth.),_by_H._J._Herrick.jpg"
+}

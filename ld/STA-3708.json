@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3708.json",
+ "name": "Entrance with steps, by H. J. Herrick",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3707.jpg",
+ "identifier": "STA-3708",
+ "creator": {
+  "@type": "Person",
+  "name": "H. J. Herrick"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Vicksburg, Mississippi"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Entrance_with_steps,_by_H._J._Herrick.jpg"
+}

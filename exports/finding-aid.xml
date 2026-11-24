@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3687</quantity>
+    <quantity>3706</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5956,6 +5956,46 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3668.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3695">
+     <did>
+      <unitid>STA-3695</unitid>
+      <unittitle>Mouth Main Sewer at National Cemetery</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3694.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3696">
+     <did>
+      <unitid>STA-3696</unitid>
+      <unittitle>Cascade no. 4, just outside National Cemetery</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3695.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3697">
+     <did>
+      <unitid>STA-3697</unitid>
+      <unittitle>The levee at Vicksburg, Miss., February, 1864, by Taylor &amp; Huntington</unittitle>
+      <unitdate normal="1864">1864</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3696.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3699">
+     <did>
+      <unitid>STA-3699</unitid>
+      <unittitle>Central Drive with view of Mississippi River, by H. J. Herrick</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3698.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3710">
+     <did>
+      <unitid>STA-3710</unitid>
+      <unittitle>Cascade no. 3, just outside National Cemetery, by H. J. Herrick</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3709.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -8423,6 +8463,22 @@
       <unittitle>Railroad to West Kansas City, by Ragan &amp; Shannon</unittitle>
       <unitdate normal="1870">1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3667.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3705">
+     <did>
+      <unitid>STA-3705</unitid>
+      <unittitle>Deep cut, below National Cemetery. (Below cascade no. 4, southern mouth.), by H. J. Herrick</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3704.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3709">
+     <did>
+      <unitid>STA-3709</unitid>
+      <unittitle>Head Ravine under National Cemetery, by H. J. Herrick</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3708.jpg"/>
      </did>
     </c>
    </c>
@@ -23270,6 +23326,78 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3691.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3693">
+     <did>
+      <unitid>STA-3693</unitid>
+      <unittitle>Stereoscopic views of Vicksburg, Mississippi (NYPL b11707640-G90F446 009F)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3692.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3698">
+     <did>
+      <unitid>STA-3698</unitid>
+      <unittitle>Bird's-eye view of the National Cemetery, by H. J. Herrick</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3697.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3700">
+     <did>
+      <unitid>STA-3700</unitid>
+      <unittitle>Vicksburg and the Heights (NYPL b11707640-G90F446 015ZF)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3699.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3701">
+     <did>
+      <unitid>STA-3701</unitid>
+      <unittitle>Vicksburg Cemetery, (Avenue) (NYPL b11707640-G90F446 022ZF)</unittitle>
+      <unitdate>Undated</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3700.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3702">
+     <did>
+      <unitid>STA-3702</unitid>
+      <unittitle>View of south-eastern part of cemetery. (Coal-fleet in distance.), by H. J. Herrick</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3701.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3703">
+     <did>
+      <unitid>STA-3703</unitid>
+      <unittitle>View of cemetery looking south-west along central drive with Natural Mound, Mississippi River and Peninsula opposite v., in the distance, by H. J. Herrick</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3702.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3704">
+     <did>
+      <unitid>STA-3704</unitid>
+      <unittitle>View of cemetery looking north-west, with Flagstaff and Greenhouse, by H. J. Herrick</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3703.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3708">
+     <did>
+      <unitid>STA-3708</unitid>
+      <unittitle>Entrance with steps, by H. J. Herrick</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3707.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3711">
+     <did>
+      <unitid>STA-3711</unitid>
+      <unittitle>Central Drive, by H. J. Herrick</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3710.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -23993,6 +24121,22 @@
       <unittitle>First battle ground of the revolution, by Deloss Barnum</unittitle>
       <unitdate normal="1859">1859</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3617.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3706">
+     <did>
+      <unitid>STA-3706</unitid>
+      <unittitle>A Negotiated Surrender?, by H. J. Herrick</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3705.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3707">
+     <did>
+      <unitid>STA-3707</unitid>
+      <unittitle>Grant and Pemberton monument (Surrender Marker). (Now standing in cemetery), by H. J. Herrick</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3706.jpg"/>
      </did>
     </c>
    </c>
@@ -29552,6 +29696,14 @@
       <unittitle>When shall we three meet again, Santa Fe, New Mexico, by Kilburn Brothers</unittitle>
       <unitdate normal="1870">1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3689.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3694">
+     <did>
+      <unitid>STA-3694</unitid>
+      <unittitle>Cave on Grove Street</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3693.jpg"/>
      </did>
     </c>
    </c>

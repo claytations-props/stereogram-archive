@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3697.json",
+ "name": "The levee at Vicksburg, Miss., February, 1864, by Taylor & Huntington",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3696.jpg",
+ "identifier": "STA-3697",
+ "creator": {
+  "@type": "Person",
+  "name": "Taylor & Huntington"
+ },
+ "dateCreated": "1864",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Vicksburg, Mississippi"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_levee_at_Vicksburg,_Miss.,_February,_1864,_by_Taylor_%26_Huntington.jpg"
+}

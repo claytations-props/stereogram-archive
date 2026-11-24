@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3710.json",
+ "name": "Cascade no. 3, just outside National Cemetery, by H. J. Herrick",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3709.jpg",
+ "identifier": "STA-3710",
+ "creator": {
+  "@type": "Person",
+  "name": "H. J. Herrick"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Vicksburg, Mississippi"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cascade_no._3,_just_outside_National_Cemetery,_by_H._J._Herrick.jpg"
+}

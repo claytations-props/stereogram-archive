@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3703.json",
+ "name": "View of cemetery looking south-west along central drive with Natural Mound, Mississippi River and Peninsula opposite v., in the distance, by H. J. Herrick",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3702.jpg",
+ "identifier": "STA-3703",
+ "creator": {
+  "@type": "Person",
+  "name": "H. J. Herrick"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Vicksburg, Mississippi"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_cemetery_looking_south-west_along_central_drive_with_Natural_Mound,_Mississippi_River_and_Peninsula_opposite_v.,_in_the_distance,_by_H._J._Herrick.jpg"
+}

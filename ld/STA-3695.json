@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3695.json",
+ "name": "Mouth Main Sewer at National Cemetery",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3694.jpg",
+ "identifier": "STA-3695",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Vicksburg, Mississippi"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Mouth_Main_Sewer_at_National_Cemetery,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-3703.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "View of cemetery looking south-west along central drive with Natural Mound, Mississippi River and Peninsula opposite v., in the distance, by H. J. Herrick"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "H. J. Herrick"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1870"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Vicksburg, Mississippi"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-3703.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-3703/canvas/1",
+   "type": "Canvas",
+   "width": 1430,
+   "height": 491,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-3703/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-3703/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/3702.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1430,
+        "height": 491,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/View_of_cemetery_looking_south-west_along_central_drive_with_Natural_Mound%2C_Mississippi_River_and_Peninsula_opposite_v.%2C_in_the_distance%2C_by_H._J._Herrick.jpg/1920px-View_of_cemetery_looking_south-west_along_central_drive_with_Natural_Mound%2C_Mississippi_River_and_Peninsula_opposite_v.%2C_in_the_distance%2C_by_H._J._Herrick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-3703/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
