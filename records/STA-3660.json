@@ -1,0 +1,69 @@
+{
+ "title": "Union Depot, Kansas City",
+ "place": "Kansas City, Missouri",
+ "year": "c. 1880",
+ "sy": 1880,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Union_Depot%2C_Kansas_City%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Union_Depot%2C_Kansas_City%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/57/Union_Depot%2C_Kansas_City%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Union_Depot,_Kansas_City,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1381,
+ "id": "STA-3660",
+ "rect": "rect/3659.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.16,
+ "rot": 0.01,
+ "range": 1.31,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.5675,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Union_Depot%2C_Kansas_City%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Union_Depot%2C_Kansas_City%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.5675,
+  "L": [
+   0.411458,
+   0.0,
+   0.073177,
+   0.0,
+   0.520124,
+   0.427761
+  ],
+  "R": [
+   0.410277,
+   -0.009213,
+   0.515522,
+   -0.01135,
+   0.518926,
+   0.446597
+  ],
+  "g": [
+   0.9272,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.01° of rotation. Depth measured gentle (1.31% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1880~",
+ "date_start": 1875,
+ "date_end": 1885,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7465177,
+ "source_revision_id": null,
+ "source_sha1": "7110ff143f0250802062d6af5c09c8c4efaf7724"
+}
