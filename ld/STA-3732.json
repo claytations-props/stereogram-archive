@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3732.json",
+ "name": "Cannon in square, Cleveland, by Thomas T. Sweeny",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3731.jpg",
+ "identifier": "STA-3732",
+ "creator": {
+  "@type": "Person",
+  "name": "Thomas T. Sweeny"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cleveland, Ohio"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Cannon_in_square,_Cleveland,_by_Thomas_T._Sweeny.jpg"
+}

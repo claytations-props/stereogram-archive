@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3709</quantity>
+    <quantity>3727</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5994,6 +5994,30 @@
       <unittitle>Cascade no. 3, just outside National Cemetery, by H. J. Herrick</unittitle>
       <unitdate normal="1870">1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3709.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3721">
+     <did>
+      <unitid>STA-3721</unitid>
+      <unittitle>View on Rock river</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3720.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3724">
+     <did>
+      <unitid>STA-3724</unitid>
+      <unittitle>View of the lake shore</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3723.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3725">
+     <did>
+      <unitid>STA-3725</unitid>
+      <unittitle>View of the lake shore, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3724.jpg"/>
      </did>
     </c>
    </c>
@@ -23406,6 +23430,62 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3712.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3715">
+     <did>
+      <unitid>STA-3715</unitid>
+      <unittitle>Stereoscopic view of the Wilson sewing machine co.'s store rooms, office &amp; ware rooms at Cleveland, O, by Thomas T. Sweeny 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3714.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3716">
+     <did>
+      <unitid>STA-3716</unitid>
+      <unittitle>Stereoscopic view of the Wilson sewing machine co.'s store rooms, office &amp; ware rooms at Cleveland, O, by Thomas T. Sweeny</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3715.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3719">
+     <did>
+      <unitid>STA-3719</unitid>
+      <unittitle>Stereoscopic views of the Wilson sewing machine co.'s office and salesrooms at Cleveland, O, by Thomas T. Sweeny</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3718.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3720">
+     <did>
+      <unitid>STA-3720</unitid>
+      <unittitle>The Garfield Obsequies at Cleveland, Schofield vault, temporary resting place of the remains</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3719.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3722">
+     <did>
+      <unitid>STA-3722</unitid>
+      <unittitle>View of houses after a snowstorm</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3721.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3723">
+     <did>
+      <unitid>STA-3723</unitid>
+      <unittitle>Lake View cemetery Cleveland, O, by Alfred S. Campbell</unittitle>
+      <unitdate normal="1896">1896</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3722.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3728">
+     <did>
+      <unitid>STA-3728</unitid>
+      <unittitle>Franklin street</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3727.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -24145,6 +24225,22 @@
       <unittitle>Grant and Pemberton monument (Surrender Marker). (Now standing in cemetery), by H. J. Herrick</unittitle>
       <unitdate normal="1870">1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3706.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3730">
+     <did>
+      <unitid>STA-3730</unitid>
+      <unittitle>Captured canon, Cleveland, by Thomas T. Sweeny</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3729.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3732">
+     <did>
+      <unitid>STA-3732</unitid>
+      <unittitle>Cannon in square, Cleveland, by Thomas T. Sweeny</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3731.jpg"/>
      </did>
     </c>
    </c>
@@ -26579,6 +26675,54 @@
       <unittitle>Beds of lettuce, young man with wheel hoe, girls with common hoes, near Buffalo, N.Y., U.S.A</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3713.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3717">
+     <did>
+      <unitid>STA-3717</unitid>
+      <unittitle>The Garfield Obsequies at Cleveland, catafalque, showing Perry Monument</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3716.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3718">
+     <did>
+      <unitid>STA-3718</unitid>
+      <unittitle>The Garfield Obsequies at Cleveland, artillery men advancing for the corpse</unittitle>
+      <unitdate normal="1881">1881</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3717.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3726">
+     <did>
+      <unitid>STA-3726</unitid>
+      <unittitle>View of people and steetcars after a major snowstorm</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3725.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3727">
+     <did>
+      <unitid>STA-3727</unitid>
+      <unittitle>View of a child and a baby in a stroller</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3726.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3729">
+     <did>
+      <unitid>STA-3729</unitid>
+      <unittitle>View of a family in a residential neighborhood in the winter after a major snowstorm</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3728.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3731">
+     <did>
+      <unitid>STA-3731</unitid>
+      <unittitle>View of a child with a shovel standing behind a tunnel of snow in front of a house</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3730.jpg"/>
      </did>
     </c>
    </c>

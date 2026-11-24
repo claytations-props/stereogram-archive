@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-3715.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Stereoscopic view of the Wilson sewing machine co.'s store rooms, office & ware rooms at Cleveland, O, by Thomas T. Sweeny 2"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Thomas T. Sweeny"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1865"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Cleveland, Ohio"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-3715.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-3715/canvas/1",
+   "type": "Canvas",
+   "width": 1418,
+   "height": 765,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-3715/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-3715/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/3714.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1418,
+        "height": 765,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Stereoscopic_view_of_the_Wilson_sewing_machine_co.%27s_store_rooms%2C_office_%26_ware_rooms_at_Cleveland%2C_O%2C_by_Thomas_T._Sweeny_2.jpg/1920px-Stereoscopic_view_of_the_Wilson_sewing_machine_co.%27s_store_rooms%2C_office_%26_ware_rooms_at_Cleveland%2C_O%2C_by_Thomas_T._Sweeny_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-3715/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

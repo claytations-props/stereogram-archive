@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3715.json",
+ "name": "Stereoscopic view of the Wilson sewing machine co.'s store rooms, office & ware rooms at Cleveland, O, by Thomas T. Sweeny 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3714.jpg",
+ "identifier": "STA-3715",
+ "creator": {
+  "@type": "Person",
+  "name": "Thomas T. Sweeny"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cleveland, Ohio"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Stereoscopic_view_of_the_Wilson_sewing_machine_co.%27s_store_rooms,_office_%26_ware_rooms_at_Cleveland,_O,_by_Thomas_T._Sweeny_2.jpg"
+}

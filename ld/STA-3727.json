@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3727.json",
+ "name": "View of a child and a baby in a stroller",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3726.jpg",
+ "identifier": "STA-3727",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cleveland, Ohio"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_child_and_a_baby_in_a_stroller,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

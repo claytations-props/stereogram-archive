@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3718.json",
+ "name": "The Garfield Obsequies at Cleveland, artillery men advancing for the corpse",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3717.jpg",
+ "identifier": "STA-3718",
+ "dateCreated": "1881",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cleveland, Ohio"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Garfield_Obsequies_at_Cleveland,_artillery_men_advancing_for_the_corpse,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

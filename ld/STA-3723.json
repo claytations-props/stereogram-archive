@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3723.json",
+ "name": "Lake View cemetery Cleveland, O, by Alfred S. Campbell",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3722.jpg",
+ "identifier": "STA-3723",
+ "creator": {
+  "@type": "Person",
+  "name": "Alfred S. Campbell"
+ },
+ "dateCreated": "1896",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Cleveland, Ohio"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Lake_View_cemetery_Cleveland,_O,_by_Alfred_S._Campbell.jpg"
+}
