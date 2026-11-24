@@ -1,0 +1,69 @@
+{
+ "title": "View of Santa, Fe New Mexico - NARA - 519746",
+ "place": "Santa Fe, New Mexico",
+ "year": "Undated",
+ "sy": 1900,
+ "era": "undated",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/View_of_Santa%2C_Fe_New_Mexico_-_NARA_-_519746.jpg/1920px-View_of_Santa%2C_Fe_New_Mexico_-_NARA_-_519746.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/View_of_Santa%2C_Fe_New_Mexico_-_NARA_-_519746.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_Santa,_Fe_New_Mexico_-_NARA_-_519746.jpg",
+ "license": "Public domain",
+ "w": 3000,
+ "h": 1912,
+ "id": "STA-3688",
+ "rect": "rect/3687.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 3.17,
+ "f": 0.78,
+ "depth": "Deep",
+ "va": 1.3145,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/View_of_Santa%2C_Fe_New_Mexico_-_NARA_-_519746.jpg/1920px-View_of_Santa%2C_Fe_New_Mexico_-_NARA_-_519746.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.3145,
+  "L": [
+   0.424479,
+   0.0,
+   0.033073,
+   0.0,
+   0.506536,
+   0.463644
+  ],
+  "R": [
+   0.426608,
+   0.001902,
+   0.507316,
+   0.000537,
+   0.507137,
+   0.455484
+  ],
+  "g": [
+   0.9599,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured deep (3.17% of frame width); hung in the VR Parlor at 78% size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": null,
+ "date_start": null,
+ "date_end": null,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 17247952,
+ "source_revision_id": null,
+ "source_sha1": "a9ca9b374e8352e232c30b1ac29eec24de9486b5"
+}

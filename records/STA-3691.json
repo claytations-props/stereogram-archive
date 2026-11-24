@@ -1,0 +1,69 @@
+{
+ "title": "The oldest house in Santa Fe, by Bennett & Brown",
+ "place": "Santa Fe, New Mexico",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/The_oldest_house_in_Santa_Fe%2C_by_Bennett_%26_Brown.jpg/1920px-The_oldest_house_in_Santa_Fe%2C_by_Bennett_%26_Brown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/b/be/The_oldest_house_in_Santa_Fe%2C_by_Bennett_%26_Brown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_oldest_house_in_Santa_Fe,_by_Bennett_%26_Brown.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1765,
+ "id": "STA-3691",
+ "rect": "rect/3690.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.14,
+ "rot": 0.01,
+ "range": 0.64,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.6308,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/The_oldest_house_in_Santa_Fe%2C_by_Bennett_%26_Brown.jpg/1920px-The_oldest_house_in_Santa_Fe%2C_by_Bennett_%26_Brown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.6308,
+  "L": [
+   0.402604,
+   0.0,
+   0.080469,
+   0.0,
+   0.382876,
+   0.26454
+  ],
+  "R": [
+   0.397098,
+   -0.0046,
+   0.510624,
+   0.012391,
+   0.383498,
+   0.257183
+  ],
+  "g": [
+   0.9951,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.01° of rotation. Depth measured gentle (0.64% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Bennett & Brown",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7470435,
+ "source_revision_id": null,
+ "source_sha1": "4732068f702f40c8a8086995b991f27ac950c49b"
+}
