@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3706</quantity>
+    <quantity>3709</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -23398,6 +23398,14 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3710.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3713">
+     <did>
+      <unitid>STA-3713</unitid>
+      <unittitle>Pan-American buildings, Temple of Music in background, Buffalo, N.Y., U.S.A</unittitle>
+      <unitdate normal="1901">1901</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3712.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -26565,6 +26573,14 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3634.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3714">
+     <did>
+      <unitid>STA-3714</unitid>
+      <unittitle>Beds of lettuce, young man with wheel hoe, girls with common hoes, near Buffalo, N.Y., U.S.A</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3713.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-oddities">
     <did>
@@ -29704,6 +29720,14 @@
       <unittitle>Cave on Grove Street</unittitle>
       <unitdate normal="1870">1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3693.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3712">
+     <did>
+      <unitid>STA-3712</unitid>
+      <unittitle>Buffalo Bill Mines, Blendville</unittitle>
+      <unitdate normal="1880/1890">c. 1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3711.jpg"/>
      </did>
     </c>
    </c>

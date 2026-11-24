@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3714.json",
+ "name": "Beds of lettuce, young man with wheel hoe, girls with common hoes, near Buffalo, N.Y., U.S.A",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3713.jpg",
+ "identifier": "STA-3714",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Buffalo, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Beds_of_lettuce,_young_man_with_wheel_hoe,_girls_with_common_hoes,_near_Buffalo,_N.Y.,_U.S.A,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}
