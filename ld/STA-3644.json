@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3644.json",
+ "name": "Old Court House, in which Daniel Webster sustained his first argument, May 1806, Plymouth, N.H",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3643.jpg",
+ "identifier": "STA-3644",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Plymouth, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Old_Court_House,_in_which_Daniel_Webster_sustained_his_first_argument,_May_1806,_Plymouth,_N.H,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

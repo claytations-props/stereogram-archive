@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3631</quantity>
+    <quantity>3652</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5916,6 +5916,14 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3624.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3643">
+     <did>
+      <unitid>STA-3643</unitid>
+      <unittitle>View from Livermore Falls, Plymouth, N.H, by Bierstadt Brothers</unittitle>
+      <unitdate normal="1855/1865">c. 1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3642.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -8343,6 +8351,38 @@
       <unittitle>Lost Louisiana mine, by J. F. Kennedy</unittitle>
       <unitdate normal="1880/1890">c. 1885</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3635.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3639">
+     <did>
+      <unitid>STA-3639</unitid>
+      <unittitle>Plymouth Rock and children, Plymouth, Mass, by Keystone View Company</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3638.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3646">
+     <did>
+      <unitid>STA-3646</unitid>
+      <unittitle>Canopy, Plymouth Rock, Plymouth, Mass, by Alden, A. E., 1837- 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3645.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3651">
+     <did>
+      <unitid>STA-3651</unitid>
+      <unittitle>Plymouth Rock, by F. A. Skinner</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3650.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3656">
+     <did>
+      <unitid>STA-3656</unitid>
+      <unittitle>Canopy over Plymouth Rock, by C. H. Rogers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3655.jpg"/>
      </did>
     </c>
    </c>
@@ -22886,6 +22926,110 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3633.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3637">
+     <did>
+      <unitid>STA-3637</unitid>
+      <unittitle>View from the Pemigewasset House, Plymouth,N.H</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3636.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3638">
+     <did>
+      <unitid>STA-3638</unitid>
+      <unittitle>Pemigewasset House, Plymouth, N.H</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3637.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3640">
+     <did>
+      <unitid>STA-3640</unitid>
+      <unittitle>View in Plymouth, N.H, by Kilburn Brothers</unittitle>
+      <unitdate normal="1867/1877">c. 1872</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3639.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3641">
+     <did>
+      <unitid>STA-3641</unitid>
+      <unittitle>View from Plymouth, N.H, by Kilburn Brothers</unittitle>
+      <unitdate normal="1867/1877">c. 1872</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3640.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3642">
+     <did>
+      <unitid>STA-3642</unitid>
+      <unittitle>Geberal view of Plymouth, by William S. Robbins &amp; Co.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3641.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3644">
+     <did>
+      <unitid>STA-3644</unitid>
+      <unittitle>Old Court House, in which Daniel Webster sustained his first argument, May 1806, Plymouth, N.H</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3643.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3645">
+     <did>
+      <unitid>STA-3645</unitid>
+      <unittitle>Plymouth Methodist Protestant Church, Adrian, Mich</unittitle>
+      <unitdate normal="1850/1860">c. 1855</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3644.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3648">
+     <did>
+      <unitid>STA-3648</unitid>
+      <unittitle>Burial hill, Plymouth, Mass, by Kilburn Brothers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3647.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3649">
+     <did>
+      <unitid>STA-3649</unitid>
+      <unittitle>Burial hill, Plymouth, Mass. (from Leyden Street), by Kilburn Brothers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3648.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3650">
+     <did>
+      <unitid>STA-3650</unitid>
+      <unittitle>Plymouth, N.H, by Pressey &amp; Hodge</unittitle>
+      <unitdate normal="1877">1877</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3649.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3652">
+     <did>
+      <unitid>STA-3652</unitid>
+      <unittitle>View of a church and other unidentified building in Middleboro</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3651.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3653">
+     <did>
+      <unitid>STA-3653</unitid>
+      <unittitle>Burying hill, Plymouth, Mass, by Kilburn Brothers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3652.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3655">
+     <did>
+      <unitid>STA-3655</unitid>
+      <unittitle>Pilgrim Hall, Plymouth, by Deloss Barnum</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3654.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -29104,6 +29248,30 @@
       <unittitle>Old Mud Hole, by J. W. Clary</unittitle>
       <unitdate normal="1872">1872</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3631.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3647">
+     <did>
+      <unitid>STA-3647</unitid>
+      <unittitle>Interior view, Pilgrim Hall, Plymouth, Mass, by William S. Robbins &amp; Co.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3646.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3654">
+     <did>
+      <unitid>STA-3654</unitid>
+      <unittitle>Elder Brewster's chair</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3653.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3657">
+     <did>
+      <unitid>STA-3657</unitid>
+      <unittitle>Landing of the Pilgrims, Plymouth, Mass, by A. S. Burbank</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3656.jpg"/>
      </did>
     </c>
    </c>

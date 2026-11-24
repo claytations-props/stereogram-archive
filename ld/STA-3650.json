@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3650.json",
+ "name": "Plymouth, N.H, by Pressey & Hodge",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3649.jpg",
+ "identifier": "STA-3650",
+ "creator": {
+  "@type": "Person",
+  "name": "Pressey & Hodge"
+ },
+ "dateCreated": "1877",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Plymouth, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Plymouth,_N.H,_by_Pressey_%26_Hodge.jpg"
+}

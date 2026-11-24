@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3638.json",
+ "name": "Pemigewasset House, Plymouth, N.H",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3637.jpg",
+ "identifier": "STA-3638",
+ "dateCreated": "1865",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Plymouth, New Hampshire"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Pemigewasset_House,_Plymouth,_N.H,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

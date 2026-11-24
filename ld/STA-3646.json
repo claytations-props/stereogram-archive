@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3646.json",
+ "name": "Canopy, Plymouth Rock, Plymouth, Mass, by Alden, A. E., 1837- 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3645.jpg",
+ "identifier": "STA-3646",
+ "creator": {
+  "@type": "Person",
+  "name": "Alden, A. E."
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Plymouth, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Canopy,_Plymouth_Rock,_Plymouth,_Mass,_by_Alden,_A._E.,_1837-_2.jpg"
+}
