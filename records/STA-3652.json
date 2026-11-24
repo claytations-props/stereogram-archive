@@ -1,0 +1,69 @@
+{
+ "title": "View of a church and other unidentified building in Middleboro",
+ "place": "Middleboro, Massachusetts",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/6/67/View_of_a_church_and_other_unidentified_building_in_Middleboro%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/67/View_of_a_church_and_other_unidentified_building_in_Middleboro%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_church_and_other_unidentified_building_in_Middleboro,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 395,
+ "id": "STA-3652",
+ "rect": "rect/3651.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.31,
+ "rot": 0.01,
+ "range": 0.45,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.5395,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/6/67/View_of_a_church_and_other_unidentified_building_in_Middleboro%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.5395,
+  "L": [
+   0.435526,
+   0.0,
+   0.054605,
+   0.0,
+   0.544304,
+   0.14557
+  ],
+  "R": [
+   0.414428,
+   -0.00532,
+   0.512158,
+   0.017573,
+   0.534604,
+   0.159862
+  ],
+  "g": [
+   1.0,
+   0.9897
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.31% vertical error and 0.01° of rotation. Depth measured gentle (0.45% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7440709,
+ "source_revision_id": null,
+ "source_sha1": "fdec06f28f86d04e691e179c3109b8f34e8f1e79"
+}
