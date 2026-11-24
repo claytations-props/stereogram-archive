@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3667.json",
+ "name": "Kansas City Levy, by Ragan & Shannon",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3666.jpg",
+ "identifier": "STA-3667",
+ "creator": {
+  "@type": "Person",
+  "name": "Ragan & Shannon"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Kansas City, Missouri"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Kansas_City_Levy,_by_Ragan_%26_Shannon.jpg"
+}

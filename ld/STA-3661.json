@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3661.json",
+ "name": "The flood of Kansas City, Missouri",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3660.jpg",
+ "identifier": "STA-3661",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Kansas City, Missouri"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_flood_of_Kansas_City,_Missouri,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

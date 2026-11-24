@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3672.json",
+ "name": "Corner 9th & Wyandotte Sts. Kansas City, Missouri, by Ragan & Shannon",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3671.jpg",
+ "identifier": "STA-3672",
+ "creator": {
+  "@type": "Person",
+  "name": "Ragan & Shannon"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Kansas City, Missouri"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Corner_9th_%26_Wyandotte_Sts._Kansas_City,_Missouri,_by_Ragan_%26_Shannon.jpg"
+}

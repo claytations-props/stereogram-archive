@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3676.json",
+ "name": "Junction Main and Del. Kansas City, by Ragan & Shannon 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3675.jpg",
+ "identifier": "STA-3676",
+ "creator": {
+  "@type": "Person",
+  "name": "Ragan & Shannon"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Kansas City, Missouri"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Junction_Main_and_Del._Kansas_City,_by_Ragan_%26_Shannon_2.jpg"
+}

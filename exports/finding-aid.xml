@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3652</quantity>
+    <quantity>3672</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -5924,6 +5924,38 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3642.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3661">
+     <did>
+      <unitid>STA-3661</unitid>
+      <unittitle>The flood of Kansas City, Missouri</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3660.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3662">
+     <did>
+      <unitid>STA-3662</unitid>
+      <unittitle>The flood of Kansas City, Missouri, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3661.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3667">
+     <did>
+      <unitid>STA-3667</unitid>
+      <unittitle>Kansas City Levy, by Ragan &amp; Shannon</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3666.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3669">
+     <did>
+      <unitid>STA-3669</unitid>
+      <unittitle>West Kansas from Wyandotte, Kansas City, Missouri, by Bower Bros.</unittitle>
+      <unitdate normal="1878">1878</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3668.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -8383,6 +8415,14 @@
       <unittitle>Canopy over Plymouth Rock, by C. H. Rogers</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3655.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3668">
+     <did>
+      <unitid>STA-3668</unitid>
+      <unittitle>Railroad to West Kansas City, by Ragan &amp; Shannon</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3667.jpg"/>
      </did>
     </c>
    </c>
@@ -23030,6 +23070,118 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3654.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3658">
+     <did>
+      <unitid>STA-3658</unitid>
+      <unittitle>Union Depot. Kansas City</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3657.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3659">
+     <did>
+      <unitid>STA-3659</unitid>
+      <unittitle>View from 6th and Main Sts. Kansas City, Missouri</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3658.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3660">
+     <did>
+      <unitid>STA-3660</unitid>
+      <unittitle>Union Depot, Kansas City</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3659.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3663">
+     <did>
+      <unitid>STA-3663</unitid>
+      <unittitle>Stock yards, Kansas City, Missouri, by Keystone View Company</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3662.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3664">
+     <did>
+      <unitid>STA-3664</unitid>
+      <unittitle>West side of Union St. from 8th St. north, Kansas City</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3663.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3665">
+     <did>
+      <unitid>STA-3665</unitid>
+      <unittitle>West side of Union St. from 7th St. north, Kansas City</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3664.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3666">
+     <did>
+      <unitid>STA-3666</unitid>
+      <unittitle>Kansas City Mining Co</unittitle>
+      <unitdate normal="1885/1895">c. 1890</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3665.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3670">
+     <did>
+      <unitid>STA-3670</unitid>
+      <unittitle>Del. St. from 3rd., Kansas City, by Ragan &amp; Shannon</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3669.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3671">
+     <did>
+      <unitid>STA-3671</unitid>
+      <unittitle>West Kansas from 8th and Bluff St</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3670.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3672">
+     <did>
+      <unitid>STA-3672</unitid>
+      <unittitle>Corner 9th &amp; Wyandotte Sts. Kansas City, Missouri, by Ragan &amp; Shannon</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3671.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3673">
+     <did>
+      <unitid>STA-3673</unitid>
+      <unittitle>Junction Main and Del. Kansas City, by Ragan &amp; Shannon</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3672.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3675">
+     <did>
+      <unitid>STA-3675</unitid>
+      <unittitle>Kansas State exhibit, Kansas &amp; Colorado building</unittitle>
+      <unitdate normal="1876">1876</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3674.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3676">
+     <did>
+      <unitid>STA-3676</unitid>
+      <unittitle>Junction Main and Del. Kansas City, by Ragan &amp; Shannon 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3675.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3677">
+     <did>
+      <unitid>STA-3677</unitid>
+      <unittitle>Buildings in Atchinson, Kansas</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3676.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -29272,6 +29424,14 @@
       <unittitle>Landing of the Pilgrims, Plymouth, Mass, by A. S. Burbank</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3656.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3674">
+     <did>
+      <unitid>STA-3674</unitid>
+      <unittitle>Kansas grasshoppers</unittitle>
+      <unitdate normal="1868">1868</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3673.jpg"/>
      </did>
     </c>
    </c>
