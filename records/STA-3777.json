@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10067706,
  "source_revision_id": null,
- "source_sha1": "756b27ea39466176853cf143204d8b04f602c61f"
+ "source_sha1": "756b27ea39466176853cf143204d8b04f602c61f",
+ "tags": [
+  "canal lock",
+  "workers"
+ ]
 }
