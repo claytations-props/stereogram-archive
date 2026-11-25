@@ -277911,5 +277911,350 @@
    "canal lock",
    "canal boat"
   ]
+ },
+ {
+  "title": "Advanced School, by William E. James",
+  "place": "Utica, New York",
+  "year": "1866",
+  "sy": 1866,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Advanced_School%2C_by_William_E._James.jpg/1920px-Advanced_School%2C_by_William_E._James.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Advanced_School%2C_by_William_E._James.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Advanced_School,_by_William_E._James.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1326,
+  "id": "STA-3782",
+  "rect": "rect/3781.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 0.33,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8841,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Advanced_School%2C_by_William_E._James.jpg/1920px-Advanced_School%2C_by_William_E._James.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8841,
+   "L": [
+    0.417187,
+    0.0,
+    0.066406,
+    0.0,
+    0.934985,
+    0.032508
+   ],
+   "R": [
+    0.411226,
+    0.000773,
+    0.51052,
+    -0.002592,
+    0.920418,
+    0.043641
+   ],
+   "g": [
+    0.9382,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured gentle (0.33% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "William E. James",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1866",
+  "date_start": 1866,
+  "date_end": 1866,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10250301,
+  "source_revision_id": null,
+  "source_sha1": "b11b87b2572366f6d98d5ad37f3ef947f9a978e2"
+ },
+ {
+  "title": "Bank",
+  "place": "Utica, New York",
+  "year": "1866",
+  "sy": 1866,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Bank%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bank%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bank%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bank,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1326,
+  "id": "STA-3783",
+  "rect": "rect/3782.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 0.96,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0354,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Bank%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bank%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0354,
+   "L": [
+    0.38125,
+    0.0,
+    0.082031,
+    0.0,
+    0.729618,
+    0.056244
+   ],
+   "R": [
+    0.378472,
+    -0.002898,
+    0.5165,
+    0.004444,
+    0.728194,
+    0.065
+   ],
+   "g": [
+    1.0,
+    0.9975
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (0.96% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1866",
+  "date_start": 1866,
+  "date_end": 1866,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10250118,
+  "source_revision_id": null,
+  "source_sha1": "637388fb70e62878346a24c01b345c5a44a6e4b9"
+ },
+ {
+  "title": "Christian Brothers School, by William E. James",
+  "place": "Utica, New York",
+  "year": "1866",
+  "sy": 1866,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Christian_Brothers_School%2C_by_William_E._James.jpg/1920px-Christian_Brothers_School%2C_by_William_E._James.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/90/Christian_Brothers_School%2C_by_William_E._James.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Christian_Brothers_School,_by_William_E._James.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1326,
+  "id": "STA-3784",
+  "rect": "rect/3783.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 0.86,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9409,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Christian_Brothers_School%2C_by_William_E._James.jpg/1920px-Christian_Brothers_School%2C_by_William_E._James.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9409,
+   "L": [
+    0.397917,
+    0.0,
+    0.08151,
+    0.0,
+    0.837977,
+    0.081011
+   ],
+   "R": [
+    0.391227,
+    0.001065,
+    0.523247,
+    -0.00013,
+    0.824866,
+    0.07709
+   ],
+   "g": [
+    0.9302,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured gentle (0.86% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "William E. James",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1866",
+  "date_start": 1866,
+  "date_end": 1866,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10250319,
+  "source_revision_id": null,
+  "source_sha1": "0b681e1e9a56d54ccaf086f1bab551ba5bf77f3b"
+ },
+ {
+  "title": "Fountain",
+  "place": "Utica, New York",
+  "year": "1866",
+  "sy": 1866,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Fountain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Fountain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Fountain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Fountain,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1326,
+  "id": "STA-3785",
+  "rect": "rect/3784.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.02,
+  "range": 1.83,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.1268,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Fountain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Fountain%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1268,
+   "L": [
+    0.411979,
+    0.0,
+    0.077344,
+    0.0,
+    0.724458,
+    0.032508
+   ],
+   "R": [
+    0.411182,
+    -0.00055,
+    0.506969,
+    0.00188,
+    0.725103,
+    0.026202
+   ],
+   "g": [
+    0.9753,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.02° of rotation. Depth measured moderate (1.83% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1866",
+  "date_start": 1866,
+  "date_end": 1866,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10250126,
+  "source_revision_id": null,
+  "source_sha1": "19b7dd0ae6905fa74384ac7e5e7ba034ad0fe49e"
+ },
+ {
+  "title": "Genesee St",
+  "place": "Utica, New York",
+  "year": "1866",
+  "sy": 1866,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Genesee_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Genesee_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Genesee_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Genesee_St,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2625,
+  "h": 1320,
+  "id": "STA-3786",
+  "rect": "rect/3785.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 0.89,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0946,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Genesee_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Genesee_St%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0946,
+   "L": [
+    0.397917,
+    0.0,
+    0.084115,
+    0.0,
+    0.723316,
+    0.241969
+   ],
+   "R": [
+    0.396334,
+    -0.011611,
+    0.522054,
+    0.017916,
+    0.724909,
+    0.224866
+   ],
+   "g": [
+    0.9611,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (0.89% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1866",
+  "date_start": 1866,
+  "date_end": 1866,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10250122,
+  "source_revision_id": null,
+  "source_sha1": "6a89b8cca5137d7fa54295450ea693c4b6865429"
  }
 ]
