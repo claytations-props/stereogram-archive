@@ -994,7 +994,11 @@ function runParlorSearch(q){
   if(!q){clearParlorSearch();return;}
   const idx=DATA.map((d,i)=>i).filter(i=>parlorHay(DATA[i]).includes(q));
   if(!idx.length){
-    statusEl.textContent='No cards match "'+q+'". Try another word, or browse a set.';
+    /* Round 19: the old message said "No cards match" while the wall
+       kept showing the set that was already up — the message and the
+       wall disagreed (live walk, round 19). It names the set still
+       showing now, so the visitor knows nothing changed. */
+    statusEl.textContent='No cards match "'+q+'".'+(curSet?' Still showing '+curSet.label+'.':'')+' Try another word, or browse a set.';
     return;
   }
   searchSet={key:'search:'+q,label:'Search: "'+q+'"',indices:idx};
