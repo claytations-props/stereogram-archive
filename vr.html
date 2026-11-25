@@ -1245,12 +1245,19 @@ const next=()=>navShow(curPos+1),prev=()=>navShow(curPos-1);
    browsing, silently moving the selection off the visible wall. */
 document.getElementById('nextBtn').onclick=()=>{if(uiState==='browse')wallGo(1);else next();};
 document.getElementById('prevBtn').onclick=()=>{if(uiState==='browse')wallGo(-1);else prev();};
-document.getElementById('randBtn').onclick=()=>{
+/* Round 19: Random while browsing only paged the wall to the random
+   card's page and changed the caption to a card the visitor could not
+   see — the wall stayed in browsing mode and no card ever opened
+   (live walk, round 19). Random opens the random card now, in both
+   states, the way the gallery's Surprise me opens the viewer; going
+   back to the shelves lands the wall on that card's page. */
+function randomCard(){
   if(!curSet)return;
   const p=Math.floor(Math.random()*curSet.indices.length);
-  if(uiState==='browse'){showPos(p);wallPage=Math.floor(p/PAGE);renderWall();}
-  else navShow(p);
-};
+  if(uiState==='browse')setState('reading');
+  navShow(p);
+}
+document.getElementById('randBtn').onclick=randomCard;
 /* Flat jump buttons, the same double arrows the in-room row has:
    ten cards at a time while reading, first/last wall page while
    browsing. The flat row was the only control set without them. */
