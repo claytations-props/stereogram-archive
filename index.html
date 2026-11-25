@@ -310,7 +310,7 @@ canvas#ana.show{display:block}
 
 <div class="toolbar">
   <div class="trow">
-    <input type="search" id="q" aria-label="Search the archive" placeholder="Search falls, castles, war, the Moon...">
+    <input type="search" id="q" aria-label="Search the archive" placeholder="Search falls, castles, war, the Moon..." title="Press / to focus the search box">
     <span id="idxNote" role="status" style="font-size:12px;color:var(--dim)"></span>
     <select id="era" aria-label="Filter by era"><option value="all">All eras</option><option value="early">1840s–1860s</option><option value="mid">1870s–1890s</option><option value="late">1900s–1920s</option><option value="undated">Undated</option></select>
     <select id="sort" aria-label="Sort items"><option value="recent">Newest to the collection</option><option value="featured">Sort: Accession order</option><option value="old">Oldest first</option><option value="new">Newest first</option><option value="az">Title A–Z</option><option value="shuffle">Shuffle</option></select>
@@ -737,6 +737,18 @@ function render(){
 function toggleFav(t){favs.has(t)?favs.delete(t):favs.add(t);localStorage.setItem("stereoFavs",JSON.stringify([...favs]));updateChipCounts();syncFavBtn()}
 let qTimer=null;
 $("#q").oninput=e=>{const v=e.target.value.trim().toLowerCase();clearTimeout(qTimer);qTimer=setTimeout(()=>{state.q=v;revealNext=true;render()},120)};
+/* Round 19: the search box is the gallery's front door, but the only
+   way to reach it was clicking or tabbing to it — nothing on screen
+   named a key for it, and no key did it (live walk, round 19).
+   Pressing "/" anywhere outside a text field focuses the search box,
+   the way archives and mail apps do it; inside the viewer, or inside
+   any input, "/" types as itself. */
+document.addEventListener("keydown",e=>{
+ if(e.key!=="/")return;
+ if(document.getElementById("viewer").classList.contains("open"))return;
+ if(e.target.closest&&e.target.closest("input,select,textarea"))return;
+ e.preventDefault();document.getElementById("q").focus();
+});
 $("#era").onchange=e=>{state.era=e.target.value;revealNext=true;render()};
 /* Round 5: one reset shared by the toolbar button and the empty-state button. Sort is still not reset: sort is not a filter (round 4 holds). */
 /* Round 15: the empty-state clear in a filtered Reading List clears
