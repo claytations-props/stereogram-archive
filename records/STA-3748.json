@@ -1,0 +1,69 @@
+{
+ "title": "Niagara Falls. (View of Terrapin Tower and falls.)",
+ "place": "Niagara Falls, New York",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Niagara_Falls._%28View_of_Terrapin_Tower_and_falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Niagara_Falls._%28View_of_Terrapin_Tower_and_falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Niagara_Falls._%28View_of_Terrapin_Tower_and_falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Niagara_Falls._(View_of_Terrapin_Tower_and_falls.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2646,
+ "h": 1336,
+ "id": "STA-3748",
+ "rect": "rect/3747.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.1,
+ "rot": 0.02,
+ "range": 2.03,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.2718,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Niagara_Falls._%28View_of_Terrapin_Tower_and_falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Niagara_Falls._%28View_of_Terrapin_Tower_and_falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.2718,
+  "L": [
+   0.326562,
+   0.0,
+   0.136198,
+   0.0,
+   0.508772,
+   0.365841
+  ],
+  "R": [
+   0.326723,
+   -0.005344,
+   0.518622,
+   0.010212,
+   0.508575,
+   0.362769
+  ],
+  "g": [
+   0.989,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured moderate (2.03% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10052642,
+ "source_revision_id": null,
+ "source_sha1": "d9f23013dd01644c108737afebe816612cfa1b2b"
+}

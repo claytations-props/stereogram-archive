@@ -1,0 +1,71 @@
+{
+ "title": "General view, Niagara Falls. (Man standing on balcony above falls.)",
+ "place": "Niagara Falls, New York",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "water",
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/General_view%2C_Niagara_Falls._%28Man_standing_on_balcony_above_falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-General_view%2C_Niagara_Falls._%28Man_standing_on_balcony_above_falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/91/General_view%2C_Niagara_Falls._%28Man_standing_on_balcony_above_falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:General_view,_Niagara_Falls._(Man_standing_on_balcony_above_falls.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2640,
+ "h": 1351,
+ "id": "STA-3760",
+ "rect": "rect/3759.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.34,
+ "rot": 0.12,
+ "range": 3.84,
+ "f": 0.51,
+ "depth": "Deep",
+ "va": 1.7037,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/General_view%2C_Niagara_Falls._%28Man_standing_on_balcony_above_falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-General_view%2C_Niagara_Falls._%28Man_standing_on_balcony_above_falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.7037,
+  "L": [
+   0.335417,
+   0.0,
+   0.158594,
+   0.0,
+   0.384537,
+   0.504069
+  ],
+  "R": [
+   0.339139,
+   -0.001516,
+   0.547391,
+   0.013098,
+   0.380975,
+   0.502615
+  ],
+  "g": [
+   0.9018,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.34% vertical error and 0.12° of rotation. Depth measured deep (3.84% of frame width); hung in the VR Parlor at 51% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10048333,
+ "source_revision_id": null,
+ "source_sha1": "2034bcb412661882c16a8568c0169a22a2daacf8"
+}

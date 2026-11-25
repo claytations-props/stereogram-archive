@@ -1,0 +1,69 @@
+{
+ "title": "Gems of Niagara. (Winter view of Niagara Falls.)",
+ "place": "Niagara Falls, New York",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Gems_of_Niagara._%28Winter_view_of_Niagara_Falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Gems_of_Niagara._%28Winter_view_of_Niagara_Falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Gems_of_Niagara._%28Winter_view_of_Niagara_Falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Gems_of_Niagara._(Winter_view_of_Niagara_Falls.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2671,
+ "h": 1647,
+ "id": "STA-3744",
+ "rect": "rect/3743.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.15,
+ "rot": 0.01,
+ "range": 0.46,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 2.1633,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Gems_of_Niagara._%28Winter_view_of_Niagara_Falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Gems_of_Niagara._%28Winter_view_of_Niagara_Falls.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 2.1633,
+  "L": [
+   0.338021,
+   0.0,
+   0.128906,
+   0.0,
+   0.253378,
+   0.664274
+  ],
+  "R": [
+   0.346267,
+   -0.009597,
+   0.533251,
+   -0.001799,
+   0.256261,
+   0.67952
+  ],
+  "g": [
+   1.0,
+   0.9847
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.01° of rotation. Depth measured gentle (0.46% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10053758,
+ "source_revision_id": null,
+ "source_sha1": "3cc0eb4d8ffc9b97964e2eb47c0e2b9756a14e85"
+}

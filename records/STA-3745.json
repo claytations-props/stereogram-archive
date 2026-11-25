@@ -1,0 +1,69 @@
+{
+ "title": "View at Niagara. (A view of Niagara Falls from above.)",
+ "place": "Niagara Falls, New York",
+ "year": "1859",
+ "sy": 1859,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/View_at_Niagara._%28A_view_of_Niagara_Falls_from_above.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_at_Niagara._%28A_view_of_Niagara_Falls_from_above.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/e7/View_at_Niagara._%28A_view_of_Niagara_Falls_from_above.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_at_Niagara._(A_view_of_Niagara_Falls_from_above.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2604,
+ "h": 1300,
+ "id": "STA-3745",
+ "rect": "rect/3744.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.33,
+ "rot": 0.04,
+ "range": 1.29,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.5097,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/View_at_Niagara._%28A_view_of_Niagara_Falls_from_above.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_at_Niagara._%28A_view_of_Niagara_Falls_from_above.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.5097,
+  "L": [
+   0.282292,
+   0.0,
+   0.171094,
+   0.0,
+   0.374348,
+   0.297706
+  ],
+  "R": [
+   0.283523,
+   -0.00729,
+   0.597214,
+   0.008578,
+   0.375197,
+   0.299557
+  ],
+  "g": [
+   0.9589,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.33% vertical error and 0.04° of rotation. Depth measured gentle (1.29% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1859",
+ "date_start": 1859,
+ "date_end": 1859,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10063174,
+ "source_revision_id": null,
+ "source_sha1": "0083537796d60d25b0be66ea11eaba6891cc4fe5"
+}

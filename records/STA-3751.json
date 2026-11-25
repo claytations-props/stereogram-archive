@@ -1,0 +1,69 @@
+{
+ "title": "Niagara Falls, view of town",
+ "place": "Niagara Falls, New York",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Niagara_Falls%2C_view_of_town%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Niagara_Falls%2C_view_of_town%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Niagara_Falls%2C_view_of_town%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Niagara_Falls,_view_of_town,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2598,
+ "h": 1357,
+ "id": "STA-3751",
+ "rect": "rect/3750.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.2,
+ "rot": 0.03,
+ "range": 1.75,
+ "f": 0.84,
+ "depth": "Moderate",
+ "va": 2.4968,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Niagara_Falls%2C_view_of_town%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Niagara_Falls%2C_view_of_town%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 2.4968,
+  "L": [
+   0.400521,
+   0.0,
+   0.088281,
+   0.0,
+   0.307079,
+   0.412263
+  ],
+  "R": [
+   0.397598,
+   -0.002328,
+   0.526439,
+   0.003032,
+   0.308212,
+   0.411737
+  ],
+  "g": [
+   1.0,
+   0.941
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.2% vertical error and 0.03° of rotation. Depth measured moderate (1.75% of frame width); hung in the VR Parlor at 84% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10046599,
+ "source_revision_id": null,
+ "source_sha1": "05dd2cb16341f668913e0f827c1284a9bbfbf756"
+}

@@ -1,0 +1,71 @@
+{
+ "title": "View of Niagara Falls and Cataract House",
+ "place": "Niagara Falls, New York",
+ "year": "c. 1875",
+ "sy": 1875,
+ "era": "mid",
+ "cats": [
+  "cities",
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/View_of_Niagara_Falls_and_Cataract_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_Niagara_Falls_and_Cataract_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/3b/View_of_Niagara_Falls_and_Cataract_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_Niagara_Falls_and_Cataract_House,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2604,
+ "h": 1300,
+ "id": "STA-3759",
+ "rect": "rect/3758.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.26,
+ "rot": 0.01,
+ "range": 2.16,
+ "f": 0.53,
+ "depth": "Moderate",
+ "va": 3.7299,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/View_of_Niagara_Falls_and_Cataract_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_Niagara_Falls_and_Cataract_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 3.7299,
+  "L": [
+   0.409896,
+   0.0,
+   0.077865,
+   0.0,
+   0.220021,
+   0.236184
+  ],
+  "R": [
+   0.409966,
+   -0.001558,
+   0.509016,
+   0.009407,
+   0.220098,
+   0.237347
+  ],
+  "g": [
+   0.9961,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.26% vertical error and 0.01° of rotation. Depth measured moderate (2.16% of frame width); hung in the VR Parlor at 53% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities",
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1875~",
+ "date_start": 1870,
+ "date_end": 1880,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10059462,
+ "source_revision_id": null,
+ "source_sha1": "53de04b5c69c07ea8eec6f300c5f9870312fd58c"
+}

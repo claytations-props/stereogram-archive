@@ -1,0 +1,69 @@
+{
+ "title": "Stereoscopic views of Niagara Falls",
+ "place": "Niagara Falls, New York",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Stereoscopic_views_of_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Stereoscopic_views_of_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Stereoscopic_views_of_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Stereoscopic_views_of_Niagara_Falls,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2595,
+ "h": 1309,
+ "id": "STA-3743",
+ "rect": "rect/3742.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.14,
+ "rot": 0.05,
+ "range": 0.69,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.1196,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Stereoscopic_views_of_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Stereoscopic_views_of_Niagara_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.1196,
+  "L": [
+   0.394792,
+   0.0,
+   0.096615,
+   0.0,
+   0.698658,
+   0.237874
+  ],
+  "R": [
+   0.398531,
+   -0.003537,
+   0.534538,
+   0.000293,
+   0.704395,
+   0.256165
+  ],
+  "g": [
+   0.9616,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.05° of rotation. Depth measured gentle (0.69% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10046767,
+ "source_revision_id": null,
+ "source_sha1": "15195b406f272a55cf62eda99c4f64a9f1d3c0be"
+}
