@@ -279951,7 +279951,11 @@
   "license_url": null,
   "source_page_id": 10250159,
   "source_revision_id": null,
-  "source_sha1": "ebc6e550639b132c8ff927cb17f4604ec054172a"
+  "source_sha1": "ebc6e550639b132c8ff927cb17f4604ec054172a",
+  "tags": [
+   "storefront",
+   "portrait group"
+  ]
  },
  {
   "title": "View of a garden, by J.L. & H.A. Jordan",
@@ -280020,7 +280024,11 @@
   "license_url": null,
   "source_page_id": 10250101,
   "source_revision_id": null,
-  "source_sha1": "90eb12da53c675c00e7a69ec92cf08f8b984a4dd"
+  "source_sha1": "90eb12da53c675c00e7a69ec92cf08f8b984a4dd",
+  "tags": [
+   "garden",
+   "trees"
+  ]
  },
  {
   "title": "View of a mansion, by Mundy & Williams",
@@ -280089,7 +280097,11 @@
   "license_url": null,
   "source_page_id": 10250145,
   "source_revision_id": null,
-  "source_sha1": "711e6d0c47ce903a536819bc09480667685909c6"
+  "source_sha1": "711e6d0c47ce903a536819bc09480667685909c6",
+  "tags": [
+   "mansion",
+   "trees"
+  ]
  },
  {
   "title": "View of a street, by C. H. Scofield",
@@ -280158,7 +280170,11 @@
   "license_url": null,
   "source_page_id": 10250164,
   "source_revision_id": null,
-  "source_sha1": "540306824e8321efbe056cf9375466dc10fa74bb"
+  "source_sha1": "540306824e8321efbe056cf9375466dc10fa74bb",
+  "tags": [
+   "main street",
+   "trees"
+  ]
  },
  {
   "title": "View of a two-store brick building, by William E. James",
@@ -280298,6 +280314,10 @@
   "license_url": null,
   "source_page_id": 10250212,
   "source_revision_id": null,
-  "source_sha1": "a88a62e3e45cb0b2fb37de11ce8ddd56239a82f6"
+  "source_sha1": "a88a62e3e45cb0b2fb37de11ce8ddd56239a82f6",
+  "tags": [
+   "bridge",
+   "creek"
+  ]
  }
 ]
