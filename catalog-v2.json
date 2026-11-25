@@ -276672,5 +276672,1180 @@
    "rapids",
    "river"
   ]
+ },
+ {
+  "title": "Locks at Lockport",
+  "place": "Lockport, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Locks_at_Lockport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Locks_at_Lockport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/29/Locks_at_Lockport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Locks_at_Lockport,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2609,
+  "h": 1324,
+  "id": "STA-3765",
+  "rect": "rect/3764.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.04,
+  "range": 1.23,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0863,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Locks_at_Lockport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Locks_at_Lockport%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0863,
+   "L": [
+    0.393229,
+    0.0,
+    0.097656,
+    0.0,
+    0.713552,
+    0.244867
+   ],
+   "R": [
+    0.394937,
+    -0.005998,
+    0.515511,
+    0.000338,
+    0.716864,
+    0.244343
+   ],
+   "g": [
+    0.9442,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.04° of rotation. Depth measured gentle (1.23% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10067733,
+  "source_revision_id": null,
+  "source_sha1": "31a8ad8f28f39e9497991d8c86104cd3b6d84f75"
+ },
+ {
+  "title": "The locks at Lockport, N.Y",
+  "place": "Lockport, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/The_locks_at_Lockport%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_locks_at_Lockport%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/06/The_locks_at_Lockport%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:The_locks_at_Lockport,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2657,
+  "h": 1348,
+  "id": "STA-3766",
+  "rect": "rect/3765.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.02,
+  "range": 0.35,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.4474,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/The_locks_at_Lockport%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_locks_at_Lockport%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.4474,
+   "L": [
+    0.401042,
+    0.0,
+    0.090365,
+    0.0,
+    0.546201,
+    0.415298
+   ],
+   "R": [
+    0.404026,
+    -0.000801,
+    0.532919,
+    0.002003,
+    0.549503,
+    0.417364
+   ],
+   "g": [
+    0.9173,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.02° of rotation. Depth measured gentle (0.35% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10067596,
+  "source_revision_id": null,
+  "source_sha1": "f61cab604d1a90772ddefb5f6ca741eb2e8bc909"
+ },
+ {
+  "title": "Canal locks, Lockport, N.Y",
+  "place": "Lockport, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Canal_locks%2C_Lockport%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Canal_locks%2C_Lockport%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/49/Canal_locks%2C_Lockport%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Canal_locks,_Lockport,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2681,
+  "h": 1390,
+  "id": "STA-3767",
+  "rect": "rect/3766.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.06,
+  "rot": 0.0,
+  "range": 0.28,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9236,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Canal_locks%2C_Lockport%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Canal_locks%2C_Lockport%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9236,
+   "L": [
+    0.409375,
+    0.0,
+    0.061198,
+    0.0,
+    0.855276,
+    0.098995
+   ],
+   "R": [
+    0.404616,
+    0.001089,
+    0.514267,
+    -0.002413,
+    0.844332,
+    0.103908
+   ],
+   "g": [
+    0.9067,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.0° of rotation. Depth measured gentle (0.28% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10067814,
+  "source_revision_id": null,
+  "source_sha1": "c126dbdb5d70eb8eab07fa564a9be503d0af15e6"
+ },
+ {
+  "title": "View of locks, Lockport, N.Y, by Plimpton",
+  "place": "Lockport, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/View_of_locks%2C_Lockport%2C_N.Y%2C_by_Plimpton.jpg/1920px-View_of_locks%2C_Lockport%2C_N.Y%2C_by_Plimpton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/27/View_of_locks%2C_Lockport%2C_N.Y%2C_by_Plimpton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_locks,_Lockport,_N.Y,_by_Plimpton.jpg",
+  "license": "Public domain",
+  "w": 2645,
+  "h": 1330,
+  "id": "STA-3768",
+  "rect": "rect/3767.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 1.97,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.0994,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/View_of_locks%2C_Lockport%2C_N.Y%2C_by_Plimpton.jpg/1920px-View_of_locks%2C_Lockport%2C_N.Y%2C_by_Plimpton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0994,
+   "L": [
+    0.408854,
+    0.0,
+    0.073698,
+    0.0,
+    0.739896,
+    0.085492
+   ],
+   "R": [
+    0.41019,
+    -0.00806,
+    0.51386,
+    0.010409,
+    0.74135,
+    0.078288
+   ],
+   "g": [
+    0.9887,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured moderate (1.97% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Plimpton",
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10067787,
+  "source_revision_id": null,
+  "source_sha1": "fe88a5ef7b5c4790a56dde5524002ef79632a57b"
+ },
+ {
+  "title": "Street view, Lockport, N.Y, by Plimpton 2",
+  "place": "Lockport, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Street_view%2C_Lockport%2C_N.Y%2C_by_Plimpton_2.png/1920px-Street_view%2C_Lockport%2C_N.Y%2C_by_Plimpton_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Street_view%2C_Lockport%2C_N.Y%2C_by_Plimpton_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Street_view,_Lockport,_N.Y,_by_Plimpton_2.png",
+  "license": "Public domain",
+  "w": 2639,
+  "h": 1300,
+  "id": "STA-3769",
+  "rect": "rect/3768.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.15,
+  "rot": 0.02,
+  "range": 2.01,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.0222,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Street_view%2C_Lockport%2C_N.Y%2C_by_Plimpton_2.png/1920px-Street_view%2C_Lockport%2C_N.Y%2C_by_Plimpton_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0222,
+   "L": [
+    0.359896,
+    0.0,
+    0.088281,
+    0.0,
+    0.714588,
+    0.251057
+   ],
+   "R": [
+    0.363192,
+    -0.016668,
+    0.531604,
+    0.002422,
+    0.729507,
+    0.233002
+   ],
+   "g": [
+    0.8794,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.02° of rotation. Depth measured moderate (2.01% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Plimpton",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10067754,
+  "source_revision_id": null,
+  "source_sha1": "be61249ea27114094f677a16e516badbe4c70cc7"
+ },
+ {
+  "title": "Street view, Lockport, N.Y, by Plimpton",
+  "place": "Lockport, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Street_view%2C_Lockport%2C_N.Y%2C_by_Plimpton.jpg/1920px-Street_view%2C_Lockport%2C_N.Y%2C_by_Plimpton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/14/Street_view%2C_Lockport%2C_N.Y%2C_by_Plimpton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Street_view,_Lockport,_N.Y,_by_Plimpton.jpg",
+  "license": "Public domain",
+  "w": 2639,
+  "h": 1312,
+  "id": "STA-3770",
+  "rect": "rect/3769.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.03,
+  "range": 1.87,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.888,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Street_view%2C_Lockport%2C_N.Y%2C_by_Plimpton.jpg/1920px-Street_view%2C_Lockport%2C_N.Y%2C_by_Plimpton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.888,
+   "L": [
+    0.396354,
+    0.0,
+    0.085677,
+    0.0,
+    0.897382,
+    0.060209
+   ],
+   "R": [
+    0.399132,
+    -0.007987,
+    0.518997,
+    0.01236,
+    0.898697,
+    0.04148
+   ],
+   "g": [
+    0.9682,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.03° of rotation. Depth measured moderate (1.87% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Plimpton",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10067737,
+  "source_revision_id": null,
+  "source_sha1": "db8e90348e5a2a3d1f89f5ccf2f74e0c8dec5d7c"
+ },
+ {
+  "title": "View of a church, Lockport, N.Y, by Plimpton",
+  "place": "Lockport, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/View_of_a_church%2C_Lockport%2C_N.Y%2C_by_Plimpton.jpg/1920px-View_of_a_church%2C_Lockport%2C_N.Y%2C_by_Plimpton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b0/View_of_a_church%2C_Lockport%2C_N.Y%2C_by_Plimpton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_church,_Lockport,_N.Y,_by_Plimpton.jpg",
+  "license": "Public domain",
+  "w": 2645,
+  "h": 1312,
+  "id": "STA-3771",
+  "rect": "rect/3770.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.15,
+  "rot": 0.04,
+  "range": 1.16,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9261,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/View_of_a_church%2C_Lockport%2C_N.Y%2C_by_Plimpton.jpg/1920px-View_of_a_church%2C_Lockport%2C_N.Y%2C_by_Plimpton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9261,
+   "L": [
+    0.411458,
+    0.0,
+    0.07474,
+    0.0,
+    0.896008,
+    0.048845
+   ],
+   "R": [
+    0.412504,
+    -3.1e-05,
+    0.513703,
+    0.008082,
+    0.907188,
+    0.038799
+   ],
+   "g": [
+    0.938,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.04° of rotation. Depth measured gentle (1.16% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Plimpton",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10067748,
+  "source_revision_id": null,
+  "source_sha1": "1b169f06fc6de3d945e2fa85f8f44a0e214a66f0"
+ },
+ {
+  "title": "View of a Church, Lockport, N.Y",
+  "place": "Lockport, New York",
+  "year": "1858",
+  "sy": 1858,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/View_of_a_Church%2C_Lockport%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_Church%2C_Lockport%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f5/View_of_a_Church%2C_Lockport%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_Church,_Lockport,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2622,
+  "h": 1702,
+  "id": "STA-3772",
+  "rect": "rect/3771.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.04,
+  "range": 1.44,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7863,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/View_of_a_Church%2C_Lockport%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_a_Church%2C_Lockport%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7863,
+   "L": [
+    0.394792,
+    0.0,
+    0.089844,
+    0.0,
+    0.773676,
+    0.203451
+   ],
+   "R": [
+    0.399359,
+    0.006681,
+    0.516498,
+    -0.005599,
+    0.776122,
+    0.203954
+   ],
+   "g": [
+    0.9656,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.04° of rotation. Depth measured gentle (1.44% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1858",
+  "date_start": 1858,
+  "date_end": 1858,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10071212,
+  "source_revision_id": null,
+  "source_sha1": "f0c0955da6ab07b4c407aed8de9546783ccce40b"
+ },
+ {
+  "title": "Street view, Lockport, N.Y, by F. B. Clench",
+  "place": "Lockport, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Street_view%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.jpg/1920px-Street_view%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Street_view%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Street_view,_Lockport,_N.Y,_by_F._B._Clench.jpg",
+  "license": "Public domain",
+  "w": 2633,
+  "h": 1348,
+  "id": "STA-3773",
+  "rect": "rect/3772.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.02,
+  "range": 0.66,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0065,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Street_view%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.jpg/1920px-Street_view%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0065,
+   "L": [
+    0.404167,
+    0.0,
+    0.076302,
+    0.0,
+    0.784334,
+    0.047304
+   ],
+   "R": [
+    0.404883,
+    0.003209,
+    0.508495,
+    -0.011164,
+    0.788845,
+    0.049448
+   ],
+   "g": [
+    1.0,
+    0.9874
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.02° of rotation. Depth measured gentle (0.66% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "F. B. Clench",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10067650,
+  "source_revision_id": null,
+  "source_sha1": "43097649099691c5b40a828e126ff4ff7fb03304"
+ },
+ {
+  "title": "View of the locks, Lockport, N.Y, by F. B. Clench",
+  "place": "Lockport, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/View_of_the_locks%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.png/1920px-View_of_the_locks%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/2e/View_of_the_locks%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_the_locks,_Lockport,_N.Y,_by_F._B._Clench.png",
+  "license": "Public domain",
+  "w": 2627,
+  "h": 1348,
+  "id": "STA-3774",
+  "rect": "rect/3773.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.14,
+  "rot": 0.01,
+  "range": 0.62,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.4796,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/View_of_the_locks%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.png/1920px-View_of_the_locks%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.4796,
+   "L": [
+    0.396875,
+    0.0,
+    0.095573,
+    0.0,
+    0.522843,
+    0.440102
+   ],
+   "R": [
+    0.398933,
+    -0.002735,
+    0.508719,
+    0.006018,
+    0.524542,
+    0.439248
+   ],
+   "g": [
+    0.9632,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.01° of rotation. Depth measured gentle (0.62% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "F. B. Clench",
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10067693,
+  "source_revision_id": null,
+  "source_sha1": "a57e596ebe6a7c941922676844d85f684d0f8321"
+ },
+ {
+  "title": "View of a canal boat, Lockport, N.Y, by Plimpton & Ruggles",
+  "place": "Lockport, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/View_of_a_canal_boat%2C_Lockport%2C_N.Y%2C_by_Plimpton_%26_Ruggles.jpg/1920px-View_of_a_canal_boat%2C_Lockport%2C_N.Y%2C_by_Plimpton_%26_Ruggles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/dd/View_of_a_canal_boat%2C_Lockport%2C_N.Y%2C_by_Plimpton_%26_Ruggles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_canal_boat,_Lockport,_N.Y,_by_Plimpton_%26_Ruggles.jpg",
+  "license": "Public domain",
+  "w": 2591,
+  "h": 1288,
+  "id": "STA-3775",
+  "rect": "rect/3774.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.01,
+  "range": 0.81,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9214,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/View_of_a_canal_boat%2C_Lockport%2C_N.Y%2C_by_Plimpton_%26_Ruggles.jpg/1920px-View_of_a_canal_boat%2C_Lockport%2C_N.Y%2C_by_Plimpton_%26_Ruggles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9214,
+   "L": [
+    0.415104,
+    0.0,
+    0.076302,
+    0.0,
+    0.906709,
+    0.043501
+   ],
+   "R": [
+    0.413971,
+    -0.00396,
+    0.511506,
+    0.001637,
+    0.910914,
+    0.042307
+   ],
+   "g": [
+    1.0,
+    0.9858
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured gentle (0.81% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Plimpton & Ruggles",
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10067792,
+  "source_revision_id": null,
+  "source_sha1": "a8685823fe34b43949732688291a9696626c04f5"
+ },
+ {
+  "title": "Merchant's Gargling Oil Co's. laboratory and office, Lockport, N.Y. (Burned Jan. 5 - (18)81)",
+  "place": "Lockport, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Merchant%27s_Gargling_Oil_Co%27s._laboratory_and_office%2C_Lockport%2C_N.Y._%28Burned_Jan._5_-_%2818%2981%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Merchant%27s_Gargling_Oil_Co%27s._laboratory_and_office%2C_Lockport%2C_N.Y._%28Burned_Jan._5_-_%2818%2981%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Merchant%27s_Gargling_Oil_Co%27s._laboratory_and_office%2C_Lockport%2C_N.Y._%28Burned_Jan._5_-_%2818%2981%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Merchant%27s_Gargling_Oil_Co%27s._laboratory_and_office,_Lockport,_N.Y._(Burned_Jan._5_-_(18)81),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2651,
+  "h": 1348,
+  "id": "STA-3776",
+  "rect": "rect/3775.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.02,
+  "range": 0.41,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8789,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Merchant%27s_Gargling_Oil_Co%27s._laboratory_and_office%2C_Lockport%2C_N.Y._%28Burned_Jan._5_-_%2818%2981%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Merchant%27s_Gargling_Oil_Co%27s._laboratory_and_office%2C_Lockport%2C_N.Y._%28Burned_Jan._5_-_%2818%2981%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8789,
+   "L": [
+    0.408333,
+    0.0,
+    0.083073,
+    0.0,
+    0.913934,
+    0.039447
+   ],
+   "R": [
+    0.410545,
+    -0.000799,
+    0.506979,
+    -0.0008,
+    0.915804,
+    0.04659
+   ],
+   "g": [
+    0.8978,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.02° of rotation. Depth measured gentle (0.41% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10067628,
+  "source_revision_id": null,
+  "source_sha1": "06baeeda6781941e65c44db877b3da82c192fdc9"
+ },
+ {
+  "title": "View from the head of the locks looking down, Lockport, by F. B. Clench",
+  "place": "Lockport, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/View_from_the_head_of_the_locks_looking_down%2C_Lockport%2C_by_F._B._Clench.png/1920px-View_from_the_head_of_the_locks_looking_down%2C_Lockport%2C_by_F._B._Clench.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a0/View_from_the_head_of_the_locks_looking_down%2C_Lockport%2C_by_F._B._Clench.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_from_the_head_of_the_locks_looking_down,_Lockport,_by_F._B._Clench.png",
+  "license": "Public domain",
+  "w": 2651,
+  "h": 1348,
+  "id": "STA-3777",
+  "rect": "rect/3776.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 1.19,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8792,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/View_from_the_head_of_the_locks_looking_down%2C_Lockport%2C_by_F._B._Clench.png/1920px-View_from_the_head_of_the_locks_looking_down%2C_Lockport%2C_by_F._B._Clench.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8792,
+   "L": [
+    0.382812,
+    0.0,
+    0.096094,
+    0.0,
+    0.856557,
+    0.108094
+   ],
+   "R": [
+    0.383335,
+    -0.015159,
+    0.531932,
+    0.005177,
+    0.856866,
+    0.102041
+   ],
+   "g": [
+    1.0,
+    0.991
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (1.19% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "F. B. Clench",
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10067706,
+  "source_revision_id": null,
+  "source_sha1": "756b27ea39466176853cf143204d8b04f602c61f"
+ },
+ {
+  "title": "View from foot of the locks looking up, Lockport, by F. B. Clench",
+  "place": "Lockport, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/View_from_foot_of_the_locks_looking_up%2C_Lockport%2C_by_F._B._Clench.jpg/1920px-View_from_foot_of_the_locks_looking_up%2C_Lockport%2C_by_F._B._Clench.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/cb/View_from_foot_of_the_locks_looking_up%2C_Lockport%2C_by_F._B._Clench.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_from_foot_of_the_locks_looking_up,_Lockport,_by_F._B._Clench.jpg",
+  "license": "Public domain",
+  "w": 2675,
+  "h": 1360,
+  "id": "STA-3778",
+  "rect": "rect/3777.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.02,
+  "range": 0.47,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1106,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/View_from_foot_of_the_locks_looking_up%2C_Lockport%2C_by_F._B._Clench.jpg/1920px-View_from_foot_of_the_locks_looking_up%2C_Lockport%2C_by_F._B._Clench.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1106,
+   "L": [
+    0.371354,
+    0.0,
+    0.10599,
+    0.0,
+    0.657787,
+    0.302766
+   ],
+   "R": [
+    0.371846,
+    -0.003361,
+    0.532137,
+    -0.002291,
+    0.660053,
+    0.302088
+   ],
+   "g": [
+    1.0,
+    0.9927
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.02° of rotation. Depth measured gentle (0.47% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "F. B. Clench",
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10067682,
+  "source_revision_id": null,
+  "source_sha1": "c622d71a32b241f377a8d19a4ad940fefbb7ad3c"
+ },
+ {
+  "title": "View near head of the locks & Holly building, Lockport, by F. B. Clench",
+  "place": "Lockport, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water",
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_near_head_of_the_locks_%26_Holly_building%2C_Lockport%2C_by_F._B._Clench.png/1920px-View_near_head_of_the_locks_%26_Holly_building%2C_Lockport%2C_by_F._B._Clench.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7a/View_near_head_of_the_locks_%26_Holly_building%2C_Lockport%2C_by_F._B._Clench.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_near_head_of_the_locks_%26_Holly_building,_Lockport,_by_F._B._Clench.png",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1348,
+  "id": "STA-3779",
+  "rect": "rect/3778.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.0,
+  "range": 0.46,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1418,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_near_head_of_the_locks_%26_Holly_building%2C_Lockport%2C_by_F._B._Clench.png/1920px-View_near_head_of_the_locks_%26_Holly_building%2C_Lockport%2C_by_F._B._Clench.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1418,
+   "L": [
+    0.390104,
+    0.0,
+    0.086719,
+    0.0,
+    0.674897,
+    0.289609
+   ],
+   "R": [
+    0.391877,
+    -0.002392,
+    0.521778,
+    -0.002011,
+    0.675792,
+    0.290556
+   ],
+   "g": [
+    0.99,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (0.46% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "F. B. Clench",
+  "creator_dates": null,
+  "facets": [
+   "water",
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10067698,
+  "source_revision_id": null,
+  "source_sha1": "8407085833168530fd687e4ddaf9c8fa683589b1"
+ },
+ {
+  "title": "Church interior, Lockport, N.Y, by Plimpton 2",
+  "place": "Lockport, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Church_interior%2C_Lockport%2C_N.Y%2C_by_Plimpton_2.jpg/1920px-Church_interior%2C_Lockport%2C_N.Y%2C_by_Plimpton_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/af/Church_interior%2C_Lockport%2C_N.Y%2C_by_Plimpton_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Church_interior,_Lockport,_N.Y,_by_Plimpton_2.jpg",
+  "license": "Public domain",
+  "w": 2603,
+  "h": 1324,
+  "id": "STA-3780",
+  "rect": "rect/3779.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.0,
+  "range": 1.83,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.2973,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Church_interior%2C_Lockport%2C_N.Y%2C_by_Plimpton_2.jpg/1920px-Church_interior%2C_Lockport%2C_N.Y%2C_by_Plimpton_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2973,
+   "L": [
+    0.4,
+    0.0,
+    0.077865,
+    0.0,
+    0.605937,
+    0.232856
+   ],
+   "R": [
+    0.401028,
+    -0.002019,
+    0.507902,
+    -0.006998,
+    0.607625,
+    0.212824
+   ],
+   "g": [
+    0.9519,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.0° of rotation. Depth measured moderate (1.83% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Plimpton",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10067770,
+  "source_revision_id": null,
+  "source_sha1": "e60840b6d6d64dd11636cfe91fd7a8ef59ce7ff5"
+ },
+ {
+  "title": "View of locks, showing a boat locking through, Lockport, N.Y, by F. B. Clench",
+  "place": "Lockport, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/View_of_locks%2C_showing_a_boat_locking_through%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.png/1920px-View_of_locks%2C_showing_a_boat_locking_through%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8b/View_of_locks%2C_showing_a_boat_locking_through%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_locks,_showing_a_boat_locking_through,_Lockport,_N.Y,_by_F._B._Clench.png",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1360,
+  "id": "STA-3781",
+  "rect": "rect/3780.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.0,
+  "range": 2.27,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.8204,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/View_of_locks%2C_showing_a_boat_locking_through%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.png/1920px-View_of_locks%2C_showing_a_boat_locking_through%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8204,
+   "L": [
+    0.380729,
+    0.0,
+    0.09401,
+    0.0,
+    0.908257,
+    0.04842
+   ],
+   "R": [
+    0.381234,
+    -0.012288,
+    0.531862,
+    0.006232,
+    0.913019,
+    0.040279
+   ],
+   "g": [
+    1.0,
+    0.9229
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.0° of rotation. Depth measured deep (2.27% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "F. B. Clench",
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10067686,
+  "source_revision_id": null,
+  "source_sha1": "34f0084b62287b41f8996283e56bbe06cae5dbed"
  }
 ]

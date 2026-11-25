@@ -1,0 +1,69 @@
+{
+ "title": "Street view, Lockport, N.Y, by F. B. Clench",
+ "place": "Lockport, New York",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Street_view%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.jpg/1920px-Street_view%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Street_view%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Street_view,_Lockport,_N.Y,_by_F._B._Clench.jpg",
+ "license": "Public domain",
+ "w": 2633,
+ "h": 1348,
+ "id": "STA-3773",
+ "rect": "rect/3772.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.08,
+ "rot": 0.02,
+ "range": 0.66,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.0065,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Street_view%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.jpg/1920px-Street_view%2C_Lockport%2C_N.Y%2C_by_F._B._Clench.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0065,
+  "L": [
+   0.404167,
+   0.0,
+   0.076302,
+   0.0,
+   0.784334,
+   0.047304
+  ],
+  "R": [
+   0.404883,
+   0.003209,
+   0.508495,
+   -0.011164,
+   0.788845,
+   0.049448
+  ],
+  "g": [
+   1.0,
+   0.9874
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.02° of rotation. Depth measured gentle (0.66% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "F. B. Clench",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10067650,
+ "source_revision_id": null,
+ "source_sha1": "43097649099691c5b40a828e126ff4ff7fb03304"
+}
