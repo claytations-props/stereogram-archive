@@ -1,0 +1,69 @@
+{
+ "title": "Chickens is a backyard, by Slee Bros.",
+ "place": "Poughkeepsie, New York",
+ "year": "c. 1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Chickens_is_a_backyard%2C_by_Slee_Bros..jpg/1920px-Chickens_is_a_backyard%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Chickens_is_a_backyard%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Chickens_is_a_backyard,_by_Slee_Bros..jpg",
+ "license": "Public domain",
+ "w": 2639,
+ "h": 1294,
+ "id": "STA-3823",
+ "rect": "rect/3822.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.1,
+ "rot": 0.0,
+ "range": 0.9,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.124,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Chickens_is_a_backyard%2C_by_Slee_Bros..jpg/1920px-Chickens_is_a_backyard%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.124,
+  "L": [
+   0.429688,
+   0.0,
+   0.058073,
+   0.0,
+   0.780021,
+   0.0356
+  ],
+  "R": [
+   0.428547,
+   -0.009467,
+   0.516653,
+   0.014885,
+   0.778693,
+   0.03969
+  ],
+  "g": [
+   0.9645,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (0.9% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Slee Bros.",
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870~",
+ "date_start": 1865,
+ "date_end": 1875,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10069160,
+ "source_revision_id": null,
+ "source_sha1": "b9f059fb8cc3bf7ff56c1de96720d41418ea0d6d"
+}
