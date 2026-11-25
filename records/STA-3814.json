@@ -1,0 +1,71 @@
+{
+ "title": "View with a rustic bridge, by C. H. Scofield",
+ "place": "Utica, New York",
+ "year": "1866",
+ "sy": 1866,
+ "era": "early",
+ "cats": [
+  "water",
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/View_with_a_rustic_bridge%2C_by_C._H._Scofield.jpg/1920px-View_with_a_rustic_bridge%2C_by_C._H._Scofield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/9c/View_with_a_rustic_bridge%2C_by_C._H._Scofield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_with_a_rustic_bridge,_by_C._H._Scofield.jpg",
+ "license": "Public domain",
+ "w": 2628,
+ "h": 1311,
+ "id": "STA-3814",
+ "rect": "rect/3813.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 1.06,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.2402,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/View_with_a_rustic_bridge%2C_by_C._H._Scofield.jpg/1920px-View_with_a_rustic_bridge%2C_by_C._H._Scofield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.2402,
+  "L": [
+   0.411458,
+   0.0,
+   0.067969,
+   0.0,
+   0.664927,
+   0.305324
+  ],
+  "R": [
+   0.41003,
+   -0.003391,
+   0.508689,
+   -0.01155,
+   0.663073,
+   0.314801
+  ],
+  "g": [
+   0.9481,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (1.06% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "C. H. Scofield",
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1866",
+ "date_start": 1866,
+ "date_end": 1866,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10250212,
+ "source_revision_id": null,
+ "source_sha1": "a88a62e3e45cb0b2fb37de11ce8ddd56239a82f6"
+}

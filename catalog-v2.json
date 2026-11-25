@@ -279881,5 +279881,423 @@
    "garden",
    "trees"
   ]
+ },
+ {
+  "title": "View of a building with four men in front, by C. H. Scofield",
+  "place": "Utica, New York",
+  "year": "1866",
+  "sy": 1866,
+  "era": "early",
+  "cats": [
+   "cities",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/View_of_a_building_with_four_men_in_front%2C_by_C._H._Scofield.jpg/1920px-View_of_a_building_with_four_men_in_front%2C_by_C._H._Scofield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d5/View_of_a_building_with_four_men_in_front%2C_by_C._H._Scofield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_building_with_four_men_in_front,_by_C._H._Scofield.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1326,
+  "id": "STA-3809",
+  "rect": "rect/3808.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.19,
+  "rot": 0.01,
+  "range": 0.91,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.929,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/View_of_a_building_with_four_men_in_front%2C_by_C._H._Scofield.jpg/1920px-View_of_a_building_with_four_men_in_front%2C_by_C._H._Scofield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.929,
+   "L": [
+    0.367708,
+    0.0,
+    0.08724,
+    0.0,
+    0.377709,
+    0.589783
+   ],
+   "R": [
+    0.367741,
+    -0.010164,
+    0.523572,
+    0.000341,
+    0.376474,
+    0.593984
+   ],
+   "g": [
+    0.9745,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.01° of rotation. Depth measured gentle (0.91% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "C. H. Scofield",
+  "creator_dates": null,
+  "facets": [
+   "cities",
+   "people"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1866",
+  "date_start": 1866,
+  "date_end": 1866,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10250159,
+  "source_revision_id": null,
+  "source_sha1": "ebc6e550639b132c8ff927cb17f4604ec054172a"
+ },
+ {
+  "title": "View of a garden, by J.L. & H.A. Jordan",
+  "place": "Utica, New York",
+  "year": "1866",
+  "sy": 1866,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/View_of_a_garden%2C_by_J.L._%26_H.A._Jordan.jpg/1920px-View_of_a_garden%2C_by_J.L._%26_H.A._Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/90/View_of_a_garden%2C_by_J.L._%26_H.A._Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_garden,_by_J.L._%26_H.A._Jordan.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1281,
+  "id": "STA-3810",
+  "rect": "rect/3809.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.02,
+  "range": 1.67,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.6469,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/View_of_a_garden%2C_by_J.L._%26_H.A._Jordan.jpg/1920px-View_of_a_garden%2C_by_J.L._%26_H.A._Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.6469,
+   "L": [
+    0.405729,
+    0.0,
+    0.08724,
+    0.0,
+    0.505342,
+    0.254808
+   ],
+   "R": [
+    0.40825,
+    -0.00209,
+    0.507678,
+    0.001579,
+    0.508893,
+    0.271447
+   ],
+   "g": [
+    0.9167,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.02° of rotation. Depth measured moderate (1.67% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "J.L. & H.A. Jordan",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1866",
+  "date_start": 1866,
+  "date_end": 1866,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10250101,
+  "source_revision_id": null,
+  "source_sha1": "90eb12da53c675c00e7a69ec92cf08f8b984a4dd"
+ },
+ {
+  "title": "View of a mansion, by Mundy & Williams",
+  "place": "Utica, New York",
+  "year": "1866",
+  "sy": 1866,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/View_of_a_mansion%2C_by_Mundy_%26_Williams.jpg/1920px-View_of_a_mansion%2C_by_Mundy_%26_Williams.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d1/View_of_a_mansion%2C_by_Mundy_%26_Williams.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_mansion,_by_Mundy_%26_Williams.jpg",
+  "license": "Public domain",
+  "w": 2547,
+  "h": 1257,
+  "id": "STA-3811",
+  "rect": "rect/3810.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.02,
+  "range": 0.99,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9511,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/View_of_a_mansion%2C_by_Mundy_%26_Williams.jpg/1920px-View_of_a_mansion%2C_by_Mundy_%26_Williams.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9511,
+   "L": [
+    0.394792,
+    0.0,
+    0.097135,
+    0.0,
+    0.840717,
+    0.066983
+   ],
+   "R": [
+    0.395986,
+    0.000178,
+    0.50515,
+    -0.000129,
+    0.842826,
+    0.064735
+   ],
+   "g": [
+    0.9592,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.02° of rotation. Depth measured gentle (0.99% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Mundy & Williams",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1866",
+  "date_start": 1866,
+  "date_end": 1866,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10250145,
+  "source_revision_id": null,
+  "source_sha1": "711e6d0c47ce903a536819bc09480667685909c6"
+ },
+ {
+  "title": "View of a street, by C. H. Scofield",
+  "place": "Utica, New York",
+  "year": "1866",
+  "sy": 1866,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/View_of_a_street%2C_by_C._H._Scofield.jpg/1920px-View_of_a_street%2C_by_C._H._Scofield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/21/View_of_a_street%2C_by_C._H._Scofield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_street,_by_C._H._Scofield.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1308,
+  "id": "STA-3812",
+  "rect": "rect/3811.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.01,
+  "range": 0.79,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2141,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/View_of_a_street%2C_by_C._H._Scofield.jpg/1920px-View_of_a_street%2C_by_C._H._Scofield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2141,
+   "L": [
+    0.422396,
+    0.0,
+    0.063281,
+    0.0,
+    0.698745,
+    0.033996
+   ],
+   "R": [
+    0.419564,
+    0.003457,
+    0.507406,
+    -0.002134,
+    0.69759,
+    0.029935
+   ],
+   "g": [
+    1.0,
+    0.993
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured gentle (0.79% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "C. H. Scofield",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1866",
+  "date_start": 1866,
+  "date_end": 1866,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10250164,
+  "source_revision_id": null,
+  "source_sha1": "540306824e8321efbe056cf9375466dc10fa74bb"
+ },
+ {
+  "title": "View of a two-store brick building, by William E. James",
+  "place": "Utica, New York",
+  "year": "1866",
+  "sy": 1866,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/View_of_a_two-store_brick_building%2C_by_William_E._James.jpg/1920px-View_of_a_two-store_brick_building%2C_by_William_E._James.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/ad/View_of_a_two-store_brick_building%2C_by_William_E._James.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_two-store_brick_building,_by_William_E._James.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1311,
+  "id": "STA-3813",
+  "rect": "rect/3812.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 0.67,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8538,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/View_of_a_two-store_brick_building%2C_by_William_E._James.jpg/1920px-View_of_a_two-store_brick_building%2C_by_William_E._James.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8538,
+   "L": [
+    0.383333,
+    0.0,
+    0.10026,
+    0.0,
+    0.899791,
+    0.072547
+   ],
+   "R": [
+    0.37976,
+    -0.001305,
+    0.525512,
+    0.001692,
+    0.885506,
+    0.073062
+   ],
+   "g": [
+    0.9232,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (0.67% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "William E. James",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1866",
+  "date_start": 1866,
+  "date_end": 1866,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10250323,
+  "source_revision_id": null,
+  "source_sha1": "94c851e02ddd59b648557ebfa1a43fc805e7c052"
+ },
+ {
+  "title": "View with a rustic bridge, by C. H. Scofield",
+  "place": "Utica, New York",
+  "year": "1866",
+  "sy": 1866,
+  "era": "early",
+  "cats": [
+   "water",
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/View_with_a_rustic_bridge%2C_by_C._H._Scofield.jpg/1920px-View_with_a_rustic_bridge%2C_by_C._H._Scofield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/9c/View_with_a_rustic_bridge%2C_by_C._H._Scofield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_with_a_rustic_bridge,_by_C._H._Scofield.jpg",
+  "license": "Public domain",
+  "w": 2628,
+  "h": 1311,
+  "id": "STA-3814",
+  "rect": "rect/3813.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 1.06,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2402,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/View_with_a_rustic_bridge%2C_by_C._H._Scofield.jpg/1920px-View_with_a_rustic_bridge%2C_by_C._H._Scofield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2402,
+   "L": [
+    0.411458,
+    0.0,
+    0.067969,
+    0.0,
+    0.664927,
+    0.305324
+   ],
+   "R": [
+    0.41003,
+    -0.003391,
+    0.508689,
+    -0.01155,
+    0.663073,
+    0.314801
+   ],
+   "g": [
+    0.9481,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (1.06% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "C. H. Scofield",
+  "creator_dates": null,
+  "facets": [
+   "water",
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1866",
+  "date_start": 1866,
+  "date_end": 1866,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10250212,
+  "source_revision_id": null,
+  "source_sha1": "a88a62e3e45cb0b2fb37de11ce8ddd56239a82f6"
  }
 ]
