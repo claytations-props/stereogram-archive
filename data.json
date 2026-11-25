@@ -225852,5 +225852,182 @@
   "date_start": 1875,
   "date_end": 1885,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Portrait of two men, by Slee Bros",
+  "place": "Poughkeepsie, New York",
+  "year": "1867",
+  "sy": 1867,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Portrait_of_two_men%2C_by_Slee_Bros.jpg/1920px-Portrait_of_two_men%2C_by_Slee_Bros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Portrait_of_two_men%2C_by_Slee_Bros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_two_men,_by_Slee_Bros.jpg",
+  "license": "Public domain",
+  "w": 2675,
+  "h": 1526,
+  "id": "STA-3828",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3827.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.02,
+  "range": 0.39,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7466,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Portrait_of_two_men%2C_by_Slee_Bros.jpg/1920px-Portrait_of_two_men%2C_by_Slee_Bros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7466,
+   "L": [
+    0.372917,
+    0.0,
+    0.104427,
+    0.0,
+    0.875799,
+    0.02968
+   ],
+   "R": [
+    0.373555,
+    -0.008534,
+    0.5168,
+    0.013615,
+    0.878585,
+    0.061185
+   ],
+   "g": [
+    1.0,
+    0.9037
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.02° of rotation. Depth measured gentle (0.39% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Slee Bros",
+  "date_edtf": "1867",
+  "date_start": 1867,
+  "date_end": 1867,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Vassar College Museum, Poughkeepsie, N.Y, by Weller, F. G. (Franklin G.),, 1833-1877",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1875",
+  "sy": 1875,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Vassar_College_Museum%2C_Poughkeepsie%2C_N.Y%2C_by_Weller%2C_F._G._%28Franklin_G.%29%2C%2C_1833-1877.jpg/1920px-Vassar_College_Museum%2C_Poughkeepsie%2C_N.Y%2C_by_Weller%2C_F._G._%28Franklin_G.%29%2C%2C_1833-1877.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/60/Vassar_College_Museum%2C_Poughkeepsie%2C_N.Y%2C_by_Weller%2C_F._G._%28Franklin_G.%29%2C%2C_1833-1877.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Vassar_College_Museum,_Poughkeepsie,_N.Y,_by_Weller,_F._G._(Franklin_G.),,_1833-1877.jpg",
+  "license": "Public domain",
+  "w": 2675,
+  "h": 1360,
+  "id": "STA-3829",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3828.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.01,
+  "range": 0.91,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2676,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Vassar_College_Museum%2C_Poughkeepsie%2C_N.Y%2C_by_Weller%2C_F._G._%28Franklin_G.%29%2C%2C_1833-1877.jpg/1920px-Vassar_College_Museum%2C_Poughkeepsie%2C_N.Y%2C_by_Weller%2C_F._G._%28Franklin_G.%29%2C%2C_1833-1877.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2676,
+   "L": [
+    0.375,
+    0.0,
+    0.117448,
+    0.0,
+    0.581967,
+    0.384734
+   ],
+   "R": [
+    0.375577,
+    -0.01123,
+    0.536888,
+    -0.007244,
+    0.581257,
+    0.372711
+   ],
+   "g": [
+    0.9554,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured gentle (0.91% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Weller, F. G. (Franklin G.)",
+  "date_edtf": "1875~",
+  "date_start": 1870,
+  "date_end": 1880,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Vassar College grounds, by Pach, G. W. (Gustavus W.), 1845-1904",
+  "place": "Poughkeepsie, New York",
+  "year": "1867",
+  "sy": 1867,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Vassar_College_grounds%2C_by_Pach%2C_G._W._%28Gustavus_W.%29%2C_1845-1904.jpg/1920px-Vassar_College_grounds%2C_by_Pach%2C_G._W._%28Gustavus_W.%29%2C_1845-1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Vassar_College_grounds%2C_by_Pach%2C_G._W._%28Gustavus_W.%29%2C_1845-1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Vassar_College_grounds,_by_Pach,_G._W._(Gustavus_W.),_1845-1904.jpg",
+  "license": "Public domain",
+  "w": 2675,
+  "h": 1342,
+  "id": "STA-3830",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3829.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.0,
+  "range": 1.75,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.3027,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Vassar_College_grounds%2C_by_Pach%2C_G._W._%28Gustavus_W.%29%2C_1845-1904.jpg/1920px-Vassar_College_grounds%2C_by_Pach%2C_G._W._%28Gustavus_W.%29%2C_1845-1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3027,
+   "L": [
+    0.383333,
+    0.0,
+    0.100781,
+    0.0,
+    0.586708,
+    0.366044
+   ],
+   "R": [
+    0.382288,
+    -0.021215,
+    0.5265,
+    -0.004683,
+    0.588056,
+    0.377864
+   ],
+   "g": [
+    0.9424,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.0° of rotation. Depth measured moderate (1.75% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Pach, G. W. (Gustavus W.)",
+  "date_edtf": "1867",
+  "date_start": 1867,
+  "date_end": 1867,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]
