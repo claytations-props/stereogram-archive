@@ -1,0 +1,69 @@
+{
+ "title": "Vassar College, by Aaron Veeder",
+ "place": "Poughkeepsie, New York",
+ "year": "c. 1880",
+ "sy": 1880,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Vassar_College%2C_by_Aaron_Veeder.jpg/1920px-Vassar_College%2C_by_Aaron_Veeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/17/Vassar_College%2C_by_Aaron_Veeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Vassar_College,_by_Aaron_Veeder.jpg",
+ "license": "Public domain",
+ "w": 2687,
+ "h": 1804,
+ "id": "STA-3831",
+ "rect": "rect/3830.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.07,
+ "rot": 0.0,
+ "range": 1.87,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.764,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Vassar_College%2C_by_Aaron_Veeder.jpg/1920px-Vassar_College%2C_by_Aaron_Veeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.764,
+  "L": [
+   0.382812,
+   0.0,
+   0.101823,
+   0.0,
+   0.746315,
+   0.036074
+  ],
+  "R": [
+   0.388533,
+   0.00147,
+   0.516565,
+   0.000748,
+   0.74555,
+   0.034656
+  ],
+  "g": [
+   1.0,
+   0.9968
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured moderate (1.87% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Aaron Veeder",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1880~",
+ "date_start": 1875,
+ "date_end": 1885,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10069245,
+ "source_revision_id": null,
+ "source_sha1": "faa6f3daa2c7b0775f890cb8e93ffafd8e035454"
+}

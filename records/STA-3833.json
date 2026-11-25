@@ -1,0 +1,69 @@
+{
+ "title": "Vassar College, by Slee Bros.",
+ "place": "Poughkeepsie, New York",
+ "year": "c. 1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Vassar_College%2C_by_Slee_Bros..jpg/1920px-Vassar_College%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/9/92/Vassar_College%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Vassar_College,_by_Slee_Bros..jpg",
+ "license": "Public domain",
+ "w": 2651,
+ "h": 1366,
+ "id": "STA-3833",
+ "rect": "rect/3832.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.27,
+ "rot": 0.02,
+ "range": 1.78,
+ "f": 0.83,
+ "depth": "Moderate",
+ "va": 2.4901,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Vassar_College%2C_by_Slee_Bros..jpg/1920px-Vassar_College%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 2.4901,
+  "L": [
+   0.394271,
+   0.0,
+   0.06901,
+   0.0,
+   0.307381,
+   0.451466
+  ],
+  "R": [
+   0.395295,
+   -0.002122,
+   0.53347,
+   0.006167,
+   0.307192,
+   0.445008
+  ],
+  "g": [
+   0.8,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.27% vertical error and 0.02° of rotation. Depth measured moderate (1.78% of frame width); hung in the VR Parlor at 83% size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Slee Bros.",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870~",
+ "date_start": 1865,
+ "date_end": 1875,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10069141,
+ "source_revision_id": null,
+ "source_sha1": "9e404ce7ae46d8ad2b1dbd94d4096e546a3f6963"
+}

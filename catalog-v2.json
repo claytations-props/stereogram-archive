@@ -281488,5 +281488,559 @@
    "garden",
    "trees"
   ]
+ },
+ {
+  "title": "Vassar College, by Aaron Veeder",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1880",
+  "sy": 1880,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Vassar_College%2C_by_Aaron_Veeder.jpg/1920px-Vassar_College%2C_by_Aaron_Veeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/17/Vassar_College%2C_by_Aaron_Veeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Vassar_College,_by_Aaron_Veeder.jpg",
+  "license": "Public domain",
+  "w": 2687,
+  "h": 1804,
+  "id": "STA-3831",
+  "rect": "rect/3830.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 1.87,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.764,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Vassar_College%2C_by_Aaron_Veeder.jpg/1920px-Vassar_College%2C_by_Aaron_Veeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.764,
+   "L": [
+    0.382812,
+    0.0,
+    0.101823,
+    0.0,
+    0.746315,
+    0.036074
+   ],
+   "R": [
+    0.388533,
+    0.00147,
+    0.516565,
+    0.000748,
+    0.74555,
+    0.034656
+   ],
+   "g": [
+    1.0,
+    0.9968
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured moderate (1.87% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Aaron Veeder",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1880~",
+  "date_start": 1875,
+  "date_end": 1885,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10069245,
+  "source_revision_id": null,
+  "source_sha1": "faa6f3daa2c7b0775f890cb8e93ffafd8e035454"
+ },
+ {
+  "title": "Vassar College, by Pach, G. W. (Gustavus W.), 1845-1904",
+  "place": "Poughkeepsie, New York",
+  "year": "1867",
+  "sy": 1867,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Vassar_College%2C_by_Pach%2C_G._W._%28Gustavus_W.%29%2C_1845-1904.jpg/1920px-Vassar_College%2C_by_Pach%2C_G._W._%28Gustavus_W.%29%2C_1845-1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Vassar_College%2C_by_Pach%2C_G._W._%28Gustavus_W.%29%2C_1845-1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Vassar_College,_by_Pach,_G._W._(Gustavus_W.),_1845-1904.jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1354,
+  "id": "STA-3832",
+  "rect": "rect/3831.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.02,
+  "range": 0.98,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2649,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Vassar_College%2C_by_Pach%2C_G._W._%28Gustavus_W.%29%2C_1845-1904.jpg/1920px-Vassar_College%2C_by_Pach%2C_G._W._%28Gustavus_W.%29%2C_1845-1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2649,
+   "L": [
+    0.388021,
+    0.0,
+    0.09401,
+    0.0,
+    0.603484,
+    0.360143
+   ],
+   "R": [
+    0.389272,
+    -0.014474,
+    0.524416,
+    -0.01002,
+    0.604721,
+    0.345674
+   ],
+   "g": [
+    0.993,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.02° of rotation. Depth measured gentle (0.98% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Pach, G. W. (Gustavus W.)",
+  "creator_dates": "1845-1904",
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1867",
+  "date_start": 1867,
+  "date_end": 1867,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10069058,
+  "source_revision_id": null,
+  "source_sha1": "6c3dd3f079c77d28654605a1fef1bf4ace3ada48"
+ },
+ {
+  "title": "Vassar College, by Slee Bros.",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Vassar_College%2C_by_Slee_Bros..jpg/1920px-Vassar_College%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/92/Vassar_College%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Vassar_College,_by_Slee_Bros..jpg",
+  "license": "Public domain",
+  "w": 2651,
+  "h": 1366,
+  "id": "STA-3833",
+  "rect": "rect/3832.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.27,
+  "rot": 0.02,
+  "range": 1.78,
+  "f": 0.83,
+  "depth": "Moderate",
+  "va": 2.4901,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Vassar_College%2C_by_Slee_Bros..jpg/1920px-Vassar_College%2C_by_Slee_Bros..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.4901,
+   "L": [
+    0.394271,
+    0.0,
+    0.06901,
+    0.0,
+    0.307381,
+    0.451466
+   ],
+   "R": [
+    0.395295,
+    -0.002122,
+    0.53347,
+    0.006167,
+    0.307192,
+    0.445008
+   ],
+   "g": [
+    0.8,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.27% vertical error and 0.02° of rotation. Depth measured moderate (1.78% of frame width); hung in the VR Parlor at 83% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Slee Bros.",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870~",
+  "date_start": 1865,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10069141,
+  "source_revision_id": null,
+  "source_sha1": "9e404ce7ae46d8ad2b1dbd94d4096e546a3f6963"
+ },
+ {
+  "title": "View of Banking and Office Departments",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1880",
+  "sy": 1880,
+  "era": "mid",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/View_of_Banking_and_Office_Departments%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_Banking_and_Office_Departments%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d1/View_of_Banking_and_Office_Departments%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_Banking_and_Office_Departments,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2699,
+  "h": 1568,
+  "id": "STA-3834",
+  "rect": "rect/3833.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.26,
+  "rot": 0.0,
+  "range": 0.83,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.1169,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/View_of_Banking_and_Office_Departments%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_Banking_and_Office_Departments%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.1169,
+   "L": [
+    0.424479,
+    0.0,
+    0.044531,
+    0.0,
+    0.345291,
+    0.287444
+   ],
+   "R": [
+    0.421921,
+    -0.000815,
+    0.519665,
+    0.001644,
+    0.341158,
+    0.307981
+   ],
+   "g": [
+    0.9981,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.26% vertical error and 0.0° of rotation. Depth measured gentle (0.83% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "oddities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1880~",
+  "date_start": 1875,
+  "date_end": 1885,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10069229,
+  "source_revision_id": null,
+  "source_sha1": "0c5ed37d84ce5cb84bc80075a303603ad06382bd"
+ },
+ {
+  "title": "View of Exterior",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1880",
+  "sy": 1880,
+  "era": "mid",
+  "cats": [
+   "cities",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/View_of_Exterior%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_Exterior%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/49/View_of_Exterior%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_Exterior,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2669,
+  "h": 1544,
+  "id": "STA-3835",
+  "rect": "rect/3834.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 0.46,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0708,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/View_of_Exterior%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_Exterior%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0708,
+   "L": [
+    0.441146,
+    0.0,
+    0.039844,
+    0.0,
+    0.711971,
+    0.070657
+   ],
+   "R": [
+    0.44793,
+    -0.003038,
+    0.515227,
+    0.002174,
+    0.724256,
+    0.037984
+   ],
+   "g": [
+    0.9795,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (0.46% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities",
+   "people"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1880~",
+  "date_start": 1875,
+  "date_end": 1885,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10069239,
+  "source_revision_id": null,
+  "source_sha1": "67a08826516a3b645a14b6316d78edaccc48aa6c"
+ },
+ {
+  "title": "View of Practical Departments",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1880",
+  "sy": 1880,
+  "era": "mid",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/View_of_Practical_Departments%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_Practical_Departments%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5d/View_of_Practical_Departments%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_Practical_Departments,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2657,
+  "h": 1550,
+  "id": "STA-3836",
+  "rect": "rect/3835.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.22,
+  "rot": 0.0,
+  "range": 1.93,
+  "f": 0.73,
+  "depth": "Moderate",
+  "va": 2.6667,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/View_of_Practical_Departments%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_Practical_Departments%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.6667,
+   "L": [
+    0.458333,
+    0.0,
+    0.026302,
+    0.0,
+    0.294643,
+    0.423661
+   ],
+   "R": [
+    0.454782,
+    -0.013068,
+    0.527391,
+    0.002574,
+    0.291821,
+    0.430734
+   ],
+   "g": [
+    0.8789,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.0° of rotation. Depth measured moderate (1.93% of frame width); hung in the VR Parlor at 73% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "oddities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1880~",
+  "date_start": 1875,
+  "date_end": 1885,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10069218,
+  "source_revision_id": null,
+  "source_sha1": "d104b553d39929a0879f8bf6bc61130e0b2f5155"
+ },
+ {
+  "title": "View of Prepatory Departments",
+  "place": "Poughkeepsie, New York",
+  "year": "c. 1880",
+  "sy": 1880,
+  "era": "mid",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/View_of_Prepatory_Departments%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_Prepatory_Departments%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8c/View_of_Prepatory_Departments%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_Prepatory_Departments,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2693,
+  "h": 1556,
+  "id": "STA-3837",
+  "rect": "rect/3836.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.0,
+  "range": 2.07,
+  "f": 0.89,
+  "depth": "Moderate",
+  "va": 1.868,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/View_of_Prepatory_Departments%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_Prepatory_Departments%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.868,
+   "L": [
+    0.434896,
+    0.0,
+    0.04974,
+    0.0,
+    0.403066,
+    0.303427
+   ],
+   "R": [
+    0.430958,
+    -0.003605,
+    0.547466,
+    0.001934,
+    0.397985,
+    0.295075
+   ],
+   "g": [
+    0.9706,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.0° of rotation. Depth measured moderate (2.07% of frame width); hung in the VR Parlor at 89% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "oddities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1880~",
+  "date_start": 1875,
+  "date_end": 1885,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10069224,
+  "source_revision_id": null,
+  "source_sha1": "bf6d52da30a9a08675d06d0c41632fd7c495b999"
+ },
+ {
+  "title": "View of a potted plant, by Pach, G. W. (Gustavus W.), 1845-1904",
+  "place": "Poughkeepsie, New York",
+  "year": "1867",
+  "sy": 1867,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/View_of_a_potted_plant%2C_by_Pach%2C_G._W._%28Gustavus_W.%29%2C_1845-1904.jpg/1920px-View_of_a_potted_plant%2C_by_Pach%2C_G._W._%28Gustavus_W.%29%2C_1845-1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f0/View_of_a_potted_plant%2C_by_Pach%2C_G._W._%28Gustavus_W.%29%2C_1845-1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_potted_plant,_by_Pach,_G._W._(Gustavus_W.),_1845-1904.jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1348,
+  "id": "STA-3838",
+  "rect": "rect/3837.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.02,
+  "range": 2.7,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.6342,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/View_of_a_potted_plant%2C_by_Pach%2C_G._W._%28Gustavus_W.%29%2C_1845-1904.jpg/1920px-View_of_a_potted_plant%2C_by_Pach%2C_G._W._%28Gustavus_W.%29%2C_1845-1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.6342,
+   "L": [
+    0.288021,
+    0.0,
+    0.104948,
+    0.0,
+    0.897119,
+    0.063272
+   ],
+   "R": [
+    0.284394,
+    -0.007981,
+    0.522895,
+    0.006293,
+    0.896295,
+    0.046236
+   ],
+   "g": [
+    0.9062,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.02° of rotation. Depth measured deep (2.7% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Pach, G. W. (Gustavus W.)",
+  "creator_dates": "1845-1904",
+  "facets": [
+   "oddities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1867",
+  "date_start": 1867,
+  "date_end": 1867,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10069050,
+  "source_revision_id": null,
+  "source_sha1": "e51eb6900f06039512a55f8877667156f8293b87"
  }
 ]
