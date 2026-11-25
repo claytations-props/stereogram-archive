@@ -274911,5 +274911,74 @@
   "source_page_id": 10069782,
   "source_revision_id": null,
   "source_sha1": "64d0b0210087ae4d05449fee19878c186fc6be2b"
+ },
+ {
+  "title": "View of an entrance, by Gates, G. F. (George F.)",
+  "place": "Syracuse, New York",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/View_of_an_entrance%2C_by_Gates%2C_G._F._%28George_F.%29.jpg/1920px-View_of_an_entrance%2C_by_Gates%2C_G._F._%28George_F.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8f/View_of_an_entrance%2C_by_Gates%2C_G._F._%28George_F.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_an_entrance,_by_Gates,_G._F._(George_F.).jpg",
+  "license": "Public domain",
+  "w": 2667,
+  "h": 1747,
+  "id": "STA-3741",
+  "rect": "rect/3740.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.02,
+  "range": 3.51,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.893,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/View_of_an_entrance%2C_by_Gates%2C_G._F._%28George_F.%29.jpg/1920px-View_of_an_entrance%2C_by_Gates%2C_G._F._%28George_F.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.893,
+   "L": [
+    0.365104,
+    0.0,
+    0.065885,
+    0.0,
+    0.624006,
+    0.047297
+   ],
+   "R": [
+    0.362778,
+    0.003148,
+    0.509661,
+    0.004274,
+    0.62527,
+    0.028808
+   ],
+   "g": [
+    0.9907,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured deep (3.51% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Gates, G. F. (George F.)",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865~",
+  "date_start": 1860,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10081758,
+  "source_revision_id": null,
+  "source_sha1": "55d8646f855973d433ae34c07c1f52bdba93afe4"
  }
 ]
