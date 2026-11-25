@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3826.json",
+ "name": "Interior view of Practical, Banking and Office Departments, by Vail, J. G. (James Gardner), 1842-1929 4",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3825.jpg",
+ "identifier": "STA-3826",
+ "creator": {
+  "@type": "Person",
+  "name": "Vail, J. G. (James Gardner)"
+ },
+ "dateCreated": "1881",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Poughkeepsie, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Interior_view_of_Practical,_Banking_and_Office_Departments,_by_Vail,_J._G._(James_Gardner),_1842-1929_4.jpg"
+}

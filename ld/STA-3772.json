@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3772.json",
+ "name": "View of a Church, Lockport, N.Y",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3771.jpg",
+ "identifier": "STA-3772",
+ "dateCreated": "1858",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lockport, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_Church,_Lockport,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

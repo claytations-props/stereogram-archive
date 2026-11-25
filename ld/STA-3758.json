@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3758.json",
+ "name": "Niagara Falls, view from above",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3757.jpg",
+ "identifier": "STA-3758",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Niagara Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Niagara_Falls,_view_from_above,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

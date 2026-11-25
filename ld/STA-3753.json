@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3753.json",
+ "name": "Niagara Falls, Suspension Bridge, interior view",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3752.jpg",
+ "identifier": "STA-3753",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Niagara Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Niagara_Falls,_Suspension_Bridge,_interior_view,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

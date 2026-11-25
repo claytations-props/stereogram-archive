@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3775.json",
+ "name": "View of a canal boat, Lockport, N.Y, by Plimpton & Ruggles",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3774.jpg",
+ "identifier": "STA-3775",
+ "creator": {
+  "@type": "Person",
+  "name": "Plimpton & Ruggles"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lockport, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_canal_boat,_Lockport,_N.Y,_by_Plimpton_%26_Ruggles.jpg"
+}

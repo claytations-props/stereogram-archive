@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3821.json",
+ "name": "Boating on Lake, Vassar College, by Littleton View Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3820.jpg",
+ "identifier": "STA-3821",
+ "creator": {
+  "@type": "Person",
+  "name": "Littleton View Co."
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Poughkeepsie, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Boating_on_Lake,_Vassar_College,_by_Littleton_View_Co..jpg"
+}

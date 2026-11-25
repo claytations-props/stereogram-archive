@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3834.json",
+ "name": "View of Banking and Office Departments",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3833.jpg",
+ "identifier": "STA-3834",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Poughkeepsie, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_Banking_and_Office_Departments,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3748.json",
+ "name": "Niagara Falls. (View of Terrapin Tower and falls.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3747.jpg",
+ "identifier": "STA-3748",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Niagara Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Niagara_Falls._(View_of_Terrapin_Tower_and_falls.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

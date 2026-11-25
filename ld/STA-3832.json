@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3832.json",
+ "name": "Vassar College, by Pach, G. W. (Gustavus W.), 1845-1904",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3831.jpg",
+ "identifier": "STA-3832",
+ "creator": {
+  "@type": "Person",
+  "name": "Pach, G. W. (Gustavus W.)"
+ },
+ "dateCreated": "1867",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Poughkeepsie, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Vassar_College,_by_Pach,_G._W._(Gustavus_W.),_1845-1904.jpg"
+}

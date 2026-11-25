@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3817.json",
+ "name": "Art Gallery, Vassar College, by Pach, G. W. (Gustavus W.), 1845-1904 2",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3816.jpg",
+ "identifier": "STA-3817",
+ "creator": {
+  "@type": "Person",
+  "name": "Pach, G. W. (Gustavus W.)"
+ },
+ "dateCreated": "1867",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Poughkeepsie, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Art_Gallery,_Vassar_College,_by_Pach,_G._W._(Gustavus_W.),_1845-1904_2.jpg"
+}

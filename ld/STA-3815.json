@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3815.json",
+ "name": "Academy Gound, Mt. St. Vincent, N.Y, by Weller, F. G. (Franklin G.),, 1833-1877",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3814.jpg",
+ "identifier": "STA-3815",
+ "creator": {
+  "@type": "Person",
+  "name": "Weller, F. G. (Franklin G.)"
+ },
+ "dateCreated": "1867",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Poughkeepsie, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Academy_Gound,_Mt._St._Vincent,_N.Y,_by_Weller,_F._G._(Franklin_G.),,_1833-1877.jpg"
+}

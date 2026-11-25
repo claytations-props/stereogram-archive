@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3774.json",
+ "name": "View of the locks, Lockport, N.Y, by F. B. Clench",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3773.jpg",
+ "identifier": "STA-3774",
+ "creator": {
+  "@type": "Person",
+  "name": "F. B. Clench"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Lockport, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_the_locks,_Lockport,_N.Y,_by_F._B._Clench.png"
+}

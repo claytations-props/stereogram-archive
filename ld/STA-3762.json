@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3762.json",
+ "name": "The glory of glories, Niagara Falls, U.S.A. (View of falls.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3761.jpg",
+ "identifier": "STA-3762",
+ "dateCreated": "1870",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Niagara Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_glory_of_glories,_Niagara_Falls,_U.S.A._(View_of_falls.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

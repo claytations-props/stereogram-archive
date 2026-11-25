@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3811.json",
+ "name": "View of a mansion, by Mundy & Williams",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3810.jpg",
+ "identifier": "STA-3811",
+ "creator": {
+  "@type": "Person",
+  "name": "Mundy & Williams"
+ },
+ "dateCreated": "1866",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Utica, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_mansion,_by_Mundy_%26_Williams.jpg"
+}

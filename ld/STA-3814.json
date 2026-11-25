@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3814.json",
+ "name": "View with a rustic bridge, by C. H. Scofield",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3813.jpg",
+ "identifier": "STA-3814",
+ "creator": {
+  "@type": "Person",
+  "name": "C. H. Scofield"
+ },
+ "dateCreated": "1866",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Utica, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_with_a_rustic_bridge,_by_C._H._Scofield.jpg"
+}
