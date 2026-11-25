@@ -1,0 +1,11 @@
+{"assignments": {
+  "STA-3796": {"tags": ["schoolhouse", "trees"], "conf": "high"},
+  "STA-3797": {"tags": ["schoolhouse", "church"], "conf": "high"},
+  "STA-3798": {"tags": ["hospital", "trees"], "conf": "high"},
+  "STA-3799": {"tags": ["hospital", "trees"], "conf": "high"},
+  "STA-3800": {"tags": ["hospital", "trees"], "conf": "high"},
+  "STA-3801": {"tags": ["church", "trees"], "conf": "high"},
+  "STA-3802": {"tags": ["ruins", "factory"], "conf": "high"},
+  "STA-3803": {"tags": ["ruins", "factory"], "conf": "high"},
+  "STA-3804": {"tags": ["main street", "trees"], "conf": "high"}
+}}
