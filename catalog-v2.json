@@ -277979,7 +277979,11 @@
   "license_url": null,
   "source_page_id": 10250301,
   "source_revision_id": null,
-  "source_sha1": "b11b87b2572366f6d98d5ad37f3ef947f9a978e2"
+  "source_sha1": "b11b87b2572366f6d98d5ad37f3ef947f9a978e2",
+  "tags": [
+   "schoolhouse",
+   "trees"
+  ]
  },
  {
   "title": "Bank",
@@ -278048,7 +278052,11 @@
   "license_url": null,
   "source_page_id": 10250118,
   "source_revision_id": null,
-  "source_sha1": "637388fb70e62878346a24c01b345c5a44a6e4b9"
+  "source_sha1": "637388fb70e62878346a24c01b345c5a44a6e4b9",
+  "tags": [
+   "main street",
+   "storefront"
+  ]
  },
  {
   "title": "Christian Brothers School, by William E. James",
@@ -278117,7 +278125,11 @@
   "license_url": null,
   "source_page_id": 10250319,
   "source_revision_id": null,
-  "source_sha1": "0b681e1e9a56d54ccaf086f1bab551ba5bf77f3b"
+  "source_sha1": "0b681e1e9a56d54ccaf086f1bab551ba5bf77f3b",
+  "tags": [
+   "schoolhouse",
+   "trees"
+  ]
  },
  {
   "title": "Fountain",
@@ -278186,7 +278198,11 @@
   "license_url": null,
   "source_page_id": 10250126,
   "source_revision_id": null,
-  "source_sha1": "19b7dd0ae6905fa74384ac7e5e7ba034ad0fe49e"
+  "source_sha1": "19b7dd0ae6905fa74384ac7e5e7ba034ad0fe49e",
+  "tags": [
+   "fountain",
+   "trees"
+  ]
  },
  {
   "title": "Genesee St",
@@ -278255,6 +278271,10 @@
   "license_url": null,
   "source_page_id": 10250122,
   "source_revision_id": null,
-  "source_sha1": "6a89b8cca5137d7fa54295450ea693c4b6865429"
+  "source_sha1": "6a89b8cca5137d7fa54295450ea693c4b6865429",
+  "tags": [
+   "main street",
+   "streetcar"
+  ]
  }
 ]
