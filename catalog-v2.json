@@ -280387,7 +280387,11 @@
   "license_url": null,
   "source_page_id": 10069009,
   "source_revision_id": null,
-  "source_sha1": "17f2f171553c52f19a9893c1e616c0df5f6e5e0d"
+  "source_sha1": "17f2f171553c52f19a9893c1e616c0df5f6e5e0d",
+  "tags": [
+   "garden",
+   "trees"
+  ]
  },
  {
   "title": "Art Gallery, Vassar College, by Pach, G. W. (Gustavus W.), 1845-1904",
@@ -280456,7 +280460,11 @@
   "license_url": null,
   "source_page_id": 10069069,
   "source_revision_id": null,
-  "source_sha1": "617959139bbc2efaa5da19cd01009a08d96eb22e"
+  "source_sha1": "617959139bbc2efaa5da19cd01009a08d96eb22e",
+  "tags": [
+   "museum exhibit",
+   "statue"
+  ]
  },
  {
   "title": "Art Gallery, Vassar College, by Pach, G. W. (Gustavus W.), 1845-1904 2",
@@ -280525,7 +280533,11 @@
   "license_url": null,
   "source_page_id": 10069078,
   "source_revision_id": null,
-  "source_sha1": "4f1b2cfea075ac0cba5547347d5584992f425297"
+  "source_sha1": "4f1b2cfea075ac0cba5547347d5584992f425297",
+  "tags": [
+   "museum exhibit",
+   "statue"
+  ]
  },
  {
   "title": "Art Gallery, Vassar College, by Pach, G. W. (Gustavus W.), 1845-1904 3",
@@ -280594,7 +280606,11 @@
   "license_url": null,
   "source_page_id": 10069085,
   "source_revision_id": null,
-  "source_sha1": "0a389df041fdf87db20492c43dd457cc03d8edd6"
+  "source_sha1": "0a389df041fdf87db20492c43dd457cc03d8edd6",
+  "tags": [
+   "museum exhibit",
+   "statue"
+  ]
  },
  {
   "title": "Art Gallery, Vassar College, by Pach, G. W. (Gustavus W.), 1845-1904 4",
@@ -280663,7 +280679,11 @@
   "license_url": null,
   "source_page_id": 10069091,
   "source_revision_id": null,
-  "source_sha1": "f5b1a2ecedf3ffb0a1b8398febf0cdaa98277e10"
+  "source_sha1": "f5b1a2ecedf3ffb0a1b8398febf0cdaa98277e10",
+  "tags": [
+   "museum exhibit",
+   "statue"
+  ]
  },
  {
   "title": "Art Gallery, Vassar College, with Apollo Belvedere, by Pach, G. W. (Gustavus W.), 1845-1904",
@@ -280732,7 +280752,11 @@
   "license_url": null,
   "source_page_id": 10069098,
   "source_revision_id": null,
-  "source_sha1": "5633de35ff9c3dba74e28b00565eb5bad4b83e26"
+  "source_sha1": "5633de35ff9c3dba74e28b00565eb5bad4b83e26",
+  "tags": [
+   "museum exhibit",
+   "statue"
+  ]
  },
  {
   "title": "Boating on Lake, Vassar College, by Littleton View Co.",
@@ -280803,7 +280827,11 @@
   "license_url": null,
   "source_page_id": 10068992,
   "source_revision_id": null,
-  "source_sha1": "967324622f30f9825f7455aa71183d281e302641"
+  "source_sha1": "967324622f30f9825f7455aa71183d281e302641",
+  "tags": [
+   "rowboat",
+   "lake"
+  ]
  },
  {
   "title": "R.R. Bridge, Poughkeepsie, N.Y. - Hudson River (NYPL b13395597-G91F133 004F)",
@@ -280874,6 +280902,11 @@
   "license_url": null,
   "source_page_id": 50187132,
   "source_revision_id": null,
-  "source_sha1": "005190d126f36c13901c43c727fc3304ac8a2786"
+  "source_sha1": "005190d126f36c13901c43c727fc3304ac8a2786",
+  "tags": [
+   "bridge",
+   "river",
+   "steamboat"
+  ]
  }
 ]
