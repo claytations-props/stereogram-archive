@@ -280976,7 +280976,11 @@
   "license_url": null,
   "source_page_id": 10069160,
   "source_revision_id": null,
-  "source_sha1": "b9f059fb8cc3bf7ff56c1de96720d41418ea0d6d"
+  "source_sha1": "b9f059fb8cc3bf7ff56c1de96720d41418ea0d6d",
+  "tags": [
+   "chicken",
+   "trees"
+  ]
  },
  {
   "title": "Encampment of cadets ... Po'keepsie, by Slee Bros.",
@@ -281045,7 +281049,11 @@
   "license_url": null,
   "source_page_id": 10069151,
   "source_revision_id": null,
-  "source_sha1": "6c18b7e3904bea2b1723b2d6d738289aea18fb00"
+  "source_sha1": "6c18b7e3904bea2b1723b2d6d738289aea18fb00",
+  "tags": [
+   "encampment",
+   "trees"
+  ]
  },
  {
   "title": "Interior view of Practical, Banking and Office Departments, by Vail, J. G. (James Gardner), 1842-1929 3",
@@ -281114,7 +281122,11 @@
   "license_url": null,
   "source_page_id": 10069207,
   "source_revision_id": null,
-  "source_sha1": "d0b6e74b4f0804926d2ad8781965a84ac2cd7de9"
+  "source_sha1": "d0b6e74b4f0804926d2ad8781965a84ac2cd7de9",
+  "tags": [
+   "schoolhouse",
+   "portrait group"
+  ]
  },
  {
   "title": "Interior view of Practical, Banking and Office Departments, by Vail, J. G. (James Gardner), 1842-1929 4",
@@ -281183,7 +281195,11 @@
   "license_url": null,
   "source_page_id": 10069214,
   "source_revision_id": null,
-  "source_sha1": "624331320fc9634e94d4734a74e8b163add94d11"
+  "source_sha1": "624331320fc9634e94d4734a74e8b163add94d11",
+  "tags": [
+   "schoolhouse",
+   "portrait group"
+  ]
  },
  {
   "title": "Interior view of Practical, Banking and Office Departments",
@@ -281252,6 +281268,10 @@
   "license_url": null,
   "source_page_id": 10069194,
   "source_revision_id": null,
-  "source_sha1": "4ab6b043f0ea380fdd343d264ac13653863fe6eb"
+  "source_sha1": "4ab6b043f0ea380fdd343d264ac13653863fe6eb",
+  "tags": [
+   "schoolhouse",
+   "portrait group"
+  ]
  }
 ]
