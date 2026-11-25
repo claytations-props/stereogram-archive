@@ -274334,5 +274334,557 @@
    "monument",
    "trees"
   ]
+ },
+ {
+  "title": "German Insurance Co's Block, Rochester, N.Y",
+  "place": "Rochester, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/German_Insurance_Co%27s_Block%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-German_Insurance_Co%27s_Block%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/72/German_Insurance_Co%27s_Block%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:German_Insurance_Co%27s_Block,_Rochester,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2687,
+  "h": 1384,
+  "id": "STA-3733",
+  "rect": "rect/3732.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.04,
+  "range": 1.96,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.2661,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/German_Insurance_Co%27s_Block%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-German_Insurance_Co%27s_Block%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2661,
+   "L": [
+    0.398958,
+    0.0,
+    0.089323,
+    0.0,
+    0.611729,
+    0.259353
+   ],
+   "R": [
+    0.398306,
+    -0.002084,
+    0.516309,
+    0.00227,
+    0.613483,
+    0.233879
+   ],
+   "g": [
+    1.0,
+    0.9949
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.04° of rotation. Depth measured moderate (1.96% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10069372,
+  "source_revision_id": null,
+  "source_sha1": "dc8386060bceeee07af676e55e5d59f68b3753a5"
+ },
+ {
+  "title": "Driving Park Avenue Bridge, Rochester, N.Y",
+  "place": "Rochester, New York",
+  "year": "c. 1890",
+  "sy": 1890,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Driving_Park_Avenue_Bridge%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Driving_Park_Avenue_Bridge%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Driving_Park_Avenue_Bridge%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Driving_Park_Avenue_Bridge,_Rochester,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2651,
+  "h": 1616,
+  "id": "STA-3734",
+  "rect": "rect/3733.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.03,
+  "range": 1.72,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.9728,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Driving_Park_Avenue_Bridge%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Driving_Park_Avenue_Bridge%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9728,
+   "L": [
+    0.390625,
+    0.0,
+    0.095052,
+    0.0,
+    0.658974,
+    0.302137
+   ],
+   "R": [
+    0.391817,
+    -0.002359,
+    0.516378,
+    0.002214,
+    0.657051,
+    0.297276
+   ],
+   "g": [
+    0.9898,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.03° of rotation. Depth measured moderate (1.72% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1890~",
+  "date_start": 1885,
+  "date_end": 1895,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10069912,
+  "source_revision_id": null,
+  "source_sha1": "8d7f4b178450e2e564e120820d348f6647e42111"
+ },
+ {
+  "title": "State St., from the corners, Rochester, N.Y",
+  "place": "Rochester, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/State_St.%2C_from_the_corners%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-State_St.%2C_from_the_corners%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/64/State_St.%2C_from_the_corners%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:State_St.,_from_the_corners,_Rochester,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2633,
+  "h": 1378,
+  "id": "STA-3735",
+  "rect": "rect/3734.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.04,
+  "range": 0.61,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.974,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/State_St.%2C_from_the_corners%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-State_St.%2C_from_the_corners%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.974,
+   "L": [
+    0.390104,
+    0.0,
+    0.091406,
+    0.0,
+    0.765174,
+    0.042289
+   ],
+   "R": [
+    0.389093,
+    -0.003013,
+    0.510327,
+    -0.001221,
+    0.76544,
+    0.054188
+   ],
+   "g": [
+    1.0,
+    0.8621
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.04° of rotation. Depth measured gentle (0.61% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10069385,
+  "source_revision_id": null,
+  "source_sha1": "cd33b8fbba1ddbfc9cb66088e5e3a2c39c980598"
+ },
+ {
+  "title": "Prof. King's Baloon at Rochester, N.Y",
+  "place": "Rochester, New York",
+  "year": "1872",
+  "sy": 1872,
+  "era": "mid",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Prof._King%27s_Baloon_at_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Prof._King%27s_Baloon_at_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Prof._King%27s_Baloon_at_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Prof._King%27s_Baloon_at_Rochester,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1372,
+  "id": "STA-3736",
+  "rect": "rect/3735.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.16,
+  "rot": 0.02,
+  "range": 0.62,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1243,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Prof._King%27s_Baloon_at_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Prof._King%27s_Baloon_at_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1243,
+   "L": [
+    0.329688,
+    0.0,
+    0.153385,
+    0.0,
+    0.569262,
+    0.315976
+   ],
+   "R": [
+    0.329134,
+    -0.007141,
+    0.575776,
+    0.002555,
+    0.568466,
+    0.319769
+   ],
+   "g": [
+    0.9205,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.02° of rotation. Depth measured gentle (0.62% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "people"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1872",
+  "date_start": 1872,
+  "date_end": 1872,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10069354,
+  "source_revision_id": null,
+  "source_sha1": "7d7a4876095cca39bf0e695d3acb0266c8cfa982"
+ },
+ {
+  "title": "Rochester Driving Park. The Judge's Stand",
+  "place": "Rochester, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Rochester_Driving_Park._The_Judge%27s_Stand%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Rochester_Driving_Park._The_Judge%27s_Stand%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Rochester_Driving_Park._The_Judge%27s_Stand%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Rochester_Driving_Park._The_Judge%27s_Stand,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2651,
+  "h": 1378,
+  "id": "STA-3737",
+  "rect": "rect/3736.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.02,
+  "range": 2.93,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.9451,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Rochester_Driving_Park._The_Judge%27s_Stand%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Rochester_Driving_Park._The_Judge%27s_Stand%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9451,
+   "L": [
+    0.367708,
+    0.0,
+    0.111719,
+    0.0,
+    0.748497,
+    0.111723
+   ],
+   "R": [
+    0.369801,
+    0.001257,
+    0.531106,
+    -0.000862,
+    0.745284,
+    0.111629
+   ],
+   "g": [
+    1.0,
+    0.9369
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.02° of rotation. Depth measured deep (2.93% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10069326,
+  "source_revision_id": null,
+  "source_sha1": "07fc9e3e31d1ec8d137905afc9ce86fab133f6d3"
+ },
+ {
+  "title": "Genesee Lower Falls and River Bed, Rochester, N.Y",
+  "place": "Rochester, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Genesee_Lower_Falls_and_River_Bed%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Genesee_Lower_Falls_and_River_Bed%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/65/Genesee_Lower_Falls_and_River_Bed%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Genesee_Lower_Falls_and_River_Bed,_Rochester,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2651,
+  "h": 1390,
+  "id": "STA-3738",
+  "rect": "rect/3737.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.04,
+  "range": 1.16,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8813,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Genesee_Lower_Falls_and_River_Bed%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Genesee_Lower_Falls_and_River_Bed%2C_Rochester%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8813,
+   "L": [
+    0.382812,
+    0.0,
+    0.100781,
+    0.0,
+    0.828203,
+    0.113704
+   ],
+   "R": [
+    0.388103,
+    -0.015607,
+    0.526419,
+    -0.002553,
+    0.829342,
+    0.12234
+   ],
+   "g": [
+    0.9634,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.04° of rotation. Depth measured gentle (1.16% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10069426,
+  "source_revision_id": null,
+  "source_sha1": "6083fa258007c44200882636898aa07f6820c265"
+ },
+ {
+  "title": "View of Rochester, by William Cant",
+  "place": "Rochester, New York",
+  "year": "c. 1885",
+  "sy": 1885,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/View_of_Rochester%2C_by_William_Cant.png/1920px-View_of_Rochester%2C_by_William_Cant.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/cc/View_of_Rochester%2C_by_William_Cant.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_Rochester,_by_William_Cant.png",
+  "license": "Public domain",
+  "w": 2669,
+  "h": 1592,
+  "id": "STA-3739",
+  "rect": "rect/3738.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.01,
+  "range": 0.85,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8539,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/View_of_Rochester%2C_by_William_Cant.png/1920px-View_of_Rochester%2C_by_William_Cant.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8539,
+   "L": [
+    0.371354,
+    0.0,
+    0.120573,
+    0.0,
+    0.729258,
+    0.031004
+   ],
+   "R": [
+    0.373574,
+    0.005717,
+    0.510358,
+    -0.000823,
+    0.730476,
+    0.03294
+   ],
+   "g": [
+    0.9991,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured gentle (0.85% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "William Cant",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1885~",
+  "date_start": 1880,
+  "date_end": 1890,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10069788,
+  "source_revision_id": null,
+  "source_sha1": "49161600b695ec4ecda0b053bf3957a0db2925db"
+ },
+ {
+  "title": "View of a bridge in Rochester, by William Cant",
+  "place": "Rochester, New York",
+  "year": "c. 1880",
+  "sy": 1880,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/View_of_a_bridge_in_Rochester%2C_by_William_Cant.png/1920px-View_of_a_bridge_in_Rochester%2C_by_William_Cant.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/43/View_of_a_bridge_in_Rochester%2C_by_William_Cant.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_bridge_in_Rochester,_by_William_Cant.png",
+  "license": "Public domain",
+  "w": 2669,
+  "h": 1598,
+  "id": "STA-3740",
+  "rect": "rect/3739.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 1.12,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2007,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/View_of_a_bridge_in_Rochester%2C_by_William_Cant.png/1920px-View_of_a_bridge_in_Rochester%2C_by_William_Cant.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2007,
+   "L": [
+    0.358333,
+    0.0,
+    0.12526,
+    0.0,
+    0.498261,
+    0.471739
+   ],
+   "R": [
+    0.361211,
+    -0.012942,
+    0.523239,
+    -0.003853,
+    0.499752,
+    0.465685
+   ],
+   "g": [
+    1.0,
+    0.9487
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (1.12% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "William Cant",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1880~",
+  "date_start": 1875,
+  "date_end": 1885,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10069782,
+  "source_revision_id": null,
+  "source_sha1": "64d0b0210087ae4d05449fee19878c186fc6be2b"
  }
 ]

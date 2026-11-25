@@ -1,0 +1,69 @@
+{
+ "title": "View of Rochester, by William Cant",
+ "place": "Rochester, New York",
+ "year": "c. 1885",
+ "sy": 1885,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/View_of_Rochester%2C_by_William_Cant.png/1920px-View_of_Rochester%2C_by_William_Cant.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/cc/View_of_Rochester%2C_by_William_Cant.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_Rochester,_by_William_Cant.png",
+ "license": "Public domain",
+ "w": 2669,
+ "h": 1592,
+ "id": "STA-3739",
+ "rect": "rect/3738.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.07,
+ "rot": 0.01,
+ "range": 0.85,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8539,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/View_of_Rochester%2C_by_William_Cant.png/1920px-View_of_Rochester%2C_by_William_Cant.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8539,
+  "L": [
+   0.371354,
+   0.0,
+   0.120573,
+   0.0,
+   0.729258,
+   0.031004
+  ],
+  "R": [
+   0.373574,
+   0.005717,
+   0.510358,
+   -0.000823,
+   0.730476,
+   0.03294
+  ],
+  "g": [
+   0.9991,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured gentle (0.85% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "William Cant",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1885~",
+ "date_start": 1880,
+ "date_end": 1890,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10069788,
+ "source_revision_id": null,
+ "source_sha1": "49161600b695ec4ecda0b053bf3957a0db2925db"
+}
