@@ -279656,7 +279656,11 @@
   "license_url": null,
   "source_page_id": 10250279,
   "source_revision_id": null,
-  "source_sha1": "eadf2bf8ec875c036a4ac9d0a3d8f15438d53e90"
+  "source_sha1": "eadf2bf8ec875c036a4ac9d0a3d8f15438d53e90",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "Street view, by C. H. Scofield",
@@ -279725,7 +279729,12 @@
   "license_url": null,
   "source_page_id": 10250183,
   "source_revision_id": null,
-  "source_sha1": "ff2eaf12f456d0a16b94f5156b99a36dfc89933e"
+  "source_sha1": "ff2eaf12f456d0a16b94f5156b99a36dfc89933e",
+  "tags": [
+   "main street",
+   "sleigh",
+   "snow"
+  ]
  },
  {
   "title": "Trinity Church, Utica, 1868. The oldest church in the city, by Mundy & Williams",
@@ -279794,7 +279803,11 @@
   "license_url": null,
   "source_page_id": 10250132,
   "source_revision_id": null,
-  "source_sha1": "2c42f5d19cc498c3fa6be222b9c7dbd1ae3815bc"
+  "source_sha1": "2c42f5d19cc498c3fa6be222b9c7dbd1ae3815bc",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "View from a garden, by Williams, L. B., 1833-1907",
@@ -279863,6 +279876,10 @@
   "license_url": null,
   "source_page_id": 10250398,
   "source_revision_id": null,
-  "source_sha1": "13d9d79fa61314e38dc4e04800f2e7cfb031c0a5"
+  "source_sha1": "13d9d79fa61314e38dc4e04800f2e7cfb031c0a5",
+  "tags": [
+   "garden",
+   "trees"
+  ]
  }
 ]
