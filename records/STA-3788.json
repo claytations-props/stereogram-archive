@@ -1,0 +1,69 @@
+{
+ "title": "Genesee Street, Arcade, by C. H. Scofield",
+ "place": "Utica, New York",
+ "year": "1866",
+ "sy": 1866,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Genesee_Street%2C_Arcade%2C_by_C._H._Scofield.jpg/1920px-Genesee_Street%2C_Arcade%2C_by_C._H._Scofield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/56/Genesee_Street%2C_Arcade%2C_by_C._H._Scofield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Genesee_Street,_Arcade,_by_C._H._Scofield.jpg",
+ "license": "Public domain",
+ "w": 2625,
+ "h": 1320,
+ "id": "STA-3788",
+ "rect": "rect/3787.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.17,
+ "rot": 0.0,
+ "range": 0.48,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.8166,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Genesee_Street%2C_Arcade%2C_by_C._H._Scofield.jpg/1920px-Genesee_Street%2C_Arcade%2C_by_C._H._Scofield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.8166,
+  "L": [
+   0.422917,
+   0.0,
+   0.070573,
+   0.0,
+   0.463212,
+   0.330052
+  ],
+  "R": [
+   0.424705,
+   -0.003194,
+   0.508192,
+   0.006657,
+   0.465213,
+   0.323221
+  ],
+  "g": [
+   0.9125,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.0° of rotation. Depth measured gentle (0.48% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "C. H. Scofield",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1866",
+ "date_start": 1866,
+ "date_end": 1866,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10250079,
+ "source_revision_id": null,
+ "source_sha1": "c56b92cd52b2c30119bb15794e56fccfbfafb35c"
+}
