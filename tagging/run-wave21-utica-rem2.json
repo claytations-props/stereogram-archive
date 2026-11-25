@@ -1,0 +1,9 @@
+{"assignments": {
+  "STA-3787": {"tags": ["house", "trees"], "conf": "high"},
+  "STA-3788": {"tags": ["main street", "storefront"], "conf": "high"},
+  "STA-3789": {"tags": ["main street", "trees"], "conf": "high"},
+  "STA-3790": {"tags": ["main street", "storefront"], "conf": "high"},
+  "STA-3791": {"tags": ["crowd", "main street"], "conf": "high"},
+  "STA-3792": {"tags": ["church", "main street"], "conf": "high"},
+  "STA-3793": {"tags": ["factory", "river"], "conf": "high"}
+}}
