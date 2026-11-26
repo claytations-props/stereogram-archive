@@ -282833,5 +282833,419 @@
   "source_page_id": 53537565,
   "source_revision_id": null,
   "source_sha1": "a45f3960084bd590b07169b3a64daf9d691629b1"
+ },
+ {
+  "title": "Cathedral (interior view)",
+  "place": "Albany, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Cathedral_%28interior_view%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cathedral_%28interior_view%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Cathedral_%28interior_view%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cathedral_(interior_view),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2517,
+  "h": 1254,
+  "id": "STA-3850",
+  "rect": "rect/3849.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.07,
+  "range": 9.32,
+  "f": 0.47,
+  "depth": "Deep",
+  "va": 0.7227,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Cathedral_%28interior_view%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cathedral_%28interior_view%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7227,
+   "L": [
+    0.333854,
+    0.0,
+    0.141927,
+    0.0,
+    0.926855,
+    0.037095
+   ],
+   "R": [
+    0.337531,
+    -0.005303,
+    0.576869,
+    0.004375,
+    0.938712,
+    0.025368
+   ],
+   "g": [
+    0.8818,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.07° of rotation. Depth measured deep (9.32% of frame width); hung in the VR Parlor at 47% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "oddities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077379,
+  "source_revision_id": null,
+  "source_sha1": "c3c2aea8ab8803929db101a46df00288ba5de7f5"
+ },
+ {
+  "title": "Cathedral (interior view), from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Albany, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Cathedral_%28interior_view%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Cathedral_%28interior_view%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cathedral_%28interior_view%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cathedral_(interior_view),_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2529,
+  "h": 1263,
+  "id": "STA-3851",
+  "rect": "rect/3850.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.04,
+  "range": 1.74,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.9422,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Cathedral_%28interior_view%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Cathedral_%28interior_view%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9422,
+   "L": [
+    0.33125,
+    0.0,
+    0.085677,
+    0.0,
+    0.703858,
+    0.049531
+   ],
+   "R": [
+    0.338977,
+    -0.00207,
+    0.512048,
+    0.004493,
+    0.71376,
+    0.027318
+   ],
+   "g": [
+    0.9975,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.04° of rotation. Depth measured moderate (1.74% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "oddities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077386,
+  "source_revision_id": null,
+  "source_sha1": "ace99b7ca08bb01f44210d7f13cdca36dc56f855"
+ },
+ {
+  "title": "Church, from Robert N. Dennis collection of stereoscopic views 4",
+  "place": "Albany, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg/1920px-Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Church,_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg",
+  "license": "Public domain",
+  "w": 2625,
+  "h": 1626,
+  "id": "STA-3852",
+  "rect": "rect/3851.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.12,
+  "range": 1.12,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7331,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg/1920px-Church%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7331,
+   "L": [
+    0.379167,
+    0.0,
+    0.104427,
+    0.0,
+    0.835156,
+    0.067704
+   ],
+   "R": [
+    0.382892,
+    0.005593,
+    0.520063,
+    -0.002148,
+    0.848162,
+    0.035451
+   ],
+   "g": [
+    1.0,
+    0.9711
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.12° of rotation. Depth measured gentle (1.12% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077574,
+  "source_revision_id": null,
+  "source_sha1": "348c0cc5cd2d38f8a57610858b0b73f5b7e36676"
+ },
+ {
+  "title": "Court of Appeals",
+  "place": "Albany, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Court_of_Appeals%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Court_of_Appeals%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Court_of_Appeals%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Court_of_Appeals,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2701,
+  "h": 1721,
+  "id": "STA-3853",
+  "rect": "rect/3852.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.03,
+  "range": 2.13,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.1814,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Court_of_Appeals%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Court_of_Appeals%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1814,
+   "L": [
+    0.403646,
+    0.0,
+    0.067448,
+    0.0,
+    0.536386,
+    0.098528
+   ],
+   "R": [
+    0.396993,
+    -0.004974,
+    0.525699,
+    0.009886,
+    0.531214,
+    0.088273
+   ],
+   "g": [
+    1.0,
+    0.9661
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.03° of rotation. Depth measured moderate (2.13% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "oddities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077471,
+  "source_revision_id": null,
+  "source_sha1": "5ba3637d51bb6f1764b35fe2770c33f42bd028be"
+ },
+ {
+  "title": "Fire place, Assembly (Chamber), by Aaron Veeder",
+  "place": "Albany, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Fire_place%2C_Assembly_%28Chamber%29%2C_by_Aaron_Veeder.jpg/1920px-Fire_place%2C_Assembly_%28Chamber%29%2C_by_Aaron_Veeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/02/Fire_place%2C_Assembly_%28Chamber%29%2C_by_Aaron_Veeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Fire_place,_Assembly_(Chamber),_by_Aaron_Veeder.jpg",
+  "license": "Public domain",
+  "w": 2676,
+  "h": 1659,
+  "id": "STA-3854",
+  "rect": "rect/3853.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.0,
+  "range": 7.06,
+  "f": 0.51,
+  "depth": "Deep",
+  "va": 0.8775,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Fire_place%2C_Assembly_%28Chamber%29%2C_by_Aaron_Veeder.jpg/1920px-Fire_place%2C_Assembly_%28Chamber%29%2C_by_Aaron_Veeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8775,
+   "L": [
+    0.391667,
+    0.0,
+    0.09401,
+    0.0,
+    0.720168,
+    0.120588
+   ],
+   "R": [
+    0.390679,
+    0.001107,
+    0.512856,
+    -0.000589,
+    0.719039,
+    0.120098
+   ],
+   "g": [
+    1.0,
+    0.9728
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured deep (7.06% of frame width); hung in the VR Parlor at 51% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Aaron Veeder",
+  "creator_dates": null,
+  "facets": [
+   "oddities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077783,
+  "source_revision_id": null,
+  "source_sha1": "2355b94c7b54352bd9365fafe8362541b9453e76"
+ },
+ {
+  "title": "Fireplace, Assembly Chamber",
+  "place": "Albany, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Fireplace%2C_Assembly_Chamber%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Fireplace%2C_Assembly_Chamber%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Fireplace%2C_Assembly_Chamber%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Fireplace,_Assembly_Chamber,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2631,
+  "h": 1623,
+  "id": "STA-3855",
+  "rect": "rect/3854.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.02,
+  "range": 13.02,
+  "f": 0.31,
+  "depth": "Deep",
+  "va": 0.7721,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Fireplace%2C_Assembly_Chamber%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Fireplace%2C_Assembly_Chamber%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7721,
+   "L": [
+    0.328125,
+    0.0,
+    0.048177,
+    0.0,
+    0.689189,
+    0.178632
+   ],
+   "R": [
+    0.328959,
+    0.000113,
+    0.516977,
+    -0.002682,
+    0.691937,
+    0.194443
+   ],
+   "g": [
+    0.832,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.02° of rotation. Depth measured deep (13.02% of frame width); hung in the VR Parlor at 31% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "oddities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077526,
+  "source_revision_id": null,
+  "source_sha1": "0388f8a1e6e2fe622e703748ca6045e571f91711"
  }
 ]
