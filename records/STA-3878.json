@@ -1,0 +1,69 @@
+{
+ "title": "State Street and Capitol, by Aaron Veeder",
+ "place": "Albany, New York",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/State_Street_and_Capitol%2C_by_Aaron_Veeder.jpg/1920px-State_Street_and_Capitol%2C_by_Aaron_Veeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/f9/State_Street_and_Capitol%2C_by_Aaron_Veeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:State_Street_and_Capitol,_by_Aaron_Veeder.jpg",
+ "license": "Public domain",
+ "w": 2688,
+ "h": 1721,
+ "id": "STA-3878",
+ "rect": "rect/3877.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.08,
+ "rot": 0.01,
+ "range": 0.25,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.6883,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/State_Street_and_Capitol%2C_by_Aaron_Veeder.jpg/1920px-State_Street_and_Capitol%2C_by_Aaron_Veeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.6883,
+  "L": [
+   0.396875,
+   0.0,
+   0.086198,
+   0.0,
+   0.900732,
+   0.02319
+  ],
+  "R": [
+   0.396235,
+   -0.002959,
+   0.510493,
+   -0.000206,
+   0.899888,
+   0.032955
+  ],
+  "g": [
+   1.0,
+   0.9526
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured gentle (0.25% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Aaron Veeder",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10077893,
+ "source_revision_id": null,
+ "source_sha1": "5c9edd94a6e2ed4c6492caa8e37a05a03db99b4f"
+}
