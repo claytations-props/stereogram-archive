@@ -1,0 +1,69 @@
+{
+ "title": "Residence of L.J. Fisk, by Goldsmith & Lazelle",
+ "place": "Springfield, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Residence_of_L.J._Fisk%2C_by_Goldsmith_%26_Lazelle.jpg/1920px-Residence_of_L.J._Fisk%2C_by_Goldsmith_%26_Lazelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Residence_of_L.J._Fisk%2C_by_Goldsmith_%26_Lazelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Residence_of_L.J._Fisk,_by_Goldsmith_%26_Lazelle.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1594,
+ "id": "STA-3921",
+ "rect": "rect/3920.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.1,
+ "rot": 0.02,
+ "range": 1.56,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.9368,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Residence_of_L.J._Fisk%2C_by_Goldsmith_%26_Lazelle.jpg/1920px-Residence_of_L.J._Fisk%2C_by_Goldsmith_%26_Lazelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9368,
+  "L": [
+   0.455208,
+   0.0,
+   0.03776,
+   0.0,
+   0.834526,
+   0.060376
+  ],
+  "R": [
+   0.454385,
+   0.01132,
+   0.506199,
+   -0.010093,
+   0.836097,
+   0.056499
+  ],
+  "g": [
+   0.9713,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured moderate (1.56% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Goldsmith & Lazelle",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7447754,
+ "source_revision_id": null,
+ "source_sha1": "729b6c617808aa3631bb50cf9955a683972979ba"
+}

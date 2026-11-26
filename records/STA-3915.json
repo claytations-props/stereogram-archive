@@ -1,0 +1,69 @@
+{
+ "title": "New high school building, by E. C. Powers",
+ "place": "Springfield, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/New_high_school_building%2C_by_E._C._Powers.jpg/1920px-New_high_school_building%2C_by_E._C._Powers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/a1/New_high_school_building%2C_by_E._C._Powers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:New_high_school_building,_by_E._C._Powers.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1454,
+ "id": "STA-3915",
+ "rect": "rect/3914.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.09,
+ "rot": 0.04,
+ "range": 16.74,
+ "f": 0.3,
+ "depth": "Deep",
+ "va": 0.7268,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/New_high_school_building%2C_by_E._C._Powers.jpg/1920px-New_high_school_building%2C_by_E._C._Powers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7268,
+  "L": [
+   0.329688,
+   0.0,
+   0.123177,
+   0.0,
+   0.853922,
+   0.055392
+  ],
+  "R": [
+   0.3288,
+   -0.001964,
+   0.558757,
+   -0.001821,
+   0.85485,
+   0.071731
+  ],
+  "g": [
+   1.0,
+   0.9833
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.04° of rotation. Depth measured deep (16.74% of frame width); hung in the VR Parlor at 30% size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "E. C. Powers",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7447607,
+ "source_revision_id": null,
+ "source_sha1": "4b1637c54c35306457ce886c87d05e42c0227bc8"
+}
