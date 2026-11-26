@@ -229571,5 +229571,713 @@
   "date_start": 1898,
   "date_end": 1908,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "After great fire of May 30, '75, by Milan P. Warner",
+  "place": "Springfield, Massachusetts",
+  "year": "1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/After_great_fire_of_May_30%2C_%2775%2C_by_Milan_P._Warner.jpg/1920px-After_great_fire_of_May_30%2C_%2775%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/2e/After_great_fire_of_May_30%2C_%2775%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:After_great_fire_of_May_30,_%2775,_by_Milan_P._Warner.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1549,
+  "id": "STA-3891",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3890.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.01,
+  "range": 0.82,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/After_great_fire_of_May_30%2C_%2775%2C_by_Milan_P._Warner.jpg/1920px-After_great_fire_of_May_30%2C_%2775%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0,
+   "L": [
+    0.385417,
+    0.0,
+    0.101823,
+    0.0,
+    0.680773,
+    0.267249
+   ],
+   "R": [
+    0.386252,
+    -0.00577,
+    0.511074,
+    0.000398,
+    0.682257,
+    0.265428
+   ],
+   "g": [
+    0.9345,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured gentle (0.82% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Milan P. Warner",
+  "date_edtf": "1875",
+  "date_start": 1875,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "B. & A. Railroad office, by E. & H.T. Anthony (Firm)",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/B._%26_A._Railroad_office%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg/1920px-B._%26_A._Railroad_office%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a1/B._%26_A._Railroad_office%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:B._%26_A._Railroad_office,_by_E._%26_H.T._Anthony_(Firm).jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1424,
+  "id": "STA-3892",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3891.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.0,
+  "range": 9.89,
+  "f": 0.36,
+  "depth": "Deep",
+  "va": 0.8894,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/B._%26_A._Railroad_office%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg/1920px-B._%26_A._Railroad_office%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8894,
+   "L": [
+    0.40625,
+    0.0,
+    0.083594,
+    0.0,
+    0.877878,
+    0.055556
+   ],
+   "R": [
+    0.406239,
+    -0.001551,
+    0.51019,
+    0.004763,
+    0.877469,
+    0.056046
+   ],
+   "g": [
+    0.9646,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.0° of rotation. Depth measured deep (9.89% of frame width); hung in the VR Parlor at 36% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "E. & H.T. Anthony (Firm)",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bill's block, by Milan P. Warner",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Bill%27s_block%2C_by_Milan_P._Warner.jpg/1920px-Bill%27s_block%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bill%27s_block%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bill%27s_block,_by_Milan_P._Warner.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1563,
+  "id": "STA-3893",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3892.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.03,
+  "range": 0.58,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.6929,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Bill%27s_block%2C_by_Milan_P._Warner.jpg/1920px-Bill%27s_block%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.6929,
+   "L": [
+    0.347917,
+    0.0,
+    0.123177,
+    0.0,
+    0.879562,
+    0.0625
+   ],
+   "R": [
+    0.348477,
+    0.001939,
+    0.538325,
+    -0.000277,
+    0.879047,
+    0.06475
+   ],
+   "g": [
+    0.9512,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.03° of rotation. Depth measured gentle (0.58% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Milan P. Warner",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bishop's House, by Milan P. Warner",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Bishop%27s_House%2C_by_Milan_P._Warner.jpg/1920px-Bishop%27s_House%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Bishop%27s_House%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bishop%27s_House,_by_Milan_P._Warner.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1581,
+  "id": "STA-3894",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3893.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.01,
+  "range": 1.79,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.0426,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Bishop%27s_House%2C_by_Milan_P._Warner.jpg/1920px-Bishop%27s_House%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0426,
+   "L": [
+    0.369271,
+    0.0,
+    0.107031,
+    0.0,
+    0.613165,
+    0.059964
+   ],
+   "R": [
+    0.36915,
+    0.003592,
+    0.525377,
+    -0.007159,
+    0.613453,
+    0.06094
+   ],
+   "g": [
+    0.9688,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.01° of rotation. Depth measured moderate (1.79% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Milan P. Warner",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bridge and Main Street, by Milan P. Warner",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Bridge_and_Main_Street%2C_by_Milan_P._Warner.jpg/1920px-Bridge_and_Main_Street%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bridge_and_Main_Street%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bridge_and_Main_Street,_by_Milan_P._Warner.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1592,
+  "id": "STA-3895",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3894.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.0,
+  "range": 0.43,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0107,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Bridge_and_Main_Street%2C_by_Milan_P._Warner.jpg/1920px-Bridge_and_Main_Street%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0107,
+   "L": [
+    0.394792,
+    0.0,
+    0.090365,
+    0.0,
+    0.671441,
+    0.055953
+   ],
+   "R": [
+    0.395425,
+    -0.0002,
+    0.505214,
+    0.000899,
+    0.673595,
+    0.052709
+   ],
+   "g": [
+    0.9944,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.0° of rotation. Depth measured gentle (0.43% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Milan P. Warner",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Church of the Unity, State Street, by E. & H.T. Anthony (Firm)",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Church_of_the_Unity%2C_State_Street%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg/1920px-Church_of_the_Unity%2C_State_Street%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Church_of_the_Unity%2C_State_Street%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Church_of_the_Unity,_State_Street,_by_E._%26_H.T._Anthony_(Firm).jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1425,
+  "id": "STA-3896",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3895.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.08,
+  "rot": 0.01,
+  "range": 0.66,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8826,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Church_of_the_Unity%2C_State_Street%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg/1920px-Church_of_the_Unity%2C_State_Street%2C_by_E._%26_H.T._Anthony_%28Firm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8826,
+   "L": [
+    0.399479,
+    0.0,
+    0.092448,
+    0.0,
+    0.869,
+    0.0615
+   ],
+   "R": [
+    0.398976,
+    0.00705,
+    0.506852,
+    -0.011091,
+    0.870637,
+    0.067012
+   ],
+   "g": [
+    1.0,
+    0.9755
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured gentle (0.66% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "E. & H.T. Anthony (Firm)",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Church of the Unity, by Milan P. Warner",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Church_of_the_Unity%2C_by_Milan_P._Warner.jpg/1920px-Church_of_the_Unity%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/22/Church_of_the_Unity%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Church_of_the_Unity,_by_Milan_P._Warner.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1600,
+  "id": "STA-3897",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3896.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.05,
+  "range": 0.78,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7795,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Church_of_the_Unity%2C_by_Milan_P._Warner.jpg/1920px-Church_of_the_Unity%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7795,
+   "L": [
+    0.403125,
+    0.0,
+    0.064844,
+    0.0,
+    0.885027,
+    0.057487
+   ],
+   "R": [
+    0.404614,
+    0.000269,
+    0.506283,
+    0.005007,
+    0.88894,
+    0.049895
+   ],
+   "g": [
+    0.9576,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.05° of rotation. Depth measured gentle (0.78% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Milan P. Warner",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Church of the Unity (Unitarian), by Herman Buchholz",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Church_of_the_Unity_%28Unitarian%29%2C_by_Herman_Buchholz.jpg/1920px-Church_of_the_Unity_%28Unitarian%29%2C_by_Herman_Buchholz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Church_of_the_Unity_%28Unitarian%29%2C_by_Herman_Buchholz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Church_of_the_Unity_(Unitarian),_by_Herman_Buchholz.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1457,
+  "id": "STA-3898",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3897.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.17,
+  "rot": 0.0,
+  "range": 0.59,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.3205,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Church_of_the_Unity_%28Unitarian%29%2C_by_Herman_Buchholz.jpg/1920px-Church_of_the_Unity_%28Unitarian%29%2C_by_Herman_Buchholz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3205,
+   "L": [
+    0.409896,
+    0.0,
+    0.078906,
+    0.0,
+    0.58317,
+    0.34002
+   ],
+   "R": [
+    0.414305,
+    0.000364,
+    0.509695,
+    0.003435,
+    0.589008,
+    0.342319
+   ],
+   "g": [
+    1.0,
+    0.9855
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.0° of rotation. Depth measured gentle (0.59% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Herman Buchholz",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "City Library, by Milan P. Warner",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/City_Library%2C_by_Milan_P._Warner.jpg/1920px-City_Library%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/3c/City_Library%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:City_Library,_by_Milan_P._Warner.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1561,
+  "id": "STA-3899",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3898.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.02,
+  "range": 2.77,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.7404,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/City_Library%2C_by_Milan_P._Warner.jpg/1920px-City_Library%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7404,
+   "L": [
+    0.360938,
+    0.0,
+    0.110677,
+    0.0,
+    0.854795,
+    0.060731
+   ],
+   "R": [
+    0.361225,
+    -0.000409,
+    0.525798,
+    0.002092,
+    0.855209,
+    0.065209
+   ],
+   "g": [
+    1.0,
+    0.9855
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.02° of rotation. Depth measured deep (2.77% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Milan P. Warner",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Court House, by Geo. H. Ireland & Co.",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Court_House%2C_by_Geo._H._Ireland_%26_Co..jpg/1920px-Court_House%2C_by_Geo._H._Ireland_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/94/Court_House%2C_by_Geo._H._Ireland_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Court_House,_by_Geo._H._Ireland_%26_Co..jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1425,
+  "id": "STA-3900",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3899.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 1.29,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8247,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Court_House%2C_by_Geo._H._Ireland_%26_Co..jpg/1920px-Court_House%2C_by_Geo._H._Ireland_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8247,
+   "L": [
+    0.365104,
+    0.0,
+    0.110156,
+    0.0,
+    0.85,
+    0.0675
+   ],
+   "R": [
+    0.362915,
+    -0.014952,
+    0.541157,
+    0.02162,
+    0.849781,
+    0.061503
+   ],
+   "g": [
+    0.9921,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (1.29% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Geo. H. Ireland & Co.",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Court Square, by J.B. Buguey & Company",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Court_Square%2C_by_J.B._Buguey_%26_Company.jpg/1920px-Court_Square%2C_by_J.B._Buguey_%26_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Court_Square%2C_by_J.B._Buguey_%26_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Court_Square,_by_J.B._Buguey_%26_Company.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1426,
+  "id": "STA-3901",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3900.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.14,
+  "rot": 0.01,
+  "range": 0.67,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.993,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Court_Square%2C_by_J.B._Buguey_%26_Company.jpg/1920px-Court_Square%2C_by_J.B._Buguey_%26_Company.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.993,
+   "L": [
+    0.368229,
+    0.0,
+    0.120052,
+    0.0,
+    0.712,
+    0.0555
+   ],
+   "R": [
+    0.36929,
+    0.001477,
+    0.528862,
+    -2.5e-05,
+    0.715033,
+    0.045171
+   ],
+   "g": [
+    1.0,
+    0.9906
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.01° of rotation. Depth measured gentle (0.67% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "J.B. Buguey & Company",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Depot from interior of bridge, by Geo. H. Ireland & Co.",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Depot_from_interior_of_bridge%2C_by_Geo._H._Ireland_%26_Co..jpg/1920px-Depot_from_interior_of_bridge%2C_by_Geo._H._Ireland_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Depot_from_interior_of_bridge%2C_by_Geo._H._Ireland_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Depot_from_interior_of_bridge,_by_Geo._H._Ireland_%26_Co..jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1404,
+  "id": "STA-3902",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3901.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.03,
+  "range": 12.08,
+  "f": 0.3,
+  "depth": "Deep",
+  "va": 0.8799,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Depot_from_interior_of_bridge%2C_by_Geo._H._Ireland_%26_Co..jpg/1920px-Depot_from_interior_of_bridge%2C_by_Geo._H._Ireland_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8799,
+   "L": [
+    0.396875,
+    0.0,
+    0.095573,
+    0.0,
+    0.879188,
+    0.071574
+   ],
+   "R": [
+    0.398124,
+    0.002188,
+    0.505506,
+    -0.000813,
+    0.882226,
+    0.062136
+   ],
+   "g": [
+    0.9816,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.03° of rotation. Depth measured deep (12.08% of frame width); hung in the VR Parlor at 30% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Geo. H. Ireland & Co.",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]

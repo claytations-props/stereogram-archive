@@ -1,0 +1,69 @@
+{
+ "title": "City Library, by Milan P. Warner",
+ "place": "Springfield, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/City_Library%2C_by_Milan_P._Warner.jpg/1920px-City_Library%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/3c/City_Library%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:City_Library,_by_Milan_P._Warner.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1561,
+ "id": "STA-3899",
+ "rect": "rect/3898.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.07,
+ "rot": 0.02,
+ "range": 2.77,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.7404,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/City_Library%2C_by_Milan_P._Warner.jpg/1920px-City_Library%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7404,
+  "L": [
+   0.360938,
+   0.0,
+   0.110677,
+   0.0,
+   0.854795,
+   0.060731
+  ],
+  "R": [
+   0.361225,
+   -0.000409,
+   0.525798,
+   0.002092,
+   0.855209,
+   0.065209
+  ],
+  "g": [
+   1.0,
+   0.9855
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.02° of rotation. Depth measured deep (2.77% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Milan P. Warner",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7447786,
+ "source_revision_id": null,
+ "source_sha1": "0e8f2bf798d6841dcb43c827478f5109b833d464"
+}
