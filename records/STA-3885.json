@@ -1,0 +1,69 @@
+{
+ "title": "The Grand Corridor, by Aaron Veeder",
+ "place": "Albany, New York",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/The_Grand_Corridor%2C_by_Aaron_Veeder.jpg/1920px-The_Grand_Corridor%2C_by_Aaron_Veeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/ee/The_Grand_Corridor%2C_by_Aaron_Veeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_Grand_Corridor,_by_Aaron_Veeder.jpg",
+ "license": "Public domain",
+ "w": 2655,
+ "h": 1773,
+ "id": "STA-3885",
+ "rect": "rect/3884.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.09,
+ "rot": 0.04,
+ "range": 2.77,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 0.8899,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/The_Grand_Corridor%2C_by_Aaron_Veeder.jpg/1920px-The_Grand_Corridor%2C_by_Aaron_Veeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8899,
+  "L": [
+   0.366146,
+   0.0,
+   0.114323,
+   0.0,
+   0.616225,
+   0.316303
+  ],
+  "R": [
+   0.380736,
+   -0.000643,
+   0.533652,
+   0.000692,
+   0.620587,
+   0.318885
+  ],
+  "g": [
+   0.9689,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.04° of rotation. Depth measured deep (2.77% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Aaron Veeder",
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10077764,
+ "source_revision_id": null,
+ "source_sha1": "5386a170b6bd56b2c2dde6aa56d92c92e8521801"
+}

@@ -1,0 +1,69 @@
+{
+ "title": "The Golden Corridor, by Aaron Veeder 2",
+ "place": "Albany, New York",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/The_Golden_Corridor%2C_by_Aaron_Veeder_2.jpg/1920px-The_Golden_Corridor%2C_by_Aaron_Veeder_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/54/The_Golden_Corridor%2C_by_Aaron_Veeder_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_Golden_Corridor,_by_Aaron_Veeder_2.jpg",
+ "license": "Public domain",
+ "w": 2676,
+ "h": 1647,
+ "id": "STA-3883",
+ "rect": "rect/3882.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.1,
+ "rot": 0.01,
+ "range": 1.86,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.7394,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/The_Golden_Corridor%2C_by_Aaron_Veeder_2.jpg/1920px-The_Golden_Corridor%2C_by_Aaron_Veeder_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7394,
+  "L": [
+   0.372396,
+   0.0,
+   0.097135,
+   0.0,
+   0.818105,
+   0.088409
+  ],
+  "R": [
+   0.369767,
+   -0.000947,
+   0.547889,
+   0.002971,
+   0.819696,
+   0.086587
+  ],
+  "g": [
+   0.8913,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured moderate (1.86% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Aaron Veeder",
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10077706,
+ "source_revision_id": null,
+ "source_sha1": "25c37725a9fb9338a8c370d226e159d2322d7a67"
+}

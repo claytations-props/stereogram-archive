@@ -1,0 +1,69 @@
+{
+ "title": "The Grand Staircase, by Aaron Veeder 3",
+ "place": "Albany, New York",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Grand_Staircase%2C_by_Aaron_Veeder_3.jpg/1920px-The_Grand_Staircase%2C_by_Aaron_Veeder_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/7f/The_Grand_Staircase%2C_by_Aaron_Veeder_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_Grand_Staircase,_by_Aaron_Veeder_3.jpg",
+ "license": "Public domain",
+ "w": 2685,
+ "h": 1728,
+ "id": "STA-3887",
+ "rect": "rect/3886.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.1,
+ "rot": 0.04,
+ "range": 1.23,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.7984,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Grand_Staircase%2C_by_Aaron_Veeder_3.jpg/1920px-The_Grand_Staircase%2C_by_Aaron_Veeder_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7984,
+  "L": [
+   0.404167,
+   0.0,
+   0.088281,
+   0.0,
+   0.786408,
+   0.101537
+  ],
+  "R": [
+   0.4047,
+   -0.003019,
+   0.517411,
+   -0.002417,
+   0.787527,
+   0.080672
+  ],
+  "g": [
+   0.8356,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.04° of rotation. Depth measured gentle (1.23% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Aaron Veeder",
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10077830,
+ "source_revision_id": null,
+ "source_sha1": "8644e509449ee4946eef074f6daf59944056531a"
+}
