@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 7447610,
  "source_revision_id": null,
- "source_sha1": "f7b6e1967fcdeba585df8f386054940f57864cd1"
+ "source_sha1": "f7b6e1967fcdeba585df8f386054940f57864cd1",
+ "tags": [
+  "rapids",
+  "river"
+ ]
 }

@@ -285847,7 +285847,12 @@
   "license_url": null,
   "source_page_id": 7447834,
   "source_revision_id": null,
-  "source_sha1": "1f8690c294d9d8abe3632161407586eb05bbc5d7"
+  "source_sha1": "1f8690c294d9d8abe3632161407586eb05bbc5d7",
+  "tags": [
+   "fire damage",
+   "factory",
+   "lumber yard"
+  ]
  },
  {
   "title": "B. & A. Railroad office, by E. & H.T. Anthony (Firm)",
@@ -285985,7 +285990,12 @@
   "license_url": null,
   "source_page_id": 7447827,
   "source_revision_id": null,
-  "source_sha1": "dd1c342e784c1fc8410749bd493621b1b6207279"
+  "source_sha1": "dd1c342e784c1fc8410749bd493621b1b6207279",
+  "tags": [
+   "main street",
+   "storefront",
+   "horse-drawn carriage"
+  ]
  },
  {
   "title": "Bishop's House, by Milan P. Warner",
@@ -286054,7 +286064,11 @@
   "license_url": null,
   "source_page_id": 7447758,
   "source_revision_id": null,
-  "source_sha1": "1ec6378f865fe992925cecf47c9db3e59bd2c802"
+  "source_sha1": "1ec6378f865fe992925cecf47c9db3e59bd2c802",
+  "tags": [
+   "house",
+   "trees"
+  ]
  },
  {
   "title": "Bridge and Main Street, by Milan P. Warner",
@@ -286123,7 +286137,12 @@
   "license_url": null,
   "source_page_id": 7447781,
   "source_revision_id": null,
-  "source_sha1": "e2eee91e21065a2585d365473e1423b568c3e47c"
+  "source_sha1": "e2eee91e21065a2585d365473e1423b568c3e47c",
+  "tags": [
+   "main street",
+   "storefront",
+   "trees"
+  ]
  },
  {
   "title": "Church of the Unity, State Street, by E. & H.T. Anthony (Firm)",
@@ -286192,7 +286211,11 @@
   "license_url": null,
   "source_page_id": 7447656,
   "source_revision_id": null,
-  "source_sha1": "cb76dfeef0f868e9659363fe2a146edcc8703c27"
+  "source_sha1": "cb76dfeef0f868e9659363fe2a146edcc8703c27",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "Church of the Unity, by Milan P. Warner",
@@ -286261,7 +286284,11 @@
   "license_url": null,
   "source_page_id": 7447776,
   "source_revision_id": null,
-  "source_sha1": "ef506d1d15b37d9909f2cf915ec0bfbd7acc7a53"
+  "source_sha1": "ef506d1d15b37d9909f2cf915ec0bfbd7acc7a53",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "Church of the Unity (Unitarian), by Herman Buchholz",
@@ -286330,7 +286357,11 @@
   "license_url": null,
   "source_page_id": 7447685,
   "source_revision_id": null,
-  "source_sha1": "3b1976b051fc56f607becc0f8f71acb12fc371b2"
+  "source_sha1": "3b1976b051fc56f607becc0f8f71acb12fc371b2",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "City Library, by Milan P. Warner",
@@ -286399,7 +286430,11 @@
   "license_url": null,
   "source_page_id": 7447786,
   "source_revision_id": null,
-  "source_sha1": "0e8f2bf798d6841dcb43c827478f5109b833d464"
+  "source_sha1": "0e8f2bf798d6841dcb43c827478f5109b833d464",
+  "tags": [
+   "library",
+   "trees"
+  ]
  },
  {
   "title": "Court House, by Geo. H. Ireland & Co.",
@@ -286468,7 +286503,12 @@
   "license_url": null,
   "source_page_id": 7447706,
   "source_revision_id": null,
-  "source_sha1": "16f2f15365ae349614fc3435aad513fc72d5c9e2"
+  "source_sha1": "16f2f15365ae349614fc3435aad513fc72d5c9e2",
+  "tags": [
+   "courthouse",
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "Court Square, by J.B. Buguey & Company",
@@ -286537,7 +286577,13 @@
   "license_url": null,
   "source_page_id": 7447680,
   "source_revision_id": null,
-  "source_sha1": "d585fc74983402bfc7e31058ec3354c643179d2d"
+  "source_sha1": "d585fc74983402bfc7e31058ec3354c643179d2d",
+  "tags": [
+   "town square",
+   "church",
+   "courthouse",
+   "trees"
+  ]
  },
  {
   "title": "Depot from interior of bridge, by Geo. H. Ireland & Co.",
@@ -286606,7 +286652,13 @@
   "license_url": null,
   "source_page_id": 7447699,
   "source_revision_id": null,
-  "source_sha1": "9fd94a408c7521b6011a8536f0b861958ad72e48"
+  "source_sha1": "9fd94a408c7521b6011a8536f0b861958ad72e48",
+  "tags": [
+   "bridge",
+   "depot",
+   "railroad tracks",
+   "locomotive"
+  ]
  },
  {
   "title": "Down at water shops, seen through archway, by Geo. H. Ireland & Co.",
@@ -286675,7 +286727,12 @@
   "license_url": null,
   "source_page_id": 7447715,
   "source_revision_id": null,
-  "source_sha1": "a7453152126f3d66b045fd0787fa27e66f80985d"
+  "source_sha1": "a7453152126f3d66b045fd0787fa27e66f80985d",
+  "tags": [
+   "bridge",
+   "rapids",
+   "river"
+  ]
  },
  {
   "title": "Five Cent Bank and Republican block, by Milan P. Warner",
@@ -286744,7 +286801,12 @@
   "license_url": null,
   "source_page_id": 7447809,
   "source_revision_id": null,
-  "source_sha1": "2be5d11d4c246d8b892cb4bef8992200957a2464"
+  "source_sha1": "2be5d11d4c246d8b892cb4bef8992200957a2464",
+  "tags": [
+   "main street",
+   "storefront",
+   "trees"
+  ]
  },
  {
   "title": "Group gathered on a porch of a large house surrounded by woods, by Goldsmith & Lazelle",
@@ -286813,7 +286875,13 @@
   "license_url": null,
   "source_page_id": 7447734,
   "source_revision_id": null,
-  "source_sha1": "53dd6317e99a742e87bd55b40087127780b7ff0b"
+  "source_sha1": "53dd6317e99a742e87bd55b40087127780b7ff0b",
+  "tags": [
+   "portrait group",
+   "children",
+   "trees",
+   "cottage"
+  ]
  },
  {
   "title": "Hooker school house, by J.B. Buguey & Company",
@@ -286882,7 +286950,11 @@
   "license_url": null,
   "source_page_id": 7447682,
   "source_revision_id": null,
-  "source_sha1": "3355455cd8757ef103e410f09d1dd5692d91fb83"
+  "source_sha1": "3355455cd8757ef103e410f09d1dd5692d91fb83",
+  "tags": [
+   "schoolhouse",
+   "trees"
+  ]
  },
  {
   "title": "Institution for savings, by Milan P. Warner",
@@ -286951,7 +287023,12 @@
   "license_url": null,
   "source_page_id": 7447822,
   "source_revision_id": null,
-  "source_sha1": "d260d5a15e410ebba0737b1f051d6281dcba3a08"
+  "source_sha1": "d260d5a15e410ebba0737b1f051d6281dcba3a08",
+  "tags": [
+   "main street",
+   "storefront",
+   "horse-drawn carriage"
+  ]
  },
  {
   "title": "Interior of public library, State Street, by E. & H.T. Anthony (Firm)",
@@ -287020,7 +287097,11 @@
   "license_url": null,
   "source_page_id": 7447652,
   "source_revision_id": null,
-  "source_sha1": "1802db2794b24adbad4375bf3c792533586cc9f8"
+  "source_sha1": "1802db2794b24adbad4375bf3c792533586cc9f8",
+  "tags": [
+   "library",
+   "room interior"
+  ]
  },
  {
   "title": "Interior view of a parlor, by Goldsmith & Lazelle",
@@ -287089,7 +287170,11 @@
   "license_url": null,
   "source_page_id": 7447747,
   "source_revision_id": null,
-  "source_sha1": "41b8f3d78f5c66afa87bd1881b0090dbe1621af0"
+  "source_sha1": "41b8f3d78f5c66afa87bd1881b0090dbe1621af0",
+  "tags": [
+   "room interior",
+   "fireplace"
+  ]
  },
  {
   "title": "Interior view of a parlor with a woman sitting near a window, by Goldsmith & Lazelle",
@@ -287227,7 +287312,11 @@
   "license_url": null,
   "source_page_id": 7447749,
   "source_revision_id": null,
-  "source_sha1": "7eaffcb91778069f74114f705710302ce4d28408"
+  "source_sha1": "7eaffcb91778069f74114f705710302ce4d28408",
+  "tags": [
+   "room interior",
+   "staircase"
+  ]
  },
  {
   "title": "Iron bridge across the Connecticut River, looking down stream, by E. & H.T. Anthony (Firm)",
@@ -287298,7 +287387,12 @@
   "license_url": null,
   "source_page_id": 7447630,
   "source_revision_id": null,
-  "source_sha1": "b77cd55161cba97ba253d1105ab1519759862cd6"
+  "source_sha1": "b77cd55161cba97ba253d1105ab1519759862cd6",
+  "tags": [
+   "bridge",
+   "river",
+   "freight train"
+  ]
  },
  {
   "title": "Mass. Mutual Life Insurance Co. Building, by Geo. H. Ireland & Co.",
@@ -287367,7 +287461,11 @@
   "license_url": null,
   "source_page_id": 7447701,
   "source_revision_id": null,
-  "source_sha1": "cf7521ba3ae05a2d68fffade2353357403694cb0"
+  "source_sha1": "cf7521ba3ae05a2d68fffade2353357403694cb0",
+  "tags": [
+   "main street",
+   "storefront"
+  ]
  },
  {
   "title": "Massasoit House and Main Street, by E. & H.T. Anthony (Firm)",
@@ -287436,7 +287534,14 @@
   "license_url": null,
   "source_page_id": 7447628,
   "source_revision_id": null,
-  "source_sha1": "4c1f525d7d2f5e4dd7b1ad45b6ae0659d1411791"
+  "source_sha1": "4c1f525d7d2f5e4dd7b1ad45b6ae0659d1411791",
+  "tags": [
+   "main street",
+   "hotel",
+   "horse-drawn carriage",
+   "railroad tracks",
+   "trees"
+  ]
  },
  {
   "title": "New high school building, by E. C. Powers",
@@ -287505,7 +287610,11 @@
   "license_url": null,
   "source_page_id": 7447607,
   "source_revision_id": null,
-  "source_sha1": "4b1637c54c35306457ce886c87d05e42c0227bc8"
+  "source_sha1": "4b1637c54c35306457ce886c87d05e42c0227bc8",
+  "tags": [
+   "schoolhouse",
+   "trees"
+  ]
  },
  {
   "title": "North Congragational Church, Matoon Street, by E. & H.T. Anthony (Firm)",
@@ -287574,7 +287683,11 @@
   "license_url": null,
   "source_page_id": 7447663,
   "source_revision_id": null,
-  "source_sha1": "77d19115692e55da10f44ee55226f44ed065be84"
+  "source_sha1": "77d19115692e55da10f44ee55226f44ed065be84",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "Opera House block, Main Street, by E. & H.T. Anthony (Firm)",
@@ -287643,7 +287756,11 @@
   "license_url": null,
   "source_page_id": 7447637,
   "source_revision_id": null,
-  "source_sha1": "9f0b70eefea6d93e045e8c35b27b6099553c4dda"
+  "source_sha1": "9f0b70eefea6d93e045e8c35b27b6099553c4dda",
+  "tags": [
+   "main street",
+   "storefront"
+  ]
  },
  {
   "title": "People in grandstands at Hampden Park",
@@ -287712,7 +287829,11 @@
   "license_url": null,
   "source_page_id": 7447563,
   "source_revision_id": null,
-  "source_sha1": "fd6909273cb0588e97ab44fd78f96147a96ddb10"
+  "source_sha1": "fd6909273cb0588e97ab44fd78f96147a96ddb10",
+  "tags": [
+   "crowd",
+   "trees"
+  ]
  },
  {
   "title": "People sitting on long benches under trees, by Goldsmith & Lazelle",
@@ -287781,7 +287902,11 @@
   "license_url": null,
   "source_page_id": 7447738,
   "source_revision_id": null,
-  "source_sha1": "2da7af5c0521de6b36ba1015eabf828298ddfd2a"
+  "source_sha1": "2da7af5c0521de6b36ba1015eabf828298ddfd2a",
+  "tags": [
+   "crowd",
+   "trees"
+  ]
  },
  {
   "title": "Residence of L.J. Fisk, by Goldsmith & Lazelle",
@@ -287850,7 +287975,11 @@
   "license_url": null,
   "source_page_id": 7447754,
   "source_revision_id": null,
-  "source_sha1": "729b6c617808aa3631bb50cf9955a683972979ba"
+  "source_sha1": "729b6c617808aa3631bb50cf9955a683972979ba",
+  "tags": [
+   "house",
+   "trees"
+  ]
  },
  {
   "title": "South Church, High Street, by Milan P. Warner",
@@ -287919,7 +288048,11 @@
   "license_url": null,
   "source_page_id": 7447762,
   "source_revision_id": null,
-  "source_sha1": "75fa3839210111f6a69adeb6fe34c712d483ac65"
+  "source_sha1": "75fa3839210111f6a69adeb6fe34c712d483ac65",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "State at Methodist Church, by Geo. H. Ireland & Co.",
@@ -287988,7 +288121,11 @@
   "license_url": null,
   "source_page_id": 7447713,
   "source_revision_id": null,
-  "source_sha1": "8448f2d517b242689ad852f0149174297f41a055"
+  "source_sha1": "8448f2d517b242689ad852f0149174297f41a055",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "State Street Baptist Church, by Herman Buchholz",
@@ -288059,7 +288196,11 @@
   "license_url": null,
   "source_page_id": 7447691,
   "source_revision_id": null,
-  "source_sha1": "507ab8e2bbfc676a59361858c2fed9f8fca3ffdc"
+  "source_sha1": "507ab8e2bbfc676a59361858c2fed9f8fca3ffdc",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "State Street M.E. Church, by Whitney & Adams",
@@ -288128,7 +288269,11 @@
   "license_url": null,
   "source_page_id": 7447730,
   "source_revision_id": null,
-  "source_sha1": "28bd4fce024cf88df8bd558cb39098c7733ab074"
+  "source_sha1": "28bd4fce024cf88df8bd558cb39098c7733ab074",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "Street view, looking up Main Street, by Herman Buchholz",
@@ -288199,7 +288344,12 @@
   "license_url": null,
   "source_page_id": 7447695,
   "source_revision_id": null,
-  "source_sha1": "34b1e1771475fda979f5d482857cd997322ce3f8"
+  "source_sha1": "34b1e1771475fda979f5d482857cd997322ce3f8",
+  "tags": [
+   "main street",
+   "storefront",
+   "horse-drawn carriage"
+  ]
  },
  {
   "title": "The Centennial Elm, by E. C. Powers",
@@ -288337,7 +288487,11 @@
   "license_url": null,
   "source_page_id": 7447666,
   "source_revision_id": null,
-  "source_sha1": "8e0102bdf4c62dd186514473f875c547aaa6143c"
+  "source_sha1": "8e0102bdf4c62dd186514473f875c547aaa6143c",
+  "tags": [
+   "factory",
+   "trees"
+  ]
  },
  {
   "title": "Three Dams, Mill River",
@@ -288406,7 +288560,13 @@
   "license_url": null,
   "source_page_id": 7447618,
   "source_revision_id": null,
-  "source_sha1": "c0c2d62b5b0b75181719182d95d9de5b9c0f6433"
+  "source_sha1": "c0c2d62b5b0b75181719182d95d9de5b9c0f6433",
+  "tags": [
+   "dam",
+   "waterfall",
+   "river",
+   "trees"
+  ]
  },
  {
   "title": "Trinity Church (Methodist), by Herman Buchholz",
@@ -288477,7 +288637,11 @@
   "license_url": null,
   "source_page_id": 7447688,
   "source_revision_id": null,
-  "source_sha1": "d96e1858b1e895e4e66b89d36c108feafc3f3b5a"
+  "source_sha1": "d96e1858b1e895e4e66b89d36c108feafc3f3b5a",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "U.S. water shops, by E. C. Powers",
@@ -288546,7 +288710,11 @@
   "license_url": null,
   "source_page_id": 7447610,
   "source_revision_id": null,
-  "source_sha1": "f7b6e1967fcdeba585df8f386054940f57864cd1"
+  "source_sha1": "f7b6e1967fcdeba585df8f386054940f57864cd1",
+  "tags": [
+   "rapids",
+   "river"
+  ]
  },
  {
   "title": "U.S. water shops, by William Nugent",
@@ -288615,7 +288783,11 @@
   "license_url": null,
   "source_page_id": 7447615,
   "source_revision_id": null,
-  "source_sha1": "68fc199f998f4102c479f8f066593aa402577793"
+  "source_sha1": "68fc199f998f4102c479f8f066593aa402577793",
+  "tags": [
+   "factory",
+   "river"
+  ]
  },
  {
   "title": "Unidentified building, from Robert N. Dennis collection of stereoscopic views 2",
@@ -288684,7 +288856,11 @@
   "license_url": null,
   "source_page_id": 7447589,
   "source_revision_id": null,
-  "source_sha1": "5fbc7f5dd882baeacbfae3c84b15fb33fa1a5105"
+  "source_sha1": "5fbc7f5dd882baeacbfae3c84b15fb33fa1a5105",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "Unidentified building, from Robert N. Dennis collection of stereoscopic views 3",
@@ -288822,7 +288998,13 @@
   "license_url": null,
   "source_page_id": 7447767,
   "source_revision_id": null,
-  "source_sha1": "544dabe77affd761be640b40efa9b2217e697b12"
+  "source_sha1": "544dabe77affd761be640b40efa9b2217e697b12",
+  "tags": [
+   "town square",
+   "church",
+   "courthouse",
+   "trees"
+  ]
  },
  {
   "title": "View from Long Hill, by E. & H.T. Anthony (Firm)",
@@ -288891,7 +289073,11 @@
   "license_url": null,
   "source_page_id": 7447674,
   "source_revision_id": null,
-  "source_sha1": "2f506ac46d7406645880b35739ad26f4293ad2b3"
+  "source_sha1": "2f506ac46d7406645880b35739ad26f4293ad2b3",
+  "tags": [
+   "lumber yard",
+   "barn"
+  ]
  },
  {
   "title": "View from Long Hill, looking towards Agawam, by E. & H.T. Anthony (Firm)",
@@ -288960,7 +289146,12 @@
   "license_url": null,
   "source_page_id": 7447678,
   "source_revision_id": null,
-  "source_sha1": "17c084bdbd6a39e7ca862c7d09f1b4c5b2def554"
+  "source_sha1": "17c084bdbd6a39e7ca862c7d09f1b4c5b2def554",
+  "tags": [
+   "river",
+   "meadow",
+   "trees"
+  ]
  },
  {
   "title": "View from Long Hill, looking up the river, by Geo. H. Ireland & Co.",
@@ -289029,7 +289220,11 @@
   "license_url": null,
   "source_page_id": 7447717,
   "source_revision_id": null,
-  "source_sha1": "a3c5efbaa5b88ca5f7bb49f01c5cd7bcceda7efa"
+  "source_sha1": "a3c5efbaa5b88ca5f7bb49f01c5cd7bcceda7efa",
+  "tags": [
+   "river",
+   "trees"
+  ]
  },
  {
   "title": "View of a church, by Milan P. Warner",
@@ -289098,7 +289293,11 @@
   "license_url": null,
   "source_page_id": 7447769,
   "source_revision_id": null,
-  "source_sha1": "610861950983398a8c25914448195f52a9456b16"
+  "source_sha1": "610861950983398a8c25914448195f52a9456b16",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "View of a commercial street, including a church, by Milan P. Warner",
@@ -289167,7 +289366,13 @@
   "license_url": null,
   "source_page_id": 7447805,
   "source_revision_id": null,
-  "source_sha1": "0cd4ae41ee700310b02e0538642a39d575282f77"
+  "source_sha1": "0cd4ae41ee700310b02e0538642a39d575282f77",
+  "tags": [
+   "main street",
+   "storefront",
+   "church",
+   "horse-drawn carriage"
+  ]
  },
  {
   "title": "View of a dam, by Alden, A. E., 1837-",
@@ -289236,7 +289441,12 @@
   "license_url": null,
   "source_page_id": 7447626,
   "source_revision_id": null,
-  "source_sha1": "16b9d17ba1113e7b0600ec6edadf3bab78e14414"
+  "source_sha1": "16b9d17ba1113e7b0600ec6edadf3bab78e14414",
+  "tags": [
+   "dam",
+   "waterfall",
+   "river"
+  ]
  },
  {
   "title": "View of a house, by A. C. Townsend",
@@ -289305,7 +289515,11 @@
   "license_url": null,
   "source_page_id": 7447726,
   "source_revision_id": null,
-  "source_sha1": "635e014f5f967524e2292ecb196d2b2491c3c465"
+  "source_sha1": "635e014f5f967524e2292ecb196d2b2491c3c465",
+  "tags": [
+   "house",
+   "trees"
+  ]
  },
  {
   "title": "View of a house and a yard, by Goldsmith & Lazelle",
@@ -289374,7 +289588,11 @@
   "license_url": null,
   "source_page_id": 7447743,
   "source_revision_id": null,
-  "source_sha1": "835b55c6f217fb7c450360945c998618c2901c27"
+  "source_sha1": "835b55c6f217fb7c450360945c998618c2901c27",
+  "tags": [
+   "house",
+   "trees"
+  ]
  },
  {
   "title": "View of a train, by Milan P. Warner",
@@ -289443,7 +289661,12 @@
   "license_url": null,
   "source_page_id": 7447841,
   "source_revision_id": null,
-  "source_sha1": "434f58cac18ca90db57d0ee7f7dee6c3062f5f8e"
+  "source_sha1": "434f58cac18ca90db57d0ee7f7dee6c3062f5f8e",
+  "tags": [
+   "locomotive",
+   "railroad tracks",
+   "snow"
+  ]
  },
  {
   "title": "View of an unidentified building, by Milan P. Warner",
@@ -289512,7 +289735,12 @@
   "license_url": null,
   "source_page_id": 7447796,
   "source_revision_id": null,
-  "source_sha1": "8fcd0abc9b70d888e3527a01dde83176ab3b9c1f"
+  "source_sha1": "8fcd0abc9b70d888e3527a01dde83176ab3b9c1f",
+  "tags": [
+   "main street",
+   "storefront",
+   "horse-drawn carriage"
+  ]
  },
  {
   "title": "View of an unidentified building, by Milan P. Warner 2",
@@ -289581,7 +289809,11 @@
   "license_url": null,
   "source_page_id": 7447843,
   "source_revision_id": null,
-  "source_sha1": "61bf92421df606b42f499a713bfb116326381259"
+  "source_sha1": "61bf92421df606b42f499a713bfb116326381259",
+  "tags": [
+   "main street",
+   "storefront"
+  ]
  },
  {
   "title": "View of houses, by Milan P. Warner",
@@ -289650,7 +289882,12 @@
   "license_url": null,
   "source_page_id": 7447830,
   "source_revision_id": null,
-  "source_sha1": "beb720856e6e6033af376bf4e41b659465806040"
+  "source_sha1": "beb720856e6e6033af376bf4e41b659465806040",
+  "tags": [
+   "house",
+   "row houses",
+   "construction"
+  ]
  },
  {
   "title": "View of people standing and sitting at long tables under trees, by C. A. Sweetser & Co.",
@@ -289719,7 +289956,12 @@
   "license_url": null,
   "source_page_id": 7447720,
   "source_revision_id": null,
-  "source_sha1": "4cbb0d08d7d724ec2ccaba72fdef801b9b853ffd"
+  "source_sha1": "4cbb0d08d7d724ec2ccaba72fdef801b9b853ffd",
+  "tags": [
+   "crowd",
+   "picnic",
+   "trees"
+  ]
  },
  {
   "title": "View of unidentified buildings, by Milan P. Warner",
@@ -289788,7 +290030,12 @@
   "license_url": null,
   "source_page_id": 7447760,
   "source_revision_id": null,
-  "source_sha1": "f9e7354b72f8a01067e3e1b7f7c2eb4dfed20c77"
+  "source_sha1": "f9e7354b72f8a01067e3e1b7f7c2eb4dfed20c77",
+  "tags": [
+   "main street",
+   "storefront",
+   "trees"
+  ]
  },
  {
   "title": "View of unidentified buildings, by Milan P. Warner 2",
@@ -289857,6 +290104,11 @@
   "license_url": null,
   "source_page_id": 7447799,
   "source_revision_id": null,
-  "source_sha1": "c1331c30c98abc3dbfae230edc1d193ff05c0b4f"
+  "source_sha1": "c1331c30c98abc3dbfae230edc1d193ff05c0b4f",
+  "tags": [
+   "main street",
+   "storefront",
+   "trees"
+  ]
  }
 ]
