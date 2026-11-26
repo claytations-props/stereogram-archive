@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3900.json",
+ "name": "Court House, by Geo. H. Ireland & Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3899.jpg",
+ "identifier": "STA-3900",
+ "creator": {
+  "@type": "Person",
+  "name": "Geo. H. Ireland & Co."
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Springfield, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Court_House,_by_Geo._H._Ireland_%26_Co..jpg"
+}

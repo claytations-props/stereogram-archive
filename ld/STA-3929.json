@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3929.json",
+ "name": "The water shop. U.S. Armory, by E. & H.T. Anthony (Firm)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3928.jpg",
+ "identifier": "STA-3929",
+ "creator": {
+  "@type": "Person",
+  "name": "E. & H.T. Anthony (Firm)"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Springfield, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_water_shop._U.S._Armory,_by_E._%26_H.T._Anthony_(Firm).jpg"
+}

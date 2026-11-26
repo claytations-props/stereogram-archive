@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>3833</quantity>
+    <quantity>3944</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -6298,6 +6298,46 @@
       <unittitle>R.R. Bridge, Poughkeepsie, N.Y. - Hudson River (NYPL b13395597-G91F133 004F)</unittitle>
       <unitdate normal="1890">1890</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3821.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3912">
+     <did>
+      <unitid>STA-3912</unitid>
+      <unittitle>Iron bridge across the Connecticut River, looking down stream, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3911.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3930">
+     <did>
+      <unitid>STA-3930</unitid>
+      <unittitle>Three Dams, Mill River</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3929.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3932">
+     <did>
+      <unitid>STA-3932</unitid>
+      <unittitle>U.S. water shops, by E. C. Powers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3931.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3939">
+     <did>
+      <unitid>STA-3939</unitid>
+      <unittitle>View from Long Hill, looking up the river, by Geo. H. Ireland &amp; Co.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3938.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3942">
+     <did>
+      <unitid>STA-3942</unitid>
+      <unittitle>View of a dam, by Alden, A. E., 1837-</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3941.jpg"/>
      </did>
     </c>
    </c>
@@ -24182,6 +24222,470 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3834.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-3848">
+     <did>
+      <unitid>STA-3848</unitid>
+      <unittitle>Broadway from State Street, Albany, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3847.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3849">
+     <did>
+      <unitid>STA-3849</unitid>
+      <unittitle>The old Capitol. (3990421775)</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3848.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3852">
+     <did>
+      <unitid>STA-3852</unitid>
+      <unittitle>Church, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3851.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3857">
+     <did>
+      <unitid>STA-3857</unitid>
+      <unittitle>Gen. Grant's funeral procession, State St., Albany, N.Y</unittitle>
+      <unitdate normal="1885">1885</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3856.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3863">
+     <did>
+      <unitid>STA-3863</unitid>
+      <unittitle>New Capitol</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3862.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3864">
+     <did>
+      <unitid>STA-3864</unitid>
+      <unittitle>New Capitol building</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3863.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3865">
+     <did>
+      <unitid>STA-3865</unitid>
+      <unittitle>New State Capital (Capitol), Albany, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3864.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3866">
+     <did>
+      <unitid>STA-3866</unitid>
+      <unittitle>New State Capitol, Albany, N.Y, by Aaron Veeder</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3865.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3867">
+     <did>
+      <unitid>STA-3867</unitid>
+      <unittitle>New State Capitol, Albany, N.Y, by Aaron Veeder 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3866.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3868">
+     <did>
+      <unitid>STA-3868</unitid>
+      <unittitle>New State Capitol, by Aaron Veeder</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3867.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3869">
+     <did>
+      <unitid>STA-3869</unitid>
+      <unittitle>New State Capitol, by Aaron Veeder 3</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3868.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3878">
+     <did>
+      <unitid>STA-3878</unitid>
+      <unittitle>State Street and Capitol, by Aaron Veeder</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3877.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3880">
+     <did>
+      <unitid>STA-3880</unitid>
+      <unittitle>Wilkin's home, 241 State St. of Albany, N.Y</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3879.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3881">
+     <did>
+      <unitid>STA-3881</unitid>
+      <unittitle>The Cathedral, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3880.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3889">
+     <did>
+      <unitid>STA-3889</unitid>
+      <unittitle>The drinking fountain shelter, by Aaron Veeder</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3888.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3890">
+     <did>
+      <unitid>STA-3890</unitid>
+      <unittitle>The magnificent State Capitol Building at Albany, N.Y., U.S.A</unittitle>
+      <unitdate normal="1898/1908">c. 1903</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3889.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3891">
+     <did>
+      <unitid>STA-3891</unitid>
+      <unittitle>After great fire of May 30, '75, by Milan P. Warner</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3890.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3892">
+     <did>
+      <unitid>STA-3892</unitid>
+      <unittitle>B. &amp; A. Railroad office, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3891.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3893">
+     <did>
+      <unitid>STA-3893</unitid>
+      <unittitle>Bill's block, by Milan P. Warner</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3892.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3894">
+     <did>
+      <unitid>STA-3894</unitid>
+      <unittitle>Bishop's House, by Milan P. Warner</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3893.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3895">
+     <did>
+      <unitid>STA-3895</unitid>
+      <unittitle>Bridge and Main Street, by Milan P. Warner</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3894.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3896">
+     <did>
+      <unitid>STA-3896</unitid>
+      <unittitle>Church of the Unity, State Street, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3895.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3897">
+     <did>
+      <unitid>STA-3897</unitid>
+      <unittitle>Church of the Unity, by Milan P. Warner</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3896.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3898">
+     <did>
+      <unitid>STA-3898</unitid>
+      <unittitle>Church of the Unity (Unitarian), by Herman Buchholz</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3897.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3899">
+     <did>
+      <unitid>STA-3899</unitid>
+      <unittitle>City Library, by Milan P. Warner</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3898.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3900">
+     <did>
+      <unitid>STA-3900</unitid>
+      <unittitle>Court House, by Geo. H. Ireland &amp; Co.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3899.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3901">
+     <did>
+      <unitid>STA-3901</unitid>
+      <unittitle>Court Square, by J.B. Buguey &amp; Company</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3900.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3902">
+     <did>
+      <unitid>STA-3902</unitid>
+      <unittitle>Depot from interior of bridge, by Geo. H. Ireland &amp; Co.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3901.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3903">
+     <did>
+      <unitid>STA-3903</unitid>
+      <unittitle>Down at water shops, seen through archway, by Geo. H. Ireland &amp; Co.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3902.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3904">
+     <did>
+      <unitid>STA-3904</unitid>
+      <unittitle>Five Cent Bank and Republican block, by Milan P. Warner</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3903.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3906">
+     <did>
+      <unitid>STA-3906</unitid>
+      <unittitle>Hooker school house, by J.B. Buguey &amp; Company</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3905.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3907">
+     <did>
+      <unitid>STA-3907</unitid>
+      <unittitle>Institution for savings, by Milan P. Warner</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3906.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3913">
+     <did>
+      <unitid>STA-3913</unitid>
+      <unittitle>Mass. Mutual Life Insurance Co. Building, by Geo. H. Ireland &amp; Co.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3912.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3914">
+     <did>
+      <unitid>STA-3914</unitid>
+      <unittitle>Massasoit House and Main Street, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3913.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3915">
+     <did>
+      <unitid>STA-3915</unitid>
+      <unittitle>New high school building, by E. C. Powers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3914.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3916">
+     <did>
+      <unitid>STA-3916</unitid>
+      <unittitle>North Congragational Church, Matoon Street, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3915.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3917">
+     <did>
+      <unitid>STA-3917</unitid>
+      <unittitle>Opera House block, Main Street, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3916.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3921">
+     <did>
+      <unitid>STA-3921</unitid>
+      <unittitle>Residence of L.J. Fisk, by Goldsmith &amp; Lazelle</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3920.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3922">
+     <did>
+      <unitid>STA-3922</unitid>
+      <unittitle>South Church, High Street, by Milan P. Warner</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3921.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3923">
+     <did>
+      <unitid>STA-3923</unitid>
+      <unittitle>State at Methodist Church, by Geo. H. Ireland &amp; Co.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3922.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3925">
+     <did>
+      <unitid>STA-3925</unitid>
+      <unittitle>State Street Baptist Church, by Herman Buchholz</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3924.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3926">
+     <did>
+      <unitid>STA-3926</unitid>
+      <unittitle>State Street M.E. Church, by Whitney &amp; Adams</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3925.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3927">
+     <did>
+      <unitid>STA-3927</unitid>
+      <unittitle>Street view, looking up Main Street, by Herman Buchholz</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3926.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3929">
+     <did>
+      <unitid>STA-3929</unitid>
+      <unittitle>The water shop. U.S. Armory, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3928.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3931">
+     <did>
+      <unitid>STA-3931</unitid>
+      <unittitle>Trinity Church (Methodist), by Herman Buchholz</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3930.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3933">
+     <did>
+      <unitid>STA-3933</unitid>
+      <unittitle>U.S. water shops, by William Nugent</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3932.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3934">
+     <did>
+      <unitid>STA-3934</unitid>
+      <unittitle>Unidentified building, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3933.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3935">
+     <did>
+      <unitid>STA-3935</unitid>
+      <unittitle>Unidentified building, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3934.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3936">
+     <did>
+      <unitid>STA-3936</unitid>
+      <unittitle>Unidentified view of a church in front of a square, by Milan P. Warner</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3935.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3940">
+     <did>
+      <unitid>STA-3940</unitid>
+      <unittitle>View of a church, by Milan P. Warner</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3939.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3941">
+     <did>
+      <unitid>STA-3941</unitid>
+      <unittitle>View of a commercial street, including a church, by Milan P. Warner</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3940.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3943">
+     <did>
+      <unitid>STA-3943</unitid>
+      <unittitle>View of a house, by A. C. Townsend</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3942.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3944">
+     <did>
+      <unitid>STA-3944</unitid>
+      <unittitle>View of a house and a yard, by Goldsmith &amp; Lazelle</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3943.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3946">
+     <did>
+      <unitid>STA-3946</unitid>
+      <unittitle>View of an unidentified building, by Milan P. Warner</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3945.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3947">
+     <did>
+      <unitid>STA-3947</unitid>
+      <unittitle>View of an unidentified building, by Milan P. Warner 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3946.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3948">
+     <did>
+      <unitid>STA-3948</unitid>
+      <unittitle>View of houses, by Milan P. Warner</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3947.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3950">
+     <did>
+      <unitid>STA-3950</unitid>
+      <unittitle>View of unidentified buildings, by Milan P. Warner</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3949.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3951">
+     <did>
+      <unitid>STA-3951</unitid>
+      <unittitle>View of unidentified buildings, by Milan P. Warner 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3950.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-war">
     <did>
@@ -27443,6 +27947,62 @@
       <unittitle>Portrait of two men, by Slee Bros</unittitle>
       <unitdate normal="1867">1867</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3827.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3839">
+     <did>
+      <unitid>STA-3839</unitid>
+      <unittitle>View of Special Penmanship Department</unittitle>
+      <unitdate normal="1875/1885">c. 1880</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3838.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3871">
+     <did>
+      <unitid>STA-3871</unitid>
+      <unittitle>Patent swings, by Aaron Veeder</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3870.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3905">
+     <did>
+      <unitid>STA-3905</unitid>
+      <unittitle>Group gathered on a porch of a large house surrounded by woods, by Goldsmith &amp; Lazelle</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3904.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3910">
+     <did>
+      <unitid>STA-3910</unitid>
+      <unittitle>Interior view of a parlor with a woman sitting near a window, by Goldsmith &amp; Lazelle</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3909.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3918">
+     <did>
+      <unitid>STA-3918</unitid>
+      <unittitle>People in grandstands at Hampden Park</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3917.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3919">
+     <did>
+      <unitid>STA-3919</unitid>
+      <unittitle>People sitting on long benches under trees, by Goldsmith &amp; Lazelle</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3918.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3949">
+     <did>
+      <unitid>STA-3949</unitid>
+      <unittitle>View of people standing and sitting at long tables under trees, by C. A. Sweetser &amp; Co.</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3948.jpg"/>
      </did>
     </c>
    </c>
@@ -30720,6 +31280,334 @@
       <unittitle>View of a potted plant, by Pach, G. W. (Gustavus W.), 1845-1904</unittitle>
       <unitdate normal="1867">1867</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3837.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3840">
+     <did>
+      <unitid>STA-3840</unitid>
+      <unittitle>Altar</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3839.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3841">
+     <did>
+      <unitid>STA-3841</unitid>
+      <unittitle>Approach to Assembly Chamber, by Aaron Veeder</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3840.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3842">
+     <did>
+      <unitid>STA-3842</unitid>
+      <unittitle>Assembly Chamber, by Aaron Veeder</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3841.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3843">
+     <did>
+      <unitid>STA-3843</unitid>
+      <unittitle>Assembly Chamber, by Aaron Veeder 4</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3842.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3844">
+     <did>
+      <unitid>STA-3844</unitid>
+      <unittitle>Assembly Chamber, by Aaron Veeder 5</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3843.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3845">
+     <did>
+      <unitid>STA-3845</unitid>
+      <unittitle>Assembly Chamber</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3844.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3846">
+     <did>
+      <unitid>STA-3846</unitid>
+      <unittitle>Assembly Chamber, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3845.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3847">
+     <did>
+      <unitid>STA-3847</unitid>
+      <unittitle>Assembly Chamber, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3846.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3850">
+     <did>
+      <unitid>STA-3850</unitid>
+      <unittitle>Cathedral (interior view)</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3849.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3851">
+     <did>
+      <unitid>STA-3851</unitid>
+      <unittitle>Cathedral (interior view), from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3850.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3853">
+     <did>
+      <unitid>STA-3853</unitid>
+      <unittitle>Court of Appeals</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3852.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3854">
+     <did>
+      <unitid>STA-3854</unitid>
+      <unittitle>Fire place, Assembly (Chamber), by Aaron Veeder</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3853.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3855">
+     <did>
+      <unitid>STA-3855</unitid>
+      <unittitle>Fireplace, Assembly Chamber</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3854.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3856">
+     <did>
+      <unitid>STA-3856</unitid>
+      <unittitle>Front view of Assembly Chamber, by Aaron Veeder</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3855.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3858">
+     <did>
+      <unitid>STA-3858</unitid>
+      <unittitle>Governor's room</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3857.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3859">
+     <did>
+      <unitid>STA-3859</unitid>
+      <unittitle>Grand Staircase, by Aaron Veeder</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3858.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3860">
+     <did>
+      <unitid>STA-3860</unitid>
+      <unittitle>Interior view, by Aaron Veeder</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3859.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3861">
+     <did>
+      <unitid>STA-3861</unitid>
+      <unittitle>Interior view of a church, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3860.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3862">
+     <did>
+      <unitid>STA-3862</unitid>
+      <unittitle>Interior view of a church, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3861.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3870">
+     <did>
+      <unitid>STA-3870</unitid>
+      <unittitle>North entrance hall, by Aaron Veeder</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3869.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3872">
+     <did>
+      <unitid>STA-3872</unitid>
+      <unittitle>Senate Chamber, 1879</unittitle>
+      <unitdate normal="1879">1879</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3871.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3873">
+     <did>
+      <unitid>STA-3873</unitid>
+      <unittitle>Senate Chamber, by Aaron Veeder</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3872.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3874">
+     <did>
+      <unitid>STA-3874</unitid>
+      <unittitle>Senate Chamber, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3873.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3875">
+     <did>
+      <unitid>STA-3875</unitid>
+      <unittitle>Senate, by Aaron Veeder</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3874.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3876">
+     <did>
+      <unitid>STA-3876</unitid>
+      <unittitle>Senate Corridor, by Aaron Veeder</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3875.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3877">
+     <did>
+      <unitid>STA-3877</unitid>
+      <unittitle>Senate Corridor, by Aaron Veeder 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3876.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3879">
+     <did>
+      <unitid>STA-3879</unitid>
+      <unittitle>The Assembly Chamber, by Aaron Veeder 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3878.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3882">
+     <did>
+      <unitid>STA-3882</unitid>
+      <unittitle>The Golden Corridor, by Aaron Veeder</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3881.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3883">
+     <did>
+      <unitid>STA-3883</unitid>
+      <unittitle>The Golden Corridor, by Aaron Veeder 2</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3882.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3884">
+     <did>
+      <unitid>STA-3884</unitid>
+      <unittitle>The Golden Corridor, by Aaron Veeder 5</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3883.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3885">
+     <did>
+      <unitid>STA-3885</unitid>
+      <unittitle>The Grand Corridor, by Aaron Veeder</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3884.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3886">
+     <did>
+      <unitid>STA-3886</unitid>
+      <unittitle>The Grand Staircase, by Aaron Veeder</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3885.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3887">
+     <did>
+      <unitid>STA-3887</unitid>
+      <unittitle>The Grand Staircase, by Aaron Veeder 3</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3886.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3888">
+     <did>
+      <unitid>STA-3888</unitid>
+      <unittitle>The Grand Staircase, by Aaron Veeder 4</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3887.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3908">
+     <did>
+      <unitid>STA-3908</unitid>
+      <unittitle>Interior of public library, State Street, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3907.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3909">
+     <did>
+      <unitid>STA-3909</unitid>
+      <unittitle>Interior view of a parlor, by Goldsmith &amp; Lazelle</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3908.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3911">
+     <did>
+      <unitid>STA-3911</unitid>
+      <unittitle>Interior view of an entry hall, showing stairway, by Goldsmith &amp; Lazelle</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3910.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3928">
+     <did>
+      <unitid>STA-3928</unitid>
+      <unittitle>The Centennial Elm, by E. C. Powers</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3927.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3937">
+     <did>
+      <unitid>STA-3937</unitid>
+      <unittitle>View from Long Hill, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3936.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3938">
+     <did>
+      <unitid>STA-3938</unitid>
+      <unittitle>View from Long Hill, looking towards Agawam, by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3937.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-3945">
+     <did>
+      <unitid>STA-3945</unitid>
+      <unittitle>View of a train, by Milan P. Warner</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3944.jpg"/>
      </did>
     </c>
    </c>

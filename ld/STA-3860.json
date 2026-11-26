@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3860.json",
+ "name": "Interior view, by Aaron Veeder",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3859.jpg",
+ "identifier": "STA-3860",
+ "creator": {
+  "@type": "Person",
+  "name": "Aaron Veeder"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Albany, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Interior_view,_by_Aaron_Veeder.jpg"
+}

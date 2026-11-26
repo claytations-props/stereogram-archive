@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3923.json",
+ "name": "State at Methodist Church, by Geo. H. Ireland & Co.",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3922.jpg",
+ "identifier": "STA-3923",
+ "creator": {
+  "@type": "Person",
+  "name": "Geo. H. Ireland & Co."
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Springfield, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:State_at_Methodist_Church,_by_Geo._H._Ireland_%26_Co..jpg"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3905.json",
+ "name": "Group gathered on a porch of a large house surrounded by woods, by Goldsmith & Lazelle",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3904.jpg",
+ "identifier": "STA-3905",
+ "creator": {
+  "@type": "Person",
+  "name": "Goldsmith & Lazelle"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Springfield, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Group_gathered_on_a_porch_of_a_large_house_surrounded_by_woods,_by_Goldsmith_%26_Lazelle.jpg"
+}

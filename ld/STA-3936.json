@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3936.json",
+ "name": "Unidentified view of a church in front of a square, by Milan P. Warner",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3935.jpg",
+ "identifier": "STA-3936",
+ "creator": {
+  "@type": "Person",
+  "name": "Milan P. Warner"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Springfield, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Unidentified_view_of_a_church_in_front_of_a_square,_by_Milan_P._Warner.jpg"
+}

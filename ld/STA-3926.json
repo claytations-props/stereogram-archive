@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3926.json",
+ "name": "State Street M.E. Church, by Whitney & Adams",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3925.jpg",
+ "identifier": "STA-3926",
+ "creator": {
+  "@type": "Person",
+  "name": "Whitney & Adams"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Springfield, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:State_Street_M.E._Church,_by_Whitney_%26_Adams.jpg"
+}

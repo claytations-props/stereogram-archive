@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3933.json",
+ "name": "U.S. water shops, by William Nugent",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3932.jpg",
+ "identifier": "STA-3933",
+ "creator": {
+  "@type": "Person",
+  "name": "William Nugent"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Springfield, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:U.S._water_shops,_by_William_Nugent.jpg"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3948.json",
+ "name": "View of houses, by Milan P. Warner",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3947.jpg",
+ "identifier": "STA-3948",
+ "creator": {
+  "@type": "Person",
+  "name": "Milan P. Warner"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Springfield, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_houses,_by_Milan_P._Warner.jpg"
+}

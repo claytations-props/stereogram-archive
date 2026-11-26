@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3884.json",
+ "name": "The Golden Corridor, by Aaron Veeder 5",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3883.jpg",
+ "identifier": "STA-3884",
+ "creator": {
+  "@type": "Person",
+  "name": "Aaron Veeder"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Albany, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Golden_Corridor,_by_Aaron_Veeder_5.jpg"
+}

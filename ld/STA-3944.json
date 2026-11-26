@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3944.json",
+ "name": "View of a house and a yard, by Goldsmith & Lazelle",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3943.jpg",
+ "identifier": "STA-3944",
+ "creator": {
+  "@type": "Person",
+  "name": "Goldsmith & Lazelle"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Springfield, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_house_and_a_yard,_by_Goldsmith_%26_Lazelle.png"
+}

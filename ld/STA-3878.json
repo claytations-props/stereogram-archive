@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3878.json",
+ "name": "State Street and Capitol, by Aaron Veeder",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3877.jpg",
+ "identifier": "STA-3878",
+ "creator": {
+  "@type": "Person",
+  "name": "Aaron Veeder"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Albany, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:State_Street_and_Capitol,_by_Aaron_Veeder.jpg"
+}
