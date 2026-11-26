@@ -1,0 +1,69 @@
+{
+ "title": "Assembly Chamber",
+ "place": "Albany, New York",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "oddities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Assembly_Chamber%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Assembly_Chamber%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/31/Assembly_Chamber%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Assembly_Chamber,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2601,
+ "h": 1272,
+ "id": "STA-3845",
+ "rect": "rect/3844.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.08,
+ "rot": 0.0,
+ "range": 12.18,
+ "f": 0.31,
+ "depth": "Deep",
+ "va": 0.8385,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Assembly_Chamber%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Assembly_Chamber%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8385,
+  "L": [
+   0.38125,
+   0.0,
+   0.082031,
+   0.0,
+   0.929712,
+   0.037806
+  ],
+  "R": [
+   0.380689,
+   -0.005804,
+   0.510974,
+   0.002132,
+   0.926699,
+   0.037986
+  ],
+  "g": [
+   0.935,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured deep (12.18% of frame width); hung in the VR Parlor at 31% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "oddities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10077178,
+ "source_revision_id": null,
+ "source_sha1": "df438a62f617d009368bf9b3cae6ef3a3ace673c"
+}
