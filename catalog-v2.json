@@ -283732,5 +283732,350 @@
   "source_page_id": 10077365,
   "source_revision_id": null,
   "source_sha1": "ae392d4be9c171b3deebb42ffe83699e8d7d6db5"
+ },
+ {
+  "title": "New Capitol",
+  "place": "Albany, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/New_Capitol%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-New_Capitol%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/6b/New_Capitol%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:New_Capitol,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2614,
+  "h": 1599,
+  "id": "STA-3863",
+  "rect": "rect/3862.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.05,
+  "range": 1.52,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8304,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/New_Capitol%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-New_Capitol%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8304,
+   "L": [
+    0.469271,
+    0.0,
+    0.023177,
+    0.0,
+    0.924191,
+    0.051533
+   ],
+   "R": [
+    0.470688,
+    0.009533,
+    0.505977,
+    -0.010415,
+    0.923616,
+    0.048809
+   ],
+   "g": [
+    0.9598,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.05° of rotation. Depth measured moderate (1.52% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077513,
+  "source_revision_id": null,
+  "source_sha1": "354401d92c62e94ee0771be73eeec59efcf208eb"
+ },
+ {
+  "title": "New Capitol building",
+  "place": "Albany, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/New_Capitol_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-New_Capitol_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/fd/New_Capitol_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:New_Capitol_building,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2656,
+  "h": 1779,
+  "id": "STA-3864",
+  "rect": "rect/3863.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 5.04,
+  "f": 0.66,
+  "depth": "Deep",
+  "va": 0.9527,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/New_Capitol_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-New_Capitol_building%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9527,
+   "L": [
+    0.398438,
+    0.0,
+    0.080469,
+    0.0,
+    0.624417,
+    0.34098
+   ],
+   "R": [
+    0.395591,
+    0.000166,
+    0.513179,
+    -0.001526,
+    0.628488,
+    0.348464
+   ],
+   "g": [
+    0.9686,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured deep (5.04% of frame width); hung in the VR Parlor at 66% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077616,
+  "source_revision_id": null,
+  "source_sha1": "cd688c85c3b91f26f04d57415394dd0e0a8d3077"
+ },
+ {
+  "title": "New State Capital (Capitol), Albany, N.Y",
+  "place": "Albany, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/New_State_Capital_%28Capitol%29%2C_Albany%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-New_State_Capital_%28Capitol%29%2C_Albany%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/3e/New_State_Capital_%28Capitol%29%2C_Albany%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:New_State_Capital_(Capitol),_Albany,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2610,
+  "h": 1317,
+  "id": "STA-3865",
+  "rect": "rect/3864.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.04,
+  "range": 1.1,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.6586,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/New_State_Capital_%28Capitol%29%2C_Albany%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-New_State_Capital_%28Capitol%29%2C_Albany%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.6586,
+   "L": [
+    0.394792,
+    0.0,
+    0.089844,
+    0.0,
+    0.47162,
+    0.212074
+   ],
+   "R": [
+    0.395228,
+    -0.002004,
+    0.531687,
+    0.002035,
+    0.469223,
+    0.210863
+   ],
+   "g": [
+    0.9672,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.04° of rotation. Depth measured gentle (1.1% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077410,
+  "source_revision_id": null,
+  "source_sha1": "18afb3c4fddaa6d097f4186651d92c340255f080"
+ },
+ {
+  "title": "New State Capitol, Albany, N.Y, by Aaron Veeder",
+  "place": "Albany, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/New_State_Capitol%2C_Albany%2C_N.Y%2C_by_Aaron_Veeder.jpg/1920px-New_State_Capitol%2C_Albany%2C_N.Y%2C_by_Aaron_Veeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a1/New_State_Capitol%2C_Albany%2C_N.Y%2C_by_Aaron_Veeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:New_State_Capitol,_Albany,_N.Y,_by_Aaron_Veeder.jpg",
+  "license": "Public domain",
+  "w": 2664,
+  "h": 1737,
+  "id": "STA-3866",
+  "rect": "rect/3865.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.24,
+  "rot": 0.02,
+  "range": 1.98,
+  "f": 0.83,
+  "depth": "Moderate",
+  "va": 2.1335,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/New_State_Capitol%2C_Albany%2C_N.Y%2C_by_Aaron_Veeder.jpg/1920px-New_State_Capitol%2C_Albany%2C_N.Y%2C_by_Aaron_Veeder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.1335,
+   "L": [
+    0.391146,
+    0.0,
+    0.091406,
+    0.0,
+    0.28115,
+    0.325479
+   ],
+   "R": [
+    0.392629,
+    -0.003411,
+    0.519493,
+    0.003996,
+    0.283958,
+    0.336429
+   ],
+   "g": [
+    0.9672,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.02° of rotation. Depth measured moderate (1.98% of frame width); hung in the VR Parlor at 83% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Aaron Veeder",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077597,
+  "source_revision_id": null,
+  "source_sha1": "32ccc4577ce283bd8ffdbac14426d3bb9974d7d9"
+ },
+ {
+  "title": "New State Capitol, Albany, N.Y, by Aaron Veeder 2",
+  "place": "Albany, New York",
+  "year": "1870",
+  "sy": 1870,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/New_State_Capitol%2C_Albany%2C_N.Y%2C_by_Aaron_Veeder_2.jpg/1920px-New_State_Capitol%2C_Albany%2C_N.Y%2C_by_Aaron_Veeder_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b3/New_State_Capitol%2C_Albany%2C_N.Y%2C_by_Aaron_Veeder_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:New_State_Capitol,_Albany,_N.Y,_by_Aaron_Veeder_2.jpg",
+  "license": "Public domain",
+  "w": 2622,
+  "h": 1764,
+  "id": "STA-3867",
+  "rect": "rect/3866.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.01,
+  "range": 3.82,
+  "f": 0.71,
+  "depth": "Deep",
+  "va": 1.1966,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/New_State_Capitol%2C_Albany%2C_N.Y%2C_by_Aaron_Veeder_2.jpg/1920px-New_State_Capitol%2C_Albany%2C_N.Y%2C_by_Aaron_Veeder_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1966,
+   "L": [
+    0.405729,
+    0.0,
+    0.074219,
+    0.0,
+    0.50387,
+    0.159056
+   ],
+   "R": [
+    0.405676,
+    -0.008286,
+    0.522378,
+    0.005602,
+    0.508877,
+    0.166815
+   ],
+   "g": [
+    0.9792,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured deep (3.82% of frame width); hung in the VR Parlor at 71% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Aaron Veeder",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1870",
+  "date_start": 1870,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10077605,
+  "source_revision_id": null,
+  "source_sha1": "2ddedda9a753e9760a5d01df210171fe72c88309"
  }
 ]
