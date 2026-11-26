@@ -1,0 +1,69 @@
+{
+ "title": "View of a house and a yard, by Goldsmith & Lazelle",
+ "place": "Springfield, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/View_of_a_house_and_a_yard%2C_by_Goldsmith_%26_Lazelle.png/1920px-View_of_a_house_and_a_yard%2C_by_Goldsmith_%26_Lazelle.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/35/View_of_a_house_and_a_yard%2C_by_Goldsmith_%26_Lazelle.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_house_and_a_yard,_by_Goldsmith_%26_Lazelle.png",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1609,
+ "id": "STA-3944",
+ "rect": "rect/3943.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.17,
+ "rot": 0.01,
+ "range": 0.95,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.6008,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/View_of_a_house_and_a_yard%2C_by_Goldsmith_%26_Lazelle.png/1920px-View_of_a_house_and_a_yard%2C_by_Goldsmith_%26_Lazelle.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.6008,
+  "L": [
+   0.421875,
+   0.0,
+   0.053906,
+   0.0,
+   0.448184,
+   0.324624
+  ],
+  "R": [
+   0.422732,
+   0.003049,
+   0.506049,
+   -0.01077,
+   0.448136,
+   0.32647
+  ],
+  "g": [
+   0.9567,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.01° of rotation. Depth measured gentle (0.95% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Goldsmith & Lazelle",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7447743,
+ "source_revision_id": null,
+ "source_sha1": "835b55c6f217fb7c450360945c998618c2901c27"
+}

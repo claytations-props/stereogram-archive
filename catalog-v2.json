@@ -289375,5 +289375,626 @@
   "source_page_id": 7447626,
   "source_revision_id": null,
   "source_sha1": "16b9d17ba1113e7b0600ec6edadf3bab78e14414"
+ },
+ {
+  "title": "View of a house, by A. C. Townsend",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/View_of_a_house%2C_by_A._C._Townsend.jpg/1920px-View_of_a_house%2C_by_A._C._Townsend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/6e/View_of_a_house%2C_by_A._C._Townsend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_house,_by_A._C._Townsend.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1448,
+  "id": "STA-3943",
+  "rect": "rect/3942.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 0.91,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9051,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/View_of_a_house%2C_by_A._C._Townsend.jpg/1920px-View_of_a_house%2C_by_A._C._Townsend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9051,
+   "L": [
+    0.347917,
+    0.0,
+    0.12526,
+    0.0,
+    0.726378,
+    0.100886
+   ],
+   "R": [
+    0.349488,
+    -0.004113,
+    0.517765,
+    0.004525,
+    0.726137,
+    0.093089
+   ],
+   "g": [
+    0.9262,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.91% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "A. C. Townsend",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7447726,
+  "source_revision_id": null,
+  "source_sha1": "635e014f5f967524e2292ecb196d2b2491c3c465"
+ },
+ {
+  "title": "View of a house and a yard, by Goldsmith & Lazelle",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/View_of_a_house_and_a_yard%2C_by_Goldsmith_%26_Lazelle.png/1920px-View_of_a_house_and_a_yard%2C_by_Goldsmith_%26_Lazelle.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/35/View_of_a_house_and_a_yard%2C_by_Goldsmith_%26_Lazelle.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_house_and_a_yard,_by_Goldsmith_%26_Lazelle.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1609,
+  "id": "STA-3944",
+  "rect": "rect/3943.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.17,
+  "rot": 0.01,
+  "range": 0.95,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.6008,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/View_of_a_house_and_a_yard%2C_by_Goldsmith_%26_Lazelle.png/1920px-View_of_a_house_and_a_yard%2C_by_Goldsmith_%26_Lazelle.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.6008,
+   "L": [
+    0.421875,
+    0.0,
+    0.053906,
+    0.0,
+    0.448184,
+    0.324624
+   ],
+   "R": [
+    0.422732,
+    0.003049,
+    0.506049,
+    -0.01077,
+    0.448136,
+    0.32647
+   ],
+   "g": [
+    0.9567,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.01° of rotation. Depth measured gentle (0.95% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Goldsmith & Lazelle",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7447743,
+  "source_revision_id": null,
+  "source_sha1": "835b55c6f217fb7c450360945c998618c2901c27"
+ },
+ {
+  "title": "View of a train, by Milan P. Warner",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/View_of_a_train%2C_by_Milan_P._Warner.jpg/1920px-View_of_a_train%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/e3/View_of_a_train%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_a_train,_by_Milan_P._Warner.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1592,
+  "id": "STA-3945",
+  "rect": "rect/3944.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.19,
+  "rot": 0.01,
+  "range": 1.3,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.9889,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/View_of_a_train%2C_by_Milan_P._Warner.jpg/1920px-View_of_a_train%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.9889,
+   "L": [
+    0.373958,
+    0.0,
+    0.107031,
+    0.0,
+    0.323187,
+    0.363921
+   ],
+   "R": [
+    0.374406,
+    -0.002184,
+    0.538183,
+    0.003122,
+    0.324007,
+    0.365675
+   ],
+   "g": [
+    1.0,
+    0.9921
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.01° of rotation. Depth measured gentle (1.3% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Milan P. Warner",
+  "creator_dates": null,
+  "facets": [
+   "oddities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7447841,
+  "source_revision_id": null,
+  "source_sha1": "434f58cac18ca90db57d0ee7f7dee6c3062f5f8e"
+ },
+ {
+  "title": "View of an unidentified building, by Milan P. Warner",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/View_of_an_unidentified_building%2C_by_Milan_P._Warner.jpg/1920px-View_of_an_unidentified_building%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/07/View_of_an_unidentified_building%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_an_unidentified_building,_by_Milan_P._Warner.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1559,
+  "id": "STA-3946",
+  "rect": "rect/3945.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.03,
+  "range": 0.89,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8289,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/View_of_an_unidentified_building%2C_by_Milan_P._Warner.jpg/1920px-View_of_an_unidentified_building%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8289,
+   "L": [
+    0.358333,
+    0.0,
+    0.13099,
+    0.0,
+    0.758684,
+    0.052559
+   ],
+   "R": [
+    0.358602,
+    0.000613,
+    0.527145,
+    -0.000818,
+    0.7591,
+    0.052149
+   ],
+   "g": [
+    1.0,
+    0.9591
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.03° of rotation. Depth measured gentle (0.89% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Milan P. Warner",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7447796,
+  "source_revision_id": null,
+  "source_sha1": "8fcd0abc9b70d888e3527a01dde83176ab3b9c1f"
+ },
+ {
+  "title": "View of an unidentified building, by Milan P. Warner 2",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/View_of_an_unidentified_building%2C_by_Milan_P._Warner_2.jpg/1920px-View_of_an_unidentified_building%2C_by_Milan_P._Warner_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/ba/View_of_an_unidentified_building%2C_by_Milan_P._Warner_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_an_unidentified_building,_by_Milan_P._Warner_2.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1613,
+  "id": "STA-3947",
+  "rect": "rect/3946.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.17,
+  "rot": 0.01,
+  "range": 3.39,
+  "f": 0.63,
+  "depth": "Deep",
+  "va": 1.5533,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/View_of_an_unidentified_building%2C_by_Milan_P._Warner_2.jpg/1920px-View_of_an_unidentified_building%2C_by_Milan_P._Warner_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5533,
+   "L": [
+    0.356771,
+    0.0,
+    0.11224,
+    0.0,
+    0.389576,
+    0.318463
+   ],
+   "R": [
+    0.35796,
+    0.001202,
+    0.536934,
+    -0.002467,
+    0.389406,
+    0.324503
+   ],
+   "g": [
+    0.9273,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.01° of rotation. Depth measured deep (3.39% of frame width); hung in the VR Parlor at 63% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Milan P. Warner",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7447843,
+  "source_revision_id": null,
+  "source_sha1": "61bf92421df606b42f499a713bfb116326381259"
+ },
+ {
+  "title": "View of houses, by Milan P. Warner",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/View_of_houses%2C_by_Milan_P._Warner.jpg/1920px-View_of_houses%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b3/View_of_houses%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_houses,_by_Milan_P._Warner.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1638,
+  "id": "STA-3948",
+  "rect": "rect/3947.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 0.38,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.19,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/View_of_houses%2C_by_Milan_P._Warner.jpg/1920px-View_of_houses%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.19,
+   "L": [
+    0.384896,
+    0.0,
+    0.083073,
+    0.0,
+    0.54047,
+    0.28416
+   ],
+   "R": [
+    0.384587,
+    -0.004373,
+    0.518958,
+    0.003963,
+    0.540409,
+    0.295988
+   ],
+   "g": [
+    0.999,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (0.38% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Milan P. Warner",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7447830,
+  "source_revision_id": null,
+  "source_sha1": "beb720856e6e6033af376bf4e41b659465806040"
+ },
+ {
+  "title": "View of people standing and sitting at long tables under trees, by C. A. Sweetser & Co.",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/View_of_people_standing_and_sitting_at_long_tables_under_trees%2C_by_C._A._Sweetser_%26_Co..jpg/1920px-View_of_people_standing_and_sitting_at_long_tables_under_trees%2C_by_C._A._Sweetser_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ea/View_of_people_standing_and_sitting_at_long_tables_under_trees%2C_by_C._A._Sweetser_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_people_standing_and_sitting_at_long_tables_under_trees,_by_C._A._Sweetser_%26_Co..jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1422,
+  "id": "STA-3949",
+  "rect": "rect/3948.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.02,
+  "range": 1.01,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0928,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/View_of_people_standing_and_sitting_at_long_tables_under_trees%2C_by_C._A._Sweetser_%26_Co..jpg/1920px-View_of_people_standing_and_sitting_at_long_tables_under_trees%2C_by_C._A._Sweetser_%26_Co..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0928,
+   "L": [
+    0.361979,
+    0.0,
+    0.11849,
+    0.0,
+    0.637275,
+    0.22996
+   ],
+   "R": [
+    0.36445,
+    -0.008738,
+    0.514718,
+    -0.00157,
+    0.641412,
+    0.228525
+   ],
+   "g": [
+    1.0,
+    0.9479
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.02° of rotation. Depth measured gentle (1.01% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "C. A. Sweetser & Co.",
+  "creator_dates": null,
+  "facets": [
+   "people"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7447720,
+  "source_revision_id": null,
+  "source_sha1": "4cbb0d08d7d724ec2ccaba72fdef801b9b853ffd"
+ },
+ {
+  "title": "View of unidentified buildings, by Milan P. Warner",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/View_of_unidentified_buildings%2C_by_Milan_P._Warner.jpg/1920px-View_of_unidentified_buildings%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b2/View_of_unidentified_buildings%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_unidentified_buildings,_by_Milan_P._Warner.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1603,
+  "id": "STA-3950",
+  "rect": "rect/3949.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.04,
+  "range": 1.06,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8627,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/View_of_unidentified_buildings%2C_by_Milan_P._Warner.jpg/1920px-View_of_unidentified_buildings%2C_by_Milan_P._Warner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8627,
+   "L": [
+    0.405729,
+    0.0,
+    0.086719,
+    0.0,
+    0.802667,
+    0.045778
+   ],
+   "R": [
+    0.405136,
+    0.000656,
+    0.505044,
+    -0.002073,
+    0.80366,
+    0.052662
+   ],
+   "g": [
+    0.984,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.04° of rotation. Depth measured gentle (1.06% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Milan P. Warner",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7447760,
+  "source_revision_id": null,
+  "source_sha1": "f9e7354b72f8a01067e3e1b7f7c2eb4dfed20c77"
+ },
+ {
+  "title": "View of unidentified buildings, by Milan P. Warner 2",
+  "place": "Springfield, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/View_of_unidentified_buildings%2C_by_Milan_P._Warner_2.jpg/1920px-View_of_unidentified_buildings%2C_by_Milan_P._Warner_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/88/View_of_unidentified_buildings%2C_by_Milan_P._Warner_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_unidentified_buildings,_by_Milan_P._Warner_2.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1603,
+  "id": "STA-3951",
+  "rect": "rect/3950.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 0.79,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7822,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/View_of_unidentified_buildings%2C_by_Milan_P._Warner_2.jpg/1920px-View_of_unidentified_buildings%2C_by_Milan_P._Warner_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7822,
+   "L": [
+    0.376042,
+    0.0,
+    0.102344,
+    0.0,
+    0.820444,
+    0.054667
+   ],
+   "R": [
+    0.375396,
+    -0.000862,
+    0.532221,
+    0.002303,
+    0.822461,
+    0.048531
+   ],
+   "g": [
+    1.0,
+    0.9903
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (0.79% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Milan P. Warner",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7447799,
+  "source_revision_id": null,
+  "source_sha1": "c1331c30c98abc3dbfae230edc1d193ff05c0b4f"
  }
 ]
