@@ -282142,7 +282142,11 @@
   "license_url": null,
   "source_page_id": 10069233,
   "source_revision_id": null,
-  "source_sha1": "7f45b56928c7073d42cd87dfe6eaaabc75ba2dc2"
+  "source_sha1": "7f45b56928c7073d42cd87dfe6eaaabc75ba2dc2",
+  "tags": [
+   "room interior",
+   "crowd"
+  ]
  },
  {
   "title": "Altar",
@@ -282211,7 +282215,11 @@
   "license_url": null,
   "source_page_id": 10077392,
   "source_revision_id": null,
-  "source_sha1": "407c930d1e438e208a3744342085d45dbeb470e8"
+  "source_sha1": "407c930d1e438e208a3744342085d45dbeb470e8",
+  "tags": [
+   "church interior",
+   "statue"
+  ]
  },
  {
   "title": "Approach to Assembly Chamber, by Aaron Veeder",
@@ -282487,7 +282495,11 @@
   "license_url": null,
   "source_page_id": 10077771,
   "source_revision_id": null,
-  "source_sha1": "13280b48f4d29c8b376ea26d81c4c91d799f2e1c"
+  "source_sha1": "13280b48f4d29c8b376ea26d81c4c91d799f2e1c",
+  "tags": [
+   "room interior",
+   "fireplace"
+  ]
  },
  {
   "title": "Assembly Chamber",
@@ -282763,7 +282775,12 @@
   "license_url": null,
   "source_page_id": 10077203,
   "source_revision_id": null,
-  "source_sha1": "3e5e07438279f457c053dc1ba03f7874a8a748c0"
+  "source_sha1": "3e5e07438279f457c053dc1ba03f7874a8a748c0",
+  "tags": [
+   "main street",
+   "horse-drawn carriage",
+   "storefront"
+  ]
  },
  {
   "title": "The old Capitol. (3990421775)",
@@ -282901,7 +282918,11 @@
   "license_url": null,
   "source_page_id": 10077379,
   "source_revision_id": null,
-  "source_sha1": "c3c2aea8ab8803929db101a46df00288ba5de7f5"
+  "source_sha1": "c3c2aea8ab8803929db101a46df00288ba5de7f5",
+  "tags": [
+   "church interior",
+   "statue"
+  ]
  },
  {
   "title": "Cathedral (interior view), from Robert N. Dennis collection of stereoscopic views 2",
@@ -282970,7 +282991,11 @@
   "license_url": null,
   "source_page_id": 10077386,
   "source_revision_id": null,
-  "source_sha1": "ace99b7ca08bb01f44210d7f13cdca36dc56f855"
+  "source_sha1": "ace99b7ca08bb01f44210d7f13cdca36dc56f855",
+  "tags": [
+   "church interior",
+   "pipe organ"
+  ]
  },
  {
   "title": "Church, from Robert N. Dennis collection of stereoscopic views 4",
@@ -283039,7 +283064,11 @@
   "license_url": null,
   "source_page_id": 10077574,
   "source_revision_id": null,
-  "source_sha1": "348c0cc5cd2d38f8a57610858b0b73f5b7e36676"
+  "source_sha1": "348c0cc5cd2d38f8a57610858b0b73f5b7e36676",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "Court of Appeals",
@@ -283177,7 +283206,11 @@
   "license_url": null,
   "source_page_id": 10077783,
   "source_revision_id": null,
-  "source_sha1": "2355b94c7b54352bd9365fafe8362541b9453e76"
+  "source_sha1": "2355b94c7b54352bd9365fafe8362541b9453e76",
+  "tags": [
+   "room interior",
+   "fireplace"
+  ]
  },
  {
   "title": "Fireplace, Assembly Chamber",
@@ -283246,7 +283279,11 @@
   "license_url": null,
   "source_page_id": 10077526,
   "source_revision_id": null,
-  "source_sha1": "0388f8a1e6e2fe622e703748ca6045e571f91711"
+  "source_sha1": "0388f8a1e6e2fe622e703748ca6045e571f91711",
+  "tags": [
+   "fireplace",
+   "room interior"
+  ]
  },
  {
   "title": "Front view of Assembly Chamber, by Aaron Veeder",
@@ -283386,7 +283423,13 @@
   "license_url": null,
   "source_page_id": 10077485,
   "source_revision_id": null,
-  "source_sha1": "32eba79f132f8a0a65b48d65045c0ccfd3e9b71f"
+  "source_sha1": "32eba79f132f8a0a65b48d65045c0ccfd3e9b71f",
+  "tags": [
+   "funeral",
+   "crowd",
+   "horse-drawn carriage",
+   "main street"
+  ]
  },
  {
   "title": "Governor's room",
@@ -283455,7 +283498,11 @@
   "license_url": null,
   "source_page_id": 10077463,
   "source_revision_id": null,
-  "source_sha1": "8e297c630cab3c648986c192a228c40a94979842"
+  "source_sha1": "8e297c630cab3c648986c192a228c40a94979842",
+  "tags": [
+   "room interior",
+   "fireplace"
+  ]
  },
  {
   "title": "Grand Staircase, by Aaron Veeder",
@@ -283524,7 +283571,11 @@
   "license_url": null,
   "source_page_id": 10077858,
   "source_revision_id": null,
-  "source_sha1": "4b676b98a16ed8e6dafecc7f3c631991258de8d7"
+  "source_sha1": "4b676b98a16ed8e6dafecc7f3c631991258de8d7",
+  "tags": [
+   "staircase",
+   "room interior"
+  ]
  },
  {
   "title": "Interior view, by Aaron Veeder",
@@ -283593,7 +283644,11 @@
   "license_url": null,
   "source_page_id": 10077792,
   "source_revision_id": null,
-  "source_sha1": "ccf40e7063d4af54023f5031f17d44cb529e3180"
+  "source_sha1": "ccf40e7063d4af54023f5031f17d44cb529e3180",
+  "tags": [
+   "room interior",
+   "fireplace"
+  ]
  },
  {
   "title": "Interior view of a church, from Robert N. Dennis collection of stereoscopic views 2",
@@ -283662,7 +283717,11 @@
   "license_url": null,
   "source_page_id": 10077361,
   "source_revision_id": null,
-  "source_sha1": "07c568bc55e943a37606cc60d68786963ffa9f6b"
+  "source_sha1": "07c568bc55e943a37606cc60d68786963ffa9f6b",
+  "tags": [
+   "church interior",
+   "statue"
+  ]
  },
  {
   "title": "Interior view of a church, from Robert N. Dennis collection of stereoscopic views 3",
@@ -283731,7 +283790,11 @@
   "license_url": null,
   "source_page_id": 10077365,
   "source_revision_id": null,
-  "source_sha1": "ae392d4be9c171b3deebb42ffe83699e8d7d6db5"
+  "source_sha1": "ae392d4be9c171b3deebb42ffe83699e8d7d6db5",
+  "tags": [
+   "church interior",
+   "pipe organ"
+  ]
  },
  {
   "title": "New Capitol",
@@ -283800,7 +283863,11 @@
   "license_url": null,
   "source_page_id": 10077513,
   "source_revision_id": null,
-  "source_sha1": "354401d92c62e94ee0771be73eeec59efcf208eb"
+  "source_sha1": "354401d92c62e94ee0771be73eeec59efcf208eb",
+  "tags": [
+   "construction",
+   "trees"
+  ]
  },
  {
   "title": "New Capitol building",
@@ -283938,7 +284005,11 @@
   "license_url": null,
   "source_page_id": 10077410,
   "source_revision_id": null,
-  "source_sha1": "18afb3c4fddaa6d097f4186651d92c340255f080"
+  "source_sha1": "18afb3c4fddaa6d097f4186651d92c340255f080",
+  "tags": [
+   "construction",
+   "snow"
+  ]
  },
  {
   "title": "New State Capitol, Albany, N.Y, by Aaron Veeder",
@@ -284214,7 +284285,11 @@
   "license_url": null,
   "source_page_id": 10077637,
   "source_revision_id": null,
-  "source_sha1": "cd5639304614811211dd274284bb32a39940d266"
+  "source_sha1": "cd5639304614811211dd274284bb32a39940d266",
+  "tags": [
+   "construction",
+   "trees"
+  ]
  },
  {
   "title": "North entrance hall, by Aaron Veeder",
@@ -284352,7 +284427,11 @@
   "license_url": null,
   "source_page_id": 10077930,
   "source_revision_id": null,
-  "source_sha1": "0ccb0d8cb6c5779aa0e915073ef30266639fc4e1"
+  "source_sha1": "0ccb0d8cb6c5779aa0e915073ef30266639fc4e1",
+  "tags": [
+   "children",
+   "trees"
+  ]
  },
  {
   "title": "Senate Chamber, 1879",
@@ -284835,7 +284914,13 @@
   "license_url": null,
   "source_page_id": 10077893,
   "source_revision_id": null,
-  "source_sha1": "5c9edd94a6e2ed4c6492caa8e37a05a03db99b4f"
+  "source_sha1": "5c9edd94a6e2ed4c6492caa8e37a05a03db99b4f",
+  "tags": [
+   "main street",
+   "horse-drawn carriage",
+   "storefront",
+   "crowd"
+  ]
  },
  {
   "title": "The Assembly Chamber, by Aaron Veeder 2",
@@ -284973,7 +285058,12 @@
   "license_url": null,
   "source_page_id": 10077493,
   "source_revision_id": null,
-  "source_sha1": "7988c08ef499b2ea5ef9a1897a3a707c9ee94912"
+  "source_sha1": "7988c08ef499b2ea5ef9a1897a3a707c9ee94912",
+  "tags": [
+   "house",
+   "trees",
+   "portrait group"
+  ]
  },
  {
   "title": "The Cathedral, from Robert N. Dennis collection of stereoscopic views 2",
@@ -285042,7 +285132,11 @@
   "license_url": null,
   "source_page_id": 10077500,
   "source_revision_id": null,
-  "source_sha1": "a3145342a304d88bc123d1f50674863d99c35ded"
+  "source_sha1": "a3145342a304d88bc123d1f50674863d99c35ded",
+  "tags": [
+   "church",
+   "trees"
+  ]
  },
  {
   "title": "The Golden Corridor, by Aaron Veeder",
@@ -285249,7 +285343,11 @@
   "license_url": null,
   "source_page_id": 10077736,
   "source_revision_id": null,
-  "source_sha1": "d686a7e2131d031ac647f876a9cdf99122da4a3d"
+  "source_sha1": "d686a7e2131d031ac647f876a9cdf99122da4a3d",
+  "tags": [
+   "room interior",
+   "statue"
+  ]
  },
  {
   "title": "The Grand Corridor, by Aaron Veeder",
@@ -285387,7 +285485,11 @@
   "license_url": null,
   "source_page_id": 10077747,
   "source_revision_id": null,
-  "source_sha1": "64528ad2c530a433aa2e57b7d9f94d62583adbee"
+  "source_sha1": "64528ad2c530a433aa2e57b7d9f94d62583adbee",
+  "tags": [
+   "staircase",
+   "room interior"
+  ]
  },
  {
   "title": "The Grand Staircase, by Aaron Veeder 3",
@@ -285456,7 +285558,11 @@
   "license_url": null,
   "source_page_id": 10077830,
   "source_revision_id": null,
-  "source_sha1": "8644e509449ee4946eef074f6daf59944056531a"
+  "source_sha1": "8644e509449ee4946eef074f6daf59944056531a",
+  "tags": [
+   "staircase",
+   "room interior"
+  ]
  },
  {
   "title": "The Grand Staircase, by Aaron Veeder 4",
@@ -285525,7 +285631,11 @@
   "license_url": null,
   "source_page_id": 10077915,
   "source_revision_id": null,
-  "source_sha1": "b490a1146aab4ff1d3358d4cf5aec5fa92c27fbd"
+  "source_sha1": "b490a1146aab4ff1d3358d4cf5aec5fa92c27fbd",
+  "tags": [
+   "staircase",
+   "room interior"
+  ]
  },
  {
   "title": "The drinking fountain shelter, by Aaron Veeder",
@@ -285594,7 +285704,12 @@
   "license_url": null,
   "source_page_id": 10077922,
   "source_revision_id": null,
-  "source_sha1": "e5f34d51e3304046b7dc72062fc207b4027b227e"
+  "source_sha1": "e5f34d51e3304046b7dc72062fc207b4027b227e",
+  "tags": [
+   "gazebo",
+   "trees",
+   "portrait group"
+  ]
  },
  {
   "title": "The magnificent State Capitol Building at Albany, N.Y., U.S.A",
