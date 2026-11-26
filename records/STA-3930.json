@@ -1,0 +1,69 @@
+{
+ "title": "Three Dams, Mill River",
+ "place": "Springfield, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Three_Dams%2C_Mill_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Three_Dams%2C_Mill_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Three_Dams%2C_Mill_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Three_Dams,_Mill_River,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1445,
+ "id": "STA-3930",
+ "rect": "rect/3929.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.15,
+ "rot": 0.03,
+ "range": 0.94,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.9356,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Three_Dams%2C_Mill_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Three_Dams%2C_Mill_River%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.9356,
+  "L": [
+   0.317708,
+   0.0,
+   0.128385,
+   0.0,
+   0.642998,
+   0.050789
+  ],
+  "R": [
+   0.315568,
+   -0.006384,
+   0.555014,
+   0.001677,
+   0.641425,
+   0.047316
+  ],
+  "g": [
+   0.912,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.03° of rotation. Depth measured gentle (0.94% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7447618,
+ "source_revision_id": null,
+ "source_sha1": "c0c2d62b5b0b75181719182d95d9de5b9c0f6433"
+}

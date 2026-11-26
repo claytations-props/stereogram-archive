@@ -1,0 +1,71 @@
+{
+ "title": "Trinity Church (Methodist), by Herman Buchholz",
+ "place": "Springfield, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities",
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Trinity_Church_%28Methodist%29%2C_by_Herman_Buchholz.jpg/1920px-Trinity_Church_%28Methodist%29%2C_by_Herman_Buchholz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Trinity_Church_%28Methodist%29%2C_by_Herman_Buchholz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Trinity_Church_(Methodist),_by_Herman_Buchholz.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1430,
+ "id": "STA-3931",
+ "rect": "rect/3930.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.13,
+ "rot": 0.05,
+ "range": 0.76,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.894,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Trinity_Church_%28Methodist%29%2C_by_Herman_Buchholz.jpg/1920px-Trinity_Church_%28Methodist%29%2C_by_Herman_Buchholz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.894,
+  "L": [
+   0.408333,
+   0.0,
+   0.082031,
+   0.0,
+   0.874377,
+   0.050349
+  ],
+  "R": [
+   0.414185,
+   0.004209,
+   0.505956,
+   -0.004519,
+   0.881074,
+   0.058187
+  ],
+  "g": [
+   1.0,
+   0.9968
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.05° of rotation. Depth measured gentle (0.76% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Herman Buchholz",
+ "creator_dates": null,
+ "facets": [
+  "cities",
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7447688,
+ "source_revision_id": null,
+ "source_sha1": "d96e1858b1e895e4e66b89d36c108feafc3f3b5a"
+}

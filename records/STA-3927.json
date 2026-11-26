@@ -1,0 +1,71 @@
+{
+ "title": "Street view, looking up Main Street, by Herman Buchholz",
+ "place": "Springfield, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities",
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Street_view%2C_looking_up_Main_Street%2C_by_Herman_Buchholz.jpg/1920px-Street_view%2C_looking_up_Main_Street%2C_by_Herman_Buchholz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Street_view%2C_looking_up_Main_Street%2C_by_Herman_Buchholz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Street_view,_looking_up_Main_Street,_by_Herman_Buchholz.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1410,
+ "id": "STA-3927",
+ "rect": "rect/3926.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.18,
+ "rot": 0.01,
+ "range": 0.58,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.6891,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Street_view%2C_looking_up_Main_Street%2C_by_Herman_Buchholz.jpg/1920px-Street_view%2C_looking_up_Main_Street%2C_by_Herman_Buchholz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.6891,
+  "L": [
+   0.41875,
+   0.0,
+   0.071615,
+   0.0,
+   0.481294,
+   0.361476
+  ],
+  "R": [
+   0.422217,
+   -0.002342,
+   0.507344,
+   0.003865,
+   0.484915,
+   0.355695
+  ],
+  "g": [
+   1.0,
+   0.9799
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.01° of rotation. Depth measured gentle (0.58% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Herman Buchholz",
+ "creator_dates": null,
+ "facets": [
+  "cities",
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7447695,
+ "source_revision_id": null,
+ "source_sha1": "34b1e1771475fda979f5d482857cd997322ce3f8"
+}
