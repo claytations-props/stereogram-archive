@@ -1,0 +1,69 @@
+{
+ "title": "Nyack, from the Boulevard, by Van Wagner",
+ "place": "Nyack, New York",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Nyack%2C_from_the_Boulevard%2C_by_Van_Wagner.png/1920px-Nyack%2C_from_the_Boulevard%2C_by_Van_Wagner.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Nyack%2C_from_the_Boulevard%2C_by_Van_Wagner.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Nyack,_from_the_Boulevard,_by_Van_Wagner.png",
+ "license": "Public domain",
+ "w": 2663,
+ "h": 1342,
+ "id": "STA-4049",
+ "rect": "rect/4048.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.13,
+ "rot": 0.0,
+ "range": 2.7,
+ "f": 1.0,
+ "depth": "Deep",
+ "va": 1.1523,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Nyack%2C_from_the_Boulevard%2C_by_Van_Wagner.png/1920px-Nyack%2C_from_the_Boulevard%2C_by_Van_Wagner.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.1523,
+  "L": [
+   0.409896,
+   0.0,
+   0.070052,
+   0.0,
+   0.705579,
+   0.24845
+  ],
+  "R": [
+   0.406214,
+   0.003363,
+   0.506105,
+   -0.001594,
+   0.703852,
+   0.257977
+  ],
+  "g": [
+   0.9639,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.0° of rotation. Depth measured deep (2.7% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Van Wagner",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10068167,
+ "source_revision_id": null,
+ "source_sha1": "8bae90452aaf2983550e700cb742bf6c9b428937"
+}

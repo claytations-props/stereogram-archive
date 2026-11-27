@@ -1,0 +1,69 @@
+{
+ "title": "View of a home in Nyack, by Van Wagner",
+ "place": "Nyack, New York",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/View_of_a_home_in_Nyack%2C_by_Van_Wagner.jpg/1920px-View_of_a_home_in_Nyack%2C_by_Van_Wagner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/6d/View_of_a_home_in_Nyack%2C_by_Van_Wagner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:View_of_a_home_in_Nyack,_by_Van_Wagner.jpg",
+ "license": "Public domain",
+ "w": 2657,
+ "h": 1342,
+ "id": "STA-4047",
+ "rect": "rect/4046.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.08,
+ "rot": 0.02,
+ "range": 1.39,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.3037,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/View_of_a_home_in_Nyack%2C_by_Van_Wagner.jpg/1920px-View_of_a_home_in_Nyack%2C_by_Van_Wagner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.3037,
+  "L": [
+   0.420312,
+   0.0,
+   0.073177,
+   0.0,
+   0.638144,
+   0.322165
+  ],
+  "R": [
+   0.416996,
+   -0.011086,
+   0.516787,
+   -0.007634,
+   0.633986,
+   0.334719
+  ],
+  "g": [
+   1.0,
+   0.985
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.02° of rotation. Depth measured gentle (1.39% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Van Wagner",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10068208,
+ "source_revision_id": null,
+ "source_sha1": "9620d424a1abf19a13f1d01300ae6b016f34f89d"
+}
