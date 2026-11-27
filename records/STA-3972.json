@@ -1,0 +1,69 @@
+{
+ "title": "Mill Race at Little Falls",
+ "place": "Little Falls, New York",
+ "year": "1868",
+ "sy": 1868,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Mill_Race_at_Little_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Mill_Race_at_Little_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mill_Race_at_Little_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Mill_Race_at_Little_Falls,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2657,
+ "h": 1366,
+ "id": "STA-3972",
+ "rect": "rect/3971.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.13,
+ "rot": 0.04,
+ "range": 1.98,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 0.7749,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Mill_Race_at_Little_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Mill_Race_at_Little_Falls%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.7749,
+  "L": [
+   0.360417,
+   0.0,
+   0.11276,
+   0.0,
+   0.904762,
+   0.054205
+  ],
+  "R": [
+   0.364492,
+   -0.024623,
+   0.53183,
+   -4e-06,
+   0.906388,
+   0.054413
+  ],
+  "g": [
+   1.0,
+   0.9854
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.04° of rotation. Depth measured moderate (1.98% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1868",
+ "date_start": 1868,
+ "date_end": 1868,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10067451,
+ "source_revision_id": null,
+ "source_sha1": "8c0f1d56764f371761434da02593df663a136cad"
+}
