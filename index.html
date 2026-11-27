@@ -754,11 +754,16 @@ $("#q").oninput=e=>{const v=e.target.value.trim().toLowerCase();clearTimeout(qTi
    named a key for it, and no key did it (live walk, round 19).
    Pressing "/" anywhere outside a text field focuses the search box,
    the way archives and mail apps do it; inside the viewer, or inside
-   any input, "/" types as itself. */
+   any input, "/" types as itself.
+   Round 20: the guard also excluded selects, so "/" sat dead for a
+   keyboard visitor tabbed onto the era or sort dropdown — the one
+   place a keyboard visitor is most likely to be standing. A select
+   takes no text ("/" matches no option), so the guard covers inputs
+   and textareas only. */
 document.addEventListener("keydown",e=>{
  if(e.key!=="/")return;
  if(document.getElementById("viewer").classList.contains("open"))return;
- if(e.target.closest&&e.target.closest("input,select,textarea"))return;
+ if(e.target.closest&&e.target.closest("input,textarea"))return;
  e.preventDefault();document.getElementById("q").focus();
 });
 $("#era").onchange=e=>{state.era=e.target.value;revealNext=true;render()};
