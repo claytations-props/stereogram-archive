@@ -1,0 +1,71 @@
+{
+ "title": "The Surf at Long Branch, N.J",
+ "place": "Long Branch, New Jersey",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "water",
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/The_Surf_at_Long_Branch%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Surf_at_Long_Branch%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/ed/The_Surf_at_Long_Branch%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:The_Surf_at_Long_Branch,_N.J,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2571,
+ "h": 1273,
+ "id": "STA-4012",
+ "rect": "rect/4011.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.22,
+ "rot": 0.04,
+ "range": 0.41,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.7889,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/The_Surf_at_Long_Branch%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Surf_at_Long_Branch%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.7889,
+  "L": [
+   0.317708,
+   0.0,
+   0.14401,
+   0.0,
+   0.35857,
+   0.545216
+  ],
+  "R": [
+   0.317928,
+   -0.001601,
+   0.592225,
+   -0.001589,
+   0.358823,
+   0.549717
+  ],
+  "g": [
+   1.0,
+   0.8699
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.04° of rotation. Depth measured gentle (0.41% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10039555,
+ "source_revision_id": null,
+ "source_sha1": "f746aae7d3c9fbc9a011456c55b1f820f3bc66d3"
+}

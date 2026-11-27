@@ -235310,5 +235310,1484 @@
   "date_start": 1868,
   "date_end": 1868,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Long Branch, N.J. (View of a cottage.)",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Long_Branch%2C_N.J._%28View_of_a_cottage.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Long_Branch%2C_N.J._%28View_of_a_cottage.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Long_Branch%2C_N.J._%28View_of_a_cottage.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Long_Branch,_N.J._(View_of_a_cottage.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2643,
+  "h": 1341,
+  "id": "STA-3990",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3989.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 1.55,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.0815,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Long_Branch%2C_N.J._%28View_of_a_cottage.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Long_Branch%2C_N.J._%28View_of_a_cottage.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0815,
+   "L": [
+    0.414583,
+    0.0,
+    0.076823,
+    0.0,
+    0.755647,
+    0.033368
+   ],
+   "R": [
+    0.41566,
+    -0.000215,
+    0.506586,
+    0.000113,
+    0.759013,
+    0.028655
+   ],
+   "g": [
+    0.9797,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured moderate (1.55% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "'Hollywood,' Long Branch",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/6f/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:%27Hollywood,%27_Long_Branch,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2586,
+  "h": 1302,
+  "id": "STA-3991",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3990.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 8.64,
+  "f": 0.56,
+  "depth": "Deep",
+  "va": 0.6419,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.6419,
+   "L": [
+    0.30625,
+    0.0,
+    0.086198,
+    0.0,
+    0.94726,
+    0.0212
+   ],
+   "R": [
+    0.292878,
+    -0.000116,
+    0.5187,
+    0.00168,
+    0.935934,
+    0.031675
+   ],
+   "g": [
+    0.9754,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured deep (8.64% of frame width); hung in the VR Parlor at 56% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Aerial view of 'Hollywood' Long Branch, N.J",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Aerial_view_of_%27Hollywood%27_Long_Branch%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Aerial_view_of_%27Hollywood%27_Long_Branch%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/39/Aerial_view_of_%27Hollywood%27_Long_Branch%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_%27Hollywood%27_Long_Branch,_N.J,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2587,
+  "h": 1498,
+  "id": "STA-3992",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3991.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.03,
+  "range": 0.87,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9803,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Aerial_view_of_%27Hollywood%27_Long_Branch%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Aerial_view_of_%27Hollywood%27_Long_Branch%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9803,
+   "L": [
+    0.415625,
+    0.0,
+    0.065885,
+    0.0,
+    0.732014,
+    0.129946
+   ],
+   "R": [
+    0.418277,
+    -0.024263,
+    0.531937,
+    0.01297,
+    0.733157,
+    0.120983
+   ],
+   "g": [
+    0.9684,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.03° of rotation. Depth measured gentle (0.87% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Bird's eye view of 'Hollywood' Long Branch",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Bird%27s_eye_view_of_%27Hollywood%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s_eye_view_of_%27Hollywood%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bird%27s_eye_view_of_%27Hollywood%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Bird%27s_eye_view_of_%27Hollywood%27_Long_Branch,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2586,
+  "h": 1317,
+  "id": "STA-3993",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3992.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 0.58,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7961,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Bird%27s_eye_view_of_%27Hollywood%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s_eye_view_of_%27Hollywood%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7961,
+   "L": [
+    0.361979,
+    0.0,
+    0.088281,
+    0.0,
+    0.892638,
+    0.077198
+   ],
+   "R": [
+    0.362319,
+    -0.003487,
+    0.514907,
+    0.004512,
+    0.892811,
+    0.064451
+   ],
+   "g": [
+    0.9504,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured gentle (0.58% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of the Atlantic Ocean, from Long Branch",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/View_of_the_Atlantic_Ocean%2C_from_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_the_Atlantic_Ocean%2C_from_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0f/View_of_the_Atlantic_Ocean%2C_from_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_the_Atlantic_Ocean,_from_Long_Branch,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2606,
+  "h": 1306,
+  "id": "STA-3994",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3993.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.03,
+  "range": 0.46,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.5346,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/View_of_the_Atlantic_Ocean%2C_from_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-View_of_the_Atlantic_Ocean%2C_from_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5346,
+   "L": [
+    0.369271,
+    0.0,
+    0.10026,
+    0.0,
+    0.480249,
+    0.502599
+   ],
+   "R": [
+    0.369246,
+    -0.005918,
+    0.533762,
+    0.006386,
+    0.477463,
+    0.482071
+   ],
+   "g": [
+    1.0,
+    0.9704
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.03° of rotation. Depth measured gentle (0.46% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Long Branch Beach",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Long_Branch_Beach%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Long_Branch_Beach%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/97/Long_Branch_Beach%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Long_Branch_Beach,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2615,
+  "h": 1297,
+  "id": "STA-3995",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3994.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.01,
+  "range": 0.55,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.8234,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Long_Branch_Beach%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Long_Branch_Beach%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.8234,
+   "L": [
+    0.381771,
+    0.0,
+    0.094531,
+    0.0,
+    0.422269,
+    0.392332
+   ],
+   "R": [
+    0.379877,
+    -0.003624,
+    0.533031,
+    0.005098,
+    0.419868,
+    0.39012
+   ],
+   "g": [
+    0.957,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured gentle (0.55% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Long Branch, N.J. (View of the Atlantic Ocean.)",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Long_Branch%2C_N.J._%28View_of_the_Atlantic_Ocean.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Long_Branch%2C_N.J._%28View_of_the_Atlantic_Ocean.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/38/Long_Branch%2C_N.J._%28View_of_the_Atlantic_Ocean.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Long_Branch,_N.J._(View_of_the_Atlantic_Ocean.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2611,
+  "h": 1321,
+  "id": "STA-3996",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3995.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.01,
+  "range": 0.35,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0221,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Long_Branch%2C_N.J._%28View_of_the_Atlantic_Ocean.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Long_Branch%2C_N.J._%28View_of_the_Atlantic_Ocean.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0221,
+   "L": [
+    0.385937,
+    0.0,
+    0.10026,
+    0.0,
+    0.746653,
+    0.212667
+   ],
+   "R": [
+    0.386823,
+    -0.004758,
+    0.509604,
+    -0.003142,
+    0.747375,
+    0.22034
+   ],
+   "g": [
+    0.9491,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured gentle (0.35% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Long Branch Pier",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Long_Branch_Pier%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Long_Branch_Pier%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/93/Long_Branch_Pier%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Long_Branch_Pier,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2584,
+  "h": 1295,
+  "id": "STA-3997",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3996.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 1.29,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8268,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Long_Branch_Pier%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Long_Branch_Pier%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8268,
+   "L": [
+    0.350521,
+    0.0,
+    0.083073,
+    0.0,
+    0.846154,
+    0.132536
+   ],
+   "R": [
+    0.359923,
+    -0.000693,
+    0.510319,
+    0.000539,
+    0.847292,
+    0.122837
+   ],
+   "g": [
+    0.9593,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (1.29% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Ocean Avenue, Long Branch",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Ocean_Avenue%2C_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Ocean_Avenue%2C_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ocean_Avenue%2C_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Ocean_Avenue,_Long_Branch,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2595,
+  "h": 1299,
+  "id": "STA-3998",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3997.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.23,
+  "rot": 0.0,
+  "range": 0.48,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.2282,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Ocean_Avenue%2C_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Ocean_Avenue%2C_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.2282,
+   "L": [
+    0.386458,
+    0.0,
+    0.100781,
+    0.0,
+    0.346514,
+    0.332466
+   ],
+   "R": [
+    0.383345,
+    0.00056,
+    0.527958,
+    0.002408,
+    0.345989,
+    0.338327
+   ],
+   "g": [
+    0.9616,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.23% vertical error and 0.0° of rotation. Depth measured gentle (0.48% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "'Hollywood,' Long Branch, from Robert N. Dennis collection of stereoscopic views 7",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/89/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:%27Hollywood,%27_Long_Branch,_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg",
+  "license": "Public domain",
+  "w": 2579,
+  "h": 1295,
+  "id": "STA-3999",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3998.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.13,
+  "range": 10.7,
+  "f": 0.62,
+  "depth": "Deep",
+  "va": 0.4704,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.4704,
+   "L": [
+    0.194271,
+    0.0,
+    0.220573,
+    0.0,
+    0.822614,
+    0.135373
+   ],
+   "R": [
+    0.190023,
+    0.009458,
+    0.631617,
+    -0.010317,
+    0.822277,
+    0.153395
+   ],
+   "g": [
+    1.0,
+    0.9995
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.13° of rotation. Depth measured deep (10.7% of frame width); hung in the VR Parlor at 62% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "'Hollywood,' Long Branch, from Robert N. Dennis collection of stereoscopic views 11",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_11.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a9/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:%27Hollywood,%27_Long_Branch,_from_Robert_N._Dennis_collection_of_stereoscopic_views_11.jpg",
+  "license": "Public domain",
+  "w": 2587,
+  "h": 1299,
+  "id": "STA-4000",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/3999.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.0,
+  "range": 3.36,
+  "f": 0.82,
+  "depth": "Deep",
+  "va": 1.1723,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_11.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1723,
+   "L": [
+    0.396875,
+    0.0,
+    0.071094,
+    0.0,
+    0.674274,
+    0.022303
+   ],
+   "R": [
+    0.406909,
+    -0.003655,
+    0.513803,
+    0.003166,
+    0.676825,
+    0.018093
+   ],
+   "g": [
+    0.9929,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.0° of rotation. Depth measured deep (3.36% of frame width); hung in the VR Parlor at 82% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "'Hollywood,' Long Branch, from Robert N. Dennis collection of stereoscopic views 9",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_9.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/66/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:%27Hollywood,%27_Long_Branch,_from_Robert_N._Dennis_collection_of_stereoscopic_views_9.jpg",
+  "license": "Public domain",
+  "w": 2583,
+  "h": 1303,
+  "id": "STA-4001",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4000.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.04,
+  "range": 4.65,
+  "f": 0.77,
+  "depth": "Deep",
+  "va": 0.8774,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_9.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8774,
+   "L": [
+    0.313021,
+    0.0,
+    0.15026,
+    0.0,
+    0.706914,
+    0.255418
+   ],
+   "R": [
+    0.315667,
+    -0.003745,
+    0.563805,
+    0.004387,
+    0.708317,
+    0.259376
+   ],
+   "g": [
+    0.9287,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.04° of rotation. Depth measured deep (4.65% of frame width); hung in the VR Parlor at 77% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "'Hollywood,' Long Branch, from Robert N. Dennis collection of stereoscopic views 13",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_13.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/12/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:%27Hollywood,%27_Long_Branch,_from_Robert_N._Dennis_collection_of_stereoscopic_views_13.jpg",
+  "license": "Public domain",
+  "w": 2587,
+  "h": 1307,
+  "id": "STA-4002",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4001.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.17,
+  "rot": 0.0,
+  "range": 3.64,
+  "f": 0.6,
+  "depth": "Deep",
+  "va": 1.5162,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_13.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5162,
+   "L": [
+    0.414583,
+    0.0,
+    0.057552,
+    0.0,
+    0.541237,
+    0.023196
+   ],
+   "R": [
+    0.408398,
+    -0.005003,
+    0.509827,
+    -0.006082,
+    0.541852,
+    0.024735
+   ],
+   "g": [
+    1.0,
+    0.9857
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.0° of rotation. Depth measured deep (3.64% of frame width); hung in the VR Parlor at 60% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "'Hollywood,' Long Branch, from Robert N. Dennis collection of stereoscopic views 14",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_14.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/db/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:%27Hollywood,%27_Long_Branch,_from_Robert_N._Dennis_collection_of_stereoscopic_views_14.jpg",
+  "license": "Public domain",
+  "w": 2587,
+  "h": 1295,
+  "id": "STA-4003",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4002.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 2.35,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.6602,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_14.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.6602,
+   "L": [
+    0.302604,
+    0.0,
+    0.183594,
+    0.0,
+    0.915713,
+    0.022373
+   ],
+   "R": [
+    0.288798,
+    -0.007722,
+    0.619748,
+    0.001748,
+    0.916017,
+    0.02565
+   ],
+   "g": [
+    1.0,
+    0.9907
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured deep (2.35% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "'Hollywood,' Long Branch, from Robert N. Dennis collection of stereoscopic views 6",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0b/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:%27Hollywood,%27_Long_Branch,_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg",
+  "license": "Public domain",
+  "w": 2575,
+  "h": 1299,
+  "id": "STA-4004",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4003.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.01,
+  "range": 3.06,
+  "f": 0.7,
+  "depth": "Deep",
+  "va": 1.5575,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5575,
+   "L": [
+    0.423438,
+    0.0,
+    0.070052,
+    0.0,
+    0.5387,
+    0.175955
+   ],
+   "R": [
+    0.417951,
+    0.000716,
+    0.505191,
+    0.001832,
+    0.538268,
+    0.177858
+   ],
+   "g": [
+    0.9522,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.01° of rotation. Depth measured deep (3.06% of frame width); hung in the VR Parlor at 70% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "'Hollywood,' Long Branch, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/43/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:%27Hollywood,%27_Long_Branch,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2601,
+  "h": 1312,
+  "id": "STA-4005",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4004.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 3.97,
+  "f": 0.84,
+  "depth": "Deep",
+  "va": 0.9533,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9533,
+   "L": [
+    0.404167,
+    0.0,
+    0.065885,
+    0.0,
+    0.840909,
+    0.03564
+   ],
+   "R": [
+    0.397058,
+    -0.004183,
+    0.510781,
+    0.001107,
+    0.843296,
+    0.025084
+   ],
+   "g": [
+    0.9853,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured deep (3.97% of frame width); hung in the VR Parlor at 84% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "'Hollywood,' Long Branch, from Robert N. Dennis collection of stereoscopic views 8",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/74/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:%27Hollywood,%27_Long_Branch,_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg",
+  "license": "Public domain",
+  "w": 2579,
+  "h": 1303,
+  "id": "STA-4006",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4005.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 3.06,
+  "f": 0.86,
+  "depth": "Deep",
+  "va": 1.2359,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2359,
+   "L": [
+    0.398438,
+    0.0,
+    0.071094,
+    0.0,
+    0.638144,
+    0.064433
+   ],
+   "R": [
+    0.399675,
+    -0.013509,
+    0.532301,
+    0.026199,
+    0.637633,
+    0.02082
+   ],
+   "g": [
+    0.9778,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured deep (3.06% of frame width); hung in the VR Parlor at 86% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "'Hollywood,' Long Branch, from Robert N. Dennis collection of stereoscopic views 12",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_12.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/62/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:%27Hollywood,%27_Long_Branch,_from_Robert_N._Dennis_collection_of_stereoscopic_views_12.jpg",
+  "license": "Public domain",
+  "w": 2595,
+  "h": 1295,
+  "id": "STA-4007",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4006.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 4.68,
+  "f": 0.78,
+  "depth": "Deep",
+  "va": 0.8663,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_12.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8663,
+   "L": [
+    0.38125,
+    0.0,
+    0.088281,
+    0.0,
+    0.882046,
+    0.022443
+   ],
+   "R": [
+    0.382253,
+    -0.030288,
+    0.540865,
+    0.00208,
+    0.881744,
+    0.025357
+   ],
+   "g": [
+    0.9897,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured deep (4.68% of frame width); hung in the VR Parlor at 78% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Long Branch Beach, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Long_Branch_Beach%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Long_Branch_Beach%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Long_Branch_Beach%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Long_Branch_Beach,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2598,
+  "h": 1296,
+  "id": "STA-4008",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4007.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.17,
+  "rot": 0.0,
+  "range": 0.76,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.4106,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Long_Branch_Beach%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Long_Branch_Beach%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.4106,
+   "L": [
+    0.402604,
+    0.0,
+    0.083073,
+    0.0,
+    0.572025,
+    0.409708
+   ],
+   "R": [
+    0.401909,
+    -0.00426,
+    0.518602,
+    0.005379,
+    0.570663,
+    0.37455
+   ],
+   "g": [
+    0.909,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.17% vertical error and 0.0° of rotation. Depth measured gentle (0.76% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "'Hollywood,' Long Branch, from Robert N. Dennis collection of stereoscopic views 10",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_10.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/6a/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:%27Hollywood,%27_Long_Branch,_from_Robert_N._Dennis_collection_of_stereoscopic_views_10.jpg",
+  "license": "Public domain",
+  "w": 2567,
+  "h": 1303,
+  "id": "STA-4009",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4008.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.03,
+  "range": 5.1,
+  "f": 0.78,
+  "depth": "Deep",
+  "va": 0.7867,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_10.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7867,
+   "L": [
+    0.36875,
+    0.0,
+    0.090885,
+    0.0,
+    0.923077,
+    0.025128
+   ],
+   "R": [
+    0.366295,
+    -0.003539,
+    0.525853,
+    0.000299,
+    0.924998,
+    0.046629
+   ],
+   "g": [
+    0.9616,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.03° of rotation. Depth measured deep (5.1% of frame width); hung in the VR Parlor at 78% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "'Hollywood,' Long Branch, from Robert N. Dennis collection of stereoscopic views 4",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/dd/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:%27Hollywood,%27_Long_Branch,_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg",
+  "license": "Public domain",
+  "w": 2598,
+  "h": 1296,
+  "id": "STA-4010",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4009.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.08,
+  "range": 8.35,
+  "f": 0.98,
+  "depth": "Deep",
+  "va": 0.3763,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg/1920px-%27Hollywood%2C%27_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.3763,
+   "L": [
+    0.170313,
+    0.0,
+    0.273177,
+    0.0,
+    0.907098,
+    0.060021
+   ],
+   "R": [
+    0.171079,
+    0.002407,
+    0.704066,
+    -0.000733,
+    0.911275,
+    0.063242
+   ],
+   "g": [
+    0.922,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.08° of rotation. Depth measured deep (8.35% of frame width); hung in the VR Parlor at 98% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "On the Beach at Long Branch",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/On_the_Beach_at_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-On_the_Beach_at_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/70/On_the_Beach_at_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:On_the_Beach_at_Long_Branch,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2619,
+  "h": 1305,
+  "id": "STA-4011",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4010.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.03,
+  "range": 2.41,
+  "f": 0.99,
+  "depth": "Deep",
+  "va": 1.3657,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/On_the_Beach_at_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-On_the_Beach_at_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3657,
+   "L": [
+    0.38125,
+    0.0,
+    0.088281,
+    0.0,
+    0.560084,
+    0.405956
+   ],
+   "R": [
+    0.389663,
+    -0.024869,
+    0.530147,
+    0.005488,
+    0.560598,
+    0.405106
+   ],
+   "g": [
+    0.9832,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.03° of rotation. Depth measured deep (2.41% of frame width); hung in the VR Parlor at 99% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "The Surf at Long Branch, N.J",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/The_Surf_at_Long_Branch%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Surf_at_Long_Branch%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ed/The_Surf_at_Long_Branch%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Surf_at_Long_Branch,_N.J,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2571,
+  "h": 1273,
+  "id": "STA-4012",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4011.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.22,
+  "rot": 0.04,
+  "range": 0.41,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.7889,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/The_Surf_at_Long_Branch%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-The_Surf_at_Long_Branch%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.7889,
+   "L": [
+    0.317708,
+    0.0,
+    0.14401,
+    0.0,
+    0.35857,
+    0.545216
+   ],
+   "R": [
+    0.317928,
+    -0.001601,
+    0.592225,
+    -0.001589,
+    0.358823,
+    0.549717
+   ],
+   "g": [
+    1.0,
+    0.8699
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.04° of rotation. Depth measured gentle (0.41% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "On the Long Branch Pier",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "people",
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/On_the_Long_Branch_Pier%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-On_the_Long_Branch_Pier%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/29/On_the_Long_Branch_Pier%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:On_the_Long_Branch_Pier,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2587,
+  "h": 1307,
+  "id": "STA-4013",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4012.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.26,
+  "rot": 0.01,
+  "range": 2.06,
+  "f": 0.95,
+  "depth": "Moderate",
+  "va": 1.7299,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/On_the_Long_Branch_Pier%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-On_the_Long_Branch_Pier%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.7299,
+   "L": [
+    0.380208,
+    0.0,
+    0.098698,
+    0.0,
+    0.435052,
+    0.337629
+   ],
+   "R": [
+    0.38388,
+    -0.00771,
+    0.531748,
+    0.002089,
+    0.436884,
+    0.324489
+   ],
+   "g": [
+    1.0,
+    0.9547
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.26% vertical error and 0.01° of rotation. Depth measured moderate (2.06% of frame width); hung in the VR Parlor at 95% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "John Hoey's Garden, Long Branch",
+  "place": "Long Branch, New Jersey",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "oddities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/John_Hoey%27s_Garden%2C_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-John_Hoey%27s_Garden%2C_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/df/John_Hoey%27s_Garden%2C_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:John_Hoey%27s_Garden,_Long_Branch,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2559,
+  "h": 1303,
+  "id": "STA-4014",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4013.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.01,
+  "range": 6.83,
+  "f": 0.53,
+  "depth": "Deep",
+  "va": 0.8723,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/John_Hoey%27s_Garden%2C_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-John_Hoey%27s_Garden%2C_Long_Branch%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8723,
+   "L": [
+    0.402083,
+    0.0,
+    0.086198,
+    0.0,
+    0.904908,
+    0.065951
+   ],
+   "R": [
+    0.401468,
+    0.004005,
+    0.525673,
+    0.001442,
+    0.904226,
+    0.060726
+   ],
+   "g": [
+    0.9409,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured deep (6.83% of frame width); hung in the VR Parlor at 53% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]
