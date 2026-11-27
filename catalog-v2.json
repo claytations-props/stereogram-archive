@@ -295875,5 +295875,703 @@
   "source_page_id": 49605213,
   "source_revision_id": null,
   "source_sha1": "2b3624fa2153491dbf0c8d3b9dd570e9227a902b"
+ },
+ {
+  "title": "Narragansett House",
+  "place": "Narragansett, Rhode Island",
+  "year": "1869",
+  "sy": 1869,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Narragansett_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Narragansett_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Narragansett_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Narragansett_House,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1417,
+  "id": "STA-4035",
+  "rect": "rect/4034.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.16,
+  "rot": 0.01,
+  "range": 0.8,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.368,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Narragansett_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Narragansett_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.368,
+   "L": [
+    0.396875,
+    0.0,
+    0.08151,
+    0.0,
+    0.560362,
+    0.391851
+   ],
+   "R": [
+    0.398196,
+    -0.002338,
+    0.518167,
+    0.005158,
+    0.561571,
+    0.385881
+   ],
+   "g": [
+    0.979,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.01° of rotation. Depth measured gentle (0.8% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1869",
+  "date_start": 1869,
+  "date_end": 1869,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10078697,
+  "source_revision_id": null,
+  "source_sha1": "9a2116eb25c6a68ad69479f61ed68a237e7ccd57"
+ },
+ {
+  "title": "View of the rocky beach, Narragansett, by L. H. Clarke",
+  "place": "Narragansett, Rhode Island",
+  "year": "c. 1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "water",
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/View_of_the_rocky_beach%2C_Narragansett%2C_by_L._H._Clarke.jpg/1920px-View_of_the_rocky_beach%2C_Narragansett%2C_by_L._H._Clarke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a1/View_of_the_rocky_beach%2C_Narragansett%2C_by_L._H._Clarke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_the_rocky_beach,_Narragansett,_by_L._H._Clarke.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1456,
+  "id": "STA-4036",
+  "rect": "rect/4035.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.19,
+  "rot": 0.04,
+  "range": 0.41,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.1287,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/View_of_the_rocky_beach%2C_Narragansett%2C_by_L._H._Clarke.jpg/1920px-View_of_the_rocky_beach%2C_Narragansett%2C_by_L._H._Clarke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.1287,
+   "L": [
+    0.379167,
+    0.0,
+    0.09401,
+    0.0,
+    0.334966,
+    0.404016
+   ],
+   "R": [
+    0.378755,
+    -0.001509,
+    0.509819,
+    0.004574,
+    0.333122,
+    0.403135
+   ],
+   "g": [
+    0.908,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.04° of rotation. Depth measured gentle (0.41% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "L. H. Clarke",
+  "creator_dates": null,
+  "facets": [
+   "water",
+   "mountains"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1875~",
+  "date_start": 1870,
+  "date_end": 1880,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10078117,
+  "source_revision_id": null,
+  "source_sha1": "7398f5cf3330fcc37bad10b89517a6425f5641d1"
+ },
+ {
+  "title": "Narragansett House, by L. H. Clarke",
+  "place": "Narragansett, Rhode Island",
+  "year": "c. 1873",
+  "sy": 1873,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Narragansett_House%2C_by_L._H._Clarke.jpg/1920px-Narragansett_House%2C_by_L._H._Clarke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Narragansett_House%2C_by_L._H._Clarke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Narragansett_House,_by_L._H._Clarke.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1409,
+  "id": "STA-4037",
+  "rect": "rect/4036.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.28,
+  "rot": 0.03,
+  "range": 1.89,
+  "f": 0.86,
+  "depth": "Moderate",
+  "va": 2.1914,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Narragansett_House%2C_by_L._H._Clarke.jpg/1920px-Narragansett_House%2C_by_L._H._Clarke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.1914,
+   "L": [
+    0.369792,
+    0.0,
+    0.122135,
+    0.0,
+    0.327935,
+    0.325405
+   ],
+   "R": [
+    0.370626,
+    -0.001143,
+    0.523675,
+    -0.000349,
+    0.328045,
+    0.327049
+   ],
+   "g": [
+    0.8877,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.28% vertical error and 0.03° of rotation. Depth measured moderate (1.89% of frame width); hung in the VR Parlor at 86% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "L. H. Clarke",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1873~",
+  "date_start": 1868,
+  "date_end": 1878,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10078145,
+  "source_revision_id": null,
+  "source_sha1": "5c55dacde87c98e9e725f72550dbb36d331b745d"
+ },
+ {
+  "title": "View of the rocky beach, with some bathers, Narragansett, by L. H. Clarke",
+  "place": "Narragansett, Rhode Island",
+  "year": "c. 1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "water",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/View_of_the_rocky_beach%2C_with_some_bathers%2C_Narragansett%2C_by_L._H._Clarke.png/1920px-View_of_the_rocky_beach%2C_with_some_bathers%2C_Narragansett%2C_by_L._H._Clarke.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/87/View_of_the_rocky_beach%2C_with_some_bathers%2C_Narragansett%2C_by_L._H._Clarke.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_the_rocky_beach,_with_some_bathers,_Narragansett,_by_L._H._Clarke.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1429,
+  "id": "STA-4038",
+  "rect": "rect/4037.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.19,
+  "rot": 0.0,
+  "range": 0.68,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.1953,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/View_of_the_rocky_beach%2C_with_some_bathers%2C_Narragansett%2C_by_L._H._Clarke.png/1920px-View_of_the_rocky_beach%2C_with_some_bathers%2C_Narragansett%2C_by_L._H._Clarke.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.1953,
+   "L": [
+    0.386458,
+    0.0,
+    0.103385,
+    0.0,
+    0.337325,
+    0.611277
+   ],
+   "R": [
+    0.384024,
+    -0.006352,
+    0.514994,
+    0.001061,
+    0.334683,
+    0.612835
+   ],
+   "g": [
+    0.9667,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.0° of rotation. Depth measured gentle (0.68% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "L. H. Clarke",
+  "creator_dates": null,
+  "facets": [
+   "water",
+   "people"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1875~",
+  "date_start": 1870,
+  "date_end": 1880,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10078133,
+  "source_revision_id": null,
+  "source_sha1": "1682576d8c227e4fc6fb78e500595a67b26c7424"
+ },
+ {
+  "title": "Boaters in Narragansett, by L. H. Clarke",
+  "place": "Narragansett, Rhode Island",
+  "year": "c. 1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "water",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Boaters_in_Narragansett%2C_by_L._H._Clarke.jpg/1920px-Boaters_in_Narragansett%2C_by_L._H._Clarke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Boaters_in_Narragansett%2C_by_L._H._Clarke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Boaters_in_Narragansett,_by_L._H._Clarke.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1436,
+  "id": "STA-4039",
+  "rect": "rect/4038.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.06,
+  "range": 1.37,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1029,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Boaters_in_Narragansett%2C_by_L._H._Clarke.jpg/1920px-Boaters_in_Narragansett%2C_by_L._H._Clarke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1029,
+   "L": [
+    0.379688,
+    0.0,
+    0.102865,
+    0.0,
+    0.656405,
+    0.068024
+   ],
+   "R": [
+    0.374464,
+    -0.000182,
+    0.525225,
+    -0.003167,
+    0.661557,
+    0.064845
+   ],
+   "g": [
+    1.0,
+    0.993
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.06° of rotation. Depth measured gentle (1.37% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "L. H. Clarke",
+  "creator_dates": null,
+  "facets": [
+   "water",
+   "people"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1875~",
+  "date_start": 1870,
+  "date_end": 1880,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10078720,
+  "source_revision_id": null,
+  "source_sha1": "413e67fd417b793463b0b024fb9e74d6edaf3463"
+ },
+ {
+  "title": "View of the rocky beach, with some tourists lying on the rocks, Narragansett, by L. H. Clarke",
+  "place": "Narragansett, Rhode Island",
+  "year": "c. 1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "water",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/View_of_the_rocky_beach%2C_with_some_tourists_lying_on_the_rocks%2C_Narragansett%2C_by_L._H._Clarke.jpg/1920px-View_of_the_rocky_beach%2C_with_some_tourists_lying_on_the_rocks%2C_Narragansett%2C_by_L._H._Clarke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/57/View_of_the_rocky_beach%2C_with_some_tourists_lying_on_the_rocks%2C_Narragansett%2C_by_L._H._Clarke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_the_rocky_beach,_with_some_tourists_lying_on_the_rocks,_Narragansett,_by_L._H._Clarke.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1410,
+  "id": "STA-4040",
+  "rect": "rect/4039.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.19,
+  "rot": 0.01,
+  "range": 1.72,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.5059,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/View_of_the_rocky_beach%2C_with_some_tourists_lying_on_the_rocks%2C_Narragansett%2C_by_L._H._Clarke.jpg/1920px-View_of_the_rocky_beach%2C_with_some_tourists_lying_on_the_rocks%2C_Narragansett%2C_by_L._H._Clarke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5059,
+   "L": [
+    0.334896,
+    0.0,
+    0.154427,
+    0.0,
+    0.431749,
+    0.470677
+   ],
+   "R": [
+    0.336487,
+    -0.010388,
+    0.535532,
+    0.006217,
+    0.431098,
+    0.466284
+   ],
+   "g": [
+    1.0,
+    0.9704
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.01° of rotation. Depth measured moderate (1.72% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "L. H. Clarke",
+  "creator_dates": null,
+  "facets": [
+   "water",
+   "people"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1875~",
+  "date_start": 1870,
+  "date_end": 1880,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10078124,
+  "source_revision_id": null,
+  "source_sha1": "84b56349440fabe474999247b5f5456f20e6c912"
+ },
+ {
+  "title": "Hotel at Narragansett, by L. H. Clarke 3",
+  "place": "Narragansett, Rhode Island",
+  "year": "1873",
+  "sy": 1873,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Hotel_at_Narragansett%2C_by_L._H._Clarke_3.jpg/1920px-Hotel_at_Narragansett%2C_by_L._H._Clarke_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Hotel_at_Narragansett%2C_by_L._H._Clarke_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Hotel_at_Narragansett,_by_L._H._Clarke_3.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1445,
+  "id": "STA-4041",
+  "rect": "rect/4040.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.15,
+  "rot": 0.03,
+  "range": 2.01,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.5196,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Hotel_at_Narragansett%2C_by_L._H._Clarke_3.jpg/1920px-Hotel_at_Narragansett%2C_by_L._H._Clarke_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5196,
+   "L": [
+    0.383854,
+    0.0,
+    0.107552,
+    0.0,
+    0.478304,
+    0.406805
+   ],
+   "R": [
+    0.384029,
+    -0.004082,
+    0.514834,
+    -0.000686,
+    0.477803,
+    0.405438
+   ],
+   "g": [
+    0.9755,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.03° of rotation. Depth measured moderate (2.01% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "L. H. Clarke",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1873",
+  "date_start": 1873,
+  "date_end": 1873,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10078710,
+  "source_revision_id": null,
+  "source_sha1": "03a1d36601679f4136d9e1b1fc21544860789418"
+ },
+ {
+  "title": "Hotel at Narragansett, by L. H. Clarke",
+  "place": "Narragansett, Rhode Island",
+  "year": "c. 1873",
+  "sy": 1873,
+  "era": "mid",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Hotel_at_Narragansett%2C_by_L._H._Clarke.png/1920px-Hotel_at_Narragansett%2C_by_L._H._Clarke.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Hotel_at_Narragansett%2C_by_L._H._Clarke.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Hotel_at_Narragansett,_by_L._H._Clarke.png",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1433,
+  "id": "STA-4042",
+  "rect": "rect/4041.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.15,
+  "rot": 0.0,
+  "range": 1.43,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 2.393,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Hotel_at_Narragansett%2C_by_L._H._Clarke.png/1920px-Hotel_at_Narragansett%2C_by_L._H._Clarke.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 2.393,
+   "L": [
+    0.390104,
+    0.0,
+    0.103385,
+    0.0,
+    0.311443,
+    0.420398
+   ],
+   "R": [
+    0.390223,
+    -0.002222,
+    0.507398,
+    0.000992,
+    0.311992,
+    0.417925
+   ],
+   "g": [
+    0.9301,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.0° of rotation. Depth measured gentle (1.43% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "L. H. Clarke",
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1873~",
+  "date_start": 1868,
+  "date_end": 1878,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10078700,
+  "source_revision_id": null,
+  "source_sha1": "77f49dd55ee9d2d9ec580f9a831f9b69e57fed17"
+ },
+ {
+  "title": "Florence at Narragansett pier circa 1875 01",
+  "place": "Narragansett, Rhode Island",
+  "year": "c. 1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "water"
+  ],
+  "blurb": "Steamer Florence, at a pier in Narragansett, Rhode Island, circa 1875.",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Florence_at_Narragansett_pier_circa_1875_01.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Florence_at_Narragansett_pier_circa_1875_01.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Florence_at_Narragansett_pier_circa_1875_01.jpeg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 397,
+  "id": "STA-4043",
+  "rect": "rect/4042.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.21,
+  "rot": 0.02,
+  "range": 1.65,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.2586,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Florence_at_Narragansett_pier_circa_1875_01.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 1.2586,
+   "L": [
+    0.384211,
+    0.0,
+    0.107237,
+    0.0,
+    0.584383,
+    0.371537
+   ],
+   "R": [
+    0.382129,
+    -0.005635,
+    0.508998,
+    0.006561,
+    0.580626,
+    0.374974
+   ],
+   "g": [
+    1.0,
+    0.984
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.21% vertical error and 0.02° of rotation. Depth measured moderate (1.65% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1875~",
+  "date_start": 1870,
+  "date_end": 1880,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 7782266,
+  "source_revision_id": null,
+  "source_sha1": "8344c783fcc76c245d90d01beaf5f73ea2841d65"
+ },
+ {
+  "title": "Narragansett Av., Oak Bluffs (NYPL b11707529-G90F259 115F)",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "* by C.H. Shute & Son and R.G. Shute.",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Narragansett_Av.%2C_Oak_Bluffs_%28NYPL_b11707529-G90F259_115F%29.tiff/lossy-page1-1920px-Narragansett_Av.%2C_Oak_Bluffs_%28NYPL_b11707529-G90F259_115F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/84/Narragansett_Av.%2C_Oak_Bluffs_%28NYPL_b11707529-G90F259_115F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Narragansett_Av.,_Oak_Bluffs_(NYPL_b11707529-G90F259_115F).tiff",
+  "license": "Public domain",
+  "w": 3072,
+  "h": 1711,
+  "id": "STA-4044",
+  "rect": "rect/4043.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.0,
+  "range": 0.82,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7822,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Narragansett_Av.%2C_Oak_Bluffs_%28NYPL_b11707529-G90F259_115F%29.tiff/lossy-page1-1920px-Narragansett_Av.%2C_Oak_Bluffs_%28NYPL_b11707529-G90F259_115F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7822,
+   "L": [
+    0.319792,
+    0.0,
+    0.167448,
+    0.0,
+    0.734331,
+    0.20159
+   ],
+   "R": [
+    0.317523,
+    -0.003551,
+    0.520871,
+    -0.000559,
+    0.732729,
+    0.208072
+   ],
+   "g": [
+    1.0,
+    0.9795
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.0° of rotation. Depth measured gentle (0.82% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 49613211,
+  "source_revision_id": null,
+  "source_sha1": "28d74da59c9a5feaf49c841e2ece09f11f45d10f"
  }
 ]
