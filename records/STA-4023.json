@@ -1,0 +1,69 @@
+{
+ "title": "Trinity Square, Martha's Vineyard, by Kilburn Brothers",
+ "place": "Martha's Vineyard, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/Trinity_Square%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/5/53/Trinity_Square%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Trinity_Square,_Martha%27s_Vineyard,_by_Kilburn_Brothers.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 379,
+ "id": "STA-4023",
+ "rect": "rect/4022.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.16,
+ "rot": 0.03,
+ "range": 1.4,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8892,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/5/53/Trinity_Square%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 0.8892,
+  "L": [
+   0.390789,
+   0.0,
+   0.090132,
+   0.0,
+   0.881266,
+   0.062005
+  ],
+  "R": [
+   0.394618,
+   -0.004659,
+   0.525658,
+   0.007011,
+   0.887253,
+   0.049864
+  ],
+  "g": [
+   0.9811,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.03° of rotation. Depth measured gentle (1.4% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Kilburn Brothers",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7444072,
+ "source_revision_id": null,
+ "source_sha1": "2c209aaaf7085bd1ce9fcc7eb6a9f49a3a94988f"
+}

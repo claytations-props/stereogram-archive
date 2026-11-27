@@ -1,0 +1,71 @@
+{
+ "title": "Scene at Martha's Vineyard, Mass",
+ "place": "Martha's Vineyard, Massachusetts",
+ "year": "c. 1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water",
+  "people"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/6/68/Scene_at_Martha%27s_Vineyard%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/6/68/Scene_at_Martha%27s_Vineyard%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Scene_at_Martha%27s_Vineyard,_Mass,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 401,
+ "id": "STA-4015",
+ "rect": "rect/4014.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.23,
+ "rot": 0.03,
+ "range": 1.79,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.0209,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/6/68/Scene_at_Martha%27s_Vineyard%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.0209,
+  "L": [
+   0.321053,
+   0.0,
+   0.145395,
+   0.0,
+   0.59601,
+   0.215711
+  ],
+  "R": [
+   0.321484,
+   -0.016159,
+   0.530816,
+   -0.00224,
+   0.598292,
+   0.217742
+  ],
+  "g": [
+   0.9889,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.23% vertical error and 0.03° of rotation. Depth measured moderate (1.79% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "people"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865~",
+ "date_start": 1860,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7443287,
+ "source_revision_id": null,
+ "source_sha1": "c5db6a518c0bb75d442433dd5f5e7e3099c1f030"
+}

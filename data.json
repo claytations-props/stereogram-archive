@@ -236789,5 +236789,1188 @@
   "date_start": 1860,
   "date_end": 1860,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Scene at Martha's Vineyard, Mass",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "c. 1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/6/68/Scene_at_Martha%27s_Vineyard%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/68/Scene_at_Martha%27s_Vineyard%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Scene_at_Martha%27s_Vineyard,_Mass,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 401,
+  "id": "STA-4015",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4014.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.23,
+  "rot": 0.03,
+  "range": 1.79,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.0209,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/6/68/Scene_at_Martha%27s_Vineyard%2C_Mass%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 1.0209,
+   "L": [
+    0.321053,
+    0.0,
+    0.145395,
+    0.0,
+    0.59601,
+    0.215711
+   ],
+   "R": [
+    0.321484,
+    -0.016159,
+    0.530816,
+    -0.00224,
+    0.598292,
+    0.217742
+   ],
+   "g": [
+    0.9889,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.23% vertical error and 0.03° of rotation. Depth measured moderate (1.79% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865~",
+  "date_start": 1860,
+  "date_end": 1870,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Sea View House, Martha's Vineyard, by Kilburn Brothers",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/5/51/Sea_View_House%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/51/Sea_View_House%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Sea_View_House,_Martha%27s_Vineyard,_by_Kilburn_Brothers.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 386,
+  "id": "STA-4016",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4015.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.32,
+  "rot": 0.02,
+  "range": 4.09,
+  "f": 0.33,
+  "depth": "Deep",
+  "va": 2.7759,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/5/51/Sea_View_House%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 2.7759,
+   "L": [
+    0.423684,
+    0.0,
+    0.054605,
+    0.0,
+    0.300518,
+    0.382124
+   ],
+   "R": [
+    0.423789,
+    -0.000394,
+    0.503488,
+    -0.008258,
+    0.300641,
+    0.390925
+   ],
+   "g": [
+    0.9809,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.32% vertical error and 0.02° of rotation. Depth measured deep (4.09% of frame width); hung in the VR Parlor at 33% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Gay Head cliffs, Martha's Vineyard--(bird's eye view), by Kilburn Brothers",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Gay_Head_cliffs%2C_Martha%27s_Vineyard--%28bird%27s_eye_view%29%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Gay_Head_cliffs%2C_Martha%27s_Vineyard--%28bird%27s_eye_view%29%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Gay_Head_cliffs,_Martha%27s_Vineyard--(bird%27s_eye_view),_by_Kilburn_Brothers.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 390,
+  "id": "STA-4017",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4016.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.2,
+  "rot": 0.07,
+  "range": 0.89,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8813,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Gay_Head_cliffs%2C_Martha%27s_Vineyard--%28bird%27s_eye_view%29%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.8813,
+   "L": [
+    0.390789,
+    0.0,
+    0.092763,
+    0.0,
+    0.864103,
+    0.088462
+   ],
+   "R": [
+    0.390959,
+    -0.012973,
+    0.516932,
+    0.014366,
+    0.865163,
+    0.056019
+   ],
+   "g": [
+    0.9976,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.2% vertical error and 0.07° of rotation. Depth measured gentle (0.89% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View near the camp ground, Martha's Vineyard, by Kilburn Brothers",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/4/4e/View_near_the_camp_ground%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/4e/View_near_the_camp_ground%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_near_the_camp_ground,_Martha%27s_Vineyard,_by_Kilburn_Brothers.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 388,
+  "id": "STA-4018",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4017.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.01,
+  "range": 1.21,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8991,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/4/4e/View_near_the_camp_ground%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.8991,
+   "L": [
+    0.398684,
+    0.0,
+    0.086184,
+    0.0,
+    0.868557,
+    0.070876
+   ],
+   "R": [
+    0.402161,
+    0.00961,
+    0.513168,
+    -0.016787,
+    0.875373,
+    0.071745
+   ],
+   "g": [
+    0.9608,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured gentle (1.21% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Gay Head cliffs, Martha's Vineyard--(bird's eye view), by Kilburn Brothers 2",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Gay_Head_cliffs%2C_Martha%27s_Vineyard--%28bird%27s_eye_view%29%2C_by_Kilburn_Brothers_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Gay_Head_cliffs%2C_Martha%27s_Vineyard--%28bird%27s_eye_view%29%2C_by_Kilburn_Brothers_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Gay_Head_cliffs,_Martha%27s_Vineyard--(bird%27s_eye_view),_by_Kilburn_Brothers_2.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 393,
+  "id": "STA-4019",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4018.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.07,
+  "range": 0.86,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8815,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Gay_Head_cliffs%2C_Martha%27s_Vineyard--%28bird%27s_eye_view%29%2C_by_Kilburn_Brothers_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.8815,
+   "L": [
+    0.401316,
+    0.0,
+    0.0875,
+    0.0,
+    0.880407,
+    0.054707
+   ],
+   "R": [
+    0.397347,
+    0.002096,
+    0.50975,
+    -0.013421,
+    0.880509,
+    0.062416
+   ],
+   "g": [
+    0.9602,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.07° of rotation. Depth measured gentle (0.86% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Tabernacle, Martha's Vineyard, by Kilburn Brothers",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Tabernacle%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Tabernacle%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Tabernacle,_Martha%27s_Vineyard,_by_Kilburn_Brothers.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 382,
+  "id": "STA-4020",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4019.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.25,
+  "rot": 0.06,
+  "range": 1.24,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9906,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Tabernacle%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.9906,
+   "L": [
+    0.414474,
+    0.0,
+    0.075658,
+    0.0,
+    0.832461,
+    0.07199
+   ],
+   "R": [
+    0.414148,
+    0.003866,
+    0.506023,
+    -0.001864,
+    0.839752,
+    0.052416
+   ],
+   "g": [
+    1.0,
+    0.9978
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.25% vertical error and 0.06° of rotation. Depth measured gentle (1.24% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Sea View Avenue, Oak Bluffs, Martha's Vineyard, by Kilburn Brothers",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Sea_View_Avenue%2C_Oak_Bluffs%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Sea_View_Avenue%2C_Oak_Bluffs%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Sea_View_Avenue,_Oak_Bluffs,_Martha%27s_Vineyard,_by_Kilburn_Brothers.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 388,
+  "id": "STA-4021",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4020.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.19,
+  "rot": 0.04,
+  "range": 0.94,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1508,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Sea_View_Avenue%2C_Oak_Bluffs%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 1.1508,
+   "L": [
+    0.381579,
+    0.0,
+    0.095395,
+    0.0,
+    0.649485,
+    0.305412
+   ],
+   "R": [
+    0.382159,
+    -0.001041,
+    0.524076,
+    -0.004249,
+    0.646412,
+    0.295329
+   ],
+   "g": [
+    1.0,
+    0.9709
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.04° of rotation. Depth measured gentle (0.94% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Trinity Square, Martha's Vineyard, by Kilburn Brothers 4",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/2/29/Trinity_Square%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/29/Trinity_Square%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Trinity_Square,_Martha%27s_Vineyard,_by_Kilburn_Brothers_4.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 380,
+  "id": "STA-4022",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4021.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.22,
+  "rot": 0.01,
+  "range": 1.04,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2419,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/2/29/Trinity_Square%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 1.2419,
+   "L": [
+    0.405263,
+    0.0,
+    0.078289,
+    0.0,
+    0.652632,
+    0.053947
+   ],
+   "R": [
+    0.407153,
+    0.008721,
+    0.50446,
+    -0.005847,
+    0.658311,
+    0.052163
+   ],
+   "g": [
+    0.9704,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.01° of rotation. Depth measured gentle (1.04% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Trinity Square, Martha's Vineyard, by Kilburn Brothers",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/Trinity_Square%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/53/Trinity_Square%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Trinity_Square,_Martha%27s_Vineyard,_by_Kilburn_Brothers.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 379,
+  "id": "STA-4023",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4022.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.16,
+  "rot": 0.03,
+  "range": 1.4,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8892,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/5/53/Trinity_Square%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.8892,
+   "L": [
+    0.390789,
+    0.0,
+    0.090132,
+    0.0,
+    0.881266,
+    0.062005
+   ],
+   "R": [
+    0.394618,
+    -0.004659,
+    0.525658,
+    0.007011,
+    0.887253,
+    0.049864
+   ],
+   "g": [
+    0.9811,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.03° of rotation. Depth measured gentle (1.4% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Circuit Avenue, Oak Bluffs, Martha's Vineyard, by Kilburn Brothers",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/2/25/Circuit_Avenue%2C_Oak_Bluffs%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/25/Circuit_Avenue%2C_Oak_Bluffs%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Circuit_Avenue,_Oak_Bluffs,_Martha%27s_Vineyard,_by_Kilburn_Brothers.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 398,
+  "id": "STA-4024",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4023.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.28,
+  "rot": 0.02,
+  "range": 0.68,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2522,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/2/25/Circuit_Avenue%2C_Oak_Bluffs%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 1.2522,
+   "L": [
+    0.378947,
+    0.0,
+    0.101974,
+    0.0,
+    0.577889,
+    0.280151
+   ],
+   "R": [
+    0.376547,
+    -0.009724,
+    0.537024,
+    0.01433,
+    0.578049,
+    0.249602
+   ],
+   "g": [
+    1.0,
+    0.9943
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.28% vertical error and 0.02° of rotation. Depth measured gentle (0.68% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Trinity Square, Martha's Vineyard, by Kilburn Brothers 5",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Trinity_Square%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Trinity_Square%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Trinity_Square,_Martha%27s_Vineyard,_by_Kilburn_Brothers_5.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 381,
+  "id": "STA-4025",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4024.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.16,
+  "rot": 0.01,
+  "range": 1.02,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9844,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Trinity_Square%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.9844,
+   "L": [
+    0.415789,
+    0.0,
+    0.061184,
+    0.0,
+    0.84252,
+    0.051181
+   ],
+   "R": [
+    0.418175,
+    0.005408,
+    0.50548,
+    0.001997,
+    0.850881,
+    0.045949
+   ],
+   "g": [
+    0.9795,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.01° of rotation. Depth measured gentle (1.02% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Cottages, Ocean Avenue, Oak Bluffs, Martha's Vineyard, by Kilburn Brothers",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cottages%2C_Ocean_Avenue%2C_Oak_Bluffs%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cottages%2C_Ocean_Avenue%2C_Oak_Bluffs%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cottages,_Ocean_Avenue,_Oak_Bluffs,_Martha%27s_Vineyard,_by_Kilburn_Brothers.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 386,
+  "id": "STA-4026",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4025.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.34,
+  "rot": 0.03,
+  "range": 2.03,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.3231,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cottages%2C_Ocean_Avenue%2C_Oak_Bluffs%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 1.3231,
+   "L": [
+    0.398684,
+    0.0,
+    0.083553,
+    0.0,
+    0.593264,
+    0.255181
+   ],
+   "R": [
+    0.398284,
+    -0.002298,
+    0.513918,
+    0.001943,
+    0.590315,
+    0.261543
+   ],
+   "g": [
+    0.992,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.34% vertical error and 0.03° of rotation. Depth measured moderate (2.03% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Ocean Avenue, Oak Bluffs, Martha's Vineyard, by Kilburn Brothers",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ocean_Avenue%2C_Oak_Bluffs%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ocean_Avenue%2C_Oak_Bluffs%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Ocean_Avenue,_Oak_Bluffs,_Martha%27s_Vineyard,_by_Kilburn_Brothers.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 403,
+  "id": "STA-4027",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4026.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.26,
+  "rot": 0.0,
+  "range": 2.15,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.0745,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ocean_Avenue%2C_Oak_Bluffs%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 1.0745,
+   "L": [
+    0.398684,
+    0.0,
+    0.0875,
+    0.0,
+    0.699752,
+    0.137717
+   ],
+   "R": [
+    0.388425,
+    0.004121,
+    0.514996,
+    -0.007499,
+    0.696861,
+    0.149923
+   ],
+   "g": [
+    1.0,
+    0.9705
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.26% vertical error and 0.0° of rotation. Depth measured moderate (2.15% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Gay Head cliffs, Martha's Vineyard--(clay formation), by Kilburn Brothers",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Gay_Head_cliffs%2C_Martha%27s_Vineyard--%28clay_formation%29%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/21/Gay_Head_cliffs%2C_Martha%27s_Vineyard--%28clay_formation%29%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Gay_Head_cliffs,_Martha%27s_Vineyard--(clay_formation),_by_Kilburn_Brothers.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 385,
+  "id": "STA-4028",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4027.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.16,
+  "rot": 0.02,
+  "range": 0.93,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1515,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/2/21/Gay_Head_cliffs%2C_Martha%27s_Vineyard--%28clay_formation%29%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 1.1515,
+   "L": [
+    0.4,
+    0.0,
+    0.090132,
+    0.0,
+    0.685714,
+    0.258442
+   ],
+   "R": [
+    0.400309,
+    -0.004274,
+    0.509971,
+    -0.009596,
+    0.685734,
+    0.261166
+   ],
+   "g": [
+    0.989,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.16% vertical error and 0.02° of rotation. Depth measured gentle (0.93% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Steamboat landing, Oak Bluffs, Martha's Vineyard, by Kilburn Brothers 3",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/Steamboat_landing%2C_Oak_Bluffs%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/53/Steamboat_landing%2C_Oak_Bluffs%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Steamboat_landing,_Oak_Bluffs,_Martha%27s_Vineyard,_by_Kilburn_Brothers_3.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 395,
+  "id": "STA-4029",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4028.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.14,
+  "rot": 0.01,
+  "range": 0.86,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.894,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/5/53/Steamboat_landing%2C_Oak_Bluffs%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.894,
+   "L": [
+    0.410526,
+    0.0,
+    0.074342,
+    0.0,
+    0.883544,
+    0.056962
+   ],
+   "R": [
+    0.412375,
+    -0.002771,
+    0.510818,
+    -0.011482,
+    0.885719,
+    0.056618
+   ],
+   "g": [
+    1.0,
+    0.9967
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.01° of rotation. Depth measured gentle (0.86% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Martha's Vineyard at Oak Bluff landing, by C. H. Shute & Son",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water",
+   "people"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Martha%27s_Vineyard_at_Oak_Bluff_landing%2C_by_C._H._Shute_%26_Son.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Martha%27s_Vineyard_at_Oak_Bluff_landing%2C_by_C._H._Shute_%26_Son.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Martha%27s_Vineyard_at_Oak_Bluff_landing,_by_C._H._Shute_%26_Son.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 394,
+  "id": "STA-4030",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4029.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.18,
+  "rot": 0.09,
+  "range": 0.59,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8591,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Martha%27s_Vineyard_at_Oak_Bluff_landing%2C_by_C._H._Shute_%26_Son.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.8591,
+   "L": [
+    0.328947,
+    0.0,
+    0.116447,
+    0.0,
+    0.738579,
+    0.204315
+   ],
+   "R": [
+    0.327924,
+    -0.00544,
+    0.518112,
+    0.004941,
+    0.736693,
+    0.188689
+   ],
+   "g": [
+    0.9343,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.09° of rotation. Depth measured gentle (0.59% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "C. H. Shute & Son",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Martha's Vineyard, by Thum, M. (Mandeville)",
+  "place": "Mammoth Cave, Kentucky",
+  "year": "1876–1877",
+  "sy": 1876,
+  "era": "mid",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Martha%27s_Vineyard%2C_by_Thum%2C_M._%28Mandeville%29.jpg/1920px-Martha%27s_Vineyard%2C_by_Thum%2C_M._%28Mandeville%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Martha%27s_Vineyard%2C_by_Thum%2C_M._%28Mandeville%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Martha%27s_Vineyard,_by_Thum,_M._(Mandeville).jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1566,
+  "id": "STA-4031",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4030.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.19,
+  "rot": 0.01,
+  "range": 0.9,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2137,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Martha%27s_Vineyard%2C_by_Thum%2C_M._%28Mandeville%29.jpg/1920px-Martha%27s_Vineyard%2C_by_Thum%2C_M._%28Mandeville%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2137,
+   "L": [
+    0.221875,
+    0.0,
+    0.258594,
+    0.0,
+    0.319381,
+    0.247043
+   ],
+   "R": [
+    0.220009,
+    -0.003883,
+    0.666889,
+    0.005525,
+    0.322062,
+    0.236874
+   ],
+   "g": [
+    0.9315,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.01° of rotation. Depth measured gentle (0.9% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Thum, M. (Mandeville)",
+  "date_edtf": "1876/1877",
+  "date_start": 1876,
+  "date_end": 1877,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Sea View House, from Robert N. Dennis collection of stereoscopic views 3",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Sea_View_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Sea_View_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Sea_View_House,_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 390,
+  "id": "STA-4032",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4031.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.24,
+  "rot": 0.02,
+  "range": 2.32,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.7809,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Sea_View_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.7809,
+   "L": [
+    0.332895,
+    0.0,
+    0.154605,
+    0.0,
+    0.830769,
+    0.119231
+   ],
+   "R": [
+    0.340153,
+    -0.014202,
+    0.590436,
+    0.000807,
+    0.843487,
+    0.110824
+   ],
+   "g": [
+    0.9606,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.24% vertical error and 0.02° of rotation. Depth measured deep (2.32% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Sea View House, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Sea_View_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Sea_View_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Sea_View_House,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 760,
+  "h": 390,
+  "id": "STA-4033",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4032.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.02,
+  "range": 1.03,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.9266,
+  "px": {
+   "s": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Sea_View_House%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "ar": 0.9266,
+   "L": [
+    0.398684,
+    0.0,
+    0.074342,
+    0.0,
+    0.838462,
+    0.114103
+   ],
+   "R": [
+    0.403127,
+    -0.009213,
+    0.52439,
+    0.000586,
+    0.849395,
+    0.101363
+   ],
+   "g": [
+    0.9686,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.02° of rotation. Depth measured gentle (1.03% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View from Oak Bluffs, Martha's Vineyard (NYPL b11707531-G90F264 017F)",
+  "place": "Martha's Vineyard, Massachusetts",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water",
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/View_from_Oak_Bluffs%2C_Martha%27s_Vineyard_%28NYPL_b11707531-G90F264_017F%29.tiff/lossy-page1-1920px-View_from_Oak_Bluffs%2C_Martha%27s_Vineyard_%28NYPL_b11707531-G90F264_017F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5c/View_from_Oak_Bluffs%2C_Martha%27s_Vineyard_%28NYPL_b11707531-G90F264_017F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_from_Oak_Bluffs,_Martha%27s_Vineyard_(NYPL_b11707531-G90F264_017F).tiff",
+  "license": "Public domain",
+  "w": 3072,
+  "h": 1623,
+  "id": "STA-4034",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4033.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 0.85,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.3393,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/View_from_Oak_Bluffs%2C_Martha%27s_Vineyard_%28NYPL_b11707531-G90F264_017F%29.tiff/lossy-page1-1920px-View_from_Oak_Bluffs%2C_Martha%27s_Vineyard_%28NYPL_b11707531-G90F264_017F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3393,
+   "L": [
+    0.3125,
+    0.0,
+    0.154427,
+    0.0,
+    0.441815,
+    0.498521
+   ],
+   "R": [
+    0.314452,
+    -0.005479,
+    0.525816,
+    -0.012446,
+    0.445813,
+    0.494256
+   ],
+   "g": [
+    0.9576,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (0.85% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]

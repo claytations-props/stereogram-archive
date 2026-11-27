@@ -1,0 +1,69 @@
+{
+ "title": "Cottages, Ocean Avenue, Oak Bluffs, Martha's Vineyard, by Kilburn Brothers",
+ "place": "Martha's Vineyard, Massachusetts",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cottages%2C_Ocean_Avenue%2C_Oak_Bluffs%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cottages%2C_Ocean_Avenue%2C_Oak_Bluffs%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Cottages,_Ocean_Avenue,_Oak_Bluffs,_Martha%27s_Vineyard,_by_Kilburn_Brothers.jpg",
+ "license": "Public domain",
+ "w": 760,
+ "h": 386,
+ "id": "STA-4026",
+ "rect": "rect/4025.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.34,
+ "rot": 0.03,
+ "range": 2.03,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.3231,
+ "px": {
+  "s": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cottages%2C_Ocean_Avenue%2C_Oak_Bluffs%2C_Martha%27s_Vineyard%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "ar": 1.3231,
+  "L": [
+   0.398684,
+   0.0,
+   0.083553,
+   0.0,
+   0.593264,
+   0.255181
+  ],
+  "R": [
+   0.398284,
+   -0.002298,
+   0.513918,
+   0.001943,
+   0.590315,
+   0.261543
+  ],
+  "g": [
+   0.992,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.34% vertical error and 0.03° of rotation. Depth measured moderate (2.03% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Kilburn Brothers",
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 7444098,
+ "source_revision_id": null,
+ "source_sha1": "bd4b15e9a4ec9f6b677f47ecedbcf53796cbe33c"
+}
