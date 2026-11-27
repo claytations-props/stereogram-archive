@@ -94,6 +94,13 @@ footer a{color:var(--brass)}
 .regwrap tbody tr:hover{background:var(--paperhover)}
 .regwrap .no{font-weight:600;white-space:nowrap;color:var(--ink2)}
 .regwrap .ttl{font-family:"Playfair Display",Georgia,serif;font-size:16px}
+/* Round 20: a Register row opens its record on click or Enter, but
+   nothing on the row said so — the round-20 walk concluded a record
+   could only be opened by switching back to Shelves. A "›" in a
+   final column is the open cue, and the row names its action on
+   hover. No role="button" on the row: that would override the table
+   row's own semantics; the cue and the title are the affordance. */
+.regwrap .go{color:var(--paperlink);font-weight:700;text-align:center}
 .viewtog{display:flex;gap:0}
 .viewtog .btn{border-radius:0}
 .viewtog .btn:first-child{border-radius:3px 0 0 3px}
@@ -705,7 +712,7 @@ function render(){
  const mb=$("#moreBtn");if(mb){mb.style.display=currentList.length>shown?"block":"none";/* Round 5: the button is the decision point, so it names what is left; the top count line is out of sight by then. */if(currentList.length>shown)mb.textContent="Show more items · "+(currentList.length-shown)+" remaining";}
  if(state.view==="reg"){
   g.style.display="none";rg.style.display="block";$("#tlm").style.display="none";
-  rg.innerHTML=`<div class="regwrap"><table><thead><tr><th>No.</th><th>Title</th><th>Date</th><th class="hidemb">Place</th><th class="hidemb">Series</th><th>Depth</th></tr></thead><tbody>${page.map((d,i)=>`<tr data-i="${i}"><td class="no">${d.id}</td><td class="ttl">${d.title}</td><td>${d.year}</td><td class="hidemb">${d.place}</td><td class="hidemb">${d.cats.map(c=>CATLABEL[c]||c).join(", ")}</td><td>${d.depth}</td></tr>`).join("")}</tbody></table></div>`;
+  rg.innerHTML=`<div class="regwrap"><table><thead><tr><th>No.</th><th>Title</th><th>Date</th><th class="hidemb">Place</th><th class="hidemb">Series</th><th>Depth</th><th></th></tr></thead><tbody>${page.map((d,i)=>`<tr data-i="${i}" title="Open the record"><td class="no">${d.id}</td><td class="ttl">${d.title}</td><td>${d.year}</td><td class="hidemb">${d.place}</td><td class="hidemb">${d.cats.map(c=>CATLABEL[c]||c).join(", ")}</td><td>${d.depth}</td><td class="go" aria-hidden="true">›</td></tr>`).join("")}</tbody></table></div>`;
   rg.querySelectorAll("tbody tr").forEach(tr=>{tr.tabIndex=0;tr.onclick=()=>openViewer(+tr.dataset.i);tr.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();openViewer(+tr.dataset.i)}}});
   renderedShown=page.length;pendingAppend=false;maybeReveal();
   return;
