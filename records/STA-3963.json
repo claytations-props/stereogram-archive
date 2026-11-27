@@ -1,0 +1,71 @@
+{
+ "title": "Between bridges at falls, by P. W. Taft",
+ "place": "Bellows Falls, Vermont",
+ "year": "1870",
+ "sy": 1870,
+ "era": "mid",
+ "cats": [
+  "water",
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Between_bridges_at_falls%2C_by_P._W._Taft.jpg/1920px-Between_bridges_at_falls%2C_by_P._W._Taft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/0/09/Between_bridges_at_falls%2C_by_P._W._Taft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Between_bridges_at_falls,_by_P._W._Taft.jpg",
+ "license": "Public domain",
+ "w": 2737,
+ "h": 1419,
+ "id": "STA-3963",
+ "rect": "rect/3962.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.09,
+ "rot": 0.01,
+ "range": 1.23,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.2197,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Between_bridges_at_falls%2C_by_P._W._Taft.jpg/1920px-Between_bridges_at_falls%2C_by_P._W._Taft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.2197,
+  "L": [
+   0.398958,
+   0.0,
+   0.094531,
+   0.0,
+   0.631156,
+   0.305025
+  ],
+  "R": [
+   0.400058,
+   -0.00862,
+   0.51725,
+   0.006473,
+   0.630633,
+   0.312025
+  ],
+  "g": [
+   1.0,
+   0.9705
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (1.23% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "P. W. Taft",
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1870",
+ "date_start": 1870,
+ "date_end": 1870,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10091721,
+ "source_revision_id": null,
+ "source_sha1": "0791c521bf3997942911d7ce2ff48733bd330e85"
+}
