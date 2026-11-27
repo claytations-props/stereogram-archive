@@ -313,7 +313,12 @@ canvas#ana.show{display:block}
     <input type="search" id="q" aria-label="Search the archive" placeholder="Search falls, castles, war, the Moon..." title="Press / to focus the search box">
     <span id="idxNote" role="status" style="font-size:12px;color:var(--dim)"></span>
     <select id="era" aria-label="Filter by era"><option value="all">All eras</option><option value="early">1840s–1860s</option><option value="mid">1870s–1890s</option><option value="late">1900s–1920s</option><option value="undated">Undated</option></select>
-    <select id="sort" aria-label="Sort items"><option value="recent">Newest to the collection</option><option value="featured">Sort: Accession order</option><option value="old">Oldest first</option><option value="new">Newest first</option><option value="az">Title A–Z</option><option value="shuffle">Shuffle</option></select>
+    <!-- Round 20: the sort labels did not say what they sort. "Newest
+         to the collection" (the newest additions) and "Newest first"
+         (the newest photographs) read as the same choice, and the
+         "Sort: " prefix appeared on one option only (live walk, round
+         20). The labels now name the thing being sorted. -->
+    <select id="sort" aria-label="Sort items"><option value="recent">Recently added</option><option value="featured">Accession order</option><option value="old">Oldest photographs first</option><option value="new">Newest photographs first</option><option value="az">Title A–Z</option><option value="shuffle">Shuffle</option></select>
     <button class="btn" id="reshuffle" hidden>↻ Shuffle again</button>
     <button class="btn" id="clearFilters" hidden>Clear search &amp; filters</button>
     <span class="viewtog"><button class="btn on" id="vShelves" aria-pressed="true">Shelves</button><button class="btn" id="vRegister" aria-pressed="false">Register</button><button class="btn" id="vTimeline" aria-pressed="false">Timeline</button></span>
