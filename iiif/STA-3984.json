@@ -1,0 +1,104 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-3984.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Walk in Gansevoot (i.e. Gansevoort) Street, Little Falls, N.Y, by W. M. Tucker"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "W. M. Tucker"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1868"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Little Falls, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-3984.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-3984/canvas/1",
+   "type": "Canvas",
+   "width": 1016,
+   "height": 675,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-3984/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-3984/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/3983.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1016,
+        "height": 675,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Walk_in_Gansevoot_%28i.e._Gansevoort%29_Street%2C_Little_Falls%2C_N.Y%2C_by_W._M._Tucker.png/1920px-Walk_in_Gansevoot_%28i.e._Gansevoort%29_Street%2C_Little_Falls%2C_N.Y%2C_by_W._M._Tucker.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-3984/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

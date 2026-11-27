@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4031.json",
+ "name": "Martha's Vineyard, by Thum, M. (Mandeville)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4030.jpg",
+ "identifier": "STA-4031",
+ "creator": {
+  "@type": "Person",
+  "name": "Thum, M. (Mandeville)"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Mammoth Cave, Kentucky"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Martha%27s_Vineyard,_by_Thum,_M._(Mandeville).jpg"
+}

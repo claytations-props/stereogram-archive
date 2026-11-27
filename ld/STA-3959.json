@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3959.json",
+ "name": "S.R.R. bridge, Bellows Falls, by French & Sawyer",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3958.jpg",
+ "identifier": "STA-3959",
+ "creator": {
+  "@type": "Person",
+  "name": "French & Sawyer"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bellows Falls, Vermont"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:S.R.R._bridge,_Bellows_Falls,_by_French_%26_Sawyer.jpg"
+}

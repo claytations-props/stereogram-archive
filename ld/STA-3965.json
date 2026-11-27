@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3965.json",
+ "name": "The Falls, by McIntosh, R. M., b. 1823",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3964.jpg",
+ "identifier": "STA-3965",
+ "creator": {
+  "@type": "Person",
+  "name": "McIntosh, R. M."
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bellows Falls, Vermont"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Falls,_by_McIntosh,_R._M.,_b._1823.jpg"
+}

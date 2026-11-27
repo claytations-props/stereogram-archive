@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3969.json",
+ "name": "View of the Connecticut River, by P. W. Taft",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3968.jpg",
+ "identifier": "STA-3969",
+ "creator": {
+  "@type": "Person",
+  "name": "P. W. Taft"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bellows Falls, Vermont"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_the_Connecticut_River,_by_P._W._Taft.png"
+}

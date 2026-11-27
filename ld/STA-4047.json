@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4047.json",
+ "name": "View of a home in Nyack, by Van Wagner",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4046.jpg",
+ "identifier": "STA-4047",
+ "creator": {
+  "@type": "Person",
+  "name": "Van Wagner"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Nyack, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_of_a_home_in_Nyack,_by_Van_Wagner.jpg"
+}

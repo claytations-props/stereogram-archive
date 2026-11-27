@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4027.json",
+ "name": "Ocean Avenue, Oak Bluffs, Martha's Vineyard, by Kilburn Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4026.jpg",
+ "identifier": "STA-4027",
+ "creator": {
+  "@type": "Person",
+  "name": "Kilburn Brothers"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Martha's Vineyard, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Ocean_Avenue,_Oak_Bluffs,_Martha%27s_Vineyard,_by_Kilburn_Brothers.jpg"
+}

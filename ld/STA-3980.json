@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3980.json",
+ "name": "N.Y. Central R.R. and Mohawk River, looking north from Little Falls",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3979.jpg",
+ "identifier": "STA-3980",
+ "dateCreated": "1868",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Little Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:N.Y._Central_R.R._and_Mohawk_River,_looking_north_from_Little_Falls,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

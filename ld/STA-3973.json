@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3973.json",
+ "name": "Little Falls, from Lovers Leap",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3972.jpg",
+ "identifier": "STA-3973",
+ "dateCreated": "1868",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Little Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Little_Falls,_from_Lovers_Leap,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3984.json",
+ "name": "Walk in Gansevoot (i.e. Gansevoort) Street, Little Falls, N.Y, by W. M. Tucker",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3983.jpg",
+ "identifier": "STA-3984",
+ "creator": {
+  "@type": "Person",
+  "name": "W. M. Tucker"
+ },
+ "dateCreated": "1868",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Little Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Walk_in_Gansevoot_(i.e._Gansevoort)_Street,_Little_Falls,_N.Y,_by_W._M._Tucker.png"
+}

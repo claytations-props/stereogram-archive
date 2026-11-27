@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4039.json",
+ "name": "Boaters in Narragansett, by L. H. Clarke",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4038.jpg",
+ "identifier": "STA-4039",
+ "creator": {
+  "@type": "Person",
+  "name": "L. H. Clarke"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Narragansett, Rhode Island"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Boaters_in_Narragansett,_by_L._H._Clarke.jpg"
+}

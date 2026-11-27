@@ -1,0 +1,92 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-3986.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Acqueduct (i.e. aqueduct) in winter, Little Falls, N.Y (NYPL b11707979-G91F125 027ZF)"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1868"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Little Falls, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-3986.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-3986/canvas/1",
+   "type": "Canvas",
+   "width": 1414,
+   "height": 481,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-3986/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-3986/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/3985.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1414,
+        "height": 481,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Acqueduct_%28i.e._aqueduct%29_in_winter%2C_Little_Falls%2C_N.Y_%28NYPL_b11707979-G91F125_027ZF%29.tiff/lossy-page1-1920px-Acqueduct_%28i.e._aqueduct%29_in_winter%2C_Little_Falls%2C_N.Y_%28NYPL_b11707979-G91F125_027ZF%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-3986/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

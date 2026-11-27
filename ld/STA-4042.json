@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4042.json",
+ "name": "Hotel at Narragansett, by L. H. Clarke",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4041.jpg",
+ "identifier": "STA-4042",
+ "creator": {
+  "@type": "Person",
+  "name": "L. H. Clarke"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Narragansett, Rhode Island"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Hotel_at_Narragansett,_by_L._H._Clarke.png"
+}

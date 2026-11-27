@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3958.json",
+ "name": "Bellows Falls, Vermont, by P. W. Taft 3",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3957.jpg",
+ "identifier": "STA-3958",
+ "creator": {
+  "@type": "Person",
+  "name": "P. W. Taft"
+ },
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Bellows Falls, Vermont"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Bellows_Falls,_Vermont,_by_P._W._Taft_3.jpg"
+}

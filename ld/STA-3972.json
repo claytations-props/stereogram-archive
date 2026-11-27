@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-3972.json",
+ "name": "Mill Race at Little Falls",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/3971.jpg",
+ "identifier": "STA-3972",
+ "dateCreated": "1868",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Little Falls, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Mill_Race_at_Little_Falls,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

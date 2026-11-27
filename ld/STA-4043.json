@@ -1,0 +1,14 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4043.json",
+ "name": "Florence at Narragansett pier circa 1875 01",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4042.jpg",
+ "identifier": "STA-4043",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Narragansett, Rhode Island"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Florence_at_Narragansett_pier_circa_1875_01.jpeg"
+}
