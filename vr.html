@@ -1010,9 +1010,15 @@ function runParlorSearch(q){
     return;
   }
   searchSet={key:'search:'+q,label:'Search: "'+q+'"',indices:idx};
+  /* Round 20: the selector is built from curSet, so the set must be
+     settled before buildSetOptions runs — building it while curSet
+     still named the old set left the dropdown naming the old set
+     until the next card's texture load refreshed it (live walk,
+     round 20: the dropdown's marked option disagreed with the set
+     actually showing). */
+  curSet=searchSet;curPos=0;wallPage=0;
   rebuildSets();
   buildSetOptions();
-  curSet=searchSet;curPos=0;wallPage=0;
   setPanelPage=panelPageForSet(searchSet.key);
   drawSetPanel();renderWall();
   showPos(0);
@@ -1024,14 +1030,20 @@ function clearParlorSearch(){
   const wasCurrent=curSet&&curSet.key===searchSet.key;
   searchSet=null;
   rebuildSets();
-  buildSetOptions();drawSetPanel();
-  const input=document.getElementById('parlorSearch');if(input)input.value='';
-  document.getElementById('parlorSearchClear').hidden=true;
   if(wasCurrent){
     curSet=SETS[0];
     const p=cur>=0?SETS[0].indices.indexOf(cur):-1;
     curPos=p>=0?p:0;
     wallPage=Math.floor(curPos/PAGE);
+  }
+  /* Round 20: same ordering as runParlorSearch — the selector is
+     built from curSet, so building it while curSet still named the
+     search set (just removed from SETS) left the dropdown with no
+     selection until the next card's texture load refreshed it. */
+  buildSetOptions();drawSetPanel();
+  const input=document.getElementById('parlorSearch');if(input)input.value='';
+  document.getElementById('parlorSearchClear').hidden=true;
+  if(wasCurrent){
     renderWall();
     showPos(curPos);
   }
