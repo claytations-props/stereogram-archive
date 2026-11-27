@@ -1,0 +1,155 @@
+{
+ "assignments": {
+  "STA-4015": {
+   "tags": [
+    "sailboat",
+    "pier",
+    "ocean",
+    "children"
+   ],
+   "conf": "high"
+  },
+  "STA-4016": {
+   "tags": [
+    "hotel",
+    "beach",
+    "ocean"
+   ],
+   "conf": "high"
+  },
+  "STA-4017": {
+   "tags": [
+    "cliff",
+    "ocean"
+   ],
+   "conf": "high"
+  },
+  "STA-4018": {
+   "tags": [
+    "cottage",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-4019": {
+   "tags": [
+    "cliff",
+    "rock formation"
+   ],
+   "conf": "high"
+  },
+  "STA-4020": {
+   "tags": [
+    "pavilion",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-4021": {
+   "tags": [
+    "cottage",
+    "main street"
+   ],
+   "conf": "high"
+  },
+  "STA-4022": {
+   "tags": [
+    "cottage",
+    "town square",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-4023": {
+   "tags": [
+    "cottage",
+    "town square",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-4024": {
+   "tags": [
+    "main street",
+    "house",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-4025": {
+   "tags": [
+    "town square",
+    "cottage",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-4026": {
+   "tags": [
+    "cottage",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-4027": {
+   "tags": [
+    "cottage",
+    "main street"
+   ],
+   "conf": "high"
+  },
+  "STA-4028": {
+   "tags": [
+    "cliff",
+    "rock formation"
+   ],
+   "conf": "high"
+  },
+  "STA-4029": {
+   "tags": [
+    "passenger train",
+    "steamboat",
+    "pier"
+   ],
+   "conf": "high"
+  },
+  "STA-4030": {
+   "tags": [
+    "paddle steamer",
+    "pier",
+    "crowd",
+    "harbor"
+   ],
+   "conf": "high"
+  },
+  "STA-4031": {
+   "tags": [
+    "rock formation",
+    "cave"
+   ],
+   "conf": "high"
+  },
+  "STA-4032": {
+   "tags": [
+    "hotel",
+    "railroad tracks",
+    "streetcar"
+   ],
+   "conf": "high"
+  },
+  "STA-4033": {
+   "tags": [
+    "hotel",
+    "railroad tracks"
+   ],
+   "conf": "high"
+  },
+  "STA-4034": {
+   "tags": [
+    "hotel",
+    "ocean"
+   ],
+   "conf": "high"
+  }
+ }
+}

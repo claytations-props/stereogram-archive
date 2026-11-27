@@ -1,0 +1,80 @@
+{
+ "assignments": {
+  "STA-4035": {
+   "tags": [
+    "hotel",
+    "horse-drawn carriage"
+   ],
+   "conf": "high"
+  },
+  "STA-4036": {
+   "tags": [
+    "rock formation",
+    "ocean",
+    "island"
+   ],
+   "conf": "high"
+  },
+  "STA-4037": {
+   "tags": [
+    "hotel",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-4038": {
+   "tags": [
+    "beach",
+    "swimming",
+    "ocean"
+   ],
+   "conf": "high"
+  },
+  "STA-4039": {
+   "tags": [
+    "rowboat",
+    "boating",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-4040": {
+   "tags": [
+    "rock formation",
+    "ocean"
+   ],
+   "conf": "high"
+  },
+  "STA-4041": {
+   "tags": [
+    "hotel",
+    "beach",
+    "ocean"
+   ],
+   "conf": "high"
+  },
+  "STA-4042": {
+   "tags": [
+    "hotel",
+    "beach",
+    "ocean"
+   ],
+   "conf": "high"
+  },
+  "STA-4043": {
+   "tags": [
+    "steamboat",
+    "pier",
+    "harbor"
+   ],
+   "conf": "high"
+  },
+  "STA-4044": {
+   "tags": [
+    "cottage",
+    "garden"
+   ],
+   "conf": "high"
+  }
+ }
+}

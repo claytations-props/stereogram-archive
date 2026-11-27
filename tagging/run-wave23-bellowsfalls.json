@@ -1,0 +1,161 @@
+{
+ "assignments": {
+  "STA-3952": {
+   "tags": [
+    "valley",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-3953": {
+   "tags": [
+    "river",
+    "valley",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-3954": {
+   "tags": [
+    "covered bridge",
+    "rapids",
+    "river",
+    "rock formation"
+   ],
+   "conf": "high"
+  },
+  "STA-3955": {
+   "tags": [
+    "waterfall",
+    "covered bridge",
+    "river"
+   ],
+   "conf": "high"
+  },
+  "STA-3956": {
+   "tags": [
+    "snow",
+    "river",
+    "rock formation",
+    "bridge"
+   ],
+   "conf": "high"
+  },
+  "STA-3957": {
+   "tags": [
+    "hotel",
+    "river",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-3958": {
+   "tags": [
+    "river",
+    "rock formation",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-3959": {
+   "tags": [
+    "railroad tracks",
+    "bridge",
+    "pine tree",
+    "river"
+   ],
+   "conf": "high"
+  },
+  "STA-3960": {
+   "tags": [
+    "valley",
+    "river",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-3961": {
+   "tags": [
+    "covered bridge",
+    "gorge",
+    "river",
+    "cliff"
+   ],
+   "conf": "high"
+  },
+  "STA-3962": {
+   "tags": [
+    "river",
+    "island",
+    "pine tree"
+   ],
+   "conf": "high"
+  },
+  "STA-3963": {
+   "tags": [
+    "gorge",
+    "rock formation",
+    "river"
+   ],
+   "conf": "high"
+  },
+  "STA-3964": {
+   "tags": [
+    "covered bridge",
+    "rapids",
+    "river",
+    "rock formation"
+   ],
+   "conf": "high"
+  },
+  "STA-3965": {
+   "tags": [
+    "covered bridge",
+    "waterfall",
+    "rapids",
+    "gorge",
+    "rock formation"
+   ],
+   "conf": "high"
+  },
+  "STA-3966": {
+   "tags": [
+    "valley",
+    "river",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-3967": {
+   "tags": [
+    "watermill",
+    "river"
+   ],
+   "conf": "high"
+  },
+  "STA-3968": {
+   "tags": [
+    "covered bridge",
+    "waterfall",
+    "rock formation",
+    "river"
+   ],
+   "conf": "high"
+  },
+  "STA-3969": {
+   "tags": [
+    "river",
+    "valley",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-3970": {
+   "tags": [
+    "factory",
+    "trees"
+   ],
+   "conf": "high"
+  }
+ }
+}

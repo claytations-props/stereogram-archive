@@ -1,0 +1,54 @@
+{
+ "assignments": {
+  "STA-4045": {
+   "tags": [
+    "main street",
+    "house"
+   ],
+   "conf": "high"
+  },
+  "STA-4046": {
+   "tags": [
+    "gazebo",
+    "garden",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-4047": {
+   "tags": [
+    "house",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-4048": {
+   "tags": [
+    "house",
+    "garden"
+   ],
+   "conf": "high"
+  },
+  "STA-4049": {
+   "tags": [
+    "valley",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-4050": {
+   "tags": [
+    "shipyard",
+    "harbor"
+   ],
+   "conf": "high"
+  },
+  "STA-4051": {
+   "tags": [
+    "church interior",
+    "room interior"
+   ],
+   "conf": "high"
+  }
+ }
+}

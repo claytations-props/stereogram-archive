@@ -65,5 +65,10 @@
  "license_url": null,
  "source_page_id": 10067458,
  "source_revision_id": null,
- "source_sha1": "decf462702b1aa0b54b802d1aea8d137dd8ec944"
+ "source_sha1": "decf462702b1aa0b54b802d1aea8d137dd8ec944",
+ "tags": [
+  "rapids",
+  "watermill",
+  "river"
+ ]
 }

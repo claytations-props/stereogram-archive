@@ -1,0 +1,146 @@
+{
+ "assignments": {
+  "STA-3971": {
+   "tags": [
+    "house",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-3972": {
+   "tags": [
+    "waterfall",
+    "watermill",
+    "river"
+   ],
+   "conf": "high"
+  },
+  "STA-3973": {
+   "tags": [
+    "river",
+    "gorge",
+    "canal"
+   ],
+   "conf": "high"
+  },
+  "STA-3974": {
+   "tags": [
+    "rapids",
+    "watermill",
+    "river"
+   ],
+   "conf": "high"
+  },
+  "STA-3975": {
+   "tags": [
+    "river",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-3976": {
+   "tags": [
+    "valley",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-3977": {
+   "tags": [
+    "rock formation",
+    "river",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-3978": {
+   "tags": [
+    "pine tree",
+    "mountain",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-3979": {
+   "tags": [
+    "river",
+    "rock formation"
+   ],
+   "conf": "high"
+  },
+  "STA-3980": {
+   "tags": [
+    "railroad tracks",
+    "river",
+    "rock formation"
+   ],
+   "conf": "high"
+  },
+  "STA-3981": {
+   "tags": [
+    "valley",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-3982": {
+   "tags": [
+    "snow",
+    "trees"
+   ],
+   "conf": "high"
+  },
+  "STA-3983": {
+   "tags": [
+    "waterfall",
+    "dam",
+    "river"
+   ],
+   "conf": "high"
+  },
+  "STA-3984": {
+   "tags": [
+    "trees",
+    "house"
+   ],
+   "conf": "high"
+  },
+  "STA-3985": {
+   "tags": [
+    "bridge",
+    "rapids",
+    "river"
+   ],
+   "conf": "high"
+  },
+  "STA-3986": {
+   "tags": [
+    "ice",
+    "waterfall"
+   ],
+   "conf": "high"
+  },
+  "STA-3987": {
+   "tags": [
+    "bridge",
+    "canal"
+   ],
+   "conf": "high"
+  },
+  "STA-3988": {
+   "tags": [
+    "waterfall",
+    "dam",
+    "cliff"
+   ],
+   "conf": "high"
+  },
+  "STA-3989": {
+   "tags": [
+    "house",
+    "trees"
+   ],
+   "conf": "high"
+  }
+ }
+}
