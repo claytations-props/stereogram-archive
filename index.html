@@ -804,6 +804,14 @@ function openViewer(i,fromAll){
    getRecord and is cached for the session. */
 function showCurrent(keepMode){
  const b=cur();if(!b)return;
+ /* Round 20: stepping to the next card while scrolled down to the
+    record left the new picture above the viewport — the viewer keeps
+    its scroll position across cards, so a keyboard step from the
+    record showed the new card's record, not its picture (the record
+    sits below the fold on opening; live walk, round 20). A card
+    change brings the viewer back to the top, where the picture is.
+    Mode switches do not call showCurrent, so they never scroll. */
+ document.getElementById("viewer").scrollTop=0;
  const tk=++viewToken;vrec=null;
  try{history.replaceState(null,"","#"+b.id)}catch(e){}
  $("#vParlor").href=parlorUrl(b);
