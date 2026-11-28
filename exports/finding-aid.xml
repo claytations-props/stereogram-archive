@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>4112</quantity>
+    <quantity>4133</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -6940,6 +6940,166 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4115.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-4120">
+     <did>
+      <unitid>STA-4120</unitid>
+      <unittitle>Cascades, Glen Alpha, Watkins Glen</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4119.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4121">
+     <did>
+      <unitid>STA-4121</unitid>
+      <unittitle>Watkins Glen</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4120.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4122">
+     <did>
+      <unitid>STA-4122</unitid>
+      <unittitle>(Central?) cascade, Watkins Glen, N.Y</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4121.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4123">
+     <did>
+      <unitid>STA-4123</unitid>
+      <unittitle>Watkins Glen, from Robert N. Dennis collection of stereoscopic views 5</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4122.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4124">
+     <did>
+      <unitid>STA-4124</unitid>
+      <unittitle>Watkins Glen, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4123.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4125">
+     <did>
+      <unitid>STA-4125</unitid>
+      <unittitle>Watkins Glen, from Robert N. Dennis collection of stereoscopic views 6</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4124.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4126">
+     <did>
+      <unitid>STA-4126</unitid>
+      <unittitle>Watkins Glen, from Robert N. Dennis collection of stereoscopic views 8</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4125.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4127">
+     <did>
+      <unitid>STA-4127</unitid>
+      <unittitle>Stereoscopic views of Watkins Glen, New York</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4126.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4128">
+     <did>
+      <unitid>STA-4128</unitid>
+      <unittitle>Watkins Glen, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4127.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4129">
+     <did>
+      <unitid>STA-4129</unitid>
+      <unittitle>Matchless scene, Watkins Glen</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4128.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4131">
+     <did>
+      <unitid>STA-4131</unitid>
+      <unittitle>Watkins Glen. Artist's Dream</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4130.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4132">
+     <did>
+      <unitid>STA-4132</unitid>
+      <unittitle>Watkins Glen, N.Y</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4131.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4133">
+     <did>
+      <unitid>STA-4133</unitid>
+      <unittitle>Watkins Glen. (View of a rustic bridge.)</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4132.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4134">
+     <did>
+      <unitid>STA-4134</unitid>
+      <unittitle>Artist's Dream, Watkins Glen</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4133.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4135">
+     <did>
+      <unitid>STA-4135</unitid>
+      <unittitle>Watkins Glen, from Robert N. Dennis collection of stereoscopic views 7</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4134.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4136">
+     <did>
+      <unitid>STA-4136</unitid>
+      <unittitle>Pilgrim's Rest, Watkins Glen</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4135.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4137">
+     <did>
+      <unitid>STA-4137</unitid>
+      <unittitle>Minnehaha falls, Watkins Glen, N.Y</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4136.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4138">
+     <did>
+      <unitid>STA-4138</unitid>
+      <unittitle>Famous gorge, Watkins Glen, N.Y</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4137.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4139">
+     <did>
+      <unitid>STA-4139</unitid>
+      <unittitle>Whirlwind gorge, Watkins Glen, N.Y</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4138.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4140">
+     <did>
+      <unitid>STA-4140</unitid>
+      <unittitle>Watkins Glen. (View of a rustic bridge.), from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4139.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -9519,6 +9679,14 @@
       <unittitle>Mt. Defiance, from Ticonderoga, N.Y, by Styles, A. F. (Adin French), 1832-1910</unittitle>
       <unitdate normal="1860">1860</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4118.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4130">
+     <did>
+      <unitid>STA-4130</unitid>
+      <unittitle>Entrance, Watkins Glen, N.Y</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4129.jpg"/>
      </did>
     </c>
    </c>
