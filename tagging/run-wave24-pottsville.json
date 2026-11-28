@@ -1,0 +1,14 @@
+{"assignments": {
+  "STA-4069": {"tags": ["main street", "house", "trees"], "conf": "high"},
+  "STA-4070": {"tags": ["house", "church", "trees"], "conf": "high"},
+  "STA-4071": {"tags": ["house", "river", "trees"], "conf": "high"},
+  "STA-4072": {"tags": ["house", "church", "trees"], "conf": "high"},
+  "STA-4073": {"tags": ["trees", "mountain", "house"], "conf": "high"},
+  "STA-4074": {"tags": ["row houses", "trees", "main street"], "conf": "high"},
+  "STA-4075": {"tags": ["hotel", "house", "trees"], "conf": "high"},
+  "STA-4076": {"tags": ["mountain", "trees"], "conf": "high"},
+  "STA-4077": {"tags": ["river", "mountain", "trees"], "conf": "high"},
+  "STA-4078": {"tags": ["pavilion", "lake", "house", "trees"], "conf": "high"},
+  "STA-4079": {"tags": ["railroad tracks", "mountain", "trees"], "conf": "high"},
+  "STA-4080": {"tags": ["haystack", "harvesting", "house", "trees"], "conf": "high"}
+}}
