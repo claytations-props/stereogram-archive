@@ -65,5 +65,9 @@
  "license_url": null,
  "source_page_id": 10466521,
  "source_revision_id": null,
- "source_sha1": "551e039f96f3c0ccc827c0557d74ce571bb42500"
+ "source_sha1": "551e039f96f3c0ccc827c0557d74ce571bb42500",
+ "tags": [
+  "waterfall",
+  "cliff"
+ ]
 }

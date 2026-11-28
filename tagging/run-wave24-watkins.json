@@ -1,0 +1,23 @@
+{"assignments": {
+  "STA-4120": {"tags": ["waterfall", "bridge", "trees"], "conf": "high"},
+  "STA-4121": {"tags": ["river", "bridge", "trees"], "conf": "high"},
+  "STA-4122": {"tags": ["waterfall", "cliff"], "conf": "high"},
+  "STA-4123": {"tags": ["waterfall", "trees"], "conf": "high"},
+  "STA-4124": {"tags": ["waterfall", "cliff"], "conf": "high"},
+  "STA-4125": {"tags": ["waterfall", "trees"], "conf": "high"},
+  "STA-4126": {"tags": ["river", "trees"], "conf": "high"},
+  "STA-4127": {"tags": ["river", "cliff"], "conf": "high"},
+  "STA-4128": {"tags": ["waterfall", "bridge"], "conf": "high"},
+  "STA-4129": {"tags": ["cliff", "staircase"], "conf": "high"},
+  "STA-4130": {"tags": ["staircase", "trees", "cliff"], "conf": "high"},
+  "STA-4131": {"tags": ["river", "cliff"], "conf": "high"},
+  "STA-4132": {"tags": ["river", "portrait group", "trees"], "conf": "high"},
+  "STA-4133": {"tags": ["bridge", "river", "trees"], "conf": "high"},
+  "STA-4134": {"tags": ["river", "cliff"], "conf": "high"},
+  "STA-4135": {"tags": ["waterfall", "bridge", "trees"], "conf": "high"},
+  "STA-4136": {"tags": ["waterfall", "cliff"], "conf": "high"},
+  "STA-4137": {"tags": ["waterfall", "river"], "conf": "high"},
+  "STA-4138": {"tags": ["waterfall", "cliff"], "conf": "high"},
+  "STA-4139": {"tags": ["bridge", "river", "cliff"], "conf": "high"},
+  "STA-4140": {"tags": ["bridge", "cliff", "trees"], "conf": "high"}
+}}
