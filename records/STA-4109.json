@@ -1,0 +1,69 @@
+{
+ "title": "Boat landing, Ticonderoga, by Kilburn Brothers",
+ "place": "Ticonderoga, New York",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Boat_landing%2C_Ticonderoga%2C_by_Kilburn_Brothers.jpg/1920px-Boat_landing%2C_Ticonderoga%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Boat_landing%2C_Ticonderoga%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Boat_landing,_Ticonderoga,_by_Kilburn_Brothers.jpg",
+ "license": "Public domain",
+ "w": 2523,
+ "h": 1238,
+ "id": "STA-4109",
+ "rect": "rect/4108.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.06,
+ "rot": 0.0,
+ "range": 1.91,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.0175,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Boat_landing%2C_Ticonderoga%2C_by_Kilburn_Brothers.jpg/1920px-Boat_landing%2C_Ticonderoga%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.0175,
+  "L": [
+   0.422917,
+   0.0,
+   0.054948,
+   0.0,
+   0.847134,
+   0.035563
+  ],
+  "R": [
+   0.427967,
+   0.002222,
+   0.50675,
+   -0.007753,
+   0.855662,
+   0.028513
+  ],
+  "g": [
+   0.9965,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.0° of rotation. Depth measured moderate (1.91% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Kilburn Brothers",
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10248833,
+ "source_revision_id": null,
+ "source_sha1": "e8989aab5269eb64a02622c2e9aebc1b88131d9e"
+}

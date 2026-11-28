@@ -301343,5 +301343,1182 @@
    "trees",
    "meadow"
   ]
+ },
+ {
+  "title": "Steamboat landing at Ticonderoga",
+  "place": "Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Steamboat_landing_at_Ticonderoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Steamboat_landing_at_Ticonderoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/43/Steamboat_landing_at_Ticonderoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Steamboat_landing_at_Ticonderoga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2579,
+  "h": 1260,
+  "id": "STA-4103",
+  "rect": "rect/4102.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.02,
+  "range": 5.86,
+  "f": 0.48,
+  "depth": "Deep",
+  "va": 1.1402,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Steamboat_landing_at_Ticonderoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Steamboat_landing_at_Ticonderoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1402,
+   "L": [
+    0.347396,
+    0.0,
+    0.108594,
+    0.0,
+    0.623667,
+    0.316098
+   ],
+   "R": [
+    0.375283,
+    0.007889,
+    0.508267,
+    -0.016227,
+    0.621463,
+    0.358526
+   ],
+   "g": [
+    0.9592,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.02° of rotation. Depth measured deep (5.86% of frame width); hung in the VR Parlor at 48% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248898,
+  "source_revision_id": null,
+  "source_sha1": "2c7ae5c75620aeb2381b38d96af4fe47ed14bcdc"
+ },
+ {
+  "title": "Factory at Ticonderoga, Lake George",
+  "place": "Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water",
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Factory_at_Ticonderoga%2C_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Factory_at_Ticonderoga%2C_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Factory_at_Ticonderoga%2C_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Factory_at_Ticonderoga,_Lake_George,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2592,
+  "h": 1311,
+  "id": "STA-4104",
+  "rect": "rect/4103.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 0.56,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0044,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Factory_at_Ticonderoga%2C_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Factory_at_Ticonderoga%2C_Lake_George%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0044,
+   "L": [
+    0.357812,
+    0.0,
+    0.100781,
+    0.0,
+    0.704428,
+    0.19104
+   ],
+   "R": [
+    0.362248,
+    -0.003577,
+    0.519473,
+    -0.003571,
+    0.709125,
+    0.157331
+   ],
+   "g": [
+    0.9108,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (0.56% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water",
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248791,
+  "source_revision_id": null,
+  "source_sha1": "ea22237a457d30b7bcfb40449427cf5f678206f1"
+ },
+ {
+  "title": "Lower Falls, Ticonderoga",
+  "place": "Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Lower_Falls%2C_Ticonderoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Lower_Falls%2C_Ticonderoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lower_Falls%2C_Ticonderoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Lower_Falls,_Ticonderoga,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+  "license": "Public domain",
+  "w": 2534,
+  "h": 1244,
+  "id": "STA-4105",
+  "rect": "rect/4104.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 0.97,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.4393,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Lower_Falls%2C_Ticonderoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Lower_Falls%2C_Ticonderoga%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.4393,
+   "L": [
+    0.438542,
+    0.0,
+    0.049219,
+    0.0,
+    0.620361,
+    0.362142
+   ],
+   "R": [
+    0.43979,
+    -0.000899,
+    0.507918,
+    -0.014439,
+    0.62067,
+    0.345358
+   ],
+   "g": [
+    1.0,
+    0.8558
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (0.97% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248890,
+  "source_revision_id": null,
+  "source_sha1": "1227a834e7228188f0f12cd747a49df3bbe94f2f"
+ },
+ {
+  "title": "Battle field at Ticonderoga. (See sign on the tree.)",
+  "place": "Fort Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Battle_field_at_Ticonderoga._%28See_sign_on_the_tree.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Battle_field_at_Ticonderoga._%28See_sign_on_the_tree.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Battle_field_at_Ticonderoga._%28See_sign_on_the_tree.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Battle_field_at_Ticonderoga._(See_sign_on_the_tree.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2593,
+  "h": 1293,
+  "id": "STA-4106",
+  "rect": "rect/4105.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 1.11,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0799,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Battle_field_at_Ticonderoga._%28See_sign_on_the_tree.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Battle_field_at_Ticonderoga._%28See_sign_on_the_tree.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0799,
+   "L": [
+    0.386979,
+    0.0,
+    0.103385,
+    0.0,
+    0.718913,
+    0.026646
+   ],
+   "R": [
+    0.386888,
+    -0.001193,
+    0.528467,
+    -6.7e-05,
+    0.718586,
+    0.017912
+   ],
+   "g": [
+    0.9877,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (1.11% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "war"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248806,
+  "source_revision_id": null,
+  "source_sha1": "d1fbc18918e164443e6446ef6e79a7bbfe6719ae"
+ },
+ {
+  "title": "Ruins at Fort Ticonderoga, N.Y., Officers' Quarters (exterior)",
+  "place": "Fort Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ruins_at_Fort_Ticonderoga%2C_N.Y.%2C_Officers%27_Quarters_%28exterior%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Ruins_at_Fort_Ticonderoga%2C_N.Y.%2C_Officers%27_Quarters_%28exterior%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Ruins_at_Fort_Ticonderoga%2C_N.Y.%2C_Officers%27_Quarters_%28exterior%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Ruins_at_Fort_Ticonderoga,_N.Y.,_Officers%27_Quarters_(exterior),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2524,
+  "h": 1238,
+  "id": "STA-4107",
+  "rect": "rect/4106.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.01,
+  "range": 1.1,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.4073,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ruins_at_Fort_Ticonderoga%2C_N.Y.%2C_Officers%27_Quarters_%28exterior%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Ruins_at_Fort_Ticonderoga%2C_N.Y.%2C_Officers%27_Quarters_%28exterior%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.4073,
+   "L": [
+    0.422917,
+    0.0,
+    0.058073,
+    0.0,
+    0.612527,
+    0.360403
+   ],
+   "R": [
+    0.415567,
+    -0.013116,
+    0.51822,
+    -0.006398,
+    0.604197,
+    0.37374
+   ],
+   "g": [
+    1.0,
+    0.9682
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.01° of rotation. Depth measured gentle (1.1% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "war"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248940,
+  "source_revision_id": null,
+  "source_sha1": "dcd5baf9e01d02a5d539519a8a0d8f795a3d629e"
+ },
+ {
+  "title": "Old Battery, Ticonderoga, by Kilburn Brothers",
+  "place": "Fort Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Old_Battery%2C_Ticonderoga%2C_by_Kilburn_Brothers.jpg/1920px-Old_Battery%2C_Ticonderoga%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/94/Old_Battery%2C_Ticonderoga%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Old_Battery,_Ticonderoga,_by_Kilburn_Brothers.jpg",
+  "license": "Public domain",
+  "w": 2522,
+  "h": 1238,
+  "id": "STA-4108",
+  "rect": "rect/4107.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 0.21,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.3638,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Old_Battery%2C_Ticonderoga%2C_by_Kilburn_Brothers.jpg/1920px-Old_Battery%2C_Ticonderoga%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3638,
+   "L": [
+    0.427604,
+    0.0,
+    0.06224,
+    0.0,
+    0.639066,
+    0.168259
+   ],
+   "R": [
+    0.431731,
+    -0.000299,
+    0.509592,
+    -0.001289,
+    0.64569,
+    0.167579
+   ],
+   "g": [
+    0.9918,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (0.21% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "creator_dates": null,
+  "facets": [
+   "war"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248840,
+  "source_revision_id": null,
+  "source_sha1": "72adb52b91f1c57ea90b7672e719d51e5ed55fe5"
+ },
+ {
+  "title": "Boat landing, Ticonderoga, by Kilburn Brothers",
+  "place": "Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Boat_landing%2C_Ticonderoga%2C_by_Kilburn_Brothers.jpg/1920px-Boat_landing%2C_Ticonderoga%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Boat_landing%2C_Ticonderoga%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Boat_landing,_Ticonderoga,_by_Kilburn_Brothers.jpg",
+  "license": "Public domain",
+  "w": 2523,
+  "h": 1238,
+  "id": "STA-4109",
+  "rect": "rect/4108.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.06,
+  "rot": 0.0,
+  "range": 1.91,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.0175,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Boat_landing%2C_Ticonderoga%2C_by_Kilburn_Brothers.jpg/1920px-Boat_landing%2C_Ticonderoga%2C_by_Kilburn_Brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0175,
+   "L": [
+    0.422917,
+    0.0,
+    0.054948,
+    0.0,
+    0.847134,
+    0.035563
+   ],
+   "R": [
+    0.427967,
+    0.002222,
+    0.50675,
+    -0.007753,
+    0.855662,
+    0.028513
+   ],
+   "g": [
+    0.9965,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.0° of rotation. Depth measured moderate (1.91% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248833,
+  "source_revision_id": null,
+  "source_sha1": "e8989aab5269eb64a02622c2e9aebc1b88131d9e"
+ },
+ {
+  "title": "Ruins of Fort Ticonderoga, by Kilburn Brothers",
+  "place": "Fort Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers.png/1920px-Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Ruins_of_Fort_Ticonderoga,_by_Kilburn_Brothers.png",
+  "license": "Public domain",
+  "w": 2528,
+  "h": 1241,
+  "id": "STA-4110",
+  "rect": "rect/4109.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 0.93,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1343,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers.png/1920px-Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1343,
+   "L": [
+    0.413542,
+    0.0,
+    0.06901,
+    0.0,
+    0.742312,
+    0.230647
+   ],
+   "R": [
+    0.419028,
+    -0.017479,
+    0.52648,
+    0.000838,
+    0.751262,
+    0.22285
+   ],
+   "g": [
+    0.95,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured gentle (0.93% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "creator_dates": null,
+  "facets": [
+   "war"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248845,
+  "source_revision_id": null,
+  "source_sha1": "4c96b9b3116d27d1b31636ed441d4916c0513fa7"
+ },
+ {
+  "title": "Ruins of Fort Ticonderoga, by Kilburn Brothers 6",
+  "place": "Fort Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers_6.jpg/1920px-Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Ruins_of_Fort_Ticonderoga,_by_Kilburn_Brothers_6.jpg",
+  "license": "Public domain",
+  "w": 2518,
+  "h": 1238,
+  "id": "STA-4111",
+  "rect": "rect/4110.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 2.82,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.8533,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers_6.jpg/1920px-Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8533,
+   "L": [
+    0.360417,
+    0.0,
+    0.117969,
+    0.0,
+    0.85911,
+    0.033369
+   ],
+   "R": [
+    0.359392,
+    -0.000549,
+    0.583072,
+    0.003883,
+    0.866664,
+    0.022516
+   ],
+   "g": [
+    0.9402,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured deep (2.82% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "creator_dates": null,
+  "facets": [
+   "war"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248871,
+  "source_revision_id": null,
+  "source_sha1": "e4af83ff34bf4390f6dae7f106e57d9d3c6e519e"
+ },
+ {
+  "title": "Ruins of Fort Ticonderoga, by Kilburn Brothers 2",
+  "place": "Fort Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers_2.jpg/1920px-Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Ruins_of_Fort_Ticonderoga,_by_Kilburn_Brothers_2.jpg",
+  "license": "Public domain",
+  "w": 2524,
+  "h": 1236,
+  "id": "STA-4112",
+  "rect": "rect/4111.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 1.04,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0732,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers_2.jpg/1920px-Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0732,
+   "L": [
+    0.4125,
+    0.0,
+    0.065885,
+    0.0,
+    0.785106,
+    0.189894
+   ],
+   "R": [
+    0.416493,
+    -0.016906,
+    0.523302,
+    0.009346,
+    0.795578,
+    0.173348
+   ],
+   "g": [
+    1.0,
+    0.9779
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured gentle (1.04% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Kilburn Brothers",
+  "creator_dates": null,
+  "facets": [
+   "war"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248851,
+  "source_revision_id": null,
+  "source_sha1": "aafdc89db8be7a44875b816ba559e6dc330edc92"
+ },
+ {
+  "title": "Ruins of Fort Ticonderoga, by Deloss Barnum",
+  "place": "Fort Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Ruins_of_Fort_Ticonderoga%2C_by_Deloss_Barnum.jpg/1920px-Ruins_of_Fort_Ticonderoga%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ruins_of_Fort_Ticonderoga%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Ruins_of_Fort_Ticonderoga,_by_Deloss_Barnum.jpg",
+  "license": "Public domain",
+  "w": 2576,
+  "h": 1265,
+  "id": "STA-4113",
+  "rect": "rect/4112.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 0.47,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2324,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Ruins_of_Fort_Ticonderoga%2C_by_Deloss_Barnum.jpg/1920px-Ruins_of_Fort_Ticonderoga%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2324,
+   "L": [
+    0.400521,
+    0.0,
+    0.084115,
+    0.0,
+    0.661718,
+    0.075822
+   ],
+   "R": [
+    0.404081,
+    -0.00173,
+    0.524092,
+    0.002309,
+    0.669416,
+    0.075749
+   ],
+   "g": [
+    0.9814,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (0.47% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Deloss Barnum",
+  "creator_dates": null,
+  "facets": [
+   "war"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248811,
+  "source_revision_id": null,
+  "source_sha1": "9c4ed7874ba4ed36860fe1eea2956e1f9ecf416a"
+ },
+ {
+  "title": "Fort Ticonderoga, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917",
+  "place": "Fort Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Fort_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg/1920px-Fort_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Fort_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Fort_Ticonderoga,_by_Stoddard,_Seneca_Ray,_1844-1917_,_1844-1917.jpg",
+  "license": "Public domain",
+  "w": 2630,
+  "h": 1491,
+  "id": "STA-4114",
+  "rect": "rect/4113.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.04,
+  "range": 2.45,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 1.0363,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Fort_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg/1920px-Fort_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0363,
+   "L": [
+    0.416146,
+    0.0,
+    0.075781,
+    0.0,
+    0.70864,
+    0.271599
+   ],
+   "R": [
+    0.417419,
+    -0.030921,
+    0.542369,
+    0.0019,
+    0.715743,
+    0.263784
+   ],
+   "g": [
+    0.9529,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.04° of rotation. Depth measured deep (2.45% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Stoddard, Seneca Ray",
+  "creator_dates": "1844-1917",
+  "facets": [
+   "war"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248972,
+  "source_revision_id": null,
+  "source_sha1": "768aceac0a028b83501e7dea3a42b58bc94d5674"
+ },
+ {
+  "title": "Rapids at Ticonderoga, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917",
+  "place": "Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Rapids_at_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.png/1920px-Rapids_at_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/86/Rapids_at_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Rapids_at_Ticonderoga,_by_Stoddard,_Seneca_Ray,_1844-1917_,_1844-1917.png",
+  "license": "Public domain",
+  "w": 2531,
+  "h": 1228,
+  "id": "STA-4115",
+  "rect": "rect/4114.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.02,
+  "range": 1.65,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.9554,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Rapids_at_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.png/1920px-Rapids_at_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9554,
+   "L": [
+    0.379167,
+    0.0,
+    0.102865,
+    0.0,
+    0.817597,
+    0.151824
+   ],
+   "R": [
+    0.388626,
+    -0.017213,
+    0.539438,
+    -0.009361,
+    0.824408,
+    0.153934
+   ],
+   "g": [
+    1.0,
+    0.9988
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured moderate (1.65% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Stoddard, Seneca Ray",
+  "creator_dates": "1844-1917",
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248920,
+  "source_revision_id": null,
+  "source_sha1": "f8677b3ef22e89d2d024ded51a6be006a87309c3"
+ },
+ {
+  "title": "Upper Falls, Ticonderoga, N.Y, by I. D. La Barre",
+  "place": "Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "water",
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Upper_Falls%2C_Ticonderoga%2C_N.Y%2C_by_I._D._La_Barre.jpg/1920px-Upper_Falls%2C_Ticonderoga%2C_N.Y%2C_by_I._D._La_Barre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Upper_Falls%2C_Ticonderoga%2C_N.Y%2C_by_I._D._La_Barre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Upper_Falls,_Ticonderoga,_N.Y,_by_I._D._La_Barre.jpg",
+  "license": "Public domain",
+  "w": 2532,
+  "h": 1241,
+  "id": "STA-4116",
+  "rect": "rect/4115.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.18,
+  "rot": 0.02,
+  "range": 1.04,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.5924,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Upper_Falls%2C_Ticonderoga%2C_N.Y%2C_by_I._D._La_Barre.jpg/1920px-Upper_Falls%2C_Ticonderoga%2C_N.Y%2C_by_I._D._La_Barre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.5924,
+   "L": [
+    0.417187,
+    0.0,
+    0.073698,
+    0.0,
+    0.534538,
+    0.413921
+   ],
+   "R": [
+    0.418328,
+    0.000402,
+    0.52384,
+    -0.006378,
+    0.536175,
+    0.41984
+   ],
+   "g": [
+    1.0,
+    0.8373
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.02° of rotation. Depth measured gentle (1.04% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "I. D. La Barre",
+  "creator_dates": null,
+  "facets": [
+   "water",
+   "cities"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248881,
+  "source_revision_id": null,
+  "source_sha1": "6f00bde25420d9e36a359f360048e13b57e5233d"
+ },
+ {
+  "title": "Interior of Officers' Quarters, Ticonderoga, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917",
+  "place": "Fort Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Interior_of_Officers%27_Quarters%2C_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg/1920px-Interior_of_Officers%27_Quarters%2C_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Interior_of_Officers%27_Quarters%2C_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Officers%27_Quarters,_Ticonderoga,_by_Stoddard,_Seneca_Ray,_1844-1917_,_1844-1917.jpg",
+  "license": "Public domain",
+  "w": 2596,
+  "h": 1306,
+  "id": "STA-4117",
+  "rect": "rect/4116.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.18,
+  "rot": 0.14,
+  "range": 3.24,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.8968,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Interior_of_Officers%27_Quarters%2C_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg/1920px-Interior_of_Officers%27_Quarters%2C_Ticonderoga%2C_by_Stoddard%2C_Seneca_Ray%2C_1844-1917_%2C_1844-1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8968,
+   "L": [
+    0.384896,
+    0.0,
+    0.095052,
+    0.0,
+    0.853002,
+    0.122671
+   ],
+   "R": [
+    0.382506,
+    -0.000941,
+    0.514642,
+    0.002734,
+    0.843275,
+    0.112707
+   ],
+   "g": [
+    0.9406,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.14° of rotation. Depth measured deep (3.24% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Stoddard, Seneca Ray",
+  "creator_dates": "1844-1917",
+  "facets": [
+   "war"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248928,
+  "source_revision_id": null,
+  "source_sha1": "92c6289f29013211998af1ae75cec700f21f9732"
+ },
+ {
+  "title": "Ruins of Fort Ticonderoga, N.Y, by Styles, A. F. (Adin French), 1832-1910",
+  "place": "Fort Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "war"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Ruins_of_Fort_Ticonderoga%2C_N.Y%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.jpg/1920px-Ruins_of_Fort_Ticonderoga%2C_N.Y%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/9/91/Ruins_of_Fort_Ticonderoga%2C_N.Y%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Ruins_of_Fort_Ticonderoga,_N.Y,_by_Styles,_A._F._(Adin_French),_1832-1910.jpg",
+  "license": "Public domain",
+  "w": 2534,
+  "h": 1241,
+  "id": "STA-4118",
+  "rect": "rect/4117.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 0.52,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2224,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Ruins_of_Fort_Ticonderoga%2C_N.Y%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.jpg/1920px-Ruins_of_Fort_Ticonderoga%2C_N.Y%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2224,
+   "L": [
+    0.415104,
+    0.0,
+    0.075781,
+    0.0,
+    0.693617,
+    0.240957
+   ],
+   "R": [
+    0.410414,
+    -0.008868,
+    0.517013,
+    0.008637,
+    0.682224,
+    0.244737
+   ],
+   "g": [
+    0.9132,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (0.52% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Styles, A. F. (Adin French)",
+  "creator_dates": "1832-1910",
+  "facets": [
+   "war"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248933,
+  "source_revision_id": null,
+  "source_sha1": "a6ef991b1a87f4cf4f232f73def667268c1c2d83"
+ },
+ {
+  "title": "Mt. Defiance, from Ticonderoga, N.Y, by Styles, A. F. (Adin French), 1832-1910",
+  "place": "Ticonderoga, New York",
+  "year": "1860",
+  "sy": 1860,
+  "era": "early",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Mt._Defiance%2C_from_Ticonderoga%2C_N.Y%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.png/1920px-Mt._Defiance%2C_from_Ticonderoga%2C_N.Y%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/59/Mt._Defiance%2C_from_Ticonderoga%2C_N.Y%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Mt._Defiance,_from_Ticonderoga,_N.Y,_by_Styles,_A._F._(Adin_French),_1832-1910.png",
+  "license": "Public domain",
+  "w": 2591,
+  "h": 1293,
+  "id": "STA-4119",
+  "rect": "rect/4118.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.26,
+  "rot": 0.0,
+  "range": 0.47,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 3.9147,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Mt._Defiance%2C_from_Ticonderoga%2C_N.Y%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.png/1920px-Mt._Defiance%2C_from_Ticonderoga%2C_N.Y%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 3.9147,
+   "L": [
+    0.430208,
+    0.0,
+    0.052865,
+    0.0,
+    0.220251,
+    0.449374
+   ],
+   "R": [
+    0.420709,
+    -0.002447,
+    0.512419,
+    0.002669,
+    0.217153,
+    0.453742
+   ],
+   "g": [
+    0.9598,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.26% vertical error and 0.0° of rotation. Depth measured gentle (0.47% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Styles, A. F. (Adin French)",
+  "creator_dates": "1832-1910",
+  "facets": [
+   "mountains"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1860",
+  "date_start": 1860,
+  "date_end": 1860,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10248959,
+  "source_revision_id": null,
+  "source_sha1": "939f41f2dcd5428c2d9e092b772e47055fd02398"
  }
 ]

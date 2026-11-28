@@ -1,0 +1,69 @@
+{
+ "title": "Ruins of Fort Ticonderoga, by Kilburn Brothers",
+ "place": "Fort Ticonderoga, New York",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "war"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers.png/1920px-Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Ruins_of_Fort_Ticonderoga,_by_Kilburn_Brothers.png",
+ "license": "Public domain",
+ "w": 2528,
+ "h": 1241,
+ "id": "STA-4110",
+ "rect": "rect/4109.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.07,
+ "rot": 0.0,
+ "range": 0.93,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.1343,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers.png/1920px-Ruins_of_Fort_Ticonderoga%2C_by_Kilburn_Brothers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.1343,
+  "L": [
+   0.413542,
+   0.0,
+   0.06901,
+   0.0,
+   0.742312,
+   0.230647
+  ],
+  "R": [
+   0.419028,
+   -0.017479,
+   0.52648,
+   0.000838,
+   0.751262,
+   0.22285
+  ],
+  "g": [
+   0.95,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured gentle (0.93% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Kilburn Brothers",
+ "creator_dates": null,
+ "facets": [
+  "war"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10248845,
+ "source_revision_id": null,
+ "source_sha1": "4c96b9b3116d27d1b31636ed441d4916c0513fa7"
+}

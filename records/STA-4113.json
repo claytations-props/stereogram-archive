@@ -1,0 +1,69 @@
+{
+ "title": "Ruins of Fort Ticonderoga, by Deloss Barnum",
+ "place": "Fort Ticonderoga, New York",
+ "year": "1860",
+ "sy": 1860,
+ "era": "early",
+ "cats": [
+  "war"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Ruins_of_Fort_Ticonderoga%2C_by_Deloss_Barnum.jpg/1920px-Ruins_of_Fort_Ticonderoga%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ruins_of_Fort_Ticonderoga%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Ruins_of_Fort_Ticonderoga,_by_Deloss_Barnum.jpg",
+ "license": "Public domain",
+ "w": 2576,
+ "h": 1265,
+ "id": "STA-4113",
+ "rect": "rect/4112.jpg",
+ "coll": "Source unrecorded",
+ "vert": 0.12,
+ "rot": 0.0,
+ "range": 0.47,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 1.2324,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Ruins_of_Fort_Ticonderoga%2C_by_Deloss_Barnum.jpg/1920px-Ruins_of_Fort_Ticonderoga%2C_by_Deloss_Barnum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.2324,
+  "L": [
+   0.400521,
+   0.0,
+   0.084115,
+   0.0,
+   0.661718,
+   0.075822
+  ],
+  "R": [
+   0.404081,
+   -0.00173,
+   0.524092,
+   0.002309,
+   0.669416,
+   0.075749
+  ],
+  "g": [
+   0.9814,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (0.47% of frame width); hung in the VR Parlor at full size.",
+ "repository": null,
+ "collection_name": null,
+ "publisher": null,
+ "creator": "Deloss Barnum",
+ "creator_dates": null,
+ "facets": [
+  "war"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1860",
+ "date_start": 1860,
+ "date_end": 1860,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10248811,
+ "source_revision_id": null,
+ "source_sha1": "9c4ed7874ba4ed36860fe1eea2956e1f9ecf416a"
+}
