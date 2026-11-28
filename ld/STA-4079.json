@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4079.json",
+ "name": "View above Palo Alto, near Pottsville (NYPL b11707278-G89F341 001F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4078.jpg",
+ "identifier": "STA-4079",
+ "dateCreated": "1875",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Palo Alto, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:View_above_Palo_Alto,_near_Pottsville_(NYPL_b11707278-G89F341_001F).tiff"
+}

@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-4076.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "The Minehill gap near Broad Mountain. Coal region near Pottsville, PA, by Langenheim, Frederick, 1809-1879"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Langenheim, Frederick"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "1809-1879"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "1856"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Pottsville, Pennsylvania"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-4076.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-4076/canvas/1",
+   "type": "Canvas",
+   "width": 1222,
+   "height": 532,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-4076/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-4076/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/4075.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1222,
+        "height": 532,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/The_Minehill_gap_near_Broad_Mountain._Coal_region_near_Pottsville%2C_PA%2C_by_Langenheim%2C_Frederick%2C_1809-1879.png/1920px-The_Minehill_gap_near_Broad_Mountain._Coal_region_near_Pottsville%2C_PA%2C_by_Langenheim%2C_Frederick%2C_1809-1879.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-4076/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

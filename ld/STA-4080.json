@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4080.json",
+ "name": "Fishbach, by Allen, A. M. (Amos M.), 1823-1907",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4079.jpg",
+ "identifier": "STA-4080",
+ "creator": {
+  "@type": "Person",
+  "name": "Allen, A. M. (Amos M.)"
+ },
+ "dateCreated": "1865",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pottsville, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Fishbach,_by_Allen,_A._M._(Amos_M.),_1823-1907.jpg"
+}

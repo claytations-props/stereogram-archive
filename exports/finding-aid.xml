@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>4061</quantity>
+    <quantity>4073</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -6780,6 +6780,14 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4066.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-4078">
+     <did>
+      <unitid>STA-4078</unitid>
+      <unittitle>Hill Side Park, water view, by Allen, A. M. (Amos M.), 1823-1907</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4077.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -9311,6 +9319,38 @@
       <unittitle>Martha's Vineyard, by Thum, M. (Mandeville)</unittitle>
       <unitdate normal="1876/1877">1876–1877</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4030.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4073">
+     <did>
+      <unitid>STA-4073</unitid>
+      <unittitle>View of Pottsville from Sharp Mountain, by Allen, A. M. (Amos M.), 1823-1907</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4072.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4076">
+     <did>
+      <unitid>STA-4076</unitid>
+      <unittitle>The Minehill gap near Broad Mountain. Coal region near Pottsville, PA, by Langenheim, Frederick, 1809-1879</unittitle>
+      <unitdate normal="1856">1856</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4075.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4077">
+     <did>
+      <unitid>STA-4077</unitid>
+      <unittitle>View of Sharp Mountain, by Allen, A. M. (Amos M.), 1823-1907</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4076.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4079">
+     <did>
+      <unitid>STA-4079</unitid>
+      <unittitle>View above Palo Alto, near Pottsville (NYPL b11707278-G89F341 001F)</unittitle>
+      <unitdate normal="1875">1875</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4078.jpg"/>
      </did>
     </c>
    </c>
@@ -25508,6 +25548,62 @@
       <unittitle>Bird's eye view of Passaic, N.J</unittitle>
       <unitdate normal="1858">1858</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4067.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4069">
+     <did>
+      <unitid>STA-4069</unitid>
+      <unittitle>Pottsville</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4068.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4070">
+     <did>
+      <unitid>STA-4070</unitid>
+      <unittitle>Pottsville Panoramic View No. 1</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4069.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4071">
+     <did>
+      <unitid>STA-4071</unitid>
+      <unittitle>General view of Pottsville, by Allen, A. M. (Amos M.), 1823-1907</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4070.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4072">
+     <did>
+      <unitid>STA-4072</unitid>
+      <unittitle>(Pottsville Panoramic) View No. 2, by Allen, A. M. (Amos M.), 1823-1907</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4071.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4074">
+     <did>
+      <unitid>STA-4074</unitid>
+      <unittitle>Pottsville dwellings, by Allen, A. M. (Amos M.), 1823-1907</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4073.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4075">
+     <did>
+      <unitid>STA-4075</unitid>
+      <unittitle>Fair View Hotel, by Allen, A. M. (Amos M.), 1823-1907</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4074.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4080">
+     <did>
+      <unitid>STA-4080</unitid>
+      <unittitle>Fishbach, by Allen, A. M. (Amos M.), 1823-1907</unittitle>
+      <unitdate normal="1865">1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4079.jpg"/>
      </did>
     </c>
    </c>

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4076.json",
+ "name": "The Minehill gap near Broad Mountain. Coal region near Pottsville, PA, by Langenheim, Frederick, 1809-1879",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4075.jpg",
+ "identifier": "STA-4076",
+ "creator": {
+  "@type": "Person",
+  "name": "Langenheim, Frederick"
+ },
+ "dateCreated": "1856",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Pottsville, Pennsylvania"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_Minehill_gap_near_Broad_Mountain._Coal_region_near_Pottsville,_PA,_by_Langenheim,_Frederick,_1809-1879.png"
+}
