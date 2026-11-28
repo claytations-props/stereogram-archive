@@ -1,0 +1,19 @@
+{"assignments": {
+  "STA-4052": {"tags": ["waterfall", "river", "bridge", "cliff", "gorge"], "conf": "high"},
+  "STA-4053": {"tags": ["waterfall", "cliff", "gorge", "trees", "house"], "conf": "high"},
+  "STA-4054": {"tags": ["waterfall", "cliff", "gorge", "trees", "house"], "conf": "high"},
+  "STA-4055": {"tags": ["waterfall", "rapids", "river", "trees"], "conf": "high"},
+  "STA-4056": {"tags": ["waterfall", "gorge", "cliff"], "conf": "high"},
+  "STA-4057": {"tags": ["river", "trees"], "conf": "high"},
+  "STA-4058": {"tags": ["waterfall", "snow", "ice", "trees", "house"], "conf": "high"},
+  "STA-4059": {"tags": ["waterfall", "cliff", "gorge", "trees", "factory"], "conf": "high"},
+  "STA-4060": {"tags": ["waterfall", "river", "trees", "house"], "conf": "high"},
+  "STA-4061": {"tags": ["waterfall", "river", "trees", "cliff"], "conf": "high"},
+  "STA-4062": {"tags": ["waterfall", "river", "snow", "ice", "trees"], "conf": "high"},
+  "STA-4063": {"tags": ["waterfall", "cliff", "gorge", "trees", "factory"], "conf": "high"},
+  "STA-4064": {"tags": ["waterfall", "cliff", "gorge", "trees"], "conf": "high"},
+  "STA-4065": {"tags": ["bridge", "snow", "ice"], "conf": "high"},
+  "STA-4066": {"tags": ["waterfall", "cliff", "gorge", "trees", "house"], "conf": "high"},
+  "STA-4067": {"tags": ["waterfall", "rapids", "river"], "conf": "high"},
+  "STA-4068": {"tags": ["factory", "house", "trees", "main street"], "conf": "high"}
+}}
