@@ -1,0 +1,11 @@
+{"assignments": {
+  "STA-4094": {"tags": ["river", "trees"], "conf": "high"},
+  "STA-4095": {"tags": ["church", "monument", "trees"], "conf": "high"},
+  "STA-4096": {"tags": ["house", "lake", "trees"], "conf": "high"},
+  "STA-4097": {"tags": ["river", "trees"], "conf": "high"},
+  "STA-4098": {"tags": ["mountain", "picnic", "trees"], "conf": "high"},
+  "STA-4099": {"tags": ["farmhouse", "meadow", "trees"], "conf": "high"},
+  "STA-4100": {"tags": ["lake", "meadow", "trees"], "conf": "high"},
+  "STA-4101": {"tags": ["monument", "trees"], "conf": "high"},
+  "STA-4102": {"tags": ["trees", "meadow"], "conf": "high"}
+}}
