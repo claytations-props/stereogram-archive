@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>4044</quantity>
+    <quantity>4061</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -6650,6 +6650,134 @@
       <unittitle>Upper Nyack, N.Y, by Van Wagner</unittitle>
       <unitdate normal="1870">1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4049.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4052">
+     <did>
+      <unitid>STA-4052</unitid>
+      <unittitle>Distant view of Passaic Falls</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4051.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4053">
+     <did>
+      <unitid>STA-4053</unitid>
+      <unittitle>Passaic Falls, south view</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4052.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4054">
+     <did>
+      <unitid>STA-4054</unitid>
+      <unittitle>Passaic Falls</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4053.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4055">
+     <did>
+      <unitid>STA-4055</unitid>
+      <unittitle>Passaic Falls, N.J</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4054.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4056">
+     <did>
+      <unitid>STA-4056</unitid>
+      <unittitle>Passaic Falls, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4055.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4057">
+     <did>
+      <unitid>STA-4057</unitid>
+      <unittitle>Passaic Falls, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4056.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4058">
+     <did>
+      <unitid>STA-4058</unitid>
+      <unittitle>Winter view - Passaic Falls from Bridge</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4057.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4059">
+     <did>
+      <unitid>STA-4059</unitid>
+      <unittitle>Passaic Falls, Paterson, N.J</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4058.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4060">
+     <did>
+      <unitid>STA-4060</unitid>
+      <unittitle>Passaic Falls from Bridge No</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4059.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4061">
+     <did>
+      <unitid>STA-4061</unitid>
+      <unittitle>Passaic Falls, from Basin</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4060.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4062">
+     <did>
+      <unitid>STA-4062</unitid>
+      <unittitle>Passaic Falls, Paterson, N.J, from Robert N. Dennis collection of stereoscopic views 4</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4061.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4063">
+     <did>
+      <unitid>STA-4063</unitid>
+      <unittitle>Passaic Falls, Paterson, N.J, from Robert N. Dennis collection of stereoscopic views 3</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4062.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4064">
+     <did>
+      <unitid>STA-4064</unitid>
+      <unittitle>Passaic Falls, Paterson, N.J, from Robert N. Dennis collection of stereoscopic views 5</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4063.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4065">
+     <did>
+      <unitid>STA-4065</unitid>
+      <unittitle>Passaic Falls, Paterson, N.J, from Robert N. Dennis collection of stereoscopic views 6</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4064.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4066">
+     <did>
+      <unitid>STA-4066</unitid>
+      <unittitle>Passaic Falls, Paterson, N.J, from Robert N. Dennis collection of stereoscopic views 2</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4065.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4067">
+     <did>
+      <unitid>STA-4067</unitid>
+      <unittitle>Falls of the Passaic, Paterson, New Jersey, North view</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4066.jpg"/>
      </did>
     </c>
    </c>
@@ -25372,6 +25500,14 @@
       <unittitle>Nyack, from the Boulevard, by Van Wagner</unittitle>
       <unitdate normal="1870">1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4048.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4068">
+     <did>
+      <unitid>STA-4068</unitid>
+      <unittitle>Bird's eye view of Passaic, N.J</unittitle>
+      <unitdate normal="1858">1858</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4067.jpg"/>
      </did>
     </c>
    </c>
