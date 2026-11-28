@@ -1,0 +1,15 @@
+{"assignments": {
+  "STA-4081": {"tags": ["lake", "rowboat", "trees"], "conf": "high"},
+  "STA-4082": {"tags": ["house", "lake", "pier", "trees"], "conf": "high"},
+  "STA-4083": {"tags": ["house", "lake", "island", "trees"], "conf": "high"},
+  "STA-4084": {"tags": ["canoe", "lake", "boating", "trees"], "conf": "high"},
+  "STA-4085": {"tags": ["canoe", "lake", "trees"], "conf": "high"},
+  "STA-4086": {"tags": ["lake", "trees"], "conf": "high"},
+  "STA-4087": {"tags": ["canoe", "lake", "portrait group", "trees"], "conf": "high"},
+  "STA-4088": {"tags": ["lake", "trees"], "conf": "high"},
+  "STA-4089": {"tags": ["steamboat", "lake", "trees"], "conf": "high"},
+  "STA-4090": {"tags": ["hotel", "pier", "dog", "canoe"], "conf": "high"},
+  "STA-4091": {"tags": ["hotel", "lake", "trees"], "conf": "high"},
+  "STA-4092": {"tags": ["house", "portrait group"], "conf": "high"},
+  "STA-4093": {"tags": ["hotel", "portrait group", "trees"], "conf": "high"}
+}}
