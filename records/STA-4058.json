@@ -1,0 +1,71 @@
+{
+ "title": "Winter view - Passaic Falls from Bridge",
+ "place": "Paterson, New Jersey",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "water",
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Winter_view_-_Passaic_Falls_from_Bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Winter_view_-_Passaic_Falls_from_Bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Winter_view_-_Passaic_Falls_from_Bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Winter_view_-_Passaic_Falls_from_Bridge,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png",
+ "license": "Public domain",
+ "w": 2635,
+ "h": 1321,
+ "id": "STA-4058",
+ "rect": "rect/4057.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.07,
+ "rot": 0.03,
+ "range": 0.32,
+ "f": 1.0,
+ "depth": "Gentle",
+ "va": 0.8348,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Winter_view_-_Passaic_Falls_from_Bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png/1920px-Winter_view_-_Passaic_Falls_from_Bridge%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 0.8348,
+  "L": [
+   0.389583,
+   0.0,
+   0.09974,
+   0.0,
+   0.930426,
+   0.028557
+  ],
+  "R": [
+   0.388587,
+   -0.006234,
+   0.513728,
+   0.005941,
+   0.928368,
+   0.03182
+  ],
+  "g": [
+   1.0,
+   0.9556
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.03° of rotation. Depth measured gentle (0.32% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water",
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10046268,
+ "source_revision_id": null,
+ "source_sha1": "00b1e130223098bf17b1efa6904f50dff81b6946"
+}

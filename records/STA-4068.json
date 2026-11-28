@@ -1,0 +1,69 @@
+{
+ "title": "Bird's eye view of Passaic, N.J",
+ "place": "Paterson, New Jersey",
+ "year": "1858",
+ "sy": 1858,
+ "era": "early",
+ "cats": [
+  "cities"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Bird%27s_eye_view_of_Passaic%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s_eye_view_of_Passaic%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bird%27s_eye_view_of_Passaic%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Bird%27s_eye_view_of_Passaic,_N.J,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2647,
+ "h": 1341,
+ "id": "STA-4068",
+ "rect": "rect/4067.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.11,
+ "rot": 0.0,
+ "range": 2.5,
+ "f": 0.94,
+ "depth": "Deep",
+ "va": 1.3939,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Bird%27s_eye_view_of_Passaic%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Bird%27s_eye_view_of_Passaic%2C_N.J%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.3939,
+  "L": [
+   0.407292,
+   0.0,
+   0.082031,
+   0.0,
+   0.576567,
+   0.387975
+  ],
+  "R": [
+   0.404959,
+   -0.000775,
+   0.514242,
+   0.001775,
+   0.573621,
+   0.39372
+  ],
+  "g": [
+   0.9896,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.0° of rotation. Depth measured deep (2.5% of frame width); hung in the VR Parlor at 94% size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "cities"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1858",
+ "date_start": 1858,
+ "date_end": 1858,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10045727,
+ "source_revision_id": null,
+ "source_sha1": "fcc3fc53261022aeb7cca5cd9193f27eade26f81"
+}
