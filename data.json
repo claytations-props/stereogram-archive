@@ -239985,5 +239985,716 @@
   "date_start": 1858,
   "date_end": 1858,
   "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Pottsville",
+  "place": "Pottsville, Pennsylvania",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Pottsville%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pottsville%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/70/Pottsville%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Pottsville,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1405,
+  "id": "STA-4069",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4068.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.27,
+  "rot": 0.0,
+  "range": 0.55,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.4449,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Pottsville%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pottsville%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.4449,
+   "L": [
+    0.341667,
+    0.0,
+    0.147656,
+    0.0,
+    0.460446,
+    0.340264
+   ],
+   "R": [
+    0.340551,
+    0.001576,
+    0.513969,
+    -0.006274,
+    0.459478,
+    0.354324
+   ],
+   "g": [
+    1.0,
+    0.9439
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.27% vertical error and 0.0° of rotation. Depth measured gentle (0.55% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Pottsville Panoramic View No. 1",
+  "place": "Pottsville, Pennsylvania",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Pottsville_Panoramic_View_No._1%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pottsville_Panoramic_View_No._1%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/1/10/Pottsville_Panoramic_View_No._1%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Pottsville_Panoramic_View_No._1,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1393,
+  "id": "STA-4070",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4069.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.0,
+  "range": 0.29,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1774,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Pottsville_Panoramic_View_No._1%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pottsville_Panoramic_View_No._1%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1774,
+   "L": [
+    0.407813,
+    0.0,
+    0.071615,
+    0.0,
+    0.680655,
+    0.242068
+   ],
+   "R": [
+    0.407157,
+    0.001913,
+    0.508488,
+    -0.004265,
+    0.679836,
+    0.257623
+   ],
+   "g": [
+    1.0,
+    0.952
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.0° of rotation. Depth measured gentle (0.29% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "General view of Pottsville, by Allen, A. M. (Amos M.), 1823-1907",
+  "place": "Pottsville, Pennsylvania",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/General_view_of_Pottsville%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg/1920px-General_view_of_Pottsville%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/3/33/General_view_of_Pottsville%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:General_view_of_Pottsville,_by_Allen,_A._M._(Amos_M.),_1823-1907.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1387,
+  "id": "STA-4071",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4070.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.01,
+  "range": 0.92,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.1773,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/General_view_of_Pottsville%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg/1920px-General_view_of_Pottsville%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1773,
+   "L": [
+    0.411458,
+    0.0,
+    0.066927,
+    0.0,
+    0.68962,
+    0.260534
+   ],
+   "R": [
+    0.407616,
+    -0.000188,
+    0.506716,
+    -1.7e-05,
+    0.679943,
+    0.264556
+   ],
+   "g": [
+    1.0,
+    0.9091
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.01° of rotation. Depth measured gentle (0.92% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Allen, A. M. (Amos M.)",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "(Pottsville Panoramic) View No. 2, by Allen, A. M. (Amos M.), 1823-1907",
+  "place": "Pottsville, Pennsylvania",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/%28Pottsville_Panoramic%29_View_No._2%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg/1920px-%28Pottsville_Panoramic%29_View_No._2%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/8a/%28Pottsville_Panoramic%29_View_No._2%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:(Pottsville_Panoramic)_View_No._2,_by_Allen,_A._M._(Amos_M.),_1823-1907.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1385,
+  "id": "STA-4072",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4071.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.09,
+  "rot": 0.01,
+  "range": 0.44,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.949,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/%28Pottsville_Panoramic%29_View_No._2%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg/1920px-%28Pottsville_Panoramic%29_View_No._2%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.949,
+   "L": [
+    0.388021,
+    0.0,
+    0.067448,
+    0.0,
+    0.807613,
+    0.092078
+   ],
+   "R": [
+    0.386863,
+    0.005055,
+    0.508183,
+    -0.010373,
+    0.806804,
+    0.122642
+   ],
+   "g": [
+    1.0,
+    0.9914
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.01° of rotation. Depth measured gentle (0.44% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Allen, A. M. (Amos M.)",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of Pottsville from Sharp Mountain, by Allen, A. M. (Amos M.), 1823-1907",
+  "place": "Pottsville, Pennsylvania",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "mountains",
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/View_of_Pottsville_from_Sharp_Mountain%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg/1920px-View_of_Pottsville_from_Sharp_Mountain%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/a4/View_of_Pottsville_from_Sharp_Mountain%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_Pottsville_from_Sharp_Mountain,_by_Allen,_A._M._(Amos_M.),_1823-1907.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1387,
+  "id": "STA-4073",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4072.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.1,
+  "rot": 0.04,
+  "range": 5.1,
+  "f": 0.73,
+  "depth": "Deep",
+  "va": 0.8436,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/View_of_Pottsville_from_Sharp_Mountain%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg/1920px-View_of_Pottsville_from_Sharp_Mountain%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8436,
+   "L": [
+    0.376563,
+    0.0,
+    0.116927,
+    0.0,
+    0.880781,
+    0.050874
+   ],
+   "R": [
+    0.394237,
+    -0.019423,
+    0.524463,
+    0.010416,
+    0.878315,
+    0.054971
+   ],
+   "g": [
+    0.986,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.04° of rotation. Depth measured deep (5.1% of frame width); hung in the VR Parlor at 73% size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Allen, A. M. (Amos M.)",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Pottsville dwellings, by Allen, A. M. (Amos M.), 1823-1907",
+  "place": "Pottsville, Pennsylvania",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Pottsville_dwellings%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg/1920px-Pottsville_dwellings%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/4/48/Pottsville_dwellings%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Pottsville_dwellings,_by_Allen,_A._M._(Amos_M.),_1823-1907.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1376,
+  "id": "STA-4074",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4073.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.22,
+  "rot": 0.02,
+  "range": 0.99,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.7313,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Pottsville_dwellings%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg/1920px-Pottsville_dwellings%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.7313,
+   "L": [
+    0.422917,
+    0.0,
+    0.067448,
+    0.0,
+    0.48601,
+    0.306218
+   ],
+   "R": [
+    0.416463,
+    0.003797,
+    0.506405,
+    -0.011722,
+    0.479591,
+    0.30186
+   ],
+   "g": [
+    0.9544,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.22% vertical error and 0.02° of rotation. Depth measured gentle (0.99% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Allen, A. M. (Amos M.)",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Fair View Hotel, by Allen, A. M. (Amos M.), 1823-1907",
+  "place": "Pottsville, Pennsylvania",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Fair_View_Hotel%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg/1920px-Fair_View_Hotel%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Fair_View_Hotel%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Fair_View_Hotel,_by_Allen,_A._M._(Amos_M.),_1823-1907.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1412,
+  "id": "STA-4075",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4074.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.19,
+  "rot": 0.04,
+  "range": 1.2,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.6344,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Fair_View_Hotel%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg/1920px-Fair_View_Hotel%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.6344,
+   "L": [
+    0.440104,
+    0.0,
+    0.042448,
+    0.0,
+    0.521695,
+    0.080222
+   ],
+   "R": [
+    0.442739,
+    0.004079,
+    0.510556,
+    -0.01545,
+    0.52714,
+    0.100808
+   ],
+   "g": [
+    0.9539,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.19% vertical error and 0.04° of rotation. Depth measured gentle (1.2% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Allen, A. M. (Amos M.)",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "The Minehill gap near Broad Mountain. Coal region near Pottsville, PA, by Langenheim, Frederick, 1809-1879",
+  "place": "Pottsville, Pennsylvania",
+  "year": "1856",
+  "sy": 1856,
+  "era": "early",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/The_Minehill_gap_near_Broad_Mountain._Coal_region_near_Pottsville%2C_PA%2C_by_Langenheim%2C_Frederick%2C_1809-1879.png/1920px-The_Minehill_gap_near_Broad_Mountain._Coal_region_near_Pottsville%2C_PA%2C_by_Langenheim%2C_Frederick%2C_1809-1879.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/bb/The_Minehill_gap_near_Broad_Mountain._Coal_region_near_Pottsville%2C_PA%2C_by_Langenheim%2C_Frederick%2C_1809-1879.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Minehill_gap_near_Broad_Mountain._Coal_region_near_Pottsville,_PA,_by_Langenheim,_Frederick,_1809-1879.png",
+  "license": "Public domain",
+  "w": 7056,
+  "h": 3444,
+  "id": "STA-4076",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4075.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.13,
+  "rot": 0.02,
+  "range": 1.71,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.1485,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/The_Minehill_gap_near_Broad_Mountain._Coal_region_near_Pottsville%2C_PA%2C_by_Langenheim%2C_Frederick%2C_1809-1879.png/1920px-The_Minehill_gap_near_Broad_Mountain._Coal_region_near_Pottsville%2C_PA%2C_by_Langenheim%2C_Frederick%2C_1809-1879.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1485,
+   "L": [
+    0.318229,
+    0.0,
+    0.153385,
+    0.0,
+    0.567769,
+    0.31857
+   ],
+   "R": [
+    0.316182,
+    -0.014392,
+    0.535047,
+    -0.002192,
+    0.564064,
+    0.321007
+   ],
+   "g": [
+    1.0,
+    0.8037
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.02° of rotation. Depth measured moderate (1.71% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Langenheim, Frederick",
+  "date_edtf": "1856",
+  "date_start": 1856,
+  "date_end": 1856,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View of Sharp Mountain, by Allen, A. M. (Amos M.), 1823-1907",
+  "place": "Pottsville, Pennsylvania",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "mountains",
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/View_of_Sharp_Mountain%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg/1920px-View_of_Sharp_Mountain%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/55/View_of_Sharp_Mountain%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_Sharp_Mountain,_by_Allen,_A._M._(Amos_M.),_1823-1907.jpg",
+  "license": "Public domain",
+  "w": 2724,
+  "h": 1382,
+  "id": "STA-4077",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4076.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 1.82,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.3996,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/View_of_Sharp_Mountain%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg/1920px-View_of_Sharp_Mountain%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.3996,
+   "L": [
+    0.366667,
+    0.0,
+    0.111198,
+    0.0,
+    0.516427,
+    0.38655
+   ],
+   "R": [
+    0.369811,
+    -0.004503,
+    0.526152,
+    0.010721,
+    0.521991,
+    0.36299
+   ],
+   "g": [
+    0.8992,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured moderate (1.82% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Allen, A. M. (Amos M.)",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Hill Side Park, water view, by Allen, A. M. (Amos M.), 1823-1907",
+  "place": "Pottsville, Pennsylvania",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water",
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Hill_Side_Park%2C_water_view%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg/1920px-Hill_Side_Park%2C_water_view%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hill_Side_Park%2C_water_view%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Hill_Side_Park,_water_view,_by_Allen,_A._M._(Amos_M.),_1823-1907.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1432,
+  "id": "STA-4078",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4077.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.11,
+  "rot": 0.04,
+  "range": 0.77,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0544,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Hill_Side_Park%2C_water_view%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg/1920px-Hill_Side_Park%2C_water_view%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0544,
+   "L": [
+    0.403646,
+    0.0,
+    0.088281,
+    0.0,
+    0.731343,
+    0.198507
+   ],
+   "R": [
+    0.396104,
+    0.002836,
+    0.517824,
+    -0.006475,
+    0.72249,
+    0.225042
+   ],
+   "g": [
+    1.0,
+    0.9909
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.04° of rotation. Depth measured gentle (0.77% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Allen, A. M. (Amos M.)",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "View above Palo Alto, near Pottsville (NYPL b11707278-G89F341 001F)",
+  "place": "Palo Alto, Pennsylvania",
+  "year": "1875",
+  "sy": 1875,
+  "era": "mid",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/View_above_Palo_Alto%2C_near_Pottsville_%28NYPL_b11707278-G89F341_001F%29.tiff/lossy-page1-1920px-View_above_Palo_Alto%2C_near_Pottsville_%28NYPL_b11707278-G89F341_001F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/22/View_above_Palo_Alto%2C_near_Pottsville_%28NYPL_b11707278-G89F341_001F%29.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:View_above_Palo_Alto,_near_Pottsville_(NYPL_b11707278-G89F341_001F).tiff",
+  "license": "Public domain",
+  "w": 3072,
+  "h": 1685,
+  "id": "STA-4079",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4078.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.01,
+  "range": 2.84,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 1.0766,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/View_above_Palo_Alto%2C_near_Pottsville_%28NYPL_b11707278-G89F341_001F%29.tiff/lossy-page1-1920px-View_above_Palo_Alto%2C_near_Pottsville_%28NYPL_b11707278-G89F341_001F%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0766,
+   "L": [
+    0.314583,
+    0.0,
+    0.165365,
+    0.0,
+    0.532764,
+    0.407882
+   ],
+   "R": [
+    0.319429,
+    -0.014784,
+    0.536353,
+    -0.003979,
+    0.525967,
+    0.408896
+   ],
+   "g": [
+    1.0,
+    0.9226
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.01° of rotation. Depth measured deep (2.84% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "date_edtf": "1875",
+  "date_start": 1875,
+  "date_end": 1875,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
+ },
+ {
+  "title": "Fishbach, by Allen, A. M. (Amos M.), 1823-1907",
+  "place": "Pottsville, Pennsylvania",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "cities"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Fishbach%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg/1920px-Fishbach%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Fishbach%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Fishbach,_by_Allen,_A._M._(Amos_M.),_1823-1907.jpg",
+  "license": "Public domain",
+  "w": 2737,
+  "h": 1379,
+  "id": "STA-4080",
+  "rect": "https://archive.org/download/stereogram-archive-images/rect/4079.jpg",
+  "coll": "Source unrecorded",
+  "vert": 0.12,
+  "rot": 0.0,
+  "range": 1.14,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.7607,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Fishbach%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg/1920px-Fishbach%2C_by_Allen%2C_A._M._%28Amos_M.%29%2C_1823-1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.7607,
+   "L": [
+    0.429167,
+    0.0,
+    0.063802,
+    0.0,
+    0.483971,
+    0.340745
+   ],
+   "R": [
+    0.425783,
+    -0.000427,
+    0.506344,
+    -0.004599,
+    0.480308,
+    0.339237
+   ],
+   "g": [
+    1.0,
+    0.8953
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.0° of rotation. Depth measured gentle (1.14% of frame width); hung in the VR Parlor at full size.",
+  "repository": null,
+  "collection_name": null,
+  "publisher": null,
+  "creator": "Allen, A. M. (Amos M.)",
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/"
  }
 ]
