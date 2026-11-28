@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4101.json",
+ "name": "An Indian at the burial place of his fathers in Stockbridge (NYPL b11707548-G90F285 014ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4100.jpg",
+ "identifier": "STA-4101",
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Stockbridge, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:An_Indian_at_the_burial_place_of_his_fathers_in_Stockbridge_(NYPL_b11707548-G90F285_014ZF).tiff"
+}

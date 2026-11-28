@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4097.json",
+ "name": "A glimpse of the Housatonic above the suspension bridge, leading to the Ice Glen, Stockbridge, (Mass.), by E. & H.T. Anthony (Firm)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4096.jpg",
+ "identifier": "STA-4097",
+ "creator": {
+  "@type": "Person",
+  "name": "E. & H.T. Anthony (Firm)"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Stockbridge, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:A_glimpse_of_the_Housatonic_above_the_suspension_bridge,_leading_to_the_Ice_Glen,_Stockbridge,_(Mass.),_by_E._%26_H.T._Anthony_(Firm).jpg"
+}

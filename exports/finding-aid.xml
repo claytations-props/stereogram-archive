@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>4086</quantity>
+    <quantity>4095</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -6868,6 +6868,30 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4090.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-4094">
+     <did>
+      <unitid>STA-4094</unitid>
+      <unittitle>On the Housatonic River, Stockbridge, (Mass.), by E. &amp; H.T. Anthony (Firm) 2</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4093.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4097">
+     <did>
+      <unitid>STA-4097</unitid>
+      <unittitle>A glimpse of the Housatonic above the suspension bridge, leading to the Ice Glen, Stockbridge, (Mass.), by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4096.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4100">
+     <did>
+      <unitid>STA-4100</unitid>
+      <unittitle>Stockbridge Bowl, farm land and fences in foreground (NYPL b11707548-G90F285 009F)</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4099.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -9431,6 +9455,14 @@
       <unittitle>View above Palo Alto, near Pottsville (NYPL b11707278-G89F341 001F)</unittitle>
       <unitdate normal="1875">1875</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4078.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4098">
+     <did>
+      <unitid>STA-4098</unitid>
+      <unittitle>Monument Mountain from north summit, Stockbridge Bowl in the distance, by Julius Hall</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4097.jpg"/>
      </did>
     </c>
    </c>
@@ -25708,6 +25740,46 @@
       <unittitle>Upper Saranac Lake, Bartlett's (NYPL b11708219-G91F094 097ZF)</unittitle>
       <unitdate normal="1870">1870</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4092.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4095">
+     <did>
+      <unitid>STA-4095</unitid>
+      <unittitle>The soldiers' monument and Espicopal Church Stockbridge, (Mass.), by E. &amp; H.T. Anthony (Firm)</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4094.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4096">
+     <did>
+      <unitid>STA-4096</unitid>
+      <unittitle>View of a house at the end of a road</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4095.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4099">
+     <did>
+      <unitid>STA-4099</unitid>
+      <unittitle>Farm land and fences in foreground</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4098.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4101">
+     <did>
+      <unitid>STA-4101</unitid>
+      <unittitle>An Indian at the burial place of his fathers in Stockbridge (NYPL b11707548-G90F285 014ZF)</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4100.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4102">
+     <did>
+      <unitid>STA-4102</unitid>
+      <unittitle>Stockbridge, Mass (NYPL b11707548-G90F285 003F)</unittitle>
+      <unitdate normal="1863">1863</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4101.jpg"/>
      </did>
     </c>
    </c>

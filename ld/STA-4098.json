@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4098.json",
+ "name": "Monument Mountain from north summit, Stockbridge Bowl in the distance, by Julius Hall",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4097.jpg",
+ "identifier": "STA-4098",
+ "creator": {
+  "@type": "Person",
+  "name": "Julius Hall"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Stockbridge, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Monument_Mountain_from_north_summit,_Stockbridge_Bowl_in_the_distance,_by_Julius_Hall.jpg"
+}

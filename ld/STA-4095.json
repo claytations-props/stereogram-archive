@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4095.json",
+ "name": "The soldiers' monument and Espicopal Church Stockbridge, (Mass.), by E. & H.T. Anthony (Firm)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4094.jpg",
+ "identifier": "STA-4095",
+ "creator": {
+  "@type": "Person",
+  "name": "E. & H.T. Anthony (Firm)"
+ },
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Stockbridge, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:The_soldiers%27_monument_and_Espicopal_Church_Stockbridge,_(Mass.),_by_E._%26_H.T._Anthony_(Firm).jpg"
+}

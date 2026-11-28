@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4102.json",
+ "name": "Stockbridge, Mass (NYPL b11707548-G90F285 003F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4101.jpg",
+ "identifier": "STA-4102",
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Stockbridge, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Stockbridge,_Mass_(NYPL_b11707548-G90F285_003F).tiff"
+}

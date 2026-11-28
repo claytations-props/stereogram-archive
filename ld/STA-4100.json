@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4100.json",
+ "name": "Stockbridge Bowl, farm land and fences in foreground (NYPL b11707548-G90F285 009F)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4099.jpg",
+ "identifier": "STA-4100",
+ "dateCreated": "1863",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Stockbridge, Massachusetts"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Stockbridge_Bowl,_farm_land_and_fences_in_foreground_(NYPL_b11707548-G90F285_009F).tiff"
+}
