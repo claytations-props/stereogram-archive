@@ -1,0 +1,69 @@
+{
+ "title": "Watkins Glen, N.Y",
+ "place": "Watkins Glen, New York",
+ "year": "1865",
+ "sy": 1865,
+ "era": "early",
+ "cats": [
+  "water"
+ ],
+ "blurb": "",
+ "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+ "full": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "source": "https://commons.wikimedia.org/wiki/File:Watkins_Glen,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+ "license": "Public domain",
+ "w": 2663,
+ "h": 1659,
+ "id": "STA-4132",
+ "rect": "rect/4131.jpg",
+ "coll": "Robert N. Dennis Collection",
+ "vert": 0.15,
+ "rot": 0.02,
+ "range": 1.58,
+ "f": 1.0,
+ "depth": "Moderate",
+ "va": 1.1768,
+ "px": {
+  "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "ar": 1.1768,
+  "L": [
+   0.353646,
+   0.0,
+   0.122656,
+   0.0,
+   0.482441,
+   0.213629
+  ],
+  "R": [
+   0.359532,
+   -0.006302,
+   0.535892,
+   -0.009264,
+   0.488491,
+   0.228618
+  ],
+  "g": [
+   0.9179,
+   1.0
+  ]
+ },
+ "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.02° of rotation. Depth measured moderate (1.58% of frame width); hung in the VR Parlor at full size.",
+ "repository": "New York Public Library",
+ "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+ "publisher": null,
+ "creator": null,
+ "creator_dates": null,
+ "facets": [
+  "water"
+ ],
+ "publisher_series": null,
+ "date_edtf": "1865",
+ "date_start": 1865,
+ "date_end": 1865,
+ "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+ "license_url": null,
+ "source_page_id": 10467913,
+ "source_revision_id": null,
+ "source_sha1": "cbdb9c70b9a77eb3054e3a4971f827feee694099"
+}

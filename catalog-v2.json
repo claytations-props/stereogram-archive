@@ -302600,5 +302600,1456 @@
    "valley",
    "lake"
   ]
+ },
+ {
+  "title": "Cascades, Glen Alpha, Watkins Glen",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Cascades%2C_Glen_Alpha%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cascades%2C_Glen_Alpha%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/8/87/Cascades%2C_Glen_Alpha%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Cascades,_Glen_Alpha,_Watkins_Glen,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2679,
+  "h": 1369,
+  "id": "STA-4120",
+  "rect": "rect/4119.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.01,
+  "range": 0.43,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Cascades%2C_Glen_Alpha%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Cascades%2C_Glen_Alpha%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8,
+   "L": [
+    0.372917,
+    0.0,
+    0.10651,
+    0.0,
+    0.912334,
+    0.035168
+   ],
+   "R": [
+    0.373284,
+    -0.001857,
+    0.506573,
+    -0.002352,
+    0.912957,
+    0.046584
+   ],
+   "g": [
+    1.0,
+    0.8019
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.01° of rotation. Depth measured gentle (0.43% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10467623,
+  "source_revision_id": null,
+  "source_sha1": "fdb48301bcbbc361911aa36bbdd9ba2da2652667"
+ },
+ {
+  "title": "Watkins Glen",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Watkins_Glen,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2622,
+  "h": 1339,
+  "id": "STA-4121",
+  "rect": "rect/4120.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.06,
+  "range": 1.85,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8142,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8142,
+   "L": [
+    0.383333,
+    0.0,
+    0.10599,
+    0.0,
+    0.921509,
+    0.038226
+   ],
+   "R": [
+    0.391765,
+    -0.003829,
+    0.516479,
+    -0.000288,
+    0.924568,
+    0.035027
+   ],
+   "g": [
+    1.0,
+    0.9018
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.06° of rotation. Depth measured moderate (1.85% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10466264,
+  "source_revision_id": null,
+  "source_sha1": "fd85950fb33bd38f3183792932fc8c7e5f252636"
+ },
+ {
+  "title": "(Central?) cascade, Watkins Glen, N.Y",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/%28Central%3F%29_cascade%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-%28Central%3F%29_cascade%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/cb/%28Central%3F%29_cascade%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:(Central%3F)_cascade,_Watkins_Glen,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2676,
+  "h": 1351,
+  "id": "STA-4122",
+  "rect": "rect/4121.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.11,
+  "rot": 0.05,
+  "range": 1.54,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.7475,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/%28Central%3F%29_cascade%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-%28Central%3F%29_cascade%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7475,
+   "L": [
+    0.34375,
+    0.0,
+    0.128385,
+    0.0,
+    0.911249,
+    0.047988
+   ],
+   "R": [
+    0.349781,
+    -0.00677,
+    0.526618,
+    -0.007246,
+    0.915274,
+    0.044133
+   ],
+   "g": [
+    1.0,
+    0.973
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.11% vertical error and 0.05° of rotation. Depth measured moderate (1.54% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10466666,
+  "source_revision_id": null,
+  "source_sha1": "d183e08bbe6c72a7ac9ec07fa43811d132212eed"
+ },
+ {
+  "title": "Watkins Glen, from Robert N. Dennis collection of stereoscopic views 5",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg/1920px-Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Watkins_Glen,_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg",
+  "license": "Public domain",
+  "w": 2640,
+  "h": 1363,
+  "id": "STA-4123",
+  "rect": "rect/4122.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.02,
+  "range": 1.76,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.8942,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg/1920px-Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8942,
+   "L": [
+    0.369792,
+    0.0,
+    0.097135,
+    0.0,
+    0.801211,
+    0.040868
+   ],
+   "R": [
+    0.3633,
+    -0.011073,
+    0.535347,
+    0.010376,
+    0.795699,
+    0.035935
+   ],
+   "g": [
+    0.9378,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.02° of rotation. Depth measured moderate (1.76% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10466577,
+  "source_revision_id": null,
+  "source_sha1": "2c562b9d205148edb27de743e5916afb3c3b5a7a"
+ },
+ {
+  "title": "Watkins Glen, from Robert N. Dennis collection of stereoscopic views 4",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg/1920px-Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Watkins_Glen,_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg",
+  "license": "Public domain",
+  "w": 2640,
+  "h": 1351,
+  "id": "STA-4124",
+  "rect": "rect/4123.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.14,
+  "range": 1.59,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.6674,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg/1920px-Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.6674,
+   "L": [
+    0.311458,
+    0.0,
+    0.146094,
+    0.0,
+    0.911495,
+    0.043235
+   ],
+   "R": [
+    0.306333,
+    0.000509,
+    0.570145,
+    -0.001676,
+    0.919495,
+    0.040205
+   ],
+   "g": [
+    0.984,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.14° of rotation. Depth measured moderate (1.59% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10466521,
+  "source_revision_id": null,
+  "source_sha1": "551e039f96f3c0ccc827c0557d74ce571bb42500"
+ },
+ {
+  "title": "Watkins Glen, from Robert N. Dennis collection of stereoscopic views 6",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg/1920px-Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/64/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Watkins_Glen,_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg",
+  "license": "Public domain",
+  "w": 2655,
+  "h": 1348,
+  "id": "STA-4125",
+  "rect": "rect/4124.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.0,
+  "range": 1.38,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8251,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg/1920px-Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8251,
+   "L": [
+    0.366146,
+    0.0,
+    0.11901,
+    0.0,
+    0.873846,
+    0.080513
+   ],
+   "R": [
+    0.366189,
+    -0.004334,
+    0.527107,
+    0.001007,
+    0.869173,
+    0.084744
+   ],
+   "g": [
+    0.9989,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.0° of rotation. Depth measured gentle (1.38% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10466610,
+  "source_revision_id": null,
+  "source_sha1": "49a7f85ffca8dce65a8d4b915d71d1a011e4c09f"
+ },
+ {
+  "title": "Watkins Glen, from Robert N. Dennis collection of stereoscopic views 8",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg/1920px-Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Watkins_Glen,_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg",
+  "license": "Public domain",
+  "w": 2659,
+  "h": 1671,
+  "id": "STA-4126",
+  "rect": "rect/4125.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.0,
+  "range": 1.16,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0191,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg/1920px-Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0191,
+   "L": [
+    0.389062,
+    0.0,
+    0.101302,
+    0.0,
+    0.607291,
+    0.137117
+   ],
+   "R": [
+    0.389529,
+    -0.007559,
+    0.533418,
+    0.007602,
+    0.606581,
+    0.121765
+   ],
+   "g": [
+    0.9334,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.0° of rotation. Depth measured gentle (1.16% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10467824,
+  "source_revision_id": null,
+  "source_sha1": "def944d551d7458aab0e7b2bf140cbc913a96dac"
+ },
+ {
+  "title": "Stereoscopic views of Watkins Glen, New York",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Stereoscopic_views_of_Watkins_Glen%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Stereoscopic_views_of_Watkins_Glen%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/09/Stereoscopic_views_of_Watkins_Glen%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Stereoscopic_views_of_Watkins_Glen,_New_York,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2667,
+  "h": 1372,
+  "id": "STA-4127",
+  "rect": "rect/4126.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.01,
+  "range": 2.57,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.9414,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Stereoscopic_views_of_Watkins_Glen%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Stereoscopic_views_of_Watkins_Glen%2C_New_York%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9414,
+   "L": [
+    0.351562,
+    0.0,
+    0.123698,
+    0.0,
+    0.725709,
+    0.234312
+   ],
+   "R": [
+    0.348194,
+    -0.01229,
+    0.530262,
+    -0.00234,
+    0.722419,
+    0.231388
+   ],
+   "g": [
+    0.9658,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.01° of rotation. Depth measured deep (2.57% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10466994,
+  "source_revision_id": null,
+  "source_sha1": "79e32a027941a15217fdebbbc7ecff7d77fc3b9a"
+ },
+ {
+  "title": "Watkins Glen, from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/0/02/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Watkins_Glen,_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2643,
+  "h": 1357,
+  "id": "STA-4128",
+  "rect": "rect/4127.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.14,
+  "rot": 0.0,
+  "range": 0.75,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.0623,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.0623,
+   "L": [
+    0.381771,
+    0.0,
+    0.088281,
+    0.0,
+    0.699797,
+    0.033976
+   ],
+   "R": [
+    0.385838,
+    -0.007417,
+    0.514547,
+    0.003233,
+    0.704107,
+    0.056297
+   ],
+   "g": [
+    0.9678,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.14% vertical error and 0.0° of rotation. Depth measured gentle (0.75% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10466415,
+  "source_revision_id": null,
+  "source_sha1": "606fb090f834428c52f6152cfa039a0852853669"
+ },
+ {
+  "title": "Matchless scene, Watkins Glen",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Matchless_scene%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Matchless_scene%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/56/Matchless_scene%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Matchless_scene,_Watkins_Glen,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2655,
+  "h": 1339,
+  "id": "STA-4129",
+  "rect": "rect/4128.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.18,
+  "rot": 0.02,
+  "range": 0.58,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.8,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Matchless_scene%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Matchless_scene%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.8,
+   "L": [
+    0.39375,
+    0.0,
+    0.09401,
+    0.0,
+    0.433884,
+    0.030475
+   ],
+   "R": [
+    0.388246,
+    -0.000163,
+    0.510225,
+    -0.000935,
+    0.431779,
+    0.035863
+   ],
+   "g": [
+    1.0,
+    0.9882
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.18% vertical error and 0.02° of rotation. Depth measured gentle (0.58% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10466560,
+  "source_revision_id": null,
+  "source_sha1": "d3edeec14de0365be256b635efeda59dc5416e61"
+ },
+ {
+  "title": "Entrance, Watkins Glen, N.Y",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Entrance%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Entrance%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Entrance%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Entrance,_Watkins_Glen,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2667,
+  "h": 1369,
+  "id": "STA-4130",
+  "rect": "rect/4129.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.03,
+  "range": 1.22,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.7742,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Entrance%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Entrance%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7742,
+   "L": [
+    0.3625,
+    0.0,
+    0.10599,
+    0.0,
+    0.911765,
+    0.051217
+   ],
+   "R": [
+    0.366826,
+    -0.004527,
+    0.514836,
+    0.004541,
+    0.917977,
+    0.036242
+   ],
+   "g": [
+    0.9575,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.03° of rotation. Depth measured gentle (1.22% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "mountains"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10466682,
+  "source_revision_id": null,
+  "source_sha1": "284b5b7f0de3d1da8bd61116c71e87f3117d0b3b"
+ },
+ {
+  "title": "Watkins Glen. Artist's Dream",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Watkins_Glen._Artist%27s_Dream%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Watkins_Glen._Artist%27s_Dream%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Watkins_Glen._Artist%27s_Dream%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Watkins_Glen._Artist%27s_Dream,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2634,
+  "h": 1354,
+  "id": "STA-4131",
+  "rect": "rect/4130.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.0,
+  "range": 1.16,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 1.2391,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Watkins_Glen._Artist%27s_Dream%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Watkins_Glen._Artist%27s_Dream%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.2391,
+   "L": [
+    0.385937,
+    0.0,
+    0.080469,
+    0.0,
+    0.605876,
+    0.254813
+   ],
+   "R": [
+    0.388191,
+    -0.016285,
+    0.53422,
+    0.016154,
+    0.607471,
+    0.242882
+   ],
+   "g": [
+    1.0,
+    0.9438
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.0° of rotation. Depth measured gentle (1.16% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10466434,
+  "source_revision_id": null,
+  "source_sha1": "7851972b93c4e67851568fcd15d426047b2453db"
+ },
+ {
+  "title": "Watkins Glen, N.Y",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Watkins_Glen,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2663,
+  "h": 1659,
+  "id": "STA-4132",
+  "rect": "rect/4131.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.15,
+  "rot": 0.02,
+  "range": 1.58,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 1.1768,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 1.1768,
+   "L": [
+    0.353646,
+    0.0,
+    0.122656,
+    0.0,
+    0.482441,
+    0.213629
+   ],
+   "R": [
+    0.359532,
+    -0.006302,
+    0.535892,
+    -0.009264,
+    0.488491,
+    0.228618
+   ],
+   "g": [
+    0.9179,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.15% vertical error and 0.02° of rotation. Depth measured moderate (1.58% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10467913,
+  "source_revision_id": null,
+  "source_sha1": "cbdb9c70b9a77eb3054e3a4971f827feee694099"
+ },
+ {
+  "title": "Watkins Glen. (View of a rustic bridge.)",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Watkins_Glen._%28View_of_a_rustic_bridge.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Watkins_Glen._%28View_of_a_rustic_bridge.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Watkins_Glen._%28View_of_a_rustic_bridge.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Watkins_Glen._(View_of_a_rustic_bridge.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2655,
+  "h": 1671,
+  "id": "STA-4133",
+  "rect": "rect/4132.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.06,
+  "rot": 0.08,
+  "range": 1.76,
+  "f": 1.0,
+  "depth": "Moderate",
+  "va": 0.7515,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Watkins_Glen._%28View_of_a_rustic_bridge.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Watkins_Glen._%28View_of_a_rustic_bridge.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.7515,
+   "L": [
+    0.389062,
+    0.0,
+    0.098698,
+    0.0,
+    0.822848,
+    0.137003
+   ],
+   "R": [
+    0.384825,
+    -0.00917,
+    0.54118,
+    -0.004141,
+    0.821559,
+    0.127509
+   ],
+   "g": [
+    1.0,
+    0.8999
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.08° of rotation. Depth measured moderate (1.76% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10467809,
+  "source_revision_id": null,
+  "source_sha1": "ccdab67215e8a7351f7c7330b41033514f235b78"
+ },
+ {
+  "title": "Artist's Dream, Watkins Glen",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Artist%27s_Dream%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Artist%27s_Dream%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Artist%27s_Dream%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Artist%27s_Dream,_Watkins_Glen,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2637,
+  "h": 1342,
+  "id": "STA-4134",
+  "rect": "rect/4133.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.06,
+  "rot": 0.0,
+  "range": 0.89,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8623,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Artist%27s_Dream%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Artist%27s_Dream%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8623,
+   "L": [
+    0.397917,
+    0.0,
+    0.080469,
+    0.0,
+    0.906858,
+    0.050665
+   ],
+   "R": [
+    0.399724,
+    0.003468,
+    0.508861,
+    -0.012478,
+    0.908784,
+    0.049071
+   ],
+   "g": [
+    0.9541,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.06% vertical error and 0.0° of rotation. Depth measured gentle (0.89% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10466627,
+  "source_revision_id": null,
+  "source_sha1": "f6fa402fab30a4f327cedac45b3e0a87b039377d"
+ },
+ {
+  "title": "Watkins Glen, from Robert N. Dennis collection of stereoscopic views 7",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg/1920px-Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Watkins_Glen,_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg",
+  "license": "Public domain",
+  "w": 2655,
+  "h": 1348,
+  "id": "STA-4135",
+  "rect": "rect/4134.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.07,
+  "rot": 0.02,
+  "range": 1.12,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.864,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg/1920px-Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.864,
+   "L": [
+    0.403646,
+    0.0,
+    0.089844,
+    0.0,
+    0.92,
+    0.034359
+   ],
+   "R": [
+    0.399216,
+    -0.001332,
+    0.510055,
+    -0.004695,
+    0.914004,
+    0.044556
+   ],
+   "g": [
+    1.0,
+    0.9987
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.07% vertical error and 0.02° of rotation. Depth measured gentle (1.12% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10466648,
+  "source_revision_id": null,
+  "source_sha1": "ac4a0a1abedc76b280aee0af1e1ab88ab0174b2d"
+ },
+ {
+  "title": "Pilgrim's Rest, Watkins Glen",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Pilgrim%27s_Rest%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pilgrim%27s_Rest%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Pilgrim%27s_Rest%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Pilgrim%27s_Rest,_Watkins_Glen,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2649,
+  "h": 1351,
+  "id": "STA-4136",
+  "rect": "rect/4135.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.13,
+  "rot": 0.1,
+  "range": 1.43,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.6353,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Pilgrim%27s_Rest%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Pilgrim%27s_Rest%2C_Watkins_Glen%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.6353,
+   "L": [
+    0.225,
+    0.0,
+    0.227344,
+    0.0,
+    0.694586,
+    0.265066
+   ],
+   "R": [
+    0.219121,
+    -0.002049,
+    0.688028,
+    0.002252,
+    0.691613,
+    0.265629
+   ],
+   "g": [
+    1.0,
+    0.9819
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.13% vertical error and 0.1° of rotation. Depth measured gentle (1.43% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10467706,
+  "source_revision_id": null,
+  "source_sha1": "4190a9a63e51c74367cd60b0ef49548b3f5a1196"
+ },
+ {
+  "title": "Minnehaha falls, Watkins Glen, N.Y",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Minnehaha_falls%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Minnehaha_falls%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/5/57/Minnehaha_falls%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Minnehaha_falls,_Watkins_Glen,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2679,
+  "h": 1366,
+  "id": "STA-4137",
+  "rect": "rect/4136.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.1,
+  "rot": 0.03,
+  "range": 2.28,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.9362,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Minnehaha_falls%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Minnehaha_falls%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.9362,
+   "L": [
+    0.328646,
+    0.0,
+    0.14349,
+    0.0,
+    0.688458,
+    0.159857
+   ],
+   "R": [
+    0.327845,
+    -0.004173,
+    0.53808,
+    0.001077,
+    0.692042,
+    0.158652
+   ],
+   "g": [
+    0.9221,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.1% vertical error and 0.03° of rotation. Depth measured deep (2.28% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10466343,
+  "source_revision_id": null,
+  "source_sha1": "0d19424796268f8698bccff3c7d5cd82e9dccc82"
+ },
+ {
+  "title": "Famous gorge, Watkins Glen, N.Y",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water",
+   "mountains"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Famous_gorge%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Famous_gorge%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/22/Famous_gorge%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Famous_gorge,_Watkins_Glen,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2685,
+  "h": 1384,
+  "id": "STA-4138",
+  "rect": "rect/4137.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.12,
+  "rot": 0.02,
+  "range": 1.07,
+  "f": 1.0,
+  "depth": "Gentle",
+  "va": 0.8748,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Famous_gorge%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Famous_gorge%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8748,
+   "L": [
+    0.367708,
+    0.0,
+    0.104427,
+    0.0,
+    0.815152,
+    0.037879
+   ],
+   "R": [
+    0.371986,
+    -0.003436,
+    0.538056,
+    0.003218,
+    0.811855,
+    0.03966
+   ],
+   "g": [
+    0.9602,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.12% vertical error and 0.02° of rotation. Depth measured gentle (1.07% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water",
+   "mountains"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10466596,
+  "source_revision_id": null,
+  "source_sha1": "76a1e5d84a6734c2c6a770ebd5f8f723e0deb30e"
+ },
+ {
+  "title": "Whirlwind gorge, Watkins Glen, N.Y",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Whirlwind_gorge%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Whirlwind_gorge%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Whirlwind_gorge%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Whirlwind_gorge,_Watkins_Glen,_N.Y,_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg",
+  "license": "Public domain",
+  "w": 2652,
+  "h": 1342,
+  "id": "STA-4139",
+  "rect": "rect/4138.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.08,
+  "rot": 0.0,
+  "range": 4.21,
+  "f": 0.91,
+  "depth": "Deep",
+  "va": 0.8172,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Whirlwind_gorge%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg/1920px-Whirlwind_gorge%2C_Watkins_Glen%2C_N.Y%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.8172,
+   "L": [
+    0.381771,
+    0.0,
+    0.09974,
+    0.0,
+    0.92284,
+    0.03858
+   ],
+   "R": [
+    0.379903,
+    -0.012304,
+    0.540946,
+    0.002718,
+    0.924672,
+    0.033031
+   ],
+   "g": [
+    1.0,
+    0.9532
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.08% vertical error and 0.0° of rotation. Depth measured deep (4.21% of frame width); hung in the VR Parlor at 91% size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10466448,
+  "source_revision_id": null,
+  "source_sha1": "5d7a9dedf3913d8a34fc47e0e3dc66ec697ea342"
+ },
+ {
+  "title": "Watkins Glen. (View of a rustic bridge.), from Robert N. Dennis collection of stereoscopic views 2",
+  "place": "Watkins Glen, New York",
+  "year": "1865",
+  "sy": 1865,
+  "era": "early",
+  "cats": [
+   "water"
+  ],
+  "blurb": "",
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Watkins_Glen._%28View_of_a_rustic_bridge.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Watkins_Glen._%28View_of_a_rustic_bridge.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/66/Watkins_Glen._%28View_of_a_rustic_bridge.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source": "https://commons.wikimedia.org/wiki/File:Watkins_Glen._(View_of_a_rustic_bridge.),_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg",
+  "license": "Public domain",
+  "w": 2667,
+  "h": 1671,
+  "id": "STA-4140",
+  "rect": "rect/4139.jpg",
+  "coll": "Robert N. Dennis Collection",
+  "vert": 0.09,
+  "rot": 0.07,
+  "range": 3.61,
+  "f": 1.0,
+  "depth": "Deep",
+  "va": 0.6354,
+  "px": {
+   "s": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Watkins_Glen._%28View_of_a_rustic_bridge.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg/1920px-Watkins_Glen._%28View_of_a_rustic_bridge.%29%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "ar": 0.6354,
+   "L": [
+    0.363021,
+    0.0,
+    0.101823,
+    0.0,
+    0.911887,
+    0.048628
+   ],
+   "R": [
+    0.359841,
+    -0.009061,
+    0.540527,
+    -0.002759,
+    0.910585,
+    0.043212
+   ],
+   "g": [
+    0.9573,
+    1.0
+   ]
+  },
+  "cond": "Rectified 2026. Halves registered to 0.09% vertical error and 0.07° of rotation. Depth measured deep (3.61% of frame width); hung in the VR Parlor at full size.",
+  "repository": "New York Public Library",
+  "collection_name": "Robert N. Dennis Collection of Stereoscopic Views",
+  "publisher": null,
+  "creator": null,
+  "creator_dates": null,
+  "facets": [
+   "water"
+  ],
+  "publisher_series": null,
+  "date_edtf": "1865",
+  "date_start": 1865,
+  "date_end": 1865,
+  "rights_uri": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+  "rights_basis": "Source record marks the work public domain (Wikimedia Commons license short name: Public domain). Rights URI assigned by rule: RightsStatements.org No Copyright - United States (NoC-US).",
+  "license_url": null,
+  "source_page_id": 10467814,
+  "source_revision_id": null,
+  "source_sha1": "4a2fb6b3d5c0b0f2f8972e5f00039a6e90f29354"
  }
 ]
