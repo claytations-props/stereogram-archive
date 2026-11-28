@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4081.json",
+ "name": "Lower Saranac Lake, Adirondacks, New York",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4080.jpg",
+ "identifier": "STA-4081",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saranac Lake, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Lower_Saranac_Lake,_Adirondacks,_New_York,_from_Robert_N._Dennis_collection_of_stereoscopic_views.png"
+}

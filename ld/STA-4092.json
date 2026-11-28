@@ -1,0 +1,18 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4092.json",
+ "name": "Martin's -- Lower Saranac. (Rustic Home.), by Fay & Farmer's National Gallery",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4091.jpg",
+ "identifier": "STA-4092",
+ "creator": {
+  "@type": "Person",
+  "name": "Fay & Farmer's National Gallery"
+ },
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saranac Lake, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Martin%27s_--_Lower_Saranac._(Rustic_Home.),_by_Fay_%26_Farmer%27s_National_Gallery.jpg"
+}

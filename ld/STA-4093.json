@@ -1,0 +1,15 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4093.json",
+ "name": "Upper Saranac Lake, Bartlett's (NYPL b11708219-G91F094 097ZF)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4092.jpg",
+ "identifier": "STA-4093",
+ "dateCreated": "1870",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Saranac Lake, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Upper_Saranac_Lake,_Bartlett%27s_(NYPL_b11708219-G91F094_097ZF).tiff"
+}

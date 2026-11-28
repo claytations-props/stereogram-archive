@@ -1,0 +1,116 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://vrparlor.com/iiif/STA-4086.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Lower Saranac Lake from Upper End, by Styles, A. F. (Adin French), 1832-1910"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Styles, A. F. (Adin French)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator dates"
+    ]
+   },
+   "value": {
+    "none": [
+     "1832-1910"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "c. 1870"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Place"
+    ]
+   },
+   "value": {
+    "none": [
+     "Saranac Lake, New York"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "License"
+    ]
+   },
+   "value": {
+    "none": [
+     "Public domain"
+    ]
+   }
+  }
+ ],
+ "rights": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://vrparlor.com/records/STA-4086.json",
+   "type": "Dataset",
+   "format": "application/json"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://vrparlor.com/iiif/STA-4086/canvas/1",
+   "type": "Canvas",
+   "width": 1536,
+   "height": 850,
+   "items": [
+    {
+     "id": "https://vrparlor.com/iiif/STA-4086/annotationpage/1",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://vrparlor.com/iiif/STA-4086/annotation/1",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://archive.org/download/stereogram-archive-images/rect/4085.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 1536,
+        "height": 850,
+        "thumbnail": [
+         {
+          "id": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Lower_Saranac_Lake_from_Upper_End%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.jpg/1920px-Lower_Saranac_Lake_from_Upper_End%2C_by_Styles%2C_A._F._%28Adin_French%29%2C_1832-1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "type": "Image",
+          "format": "image/jpeg"
+         }
+        ]
+       },
+       "target": "https://vrparlor.com/iiif/STA-4086/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

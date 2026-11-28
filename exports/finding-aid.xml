@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>4073</quantity>
+    <quantity>4086</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -6786,6 +6786,86 @@
       <unittitle>Hill Side Park, water view, by Allen, A. M. (Amos M.), 1823-1907</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4077.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4081">
+     <did>
+      <unitid>STA-4081</unitid>
+      <unittitle>Lower Saranac Lake, Adirondacks, New York</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4080.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4082">
+     <did>
+      <unitid>STA-4082</unitid>
+      <unittitle>Bartlett's Upper Saranac Lake. (3990424005)</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4081.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4083">
+     <did>
+      <unitid>STA-4083</unitid>
+      <unittitle>Corey's Landing, Upper Saranac Lake, by Tousley, H. S., 1825-1895</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4082.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4084">
+     <did>
+      <unitid>STA-4084</unitid>
+      <unittitle>Sweeney's Carry, Upper Saranac Lake. (3990424123)</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4083.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4085">
+     <did>
+      <unitid>STA-4085</unitid>
+      <unittitle>Bartlett's Landing, Upper Saranac Lake, by Styles, A. F. (Adin French), 1832-1910</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4084.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4086">
+     <did>
+      <unitid>STA-4086</unitid>
+      <unittitle>Lower Saranac Lake from Upper End, by Styles, A. F. (Adin French), 1832-1910</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4085.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4087">
+     <did>
+      <unitid>STA-4087</unitid>
+      <unittitle>At Martin's, Saranac Lake, Sept. 28, 1878, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917</unittitle>
+      <unitdate normal="1878">1878</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4086.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4088">
+     <did>
+      <unitid>STA-4088</unitid>
+      <unittitle>Upper Saranac Lake, Indian Carry, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4087.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4089">
+     <did>
+      <unitid>STA-4089</unitid>
+      <unittitle>Steamboat on Lower Saranac Lake, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4088.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4091">
+     <did>
+      <unitid>STA-4091</unitid>
+      <unittitle>Martin's, Saranac Lake, from the west, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917 2</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4090.jpg"/>
      </did>
     </c>
    </c>
@@ -25604,6 +25684,30 @@
       <unittitle>Fishbach, by Allen, A. M. (Amos M.), 1823-1907</unittitle>
       <unitdate normal="1865">1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4079.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4090">
+     <did>
+      <unitid>STA-4090</unitid>
+      <unittitle>Prospect House, Upper Saranac Lake, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917</unittitle>
+      <unitdate normal="1860/1870">c. 1865</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4089.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4092">
+     <did>
+      <unitid>STA-4092</unitid>
+      <unittitle>Martin's -- Lower Saranac. (Rustic Home.), by Fay &amp; Farmer's National Gallery</unittitle>
+      <unitdate normal="1865/1875">c. 1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4091.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4093">
+     <did>
+      <unitid>STA-4093</unitid>
+      <unittitle>Upper Saranac Lake, Bartlett's (NYPL b11708219-G91F094 097ZF)</unittitle>
+      <unitdate normal="1870">1870</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4092.jpg"/>
      </did>
     </c>
    </c>
