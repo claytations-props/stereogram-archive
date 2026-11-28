@@ -1,0 +1,16 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4106.json",
+ "name": "Battle field at Ticonderoga. (See sign on the tree.)",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4105.jpg",
+ "identifier": "STA-4106",
+ "dateCreated": "1860",
+ "creditText": "New York Public Library",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Fort Ticonderoga, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Battle_field_at_Ticonderoga._(See_sign_on_the_tree.),_from_Robert_N._Dennis_collection_of_stereoscopic_views.jpg"
+}

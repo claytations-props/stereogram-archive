@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4116.json",
+ "name": "Upper Falls, Ticonderoga, N.Y, by I. D. La Barre",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4115.jpg",
+ "identifier": "STA-4116",
+ "creator": {
+  "@type": "Person",
+  "name": "I. D. La Barre"
+ },
+ "dateCreated": "1860",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Ticonderoga, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Upper_Falls,_Ticonderoga,_N.Y,_by_I._D._La_Barre.jpg"
+}

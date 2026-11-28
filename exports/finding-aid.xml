@@ -19,7 +19,7 @@
    <unittitle>The Stereograph Archive</unittitle>
    <unitid>vrparlor.com</unitid>
    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>4095</quantity>
+    <quantity>4112</quantity>
     <unittype>items</unittype>
    </physdescstructured>
   </did>
@@ -6892,6 +6892,54 @@
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4099.jpg"/>
      </did>
     </c>
+    <c level="item" id="sta-4103">
+     <did>
+      <unitid>STA-4103</unitid>
+      <unittitle>Steamboat landing at Ticonderoga</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4102.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4104">
+     <did>
+      <unitid>STA-4104</unitid>
+      <unittitle>Factory at Ticonderoga, Lake George</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4103.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4105">
+     <did>
+      <unitid>STA-4105</unitid>
+      <unittitle>Lower Falls, Ticonderoga</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4104.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4109">
+     <did>
+      <unitid>STA-4109</unitid>
+      <unittitle>Boat landing, Ticonderoga, by Kilburn Brothers</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4108.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4115">
+     <did>
+      <unitid>STA-4115</unitid>
+      <unittitle>Rapids at Ticonderoga, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4114.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4116">
+     <did>
+      <unitid>STA-4116</unitid>
+      <unittitle>Upper Falls, Ticonderoga, N.Y, by I. D. La Barre</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4115.jpg"/>
+     </did>
+    </c>
    </c>
    <c level="series" id="series-mountains">
     <did>
@@ -9463,6 +9511,14 @@
       <unittitle>Monument Mountain from north summit, Stockbridge Bowl in the distance, by Julius Hall</unittitle>
       <unitdate normal="1863">1863</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4097.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4119">
+     <did>
+      <unitid>STA-4119</unitid>
+      <unittitle>Mt. Defiance, from Ticonderoga, N.Y, by Styles, A. F. (Adin French), 1832-1910</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4118.jpg"/>
      </did>
     </c>
    </c>
@@ -26545,6 +26601,86 @@
       <unittitle>Encampment of cadets ... Po'keepsie, by Slee Bros.</unittitle>
       <unitdate normal="1860/1870">c. 1865</unitdate>
       <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/3823.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4106">
+     <did>
+      <unitid>STA-4106</unitid>
+      <unittitle>Battle field at Ticonderoga. (See sign on the tree.)</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4105.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4107">
+     <did>
+      <unitid>STA-4107</unitid>
+      <unittitle>Ruins at Fort Ticonderoga, N.Y., Officers' Quarters (exterior)</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4106.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4108">
+     <did>
+      <unitid>STA-4108</unitid>
+      <unittitle>Old Battery, Ticonderoga, by Kilburn Brothers</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4107.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4110">
+     <did>
+      <unitid>STA-4110</unitid>
+      <unittitle>Ruins of Fort Ticonderoga, by Kilburn Brothers</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4109.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4111">
+     <did>
+      <unitid>STA-4111</unitid>
+      <unittitle>Ruins of Fort Ticonderoga, by Kilburn Brothers 6</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4110.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4112">
+     <did>
+      <unitid>STA-4112</unitid>
+      <unittitle>Ruins of Fort Ticonderoga, by Kilburn Brothers 2</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4111.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4113">
+     <did>
+      <unitid>STA-4113</unitid>
+      <unittitle>Ruins of Fort Ticonderoga, by Deloss Barnum</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4112.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4114">
+     <did>
+      <unitid>STA-4114</unitid>
+      <unittitle>Fort Ticonderoga, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4113.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4117">
+     <did>
+      <unitid>STA-4117</unitid>
+      <unittitle>Interior of Officers' Quarters, Ticonderoga, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4116.jpg"/>
+     </did>
+    </c>
+    <c level="item" id="sta-4118">
+     <did>
+      <unitid>STA-4118</unitid>
+      <unittitle>Ruins of Fort Ticonderoga, N.Y, by Styles, A. F. (Adin French), 1832-1910</unittitle>
+      <unitdate normal="1860">1860</unitdate>
+      <dao daotype="derived" href="https://archive.org/download/stereogram-archive-images/rect/4117.jpg"/>
      </did>
     </c>
    </c>

@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4115.json",
+ "name": "Rapids at Ticonderoga, by Stoddard, Seneca Ray, 1844-1917 , 1844-1917",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4114.jpg",
+ "identifier": "STA-4115",
+ "creator": {
+  "@type": "Person",
+  "name": "Stoddard, Seneca Ray"
+ },
+ "dateCreated": "1860",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Ticonderoga, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Rapids_at_Ticonderoga,_by_Stoddard,_Seneca_Ray,_1844-1917_,_1844-1917.png"
+}

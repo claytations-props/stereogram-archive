@@ -1,0 +1,19 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Photograph",
+ "@id": "https://vrparlor.com/ld/STA-4108.json",
+ "name": "Old Battery, Ticonderoga, by Kilburn Brothers",
+ "contentUrl": "https://archive.org/download/stereogram-archive-images/rect/4107.jpg",
+ "identifier": "STA-4108",
+ "creator": {
+  "@type": "Person",
+  "name": "Kilburn Brothers"
+ },
+ "dateCreated": "1860",
+ "license": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+ "contentLocation": {
+  "@type": "Place",
+  "name": "Fort Ticonderoga, New York"
+ },
+ "sameAs": "https://commons.wikimedia.org/wiki/File:Old_Battery,_Ticonderoga,_by_Kilburn_Brothers.jpg"
+}
